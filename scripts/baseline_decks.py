@@ -29,7 +29,7 @@ commander_texts = cards_clean.loc[cards_clean["name"].isin(commanders["valid"]),
 card_texts = cards_clean.loc[~cards_clean["name"].isin(commanders["valid"]), ["name", "text", "tokenized"]]
 
 
-model = Word2Vec(sentences=cards_clean["text"])
+model = Word2Vec(sentences=cards_clean["tokenized"])
 
 
 results = {}
@@ -37,7 +37,6 @@ for idx, row in commander_texts.iterrows():
     scores = []
     for card_idx, card_row in card_texts.iterrows():
         scores.append((model.wv.n_similarity(row["tokenized"], card_row["tokenized"]), card_row["name"]))
-    temp = scores
     results[row["name"]] = [x[1] for x in sorted(scores)[-100:]]
 
 
