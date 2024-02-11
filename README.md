@@ -24,7 +24,7 @@ All of the necessary data for our project is in the `data` folder, but if you wo
     - Getting commander list: run `scrape_commanders.py`. Set the number of commanders to scrape with the `VALID` and `TEST` constants at the top of that file (corresponding to the number of commanders selected for validation and test set, 100 and 200 respectively by default). If you want to specify certain commanders instead of randomly selecting them, simply list these commanders in the `data/commanders.pkl` file.
     - Getting associated card lists: run `scrape_cardlists.py`. This will scrape all cardlists associated with the commanders in the commanders file, created above. This may take a while, depending on the number of commanders.
 2. Building Word2Vec baseline decks and selecting cardlist candidate pools:
-    - Run `pipeline.py`.  This will save the baseline decks and cardlist candidate pools to the `data/decks` folder.
+    - Run `pipeline.py`. This will save the baseline decks and cardlist candidate pools to the `data/decks` folder.
 3. Evaluating decks:
     - Synergy metric: run `synergy.py`. This is still in progress to fit to our deck format
     - Power Heuristic metric: TODO - FILL IN REPRODUCTION INSTRUCTIONS

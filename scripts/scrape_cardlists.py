@@ -5,58 +5,94 @@ import os
 import pickle
 import re
 import requests
+import signal
+import sys
+import time
 from tqdm import tqdm
 from unidecode import unidecode
 
 DATA_PATH = os.path.abspath(os.path.join('..','data'))
+CARDLISTS_PATH = os.path.join(DATA_PATH,'edhreclists.pkl')
 
-def format_commander_name(commander_name:str):
+def format_card_name(commander_name:str):
     non_alphas_regex = "[^\w\s-]" # Remove everything that's not alphanumeric or space or hyphen
     formatted_name = re.sub(non_alphas_regex, "", commander_name)
     formatted_name = formatted_name.lower() # Make lowercase
     formatted_name = formatted_name.replace(" ", "-")  # Replace spaces with hyphens
-    formatted_name = unidecode(formatted_name)
+    formatted_name = re.sub(r"-+", "-", formatted_name) # do not have multiple hyphens
+    formatted_name = unidecode(formatted_name) # remove diacritics
     # print(f"In format_commander_name and formatted name is {formatted_name}")
     return formatted_name
 
-def request_json(commander_name:str):
-    formatted_name = format_commander_name(commander_name)
-    json_url = f"https://json.edhrec.com/pages/commanders/{formatted_name}.json"
+def request_json(name:str, is_commander):
+    formatted_name = format_card_name(name)
+    json_url = f"https://json.edhrec.com/pages/{'commanders' if is_commander else 'cards'}/{formatted_name}.json"
     response = requests.get(json_url)
     if response.status_code == 200:
         json_data = response.json()
         # print(f"JSON request successful!")
         return json_data
     else:
-        print(f"JSON request for {commander_name} failed! Try different commander name")
+        print(f"JSON request for {name} failed! Try different card name")
 
 def main():
-    # read in commanders
-    with open(os.path.join(DATA_PATH,'commanders.pkl'), 'rb') as f:
-        commanders = pickle.load(f)
-
-    # read in previously-queried cardlists
     lists = {}
-    if os.path.isfile(os.path.join(DATA_PATH,'edhreclists.pkl')):
-        with open(os.path.join(DATA_PATH,'edhreclists.pkl'), 'rb') as f:
-            lists = pickle.load(f)
+    def cleanup (signum, frame):
+        """
+        Clean up and close results files - in case of process killed.
+        """
+        if signum:
+            print(f'Process killed on {time.asctime(time.localtime())}, with signal number {signum}.')
+        # save cards
+        with open(CARDLISTS_PATH, 'wb') as f:
+                pickle.dump(lists, f)
+        sys.exit()
+    signal.signal(signal.SIGTERM, cleanup)
+    signal.signal(signal.SIGINT, cleanup)
+    try:
+        # read in commanders
+        with open(CARDLISTS_PATH, 'rb') as f:
+            commanders = pickle.load(f)
 
-    # iterate through commanders, requesting cardlists
-    for split in commanders:
-        print(f"Processing commanders in {split} set.")
-        if split not in lists:
-            lists[split] = {}
-        unqueried = [name for name in commanders[split] if name not in lists[split]] # don't re-query commanders we already have.
-        for commander_name in tqdm(unqueried):
-            json_data = request_json(commander_name)
-            if json_data is None:
-                continue
-            cardlist = sorted(json_data['cardlist'], key=lambda card: card['num_decks'], reverse=True)
-            lists[split][commander_name] = cardlist
+        # read in previously-queried cardlists
+        if os.path.isfile(os.path.join(DATA_PATH,'edhreclists.pkl')):
+            with open(os.path.join(DATA_PATH,'edhreclists.pkl'), 'rb') as f:
+                lists = pickle.load(f)
+        if 'non_commander' not in lists:
+            lists['non_commander'] = {}
 
-    # save cardlists
-    with open(os.path.join(DATA_PATH,'edhreclists.pkl'), 'wb') as f:
-        pickle.dump(lists, f)
+        # iterate through commanders, requesting cardlists
+        for split in commanders:
+            print(f"Processing commanders in {split} set.")
+            if split not in lists:
+                lists[split] = {}
+            # unqueried = [name for name in commanders[split] if (name not in lists[split]) or (len(lists[split][name]) < 99)] # don't re-query commanders we already have.
+            for commander_name in tqdm(commanders[split]):
+                if commander_name not in lists[split]:
+                    json_data = request_json(commander_name, True)
+                    if json_data is None:
+                        continue
+                    cardlist = sorted(json_data['cardlist'], key=lambda card: card['num_decks'], reverse=True)
+                    if len(cardlist) < 99:
+                        continue
+                    lists[split][commander_name] = {'cards':{card['name']:card['num_decks'] for card in cardlist},
+                                                    'total':json_data['container']['json_dict']['card']['num_decks']}
+                time.sleep(1) # wait a second - hopefully stops rate limit
+                cardlist = lists[split][commander_name]['cards']
+                for card in tqdm(cardlist): # add non_commander cards
+                    if card['name'] not in lists['non_commander']:
+                        lists['non_commander'][commander_name] = {}
+                        card_json_data = request_json(card['sanitized'], False)
+                        if card_json_data is None:
+                            continue
+                        card_cardlist = sorted(card_json_data['cardlist'], key=lambda card: card['num_decks'], reverse=True)
+                        lists['non_commander'][card['name']] = {'cards':{card['name']:card['num_decks'] for card in card_cardlist},
+                                                                'total':card_json_data['container']['json_dict']['card']['num_decks']}
+    except Exception as e:
+        print(e)
+    finally:
+        # save cardlists
+        cleanup(None, None)
 
 if __name__ == "__main__":
     main()
