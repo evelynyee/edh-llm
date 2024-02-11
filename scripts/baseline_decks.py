@@ -5,7 +5,6 @@ LANDS = {"W": "Plains",
          "G": "Forest"}
 
 def baseline(card_texts, commander_texts, model):
-    # baseline results
     results_base_all = {}
     results_base = {}
     for idx, row in commander_texts.iterrows():
@@ -18,6 +17,7 @@ def baseline(card_texts, commander_texts, model):
         sorted_scores = sorted(scores)[::-1]
         results_base_all[row["name"]] = [x[1] for x in sorted_scores]
 
+        # 36 land per deck
         base_land = []
         base_nonland = []
         for score in sorted_scores:
@@ -38,4 +38,4 @@ def baseline(card_texts, commander_texts, model):
                 base_land.append("Wastes")
         results_base[row["name"]] = base_land + base_nonland
 
-        return results_base, results_base_all
+    return results_base, results_base_all

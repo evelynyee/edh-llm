@@ -62,5 +62,7 @@ def main():
     save_decks(results_base, BASE_PATH)
     save_decks(results_manual, MANUAL_PATH)
 
-if __name__ == "main":
+if __name__ == "__main__":
+    print("before")
     main()
+    print("after")
