@@ -63,6 +63,5 @@ def main():
     save_decks(results_manual, MANUAL_PATH)
 
 if __name__ == "__main__":
-    print("before")
     main()
-    print("after")
+    
