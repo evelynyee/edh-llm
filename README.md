@@ -32,4 +32,4 @@ All of the necessary data for our project is in the `data` folder, but if you wo
     - Run `pipeline.py`. This will save the baseline decks and cardlist candidate pools to the `data/decks` folder.
 3. Evaluating decks:
     - Synergy metric: run `synergy.py`. This is still in progress to fit to our deck format
-    - Power Heuristic metric: TODO - FILL IN REPRODUCTION INSTRUCTIONS
+    - Power Heuristic metric: import the power_calculator method and pass in filepath to deck (text file format example in `data/test_deck.txt`). After 30-40 seconds it will return an overall power rating, the average cmc (converted mana cost), the amount of card draw/advantage, and the amount of interaction cards in the deck. Example in calculator_call.ipynb
