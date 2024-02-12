@@ -49,28 +49,28 @@ def calculate_power(filepath):
 
         # Overall power
         overall = re.findall(pattern, html_source, re.DOTALL)
-        print(overall[1])
+        #print(overall[1])
 
         # CMC
         pattern = r"Average mana cost: (\d+)"
         cmc = re.search(pattern, html_source)
-        print(cmc[1])
+        #print(cmc[1])
 
         # Ramp Sources
         pattern = r"Amount of ramp: (\d+)"
         ramp = re.search(pattern, html_source)
-        print(ramp[1])
+        #print(ramp[1])
 
         # Card Advantage
         pattern = r"Amount of card advantage: (\d+)"
         card_adv = re.search(pattern, html_source)
-        print(card_adv[1])
+        #print(card_adv[1])
 
         
         # Interaction
         pattern = r"Amount of interaction: (\d+)"
         interaction = re.search(pattern, html_source)
-        print(interaction[1])
+        #print(interaction[1])
     finally:
         # Close the browser after a delay or after certain actions
         driver.quit()
