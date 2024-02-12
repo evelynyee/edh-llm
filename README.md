@@ -7,8 +7,10 @@ Mentor: Dr. Jingbo Shang
 
 ## Reproduceability
 ### Requirements:
+#### Packages:
 - requests (2.31.0)
 - beautifulsoup4 (4.12.2)
+- selenium (4.17.2)
 - os (3.8.5)
 - pickle (3.8.5)
 - numpy (1.23.4)
@@ -17,6 +19,9 @@ Mentor: Dr. Jingbo Shang
 - string (3.8.5)
 - sklearn (1.1.1)
 - gensim (4.3.2)
+
+#### Other:
+- Chrome (121.0.6167) Otherwise install appropriate version of chromedriver from https://chromedriver.chromium.org/
 
 ### Instructions
 All of the necessary data for our project is in the `data` folder, but if you would like to run it on commanders which we didn't select, you will have to follow this process. All scripts are in the `scripts` folder and can be run from the command line with `python3 <script name>.py`
