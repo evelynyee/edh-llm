@@ -7,8 +7,10 @@ Mentor: Dr. Jingbo Shang
 
 ## Reproduceability
 ### Requirements:
-- requests (2.31.0)
 - beautifulsoup4 (4.12.2)
+- pandas (2.1.1)
+- requests (2.31.0)
+- streamlit (1.28.0)
 
 ### Instructions
 All of the necessary data for our project is in the `data` folder, but if you would like to run it on commanders which we didn't select, you will have to follow this process. All scripts are in the `scripts` folder and can be run from the command line with `python3 <script name>.py`
