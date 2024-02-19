@@ -65,7 +65,6 @@ def calculate_power(filepath):
         pattern = r"Amount of card advantage: (\d+)"
         card_adv = re.search(pattern, html_source)
         #print(card_adv[1])
-
         
         # Interaction
         pattern = r"Amount of interaction: (\d+)"
@@ -74,7 +73,7 @@ def calculate_power(filepath):
     finally:
         # Close the browser after a delay or after certain actions
         driver.quit()
-        return(overall[1],cmc[1], card_adv[1], interaction[1])
+        return(overall[1], cmc[1], ramp[1], card_adv[1], interaction[1])
 
 
 
