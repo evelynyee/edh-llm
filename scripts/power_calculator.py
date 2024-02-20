@@ -33,7 +33,7 @@ def calculate_power(filepath):
 
         # Send the file path to the input element
         #file_input.send_keys('C:/Users/theod/edh-llm/data/test_deck.txt')
-        file_input.send_keys(os.path.abspath("../data/test_deck.txt")) #TO BE REPLACED BY FILEPATH
+        file_input.send_keys(os.path.abspath(filepath)) #TO BE REPLACED BY FILEPATH
         #print('sent file!')
         button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Import')]"))
@@ -65,7 +65,6 @@ def calculate_power(filepath):
         pattern = r"Amount of card advantage: (\d+)"
         card_adv = re.search(pattern, html_source)
         #print(card_adv[1])
-
         
         # Interaction
         pattern = r"Amount of interaction: (\d+)"
@@ -74,7 +73,7 @@ def calculate_power(filepath):
     finally:
         # Close the browser after a delay or after certain actions
         driver.quit()
-        return(overall[1],cmc[1], card_adv[1], interaction[1])
+        return({'overall':overall[1], 'cmc':cmc[1], 'ramp':ramp[1], 'draw':card_adv[1], 'interaction':interaction[1]})
 
 
 
