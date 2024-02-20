@@ -12,7 +12,7 @@ def baseline(card_texts, commander_texts, model):
         for card_idx, card_row in card_texts.iterrows():
             # null-color cards can go into any deck
             # null-color commanders can only take null-color cards
-            if (not isinstance(card_row["color"], list)) or ((isinstance(row["color"], list)) and (any([x in card_row["color"] for x in row["color"]]))):
+            if (not isinstance(card_row["color"], list)) or ((isinstance(row["color"], list)) and (all([x in card_row["color"] for x in row["color"]]))):
                 scores.append((model.wv.n_similarity(row["tokenized"], card_row["tokenized"]), card_row["name"], card_row["type"]))
         sorted_scores = sorted(scores)[::-1]
         results_base_all[row["name"]] = [x[1] for x in sorted_scores]
