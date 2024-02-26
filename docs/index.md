@@ -34,12 +34,16 @@ We evaluate our pipeline against three alternative methods for building EDH Deck
 - **Basic Prompt Baseline:** TODO: DESCRIPTION
 
 ### Synergy
+![Synergy Formula](synergy-formula.png)
+
 We estimate the synergy between a pair of cards through a Bayesian probability measure, based on card co-occurrence in decklist data from EDHRec.1 For each deck, we record the average synergy over all pairs of non-basic cards as well as the Commander synergy between each non-commander card and the commander.
 
 ![INSERT SYNERGY RESULTS TABLES/GRAPHS]()
 
 ### Power Level
-We use [Disciple of the Vault's Power Heuristic](discipleofthevault.com/2020/11/18/my-edh-power-level-formula/) for evaluating the power level of an EDH deck based on the distribution of functional card types during gameplay. A powerful deck should have a balance of card draw, interaction, and speed for a low cost.
+![Power Level Formula](power-formula.png)
+
+We use [an online EDH deck power calculator](https://edhpowercalculator.com/) for evaluating the power level of an EDH deck based on the distribution of functional card types during gameplay. A powerful deck should have a balance of card draw, interaction, and speed for a low cost. The original formula was created by the blogger [Disciple of the Vault](discipleofthevault.com/2020/11/18/my-edh-power-level-formula/).
 
 ![INSERT POWER RESULTS TABLES/GRAPHS]()
 
