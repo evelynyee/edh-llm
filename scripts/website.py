@@ -31,26 +31,27 @@ def clean_text (text): # format text for compatible with markdown
 def dataset_selector():
     # TODO: UPDATE THIS
     # Dataset selector
-    datasets = [dataset for dataset in os.listdir(RESULTS_PATH)
-                if len(os.listdir(os.path.join(RESULTS_PATH,dataset)))>0] # don't list empty datasets
-    st.sidebar.selectbox(
-            "Choose a dataset",
-            datasets,
-            key='dataset general'
-        )
-    files = [file for file in os.listdir(os.path.join(RESULTS_PATH,st.session_state['dataset general']))
-             if 'summary' not in file
-             and 'adjusted' in file
-             and 'annotation' not in file
-             and file[-3:] == 'csv']
+    # datasets = [dataset for dataset in os.listdir(RESULTS_PATH)
+    #             if 'zip' not in dataset
+    #             and len(os.listdir(os.path.join(RESULTS_PATH,dataset)))>0] # don't list empty datasets
+    # st.sidebar.selectbox(
+    #         "Choose a dataset",
+    #         datasets,
+    #         key='dataset general'
+    #     )
+    files = [file for file in os.listdir(os.path.join(RESULTS_PATH))
+            #  if 'summary' not in file
+            #  and 'adjusted' in file
+            #  and 'annotation' not in file
+            #  and file[-3:] == 'csv'
+             ]
     st.sidebar.selectbox(
             "Choose a data file",
             files,
             key='dataset name',
-            on_change=new_dataset #get_question_idx,
             # kwargs={'annotations_path':os.path.join(RESULTS_PATH,st.session_state['dataset general'],'_annotations.'.join(st.session_state['dataset name'].split('.'))),'new_dataset':True}
         )
-    data_path = os.path.join(RESULTS_PATH,st.session_state['dataset general'],st.session_state['dataset name'])
+    data_path = os.path.join(RESULTS_PATH,st.session_state['dataset name'])
     return data_path
 
 def dashboard_page():
