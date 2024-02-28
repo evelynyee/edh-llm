@@ -10,6 +10,7 @@ from gensim.models import Word2Vec
 
 from baseline_decks import baseline
 from manual_decks import manual
+from selection import build_deck
 from scrape_cardlists import DATA_PATH
 
 CARDS_PATH = os.path.join(DATA_PATH, "cards_unique.pkl")
@@ -48,6 +49,10 @@ def train_model(cards_clean):
 def save_decks(results_df, fp):
     pd.DataFrame(results_df).to_pickle(fp)
 
+def build_decks(commander_texts):
+    for commander in commander_texts["name"]:
+        build_deck(commander)
+
 
 def main():
     cards = load_data(CARDS_PATH)
@@ -62,6 +67,9 @@ def main():
     save_decks(results_base, BASE_PATH)
     save_decks(results_manual, MANUAL_PATH)
 
+    # build_decks(commander_texts)
+
+    # TODO evaluate decks
+
 if __name__ == "__main__":
     main()
-    
