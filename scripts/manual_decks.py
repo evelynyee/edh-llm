@@ -9,7 +9,7 @@ def manual(card_texts, commander_texts, model, results_base_all):
         for card_idx, card_row in card_texts.iterrows():
             # null-color cards can go into any deck
             # null-color commanders can only take null-color cards
-            if (not isinstance(card_row["color"], list)) or ((isinstance(row["color"], list)) and (all([x in card_row["color"] for x in row["color"]]))):
+            if (not isinstance(card_row["color"], list)) or ((isinstance(row["color"], list)) and (all([x in row["color"] for x in card_row["color"]]))):
                 # TODO add more manual features
                 commander_embedding = [[row["textLength"]]]
                 card_embedding = [[card_row["textLength"]]]
@@ -27,6 +27,9 @@ def manual(card_texts, commander_texts, model, results_base_all):
     for key, vals in results_base_all.items():
         results_index = []
         for val in vals:
+            a = results_base_all[key].index(val)
+            b = results_manual_all[key].index(val)
+            c = results_manual_keywords_all[key].index(val)
             index_sum = results_base_all[key].index(val) + results_manual_all[key].index(val) + results_manual_keywords_all[key].index(val)
             results_index.append((index_sum, val))
         results_manual[key] = [x[1] for x in sorted(results_index)[:500]]
