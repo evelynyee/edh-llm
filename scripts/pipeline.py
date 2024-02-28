@@ -67,7 +67,7 @@ def main():
     save_decks(results_base, BASE_PATH)
     save_decks(results_manual, MANUAL_PATH)
 
-    # build_decks(commander_texts)
+    build_decks(commander_texts)
 
     # TODO evaluate decks
 
