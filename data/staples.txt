@@ -1,0 +1,300 @@
+Sol Ring
+Arcane Signet
+Swords to Plowshares
+Cultivate
+Counterspell
+Beast Within
+Path to Exile
+Rampant Growth
+Kodama's Reach
+Blasphemous Act
+Farseek
+Chaos Warp
+Dimir Signet
+Rakdos Signet
+Nature's Lore
+Izzet Signet
+Cyclonic Rift
+Orzhov Signet
+Talisman of Dominance
+Rhystic Study
+Heroic Intervention
+Azorius Signet
+Swiftfoot Boots
+Talisman of Creativity
+Assassin's Trophy
+Boros Charm
+Generous Gift
+Boros Signet
+Smothering Tithe
+Birds of Paradise
+Lightning Greaves
+Ignoble Hierarch
+Three Visits
+Demonic Tutor
+Anguished Unmaking
+Brainstorm
+Rhythm of the Wild
+Talisman of Indulgence
+Talisman of Hierarchy
+Negate
+Eternal Witness
+Llanowar Elves
+Dovin's Veto
+Growth Spiral
+Terminate
+Esper Sentinel
+Dark Ritual
+Fellwar Stone
+Sakura-Tribe Elder
+Talisman of Conviction
+Teferi's Protection
+Vampiric Tutor
+Talisman of Progress
+Arcane Denial
+Elvish Mystic
+Mind Stone
+Despark
+Mystic Remora
+Enlightened Tutor
+Feed the Swarm
+Damn
+Jeska's Will
+Ruinous Ultimatum
+An Offer You Can't Refuse
+Faithless Looting
+Vandalblast
+Fierce Guardianship
+Commander's Sphere
+Temur Ascendancy
+Dockside Extortionist
+Swan Song
+Avacyn's Pilgrim
+Noble Hierarch
+Putrefy
+Mirari's Wake
+Simic Signet
+Mystical Tutor
+Toxic Deluge
+Fyndhorn Elves
+Mana Drain
+Bedevil
+Thought Vessel
+Deflecting Swat
+Solemn Simulacrum
+Void Rend
+Supreme Verdict
+Rakdos Charm
+Worldly Tutor
+Return of the Wildspeaker
+Ponder
+Eerie Ultimatum
+Phyrexian Arena
+Windfall
+Reanimate
+Garruk's Uprising
+Sylvan Library
+Reclamation Sage
+Goblin Anarchomancer
+Baleful Strix
+Golgari Signet
+Gruul Signet
+Beast Whisperer
+Eladamri's Call
+Mortify
+Elves of Deep Shadow
+Skullclamp
+Deathrite Shaman
+Farewell
+Austere Command
+Sun Titan
+Faeburrow Elder
+Ghostly Prison
+Preordain
+Timeless Lotus
+Blood Artist
+Nature's Claim
+Whirlwind of Thought
+Frantic Search
+Pongify
+Victimize
+Mana Crypt
+Tatyova, Benthic Druid
+Wayfarer's Bauble
+Morophon, the Boundless
+Thrill of Possibility
+Wild Growth
+Abrade
+Force of Will
+Zulaport Cutthroat
+Rishkar's Expertise
+Abrupt Decay
+Propaganda
+Viscera Seer
+Shamanic Revelation
+Harrow
+Bolas's Citadel
+Etali, Primal Storm
+Avenger of Zendikar
+Aura Shards
+Bala Ged Recovery
+Village Rites
+Sign in Blood
+Skyshroud Claim
+Culling Ritual
+Talisman of Curiosity
+The Great Henge
+Tireless Provisioner
+Selesnya Signet
+Krosan Grip
+Lightning Bolt
+Crop Rotation
+Deadly Dispute
+Harmonize
+Gamble
+Moldervine Reclamation
+Mayhem Devil
+Reality Shift
+Animate Dead
+Dauthi Voidwalker
+Gray Merchant of Asphodel
+Deadly Rollick
+Opt
+Sterling Grove
+Goblin Electromancer
+Talisman of Resilience
+Scute Swarm
+Akroma's Will
+Chromatic Lantern
+Rapid Hybridization
+Night's Whisper
+Anointed Procession
+Force of Negation
+Storm-Kiln Artist
+Damnation
+Elas il-Kor, Sadistic Pilgrim
+Crackling Doom
+Maelstrom Nexus
+Seedborn Muse
+Coiling Oracle
+Read the Bones
+Malakir Rebirth
+Notion Thief
+Esika, God of the Tree
+Utter End
+Zacama, Primal Calamity
+Wear // Tear
+Villainous Wealth
+Flawless Maneuver
+Diabolic Intent
+Cruel Celebrant
+Syr Konrad, the Grim
+Fracture
+Sisay, Weatherlight Captain
+Explore
+Niv-Mizzet, Parun
+Guardian Project
+Doubling Season
+Fact or Fiction
+Black Market Connections
+Bloom Tender
+Impact Tremors
+Wood Elves
+Ramos, Dragon Engine
+Finale of Devastation
+Naya Charm
+Grand Abolisher
+Professional Face-Breaker
+Shalai, Voice of Plenty
+Infernal Grasp
+Opposition Agent
+Exploration
+Decimate
+Vindicate
+Big Score
+Archmage Emeritus
+Ashnod's Altar
+Brokers Ascendancy
+Pact of Negation
+Arbor Elf
+Aurelia, the Warleader
+Sythis, Harvest's Hand
+Fist of Suns
+Thassa's Oracle
+Drannith Magistrate
+Dryad of the Ilysian Grove
+Spark Double
+Mother of Runes
+Champion of Lambholt
+Time Wipe
+Tiamat
+Hardened Scales
+The Kami War
+Return to Nature
+Wrath of God
+Kenrith's Transformation
+Valakut Awakening
+Sliver Hivelord
+Jeweled Lotus
+Jegantha, the Wellspring
+Evolution Sage
+Two-Headed Hellkite
+Unbreakable Formation
+Mana Geyser
+Sanctum of All
+Lotus Cobra
+Felidar Retreat
+Entomb
+Jetmir, Nexus of Revels
+Toski, Bearer of Secrets
+Green Sun's Zenith
+Azusa, Lost but Seeking
+Veil of Summer
+Diabolic Tutor
+Genesis Ultimatum
+Parallel Lives
+Rampaging Baloths
+Pitiless Plunderer
+Utopia Sprawl
+Etali, Primal Conqueror
+Mulldrifter
+Goblin Bombardment
+Surrak Dragonclaw
+Drown in the Loch
+Ramunap Excavator
+Red Elemental Blast
+Cathars' Crusade
+Ragavan, Nimble Pilferer
+Inspiring Call
+Imperial Recruiter
+Knight of the White Orchid
+Kindred Discovery
+Jukai Naturalist
+Maelstrom Wanderer
+Golgari Charm
+Elesh Norn, Grand Cenobite
+Sliver Legion
+Silence
+Mentor of the Meek
+Hullbreaker Horror
+Gitaxian Probe
+Talisman of Unity
+Chrome Mox
+Jeskai Ascendancy
+Sevinne's Reclamation
+Land Tax
+Craterhoof Behemoth
+Atarka, World Render
+Oko, Thief of Crowns
+Mana Vault
+Kambal, Consul of Allocation
+Archivist of Oghma
+Flusterstorm
+Tamiyo's Safekeeping
+Blind Obedience
+Pyroblast
+Narset, Parter of Veils
+Go for the Throat
+Unexpected Windfall
+Talisman of Impulse
+Underworld Breach

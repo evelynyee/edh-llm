@@ -17,10 +17,10 @@ def build_deck(commander):
     cur_power = 0
     client = OpenAI()
     start_time = time.time()
-    with open(os.path.abspath("../data/temp_deck.txt"), "a+") as file:
+    with open(os.path.abspath('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt'), "a+") as file:
         file.write("1 " + cmdr + "\n")
         file.seek(0)
-        while len(file.readlines()) <= 100:
+        while len(file.readlines()) <= 63:
             file.seek(0)
             cur_deck = file.readlines()
             print(cur_deck)
@@ -46,10 +46,11 @@ def build_deck(commander):
                     print('failed to find ' + card)
             file.seek(0)
             if len(file.readlines()) > 6:
-                cur_power = calculate_power('data/temp_deck.txt')
+                cur_power = calculate_power('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
             print('Time Elapsed: ' + str(time.time()-start_time))
-            print('Adding: ' + picked)
+            print('Adding: ' + completion.choices[0].message.content)
             print(cur_power)
             file.seek(0)
 
-    os.rename('data/temp_deck.txt', 'data/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
+        file.write(str(cur_power))
+()
