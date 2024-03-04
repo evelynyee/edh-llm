@@ -3,6 +3,7 @@
 ## Theodore Hui, Linus Lin, and Evelyn Yee
 DSC 180 - Section B15 Group 2
 Mentor: Dr. Jingbo Shang
+[View our website](evelynyee.github.io/edh-llm)
 
 
 ## Reproduceability
