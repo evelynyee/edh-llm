@@ -10,12 +10,16 @@ from gensim.models import Word2Vec
 
 from baseline_decks import baseline
 from manual_decks import manual
+from selection import build_deck
+from power_calculator import calculate_power
 from scrape_cardlists import DATA_PATH
 
 CARDS_PATH = os.path.join(DATA_PATH, "cards_unique.pkl")
 COMMANDERS_PATH = os.path.join(DATA_PATH, "commanders.pkl")
 BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
+BUILT_PATH = os.path.join(DATA_PATH, "built")
+POWER_PATH = os.path.join(BUILT_PATH, "power")
 
 def load_data(fp):
     with open(fp, "rb") as f:
@@ -46,7 +50,16 @@ def train_model(cards_clean):
     return Word2Vec(sentences=cards_clean["tokenized"])
 
 def save_decks(results_df, fp):
-    pd.DataFrame(results_df).to_pickle(fp)
+    pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
+
+def build_decks(commander_texts):
+    for commander in commander_texts["name"]:
+        build_deck(commander)
+
+def evaluate_decks(commander_texts):
+    for commander in commander_texts["name"]:
+        cmdr_f = "".join(x for x in commander if x.isalnum()) + ".txt"
+        pickle.dump(calculate_power(os.path.join(BUILT_PATH, cmdr_f)), os.path.join(POWER_PATH, cmdr_f))
 
 
 def main():
@@ -55,13 +68,16 @@ def main():
 
     cards_clean, commander_texts, card_texts = clean_data(cards, commanders)
     
-    model = train_model(cards_clean)
+    #model = train_model(cards_clean)
 
-    results_base, results_base_all = baseline(card_texts, commander_texts, model)
-    results_manual = manual(card_texts, commander_texts, model, results_base_all)
-    save_decks(results_base, BASE_PATH)
-    save_decks(results_manual, MANUAL_PATH)
+    #results_base, results_base_all = baseline(card_texts, commander_texts, model)
+    #results_manual = manual(card_texts, commander_texts, model, results_base_all)
+    #save_decks(results_base, BASE_PATH)
+    #save_decks(results_manual, MANUAL_PATH)
+
+    build_decks(commander_texts)
+
+    evaluate_decks(commander_texts)
 
 if __name__ == "__main__":
     main()
-    

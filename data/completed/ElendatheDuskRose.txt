@@ -1,0 +1,78 @@
+1 Elenda, the Dusk Rose
+1 Wand of Orcus
+1 Teysa, Orzhov Scion
+1 Tivash, Gloom Summoner
+1 Tymaret Calls the Dead
+1 Treacherous Vampire
+1 Yoke of the Damned
+1 Vengeance
+1 Unholy Indenture
+1 Voracious Null
+1 Vito's Inquisitor
+1 Thornwatch Scarecrow
+1 Thopter Squadron
+1 Stormfront Riders
+1 Vraska's Conquistador
+1 Vengeful Dead
+1 Vitality Hunter
+1 Triskelion
+1 Umbral Juke
+1 Vraska's Fall
+1 Elenda, the Dusk Rose
+1 The General
+1 Umezawa's Jitte
+1 Sliver Queen, Brood Mother
+1 Zur, Eternal Schemer
+1 Sphinx-Bone Wand
+1 Elenda, the Dusk Rose
+1 Widespread Thieving
+1 Regal Bloodlord
+1 Tormod's Crypt
+1 Sphinx-Bone Wand
+1 Spectrox Mines
+1 Walking Ballista
+1 Sliver Legion
+1 Vesuva
+1 Zur the Enchanter
+1 Voodoo Doll
+1 Steel Overseer
+1 Sword of Fire and Ice
+1 Sorin, Grim Nemesis
+1 Ugin, the Spirit Dragon
+1 Wondrous Crucible
+1 Sylvok Lifestaff
+1 Sword of the Meek
+1 Sliver Queen
+1 Zurgo Helmsmasher
+1 Zur, Eternal Schemer
+1 Slagwurm Armor
+1 Vedalken Shackles
+1 Stoneforge Masterwork
+1 Stensia
+1 Unraveling Mummy
+1 Urza's Chalice
+1 Teysa, Orzhov Scion Avatar
+1 Witch's Oven
+1 True-Faith Censer
+1 Sword of Kaldra
+1 Vial of Dragonfire
+1 Rasaad, Shadow Monk
+1 Will-Forged Golem
+1 Time Bomb
+1 The Great Aerie
+1 Vishgraz, the Doomhive
+1 Wernog, Rider's Chaplain
+1 Shard of Broken Glass
+1 Volrath's Laboratory
+1 Sunbird Standard // Sunbird Effigy
+{'overall': '3.17', 'cmc': '3', 'ramp': '1', 'draw': '7', 'interaction': '10'}1 Elenda, the Dusk Rose
+01 Elenda, the Dusk Rose
+01 Elenda, the Dusk Rose
+01 Wernog, Rider's Chaplain
+1 Triskelion
+1 Tevesh Szat, Doom of Fools
+1 Zanikev Locust
+1 Teysa, Orzhov Scion
+1 Stormfront Riders
+1 Thraben Doomsayer
+1 Unified Strike

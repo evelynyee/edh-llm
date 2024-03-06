@@ -1,0 +1,65 @@
+1 Kefnet the Mindful
+1 Ugin, the Spirit Dragon
+1 Thalakos Scout
+1 Mana Crypt
+1 Urza's Tome
+1 Venser, Shaper Savant
+1 Vedalken Aethermage
+1 Venser's Journal
+1 Fellwar Stone
+1 Treasure Cruise
+1 Counterspell
+1 Witness the Future
+1 Teferi, Timeless Voyager
+1 Sol Ring
+1 Trash Bin
+1 Stormwatch Eagle
+1 Talion's Messenger
+1 Thassa, Deep-Dwelling
+1 Triassic Egg
+1 Spectral Deluge
+1 Teferi, Master of Time
+1 Winds of Rebuke
+1 Whispers of the Muse
+1 Teferi, Temporal Pilgrim
+1 Snap
+1 Thought Vessel
+1 Mana Vault
+1 Vanishment
+1 Whirlwind Denial
+1 Vizier of Many Faces
+1 Winged Words
+1 Sphinx of Jwar Isle
+1 Wormfang Behemoth
+1 Thought-Knot Seer
+1 Spellweaver Duo
+1 Teferi's Tutelage
+1 Time Elemental
+1 Vertigo Spawn
+1 World-Bottling Kit
+1 Storm Sculptor
+1 Viscerid Deepwalker
+1 Wall of Stolen Identity
+1 Arcane Signet
+1 Temporal Mastery
+1 Voyager Staff
+1 Wizard's Rockets
+1 Ward of Bones
+1 Winter's Rest
+1 Unlucky Drop
+1 The Grand Tour
+1 Twitch
+1 Walker of Secret Ways
+1 Void Stalker
+1 Tezzeret, Betrayer of Flesh
+1 Voidwielder
+1 Witching Well
+1 Traxos, Scourge of Kroog
+1 Unesh, Criosphinx Sovereign
+1 The Immortal Sun
+1 The Underworld Cookbook
+1 Spell Shrivel
+1 Soratami Rainshaper
+1 Vapor Snare
+1 Tragic Lesson
+{'overall': '11.70', 'cmc': '4', 'ramp': '6', 'draw': '33', 'interaction': '19'}

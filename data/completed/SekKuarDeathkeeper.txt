@@ -1,0 +1,65 @@
+1 Sek'Kuar, Deathkeeper
+1 Titania, Protector of Argoth
+1 Zendikar Resurgent
+1 Vastwood Animist
+1 Wurmcoil Engine
+1 Sylvan Offering
+1 Diabolic Tutor
+1 Yawgmoth's Vile Offering
+1 Vraska, Relic Seeker
+1 Warstorm Surge
+1 Damnation
+1 Vengeant Earth
+1 Wildgrowth Walker
+1 Waker of the Wilds
+1 Utopia Mycon
+1 Yorvo, Lord of Garenbrig
+1 Umbral Juke
+1 Woodwraith Corrupter
+1 Willow Priestess
+1 Woe Strider
+1 Vulshok Splitter
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Vraska's Conquistador
+1 Ulvenwald Bear
+1 Vraska, Regal Gorgon
+1 Wolfcaller's Howl
+1 Verdant Sun's Avatar
+1 Vampirism
+1 Zulaport Cutthroat
+1 Vizier of the Scorpion
+1 Waste Management
+1 Viral Spawning
+1 Wickerwing Effigy
+1 Vhati il-Dal
+1 Vengeful Vampire
+1 Demonic Tutor
+1 Birds of Paradise
+1 Sol Ring
+1 Llanowar Elves
+1 Verdant Command
+1 Volcanic Dragon
+1 Tyranid Invasion
+1 Yavimaya Sapherd
+1 Vampire Socialite
+1 Blood Artist
+1 Zurzoth, Chaos Rider
+1 Tomb of Urami
+1 Yotian Soldier
+1 Zombie Assassin
+1 Their Number Is Legion
+1 Warlord's Axe
+1 Waiting in the Weeds
+1 Whip Silk
+1 Wreath of Geists
+1 Unerring Sling
+1 Tangleweave Armor
+1 Witch's Mark
+1 Wedding Invitation
+1 Woolly Spider
+1 Xantcha
+1 Tireless Tracker
+1 Dark Ritual
+1 Unholy Indenture
+1 Tempting Contract
+{'overall': '5.57', 'cmc': '3', 'ramp': '5', 'draw': '11', 'interaction': '8'}

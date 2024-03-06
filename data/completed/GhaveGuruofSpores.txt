@@ -1,0 +1,72 @@
+1 Ghave, Guru of Spores
+1 Widespread Thieving
+1 The Immortal Sun
+1 Ugin, the Spirit Dragon
+1 Stonehewer Giant Avatar
+1 Tamiyo's Journal
+1 Wondrous Crucible
+1 Vial of Poison
+1 Staff of the Sun Magus
+1 Slagstone Refinery
+1 Welding Jar
+1 Voracious Vacuum
+1 Vedalken Shackles
+1 Thornbite Staff
+1 Sliver Queen
+1 Suncrusher
+1 Skullclamp
+1 Urza's Mine
+1 Vial of Dragonfire
+1 Sliver Legion
+1 Walking Ballista
+1 Vesuva
+1 Sliver Hive
+1 Weatherlight Compleated
+1 Tower of Calamities
+1 Rofellos
+1 Shrine of Loyal Legions
+1 Spectrox Mines
+1 Sword of Hearth and Home
+1 Sphinx-Bone Wand
+1 Trailblazer's Torch
+1 Umezawa's Jitte
+1 Wurmcoil Engine
+1 Sphere of the Suns
+1 Scrap Trawler
+1 Ugin, the Ineffable
+1 Voodoo Doll
+1 Steel Overseer
+1 Sword of the Meek
+1 Will-Forged Golem
+1 The Fourth Sphere
+1 Time Bomb
+1 Threefold Thunderhulk
+1 Thran War Machine
+1 Sylvok Lifestaff
+1 War Room
+1 Warden of the Wall
+1 Sword of the Animist
+1 Retrofitter Foundry
+1 The Great Aerie
+1 Spinning Wheel
+1 Sisters of Stone Death Avatar
+1 The Dead Shall Serve
+1 Zephyr Boots
+1 The World Tree
+1 Tooth of Chiss-Goria
+1 Scytheclaw
+1 Witch's Oven
+1 Throne of Geth
+1 Riptide Replicator
+1 Skyclave Relic
+1 Shield Sphere
+1 Whalebone Glider
+1 The Cheetah Planet
+1 War Chariot
+1 Rukarumel, Biologist
+1 Thran Quarry
+1 Waste Land
+{'overall': '6.67', 'cmc': '3', 'ramp': '4', 'draw': '16', 'interaction': '10'}1 Ghave, Guru of Spores
+01 Ghave, Guru of Spores
+01 Ghave, Guru of Spores
+0

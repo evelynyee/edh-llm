@@ -1,0 +1,65 @@
+1 Krav, the Unredeemed
+1 Stain the Mind
+1 Vampiric Tutor
+1 Tainted Pact
+1 Unmask
+1 Thoughtseize
+1 Fellwar Stone
+1 Commander's Sphere
+1 Mana Vault
+1 Arcane Signet
+1 Urza's Tome
+1 Thought-Knot Seer
+1 Varragoth, Bloodsky Sire
+1 Vengeful Vampire
+1 Virtus's Maneuver
+1 Vindictive Lich
+1 Stir the Grave
+1 Demonic Tutor
+1 Mana Crypt
+1 Sorin, Imperious Bloodlord
+1 Toxic Deluge
+1 Sorin the Mirthless
+1 Vraska's Contempt
+1 Tevesh Szat, Doom of Fools
+1 Vexing Puzzlebox
+1 Spoils of War
+1 Tormod's Crypt
+1 Vessel of Endless Rest
+1 Talara's Bane
+1 Wretched Banquet
+1 Weight Advantage
+1 Trash Bin
+1 Whisper Squad
+1 War of the Spark
+1 Tablet of Epityr
+1 Shrine of Piercing Vision
+1 Sword of Hearth and Home
+1 Vraska, Betrayal's Sting
+1 Urborg Justice
+1 Viscera Seer
+1 Yawgmoth's Bargain
+1 Go for the Throat
+1 Tendrils of Corruption
+1 Ugin, the Spirit Dragon
+1 Damnation
+1 Wasteland Strangler
+1 Vampiric Rites
+1 Wretched Anurid
+1 Witch of the Moors
+1 Whispersteel Dagger
+1 Tetzimoc, Primal Death
+1 Treacherous Pit-Dweller
+1 Treacherous Vampire
+1 To the Slaughter
+1 Tomb Tyrant
+1 Triangle of War
+1 Voyager Staff
+1 Undercity Plague
+1 Voracious Vacuum
+1 Sword of Forge and Frontier
+1 Unmarked Grave
+1 Tainted Adversary
+1 Vexing Arcanix
+1 Volrath's Stronghold
+{'overall': '10.52', 'cmc': '3', 'ramp': '4', 'draw': '20', 'interaction': '17'}
