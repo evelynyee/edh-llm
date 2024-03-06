@@ -1,0 +1,68 @@
+1 Kambal, Consul of Allocation
+1 Widespread Thieving
+1 Vial of Dragonfire
+1 Rug of Smothering
+1 Zur the Enchanter
+1 Rumbling Slum Avatar
+1 War Room
+1 Ugin, the Spirit Dragon
+1 Vedalken Shackles
+1 Sword of Feast and Famine
+1 Syr Gwyn, Hero of Ashvale
+1 Tormod's Cryptkeeper
+1 Sword of Light and Shadow
+1 Whispersilk Cloak
+1 Zephyr Boots
+1 Vindicate
+1 Shrieking Grotesque
+1 Sorin, Vengeful Bloodlord
+1 Tormod's Crypt
+1 Spiked Pit Trap
+1 Wandering Mage
+1 Whetstone
+1 Scalding Tongs
+1 Vishgraz, the Doomhive
+1 Serra Angel Avatar
+1 Staff of Domination
+1 Wondrous Crucible
+1 Triskelavus
+1 Tazri, Stalwart Survivor
+1 Voodoo Doll
+1 Well of Knowledge
+1 Syr Cadian, Knight Owl
+1 Wandering Archaic // Explore the Vastlands
+1 Vial of Poison
+1 Vito, Fanatic of Aclazotz
+1 Relic Vial
+1 Void Mirror
+1 Tawnos's Wand
+1 Will-Forged Golem
+1 Thran War Machine
+1 War Chariot
+1 Zurgo Helmsmasher
+1 Thran Tome
+1 Scholar of Athreos
+1 Thundersteel Colossus
+1 Sword of Body and Mind
+1 Tower of Eons
+1 Scroll of Avacyn
+1 Sword of Fire and Ice
+1 Staff of Nin
+1 Veilstone Amulet
+1 Water Gun Balloon Game
+1 Tivit, Seller of Secrets
+1 Treasure Keeper
+1 Zur, Eternal Schemer
+1 Ugin's Mastery
+1 Wurm's Tooth
+1 Tamiyo's Journal
+1 Ulamog, the Ceaseless Hunger
+1 Void Rend
+1 The Great Aerie
+1 The Cheetah Planet
+1 Tome of the Guildpact
+1 Surrender Your Thoughts
+{'overall': '8.32', 'cmc': '3', 'ramp': '0', 'draw': '29', 'interaction': '8'}1 Kambal, Consul of Allocation
+01 Kambal, Consul of Allocation
+01 Kambal, Consul of Allocation
+0

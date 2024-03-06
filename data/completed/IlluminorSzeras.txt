@@ -1,0 +1,66 @@
+1 Illuminor Szeras
+1 Demonic Tutor
+1 Arcane Signet
+1 Mana Crypt
+1 Sol Ring
+1 Strip Mine
+1 Tivash, Gloom Summoner
+1 Vilis, Broker of Blood
+1 Vraska's Contempt
+1 Zombie Apocalypse
+1 Voracious Fell Beast
+1 Wayfarer's Bauble
+1 Urza's Power Plant
+1 Viridian Longbow
+1 Fellwar Stone
+1 Tevesh Szat, Doom of Fools
+1 Tymaret Calls the Dead
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Vito's Inquisitor
+1 Urza's Saga
+1 Wolfhunter's Quiver
+1 Wondrous Crucible
+1 Vicious Betrayal
+1 Sorin the Mirthless
+1 Skullport Merchant
+1 Terisiare's Devastation
+1 Tomb of Urami
+1 Unearth
+1 Vicious Hunger
+1 Zombify
+1 Tormented Thoughts
+1 Tormod's Cryptkeeper
+1 Thrull Parasite
+1 Triassic Egg
+1 Vindictive Vampire
+1 Zuran Orb
+1 Unnatural Hunger
+1 Treacherous Blessing
+1 Unstable Obelisk
+1 Ugin, the Spirit Dragon
+1 Chromatic Lantern
+1 Trinisphere
+1 Torgaar, Famine Incarnate
+1 Tendrils of Corruption
+1 Whetwheel
+1 Yawgmoth, Thran Physician
+1 Vile Requiem
+1 Triskelavus
+1 Vengeant Vampire
+1 Diabolic Tutor
+1 Syr Konrad, the Grim
+1 Synod Sanctum
+1 Slaughter
+1 Skirsdag Flayer
+1 Soldevi Adnate
+1 Wasteland
+1 Damnation
+1 Tribute to Hunger
+1 Spoils of War
+1 Three Bowls of Porridge
+1 Vedalken Shackles
+1 Vampiric Rites
+1 Torment of Hailfire
+1 Urza's Tower
+1 Spreading Rot
+{'overall': '8.42', 'cmc': '3', 'ramp': '8', 'draw': '15', 'interaction': '20'}

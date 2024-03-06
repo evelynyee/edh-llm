@@ -1,0 +1,68 @@
+1 The Locust God
+1 Ugin, the Spirit Dragon
+1 Mana Crypt
+1 Sol Ring
+1 Mana Drain
+1 Urza's Tome
+1 Valduk, Keeper of the Flame
+1 Toggo, Goblin Weaponsmith
+1 Unexpected Windfall
+1 Valakut Exploration
+1 Venser, Shaper Savant
+1 Thopter Engineer
+1 Tamiyo, the Moon Sage
+1 Mind Stone
+1 Transmute Artifact
+1 Vedalken Aethermage
+1 Zuran Orb
+1 Sword Coast Serpent // Capsizing Wave
+1 Thopter Assembly
+1 Vandalblast
+1 Vanishment
+1 Voyager Staff
+1 Thousand Winds
+1 Triskelavus
+1 Talrand, Sky Summoner
+1 Wormfang Behemoth
+1 Wizard's Rockets
+1 Viashino Sandswimmer
+1 Violent Impact
+1 Twisted Fealty
+1 Wrenn's Resolve
+1 Tectonic Reformation
+1 Tuktuk the Explorer
+1 Teferi, Temporal Pilgrim
+1 Whispers of the Muse
+1 Treasure Cruise
+1 Counterspell
+1 Water Gun Balloon Game
+1 Wild Guess
+1 The Underworld Cookbook
+1 Tilonalli's Summoner
+1 Teferi's Time Twist
+1 Thirst for Knowledge
+1 Whirler Rogue
+1 Zndrsplt, Eye of Wisdom
+1 Tezzeret, Betrayer of Flesh
+1 Tinker
+1 Surgespanner
+1 Tolarian Kraken
+1 Unpredictable Cyclone
+1 Underworld Breach
+1 Waterspout Weavers
+1 Thopter Spy Network
+1 Toralf, God of Fury // Toralf's Hammer
+1 Unlucky Drop
+1 Spellbinding Soprano
+1 Sparkspitter
+1 Wooden Sphere
+1 Twitch
+1 Winds of Rebuke
+1 Vizier of Many Faces
+1 Arcane Signet
+1 Volcanic Vision
+1 Tempt with Reflections
+1 Thopter Mechanic
+1 Tragic Lesson
+1 Venser's Journal
+{'overall': '13.17', 'cmc': '3', 'ramp': '5', 'draw': '36', 'interaction': '15'}

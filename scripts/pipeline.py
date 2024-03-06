@@ -50,7 +50,7 @@ def train_model(cards_clean):
     return Word2Vec(sentences=cards_clean["tokenized"])
 
 def save_decks(results_df, fp):
-    pd.DataFrame(results_df).to_pickle(fp)
+    pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
 
 def build_decks(commander_texts):
     for commander in commander_texts["name"]:
