@@ -67,6 +67,3 @@
 1 Thran Quarry
 1 Waste Land
 {'overall': '6.67', 'cmc': '3', 'ramp': '4', 'draw': '16', 'interaction': '10'}1 Ghave, Guru of Spores
-01 Ghave, Guru of Spores
-01 Ghave, Guru of Spores
-0

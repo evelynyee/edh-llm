@@ -63,6 +63,3 @@
 1 Tome of the Guildpact
 1 Surrender Your Thoughts
 {'overall': '8.32', 'cmc': '3', 'ramp': '0', 'draw': '29', 'interaction': '8'}1 Kambal, Consul of Allocation
-01 Kambal, Consul of Allocation
-01 Kambal, Consul of Allocation
-0

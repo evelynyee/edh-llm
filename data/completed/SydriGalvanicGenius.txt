@@ -1,0 +1,69 @@
+1 Sydri, Galvanic Genius
+1 Whirler Rogue
+1 Mulldrifter
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Teferi's Protection
+1 Counterspell
+1 Umezawa's Jitte
+1 Thunder Totem
+1 Vedalken Shackles
+1 Path to Exile
+1 Tidal Flats
+1 Demonic Tutor
+1 Animate Dead
+1 Smothering Tithe
+1 Wayward Angel
+1 Tribute to Hunger
+1 Whim of Volrath
+1 Vampire Hounds
+1 Vicious Offering
+1 Vona, Butcher of Magan
+1 Unmake
+1 Warhorn Blast
+1 Xiahou Dun, the One-Eyed
+1 Unified Strike
+1 Titan Hunter
+1 Unmake the Graves
+1 Thopter Architect
+1 Wintermoor Commander
+1 Urza, Lord High Artificer
+1 Venser, the Sojourner
+1 Unnatural Selection
+1 Winds of Abandon
+1 Mana Vault
+1 Vampire's Zeal
+1 Venerated Loxodon
+1 Valor Made Real
+1 Tolaria
+1 Unerring Sling
+1 Thief of Hope
+1 Toshiro Umezawa
+1 Trove Tracker
+1 Wings of Velis Vel
+1 Unlikely Alliance
+1 Vicious Betrayal
+1 Vito, Thorn of the Dusk Rose
+1 Vito's Inquisitor
+1 Valkyrie's Sword
+1 Unliving Psychopath
+1 Void Maw
+1 Voidwalk
+1 Urza, Chief Artificer
+1 Urborg Justice
+1 Vraska, Betrayal's Sting
+1 Unnatural Endurance
+1 Vanquisher's Axe
+1 Welkin Guide
+1 Witch Engine
+1 Vraska's Contempt
+1 Whispering Wizard
+1 Tragic Slip
+1 Vampire Bats
+1 Trailblazer's Torch
+1 Wurmcoil Engine
+1 Undying Malice
+1 Viscerid Drone
+1 Tezzeret the Seeker
+1 Swords to Plowshares
+1 Terisiare's Devastation
+{'overall': '4.87', 'cmc': '3', 'ramp': '2', 'draw': '9', 'interaction': '19'}

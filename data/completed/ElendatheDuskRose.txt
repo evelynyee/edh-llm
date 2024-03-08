@@ -65,14 +65,4 @@
 1 Shard of Broken Glass
 1 Volrath's Laboratory
 1 Sunbird Standard // Sunbird Effigy
-{'overall': '3.17', 'cmc': '3', 'ramp': '1', 'draw': '7', 'interaction': '10'}1 Elenda, the Dusk Rose
-01 Elenda, the Dusk Rose
-01 Elenda, the Dusk Rose
-01 Wernog, Rider's Chaplain
-1 Triskelion
-1 Tevesh Szat, Doom of Fools
-1 Zanikev Locust
-1 Teysa, Orzhov Scion
-1 Stormfront Riders
-1 Thraben Doomsayer
-1 Unified Strike
+{'overall': '3.17', 'cmc': '3', 'ramp': '1', 'draw': '7', 'interaction': '10'}

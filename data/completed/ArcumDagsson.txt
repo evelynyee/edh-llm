@@ -62,6 +62,4 @@
 1 Sphinx Ambassador
 1 Tomorrow, Azami's Familiar
 1 Turnabout
-{'overall': '14.47', 'cmc': '3', 'ramp': '6', 'draw': '26', 'interaction': '16'}1 Arcum Dagsson
-01 Arcum Dagsson
-0
+{'overall': '14.47', 'cmc': '3', 'ramp': '6', 'draw': '26', 'interaction': '16'}

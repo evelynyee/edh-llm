@@ -1,0 +1,66 @@
+1 Nath of the Gilt-Leaf
+1 Warm Welcome
+1 Their Number Is Legion
+1 Eternal Witness
+1 Wild Endeavor
+1 Worldly Tutor
+1 Vorinclex // The Grand Evolution
+1 Vengeful Reaper
+1 Temur War Shaman
+1 Tormod, the Desecrator
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wandering Archaic // Explore the Vastlands
+1 Thelonite Hermit
+1 Vulturous Aven
+1 Verdant Mastery
+1 Touch of Death
+1 Wurmweaver Coil
+1 Syphon Flesh
+1 Mana Vault
+1 Vraska, Golgari Queen
+1 Yawgmoth's Will
+1 Ugin, the Spirit Dragon
+1 Verdant Command
+1 Vraska, Relic Seeker
+1 Teysa, Orzhov Scion Avatar
+1 Birds of Paradise
+1 Voracious Vermin
+1 Titania, Nature's Force
+1 Vivien, Monsters' Advocate
+1 Verdant Succession
+1 Triskelavus
+1 Wurmcoil Engine
+1 Tireless Tracker
+1 Yavimaya Elder
+1 Thorn Lieutenant
+1 Ulamog, the Infinite Gyre
+1 Seedborn Muse
+1 Whisper, Blood Liturgist
+1 Vulturous Zombie
+1 Ugin, the Ineffable
+1 Vitaspore Thallid
+1 Vraska's Contempt
+1 Bloom Tender
+1 Vivien, Champion of the Wilds
+1 Demonic Tutor
+1 Thraxodemon
+1 Tevesh Szat, Doom of Fools
+1 Tormod's Cryptkeeper
+1 Viscera Dragger
+1 Tymaret Calls the Dead
+1 Blood Artist
+1 Animate Dead
+1 Verdant Touch
+1 Thragtusk
+1 Sylvan Offering
+1 Verduran Enchantress
+1 Vessel of Nascency
+1 Watchers of the Dead
+1 Throne of Empires
+1 Warden of the Woods
+1 Zephyr Boots
+1 Tomb Tyrant
+1 Viridian Harvest
+1 Turntimber Sower
+1 Turntimber Ranger
+{'overall': '7.40', 'cmc': '4', 'ramp': '3', 'draw': '19', 'interaction': '8'}

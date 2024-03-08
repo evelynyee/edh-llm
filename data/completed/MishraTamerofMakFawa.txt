@@ -24,3 +24,45 @@
 1 Vilis, Broker of Blood
 1 Ugin, the Ineffable
 1 Wasteland Scorpion
+1 Syrix, Carrier of the Flame
+1 Unnatural Endurance
+1 Tempt with Immortality
+1 Veinfire Borderpost
+1 Vicious Offering
+1 Tunnel of Love
+1 Vampire Hounds
+1 Ugin, the Spirit Dragon
+1 Unmask
+1 Viashino Skeleton
+1 Wrench Mind
+1 Thunderkin Awakener
+1 Thieving Amalgam
+1 Demonic Tutor
+1 Lightning Bolt
+1 Vandalblast
+1 Mind Stone
+1 Toxic Deluge
+1 Tormod's Cryptkeeper
+1 Vindictive Flamestoker
+1 Zurzoth, Chaos Rider
+1 Telim'Tor's Edict
+1 Thief of Hope
+1 Zirilan of the Claw
+1 Warbringer
+1 Tombstalker
+1 Underworld Connections
+1 Vulturous Aven
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Tomb Tyrant
+1 Urza's Blueprints
+1 Xiahou Dun, the One-Eyed
+1 Wild-Magic Sorcerer
+1 Zariel, Archduke of Avernus
+1 Valakut Exploration
+1 Twisted Fealty
+1 Thick-Skinned Goblin
+1 Red Elemental Blast
+1 Zhentarim Bandit
+1 Volatile Chimera
+1 Weaponized Scrap
+{'overall': '11.02', 'cmc': '3', 'ramp': '5', 'draw': '31', 'interaction': '17'}

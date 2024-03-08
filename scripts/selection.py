@@ -10,7 +10,7 @@ def load_data(fp):
     return data
 
 data = load_data(os.path.abspath("../data/decks/manual.pkl"))
-def build_deck(commander, target_power = ('12.87', '3', '35', '9')):
+def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '18', 'draw': '20', 'interaction': 14}):
     cmdr = commander
     pool = set(data[cmdr])      
     #target_power = calculate_power('../data/test_deck.txt')
@@ -50,8 +50,9 @@ def build_deck(commander, target_power = ('12.87', '3', '35', '9')):
                 if len(file.readlines()) > 6:
                     try:
                         cur_power = calculate_power('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
-                    except:
-                        pass
+                    except Exception as e:
+                        print(e)
+                        time.sleep(60*60)
                 print('Time Elapsed: ' + str(time.time()-start_time))
                 print('Adding: ' + completion.choices[0].message.content)
                 print(cur_power)
