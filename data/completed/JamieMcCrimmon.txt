@@ -1,0 +1,67 @@
+1 Jamie McCrimmon
+1 Sol Ring
+1 Crop Rotation
+1 Voyager Staff
+1 Wild Mongrel
+1 Wolfwillow Haven
+1 Wandering Archaic // Explore the Vastlands
+1 Timesifter
+1 Vessel of Nascency
+1 Stonehewer Giant Avatar
+1 Treasure Vault
+1 Ugin, the Spirit Dragon
+1 Doubling Season
+1 Traverse the Outlands
+1 Vivien, Nature's Avenger
+1 Winding Canyons
+1 Sylvan Might
+1 Vernal Bloom
+1 Titania's Song
+1 Verdant Sun's Avatar
+1 Staff of the Letter Magus
+1 Verdeloth the Ancient
+1 Sylvan Yeti
+1 Ugin, the Ineffable
+1 Vengevine
+1 Warden of the Woods
+1 Wrenn and Realmbreaker
+1 Village Survivors
+1 Vexing Puzzlebox
+1 Uncage the Menagerie
+1 Song of Inspiration
+1 Storm the Festival
+1 Vine Dryad
+1 Whisperer of the Wilds
+1 Sylvok Explorer
+1 Cultivate
+1 Mind Stone
+1 Vivien, Arkbow Ranger
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Green Sun's Zenith
+1 Veil of Summer
+1 Exploration
+1 Trepanation Blade
+1 Triumph of Ferocity
+1 Yisan, the Wanderer Bard
+1 Bloom Tender
+1 Seedborn Muse
+1 Vivien Reid
+1 Verdurous Gearhulk
+1 Unexpected Potential
+1 Weight Advantage
+1 Tarmogoyf
+1 Wolfcaller's Howl
+1 Terastodon
+1 Timberwatch Elf
+1 Vivien, Champion of the Wilds
+1 Trinisphere
+1 Tormod's Crypt
+1 Rampant Growth
+1 Vivien's Invocation
+1 Vastwood Animist
+1 Ulamog, the Ceaseless Hunger
+1 Vivify
+1 Thrumming Stone
+1 Wheel of Torture
+1 Tlincalli Hunter // Retrieve Prey
+{'overall': '6', 'cmc': 3.5303030303030303, 'ramp': '15', 'draw': '13', 'interaction': 5}

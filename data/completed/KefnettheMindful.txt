@@ -1,65 +1,67 @@
 1 Kefnet the Mindful
-1 Ugin, the Spirit Dragon
-1 Thalakos Scout
-1 Mana Crypt
-1 Urza's Tome
-1 Venser, Shaper Savant
+1 Time Spiral
 1 Vedalken Aethermage
-1 Venser's Journal
-1 Fellwar Stone
-1 Treasure Cruise
-1 Counterspell
-1 Witness the Future
-1 Teferi, Timeless Voyager
-1 Sol Ring
-1 Trash Bin
-1 Stormwatch Eagle
-1 Talion's Messenger
-1 Thassa, Deep-Dwelling
-1 Triassic Egg
-1 Spectral Deluge
-1 Teferi, Master of Time
-1 Winds of Rebuke
-1 Whispers of the Muse
-1 Teferi, Temporal Pilgrim
-1 Snap
-1 Thought Vessel
+1 Tradewind Rider Avatar
 1 Mana Vault
-1 Vanishment
-1 Whirlwind Denial
-1 Vizier of Many Faces
-1 Winged Words
-1 Sphinx of Jwar Isle
-1 Wormfang Behemoth
-1 Thought-Knot Seer
-1 Spellweaver Duo
-1 Teferi's Tutelage
-1 Time Elemental
-1 Vertigo Spawn
-1 World-Bottling Kit
+1 Venser, Shaper Savant
+1 Time Reversal
+1 Trail of the Mage-Rings
 1 Storm Sculptor
-1 Viscerid Deepwalker
-1 Wall of Stolen Identity
-1 Arcane Signet
-1 Temporal Mastery
-1 Voyager Staff
-1 Wizard's Rockets
-1 Ward of Bones
-1 Winter's Rest
-1 Unlucky Drop
-1 The Grand Tour
-1 Twitch
-1 Walker of Secret Ways
-1 Void Stalker
+1 Teferi, Timeless Voyager
+1 Vantress Gargoyle
+1 Ugin's Mastery
+1 Wizened Snitches
+1 Tamiyo, the Moon Sage
 1 Tezzeret, Betrayer of Flesh
-1 Voidwielder
-1 Witching Well
-1 Traxos, Scourge of Kroog
-1 Unesh, Criosphinx Sovereign
-1 The Immortal Sun
-1 The Underworld Cookbook
-1 Spell Shrivel
-1 Soratami Rainshaper
-1 Vapor Snare
-1 Tragic Lesson
-{'overall': '11.70', 'cmc': '4', 'ramp': '6', 'draw': '33', 'interaction': '19'}
+1 Tezzeret's Ambition
+1 Treasure Cruise
+1 Thran Temporal Gateway
+1 Volo, Itinerant Scholar
+1 Whirlwind Denial
+1 Wand of Ith
+1 Stronghold Machinist
+1 Vexing Scuttler
+1 Temporal Machinations
+1 Vedalken Shackles
+1 Sphinx of Jwar Isle
+1 Tolarian Kraken
+1 Tolarian Sentinel
+1 Vodalian Serpent
+1 Surge Engine
+1 Teferi's Imp
+1 Tolarian Contempt
+1 Witchbane Orb
+1 Tormod's Crypt
+1 Vedalken Mastermind
+1 Zndrsplt's Judgment
+1 Veiled Crocodile
+1 Trial of Knowledge
+1 Veil of Secrecy
+1 Timestream Navigator
+1 Whispersilk Cloak
+1 Thousand-Faced Shadow
+1 Warzone Duplicator
+1 Sphinx's Tutelage
+1 Thirst for Knowledge
+1 Vampire Nocturnus Avatar
+1 Sleep of the Dead
+1 Transplant Theorist
+1 Treasure Chest
+1 When Will You Learn?
+1 Welcome to the Fold
+1 Whispers of the Muse
+1 Walk the Aeons
+1 Think Tank
+1 Storm Cauldron
+1 Wiretapping
+1 Zndrsplt, Eye of Wisdom
+1 Training Grounds
+1 Unwinding Clock
+1 Venser's Diffusion
+1 Wall of Junk
+1 Vodalian Knights
+1 Windscouter
+1 Thalakos Mistfolk
+1 Tormod's Cryptkeeper
+1 Vizier of Tumbling Sands
+{'overall': '6', 'cmc': 3.409090909090909, 'ramp': '5', 'draw': '26', 'interaction': 1}

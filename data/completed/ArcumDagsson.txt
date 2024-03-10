@@ -1,67 +1,65 @@
 1 Arcum Dagsson
-1 Chromatic Lantern
-1 Mana Vault
-1 Sol Ring
-1 Transmute Artifact
-1 Windrider Patrol
-1 Waker of Waves
-1 Trade Routes
-1 Vedalken Aethermage
-1 Zur's Weirding
-1 Storm Cauldron
-1 Thassa's Oracle
-1 Whirlpool Drake
-1 Mana Drain
-1 Sorcerous Sight
-1 Mulldrifter
-1 Time Spiral
-1 Treasure Cruise
-1 Venser, Shaper Savant
-1 Mana Crypt
+1 Warzone Duplicator
+1 Tamiyo, the Moon Sage
 1 Cyclonic Rift
-1 Tel-Jilad Stylus
-1 Winds of Rebuke
-1 Unexpected Conversion
-1 Sphinx's Herald
-1 Trophy Mage
-1 Trinket Mage
-1 Thran Tome
-1 Wretched Throng
-1 Vizier of Tumbling Sands
-1 Vesuvan Doppelganger
-1 The Mana Rig
 1 Sphinx of Clear Skies
-1 Voidwielder
-1 Counterspell
-1 Urza's Construction Drone
-1 Whetwheel
-1 Withering Gaze
-1 Thought Dissector
-1 Teferi, Temporal Archmage
-1 Vizier of Many Faces
-1 Force of Will
-1 Thought-Knot Seer
-1 Tolarian Kraken
-1 Tome Scour
-1 Mind Stone
-1 Unsubstantiate
-1 Trepanation Blade
-1 Show and Tell
+1 Tezzeret, Artifice Master
 1 Sword of the Animist
-1 Vedalken Certarch
-1 Windswept Heath
-1 Treasure Keeper
-1 Thada Adel, Acquisitor
-1 Volrath's Shapeshifter
-1 Tolarian Sentinel
-1 Void Shatter
+1 Sorcerous Sight
+1 Wizard Mentor
+1 Show and Tell
+1 Time Reversal
+1 Trail of the Mage-Rings
+1 Ugin's Mastery
+1 Traveler's Amulet
+1 Vedalken Infuser
+1 Vedalken Archmage
+1 Treasure Cruise
+1 Mulldrifter
+1 Sphinx's Herald
+1 Trepanation Blade
+1 Wayward Soul
+1 Mind Stone
+1 Windrider Wizard
+1 Vedalken Plotter
+1 Unsubstantiate
+1 Ugin, the Spirit Dragon
+1 Mana Crypt
+1 Staunch Crewmate
 1 Treasure Mage
-1 Teferi's Response
-1 Soratami Mindsweeper
+1 Trophy Mage
 1 Tolaria West
+1 Arcane Signet
+1 Thirst for Knowledge
+1 Mana Vault
+1 Counterspell
+1 Sol Ring
+1 Tolarian Kraken
+1 Tel-Jilad Stylus
+1 Storm Elemental
+1 Talion's Messenger
+1 Whispers of the Muse
 1 Sphinx Ambassador
-1 Tomorrow, Azami's Familiar
-1 Turnabout
-{'overall': '14.47', 'cmc': '3', 'ramp': '6', 'draw': '26', 'interaction': '16'}1 Arcum Dagsson
-01 Arcum Dagsson
-0
+1 Venser's Journal
+1 Tolarian Contempt
+1 Teferi, Temporal Archmage
+1 Thran Tome
+1 Tezzeret the Seeker
+1 Wand of Ith
+1 Tocasia's Dig Site
+1 Transplant Theorist
+1 Trial of Knowledge
+1 Treasure Chest
+1 Windfall
+1 Mana Drain
+1 The Champion
+1 Vampire Nocturnus Avatar
+1 Vexing Scuttler
+1 True Polymorph
+1 When Will You Learn?
+1 Trait Doctoring
+1 Think Tank
+1 Venser, Shaper Savant
+1 Zur's Weirding
+1 Thought Collapse
+{'overall': '7', 'cmc': 3.25, 'ramp': '9', 'draw': '28', 'interaction': 5}

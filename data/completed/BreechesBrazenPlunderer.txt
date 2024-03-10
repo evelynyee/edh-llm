@@ -1,0 +1,65 @@
+1 Breeches, Brazen Plunderer
+1 Trail of the Mage-Rings
+1 Touch of the Void
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Soulless Jailer
+1 Thunderblade Charge
+1 Tormod's Crypt
+1 Mana Geyser
+1 The Mycosynth Gardens
+1 Zurzoth, Chaos Rider
+1 Imperial Recruiter
+1 Trash for Treasure
+1 Thought Vessel
+1 Ugin's Mastery
+1 Wild Ricochet
+1 Unlicensed Hearse
+1 Tome of the Guildpact
+1 Spellweaver Helix
+1 Vandalblast
+1 Thunderous Wrath
+1 Sphere of Resistance
+1 Smoldering Egg // Ashmouth Dragon
+1 Underworld Rage-Hound
+1 Thieves' Auction
+1 Vault Robber
+1 Vexing Puzzlebox
+1 Thought-Knot Seer
+1 Thunderclap
+1 Wrench-Rigger
+1 The Destined
+1 Warp World
+1 Swashbuckler's Whip
+1 Ugin's Nexus
+1 Sunbird's Invocation
+1 Sulfur Elemental
+1 Urza's Incubator
+1 Arcane Signet
+1 Thran Quarry
+1 Sunbird Standard // Sunbird Effigy
+1 Thran Turbine
+1 Mana Vault
+1 Teferi's Puzzle Box
+1 Commander's Sphere
+1 Mind Stone
+1 Serum Powder
+1 Windswept Heath
+1 Abrade
+1 Shimmer Myr
+1 Sudden Shock
+1 Fellwar Stone
+1 Sol Ring
+1 Thorn of Amethyst
+1 Trinisphere
+1 Mana Crypt
+1 Vindictive Flamestoker
+1 Sword of Forge and Frontier
+1 Thran Portal
+1 Thran Foundry
+1 Vanquisher's Banner
+1 Throne of Makindi
+1 Tyrant of Valakut
+1 Sunshot Militia
+1 War Room
+1 Valakut Exploration
+{'overall': '7', 'cmc': 2.578125, 'ramp': '16', 'draw': '12', 'interaction': 11}

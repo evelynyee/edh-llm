@@ -10,7 +10,7 @@ def load_data(fp):
     return data
 
 data = load_data(os.path.abspath("../data/decks/manual.pkl"))
-def build_deck(commander, target_power = ('12.87', '3', '35', '9')):
+def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '18', 'draw': '20', 'interaction': 14}):
     cmdr = commander
     pool = set(data[cmdr])      
     #target_power = calculate_power('../data/test_deck.txt')
@@ -21,11 +21,12 @@ def build_deck(commander, target_power = ('12.87', '3', '35', '9')):
         file.seek(0)
         if (len(file.readlines()) == 0):
             file.write("1 " + cmdr + "\n")
+        file.seek(0)
+        while len(file.readlines()) <= 63:
             file.seek(0)
-            while len(file.readlines()) <= 63:
-                file.seek(0)
-                cur_deck = file.readlines()
-                print(cur_deck)
+            cur_deck = file.readlines()
+            print(cur_deck)
+            try:
                 completion = client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=[
@@ -37,24 +38,29 @@ def build_deck(commander, target_power = ('12.87', '3', '35', '9')):
                     "Target Power: " + str(target_power)}
                 ]
                 )
+            except:
+                time.sleep(60*60)
+                build_deck(commander)
 
-                picked = completion.choices[0].message.content.split('; ')
+            picked = completion.choices[0].message.content.split('; ')
 
-                for card in picked:
-                    if card in pool:
-                        pool.remove(card)
-                        file.write("1 " + card + "\n")
-                    else:
-                        print('failed to find ' + card)
-                file.seek(0)
-                if len(file.readlines()) > 6:
-                    try:
-                        cur_power = calculate_power('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
-                    except:
-                        pass
-                print('Time Elapsed: ' + str(time.time()-start_time))
-                print('Adding: ' + completion.choices[0].message.content)
-                print(cur_power)
-                file.seek(0)
-            
-            file.write(str(cur_power))
+            for card in picked:
+                if card in pool:
+                    pool.remove(card)
+                    file.write("1 " + card + "\n")
+                else:
+                    print('failed to find ' + card)
+            file.seek(0)
+            if len(file.readlines()) > 6:
+                try:
+                    cur_power = calculate_power('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
+                except Exception as e:
+                    print(e)
+                    time.sleep(60*60)
+            print('Time Elapsed: ' + str(time.time()-start_time))
+            print('Adding: ' + completion.choices[0].message.content)
+            print(cur_power)
+            file.seek(0)
+            if len(file.readlines()) >= 63:
+                file.write(str(cur_power))
+            file.seek(0)

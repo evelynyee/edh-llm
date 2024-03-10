@@ -1,0 +1,67 @@
+1 Gut, True Soul Zealot
+1 Treasure Nabber
+1 Vesuva
+1 Thornwatch Scarecrow
+1 Tilonalli's Skinshifter
+1 Vandalblast
+1 Tuktuk the Explorer
+1 Varchild's War-Riders
+1 Ugin's Mastery
+1 Thirsting Axe
+1 The Cave of Skulls
+1 Yavimaya Steelcrusher
+1 Tiamat's Fanatics
+1 Tide of War
+1 Whalebone Glider
+1 Thorncaster Sliver
+1 Undying Flames
+1 Tuktuk Rubblefort
+1 Thopter Squadron
+1 Stone Giant
+1 Stone Idol Trap
+1 Unwinding Clock
+1 Thought Vessel
+1 Fellwar Stone
+1 Arcane Signet
+1 Sol Ring
+1 Spiteful Banditry
+1 Synod Centurion
+1 Valakut Fireboar
+1 Warstorm Surge
+1 Word of Seizing
+1 Suspicious Bookcase
+1 Silent Arbiter
+1 Warehouse Thief
+1 Village Watch // Village Reavers
+1 War's Toll
+1 Wirefly Hive
+1 Unstoppable Ogre
+1 Xanthic Statue
+1 Swarming of Moria
+1 Sokenzan, Crucible of Defiance
+1 Spark Elemental
+1 Abrade
+1 Zurzoth, Chaos Rider
+1 Lightning Bolt
+1 Thundermaw Hellkite
+1 The Pit
+1 Vow of Lightning
+1 Valduk, Keeper of the Flame
+1 Warbreak Trumpeter
+1 Warlord's Fury
+1 Ydwen Efreet
+1 Verix Bladewing
+1 Tibalt, Wicked Tormentor
+1 Vanquisher's Banner
+1 Triskelavus
+1 Wildfire Cerberus
+1 Chromatic Lantern
+1 Thopter Assembly
+1 Spectrox Mines
+1 Tezzeret's Strider
+1 Uncontrollable Anger
+1 Unexpected Windfall
+1 Telethopter
+1 Song of Totentanz
+1 Talruum Piper
+{'overall': '5', 'cmc': 3.3333333333333335, 'ramp': '9', 'draw': '4', 'interaction': 14}

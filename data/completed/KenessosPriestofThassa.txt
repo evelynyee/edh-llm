@@ -1,0 +1,65 @@
+1 Kenessos, Priest of Thassa
+1 Treasure Mage
+1 Trophy Mage
+1 Whir of Invention
+1 Sol Ring
+1 Rampant Growth
+1 Visions of Duplicity
+1 Unesh, Criosphinx Sovereign
+1 The Five Doctors
+1 Whisperwood Elemental
+1 Thassa's Oracle
+1 Treasure Chest
+1 Verdant Catacombs
+1 World Shaper
+1 Traverse the Ulvenwald
+1 Thrasios, Triton Hero
+1 The Matrix of Time
+1 Wrenn and Seven
+1 Teferi's Wavecaster
+1 Wanderwine Prophets
+1 Venser, Shaper Savant
+1 Whirlpool Rider
+1 Venser's Journal
+1 Tinker
+1 Mulldrifter
+1 Will Kenrith
+1 Weatherlight
+1 Young Blue Dragon // Sand Augury
+1 Wall of Blossoms
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Wood Elves
+1 Sylvan Tutor
+1 Mana Vault
+1 Winding Way
+1 Coiling Oracle
+1 Wren's Run Vanquisher
+1 Tilling Treefolk
+1 Weapon Rack
+1 Willow Priestess
+1 Thran Foundry
+1 Telemin Performance
+1 Think Tank
+1 Yavimaya Sojourner
+1 Trail of Mystery
+1 Vineshaper Prodigy
+1 Trepanation Blade
+1 Traumatic Visions
+1 Wistful Selkie
+1 Wandering Eye
+1 Well of Knowledge
+1 Treasure Cruise
+1 Urban Evolution
+1 Tooth and Nail
+1 Vizier of the Anointed
+1 Wandering Archaic // Explore the Vastlands
+1 Wizard's Rockets
+1 Travel Through Caradhras
+1 Vilespawn Spider
+1 The Ring Goes South
+1 Turri Island
+1 Wizards of the _____
+1 Twice Upon a Time // Unlikely Meeting
+1 Ulamog's Despoiler
+1 Thirsting Roots
+{'overall': '7', 'cmc': 3.625, 'ramp': '15', 'draw': '32', 'interaction': 1}

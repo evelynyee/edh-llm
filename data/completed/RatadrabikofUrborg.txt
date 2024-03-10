@@ -1,0 +1,67 @@
+1 Ratadrabik of Urborg
+1 Sol Ring
+1 Diabolic Tutor
+1 Path to Exile
+1 Swords to Plowshares
+1 Warlord's Axe
+1 Ugin's Mastery
+1 Vow of Malice
+1 Tainted Adversary
+1 Westfold Rider
+1 The Eternal Wanderer
+1 Wakening Sun's Avatar
+1 Thraben Doomsayer
+1 Urza's Miter
+1 Topaz Dragon // Entropic Cloud
+1 Suspension Field
+1 Thopter Assembly
+1 Thran Forge
+1 Stuffed Bear
+1 Mind Stone
+1 Tormod, the Desecrator
+1 Zombify
+1 Tribute to Hunger
+1 Thorn of the Black Rose
+1 Demonic Tutor
+1 Vampiric Sliver
+1 Springjack Shepherd
+1 Vizier of the Scorpion
+1 Tithing Blade // Consuming Sepulcher
+1 Vengeful Strangler // Strangling Grasp
+1 Trueheart Duelist
+1 Thieves' Tools
+1 Stormfront Riders
+1 Thopter Squadron
+1 Triskelavus
+1 Thalisse, Reverent Medium
+1 Trostani's Judgment
+1 Spectral Procession
+1 Wei Strike Force
+1 Valor Made Real
+1 Windborne Charge
+1 Voice of Duty
+1 Sword of the Meek
+1 Thalia's Geistcaller
+1 Vito, Fanatic of Aclazotz
+1 Veil of Assimilation
+1 Thopter Shop
+1 Visage of Dread // Dread Osseosaur
+1 Thunderhawk Gunship
+1 Thundersteel Colossus
+1 Weaponcraft Enthusiast
+1 Tegwyll's Scouring
+1 Zulaport Enforcer
+1 Voice of the Provinces
+1 Yoke of the Damned
+1 Wretched Banquet
+1 Damnation
+1 Austere Command
+1 Blood Artist
+1 Twilight Drover
+1 Tetravus
+1 Triplicate Spirits
+1 Warden of the Beyond
+1 Valkyrie Harbinger
+1 Timely Reinforcements
+1 Wingmate Roc
+{'overall': '5', 'cmc': 3.621212121212121, 'ramp': '3', 'draw': '3', 'interaction': 10}
