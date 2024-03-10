@@ -1,0 +1,101 @@
+1 Amy Pond
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Cybership
+1 Nautiloid Ship
+1 Higure, the Still Wind Avatar
+1 Into the Fire
+1 Aspiring Champion
+1 Lightning Storm
+1 Rotisserie Elemental
+1 Pompeii
+1 Gibbering Fiend
+1 Hard Hat Area
+1 Descendants' Fury
+1 Memory Worm
+1 Goblin Lackey
+1 Stocking Tiger
+1 Shrine of Piercing Vision
+1 Flame Channeler // Embodiment of Flame
+1 Warren Instigator
+1 Jester's Sombrero
+1 Chakram Slinger
+1 Dune Mover
+1 Tempest Efreet
+1 Jar of Eyeballs
+1 Adder-Staff Boggart
+1 Weatherlight
+1 Sin Prodder
+1 Kilnmouth Dragon
+1 Guild Feud
+1 Combustible Gearhulk
+1 Aether Vial
+1 Caldera Breaker
+1 Chaos Wrap
+1 Undercity Reaches
+1 The Rack
+1 Letter Bomb
+1 Canoptek Wraith
+1 The Parting of the Ways
+1 Kaboom!
+1 Khorvath's Fury
+1 Thought Dissector
+1 _____ Balls of Fire
+1 Nahiri's Warcrafting
+1 The Golden City of Orazca
+1 Bronze Tablet
+1 Sarkhan, Dragonsoul
+1 Oblivion Sower
+1 Dance, Pathetic Marionette
+1 Virtue of Courage // Embereth Blaze
+1 Browbeat
+1 Shivan Wumpus
+1 Book Burning
+1 Volcanic Spite
+1 Chandra, Fire Artisan
+1 Molten Psyche
+1 Fated Conflagration
+1 Vexing Arcanix
+1 Goblin Charbelcher
+1 Kozilek, Butcher of Truth
+1 Timesifter
+1 Indomitable Creativity
+1 Vexing Puzzlebox
+1 Book Devourer
+1 Kinetic Augur
+1 Black Vise
+{'overall': '3', 'cmc': 3.4153846153846152, 'ramp': '5', 'draw': '21', 'interaction': 16}

@@ -1,0 +1,101 @@
+1 Shu Yun, the Silent Tempest
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mistfire Adept
+1 Seeker of the Way
+1 Dragon-Style Twins
+1 Wing Commando
+1 Riverwheel Aerialists
+1 Niblis of Dusk
+1 Mistral Singer
+1 Lotus Path Djinn
+1 Jeskai Windscout
+1 Monastery Swiftspear
+1 Dragon Bell Monk
+1 Stormchaser Mage
+1 Vedalken Blademaster
+1 Umara Entangler
+1 Target Minotaur
+1 Sanguinary Mage
+1 Nimble-Blade Khenra
+1 Lightning Visionary
+1 Jeskai Student
+1 Bloodfire Expert
+1 Guardian of Solitude
+1 Kami of Tattered Shoji
+1 Thistledown Duo
+1 Rhonas's Monument
+1 Cunning Breezedancer
+1 Border Guardian
+1 Thorned Moloch
+1 Sky Theater Strix
+1 Ingenious Skaab
+1 Mascot Interception
+1 Leonin Battlemage
+1 Burning Prophet
+1 Frenzied Devils
+1 Devouring Rage
+1 Onward // Victory
+1 Arrester's Zeal
+1 Blistercoil Weird
+1 Umara Wizard // Umara Skyfalls
+1 Amped Up
+1 Archon's Glory
+1 Akroan Conscriptor
+1 Livaan, Cultist of Tiamat
+1 Leering Emblem
+1 Jeskai Sage
+1 Sage of the Inward Eye
+1 Mage-Ring Bully
+1 Frolicking Familiar // Blow Off Steam
+1 Kami of the Painted Road
+1 Aven Wind Mage
+1 Festival Crasher
+1 Shell Shield
+1 Aquatic Alchemist // Bubble Up
+1 Spellrune Painter // Spellrune Howler
+1 Kiln Fiend
+1 Merrow Levitator
+1 Show of Confidence
+1 Curious Homunculus // Voracious Reader
+1 Liara of the Flaming Fist
+1 Atmosphere Surgeon
+1 Tentative Connection
+1 Adeliz, the Cinder Wind
+1 Rapid Fire
+1 Price of Loyalty
+{'overall': '1', 'cmc': 3.0, 'ramp': '1', 'draw': '1', 'interaction': 2}

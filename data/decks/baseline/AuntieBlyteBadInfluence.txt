@@ -1,0 +1,101 @@
+1 Auntie Blyte, Bad Influence
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Talon of Pain
+1 Falkenrath Exterminator
+1 Molten Hydra
+1 Magma Pummeler
+1 Magma Mine
+1 Five-Alarm Fire
+1 Torture Chamber
+1 Dragonspark Reactor
+1 Voodoo Doll
+1 Primordial Ooze
+1 Fallen Ferromancer
+1 Torch Song
+1 Ugin's Conjurant
+1 Flame Discharge
+1 Naar Isle
+1 Falkenrath Marauders
+1 Shrine of Burning Rage
+1 Imminent Doom
+1 Puncture Blast
+1 Spitting Hydra
+1 Walking Ballista
+1 Strixhaven Stadium
+1 Relic Amulet
+1 Ashling the Pilgrim
+1 Angelheart Vial
+1 Sphinx-Bone Wand
+1 Necropede
+1 Triskelion
+1 Bring Low
+1 Ion Storm
+1 Preyseizer Dragon
+1 Thundering Raiju
+1 Magmasaur
+1 Lightning Storm
+1 Grindclock
+1 Captain Ripley Vance
+1 Goblin Razerunners
+1 Incendiary
+1 Flaming Tyrannosaurus
+1 The Filigree Sylex
+1 Slith Firewalker
+1 Puncture Bolt
+1 Erdwal Ripper
+1 Sword of Hours
+1 Monoskelion
+1 Urabrask's Anointer
+1 Markov Blademaster
+1 Bomb Squad
+1 Furyborn Hellkite
+1 Rock Hydra
+1 Descent into Avernus
+1 Sun Droplet
+1 Kilnmouth Dragon
+1 Hateflayer
+1 Figure of Destiny Avatar
+1 Corpse Cur
+1 Phyrexian Digester
+1 Rakish Heir
+1 Lockjaw Snapper
+1 Hatchet Bully
+1 Gorehorn Minotaurs
+1 Aria of Flame
+1 Razor Swine
+{'overall': '2', 'cmc': 3.1384615384615384, 'ramp': '1', 'draw': '1', 'interaction': 38}

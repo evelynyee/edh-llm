@@ -1,0 +1,101 @@
+1 Rosheen Meanderer
+1 Mishra's Workshop
+1 Underdome
+1 Corrupted Crossroads
+1 Great Hall of the Citadel
+1 Secret Base
+1 Shrine of the Forsaken Gods
+1 Eldrazi Temple
+1 Watermarket
+1 Cascading Cataracts
+1 Unknown Shores
+1 Shimmering Grotto
+1 School of the Unseen
+1 Henge of Ramos
+1 Holdout Settlement
+1 Archaeological Dig
+1 Spire of Industry
+1 Study Hall
+1 Dowsing Dagger // Lost Vale
+1 Sea Gate Wreckage
+1 Tarnished Citadel
+1 Mishra's Toy Workshop
+1 Hall of Tagsin
+1 A-Base Camp
+1 Guildmages' Forum
+1 Mana Confluence
+1 Crucible of the Spirit Dragon
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Chromatic Orrery
+1 Warden of Geometries
+1 Hedron Crawler
+1 Power Depot
+1 Obsidian Obelisk
+1 Prismatic Lens
+1 Painted Bluffs
+1 Mana Prism
+1 Orochi Leafcaller
+1 Wild Cantor
+1 Nomadic Elf
+1 Llanowar Envoy
+1 Rootrider Faun
+1 Nexos
+1 Nykthos, Shrine to Nyx
+1 Delighted Halfling
+1 Thran Dynamo
+1 Mox Lotus
+1 Ornithopter of Paradise
+1 Lotus Guardian
+1 Birds of Paradise
+1 The Secret Lair
+1 Baldur's Gate
+1 Ur-Golem's Eye
+1 Ulvenwald Captive // Ulvenwald Abomination
+1 Sunastian Falconer
+1 Sol Ring
+1 Sisay's Ring
+1 Palladium Myr
+1 Kozilek's Channeler
+1 Untaidake, the Cloud Keeper
+1 Signpost Scarecrow
+1 Jeweled Lotus
+1 Prismite
+1 Celestial Prism
+1 Deathbloom Gardener
+1 Viridian Acolyte
+1 Mana Cylix
+1 Tower Worker
+1 Mystic Skull // Mystic Monstrosity
+1 Darksteel Ingot
+1 Utopia Tree
+1 Rosethorn Acolyte // Seasonal Ritual
+1 Opaline Unicorn
+1 Manalith
+1 Lifespring Druid
+1 Alloy Myr
+1 Sylvan Caryatid
+1 Su-Chi
+1 Lotus Petal
+1 Elfhame Druid
+1 Survivors' Encampment
+1 Urza's Tower
+1 Forgotten Monument
+1 Nantuko Elder
+1 Darksteel Citadel
+1 Wastes
+1 Manakin
+1 Boreal Druid
+1 Barry's Land
+1 Phyrexian Lens
+1 Cathodion
+1 Gilded Lotus
+{'overall': '5', 'cmc': 1.6956521739130435, 'ramp': '53', 'draw': '2', 'interaction': 0}

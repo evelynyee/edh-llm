@@ -1,0 +1,101 @@
+1 Aryel, Knight of Windgrace
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Daxos the Returned
+1 Chittering Witch
+1 Ghoulcaller Gisa
+1 Gallows at Willow Hill
+1 Call the Coppercoats
+1 Night Scythe
+1 Enchanted Carriage
+1 Ancient Stone Idol
+1 Launch the Fleet
+1 Assembled Ensemble
+1 Blot Out the Sky
+1 Defenders of Humanity
+1 Ruthless Technomancer
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Ethereal Absolution
+1 Martial Coup
+1 Monkey Cage
+1 Lena, Selfless Champion
+1 Seize the Soul
+1 Necron Monolith
+1 Spirit Bonds
+1 Entrapment Maneuver
+1 Megaflora Jungle
+1 Argivian Cavalier
+1 Devout Invocation
+1 Decree of Justice
+1 Heron-Blessed Geist
+1 Elspeth Tirel
+1 Citizen's Crowbar
+1 The Circle of Loyalty
+1 Deathmark
+1 Noxious Grasp
+1 Goldmeadow Lookout
+1 Kresh the Bloodbraided Avatar
+1 Storm Herd
+1 Bonehoard
+1 Field-Tested Frying Pan
+1 Heliod, God of the Sun
+1 Hallowed Haunting
+1 Their Number Is Legion
+1 Myriad Construct
+1 Ajani, Caller of the Pride
+1 Rally for the Throne
+1 Piper of the Swarm
+1 Confront the Assault
+1 Tomb of Urami
+1 Benalish Commander
+1 Spoils of Blood
+1 Hallowed Spiritkeeper
+1 Phyrexian Rebirth
+1 General's Enforcer
+1 Reign of the Pit
+1 Carrion
+1 Kalitas, Bloodchief of Ghet
+1 Rapid Prototyper
+1 Scour the Desert
+1 Marrow-Gnawer
+1 Security Detail
+1 Born to Drive
+1 Spectral Reserves
+1 Teysa, Orzhov Scion
+1 Valkyrie's Sword
+1 Exorcist
+{'overall': '3', 'cmc': 3.6363636363636362, 'ramp': '1', 'draw': '1', 'interaction': 17}

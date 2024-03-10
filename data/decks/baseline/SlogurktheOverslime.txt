@@ -1,0 +1,101 @@
+1 Slogurk, the Overslime
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Triassic Egg
+1 Propagator Primordium
+1 Malanthrope
+1 Obsessive Skinner
+1 Verdant Confluence
+1 Moldgraf Millipede
+1 Restore
+1 Realmbreaker, the Invasion Tree
+1 Grazing Kelpie
+1 Toothy, Imaginary Friend
+1 Golgari Grave-Troll
+1 Centaur Vinecrasher
+1 Siren Lookout
+1 Jadelight Spelunker
+1 Tishana's Wayfinder
+1 Kaslem's Stonetree // Kaslem's Strider
+1 Ixalli's Diviner
+1 Path of Discovery
+1 Merfolk Branchwalker
+1 River Herald Guide
+1 Zephyr Sentinel
+1 Cenote Scout
+1 River Herald Scout
+1 Swiftgear Drake
+1 Pathfinding Axejaw
+1 Jadelight Ranger
+1 Nulltread Gargantuan
+1 Blanchwood Prowler
+1 Quest for Ancient Secrets
+1 Forcemage Advocate
+1 Tilling Treefolk
+1 Nantuko Tracer
+1 Covetous Castaway // Ghostly Castigator
+1 Fertilid
+1 Psychic Pickpocket
+1 Journey to the Lost City
+1 Circle of the Land Druid
+1 A-Circle of the Land Druid
+1 Fertilid's Favor
+1 Ulamog's Despoiler
+1 Court of Bounty
+1 Risen Reef
+1 Thayan Evokers
+1 Fallaji Archaeologist
+1 Jadzi, Oracle of Arcavios // Journey to the Oracle
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Hoarding Recluse
+1 Moldgraf Monstrosity
+1 Kami of Transience
+1 Splendid Reclamation
+1 Nicanzil, Current Conductor
+1 Forgotten Harvest
+1 Lodestone Needle // Guidestone Compass
+1 Spelunking
+1 Vedalken Dismisser
+1 Implement of Ferocity
+1 The Maelstrom
+1 A-Shipwreck Sifters
+1 Hatching Plans
+1 Over the Edge
+1 The Deck of Many Things
+1 Eureka Moment
+1 Looming Hoverguard
+{'overall': '3', 'cmc': 3.1363636363636362, 'ramp': '6', 'draw': '25', 'interaction': 2}

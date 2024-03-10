@@ -1,0 +1,101 @@
+1 The Locust God
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Trove Tracker
+1 Mimic Vat
+1 Improbable Alliance
+1 Amphin Mutineer
+1 Rekindling Phoenix
+1 Experimental Synthesizer
+1 Phyrexian Triniform
+1 Jaxis, the Troublemaker
+1 Feldon of the Third Path
+1 Currency Converter
+1 Impulsive Pilferer
+1 Flameshadow Conjuring
+1 Arcane Artisan
+1 Force of Rage
+1 Meloku the Clouded Mirror
+1 Firecat Blitz
+1 God-Pharaoh's Gift
+1 Flamerush Rider
+1 Enterprising Scallywag
+1 Akoum Stonewaker
+1 Octo Opus
+1 Mist Dancer
+1 Kessig Wolfrider
+1 Cogwork Assembler
+1 Ravenform
+1 Pugnacious Pugilist
+1 Faerie Formation
+1 Young Red Dragon // Bathe in Gold
+1 Grabby Giant // That's Mine
+1 A-Young Red Dragon // A-Bathe in Gold
+1 Thopter Assembly
+1 Saheeli Rai
+1 Blood Petal Celebrant
+1 Sanguine Statuette
+1 The Underworld Cookbook
+1 Satyr's Cunning
+1 Viashino Sandsprinter
+1 Dino DNA
+1 Reinforced Ronin
+1 Gut, Devious Fanatic
+1 Mirrodin Besieged
+1 Secrets of the Key
+1 Sinuous Striker
+1 Sparkspitter
+1 Arms Race
+1 Moonblade Shinobi
+1 Felhide Spiritbinder
+1 Kasmina, Enigmatic Mentor
+1 The Eleventh Hour
+1 Gone Missing
+1 Orthion, Hero of Lavabrink
+1 The Caldaia
+1 Ragavan, Nimble Pilferer
+1 Vaultbreaker
+1 Minion Reflector
+1 Heat Shimmer
+1 Daretti, Scrap Savant
+1 Canoptek Scarab Swarm
+1 Drake Haven
+1 Alrund's Epiphany
+1 Sokenzan Smelter
+1 Seasoned Pyromancer
+1 Aether Spellbomb
+{'overall': '5', 'cmc': 3.3636363636363638, 'ramp': '4', 'draw': '25', 'interaction': 5}

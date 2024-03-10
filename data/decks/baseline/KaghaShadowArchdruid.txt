@@ -1,0 +1,101 @@
+1 Kagha, Shadow Archdruid
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Howlpack Piper // Wildsong Howler
+1 Ashcoat of the Shadow Swarm
+1 Deal Gone Bad
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Storybook Ride
+1 Oblivion Sower
+1 Durnan of the Yawning Portal
+1 New Argive
+1 Gather the Pack
+1 Fated Return
+1 Turri Island
+1 Duskwatch Recruiter // Krallenhorde Howler
+1 Hua Tuo, Honored Physician
+1 Sigil of Myrkul
+1 A-Sigil of Myrkul
+1 Vivien, Nature's Avenger
+1 Zask, Skittering Swarmlord
+1 Nissa, Genesis Mage
+1 Battlefield Scrounger
+1 Yawgmoth's Testament
+1 Relentless Pursuit
+1 In the Presence of Ages
+1 Price of Fame
+1 Commune with the Gods
+1 Scout the Borders
+1 Grisly Salvage
+1 Heroes' Podium
+1 Dogged Detective
+1 The Pyramid of Mars
+1 Kolvori, God of Kinship // The Ringhart Crest
+1 Vivien, Champion of the Wilds
+1 Benefaction of Rhonas
+1 Grim Flayer
+1 Hostile Negotiations
+1 Seed of Hope
+1 Feral Encounter
+1 Drown in Sorrow
+1 Glacial Revelation
+1 Carth the Lion
+1 Radagast the Brown
+1 Sandstalker Moloch
+1 Thunderous Debut
+1 Ferocious Charge
+1 For the Ancestors
+1 Misinformation
+1 Horn of the Mark
+1 Beast Hunt
+1 Discerning Taste
+1 Ashiok, Wicked Manipulator
+1 Underrealm Lich
+1 Deceiver of Form
+1 Colfenor's Plans
+1 Fight Rigging
+1 Cream of the Crop
+1 Flitting Guerrilla
+1 Ravenous Gigamole
+1 Wasteful Harvest
+1 Szarekh, the Silent King
+1 Gravepurge
+1 Forever Young
+1 Footbottom Feast
+1 Invasion of Ravnica // Guildpact Paragon
+1 Animist's Awakening
+{'overall': '3', 'cmc': 3.242424242424242, 'ramp': '3', 'draw': '34', 'interaction': 1}

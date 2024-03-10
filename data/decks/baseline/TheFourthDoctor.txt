@@ -1,0 +1,101 @@
+1 The Fourth Doctor
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Mystic Forge
+1 Augur of Autumn
+1 Korlessa, Scale Singer
+1 Farsight Ritual
+1 Precognition Field
+1 Oracle of Mul Daya
+1 Emperor Mihail II
+1 Cemetery Illuminator
+1 Artificer's Assistant
+1 Vesuvan Drifter
+1 The Matrix of Time
+1 Magus of the Future
+1 Future Sight
+1 One with the Multiverse
+1 Ink Dissolver
+1 Rise of Eagles
+1 Start the TARDIS
+1 Leaf-Crowned Elder
+1 Riddleform
+1 Foul Emissary
+1 Vizier of the Menagerie
+1 Thunderous Debut
+1 Panglacial Wurm
+1 Quandrix Apprentice
+1 Lens of Clarity
+1 Delver of Secrets // Insectile Aberration
+1 Durnan of the Yawning Portal
+1 Cruel Witness
+1 Wolf-Skull Shaman
+1 Realmwalker
+1 Grimoire Thief
+1 Larder Zombie
+1 Jace, Architect of Thought
+1 Chorus of the Tides
+1 Prescient Chimera
+1 Season of Growth
+1 Courser of Kruphix
+1 Meletis Astronomer
+1 Thought Harvester
+1 Deceiver of Form
+1 Jacob Hauken, Inspector // Hauken's Insight
+1 Fated Infatuation
+1 Elven Chorus
+1 Sandstalker Moloch
+1 Massacre Totem
+1 Time Sidewalk
+1 Garruk's Horde
+1 Eyes of the Watcher
+1 Sight Beyond Sight
+1 Oath of Nissa
+1 Search for Azcanta // Azcanta, the Sunken Ruin
+1 Tapping at the Window
+1 Enhanced Surveillance
+1 Chromescale Drake
+1 Howlpack Piper // Wildsong Howler
+1 Natural Reclamation
+1 Mind's Desire
+1 Reality Heist
+1 Vivien, Champion of the Wilds
+1 Sprouting Vines
+1 Tracker's Instincts
+1 A Little Chat
+1 Mul Daya Channelers
+{'overall': '3', 'cmc': 3.4393939393939394, 'ramp': '7', 'draw': '20', 'interaction': 0}

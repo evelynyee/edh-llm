@@ -1,0 +1,101 @@
+1 Magda, Brazen Outlaw
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Fabled Passage
+1 Cabaretti Courtyard
+1 Riveteers Overlook
+1 Brokers Hideout
+1 Obscura Storefront
+1 Maestros Theater
+1 Demolition Field
+1 Prismatic Vista
+1 Grasslands
+1 Flood Plain
+1 Windswept Heath
+1 Terminal Moraine
+1 Bad River
+1 Wooded Foothills
+1 Mountain Valley
+1 Misty Rainforest
+1 Thawing Glaciers
+1 Arid Mesa
+1 Verdant Catacombs
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Myr Turbine
+1 Kuldotha Forgemaster
+1 Dragon's Herald
+1 Murasa
+1 Wayfarer's Bauble
+1 Burnished Hart
+1 Pattern Matcher
+1 The Champion
+1 Realmbreaker, the Invasion Tree
+1 Runed Crown
+1 Scampering Surveyor
+1 Navigation Orb
+1 A-Navigation Orb
+1 Deathbellow War Cry
+1 Realms Befitting My Majesty
+1 Bitterthorn, Nissa's Animus
+1 Solemn Simulacrum
+1 Druidic Satchel
+1 Scrapyard Recombiner
+1 Moggcatcher
+1 Park Map
+1 Ecologist's Terrarium
+1 Planar Bridge
+1 Gate to the Afterlife
+1 Shield-Wall Sentinel
+1 Volatile Fault
+1 Forerunner of the Empire
+1 Treasure Chest
+1 Self-Assembler
+1 Copper Gnomes
+1 Alpine Guide
+1 Imperial Recruiter
+1 Pilgrim's Eye
+1 Rowan's Stalwarts
+1 Strata Scythe
+1 Scaretiller
+1 Karn, Scion of Urza
+1 Cleansing Wildfire
+1 Chandra's Firemaw
+1 Mycosynth Wellspring
+1 Armillary Sphere
+1 Renegade Map
+1 Wild-Field Scarecrow
+1 Traveler's Amulet
+1 Wanderer's Twig
+1 Myr Kinsmith
+1 Hoarding Dragon
+1 Hithlain Rope
+1 Farfinder
+1 Expedition Map
+1 Goblin Matron
+1 Skittering Surveyor
+1 Sarkhan's Triumph
+1 Viridian Zealot Avatar
+1 Portal to Phyrexia
+1 Walking Atlas
+1 Geomancer's Gambit
+1 Shrine Steward
+1 Boldwyr Heavyweights
+1 Braidwood Sextant
+1 The Aether Flues
+1 Introductions Are in Order
+1 Flamekin Harbinger
+{'overall': '8', 'cmc': 2.127906976744186, 'ramp': '27', 'draw': '34', 'interaction': 1}

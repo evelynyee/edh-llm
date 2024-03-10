@@ -1,0 +1,101 @@
+1 Sarulf, Realm Eater
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Aether Vial
+1 Pir, Imaginative Rascal
+1 Bounty of the Hunt
+1 Norn's Dominion
+1 Ratchet Bomb
+1 The Moment
+1 Powder Keg
+1 Mercadian Lift
+1 The Filigree Sylex
+1 Necroplasm
+1 Obsessive Skinner
+1 All Hallow's Eve
+1 Kami of Whispered Hopes
+1 Fraying Line
+1 Forgotten Ancient
+1 Ruinous Intrusion
+1 Queen's Bay Paladin
+1 Amy's Home
+1 Dodecapod
+1 Anoint with Affliction
+1 Descent into Madness
+1 Descendant of Masumaro
+1 Oblivion Stone
+1 Etched Oracle
+1 Sphere of Annihilation
+1 Chalice of the Void
+1 Kurgadon
+1 Night Dealings
+1 Settle the Score
+1 Ascendant Packleader
+1 Vorinclex, Monstrous Raider
+1 Vexing Puzzlebox
+1 Willow Geist
+1 Omarthis, Ghostfire Initiate
+1 Jar of Eyeballs
+1 Barrin's Codex
+1 Geth's Summons
+1 Call of the Death-Dweller
+1 Emergent Woodwurm
+1 Meren of Clan Nel Toth
+1 Gixian Skullflayer
+1 Bold Plagiarist
+1 Lorcan, Warlock Collector
+1 Gurgling Anointer
+1 Shrine of Limitless Power
+1 Shelob, Dread Weaver
+1 Golden Urn
+1 Chevill, Bane of Monsters
+1 Hibernation's End
+1 Wishclaw Talisman
+1 Grindclock
+1 Colossal Badger // Dig Deep
+1 Shrine of Piercing Vision
+1 Arcbound Overseer Avatar
+1 Triassic Egg
+1 Geometric Nexus
+1 Evolutionary Escalation
+1 Intrepid Paleontologist
+1 Might Beyond Reason
+1 Arcbound Reclaimer
+1 Discordant Dirge
+1 Kodama of the East Tree
+1 Clearwater Goblet
+{'overall': '4', 'cmc': 3.0606060606060606, 'ramp': '4', 'draw': '9', 'interaction': 11}

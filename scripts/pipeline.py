@@ -19,7 +19,7 @@ COMMANDERS_PATH = os.path.join(DATA_PATH, "commanders.pkl")
 BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
 BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "baseline")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
-BUILT_PATH = os.path.join(DATA_PATH, "built")
+BUILT_PATH = os.path.join(DATA_PATH, "completed")
 POWER_PATH = os.path.join(BUILT_PATH, "power")
 
 def load_data(fp):

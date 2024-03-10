@@ -1,0 +1,101 @@
+1 Illuminor Szeras
+1 Haven of the Spirit Dragon
+1 Springjack Pasture
+1 Voldaren Estate
+1 Bonders' Enclave
+1 War Room
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Soldevi Adnate
+1 Priest of Yawgmoth
+1 The Mycosynth Gardens
+1 Sanguine Praetor
+1 Miren, the Moaning Well
+1 Dread Defiler
+1 Arguel's Blood Fast // Temple of Aclazotz
+1 Demon of Fate's Design
+1 Noxious Dragon
+1 Disembowel
+1 Feed the Cauldron
+1 Lord of the Forsaken
+1 Organ Harvest
+1 Urn of Godfire
+1 Living Armor
+1 Spoils of Evil
+1 Fatal Push
+1 Sacrifice
+1 Epic Downfall
+1 Blood on the Snow
+1 Ruthless Technomancer
+1 Azor's Gateway // Sanctum of the Sun
+1 Inscription of Ruin
+1 Eliminate
+1 Loathsome Curator
+1 Plaguebearer
+1 Grave Choice
+1 Reckoner's Bargain
+1 Complete Disregard
+1 Karn
+1 Bosh, Iron Golem Avatar
+1 Engineered Explosives
+1 Extinguish the Light
+1 Warping Wail
+1 Pus Kami
+1 Pyre of Heroes
+1 Viconia, Disciple of Blood
+1 Hotel of Fears
+1 Ritual of Soot
+1 Spinning Wheel
+1 Phyrexian Fleshgorger
+1 Morbid Curiosity
+1 Wreck Hunter
+1 Vraska, Betrayal's Sting
+1 Fateful Handoff
+1 Slumbering Tora
+1 Bushmeat Poacher
+1 Severed Strands
+1 Imp's Mischief
+1 Stir the Grave
+1 Spawnsire of Ulamog
+1 Gang Up
+1 Toymaker
+1 Salvaging Station
+1 Shadows' Verdict
+1 Phyrexian Devourer
+1 Souls of the Lost
+1 Xenic Poltergeist
+1 Phyrexian Delver
+1 Gruesome Menagerie
+1 The Cave of Skulls
+1 Driver of the Dead
+1 Forced March
+{'overall': '6', 'cmc': 2.8857142857142857, 'ramp': '12', 'draw': '12', 'interaction': 26}

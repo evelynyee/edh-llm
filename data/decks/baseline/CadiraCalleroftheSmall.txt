@@ -1,0 +1,101 @@
+1 Cadira, Caller of the Small
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Zeriam, Golden Wind
+1 Precinct Captain
+1 Brood Sliver
+1 Overgrown Armasaur
+1 Living Hive
+1 Darien, King of Kjeldor
+1 Saber Ants
+1 There Is No Refuge
+1 Rith, the Awakener Avatar
+1 Pollenbright Wings
+1 Saproling Infestation
+1 Paliano
+1 Polyraptor
+1 Ancient Gold Dragon
+1 Giant Adephage
+1 Chittering Doom
+1 Falconer Adept
+1 Spawnwrithe
+1 Sporeweb Weaver
+1 Old Gnawbone
+1 Sword of Body and Mind
+1 Side to Side
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Leonin Warleader
+1 Contraband Livestock
+1 Waiting in the Weeds
+1 Eyes in the Skies
+1 Acorn Catapult
+1 For Each of You, a Gift
+1 Brimaz, King of Oreskos
+1 The Pit
+1 Angelic Ascension
+1 Teysa, Orzhov Scion Avatar
+1 Rotted Ones, Lay Siege
+1 Mongrel Pack
+1 Look Skyward and Despair
+1 Ajani's Last Stand
+1 Sylvan Offering
+1 Druid's Call
+1 Mistakes Were Made
+1 Scepter of Celebration
+1 Elgaud Inquisitor
+1 Snake Pit
+1 Horncaller's Chant
+1 Haunted Library
+1 Druid's Deliverance
+1 Coursers' Accord
+1 Rhys the Redeemed
+1 Dripping-Tongue Zubera
+1 Sliver Queen, Brood Mother
+1 Doomed Traveler
+1 Andúril, Flame of the West
+1 Requiem Angel
+1 Haunted Angel
+1 Scytheclaw
+1 Clowning Around
+1 Hunted Witness
+1 Clown Extruder
+1 Beast Within
+1 Syndicate Messenger
+1 The Wilds
+1 Sprout
+1 Erhnam Djinn Avatar
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

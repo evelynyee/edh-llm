@@ -1,0 +1,101 @@
+1 Kangee, Aerie Keeper
+1 Blast Zone
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Waxmane Baku
+1 Intrepid Adversary
+1 Academy Drake
+1 Spectral Adversary
+1 Emblazoned Golem
+1 Ultramarines Honour Guard
+1 Aether Figment
+1 Marshal's Anthem
+1 Voyager Drake
+1 Ardent Soldier
+1 Apex Hawks
+1 Draining Whelk
+1 Opaline Bracers
+1 Faerie Squadron
+1 Benalish Lancer
+1 Everflowing Chalice
+1 Brain in a Jar
+1 Stormkeld Prowler
+1 Academy Elite
+1 Vitality Hunter
+1 Copper-Leaf Angel
+1 Chalice of the Void
+1 Swell of Courage
+1 Quillmane Baku
+1 Aether Meltdown
+1 Confiscation Coup
+1 Gary Clone
+1 Skyclave Sentinel
+1 Geometric Nexus
+1 Thieving Skydiver
+1 Infused Arrows
+1 Zethi, Arcane Blademaster
+1 _____ Bird Gets the Worm
+1 Kitesail Cleric
+1 Etched Oracle
+1 Vengeful Dreams
+1 Lightkeeper of Emeria
+1 Sphinx-Bone Wand
+1 As Foretold
+1 Solarion
+1 Stall for Time
+1 Aether Tide
+1 Heliophial
+1 Recantation
+1 Dwarven Lightsmith
+1 Jubilant Mascot
+1 Shrine of Burning Rage
+1 Mercadian Lift
+1 Cosima, God of the Voyage // The Omenkeel
+1 Sicarian Infiltrator
+1 Figure of Destiny Avatar
+1 Skitter Eel
+1 Ardenvale Paladin
+1 A-Spell Satchel
+1 Primal Amulet // Primal Wellspring
+1 Spell Satchel
+1 Font of Progress
+1 Surrakar Spellblade
+1 Lilting Refrain
+1 Rampaging Monument
+1 Space Marine Devastator
+1 Spellstutter Sprite
+1 Steel Exemplar
+{'overall': '3', 'cmc': 3.044776119402985, 'ramp': '5', 'draw': '7', 'interaction': 1}

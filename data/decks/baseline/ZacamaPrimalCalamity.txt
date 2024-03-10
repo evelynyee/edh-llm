@@ -1,0 +1,101 @@
+1 Zacama, Primal Calamity
+1 Contested Cliffs
+1 Blighted Steppe
+1 Nomad Stadium
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Legion Guildmage
+1 Uktabi Faerie
+1 Staff of Domination
+1 Blinding Souleater
+1 Mothrider Patrol
+1 Viridian Scout
+1 Clockwork Drawbridge
+1 Priest of Iroas
+1 Gruul Guildmage
+1 Frostbridge Guard
+1 Akroan Jailer
+1 Elf Replica
+1 Eiganjo, Seat of the Empire
+1 Dazzling Ramparts
+1 Primitive Justice
+1 Smoldering Werewolf // Erupting Dreadwolf
+1 Barbarian Lunatic
+1 Unyaro Bees
+1 Ruinous Gremlin
+1 Goblin Replica
+1 Ghost-Lit Redeemer
+1 Sacred White Deer
+1 Marrow Shards
+1 Bamboo Grove Archer
+1 Fyndhorn Brownie
+1 Font of Vigor
+1 Trumpeting Carnosaur
+1 Capashen Unicorn
+1 Dwarven Miner
+1 Giant Killer // Chop Down
+1 Checkpoint Officer
+1 Shivan Harvest
+1 Starved Rusalka
+1 Dedicated Martyr
+1 Zarichi Tiger
+1 Armistice
+1 Blood Rites
+1 Gut Shot
+1 Herbal Poultice
+1 Lieutenant Kirtar
+1 Cursebreak
+1 Viridian Zealot
+1 Nova Cleric
+1 Metallurgeon
+1 Loxodon Mender
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Keldon Necropolis
+1 Aerial Predation
+1 Deadly Riposte
+1 Caustic Caterpillar
+1 Werefox Bodyguard
+1 Ray of Dissolution
+1 Thornscape Master
+1 A-Haywire Mite
+1 Exorcist
+1 Appetite for the Unnatural
+1 Sanctify
+1 Natural End
+1 Path of Mettle // Metzali, Tower of Triumph
+1 Loxodon Hierarch
+1 Rubble Reading
+1 Companion of the Trials
+1 Soldier Replica
+{'overall': '2', 'cmc': 2.3142857142857145, 'ramp': '2', 'draw': '2', 'interaction': 24}

@@ -1,0 +1,101 @@
+1 Vrestin, Menoptra Leader
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Orochi Hatchery
+1 Custodi Soulbinders
+1 Threefold Thunderhulk
+1 Clown Car
+1 Hangarback Walker
+1 Boss's Chauffeur
+1 Sanctuary Warden
+1 Fractal Harness
+1 Mycoloth
+1 Alharu, Solemn Ritualist
+1 Visionary Augmenter
+1 Hooded Hydra
+1 Ornitharch
+1 Paradox Zone
+1 Kinsbaile Borderguard
+1 Gruff Triplets
+1 Angel of Invention
+1 Leyline Invocation
+1 Ochre Jelly
+1 A-Ochre Jelly
+1 Sandsteppe Outcast
+1 Oath of Gideon
+1 Termagant Swarm
+1 Twilight Drover
+1 Lieutenants of the Guard
+1 Pentavus
+1 Regal Caracal
+1 Bat Colony
+1 Dark Depths
+1 Sigil Captain
+1 Staff of the Storyteller
+1 Ooze Flux
+1 Ivy Elemental
+1 Ich-Tekik, Salvage Splicer
+1 Thopter Squadron
+1 Welcome to Sweettooth
+1 Herd Baloth
+1 Clay-Fired Bricks // Cosmium Kiln
+1 Incubation Sac
+1 Arlinn, Voice of the Pack
+1 Jund
+1 Midsummer Revel
+1 Spike Breeder
+1 Glint-Sleeve Artisan
+1 Accomplished Automaton
+1 Propeller Pioneer
+1 Peema Outrider
+1 Iron League Steed
+1 Horn of Gondor
+1 Bloodspore Thrinax
+1 Sporesower Thallid
+1 Thallid Shell-Dweller
+1 Thallid
+1 Turntimber Ranger
+1 Kharis & The Beholder
+1 Cultivator of Blades
+1 Sporogenesis
+1 Trigon of Infestation
+1 Savage Thallid
+1 Elenda's Hierophant
+1 Treebeard, Gracious Host
+1 Woodland Champion
+1 Titan Forge
+{'overall': '4', 'cmc': 3.4545454545454546, 'ramp': '1', 'draw': '5', 'interaction': 0}

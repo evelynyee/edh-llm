@@ -1,0 +1,101 @@
+1 Armix, Filigree Thrasher
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Hypnotic Swirly Disc
+1 Maro Avatar
+1 Guest List
+1 Liliana, Untouched by Death
+1 Shadow Stinger
+1 Profane Command
+1 Sarevok, Deadly Usurper
+1 Chupacabra Echo
+1 Hostile Hostel // Creeping Inn
+1 Scent of Nightshade
+1 A-Deal Gone Bad
+1 Nightshade Seer
+1 Pact of the Serpent
+1 Flunk
+1 Painbringer
+1 Liliana, Waker of the Dead
+1 Lys Alana Scarblade
+1 Nightmarish End
+1 Tooth Collector
+1 Szat's Will
+1 Monumental Corruption
+1 Arm-Mounted Anchor
+1 Altar of the Goyf
+1 Grim Hireling
+1 Graveyard Trespasser // Graveyard Glutton
+1 Hand of Vecna
+1 Spoils of War
+1 Black Hole
+1 Ossuary Rats
+1 Smuggler's Copter
+1 To the Slaughter
+1 Raiders' Karve
+1 Sarevok the Usurper
+1 Erebos's Intervention
+1 Exotic Disease
+1 Reaper of Night // Harvest Fear
+1 Ghoul's Feast
+1 Geth, Lord of the Vault
+1 Corpse Augur
+1 Gix's Command
+1 Kagemaro, First to Suffer
+1 Blot Out
+1 Festive Funeral
+1 Dogsnail Engine
+1 Triumph of Cruelty
+1 Artisan of Kozilek
+1 Necron Monolith
+1 Specter of Mortality
+1 Fell Flagship
+1 Deal Gone Bad
+1 Unforgiving One
+1 Sewer Shambler
+1 Dregs of Sorrow
+1 Nightmare Incursion
+1 Essence Harvest
+1 Davriel, Soul Broker
+1 Nightmare Unmaking
+1 Ashcoat of the Shadow Swarm
+1 Keening Stone
+1 Death Cloud
+1 Ebony Charm
+1 Eldritch Pact
+1 The Long Reach of Night // Animus of Night's Reach
+{'overall': '3', 'cmc': 3.6307692307692307, 'ramp': '1', 'draw': '7', 'interaction': 8}

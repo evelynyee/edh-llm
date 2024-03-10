@@ -1,0 +1,101 @@
+1 Rona, Disciple of Gix
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Unesh, Criosphinx Sovereign
+1 Colfenor's Plans
+1 Start the TARDIS
+1 Kotose, the Silent Spider
+1 Sakashima's Protege
+1 Ingenuity Engine
+1 Flash of Insight
+1 Chromescale Drake
+1 Commit // Memory
+1 Hidetsugu and Kairi
+1 Surging Aether
+1 Increasing Ambition
+1 Deny Reality
+1 Ephara's Dispersal
+1 Invasive Surgery
+1 Gray Slaad // Entropic Decay
+1 Forbidden Alchemy
+1 Chaos Wand
+1 Sweet Oblivion
+1 Aminatou's Augury
+1 Oblivion Sower
+1 Nymris, Oona's Trickster
+1 Unexpected Conversion
+1 Nightmare Moon // Princess Luna
+1 Mission Briefing
+1 Price of Fame
+1 Cemetery Illuminator
+1 Aquatic Alchemist // Bubble Up
+1 Forceful Denial
+1 Otherworldly Gaze
+1 Demonic Collusion
+1 Forbid
+1 Jester's Scepter
+1 Digsite Conservator
+1 Maelstrom Colossus
+1 Talent of the Telepath
+1 The Stone Brain
+1 Heralds of Tzeentch
+1 Covetous Castaway // Ghostly Castigator
+1 Surging Dementia
+1 Glimpse the Cosmos
+1 Tainted Pact
+1 The Matrix of Time
+1 Siphon Insight
+1 Dig Up the Body
+1 Grimoire Thief
+1 Farsight Ritual
+1 Sheoldred's Assimilator
+1 Larder Zombie
+1 Merfolk Secretkeeper // Venture Deeper
+1 Cruel Somnophage // Can't Wake Up
+1 Shadow of the Enemy
+1 Dig Through Time
+1 Monstrous War-Leech
+1 Stolen Goods
+1 Cabal Therapy
+1 Aberrant Mind Sorcerer
+1 Kathari Remnant
+1 Corpse Churn
+1 Galvanic Giant // Storm Reading
+1 Sight Beyond Sight
+1 Sea God's Revenge
+1 Pick the Brain
+{'overall': '3', 'cmc': 3.878787878787879, 'ramp': '2', 'draw': '22', 'interaction': 4}

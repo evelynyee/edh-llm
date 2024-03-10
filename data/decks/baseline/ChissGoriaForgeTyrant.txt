@@ -1,0 +1,101 @@
+1 Chiss-Goria, Forge Tyrant
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Rob the Archives
+1 Dargo, the Shipwrecker
+1 March of Reckless Joy
+1 Furnace Dragon
+1 The Pieces Are Coming Together
+1 Apex of Power
+1 Mycosynth Golem
+1 TARDIS Bay
+1 Etali, Primal Storm // Etali, Primal Storm
+1 Etali, Primal Storm
+1 Volcanic Torrent
+1 Hazoret's Undying Fury
+1 Call Forth the Tempest
+1 Chandra, Dressed to Kill
+1 Conduit of Ruin
+1 Embalmer's Tools
+1 Rain of Riches
+1 Myr Enforcer
+1 Frogmite
+1 Invoke Calamity
+1 Stolen Strategy
+1 Capricious Hellraiser
+1 Gate Colossus
+1 Robber of the Rich
+1 Metalwork Colossus
+1 Let the Galaxy Burn
+1 Noise Marine
+1 Finale of Promise
+1 Dark Apostle
+1 Zhulodok, Void Gorger
+1 Fires of Invention
+1 A-Fires of Invention
+1 Chandra, Flame's Catalyst
+1 Chandra, Hope's Beacon
+1 Thrumming Stone
+1 Ingenuity Engine
+1 Visions of Ruin
+1 Emrakul, the Promised End
+1 Bloodbraid Marauder
+1 Surging Flame
+1 Share the Spoils
+1 Hearth Elemental // Stoke Genius
+1 Damping Sphere
+1 Power Without Equal
+1 Dance with Calamity
+1 Shell of the Last Kappa
+1 Wickerwing Effigy
+1 Mogg Salvage
+1 Surge to Victory
+1 Swashbuckler's Whip
+1 Meteoric Mace
+1 Enigma Sphinx Avatar
+1 Bloodthirsty Adversary
+1 Jhoira's Familiar
+1 Convergence of Dominion
+1 Confession Dial
+1 Razor Golem
+1 Ogre Battlecaster
+1 Locket of Yesterdays
+1 Hazoret's Monument
+1 Audacious Swap
+1 Harness the Storm
+1 Light Up the Stage
+{'overall': '2', 'cmc': 4.584615384615384, 'ramp': '9', 'draw': '7', 'interaction': 7}

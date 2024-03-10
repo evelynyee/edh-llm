@@ -1,0 +1,101 @@
+1 Pako, Arcane Retriever
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Emperor's Vanguard
+1 Enter the Unknown
+1 Laelia, the Blade Reforged
+1 Countryside Crusher
+1 Jadelight Spelunker
+1 Tishana's Wayfinder
+1 Ixalli's Diviner
+1 Path of Discovery
+1 Lurking Predators
+1 Jadelight Ranger
+1 Pathfinding Axejaw
+1 Cenote Scout
+1 Merfolk Branchwalker
+1 Brazen Buccaneers
+1 River Herald Guide
+1 Blanchwood Prowler
+1 Tomakul Scrapsmith
+1 Seeker of Sunlight
+1 Vivien's Talent
+1 Selvala's Enforcer
+1 Mayael the Anima Avatar
+1 Glowcap Lantern
+1 Lost in the Woods
+1 Ketria
+1 The Maelstrom
+1 Deathbonnet Sprout // Deathbonnet Hulk
+1 Chaos Wrap
+1 Hans Eriksson
+1 Aid from the Cowl
+1 Genesis Storm
+1 Over the Edge
+1 The Aether Flues
+1 Primal Surge
+1 Moldgraf Millipede
+1 Vivien's Grizzly
+1 Garruk, Caller of Beasts
+1 Fight Rigging
+1 Ojer Kaslem, Deepest Growth // Temple of Cultivation
+1 Journey to the Lost City
+1 Sarinth Steelseeker
+1 Commune with the Gods
+1 Nath's Elite
+1 Blossom Prancer
+1 Winnower Patrol
+1 Adventure Awaits
+1 Scout the Borders
+1 Season of Growth
+1 Flame Channeler // Embodiment of Flame
+1 Wasteful Harvest
+1 See the Unwritten
+1 Adder-Staff Boggart
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Fierce Invocation
+1 Benefaction of Rhonas
+1 Gamekeeper
+1 Industrial Advancement
+1 Relentless Pursuit
+1 In the Presence of Ages
+1 Venture Forth
+1 Foster
+1 Vessel of Nascency
+1 Into the Wilds
+1 Formless Nurturing
+{'overall': '3', 'cmc': 3.1515151515151514, 'ramp': '4', 'draw': '36', 'interaction': 1}

@@ -1,0 +1,101 @@
+1 Grimgrin, Corpse-Born
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Grimgrin, Corpse-Born // Grimgrin, Corpse-Born
+1 Giant Oyster
+1 Floodchaser
+1 Merchant Raiders
+1 Steel Dromedary
+1 Temporal Distortion
+1 Malakir Cullblade
+1 Patron of the Vein
+1 The Cheetah Planet
+1 Spitting Dilophosaurus
+1 Mesmerizing Dose
+1 Protocol Knight
+1 Leech Bonder
+1 Guardian of Tazeem
+1 Dungeon Geists
+1 Edge of Malacol
+1 Venarian Gold
+1 Aku Djinn
+1 Frostfist Strider
+1 Skeleton Ship
+1 Hunted Nightmare
+1 Kapsho Kitefins
+1 Vedalken Anatomist
+1 Farmstead Gleaner
+1 Baleful Ammit
+1 Seasinger
+1 Waylaying Pirates
+1 Vebulid
+1 Aven Courier
+1 Nightshade Harvester
+1 Lawless Broker
+1 Helm of Possession
+1 Stitched Mangler
+1 Svyelun of Sea and Sky
+1 Spinal Centipede
+1 Guul Draz Mucklord
+1 Sparring Construct
+1 Tidebinder Mage
+1 Vigean Graftmage
+1 Bojuka Brigand
+1 Virulent Wound
+1 Invasion of Ulgrotha // Grandmother Ravi Sengir
+1 Trench Behemoth
+1 Galvanic Juggernaut
+1 Sightless Ghoul
+1 Snaremaster Sprite
+1 Tainted Aether
+1 Shauku, Endbringer
+1 Frost Trickster
+1 Necroskitter
+1 Tawnos's Weaponry
+1 Merfolk Skyscout
+1 Bewitching Leechcraft
+1 Stormbound Geist
+1 Bounty Hunter
+1 Yahenni, Undying Partisan
+1 Winter's Rest
+1 Zygon Infiltrator
+1 Dread Wight
+1 Syr Ginger, the Meal Ender
+1 Cytoplast Manipulator
+1 Ordeal of Erebos
+1 Parallax Dementia
+{'overall': '1', 'cmc': 3.257575757575758, 'ramp': '0', 'draw': '2', 'interaction': 7}
