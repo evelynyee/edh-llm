@@ -1,0 +1,101 @@
+1 The Swarmlord
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Sisterhood of Karn
+1 Ior Ruin Expedition
+1 Rampaging Monument
+1 Centaur Battlemaster
+1 Setessan Oathsworn
+1 Pheres-Band Thunderhoof
+1 Sage of Hours
+1 Setessan Champion
+1 Staunch-Hearted Warrior
+1 Lifecraft Cavalry
+1 Golgari Raiders
+1 Greenwheel Liberator
+1 Armorcraft Judge
+1 Storm Fleet Aerialist
+1 Murasa Ranger
+1 Festerhide Boar
+1 Sage of Fables
+1 Arcbound Tracker
+1 Novijen Sages
+1 Swaggering Corsair
+1 Storm Entity
+1 Mindless Automaton
+1 Deadwood Treefolk
+1 Hotheaded Giant
+1 Gravetiller Wurm
+1 Storyweave
+1 Deep Forest Hermit
+1 Cloakwood Swarmkeeper
+1 War-Wing Siren
+1 Satyr Hoplite
+1 Serum Tank
+1 Oran-Rief Hydra
+1 Grumgully, the Generous
+1 Umara Raptor
+1 Narnam Renegade
+1 Shivan Sand-Mage
+1 Timebender
+1 Arcbound Slasher
+1 Elvish Archivist
+1 Territorial Scythecat
+1 Weapon Rack
+1 Scrounging Bandar
+1 The First Tyrannic War
+1 Embereth Paladin
+1 Thing in the Ice // Awoken Horror
+1 Forgotten Ancient
+1 Woodland Champion
+1 Oran-Rief Survivalist
+1 Cunning Bandit // Azamuki, Treachery Incarnate
+1 Soultether Golem
+1 Graypelt Hunter
+1 Feral Hydra
+1 Budoka Pupil // Ichiga, Who Topples Oaks
+1 Give // Take
+1 Faerie Vandal
+1 Slurrk, All-Ingesting
+1 Blue, Loyal Raptor
+1 Callow Jushi // Jaraku the Interloper
+1 Ulvenwald Bear
+1 Trawler Drake
+1 Tome of Legends
+1 Harvester Troll
+1 The Tenth Doctor
+{'overall': '2', 'cmc': 3.253731343283582, 'ramp': '1', 'draw': '12', 'interaction': 0}

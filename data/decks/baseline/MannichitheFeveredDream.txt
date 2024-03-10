@@ -1,0 +1,101 @@
+1 Mannichi, the Fevered Dream
+1 Island of Wak-Wak
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Myr Quadropod
+1 Dwarven Thaumaturgist
+1 About Face
+1 Bloodthorn Taunter
+1 Whalebone Glider
+1 Chariot of the Sun
+1 Arni Brokenbrow
+1 Blood Lust
+1 Unleash Fury
+1 Karn, Silver Golem
+1 Stone Giant
+1 Ovalchase Dragster
+1 Thundersteel Colossus
+1 Walking Bulwark
+1 Stampede Rider
+1 Crater Elemental
+1 Break Through the Line
+1 Thundering Chariot
+1 Wrangle
+1 Smelt-Ward Ignus
+1 Aradara Express
+1 Sky Skiff
+1 Funeral Longboat
+1 Brute Suit
+1 Sleek Schooner
+1 Irontread Crusher
+1 Rush of Blood
+1 Sentinel
+1 Dusk Legion Dreadnought
+1 Conqueror's Galleon // Conqueror's Foothold
+1 Flayer of Loyalties
+1 Temporary Insanity
+1 Gate Smasher
+1 Grishnákh, Brash Instigator
+1 Smuggler's Copter
+1 Coalition Warbrute
+1 Dragon Throne of Tarkir
+1 Ghost Ark
+1 Claim the Firstborn
+1 Keldon Battlewagon
+1 Consulate Dreadnought
+1 Creepy Puppeteer
+1 Balduvian Berserker
+1 Impelled Giant
+1 Temur Battle Rage
+1 Neural Network
+1 Oaken Power Suit
+1 Mizzium Tank
+1 Demolition Stomper
+1 Nogi, Draco-Zealot
+1 Golden Argosy
+1 Renegade Freighter
+1 Eldrazi Mimic
+1 Wine of Blood and Iron
+1 Toymaker
+1 Infinity Elemental
+1 Yavimaya Steelcrusher
+1 Tentative Connection
+1 Heart of Kiran
+1 Fleetwheel Cruiser
+1 Dominating Vampire
+1 Brawl
+1 Valakut Fireboar
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

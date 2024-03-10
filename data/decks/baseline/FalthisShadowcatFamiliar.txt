@@ -1,0 +1,101 @@
+1 Falthis, Shadowcat Familiar
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Hagra Constrictor
+1 A-Hagra Constrictor
+1 Grimdancer
+1 Splendid Agony
+1 Baleful Beholder
+1 A-Baleful Beholder
+1 Locthwain Paladin
+1 Snapsail Glider
+1 Etched Champion
+1 Underdark Explorer
+1 Cannibalize
+1 Rusted Relic
+1 Hound of the Farbogs
+1 Cover of Darkness
+1 Thraben Foulbloods
+1 Fen Stalker
+1 Throne of Geth
+1 Elbrus, the Binding Blade // Withengar Unbound
+1 Iron Bully
+1 Cryptothrall
+1 Okiba Reckoner Raid // Nezumi Road Captain
+1 Lingering Tormentor
+1 Coveted Jewel
+1 Hag of Noxious Nightmares
+1 Kaito's Pursuit
+1 Commander Greven il-Vec
+1 Intimidation
+1 Abyssal Gorestalker
+1 Mikaeus, the Unhallowed
+1 Dreadmalkin
+1 Synod Centurion
+1 Chief of the Foundry
+1 Malevolent Witchkite
+1 Dunland Crebain
+1 Chittering Host
+1 Surrakar Marauder
+1 Chosen of Markov // Markov's Servant
+1 Gruesome Realization
+1 Halo Hunter
+1 Deathmask Nezumi
+1 Bad Moon
+1 B.F.M. (Big Furry Monster)
+1 Nezumi Bladeblesser
+1 Warg Rider
+1 Yukora, the Prisoner
+1 Glass of the Guildpact
+1 Diregraf Horde
+1 Towashi
+1 Blood Curdle
+1 Brain Weevil
+1 Tezzeret's Strider
+1 Sinuous Vermin
+1 The Torment of Gollum
+1 Orim
+1 Captivating Vampire
+1 Liliana's Mastery
+1 Plague Mare
+1 Geyserfield Stalker
+1 Arcbound Fiend
+1 Grisly Transformation
+1 Death Pit Offering
+1 Ravenous Rotbelly
+1 Sepulchral Primordial
+{'overall': '1', 'cmc': 3.523076923076923, 'ramp': '1', 'draw': '6', 'interaction': 3}

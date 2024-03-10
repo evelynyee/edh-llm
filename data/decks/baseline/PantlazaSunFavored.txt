@@ -1,0 +1,101 @@
+1 Pantlaza, Sun-Favored
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Forest
+1 Mountain
+1 Plains
+1 Keldon Flamesage
+1 Etali's Favor
+1 Zoyowa's Justice
+1 Hit the Mother Lode
+1 Caparocti Sunborn
+1 Sunbird's Invocation
+1 Walk with the Ancestors
+1 Geological Appraiser
+1 Digsite Conservator
+1 Garbage Elemental
+1 Let the Galaxy Burn
+1 Daring Discovery
+1 Noise Marine
+1 Hatchery Spider
+1 Ingenuity Engine
+1 TARDIS Bay
+1 Natural Reclamation
+1 Chimil, the Inner Sun
+1 Summoning Trap
+1 Volcanic Torrent
+1 Treasure Keeper
+1 Call Forth the Tempest
+1 Captured Sunlight
+1 Dance with Calamity
+1 Zhulodok, Void Gorger
+1 Meteoric Mace
+1 Elder Pine of Jukai
+1 Fight Rigging
+1 Buried Treasure
+1 Flamekin Herald
+1 Annoyed Altisaur
+1 Aurora Phoenix
+1 Boarding Party
+1 Bloodbraid Elf
+1 Violent Outburst
+1 Maelstrom Colossus
+1 Enlisted Wurm
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+1 Auspicious Starrix
+1 Kamahl's Druidic Vow
+1 Bloodbraid Marauder
+1 Inquisitor Captain
+1 Vivien's Arkbow
+1 March of Burgeoning Life
+1 Apex Devastator
+1 Chaos Wand
+1 Rain of Riches
+1 Eldritch Evolution
+1 Tibalt's Trickery
+1 Smuggler's Buggy
+1 Storm the Festival
+1 Genesis Hydra
+1 Industrial Advancement
+1 Bell Borca, Spectral Sergeant
+1 Throes of Chaos
+1 Djeru and Hazoret
+1 Dark Apostle
+1 Once Upon a Time
+1 Enigma Sphinx Avatar
+1 Creative Technique
+1 Wand of Wonder
+1 Oath of Nissa
+1 Surging Flame
+{'overall': '2', 'cmc': 4.149253731343284, 'ramp': '4', 'draw': '17', 'interaction': 6}

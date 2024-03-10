@@ -1,0 +1,101 @@
+1 Vorosh, the Hunter
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Swamp
+1 Forest
+1 Island
+1 Slith Bloodletter
+1 Shrine of Burning Rage
+1 Slith Predator
+1 Stromkirk Patrol
+1 Kappa Tech-Wrecker
+1 Necropolis Regent
+1 Bred for the Hunt
+1 Surrakar Spellblade
+1 Angelheart Vial
+1 Cyclone
+1 Bog Humbugs
+1 Relic Amulet
+1 Oona's Blackguard
+1 Skullbriar, the Walking Grave
+1 Shrine of Limitless Power
+1 Naar Isle
+1 Sphinx-Bone Wand
+1 Ammit Eternal
+1 Strixhaven Stadium
+1 Diseased Vermin
+1 Cruel Sadist
+1 Marchesa's Infiltrator
+1 Whispering Specter
+1 Ancient Bronze Dragon
+1 Arcbound Slith
+1 Quest for the Gemblades
+1 Cazur, Ruthless Stalker
+1 Magma Mine
+1 Westgate Regent
+1 Slith Strider
+1 Obelisk Spider
+1 Vanguard Suppressor
+1 Talon of Pain
+1 Time Reaper
+1 Impaler Shrike
+1 Font of Agonies
+1 Ruthless Sniper
+1 Force of Nature
+1 Mask of the Schemer
+1 Biting-Palm Ninja
+1 Sun Droplet
+1 Trophy Hunter
+1 Conductor of Cacophony
+1 Contested Game Ball
+1 Guild Thief
+1 Valeron Wardens
+1 Canopy Surge
+1 Water Weird
+1 Poultrygeist
+1 Thorn Thallid
+1 Time Beetle
+1 Rhox Maulers
+1 Undercity Troll
+1 Atomwheel Acrobats
+1 Ayara's Oathsworn
+1 Retributive Wand
+1 Managorger Hydra
+1 Forgotten Ancient
+1 Night Dealings
+1 Raiders' Spoils
+1 Elvish Handservant
+1 Hasran Ogress
+1 Pompeii
+{'overall': '4', 'cmc': 2.925373134328358, 'ramp': '1', 'draw': '13', 'interaction': 15}

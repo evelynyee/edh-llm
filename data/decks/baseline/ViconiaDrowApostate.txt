@@ -1,0 +1,101 @@
+1 Viconia, Drow Apostate
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Oversold Cemetery
+1 Chitinous Crawler
+1 Nephalia
+1 Bottled Cloister
+1 Bone Harvest
+1 Inys Haen
+1 Ketria
+1 Decaying Soil
+1 Gustha's Scepter
+1 Jester's Scepter
+1 Sigil of Myrkul
+1 A-Sigil of Myrkul
+1 Ill-Gotten Gains
+1 Lodestone Bauble
+1 Nether Shadow
+1 Kyren Archive
+1 Memory Jar
+1 Mortal Combat
+1 Empty the Catacombs
+1 Knowledge Vault
+1 The Matrix of Time
+1 Ghastly Conscription
+1 The Pyramid of Mars
+1 Hag of Scoured Thoughts
+1 Vitality Salve
+1 Corpse Churn
+1 Grinning Totem
+1 Ashcoat of the Shadow Swarm
+1 Moonring Mirror
+1 Golgari Thug
+1 Grixis
+1 No Rest for the Wicked
+1 Sheoldred's Assimilator
+1 Mangara's Tome
+1 Bloodcurdler
+1 Cemetery Tampering
+1 Yawgmoth's Testament
+1 Echoing Return
+1 Urborg Uprising
+1 Summon Undead
+1 Oath of Ghouls
+1 Colfenor's Urn
+1 I Know All, I See All
+1 Aphetto Dredging
+1 Gray Slaad // Entropic Decay
+1 Sanguine Spy
+1 Storybook Ride
+1 Phantasmagorian
+1 Oracle's Vault
+1 Prodigal Sorcerer Avatar
+1 Karn Liberated
+1 From the Catacombs
+1 Magus of the Will
+1 Necroplasm
+1 Gallery of Legends
+1 Urza's Bauble
+1 Pit Keeper
+1 The Deck of Many Things
+1 Grove of the Dreampods
+1 Darkblast
+1 Soul Salvage
+1 Morbid Plunder
+1 March of the Returned
+{'overall': '3', 'cmc': 2.646153846153846, 'ramp': '0', 'draw': '10', 'interaction': 2}

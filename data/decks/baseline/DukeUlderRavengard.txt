@@ -1,0 +1,101 @@
+1 Duke Ulder Ravengard
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Firbolg Flutist
+1 Genasi Enforcers
+1 Legion Loyalty
+1 Cybermen Squadron
+1 Herald of the Host
+1 Blade of Selves
+1 Warchief Giant
+1 Tiamat's Fanatics
+1 Tabaxi Toucaneers
+1 Wyrm's Crossing Patrol
+1 Kharasha Foothills
+1 Hammers of Moradin
+1 Gnoll War Band
+1 The Eternal Wanderer
+1 Dalek Intensive Care
+1 Glóin, Dwarf Emissary
+1 Legion Warboss
+1 Seize the Spotlight
+1 Prime Minister's Cabinet Room
+1 Delina, Wild Mage
+1 Bloodboil Sorcerer
+1 Goblin Spymaster
+1 Fathom Fleet Swordjack
+1 Sentinel of the Eternal Watch
+1 Gwaihir, Greatest of the Eagles
+1 Spark Elemental
+1 Laurine, the Diversion
+1 Besmirch
+1 Kangee's Lieutenant
+1 Veteran Soldier
+1 Tilonalli's Skinshifter
+1 Midnight Crusader Shuttle
+1 Faerie Aerie
+1 Echo Chamber
+1 City of the Daleks
+1 Fey Steed
+1 Sizzling Soloist
+1 A-Sizzling Soloist
+1 Gideon Jura
+1 Glen Elendra
+1 Popular Entertainer
+1 Rammas Echor, Ancient Shield
+1 The Cheetah Planet
+1 Mirror-Style Master
+1 Swooping Pteranodon
+1 Purphoros's Intervention
+1 Mirage Phalanx
+1 Hate Mirage
+1 Crash Through
+1 Kytheon, Hero of Akros // Gideon, Battle-Forged
+1 Ball Lightning
+1 Impetuous Devils
+1 Golden Argosy
+1 Glorybringer
+1 Getaway Car
+1 Flayer of Loyalties
+1 Launch the Fleet
+1 Rowan Kenrith
+1 Bothersome Quasit
+1 Taunting Kobold
+1 Inferno Hellion
+1 Aurelia, Exemplar of Justice
+1 Neural Network
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

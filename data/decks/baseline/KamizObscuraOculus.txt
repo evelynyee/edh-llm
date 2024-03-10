@@ -1,0 +1,101 @@
+1 Kamiz, Obscura Oculus
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 The Master, Mesmerist
+1 Gryffwing Cavalry
+1 Mondassian Colony Ship
+1 Archpriest of Shadows
+1 Jon Irenicus, Shattered One
+1 Flayer of Loyalties
+1 Jace, Arcane Strategist
+1 Fey Steed
+1 Infinite Authority
+1 Sisters of Stone Death Avatar
+1 Very Cryptic Command
+1 Toshiro Umezawa
+1 Guardian of New Benalia
+1 Neural Network
+1 Agent of the Shadow Thieves
+1 Davriel, Soul Broker
+1 Bola Slinger
+1 Danny Pink
+1 Glyph of Doom
+1 Compleat Devotion
+1 Frontline Sage
+1 Clear the Stage
+1 Spirit en-Dal
+1 Kjeldoran Guard
+1 Zenith Seeker
+1 Alora, Cheerful Thief
+1 Sage-Eye Avengers
+1 Wrong Turn
+1 Arm with Aether
+1 Maeve, Insidious Singer
+1 Sandals of Abdallah
+1 Yare
+1 Alora, Merry Thief
+1 Samurai of the Pale Curtain
+1 Knight of the Mists
+1 Wall of Tears
+1 Runesword
+1 Peppersmoke
+1 Landroval, Horizon Witness
+1 Acidic Dagger
+1 Security Bypass
+1 Hezrou // Demonic Stench
+1 Piracy Charm
+1 Kinscaer Harpoonist
+1 Shadow Rift
+1 Arcum's Sleigh
+1 Grazilaxx, Illithid Scholar
+1 Ominous Sphinx
+1 Eradicator Valkyrie
+1 Dream Spoilers
+1 Baneblade Scoundrel // Baneclaw Marauder
+1 Open into Wonder
+1 Fell Shepherd
+1 Liliana, Waker of the Dead
+1 Death Match
+1 The Lux Foundation Library
+1 Oblivion's Hunger
+1 Rammas Echor, Ancient Shield
+1 Shields of Velis Vel
+1 Bee-Bee Gun
+1 Collective Effort
+1 Evil Presents
+1 Delif's Cube
+{'overall': '3', 'cmc': 3.1343283582089554, 'ramp': '0', 'draw': '17', 'interaction': 9}

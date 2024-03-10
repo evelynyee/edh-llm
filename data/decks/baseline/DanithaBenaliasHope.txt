@@ -1,0 +1,101 @@
+1 Danitha, Benalia's Hope
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Auratouched Mage
+1 Nomad Mythmaker
+1 Summoner's Egg
+1 Ironclad Slayer
+1 Malfegor Avatar
+1 Swiftgear Drake
+1 Forerunner of the Legion
+1 Auriok Survivors
+1 Resplendent Marshal
+1 Light-Paws, Emperor's Voice
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Runed Crown
+1 Boonweaver Giant
+1 Belbe's Portal
+1 Angel of Fury
+1 Thalia's Lancers
+1 Walking Atlas
+1 Charmed Griffin
+1 Pattern Matcher
+1 Lightform
+1 Dragon Arch
+1 Knight of the White Orchid
+1 Quicksilver Amulet
+1 My Undead Horde Awakens
+1 Alabaster Dragon
+1 Heliod's Pilgrim
+1 Scaretiller
+1 Emissary of Sunrise
+1 Kinjalli's Dawnrunner
+1 Seasoned Dungeoneer
+1 Didgeridoo
+1 Tazeem Raptor
+1 Ride Guide
+1 Kor Cartographer
+1 Angelic Renewal
+1 Strata Scythe
+1 Academy Rector
+1 Labro Bot
+1 Space Marine Scout
+1 Fiend Hunter
+1 Arena Rector
+1 Faceless Agent
+1 Flagstones of Trokair
+1 Sunrise Seeker
+1 Mycosynth Wellspring
+1 Daru Cavalier
+1 Blade-Blizzard Kitsune
+1 Loyal Gryff
+1 Auramancer
+1 Pet Project
+1 Ecologist's Terrarium
+1 Shield-Wall Sentinel
+1 Aven Warhawk
+1 Miner's Guidewing
+1 Pendant of Prosperity
+1 Stonecloaker
+1 Leonin Relic-Warder
+1 Shrine Steward
+1 Sanctum Gargoyle
+1 Yomiji, Who Bars the Way
+1 Avenging Angel
+1 Self-Assembler
+{'overall': '7', 'cmc': 3.476923076923077, 'ramp': '7', 'draw': '16', 'interaction': 2}

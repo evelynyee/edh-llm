@@ -1,0 +1,101 @@
+1 Brigid, Hero of Kinsbaile
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Elite Archers
+1 Impeccable Timing
+1 Heavy Ballista
+1 Crossbow Infantry
+1 Slash of Talons
+1 Righteous Blow
+1 D'Avenant Archer
+1 Divine Arrow
+1 Sandblast
+1 Cosmium Blast
+1 Expendable Troops
+1 Wanderer's Intervention
+1 Gideon's Reproach
+1 Elite Javelineer
+1 Dragon's Presence
+1 Rain of Blades
+1 Divebomber Griffin
+1 Lightwielder Paladin
+1 Dive Bomber
+1 Hammer of Ruin
+1 Grapeshot Catapult
+1 Celestial Flare
+1 Farrel's Zealot
+1 Tower of Calamities
+1 Sunlance
+1 Farrel's Mantle
+1 Crumbling Colossus
+1 Bullwhip
+1 Fire and Brimstone
+1 Quietus Spike
+1 Soltari Visionary
+1 Lothlórien Blade
+1 Sword of Fire and Ice
+1 Sword of Feast and Famine
+1 Worldslayer
+1 Deftblade Elite
+1 Sword of Sinew and Steel
+1 Beacon Hawk
+1 Deadly Poison Sampler
+1 Phage the Untouchable Avatar
+1 Xenagos's Strike
+1 Defensive Formation
+1 Harsh Justice
+1 Rip to Pieces
+1 Sword of War and Peace
+1 D'Avenant Healer
+1 Telim'Tor's Darts
+1 Brawler's Plate
+1 Neko-Te
+1 Inquisitor's Flail
+1 Emissary of Hope
+1 Catapult Squad
+1 Glen Elendra
+1 Caltrops
+1 Intervention of Keranos
+1 Skyspear Cavalry
+1 Dance of Flame
+1 Celestial Mantle
+1 Soldier Replica
+1 Steadfast Armasaur
+1 Divine Retribution
+1 Zealot il-Vec
+1 Freewind Equenaut
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

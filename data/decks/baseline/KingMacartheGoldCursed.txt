@@ -1,0 +1,101 @@
+1 King Macar, the Gold-Cursed
+1 Golden Guardian // Gold-Forge Garrison
+1 Forbidden Orchard
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Gild
+1 Pitiless Plunderer
+1 Grim Bounty
+1 Deadly Derision
+1 Undercity Scrounger
+1 Zhentarim Bandit
+1 Heartless Pillage
+1 Halo Scarab
+1 Marching Duodrone
+1 Dire Fleet Hoarder
+1 Gleaming Barrier
+1 Nuka-Cola Vending Machine
+1 Gilded Pinions
+1 Sifter of Skulls
+1 Skullport Merchant
+1 Warping Wail
+1 Diamond Kaleidoscope
+1 Deadly Dispute
+1 Contract Killing
+1 Dungeoneer's Pack
+1 Collector's Vault
+1 Prized Statue
+1 Shambling Ghast
+1 Pawn of Ulamog
+1 Cartographer's Companion
+1 Careening Mine Cart
+1 Marut
+1 Gorbag of Minas Morgul
+1 Revel in Riches
+1 Grave Birthing
+1 The Witch's Vanity
+1 Slagstone Refinery
+1 Hoard Robber
+1 Fanatical Offering
+1 Wanted Scoundrels
+1 Fake Your Own Death
+1 Sly Requisitioner
+1 Stone Retrieval Unit
+1 Corpsehatch
+1 Thieves' Tools
+1 Foul Play
+1 Ruthless Knave
+1 Concession Stand
+1 Magnifying Glass
+1 Bake into a Pie
+1 Heap Gate
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Wreck Hunter
+1 Merciless Repurposing
+1 Traumatic Revelation
+1 Cirith Ungol Patrol
+1 Feed the Cauldron
+1 Compleated Huntmaster
+1 Voracious Fell Beast
+1 Foreboding Fruit
+1 Questionable Cuisine
+1 Blight Herder
+1 Grisly Ritual
+1 Mintstrosity
+1 Witch's Oven
+1 Experimental Confectioner
+1 Skittering Invasion
+1 Urza's Saga
+{'overall': '6', 'cmc': 3.014925373134328, 'ramp': '43', 'draw': '15', 'interaction': 14}

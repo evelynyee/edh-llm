@@ -1,0 +1,101 @@
+1 Maarika, Brutal Gladiator
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Aggravate
+1 Neko-Te
+1 Delirium
+1 Ram Through
+1 Terra Stomper
+1 Commando Raid
+1 Laccolith Rig
+1 Runesword
+1 Avatar of Might
+1 Sewers of Estark
+1 Spiteful Prankster
+1 Arcbond
+1 Gaze of Pain
+1 Gimli, Counter of Kills
+1 Assembled Alphas
+1 Burn the Accursed
+1 Anthem of Rakdos
+1 Fear, Fire, Foes!
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Burn Away
+1 Torrent of Lava
+1 Matsu-Tribe Sniper
+1 Pigment Storm
+1 Disintegrate
+1 Eye to Eye
+1 Flame Spill
+1 Siegebreaker Giant
+1 Acidic Dagger
+1 Kami's Flare
+1 Repercussion
+1 Carbonize
+1 Feint
+1 Flamebreak
+1 Hellrider
+1 Gnarlback Rhino
+1 Battle Strain
+1 Heat of Battle
+1 Initiate's Companion
+1 Crash Through
+1 Binding Agony
+1 Weight of Spires
+1 Whippoorwill
+1 Yavimaya Wurm
+1 Wildwood Patrol
+1 Stampeding Rhino
+1 Spiked Baloth
+1 Rootbreaker Wurm
+1 Havoc Devils
+1 Garruk's Companion
+1 Earthshaking Si
+1 Duskdale Wurm
+1 Colossal Dreadmaw
+1 Brambleweft Behemoth
+1 Vraska's Finisher
+1 Incinerate
+1 Consign to the Pit
+1 Super-Duper Death Ray
+1 Ghastbark Twins
+1 Dwarven Vigilantes
+1 Searing Blood
+1 Mishra's War Machine
+1 Well Done
+1 Deadly Poison Sampler
+{'overall': '1', 'cmc': 3.4776119402985075, 'ramp': '0', 'draw': '3', 'interaction': 34}

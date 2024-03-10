@@ -1,0 +1,101 @@
+1 Gut, True Soul Zealot
+1 Unholy Citadel
+1 Adventurers' Guildhouse
+1 Cathedral of Serra
+1 Seafarer's Quay
+1 Mountain Stronghold
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Edgewall Pack
+1 Basalt Golem
+1 Ghirapur Gearcrafter
+1 The Hive
+1 Gift of Wrath
+1 Primal Clay
+1 Heroes of the Revel
+1 Nature Shields Its Own
+1 Skirk Shaman
+1 Hedron Fields of Agadeem
+1 Immortal Phoenix
+1 Mirage Phalanx
+1 Rathi Dragon
+1 Ogre Chitterlord
+1 Harried Spearguard
+1 Gnawing Crescendo
+1 Rohirrim Lancer
+1 Nim Deathmantle
+1 Lair of the Ashen Idol
+1 Big Spender
+1 Goblin Scouts
+1 Two-Headed Giant of Foriys Avatar
+1 The Pit
+1 Ghor-Clan Wrecker
+1 Delina, Wild Mage
+1 Helm of the Host
+1 Dragon Roost
+1 Scarred Puma
+1 Insolent Neonate
+1 Maskwood Nexus
+1 Yuan Shao, the Indecisive
+1 Firefright Mage
+1 Lu Bu, Master-at-Arms
+1 Falkenrath Celebrants
+1 Ratcatcher Trainee // Pest Problem
+1 Sticky Fingers
+1 Viashino Runner
+1 Two-Headed Hunter // Twice the Rage
+1 Shatterskull Recruit
+1 Ripscale Predator
+1 Goblin Trailblazer
+1 Deranged Whelp
+1 Boggart Brute
+1 Song of Totentanz
+1 Cybermen Squadron
+1 Krenko's Enforcer
+1 Bladetusk Boar
+1 Goblin Haberdasher
+1 Tezzeret's Strider
+1 Anax, Hardened in the Forge
+1 Dross Golem
+1 Goblin Sky Raider
+1 Dancing Scimitar
+1 Poetic Ingenuity
+1 Dinotomaton
+1 Raging River
+1 Barbarian General
+1 Mechtitan Core
+1 Dalek Intensive Care
+1 Thopter Engineer
+1 Unyaro
+1 Human-Time Lord Meta-Crisis
+1 Heirs of Stromkirk
+{'overall': '3', 'cmc': 2.9571428571428573, 'ramp': '1', 'draw': '3', 'interaction': 2}

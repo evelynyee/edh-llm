@@ -1,0 +1,101 @@
+1 Meneldor, Swift Savior
+1 Arena
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Cephalid Constable
+1 Suspicious Nanny
+1 Soul Seizer // Ghastly Haunting
+1 Grazilaxx, Illithid Scholar
+1 Bladegriff Prototype
+1 Zephyr Winder
+1 Glen Elendra
+1 Coastal Piracy
+1 Broodbirth Viper
+1 Alrund, God of the Cosmos // Hakka, Whispering Raven
+1 A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven
+1 Immersturm
+1 Clambassadors
+1 Research Thief
+1 Arm with Aether
+1 The Unspeakable
+1 Jinxed Ring
+1 Curiosity Crafter
+1 Kharasha Foothills
+1 Which of You Burns Brightest?
+1 Sigil of Sleep
+1 Leyline Phantom
+1 Seafloor Oracle
+1 Triangle of War
+1 Schema Thief
+1 The Indomitable
+1 Ever-Watching Threshold
+1 Noxious Hydra Breath
+1 Scepter of Empires
+1 Nautiloid Ship
+1 Mouth to Mouth
+1 Surgehacker Mech
+1 Wall of Forgotten Pharaohs
+1 The Dead Shall Serve
+1 Saltwater Stalwart
+1 Blade of Selves
+1 Deadly Poison Sampler
+1 Grinning Demon Avatar
+1 Geistcatcher's Rig
+1 Mindscour Dragon
+1 Specter's Shroud
+1 Worldslayer
+1 Telim'Tor's Darts
+1 Jinxed Idol
+1 Acidic Dagger
+1 Crumbling Colossus
+1 Tome of Gadwick
+1 Riddlekeeper
+1 Nine-Ringed Bo
+1 Impulsive Return
+1 Relic Bind
+1 Dingus Staff
+1 Synapse Sliver
+1 Pyromancer's Gauntlet
+1 Enigma Thief
+1 Boomflinger
+1 Rip to Pieces
+1 Stensia
+1 Farsight Mask
+1 Bronze Bombshell
+1 Cybermen Squadron
+1 Selhoff Occultist
+1 Decoy Gambit
+{'overall': '4', 'cmc': 3.1363636363636362, 'ramp': '0', 'draw': '14', 'interaction': 14}

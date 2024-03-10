@@ -1,0 +1,101 @@
+1 Rashmi, Eternities Crafter
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Enigma Sphinx Avatar
+1 TARDIS Bay
+1 Mind's Desire
+1 Counterlash
+1 Twinning Glass
+1 Bring to Light
+1 Surtland Elementalist
+1 Swindler's Scheme
+1 Garruk's Horde
+1 Imoti, Celebrant of Bounty
+1 Mind's Dilation
+1 Forceful Denial
+1 Lashweed Lurker
+1 Conduit of Ruin
+1 Zhulodok, Void Gorger
+1 Singing Towers of Darillium
+1 Command the Chaff
+1 Shell of the Last Kappa
+1 Skyway Robber
+1 Patron of the Moon
+1 Trail of the Mage-Rings
+1 Panoptic Mirror
+1 Natural Reclamation
+1 Synthesis Pod
+1 Wizard's Spellbook
+1 Sakashima's Protege
+1 Arcane Proxy
+1 Annoyed Altisaur
+1 Kiora, Sovereign of the Deep
+1 Omniscience
+1 Spellshift
+1 Apex Devastator
+1 Omnispell Adept
+1 Vexing Scuttler
+1 Isochron Scepter
+1 Shardless Agent
+1 Maelstrom Colossus
+1 Thrumming Stone
+1 Heralds of Tzeentch
+1 Descendants' Path
+1 Stolen Goods
+1 Surging Aether
+1 Knowledge Exploitation
+1 Muse Vortex
+1 Mnemonic Deluge
+1 Jace's Mindseeker
+1 Dragonlord's Prerogative
+1 Gale's Redirection
+1 Jadzi, Oracle of Arcavios // Journey to the Oracle
+1 Otaria
+1 Jhoira of the Ghitu Avatar
+1 Sorcerous Squall
+1 Signature Spells
+1 One with the Multiverse
+1 Elite Arcanist
+1 March of Burgeoning Life
+1 Biting Remark
+1 Hurl into History
+1 Surging Might
+1 Locket of Yesterdays
+1 Chaos Wand
+1 Cast Through Time
+1 Living Destiny
+{'overall': '1', 'cmc': 4.818181818181818, 'ramp': '3', 'draw': '7', 'interaction': 5}
