@@ -1,0 +1,67 @@
+1 Cadira, Caller of the Small
+1 Stroke of Midnight
+1 Tireless Tracker
+1 Wayfaring Temple
+1 Trolls of Tel-Jilad
+1 Thopter Squadron
+1 Vivien's Stampede
+1 Trostani, Selesnya's Voice
+1 Verdant Sun's Avatar
+1 Wurmcoil Engine
+1 Sylvan Offering
+1 Spirit Mirror
+1 Tolsimir, Friend to Wolves
+1 Tempered Sliver
+1 Spectral Procession
+1 Trostani's Judgment
+1 Thraben Inspector
+1 Swords to Plowshares
+1 Llanowar Elves
+1 Rampant Growth
+1 Sol Ring
+1 Wolfcaller's Howl
+1 Wingmate Roc
+1 Withstand
+1 Zendikar Resurgent
+1 Vine Dryad
+1 Vitu-Ghazi, the City-Tree
+1 Thundering Spineback
+1 Trostani Discordant
+1 Trostani's Summoner
+1 Tireless Provisioner
+1 Sylvok Battle-Chair
+1 Whirlwind
+1 Thud-for-Duds
+1 Wilt-Leaf Liege
+1 Wandering Champion
+1 Triskelavus
+1 Thirsting Axe
+1 Throne of Empires
+1 Virulent Sliver
+1 Vital Splicer
+1 Seedborn Muse
+1 Bloom Tender
+1 Eternal Witness
+1 Vengeful Archon
+1 Wolverine Riders
+1 Thragtusk
+1 Valorous Steed
+1 Venerated Rotpriest
+1 Tempting Contract
+1 Vine Kami
+1 Unnatural Aggression
+1 Thorn Lieutenant
+1 Land Tax
+1 Zendikar's Roil
+1 Treetop Village
+1 Symbiotic Elf
+1 Verdant Force
+1 Tangleweave Armor
+1 Sprout
+1 Viridescent Wisps
+1 Symbiotic Beast
+1 Spontaneous Generation
+1 Vengeant Earth
+1 Trip Wire
+1 Valeron Outlander
+{'overall': '5', 'cmc': 3.727272727272727, 'ramp': '9', 'draw': '8', 'interaction': 8}

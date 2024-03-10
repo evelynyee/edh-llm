@@ -1,0 +1,65 @@
+1 Vorthos, Steward of Myth
+1 Rampant Growth
+1 Vizier of the Menagerie
+1 Seedborn Muse
+1 Treacherous Blessing
+1 Thrill of Possibility
+1 Wolfwillow Haven
+1 Vineglimmer Snarl
+1 Sol Ring
+1 Zimone, Quandrix Prodigy
+1 Wandering Archaic // Explore the Vastlands
+1 Vedalken Archmage
+1 Vengeful Reaper
+1 Verazol, the Split Current
+1 Viridian Acolyte
+1 Umori, the Collector
+1 Wail of the Nim
+1 Zur the Enchanter
+1 Vantress Paladin
+1 Zedruu the Greathearted
+1 Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier
+1 Wild Growth
+1 Vedalken Orrery
+1 Yidris, Maelstrom Wielder
+1 Vandalblast
+1 Wolfir Avenger
+1 Viscerid Deepwalker
+1 Violent Outburst
+1 Willow Priestess
+1 Vodalian Arcanist
+1 Red Elemental Blast
+1 Tombstalker
+1 Volcanic Torrent
+1 Unmake the Graves
+1 Underworld Breach
+1 Urborg Lhurgoyf
+1 Wyll of the Fiend Pact
+1 Watcher of the Roost
+1 Wondrous Crucible
+1 Tormenting Voice
+1 Zaxara, the Exemplary
+1 Vizier of the Anointed
+1 Vizkopa Confessor
+1 Vexing Scuttler
+1 Vindictive Flamestoker
+1 Zirda, the Dawnwaker
+1 Titans' Nest
+1 Yasharn, Implacable Earth
+1 Yuriko, the Tiger's Shadow
+1 Uro, Titan of Nature's Wrath
+1 Zephyr Singer
+1 Whispersteel Dagger
+1 Wind-Kin Raiders
+1 Xander's Pact
+1 Torrent of Souls
+1 Wooded Foothills
+1 Zagoth Triome
+1 Yurlok of Scorch Thrash
+1 Wrenn and Realmbreaker
+1 Timeless Witness
+1 Warzone Duplicator
+1 Wing Shards
+1 Weather the Storm
+1 Torrent of Stone
+{'overall': '6', 'cmc': 3.515625, 'ramp': '11', 'draw': '17', 'interaction': 5}

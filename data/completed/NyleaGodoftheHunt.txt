@@ -1,0 +1,69 @@
+1 Nylea, God of the Hunt
+1 The Warmonger
+1 Vitalize
+1 Volrath's Laboratory
+1 Exploration
+1 Mana Vault
+1 The Hive
+1 War Dance
+1 Vines of Vastwood
+1 Thorn Lieutenant
+1 Wild Instincts
+1 Wrenn and Seven
+1 Sylvan Anthem
+1 Doubling Season
+1 Seedborn Muse
+1 Eternal Witness
+1 Vivien, Arkbow Ranger
+1 Swiftfoot Boots
+1 Wings of Hubris
+1 Woodland Changeling
+1 Hardened Scales
+1 Warden of the Wall
+1 Temur Sabertooth
+1 Veil of Summer
+1 Vivien, Monsters' Advocate
+1 Sylvan Advocate
+1 Verdant Sun's Avatar
+1 Warden of the Woods
+1 Cultivate
+1 Ward of Bones
+1 Xanthic Statue
+1 Wolf's Quarry
+1 Vivien on the Hunt
+1 Vivien's Crocodile
+1 Vine Mare
+1 Verdeloth the Ancient
+1 Veteran Adventurer
+1 Vengevine
+1 Sylvan Safekeeper
+1 Vitality Charm
+1 Tyvar's Stand
+1 Tower Defense
+1 Temur Runemark
+1 Thundering Chariot
+1 Whirlermaker
+1 Timber Protector
+1 Vivien of the Arkbow
+1 Territorial Boar
+1 Bloom Tender
+1 Sol Ring
+1 The Provider
+1 Ursapine
+1 Transmogrifying Licid
+1 Tower of the Magistrate
+1 Wandering Treefolk
+1 Wildgrowth Walker
+1 Green Sun's Zenith
+1 The Great Henge
+1 Ugin, the Ineffable
+1 Wren's Run Hydra
+1 Reclamation Sage
+1 Thunderfoot Baloth
+1 Sylvan Awakening
+1 Whispersilk Cloak
+1 Wolfwillow Haven
+1 Tel-Jilad Chosen
+1 Vintara Snapper
+1 Verdant Outrider
+{'overall': '7', 'cmc': 3.235294117647059, 'ramp': '9', 'draw': '7', 'interaction': 2}

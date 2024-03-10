@@ -1,66 +1,67 @@
 1 The Swarmlord
-1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
-1 Wee Champion
-1 Ugin's Conjurant
-1 Wildwood Scourge
-1 Zndrsplt, Eye of Wisdom
-1 Zurzoth, Chaos Rider
-1 Zhalfirin Void
-1 Wheel of Fate
-1 Red Elemental Blast
-1 Treasure Chest
-1 Wingspan Mentor
-1 Vexing Sphinx
-1 Yavimaya Elder
-1 Sol Ring
-1 Tumble Magnet
-1 Wall of Blossoms
-1 Zameck Guildmage
-1 Wrenn and Seven
-1 Vorapede
-1 Vivien, Champion of the Wilds
-1 Llanowar Elves
-1 Utopia Mycon
-1 Trigon of Rage
-1 Vorel of the Hull Clade
-1 Vine Gecko
-1 Waker of the Wilds
-1 Voyager Drake
-1 Vedalken Archmage
-1 Tetravus
-1 Thran Temporal Gateway
-1 Venerated Teacher
-1 Volrath
-1 Verdant Confluence
 1 Verdant Mastery
-1 Valakut Exploration
-1 Yorvo, Lord of Garenbrig
-1 Vivien, Arkbow Ranger
-1 Your Fate Is Thrice Sealed
-1 Trail of Crumbs
-1 Warm Welcome
-1 Wildfire Cerberus
-1 Wrenn and Realmbreaker
-1 The World Spell
-1 Thorn Thallid
-1 Ticketomaton
-1 Verdurous Gearhulk
-1 Vivid Creek
-1 Words of Wilding
-1 Vexing Puzzlebox
-1 Witness of the Ages
-1 Verdant Command
-1 Verdant Eidolon
-1 Urza's Saga
-1 Well of Ideas
-1 Waker of Waves
-1 Visions of Dominance
-1 Vilespawn Spider
-1 Verazol, the Split Current
-1 Woodland Wanderer
-1 Vivid Grove
-1 Voice of Many
-1 Umara Raptor
-1 Taurean Mauler
+1 Wood Elves
 1 Vastwood Surge
-1 Vantress Paladin
+1 Green Sun's Zenith
+1 Wingshield Agent
+1 Void Mirror
+1 Vivien, Champion of the Wilds
+1 Whispergear Sneak
+1 Warren Instigator
+1 Eternal Witness
+1 Seedborn Muse
+1 Coiling Oracle
+1 Ugin's Mastery
+1 Zendikar's Roil
+1 Verdeloth the Ancient
+1 Vivien, Nature's Avenger
+1 Vedalken Infuser
+1 Tireless Tracker
+1 Trail of Crumbs
+1 Vex
+1 Vorel of the Hull Clade
+1 Wrenn and Six
+1 Vorinclex // The Grand Evolution
+1 Vizier of the Anointed
+1 Teething Wurmlet
+1 Territorial Scythecat
+1 Voracious Wurm
+1 Waker of Waves
+1 Wand of Vertebrae
+1 Treasure Map // Treasure Cove
+1 Turntimber Sower
+1 War Dance
+1 Willow Geist
+1 Wingrattle Scarecrow
+1 Tome Shredder
+1 Wirewood Herald
+1 Wyll, Blade of Frontiers
+1 Vedalken Archmage
+1 Wrenn and Seven
+1 Triskelion
+1 Valakut Exploration
+1 Vengevine
+1 Verdant Confluence
+1 Uro, Titan of Nature's Wrath
+1 Sol Ring
+1 Vessel of Nascency
+1 Lightning Bolt
+1 Verdant Automaton
+1 Tolarian Contempt
+1 Triassic Egg
+1 Tyranid Prime
+1 Undergrowth Scavenger
+1 Verdant Succession
+1 Tilling Treefolk
+1 Tribute to the World Tree
+1 Wren's Run Packmaster
+1 Woodripper
+1 Vorinclex, Monstrous Raider
+1 Timecrafting
+1 Counterspell
+1 Trial of Knowledge
+1 Thought Monitor
+1 Workshop Warchief
+1 The Huntsman's Redemption
+1 Time Beetle
+{'overall': '6', 'cmc': 3.3484848484848486, 'ramp': '9', 'draw': '20', 'interaction': 7}

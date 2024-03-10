@@ -1,68 +1,65 @@
 1 Mishra, Tamer of Mak Fawa
-1 Titan Hunter
-1 Woe Strider
-1 Storm Herald
-1 Yawgmoth's Testament
-1 Vault Robber
-1 Voldaren Epicure
-1 Surly Badgersaur
-1 Wily Goblin
-1 Viashino Sandsprinter
-1 Waste Not
-1 Wretched Confluence
-1 Vraska's Contempt
-1 Vraska, Betrayal's Sting
-1 Whip of Erebos
-1 Withercrown
-1 Witch of the Moors
-1 Vito's Inquisitor
-1 Strands of Night
-1 Tormod's Crypt
-1 Abrade
-1 Vengeful Reaper
-1 Violent Eruption
-1 Vilis, Broker of Blood
-1 Ugin, the Ineffable
-1 Wasteland Scorpion
-1 Syrix, Carrier of the Flame
-1 Unnatural Endurance
-1 Tempt with Immortality
-1 Veinfire Borderpost
-1 Vicious Offering
-1 Tunnel of Love
-1 Vampire Hounds
-1 Ugin, the Spirit Dragon
-1 Unmask
-1 Viashino Skeleton
-1 Wrench Mind
-1 Thunderkin Awakener
-1 Thieving Amalgam
 1 Demonic Tutor
-1 Lightning Bolt
-1 Vandalblast
-1 Mind Stone
-1 Toxic Deluge
-1 Tormod's Cryptkeeper
-1 Vindictive Flamestoker
-1 Zurzoth, Chaos Rider
-1 Telim'Tor's Edict
-1 Thief of Hope
-1 Zirilan of the Claw
-1 Warbringer
-1 Tombstalker
-1 Underworld Connections
+1 Mana Vault
+1 Vampires' Vengeance
+1 Dark Ritual
 1 Vulturous Aven
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Volrath the Fallen
 1 Tomb Tyrant
-1 Urza's Blueprints
-1 Xiahou Dun, the One-Eyed
-1 Wild-Magic Sorcerer
-1 Zariel, Archduke of Avernus
-1 Valakut Exploration
-1 Twisted Fealty
-1 Thick-Skinned Goblin
-1 Red Elemental Blast
-1 Zhentarim Bandit
-1 Volatile Chimera
-1 Weaponized Scrap
-{'overall': '11.02', 'cmc': '3', 'ramp': '5', 'draw': '31', 'interaction': '17'}
+1 Yawgmoth, Thran Physician
+1 Undying Flames
+1 Torrent of Stone
+1 Wasteland Strangler
+1 Sultai Scavenger
+1 Zurzoth, Chaos Rider
+1 Wily Goblin
+1 Thief of Hope
+1 Tallyman of Nurgle
+1 Whalebone Glider
+1 Ugin's Mastery
+1 Undead Butler
+1 Tombstone Stairwell
+1 Tome Shredder
+1 Vile Manifestation
+1 Thunderous Wrath
+1 Unexpected Windfall
+1 Veinfire Borderpost
+1 Tormod's Crypt
+1 Vandalblast
+1 Viscera Dragger
+1 Vaultbreaker
+1 Undercity Plague
+1 Witch's Clinic
+1 Wildfire Devils
+1 Thraxodemon
+1 Trail of the Mage-Rings
+1 Stingscourger
+1 Warlock Class
+1 Vicious Offering
+1 Viashino Bladescout
+1 Dockside Extortionist
+1 Undying Rage
+1 Vraska's Contempt
+1 Wretched Confluence
+1 Treasure Nabber
+1 Unnatural Endurance
+1 Unearth
+1 Urborg Justice
+1 Vampire's Kiss
+1 Tormod's Cryptkeeper
+1 Withering Boon
+1 Withered Wretch
+1 Zuran Orb
+1 Treacherous Vampire
+1 Syr Konrad, the Grim
+1 Spellpyre Phoenix
+1 Tectonic Reformation
+1 Unholy Hunger
+1 Woe Strider
+1 Words of Waste
+1 Victimize
+1 Valduk, Keeper of the Flame
+1 Animate Dead
+1 Winding Canyons
+1 Damnation
+{'overall': '6', 'cmc': 2.953125, 'ramp': '6', 'draw': '16', 'interaction': 12}

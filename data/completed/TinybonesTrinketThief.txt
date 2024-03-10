@@ -1,0 +1,68 @@
+1 Tinybones, Trinket Thief
+1 Mana Vault
+1 Mind Stone
+1 Sol Ring
+1 Thought Distortion
+1 Commander's Sphere
+1 Zombie Cutthroat
+1 Virulent Swipe
+1 Tendrils of Despair
+1 Tainted Pact
+1 Animate Dead
+1 Demonic Tutor
+1 Vampiric Tutor
+1 Chrome Mox
+1 Mana Crypt
+1 Thought-Knot Seer
+1 Visage of Dread // Dread Osseosaur
+1 Vampire Opportunist
+1 Wretched Confluence
+1 Wedding Invitation
+1 Viscera Dragger
+1 The Golden Throne
+1 Void Maw
+1 Vile Bile
+1 Vicious Conquistador
+1 Thraxodemon
+1 Chromatic Lantern
+1 Ugin, the Spirit Dragon
+1 Vraska's Contempt
+1 Vraska, Betrayal's Sting
+1 Vampiric Rites
+1 Worldknit
+1 Vermin Gorger
+1 Urza's Tome
+1 Three Tragedies
+1 Witness the End
+1 Wand of Denial
+1 Teferi's Puzzle Box
+1 Viscera Seer
+1 Treasure Chest
+1 Victimize
+1 Wand of Vertebrae
+1 Ugin's Nexus
+1 Tainted Remedy
+1 Wretched Anurid
+1 Veinwitch Coven
+1 Unearth
+1 Zulaport Cutthroat
+1 Vengeful Warchief
+1 Vicious Hunger
+1 Triskaidekaphobia
+1 Witch's Cauldron
+1 Vengeful Dead
+1 Yawgmoth's Will
+1 Vindictive Lich
+1 Waste Not
+1 Unnerve
+1 Treacherous Blessing
+1 Syr Konrad, the Grim
+1 Tormod's Crypt
+1 Vengeful Reaper
+1 Vampire's Bite
+1 Worry Beads
+1 Voltaic Key
+1 Triarch Praetorian
+1 Waste Away
+1 Vengeful Strangler // Strangling Grasp
+{'overall': '7', 'cmc': 2.7313432835820897, 'ramp': '11', 'draw': '19', 'interaction': 4}

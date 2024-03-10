@@ -1,68 +1,65 @@
 1 Okaun, Eye of Chaos
-1 Valduk, Keeper of the Flame
-1 Warstorm Surge
-1 Vexing Devil
-1 Urza's Bauble
-1 Lightning Bolt
-1 Trash Bin
-1 Vexing Puzzlebox
-1 Warfire Javelineer
-1 Viashino Sandswimmer
-1 Sword of Forge and Frontier
-1 Chaos Warp
-1 Mana Geyser
-1 Sol Ring
-1 Staff of Nin
-1 Teferi's Puzzle Box
-1 Volatile Chimera
-1 Ugin, the Spirit Dragon
-1 Volcanic Spite
-1 Ugin, the Ineffable
-1 Yawning Fissure
-1 Smokestack
-1 The Millennium Calendar
-1 Thought Prison
-1 Triangle of War
-1 Sea of Sand
-1 Toralf, God of Fury // Toralf's Hammer
-1 Zariel, Archduke of Avernus
-1 Fellwar Stone
-1 Commander's Sphere
-1 Voyager Staff
-1 Twisted Fealty
-1 Sowing Salt
-1 Whipkeeper
-1 Zephyr Boots
-1 Valakut Exploration
-1 Varchild, Betrayer of Kjeldor
-1 Zealot of the God-Pharaoh
-1 Tectonic Giant
-1 Sulfuric Vortex
-1 The Triumph of Anax
-1 Whims of the Fates
-1 Sword of the Ages
-1 Wooden Sphere
-1 Viseling
-1 Total War
-1 World-Bottling Kit
-1 Thran Spider
-1 Tilonalli's Summoner
-1 Storm World
-1 The Akroan War
-1 Wyll, Pact-Bound Duelist
-1 Stormbreath Dragon
 1 Chromatic Lantern
-1 Winter Sky
-1 Thunder of Hooves
-1 Spite of Mogis
-1 Thunderkin Awakener
-1 Weaver of Lightning
-1 Yamabushi's Storm
-1 Tyrant of Discord
-1 Thoughts of Ruin
-1 Wrenn's Resolve
-1 Stomping Slabs
+1 Sol Ring
+1 Lightning Bolt
+1 Imperial Recruiter
+1 Trail of the Mage-Rings
+1 Wyll, Blade of Frontiers
+1 Tribal Flames
+1 Volcanic Offering
+1 Chaos Warp
+1 Ugin, the Ineffable
+1 Spiteful Prankster
+1 Stensia Banquet
+1 Sword of Hearth and Home
 1 Sword of War and Peace
-1 Wheel of Fate
-1 Underworld Breach
-{'overall': '6.22', 'cmc': '3', 'ramp': '2', 'draw': '15', 'interaction': '16'}
+1 Wand of Ith
+1 Wandering Archaic // Explore the Vastlands
+1 Unpredictable Cyclone
+1 Thran Spider
+1 Urabrask // The Great Work
+1 Warren Instigator
+1 Yavimaya Steelcrusher
+1 Vampire Nocturnus Avatar
+1 Swirling Sandstorm
+1 Whalebone Glider
+1 Stronghold Gambit
+1 Thirsting Axe
+1 Telim'Tor's Darts
+1 Static Discharge
+1 Ugin's Mastery
+1 Tiamat's Fanatics
+1 Zirilan of the Claw
+1 Vexing Devil
+1 Undying Flames
+1 Valduk, Keeper of the Flame
+1 Thunder of Hooves
+1 Warstorm Surge
+1 Teferi's Puzzle Box
+1 Tide of War
+1 Tectonic Giant
+1 Surtland Flinger
+1 Stone Giant
+1 Transmogrify
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Swallow the Hero Whole
+1 Torbran, Thane of Red Fell
+1 Whispergear Sneak
+1 Victory Chimes
+1 Wildfire
+1 Treasure Keeper
+1 Zurgo Bellstriker
+1 Treasure Nabber
+1 Varchild's War-Riders
+1 Widespread Panic
+1 Treasure Chest
+1 Unwinding Clock
+1 Zhalfirin Void
+1 Syr Carah, the Bold
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 When Will You Learn?
+1 Tibalt, Wicked Tormentor
+1 Symmetry Matrix
+1 Viashino Pyromancer
+{'overall': '6', 'cmc': 3.234375, 'ramp': '7', 'draw': '12', 'interaction': 16}

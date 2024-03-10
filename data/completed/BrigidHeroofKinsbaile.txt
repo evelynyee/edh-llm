@@ -1,0 +1,65 @@
+1 Brigid, Hero of Kinsbaile
+1 Mind Stone
+1 Commander's Sphere
+1 Sol Ring
+1 Arcane Signet
+1 Strixhaven Stadium
+1 Weathered Bodyguards
+1 Valiant Farewell
+1 Mana Vault
+1 Chromatic Lantern
+1 Swords to Plowshares
+1 Land Tax
+1 Sword of Truth and Justice
+1 Sun Sentinel
+1 Zealous Inquisitor
+1 War Horn
+1 War Elephant
+1 Wall of Spears
+1 Unified Strike
+1 Wings of the Guard
+1 Veteran's Reflexes
+1 War Chariot
+1 The Philosopher
+1 Torch Gauntlet
+1 Turn the Tables
+1 Wishmonger
+1 Worry Beads
+1 Serene Master
+1 Voltaic Key
+1 Your Will Is Not Your Own
+1 Wall of Swords
+1 Stitcher's Graft
+1 Westfold Rider
+1 Top-Secret Tunnel
+1 Wojek Siren
+1 Topan Freeblade
+1 Steam Catapult
+1 Training Drone
+1 Vengeful Archon
+1 Ward of Piety
+1 Zealots en-Dal
+1 Ugin's Nexus
+1 Sword of Kaldra
+1 Tivadar of Thorn
+1 Sword of Hearth and Home
+1 Sword of Sinew and Steel
+1 Vanguard's Shield
+1 Veilstone Amulet
+1 Vial of Dragonfire
+1 Sphere of Purity
+1 Swift Maneuver
+1 Sword of Light and Shadow
+1 True-Faith Censer
+1 Talon of Pain
+1 Tormod's Crypt
+1 Austere Command
+1 Teferi's Protection
+1 Sylvok Lifestaff
+1 Tragic Arrogance
+1 Sword of Fire and Ice
+1 Vanguard of the Rose
+1 Wanderer's Intervention
+1 Springjaw Trap
+1 Thundersteel Colossus
+{'overall': '4', 'cmc': 2.6875, 'ramp': '9', 'draw': '6', 'interaction': 12}

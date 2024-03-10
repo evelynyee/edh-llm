@@ -1,0 +1,68 @@
+1 Falthis, Shadowcat Familiar
+1 Demonic Tutor
+1 Toxic Deluge
+1 Mana Crypt
+1 Sol Ring
+1 Tainted Adversary
+1 Vampire Champion Fury
+1 Tsabo's Assassin
+1 Yawgmoth Demon
+1 Thran Lens
+1 The Black Breath
+1 Undead Butler
+1 Stitcher's Supplier
+1 Tormod, the Desecrator
+1 Yahenni, Undying Partisan
+1 Vengeful Rebel
+1 Trigon of Corruption
+1 Traxos, Scourge of Kroog
+1 Triumph of Cruelty
+1 Unwinding Clock
+1 Thought Vessel
+1 Triskelion
+1 Thieving Sprite
+1 Treasure Map // Treasure Cove
+1 Arcane Signet
+1 Thoughtrender Lamia
+1 Yawgmoth, Thran Physician
+1 Torpor Orb
+1 Tsabo's Decree
+1 Vengeful Vampire
+1 Tomb Tyrant
+1 Treacherous Werewolf
+1 Sword of the Ages
+1 Visage of Dread // Dread Osseosaur
+1 Whispering Shade
+1 Vengeful Strangler // Strangling Grasp
+1 Triskelavus
+1 Throne of Geth
+1 Wayfarer's Bauble
+1 Chromatic Lantern
+1 Sword of Truth and Justice
+1 Tymaret Calls the Dead
+1 Troll of Khazad-dûm
+1 Vile Requiem
+1 Tomb of Urami
+1 Tetzimoc, Primal Death
+1 Vulturous Aven
+1 Sword of the Paruns
+1 Arcane Signet
+1 Vile Rebirth
+1 Diabolic Tutor
+1 Thousand-Year Elixir
+1 Thieving Sprite
+1 Mind Stone
+1 Mana Vault
+1 Commander's Sphere
+1 Arcane Signet
+1 Triplicate Titan
+1 Sol Ring
+1 Thran Portal
+1 Chromatic Lantern
+1 War of the Spark
+1 Thopter Assembly
+1 Unnerve
+1 Vraska, Betrayal's Sting
+1 Sword of the Ages
+1 War Barge
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

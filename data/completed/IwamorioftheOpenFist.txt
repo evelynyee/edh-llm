@@ -1,44 +1,68 @@
 1 Iwamori of the Open Fist
-1 Trepanation Blade
-1 Cultivate
-1 Bloom Tender
-1 Unexpected Potential
-1 Tishana's Wayfinder
-1 Tamiyo's Journal
-1 Wrenn and Seven
-1 Vizier of the Menagerie
-1 Sylvan Primordial
-1 Verdant Sun's Avatar
-1 Zhalfirin Void
-1 Wall of Blossoms
-1 Vorapede
+1 Verdant Mastery
+1 Tempt with Discovery
+1 Vernal Bloom
+1 Wood Elves
+1 Crop Rotation
 1 Sylvan Library
-1 Ulvenwald Hydra
-1 Yavimaya, Cradle of Growth
-1 Wren's Run Packmaster
-1 Wrenn and Realmbreaker
-1 Vivien, Champion of the Wilds
-1 Tranquil Thicket
-1 Treasure Chest
-1 Llanowar Elves
-1 Sylvan Messenger
-1 Green Sun's Zenith
-1 Wall of Junk
-1 Verdurous Gearhulk
-1 Sylvan Ranger
-1 Skyshroud Claim
-1 Temur War Shaman
+1 Cultivate
+1 Sol Ring
+1 Mana Crypt
+1 Hardened Scales
 1 Traverse the Outlands
-1 Summoner's Bond
-1 Wirewood Symbiote
-1 Verdant Confluence
-1 Viridian Revel
-1 Voracious Typhon
-1 Spine of Ish Sah
-1 Trail of Crumbs
-1 Walking Ballista
-1 Sword of Hearth and Home
+1 Sylvan Messenger
+1 Vorinclex, Monstrous Raider
+1 Venser's Journal
+1 Vorinclex // The Grand Evolution
+1 Worldly Tutor
+1 Vivien, Champion of the Wilds
+1 Tireless Tracker
+1 Treasure Chest
+1 Wrenn and Seven
+1 World Breaker
+1 Wand of Ith
+1 Whispergear Sneak
+1 Ugin's Mastery
+1 Tocasia's Dig Site
+1 Shield-Wall Sentinel
+1 Voyager Staff
+1 Wingrattle Scarecrow
+1 Wolfwillow Haven
+1 Sylvan Tutor
+1 Verdant Sun's Avatar
+1 Vivien's Invocation
+1 Skullwinder
+1 Wirewood Guardian
+1 Titania, Protector of Argoth
+1 Wanderer's Twig
+1 Bloom Tender
 1 Thran Temporal Gateway
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood
-1 Tel-Jilad Stylus
-1 Terramorph
+1 Ugin's Construct
+1 Vessel of Nascency
+1 Trail of Mystery
+1 Green Sun's Zenith
+1 Wildgrowth Walker
+1 Vizier of the Menagerie
+1 Tooth and Nail
+1 Wirewood Herald
+1 Wilt
+1 Workshop Warchief
+1 Vastwood Zendikon
+1 The Champion
+1 Trail of the Mage-Rings
+1 Vivid Revival
+1 Traveler's Amulet
+1 Champion of Lambholt
+1 Exploration
+1 Sylvan Primordial
+1 Doubling Season
+1 Sword of the Animist
+1 Zendikar Resurgent
+1 Temur War Shaman
+1 Voracious Typhon
+1 Tilling Treefolk
+1 Voice of Many
+1 Vivien Reid
+1 Eternal Witness
+1 Viridian Shaman
+{'overall': '7', 'cmc': 3.373134328358209, 'ramp': '21', 'draw': '21', 'interaction': 2}

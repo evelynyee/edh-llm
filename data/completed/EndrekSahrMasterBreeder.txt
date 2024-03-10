@@ -1,69 +1,67 @@
 1 Endrek Sahr, Master Breeder
-1 Wasteland Strangler
-1 Sling-Gang Lieutenant
-1 Blood Artist
-1 Spawning Pit
-1 Spawnsire of Ulamog
-1 Yawgmoth, Thran Physician
-1 Tormod's Cryptkeeper
-1 Wretched Camel
-1 Skittering Monstrosity
-1 Talon Gates
-1 Lightning Greaves
-1 Mana Crypt
-1 Damnation
-1 Diabolic Tutor
-1 Woe Strider
-1 Zombie Cannibal
-1 Vraska, Betrayal's Sting
-1 Wretched Confluence
+1 Chrome Mox
+1 Mind Stone
+1 Sorin the Mirthless
 1 Arcane Signet
-1 Toxic Deluge
-1 Syphon Flesh
-1 Unearth
-1 Vampiric Sliver
-1 Zulaport Cutthroat
-1 Umbral Juke
-1 Tendrils of Agony
-1 Dark Ritual
-1 Wretched Banquet
-1 Commander's Sphere
-1 Tendrils of Corruption
-1 Zanikev Locust
-1 Tendrils of Despair
-1 Vindictive Vampire
+1 Tainted Adversary
+1 Volrath the Fallen
+1 Skittering Horror
+1 Void Mirror
+1 Whalebone Glider
+1 Wand of Ith
 1 Demonic Tutor
-1 Sword of Light and Shadow
-1 Chromatic Lantern
+1 Vraska, Betrayal's Sting
+1 Mana Vault
+1 Treasure Vault
 1 Sol Ring
-1 Sword of Hearth and Home
-1 Word of Command
-1 Triumph of Cruelty
-1 Witness of the Ages
-1 Twinning Staff
-1 Underworld Charger
-1 Word of Binding
-1 Waste Management
-1 Wondrous Crucible
-1 Tymaret Calls the Dead
-1 Xantcha
-1 Yawgmoth's Vile Offering
-1 Urza's Incubator
-1 Tetravus
-1 Stronghold Confessor
-1 Sliver Queen, Brood Mother
-1 Stormcage Containment Facility
+1 Chromatic Lantern
 1 Thopter Assembly
-1 Wirefly Hive
-1 Ugin, the Spirit Dragon
-1 Unerring Sling
-1 Tormented Hero
-1 Terisiare's Devastation
-1 Virtus's Maneuver
-1 Squirrel Stack
+1 Sifter of Skulls
+1 Vile Requiem
+1 Veinwitch Coven
+1 Wretched Camel
+1 Vulturous Aven
+1 Spark Harvest
+1 Suspicious Shambler
+1 Trail of the Mage-Rings
+1 Sickening Shoal
+1 Wicked Guardian
 1 Their Number Is Legion
-1 Soul Reap
-1 Triplicate Titan
-1 Tempting Witch
-1 Vicious Betrayal
-{'overall': '6.32', 'cmc': '3', 'ramp': '4', 'draw': '14', 'interaction': '13'}
+1 Ugin's Mastery
+1 Withered Wretch
+1 Spellbinder
+1 Tomb Tyrant
+1 Yawgmoth Demon
+1 Treacherous Blessing
+1 Yawgmoth, Thran Physician
+1 Tormod's Crypt
+1 Vraska's Contempt
+1 Treasure Chest
+1 Tablet of Epityr
+1 Twinning Staff
+1 Tome of the Guildpact
+1 Wurmcoil Engine
+1 Thopter Squadron
+1 Yawgmoth's Will
+1 Victimize
+1 Sword of the Ages
+1 Tombstalker
+1 Unspeakable Symbol
+1 Lightning Greaves
+1 Commander's Sphere
+1 Tombstone Stairwell
+1 Spawning Pit
+1 Zombie Apocalypse
+1 Vengeful Reaper
+1 Torgaar, Famine Incarnate
+1 Soul Servitude
+1 Wake the Dead
+1 Vindictive Vampire
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Vampire's Kiss
+1 Talon Gates
+1 Terisiare's Devastation
+1 Xiahou Dun, the One-Eyed
+1 Twilight Prophet
+1 Suffer the Past
+{'overall': '7', 'cmc': 3.242424242424242, 'ramp': '12', 'draw': '15', 'interaction': 8}

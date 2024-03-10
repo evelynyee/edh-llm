@@ -1,0 +1,65 @@
+1 Owen Grady, Raptor Trainer
+1 Sol Ring
+1 Rampant Growth
+1 Vivien, Arkbow Ranger
+1 Tower of the Magistrate
+1 Timber Protector
+1 Varchild's War-Riders
+1 Mana Vault
+1 The Warmonger
+1 Vulpine Goliath
+1 Twinflame
+1 Thunderous Might
+1 Thorn Lieutenant
+1 Bloom Tender
+1 Hardened Scales
+1 Warden of the Wall
+1 Wildfire Elemental
+1 Vines of Vastwood
+1 Young Wolf
+1 Wandering Troubadour
+1 Tread Mill
+1 Wildwood Tracker
+1 Wort, the Raidmother
+1 Thunderfoot Baloth
+1 Thelonite Druid
+1 Wrenn and Realmbreaker
+1 Yorvo, Lord of Garenbrig
+1 Vivien of the Arkbow
+1 Vivien's Jaguar
+1 Wolfkin Outcast // Wedding Crasher
+1 Sylvan Safekeeper
+1 Woodland Patrol
+1 Voltaic Construct
+1 Voice of the Woods
+1 Unexpected Allies
+1 Teeka's Dragon
+1 Zurgo Bellstriker
+1 Valduk, Keeper of the Flame
+1 Xenagos, God of Revels
+1 Green Sun's Zenith
+1 Vow of Wildness
+1 Red Elemental Blast
+1 Seedborn Muse
+1 Chaos Warp
+1 Vengeful Firebrand
+1 Temporary Insanity
+1 Vow of Lightning
+1 Xanthic Statue
+1 Tilonalli's Skinshifter
+1 Surge of Zeal
+1 Wings of Hubris
+1 Vitality Charm
+1 Tower Defense
+1 Wild Shape
+1 Wolfwillow Haven
+1 Abrade
+1 Viashino Lashclaw
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Viashino Weaponsmith
+1 Vulshok Gauntlets
+1 Tiger Claws
+1 Zariel, Archduke of Avernus
+1 Viridian Claw
+1 Wily Bandar
+{'overall': '5', 'cmc': 2.890625, 'ramp': '8', 'draw': '3', 'interaction': 4}

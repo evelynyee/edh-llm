@@ -1,0 +1,65 @@
+1 Kangee, Aerie Keeper
+1 Staff of the Mind Magus
+1 Thoughtcast
+1 Zephyrim
+1 Teller of Tales
+1 Mind Stone
+1 Brainstorm
+1 Treacherous Trapezist
+1 Water Weird
+1 Pongify
+1 Transmute Artifact
+1 Tezzeret the Seeker
+1 Tolarian Kraken
+1 Thassa's Intervention
+1 Torrential Gearhulk
+1 Vedalken Blademaster
+1 Zephyr Singer
+1 Tidal Control
+1 Vizier of Remedies
+1 Winds of Abandon
+1 Vedalken Anatomist
+1 Surrounded by Orcs
+1 Suntouched Myr
+1 Voyager Drake
+1 Teshar, Ancestor's Apostle
+1 Warlord's Elite
+1 Triassic Egg
+1 Waxmane Baku
+1 Triplicate Spirits
+1 Trawler Drake
+1 Treasure Cruise
+1 Vizier of Many Faces
+1 Torii Watchward
+1 Whetwheel
+1 Workshop Elders
+1 Vedalken Aethermage
+1 Windbrisk Heights
+1 Thassa's Oracle
+1 Force of Negation
+1 Transguild Promenade
+1 Warden of the Inner Sky
+1 Urza's Incubator
+1 Land Tax
+1 Vhal, Eager Scholar
+1 Valiant Veteran
+1 Wintermoon Mesa
+1 Woeleecher
+1 Ugin's Mastery
+1 Stormwing Entity
+1 Throne of Makindi
+1 Vivisurgeon's Insight
+1 Treasure Map // Treasure Cove
+1 Synod Artificer
+1 Ugin's Insight
+1 Sword of the Ages
+1 Treasure Vault
+1 Whispers of the Muse
+1 Tolarian Terror
+1 Timely Hordemate
+1 Vodalian Wave-Knight
+1 Tome of Legends
+1 War Report
+1 Thought Collapse
+1 Wing Shards
+{'overall': '5', 'cmc': 3.328125, 'ramp': '3', 'draw': '16', 'interaction': 6}

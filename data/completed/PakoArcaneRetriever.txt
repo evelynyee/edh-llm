@@ -1,16 +1,66 @@
 1 Pako, Arcane Retriever
-1 Sol Ring
-1 Sylvan Primordial
 1 Verdant Mastery
-1 Yavimaya Elder
-1 Titania's Command
-1 Vorinclex, Monstrous Raider
-1 Sylvan Library
-1 Timesifter
-1 Eternal Witness
-1 Treacherous Terrain
-1 Vastwood Fortification // Vastwood Thicket
-1 Viridian Revel
-1 Warfire Javelineer
+1 Vivien, Champion of the Wilds
+1 Tempt with Discovery
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
 1 Wood Elves
-1 Weight Advantage
+1 Champion of Lambholt
+1 Sylvan Library
+1 Bloom Tender
+1 Green Sun's Zenith
+1 Sol Ring
+1 Tome Shredder
+1 Whispergear Sneak
+1 Void Mirror
+1 Ugin's Mastery
+1 Talon Gates
+1 Vivien Reid
+1 Underworld Breach
+1 Wrenn and Six
+1 Vengevine
+1 Temur War Shaman
+1 Wand of Ith
+1 Wirewood Herald
+1 Warren Instigator
+1 The Champion
+1 Trail of the Mage-Rings
+1 Vivid Revival
+1 Wildfire
+1 Thunderous Debut
+1 Sylvan Primordial
+1 Traverse the Outlands
+1 Stronghold Gambit
+1 Zurzoth, Chaos Rider
+1 Venser's Journal
+1 Vengeful Rebirth
+1 Undying Flames
+1 Vanquisher's Banner
+1 Vorinclex, Monstrous Raider
+1 Sylvan Tutor
+1 Worldly Tutor
+1 Treasure Chest
+1 Traveler's Amulet
+1 Wildfire Devils
+1 Unexpected Potential
+1 Vine Dryad
+1 Venerable Kumo
+1 Wyll, Blade of Frontiers
+1 Yavimaya Ants
+1 Willow Geist
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Abrade
+1 Vine Kami
+1 Unravel the Aether
+1 Yisan, the Wanderer Bard
+1 Ugin, the Spirit Dragon
+1 Truga Jungle
+1 Vorinclex // The Grand Evolution
+1 Vorapede
+1 Wrenn and Seven
+1 Sylvan Messenger
+1 Woodland Bellower
+1 Urza's Construction Drone
+1 Wren's Run Vanquisher
+1 Vexing Puzzlebox
+1 Wall of Forgotten Pharaohs
+{'overall': '7', 'cmc': 3.4, 'ramp': '14', 'draw': '14', 'interaction': 10}

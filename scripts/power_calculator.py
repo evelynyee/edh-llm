@@ -16,13 +16,16 @@ def calculate_power(filepath):
     # Initialize the WebDriver
     chrome_options = Options()
     chrome_options.add_argument("--headless") #Comment out this line to debug (will show browser)
+    chrome_options.add_argument('log-level=3')
+    chrome_options.add_argument('--ignore-certificate-errors')
+    chrome_options.add_argument('--ignore-ssl-errors')
     driver = webdriver.Chrome(options=chrome_options)
 
     # Open the website
     driver.get("https://mtg.cardsrealm.com/en-us/tools/commander-power-level-calculator")
 
     try:
-        button = WebDriverWait(driver, 10).until(
+        button = WebDriverWait(driver, 100).until(
             EC.element_to_be_clickable((By.ID, "tools_import"))
         )
         file_input = driver.find_element(By.ID, 'tools_import_input')
@@ -34,8 +37,10 @@ def calculate_power(filepath):
 
         # necessary to wait for site to generate power level, pending more intelligent fix (detecting js update on site)
         time.sleep(4)
-        avg_cmc = int(driver.find_element(By.ID, "total_cmc").get_attribute("value")) / int(driver.find_element(By.ID, "total_counted").get_attribute("value"))
-
+        try:
+            avg_cmc = int(driver.find_element(By.ID, "total_cmc").get_attribute("value")) / int(driver.find_element(By.ID, "total_counted").get_attribute("value"))
+        except ZeroDivisionError:
+            avg_cmc = 0
         #print(avg_cmc)
 
         # Overall power
@@ -54,6 +59,8 @@ def calculate_power(filepath):
         # Close the browser after a delay or after certain actions
         print(e)
         driver.quit()
+        time.sleep(600)
+        calculate_power(filepath)
     finally:
         driver.quit()
         return({'overall':overall, 'cmc':avg_cmc, 'ramp':ramp, 'draw':draw, 'interaction':interaction})
