@@ -39,7 +39,6 @@
 1 Edgewalker
 1 Jegantha, the Wellspring
 1 Security Rhox
-1 A-Security Rhox
 1 Path of Peril
 1 Jodah, Archmage Eternal
 1 Fist of Suns
@@ -98,4 +97,4 @@
 1 Urza's Incubator
 1 Cradle Clearcutter
 1 Overload
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 4, 'ramp': '15', 'draw': '9', 'interaction': 5}

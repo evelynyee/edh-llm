@@ -98,4 +98,4 @@
 1 Mass Production
 1 Whirlermaker
 1 Throne of Empires
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.28, 'ramp': '3', 'draw': '3', 'interaction': 10}

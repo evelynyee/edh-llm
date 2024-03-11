@@ -40,7 +40,7 @@
 1 Wake the Reflections
 1 Trostani's Judgment
 1 Scion of Vitu-Ghazi
-1 Clavileño, First of the Blessed
+1 Clavileno, First of the Blessed
 1 Eyes in the Skies
 1 Tatsumasa, the Dragon's Fang
 1 Xathrid Necromancer
@@ -98,4 +98,4 @@
 1 Militia's Pride
 1 Sensor Splicer
 1 Romana II
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 3.78, 'ramp': '1', 'draw': '2', 'interaction': 7}

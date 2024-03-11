@@ -98,3 +98,4 @@
 1 Vraan, Executioner Thane
 1 Vermin Gorger
 1 Serra Angel Avatar
+{'overall': '2', 'cmc': 2.51, 'ramp': '1', 'draw': '1', 'interaction': 0}

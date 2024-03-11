@@ -69,7 +69,7 @@
 1 Herald of the Dreadhorde
 1 Promise of Bunrei
 1 Staff of Titania
-1 Andúril, Flame of the West
+1 Anduril, Flame of the West
 1 Threefold Thunderhulk
 1 Lena, Selfless Champion
 1 Monkey Cage
@@ -98,4 +98,4 @@
 1 Storm Herd
 1 Teysa, Orzhov Scion
 1 Bat Colony
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 3.84, 'ramp': '0', 'draw': '0', 'interaction': 2}

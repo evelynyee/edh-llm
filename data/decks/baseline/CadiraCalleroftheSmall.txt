@@ -86,7 +86,7 @@
 1 Dripping-Tongue Zubera
 1 Sliver Queen, Brood Mother
 1 Doomed Traveler
-1 Andúril, Flame of the West
+1 Andï¿½ril, Flame of the West
 1 Requiem Angel
 1 Haunted Angel
 1 Scytheclaw
@@ -98,4 +98,4 @@
 1 The Wilds
 1 Sprout
 1 Erhnam Djinn Avatar
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 1.93, 'ramp': '2', 'draw': '1', 'interaction': 7}

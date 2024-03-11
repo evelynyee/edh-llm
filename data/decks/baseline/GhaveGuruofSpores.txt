@@ -70,7 +70,7 @@
 1 Triskelavus
 1 Sporeback Troll
 1 Titan Forge
-1 Bartolomé del Presidio
+1 Bartolome del Presidio
 1 Noosegraf Mob
 1 Spike Rogue
 1 Incremental Growth
@@ -98,4 +98,4 @@
 1 Ivy Lane Denizen
 1 Ravenous Harpy
 1 Slurrk, All-Ingesting
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.58, 'ramp': '0', 'draw': '0', 'interaction': 2}
