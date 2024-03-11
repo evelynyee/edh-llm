@@ -1,0 +1,69 @@
+1 Shu Yun, the Silent Tempest
+1 Chaos Warp
+1 Venser, the Sojourner
+1 Austere Command
+1 Mana Drain
+1 Sword of Once and Future
+1 Stormwing Entity
+1 Triplicate Spirits
+1 Zurzoth, Chaos Rider
+1 Twinning Glass
+1 War-Wing Siren
+1 Swift Kick
+1 Valakut Fireboar
+1 Warden of Evos Isle
+1 Warlord's Axe
+1 Umbral Mantle
+1 Tin-Wing Chimera
+1 Witch's Mark
+1 Varchild's War-Riders
+1 Ugin's Mastery
+1 Viashino Bladescout
+1 Woeleecher
+1 Water Servant
+1 Wolfhunter's Quiver
+1 Waxmane Baku
+1 The Destined
+1 Wings of Velis Vel
+1 Viashino Lashclaw
+1 Yare
+1 Vortex Elemental
+1 Zealous Strike
+1 Whetwheel
+1 Vengeful Dreams
+1 Village Watch // Village Reavers
+1 Voyager Drake
+1 Wing Shards
+1 Wall of Tears
+1 Veteran's Powerblade
+1 Velican Dragon
+1 Whalebone Glider
+1 Tidal Visionary
+1 Sword of the Chosen
+1 Unlikely Alliance
+1 Zealous Conscripts
+1 Winds of Abandon
+1 Vengeful Firebrand
+1 Vault Skyward
+1 Wizened Githzerai
+1 Wings of the Guard
+1 Zhalfirin Lancer
+1 Vedalken Blademaster
+1 Counterspell
+1 Teferi's Protection
+1 Wandering Archaic // Explore the Vastlands
+1 Warden of the Beyond
+1 Whip Sergeant
+1 Valiant Farewell
+1 Windcaller Aven
+1 Two-Headed Hunter // Twice the Rage
+1 Waves of Aggression
+1 Wine of Blood and Iron
+1 Vexing Scuttler
+1 Wildfire Elemental
+1 Thorned Moloch
+1 Vikya, Scorching Stalwart
+1 Zelyon Sword
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Volcanic Awakening
+{'overall': '2', 'cmc': 3.426470588235294, 'ramp': '1', 'draw': '4', 'interaction': 8}

@@ -1,0 +1,64 @@
+1 Kangee, Aerie Keeper
+1 Soulcatchers' Aerie
+1 Warden of Evos Isle
+1 Watcher of the Spheres
+1 Empyrean Eagle
+1 Airborne Aid
+1 Sol Ring
+1 Kangee, Sky Warden
+1 Command Tower
+1 Keeper of the Nine Gales
+1 Seaside Haven
+1 Aven Mimeomancer
+1 Thrummingbird
+1 Migratory Route
+1 Celestial Gatekeeper
+1 Favorable Winds
+1 Aven Mindcensor
+1 Prairie Stream
+1 Arcane Signet
+1 Emeria Angel
+1 Wingmate Roc
+1 Swords to Plowshares
+1 Azorius Signet
+1 Crookclaw Elder
+1 Steel-Plume Marshal
+1 Judge's Familiar
+1 Cartographer's Hawk
+1 Soulcatcher
+1 Stormscape Familiar
+1 Aven Brigadier
+1 Battle Screech
+1 Path of Ancestry
+1 Distant Melody
+1 Skycat Sovereign
+1 Commander Eesha
+1 Kangee's Lieutenant
+1 Jubilant Skybonder
+1 Animal Sanctuary
+1 Nimble Obstructionist
+1 Counterspell
+1 Winged Words
+1 Gustcloak Savior
+1 Ishai, Ojutai Dragonspeaker
+1 Azorius Keyrune
+1 Azorius Chancery
+1 Reconnaissance Mission
+1 Glacial Fortress
+1 Augury Owl
+1 Esior, Wardwing Familiar
+1 Temple of Enlightenment
+1 Bident of Thassa
+1 Gravitational Shift
+1 Sephara, Sky's Blade
+1 Hallowed Fountain
+1 Healer's Hawk
+1 Karn's Bastion
+1 Path to Exile
+1 Cloudchaser Kestrel
+1 Rally of Wings
+1 Alrund's Epiphany
+1 Thieving Magpie
+1 Reliquary Tower
+1 Windbrisk Raptor
+{'overall': '5', 'cmc': 2.761904761904762, 'ramp': '7', 'draw': '10', 'interaction': 4}

@@ -1,0 +1,69 @@
+1 Endrek Sahr, Master Breeder
+1 Thwart the Grave
+1 Zombie Cannibal
+1 Stormcage Containment Facility
+1 Spawning Pit
+1 Xathrid Demon
+1 Wake the Dead
+1 Yawgmoth's Agenda
+1 Tomb Tyrant
+1 Commander's Sphere
+1 Zanikev Locust
+1 Toshiro Umezawa
+1 TARDIS
+1 The Toymaker's Trap
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Voracious Vermin
+1 Weigh Down
+1 V.A.T.S.
+1 Tivash, Gloom Summoner
+1 Wakedancer
+1 Wight
+1 Skittering Cicada
+1 Winding Canyons
+1 Tormented Hero
+1 Wand of Ith
+1 The Golden Throne
+1 Spellbinder
+1 Witch's Oven
+1 Tombstone Stairwell
+1 Warchanter of Mogis
+1 Unmake the Graves
+1 There Is No Refuge
+1 Xantcha
+1 Syphon Life
+1 Mind Stone
+1 Warren Weirding
+1 Staff of the Flame Magus
+1 Undercity Plunder
+1 Walking Skyscraper
+1 Xander's Wake
+1 Western Paladin
+1 Skittering Monstrosity
+1 The Underworld Cookbook
+1 Word of Binding
+1 Tempting Contract
+1 Treasure Map // Treasure Cove
+1 Toll of the Invasion
+1 The Iron Guardian Stirs
+1 Tormod's Cryptkeeper
+1 Staff of the Wild Magus
+1 Tizerus Charger
+1 Sword of Hearth and Home
+1 Tree of Perdition
+1 Wretched Confluence
+1 Spinning Darkness
+1 Soul Reap
+1 Tamiyo's Journal
+1 Wretched Camel
+1 The Superlatorium
+1 Tangled Colony
+1 Workshop Assistant
+1 Vedalken Shackles
+1 Ugin's Construct
+1 The Superlatorium
+1 Tidy Conclusion
+1 Sunglasses of Urza
+1 Volrath the Fallen
+1 Wurmcoil Engine
+{'overall': '6', 'cmc': 3.1194029850746268, 'ramp': '8', 'draw': '8', 'interaction': 6}

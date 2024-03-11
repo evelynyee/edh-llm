@@ -1,0 +1,69 @@
+1 Ratadrabik of Urborg
+1 Thorn of the Black Rose
+1 Mentor of the Meek
+1 Teysa, Orzhov Scion
+1 Vladimir and Godfrey
+1 Venerable Lammasu
+1 Unerring Sling
+1 Watchful Giant
+1 The Superlatorium
+1 Zombie Boa
+1 Teferi's Protection
+1 Tithing Blade // Consuming Sepulcher
+1 Urza's Miter
+1 Stuffed Bear
+1 Veteran's Armaments
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Zombie Trailblazer
+1 Wretched Banquet
+1 Wake the Dead
+1 Valor of the Worthy
+1 Wild Griffin
+1 The Pit
+1 Xathrid Necromancer
+1 Wakedancer
+1 Undying Malice
+1 Vow of Torment
+1 Sword of Body and Mind
+1 Witch's Cottage
+1 Utility Knife
+1 Zhao Zilong, Tiger General
+1 The Book of Vile Darkness
+1 Teleportation Circle
+1 Thwart the Grave
+1 The Superlatorium
+1 Warchanter Skald
+1 Zombie Mob
+1 Woe Strider
+1 Viridian Longbow
+1 Squad Commander
+1 Start // Finish
+1 Synapse Necromage
+1 Xanthic Statue
+1 Vampire Bats
+1 Szat's Will
+1 Zealots en-Dal
+1 Undercity Necrolisk
+1 World-Bottling Kit
+1 Go for the Throat
+1 The Peregrine Dynamo
+1 Wedding Security
+1 Ugin's Construct
+1 Walking Bulwark
+1 Titan's Presence
+1 Vectis Gloves
+1 Topaz Dragon // Entropic Cloud
+1 Swords to Plowshares
+1 Tomb Tyrant
+1 Unholy Citadel
+1 Zhentarim Bandit
+1 Urge to Feed
+1 Xander's Wake
+1 Stormfront Riders
+1 Wall of Vipers
+1 Winds of Abandon
+1 Spectral Procession
+1 Thopter Shop
+1 Yotian Frontliner
+1 Teroh's Vanguard
+{'overall': '5', 'cmc': 3.074626865671642, 'ramp': '2', 'draw': '5', 'interaction': 11}

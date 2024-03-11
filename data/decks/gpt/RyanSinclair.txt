@@ -1,0 +1,65 @@
+1 Ryan Sinclair
+1 Thought Vessel
+1 Arcane Signet
+1 Mana Crypt
+1 Mana Vault
+1 Thrill of Possibility
+1 Sol Ring
+1 Tormod's Crypt
+1 Wheel of Fate
+1 Abrade
+1 The Rack
+1 Timesifter
+1 Word of Blasting
+1 Voldaren Thrillseeker
+1 Warbringer
+1 Wandering Archaic // Explore the Vastlands
+1 Urza's Hot Tub
+1 Sword of Forge and Frontier
+1 Tibalt's Trickery
+1 Tectonic Reformation
+1 The Maelstrom
+1 Red Elemental Blast
+1 Volrath's Laboratory
+1 Viashino Cutthroat
+1 Surveyor's Scope
+1 Zurzoth, Chaos Rider
+1 Tibalt the Chaotic
+1 Torrent of Stone
+1 Tower of Murmurs
+1 Volcanic Wind
+1 Wildfire
+1 Zoetic Cavern
+1 Tectonic Giant
+1 Ugin's Nexus
+1 Winds of Change
+1 Stolen Strategy
+1 Urza's Rage
+1 Stonehewer Giant Avatar
+1 Whispergear Sneak
+1 Thran Portal
+1 Thunder of Hooves
+1 Wrenn's Resolve
+1 Thaumatic Compass // Spires of Orazca
+1 Thawing Glaciers
+1 Chaos Warp
+1 Watermarket
+1 Tormenting Voice
+1 Underworld Breach
+1 Soul Foundry
+1 Tome Shredder
+1 Slumbering Tora
+1 Undercity Reaches
+1 Thought Dissector
+1 Wish
+1 Urza's Incubator
+1 Treasure Keeper
+1 Squee, the Immortal
+1 Twinning Glass
+1 Starke
+1 Vedalken Shackles
+1 Volcanic Awakening
+1 Vampires' Vengeance
+1 Surreal Memoir
+1 Wild Evocation
+{'overall': '6', 'cmc': 2.65625, 'ramp': '9', 'draw': '11', 'interaction': 11}

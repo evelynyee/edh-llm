@@ -1,0 +1,101 @@
+1 Keleth, Sunmane Familiar
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Makeshift Battalion
+1 Paired Tactician
+1 Soulcatchers' Aerie
+1 Arms Depot
+1 Unruly Mob
+1 Yoshimaru, Ever Faithful
+1 Guardian Kirin
+1 Gird for Battle
+1 Celebrity Fencer
+1 A-Celebrity Fencer
+1 Mysterious Egg
+1 Aetherstorm Roc
+1 Ichorplate Golem
+1 Flaming Fist Officer
+1 Ninth Bridge Patrol
+1 Rising Populace
+1 A-Dueling Coach
+1 Champion of the Parish
+1 Hada Freeblade
+1 Cathars' Crusade
+1 Tempt with Glory
+1 Gavony Silversmith
+1 Prowling Felidar
+1 Clockwork Beetle
+1 Veteran of the Depths
+1 Clockwork Dragon
+1 Patron of the Valiant
+1 Clockwork Vorrac
+1 Inspiring Roar
+1 Basri's Solidarity
+1 Drillworks Mole
+1 Elder Cathar
+1 Clockwork Condor
+1 Scale Blessing
+1 Grim Poppet
+1 Angelic Quartermaster
+1 Venerable Knight
+1 Youthful Valkyrie
+1 Anduril, Narsil Reforged
+1 Anafenza, Kin-Tree Spirit
+1 Arcbound Slith
+1 Rose Tyler
+1 Supply Runners
+1 Munda's Vanguard
+1 Blade of the Bloodchief
+1 Mikaeus, the Lunarch
+1 Elite Scaleguard
+1 Boon of the Spirit Realm
+1 Voice of the Blessed
+1 Clockwork Hydra
+1 Makindi Shieldmate
+1 Light of the Legion
+1 Expedition Raptor
+1 Relief Captain
+1 Soulcatcher
+1 Star Pupil
+1 Hexavus
+1 Everythingamajig
+1 Mace of the Valiant
+1 Sunspring Expedition
+1 Sparring Construct
+1 Charmed Stray
+1 Arcbound Crusher
+{'overall': '1', 'cmc': 3.19, 'ramp': '0', 'draw': '0', 'interaction': 1}

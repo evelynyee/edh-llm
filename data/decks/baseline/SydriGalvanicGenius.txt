@@ -1,0 +1,101 @@
+1 Sydri, Galvanic Genius
+1 Blinkmoth Nexus
+1 Mishra's Factory
+1 Mobilized District
+1 Mishra's Foundry
+1 Island of Wak-Wak
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Whalebone Glider
+1 Karn, Silver Golem
+1 Ghost Ark
+1 Toymaker
+1 Peacewalker Colossus
+1 Katsumasa, the Animator
+1 Karn's Touch
+1 Neurok Transmuter
+1 Suit Up
+1 Imperial Recovery Unit
+1 Lita, Mechanical Engineer
+1 Majestic Metamorphosis
+1 Unliving Psychopath
+1 Auto-Key
+1 Dire Mimic
+1 Loran's Escape
+1 Blade of the Oni
+1 Chariot of the Sun
+1 Golem Artisan
+1 Fleetwheel Cruiser
+1 Forsworn Paladin
+1 Colossal Plow
+1 Ajani Goldmane // Ajani Goldmane
+1 Ajani Goldmane
+1 Wings of Velis Vel
+1 Relic's Roar
+1 Twisted Reflection
+1 Ghost-Lit Drifter
+1 Mimic
+1 Startling Development
+1 Phantasmal Mount
+1 Some Disassembly Required
+1 Teyo, Aegis Adept
+1 Mobilizer Mech
+1 Accursed Horde
+1 Bloodsworn Squire // Bloodsworn Knight
+1 Predator, Flagship
+1 Scale of Chiss-Goria
+1 Tooth of Chiss-Goria
+1 Chimeric Sphere
+1 Xenic Poltergeist
+1 Amoeboid Changeling
+1 Cultivator's Caravan
+1 Thundersteel Colossus
+1 Xanthic Statue
+1 Ebony Fly
+1 Ovalchase Dragster
+1 Brine Shaman
+1 Mirage Mirror
+1 Irontread Crusher
+1 Futurist Sentinel
+1 Zur, Eternal Schemer
+1 Archon's Glory
+1 March of the Machines
+1 Sleek Schooner
+1 Final Flourish
+1 Keen Glidemaster
+1 Alseid of Life's Bounty
+1 Dusk Legion Dreadnought
+1 Sky Skiff
+1 Funeral Longboat
+1 Dragonfly Suit
+1 Brute Suit
+{'overall': '3', 'cmc': 2.611111111111111, 'ramp': '5', 'draw': '3', 'interaction': 2}

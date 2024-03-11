@@ -1,0 +1,64 @@
+1 Endrek Sahr, Master Breeder
+1 Sol Ring
+1 Zulaport Cutthroat
+1 Viscera Seer
+1 Ayara, First of Locthwain
+1 Smothering Abomination
+1 Blood Artist
+1 Skullclamp
+1 Ashnod's Altar
+1 Carrion Feeder
+1 Pitiless Plunderer
+1 Arcane Signet
+1 Priest of Forgotten Gods
+1 Phyrexian Plaguelord
+1 Feed the Swarm
+1 Bastion of Remembrance
+1 Gray Merchant of Asphodel
+1 Cabal Coffers
+1 Dark Ritual
+1 Plumb the Forbidden
+1 Syr Konrad, the Grim
+1 Phyrexian Altar
+1 Village Rites
+1 Vindictive Vampire
+1 God-Eternal Bontu
+1 Nadier's Nightblade
+1 Krav, the Unredeemed
+1 Bojuka Bog
+1 Crypt Ghast
+1 Endless Cockroaches
+1 Woe Strider
+1 Black Market
+1 Whisper, Blood Liturgist
+1 Bontu's Monument
+1 Victimize
+1 Cabal Stronghold
+1 Sadistic Hypnotist
+1 Plaguecrafter
+1 Tragic Slip
+1 Phyrexian Tower
+1 Falkenrath Noble
+1 Mind Stone
+1 Species Specialist
+1 Solemn Simulacrum
+1 Grave Pact
+1 Dread Return
+1 Morbid Opportunist
+1 Urborg, Tomb of Yawgmoth
+1 Jet Medallion
+1 Liliana's Standard Bearer
+1 Dictate of Erebos
+1 Yawgmoth, Thran Physician
+1 Shriekmaw
+1 Lightning Greaves
+1 Myriad Landscape
+1 Charcoal Diamond
+1 Mirkwood Bats
+1 Thought Vessel
+1 Reliquary Tower
+1 Soul Exchange
+1 Fell Stinger
+1 Deadly Dispute
+1 Yahenni, Undying Partisan
+{'overall': '8', 'cmc': 2.746031746031746, 'ramp': '15', 'draw': '16', 'interaction': 3}

@@ -1,0 +1,64 @@
+1 Kefnet the Mindful
+1 Sol Ring
+1 Reliquary Tower
+1 Mystic Sanctuary
+1 Thought Vessel
+1 Counterspell
+1 Arcane Signet
+1 Mind Stone
+1 Brainstorm
+1 Arcane Denial
+1 Rhystic Study
+1 Wizard Class
+1 Cyclonic Rift
+1 Reality Shift
+1 Training Grounds
+1 Pongify
+1 Rapid Hybridization
+1 Preordain
+1 Mystic Remora
+1 Ponder
+1 High Tide
+1 Mystical Tutor
+1 Empyrial Plate
+1 Stubborn Denial
+1 Blue Sun's Zenith
+1 Sky Diamond
+1 Negate
+1 Sea Gate Restoration
+1 Triskaidekaphile
+1 Fact or Fiction
+1 Sapphire Medallion
+1 Solve the Equation
+1 Nezahal, Primal Tide
+1 Psychosis Crawler
+1 Swan Song
+1 Fabricate
+1 Myriad Landscape
+1 Resculpt
+1 Pull from Tomorrow
+1 Windfall
+1 Treasure Cruise
+1 Dig Through Time
+1 Mana Drain
+1 Isochron Scepter
+1 Fierce Guardianship
+1 Swiftfoot Boots
+1 Fellwar Stone
+1 Teferi's Ageless Insight
+1 Mystic Confluence
+1 Cryptic Command
+1 Force of Will
+1 Tolaria West
+1 Loyal Drake
+1 Blackblade Reforged
+1 Time Warp
+1 Decanter of Endless Water
+1 Consecrated Sphinx
+1 Castle Vantress
+1 Narset, Parter of Veils
+1 The Reality Chip
+1 Otawara, Soaring City
+1 Tribute Mage
+1 Terrain Generator
+{'overall': '8', 'cmc': 2.4444444444444446, 'ramp': '10', 'draw': '27', 'interaction': 15}

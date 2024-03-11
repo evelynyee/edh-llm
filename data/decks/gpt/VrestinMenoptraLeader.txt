@@ -1,0 +1,66 @@
+1 Vrestin, Menoptra Leader
+1 Tarrian's Soulcleaver
+1 Wolfcaller's Howl
+1 Wolfwillow Haven
+1 Treebeard, Gracious Host
+1 Undercity Upheaval
+1 Zephyrim
+1 Vastwood Fortification // Vastwood Thicket
+1 Yavimaya Enchantress
+1 Verdant Sun's Avatar
+1 Valeron Outlander
+1 Zopandrel, Hunger Dominus
+1 Torens, Fist of the Angels
+1 Worldspine Wurm
+1 Trostani Discordant
+1 Teferi's Protection
+1 Zeriam, Golden Wind
+1 Storm Herd
+1 Sol Ring
+1 Triassic Egg
+1 Wurmcoil Engine
+1 Symbiotic Elf
+1 Rampant Growth
+1 Wrenn and Seven
+1 Tangled Skyline
+1 Tempt with Glory
+1 Verdant Confluence
+1 Ugin, the Ineffable
+1 Woodland Champion
+1 Triplicate Titan
+1 Terastodon
+1 Voracious Hydra
+1 Thorn Mammoth
+1 Tyranid Invasion
+1 You're Confronted by Robbers
+1 Warchanter Skald
+1 Titania's Command
+1 Timely Reinforcements
+1 Tuskguard Captain
+1 Tangleweave Armor
+1 Willow Priestess
+1 Squirrel Dealer
+1 Triumph of Gerrard
+1 Well of Lost Dreams
+1 Wolf-Skull Shaman
+1 Volrath's Laboratory
+1 War Report
+1 Ultramarines Honour Guard
+1 Wizened Cenn
+1 Trudge Garden
+1 Tireless Provisioner
+1 Sylvan Anthem
+1 Vivien, Arkbow Ranger
+1 Vital Splicer
+1 War Dance
+1 Wild Onslaught
+1 War of the Last Alliance
+1 Wrecking Beast
+1 Ulamog's Despoiler
+1 Thundering Spineback
+1 Valor in Akros
+1 Verdurous Gearhulk
+1 Woodland Bellower
+1 Ulvenwald Hydra
+1 Green Sun's Zenith
+{'overall': '6', 'cmc': 4.184615384615385, 'ramp': '8', 'draw': '7', 'interaction': 3}

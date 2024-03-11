@@ -1,0 +1,69 @@
+1 Dynaheir, Invoker Adept
+1 Worthy Cause
+1 Vedalken Orrery
+1 Tormented Pariah // Rampaging Werewolf
+1 The Enigma Jewel // Locus of Enlightenment
+1 Tomik, Distinguished Advokist
+1 Yasmin Khan
+1 Tibalt the Chaotic
+1 Throne of Eldraine
+1 Zhulodok, Void Gorger
+1 The Chain Veil
+1 Witchbane Orb
+1 Zerapa Minotaur
+1 Zurzoth, Chaos Rider
+1 The Seventh Doctor
+1 Whipgrass Entangler
+1 Temmet, Vizier of Naktamun
+1 Warhorn Blast
+1 Yotian Courier
+1 Unruly Catapult
+1 Warehouse Thief
+1 Warlord's Elite
+1 Twice Upon a Time // Unlikely Meeting
+1 Wojek Apothecary
+1 Sulfur Elemental
+1 Zedruu the Greathearted
+1 Wickerwing Effigy
+1 The Dining Car
+1 Wall of Reverence
+1 Waves of Aggression
+1 Warmonger
+1 Vodalian Mage
+1 Volcanic Offering
+1 Vodalian Mystic
+1 Tentative Connection
+1 Tundra Fumarole
+1 Umara Entangler
+1 Swarm Intelligence
+1 Turn Aside
+1 Thunderheads
+1 Visions of Ruin
+1 Take Possession
+1 _____
+1 Teleport
+1 Two-Handed Axe // Sweeping Cleave
+1 Tzaangor Shaman
+1 Visions of Glory
+1 Trait Doctoring
+1 Unexpected Windfall
+1 Sol Ring
+1 Twice Upon a Time // Unlikely Meeting
+1 Vengeful Dreams
+1 Teferi's Protection
+1 Turn into a Pumpkin
+1 Wicked Slumber
+1 Wall of Dust
+1 Walking Wall
+1 Tishana's Tidebinder
+1 Workshop Elders
+1 Vodalian Hexcatcher
+1 Zephyrim
+1 Umara Wizard // Umara Skyfalls
+1 Lightning Bolt
+1 Triton Cavalry
+1 Wand of Ith
+1 Tidal Bore
+1 Thespian's Stage
+1 The Face of Boe
+{'overall': '4', 'cmc': 3.4925373134328357, 'ramp': '9', 'draw': '9', 'interaction': 9}

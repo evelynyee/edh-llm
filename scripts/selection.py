@@ -9,32 +9,38 @@ def load_data(fp):
         data = pickle.load(f)
     return data
 
-data = load_data(os.path.abspath("data/decks/manual.pkl"))
-def build_deck(commander):
+data = load_data(os.path.abspath("../data/decks/manual.pkl"))
+def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '18', 'draw': '20', 'interaction': 14}):
     cmdr = commander
     pool = set(data[cmdr])      
-    target_power = calculate_power('data/test_deck.txt')
+    #target_power = calculate_power('../data/test_deck.txt')
     cur_power = 0
-    client = OpenAI(api_key='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')
+    client = OpenAI()
     start_time = time.time()
-    with open(os.path.abspath("data/temp_deck.txt"), "a+") as file:
-        file.write("1 " + cmdr + "\n")
+    with open(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'), "a+") as file:
         file.seek(0)
-        while len(file.readlines()) <= 100:
+        if (len(file.readlines()) == 0):
+            file.write("1 " + cmdr + "\n")
+        file.seek(0)
+        while len(file.readlines()) <= 63:
             file.seek(0)
             cur_deck = file.readlines()
             print(cur_deck)
-            completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are building a commander deck for magic the gathering. You will be given a pool of already selected cards, a candidate pool, some hueristics of the cards already selected as well as a target hueristic score. Select five the cards from the candidate pool that will move the current hueristic score toward the target score. Return simply the names of the cards you have selected, separated by semi-colons"},
-                {"role": "user", "content": \
-                "Selected: " + '; '.join(cur_deck) +\
-                "Candidate Pool: " + '; '.join(pool) + \
-                "Current Power: " + str(cur_power) + \
-                "Target Power: " + str(target_power)}
-            ]
-            )
+            try:
+                completion = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You are building a commander deck for magic the gathering. You will be given a pool of already selected cards, a candidate pool, some hueristics of the cards already selected as well as a target hueristic score. Select five the cards from the candidate pool that will move the current hueristic score toward the target score. For example, if the target ramp score is 10 and the current score is 3, pick cards that will aid with mana generation. Return simply the names of the cards you have selected, separated by semi-colons. Do not deviate from the formatting specified."},
+                    {"role": "user", "content": \
+                    "Selected: " + '; '.join(cur_deck) +\
+                    "Candidate Pool: " + '; '.join(pool) + \
+                    "Current Power: " + str(cur_power) + \
+                    "Target Power: " + str(target_power)}
+                ]
+                )
+            except:
+                time.sleep(60*60)
+                build_deck(commander)
 
             picked = completion.choices[0].message.content.split('; ')
 
@@ -46,10 +52,15 @@ def build_deck(commander):
                     print('failed to find ' + card)
             file.seek(0)
             if len(file.readlines()) > 6:
-                cur_power = calculate_power('data/temp_deck.txt')
+                try:
+                    cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
+                except Exception as e:
+                    print(e)
+                    time.sleep(60*60)
             print('Time Elapsed: ' + str(time.time()-start_time))
-            print('Adding: ' + picked)
+            print('Adding: ' + completion.choices[0].message.content)
             print(cur_power)
             file.seek(0)
-
-    os.rename('data/temp_deck.txt', 'data/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
+            if len(file.readlines()) >= 63:
+                file.write(str(cur_power))
+            file.seek(0)

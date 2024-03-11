@@ -1,0 +1,69 @@
+1 Kiki-Jiki, Mirror Breaker
+1 Urabrask the Hidden
+1 Tawnos
+1 Wayfarer's Bauble
+1 Tooth of Chiss-Goria
+1 Whirling Strike
+1 Untethered Express
+1 Twiddlestick Charger
+1 The Superlatorium
+1 Virtue of Courage // Embereth Blaze
+1 Vug Lizard
+1 Slobad, Goblin Tinkerer
+1 Splinter Twin
+1 Tuktuk the Explorer
+1 Village Watch // Village Reavers
+1 The Shattered States Era // Nameless Conqueror
+1 Voldaren Duelist
+1 World at War
+1 Victory Chimes
+1 Torrent of Lava
+1 Tin Street Cadet
+1 Undying Flames
+1 Thopter Assembly
+1 Veteran's Armaments
+1 The Caldaia
+1 Toy Boat
+1 Warlord's Fury
+1 Young Pyromancer
+1 Utvara Hellkite
+1 The General
+1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
+1 Threaten
+1 The Great Forest
+1 Urabrask, Heretic Praetor
+1 Village Ironsmith // Ironfang
+1 Swallow the Hero Whole
+1 Song of Totentanz
+1 Wirefly Hive
+1 Visions of Phyrexia
+1 Tuktuk Rubblefort
+1 Thran Weaponry
+1 Sword of Kaldra
+1 Ugin's Construct
+1 Volcanic Dragon
+1 The Drum, Mining Facility
+1 The Shattered States Era // Nameless Conqueror
+1 Temur Battle Rage
+1 Wondrous Crucible
+1 Imperial Recruiter
+1 Viridian Longbow
+1 The Iron Guardian Stirs
+1 Sibling Rivalry
+1 Toralf, God of Fury // Toralf's Hammer
+1 Urza's Bauble
+1 Wyll, Pact-Bound Duelist
+1 Varchild's Crusader
+1 Unexpected Windfall
+1 Ugin, the Ineffable
+1 Unyaro
+1 War Barge
+1 Thunderhawk Gunship
+1 Volcanic Vision
+1 Viashino Lashclaw
+1 Thatcher Revolt
+1 Tawnos's Weaponry
+1 Urza's Avenger
+1 Vault Robber
+1 Tatsumasa, the Dragon's Fang
+{'overall': '5', 'cmc': 3.2238805970149254, 'ramp': '5', 'draw': '7', 'interaction': 9}

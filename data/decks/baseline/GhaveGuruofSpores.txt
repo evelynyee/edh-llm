@@ -1,0 +1,101 @@
+1 Ghave, Guru of Spores
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Pentavus
+1 Spike Breeder
+1 Hangarback Walker
+1 Swarm Shambler
+1 Grakmaw, Skyclave Ravager
+1 Thopter Squadron
+1 Arcbound Ravager
+1 Arcbound Worker
+1 Arcbound Stinger
+1 Arcbound Mouser
+1 Arcbound Prototype
+1 Arcbound Hybrid
+1 Arcbound Overseer
+1 Deranged Outcast
+1 Twilight Drover
+1 Arcbound Bruiser
+1 Sigil Captain
+1 Phyrexian Broodlings
+1 Trollbred Guardian
+1 Hooded Hydra
+1 Arcbound Lancer
+1 Indulgent Aristocrat
+1 Elder Cathar
+1 Arcbound Crusher
+1 Alharu, Solemn Ritualist
+1 Myr Scrapling
+1 Spike Tiller
+1 Sporogenesis
+1 Gobbling Ooze
+1 Spawning Pit
+1 Fractal Harness
+1 Bloodflow Connoisseur
+1 Triskelavus
+1 Sporeback Troll
+1 Titan Forge
+1 Bartolome del Presidio
+1 Noosegraf Mob
+1 Spike Rogue
+1 Incremental Growth
+1 Trigon of Infestation
+1 Malevolent Noble
+1 Threefold Thunderhulk
+1 Overgrowth Elemental
+1 Boss's Chauffeur
+1 Transmogrifying Wand
+1 Scurry Oak
+1 Custodi Soulbinders
+1 Mycoloth
+1 Stand Together
+1 Steel Overseer
+1 Spike Worker
+1 Mold Folk
+1 Durable Handicraft
+1 Steelbane Hydra
+1 Salt Road Quartermasters
+1 Arcbound Reclaimer
+1 Spike Soldier
+1 Daghatar the Adamant
+1 Thallid Germinator
+1 Sparring Construct
+1 Ivy Lane Denizen
+1 Ravenous Harpy
+1 Slurrk, All-Ingesting
+{'overall': '3', 'cmc': 3.58, 'ramp': '0', 'draw': '0', 'interaction': 2}

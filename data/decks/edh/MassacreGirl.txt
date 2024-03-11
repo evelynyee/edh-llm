@@ -1,0 +1,64 @@
+1 Massacre Girl
+1 Sol Ring
+1 Slaughter Specialist
+1 Massacre Wurm
+1 Black Market
+1 Reassembling Skeleton
+1 Gray Merchant of Asphodel
+1 Feed the Swarm
+1 Rise of the Dread Marn
+1 Grave Betrayal
+1 Thrilling Encore
+1 Yahenni, Undying Partisan
+1 Arcane Signet
+1 Bastion of Remembrance
+1 Cabal Coffers
+1 Blood Artist
+1 Genesis Chamber
+1 Revel in Riches
+1 Bojuka Bog
+1 Zulaport Cutthroat
+1 Syr Konrad, the Grim
+1 Sudden Spoiling
+1 Bloodcrazed Paladin
+1 Solemn Simulacrum
+1 Blade of the Bloodchief
+1 Dark Ritual
+1 Spoils of Blood
+1 Sign in Blood
+1 Cabal Stronghold
+1 Clackbridge Troll
+1 Village Rites
+1 Forbidden Orchard
+1 Mind Stone
+1 Harvester of Souls
+1 Necrosynthesis
+1 The Meathook Massacre
+1 Akroan Horse
+1 Skullclamp
+1 Charcoal Diamond
+1 Urborg, Tomb of Yawgmoth
+1 Pitiless Plunderer
+1 Defile
+1 Falkenrath Noble
+1 Sengir, the Dark Baron
+1 Jet Medallion
+1 Bontu's Monument
+1 Eternal Thirst
+1 Read the Bones
+1 Kaya's Ghostform
+1 Witch's Cottage
+1 Bitterblossom
+1 Myriad Landscape
+1 Liliana's Standard Bearer
+1 Venomcrawler
+1 Rise of the Dark Realms
+1 Sangromancer
+1 Phyrexian Arena
+1 Reanimate
+1 Pawn of Ulamog
+1 Tragic Slip
+1 Mimic Vat
+1 Undying Malice
+1 Toxic Deluge
+{'overall': '8', 'cmc': 2.6825396825396823, 'ramp': '11', 'draw': '11', 'interaction': 4}

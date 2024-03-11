@@ -1,0 +1,101 @@
+1 Arcum Dagsson
+1 Demolition Field
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Acquire
+1 Bribery
+1 Metamorphose
+1 Show and Tell
+1 Viridian Zealot Avatar
+1 Gate to the Aether
+1 Braids, Conjurer Adept
+1 Braids, Conjurer Adept Avatar
+1 Arbiter of the Ideal
+1 Druidic Satchel
+1 Gate to the Afterlife
+1 Run Aground
+1 Shape Anew
+1 Telemin Performance
+1 Mesmeric Sliver
+1 Hithlain Rope
+1 Ecologist's Terrarium
+1 Park Map
+1 The Champion
+1 Murasa
+1 Pendant of Prosperity
+1 Introductions Are in Order
+1 Temporal Eddy
+1 Ral's Dispersal
+1 Volatile Fault
+1 Pet Project
+1 The Grand Tour
+1 Realmbreaker, the Invasion Tree
+1 Scaretiller
+1 Copper Gnomes
+1 Skyship Weatherlight
+1 The Aether Flues
+1 Nature Demands an Offering
+1 Polymorph
+1 Thought Dissector
+1 Quiet Speculation
+1 Covert Technician
+1 Noble Benefactor
+1 Transmute Artifact
+1 Jace's Ruse
+1 The Maelstrom
+1 Braided Net // Braided Quipu
+1 Unlucky Drop
+1 Overburden
+1 Wayfarer's Bauble
+1 Curse of Unbinding
+1 Treasure Chest
+1 Jester's Cap
+1 Proteus Staff
+1 Moonsilver Key
+1 Dragon Arch
+1 Counterbore
+1 Chakram Retriever
+1 Fold into Aether
+1 Diver Skaab
+1 Lantern of Revealing
+1 A-Lantern of Revealing
+1 Extract
+1 Ether Well
+1 Grasping Current
+1 Rhythmic Water Vortex
+1 Teferi, Temporal Pilgrim
+1 Enigma Ridges
+{'overall': '8', 'cmc': 2.909090909090909, 'ramp': '9', 'draw': '15', 'interaction': 3}

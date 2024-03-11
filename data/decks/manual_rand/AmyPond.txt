@@ -1,0 +1,69 @@
+1 Amy Pond
+1 Titan Forge
+1 Thud-for-Duds
+1 Teferi's Puzzle Box
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Sulfuric Vapors
+1 Word of Blasting
+1 The Brothers' War
+1 Sirocco
+1 Volcanic Submersion
+1 The Cave of Skulls
+1 Wand of Wonder
+1 Wildfire Eternal
+1 Time Bomb
+1 Volcanic Rambler
+1 Volcanic Spray
+1 Thermal Blast
+1 Thaumatic Compass // Spires of Orazca
+1 Split Screen
+1 Zephyr Boots
+1 Wooden Sphere
+1 Vessel of Endless Rest
+1 Tempest Efreet
+1 Thunder of Hooves
+1 Zenith Chronicler
+1 Wolf of Devil's Breach
+1 Zealot of the God-Pharaoh
+1 The Fate of the Flammable
+1 Valakut Awakening // Valakut Stoneforge
+1 Witty Roastmaster
+1 You Find Some Prisoners
+1 Warbreak Trumpeter
+1 Wrench-Rigger
+1 Ugin's Nexus
+1 Zoyowa's Justice
+1 Wayward Guide-Beast
+1 Staff of the Letter Magus
+1 Wojek Embermage
+1 Strategy, Schmategy
+1 Widespread Panic
+1 Soldevi Sentry
+1 Thunderclap
+1 Tunnel Ignus
+1 Urza's Tome
+1 Ulamog, the Infinite Gyre
+1 Volrath
+1 Surgehacker Mech
+1 Surge to Victory
+1 Steamflogger Temp
+1 Vile Aggregate
+1 Warfire Javelineer
+1 Underworld Fires
+1 Red Elemental Blast
+1 Volatile Fault
+1 Sensation Gorger
+1 Wyll, Pact-Bound Duelist
+1 Tremble
+1 Zektar Shrine Expedition
+1 Ugin, the Spirit Dragon
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Sin Prodder
+1 Thundercloud Shaman
+1 Tahngarth's Glare
+1 Strixhaven
+1 Whims of the Fates
+1 Unlucky Witness
+1 Trail of the Mage-Rings
+1 Void Mirror
+{'overall': '5', 'cmc': 2.911764705882353, 'ramp': '3', 'draw': '15', 'interaction': 18}

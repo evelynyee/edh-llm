@@ -1,0 +1,69 @@
+1 Owen Grady, Raptor Trainer
+1 Titan of Industry
+1 Tuknir Deathlock
+1 Wasteland Viper
+1 Titania's Boon
+1 Thunderous Might
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Xanthic Statue
+1 The Shattered States Era // Nameless Conqueror
+1 Unnatural Growth
+1 Territorial Boar
+1 Weapon Rack
+1 Trollhide
+1 Web
+1 Transmogrifying Wand
+1 Sure Strike
+1 Willow Priestess
+1 The Zephyr Maze
+1 The General
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Two-Handed Axe // Sweeping Cleave
+1 Well of Life
+1 Sword of the Chosen
+1 Rampant Growth
+1 Wakeroot Elemental
+1 Volrath's Gardens
+1 Timberwatch Elf
+1 Varchild's Crusader
+1 Imperial Recruiter
+1 Velis Vel
+1 Viashino Lashclaw
+1 Unnatural Predation
+1 Whisperwood Elemental
+1 Voice of the Vermin
+1 Wolf Strike
+1 Wurmquake
+1 Volcanic Rush
+1 Towering Titan
+1 Abrade
+1 Towashi Guide-Bot
+1 Thrashing Frontliner
+1 Wicker Warcrawler
+1 War Dance
+1 Surge of Zeal
+1 Weldfast Monitor
+1 Take to the Streets
+1 Vorapede
+1 Thornling
+1 War Barge
+1 Treasure Nabber
+1 Wild Mongrel
+1 Two-Headed Dragon
+1 Tundra Kavu
+1 Warbriar Blessing
+1 Thunder Brute
+1 Tenza, Godo's Maul
+1 Twists and Turns // Mycoid Maze
+1 Vitality Charm
+1 Wolverine Riders
+1 Unnatural Moonrise
+1 Trailblazing Historian
+1 Varchild's War-Riders
+1 Veil of Summer
+1 Ulasht, the Hate Seed
+1 Witch's Web
+1 Viashino Bladescout
+1 Voldaren Thrillseeker
+1 Strider, Ranger of the North
+{'overall': '3', 'cmc': 3.264705882352941, 'ramp': '3', 'draw': '6', 'interaction': 6}

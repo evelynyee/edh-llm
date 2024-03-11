@@ -1,0 +1,66 @@
+1 The Fourth Doctor
+1 Sol Ring
+1 Sylvan Library
+1 Uro, Titan of Nature's Wrath
+1 Mana Drain
+1 Teferi, Temporal Archmage
+1 Wolfcaller's Howl
+1 Vedalken Archmage
+1 Urban Evolution
+1 Vessel of Nascency
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Thunderherd Migration
+1 Wolf-Skull Shaman
+1 Wolfir Avenger
+1 Surging Might
+1 Zimone, Quandrix Prodigy
+1 Telemin Performance
+1 Wandering Archaic // Explore the Vastlands
+1 Whisk Away
+1 Venarian Glimmer
+1 Timesifter
+1 Vedalken Aethermage
+1 Force of Will
+1 Tinker
+1 Verdant Rejuvenation
+1 Vizier of the Anointed
+1 Vedalken Entrancer
+1 Coiling Oracle
+1 Vizier of Many Faces
+1 Sylvan Tutor
+1 Teferi's Wavecaster
+1 Urza's Hot Tub
+1 Trophy Mage
+1 Weatherlight
+1 Wrenn and Seven
+1 Woodland Changeling
+1 The Maelstrom
+1 Vigean Intuition
+1 Time Ebb
+1 Titania's Command
+1 Viscerid Deepwalker
+1 Wayward Soul
+1 Veteran Explorer
+1 Trinket Mage
+1 Winding Way
+1 Zur's Weirding
+1 Trepanation Blade
+1 Windfall
+1 Whispers of the Muse
+1 Wistful Thinking
+1 Zoetic Cavern
+1 Waker of Waves
+1 Force of Negation
+1 Hardened Scales
+1 Brainstorm
+1 Wandering Treefolk
+1 Verdant Catacombs
+1 Vivien on the Hunt
+1 Traverse the Ulvenwald
+1 Vexing Arcanix
+1 Wondrous Crucible
+1 Unexpected Conversion
+1 Wandering Eye
+1 Windrider Wizard
+1 Veil of Secrecy
+{'overall': '7', 'cmc': 3.276923076923077, 'ramp': '7', 'draw': '27', 'interaction': 4}

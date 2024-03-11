@@ -1,0 +1,101 @@
+1 Mishra, Tamer of Mak Fawa
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Chronomancer
+1 Solemn Doomguide
+1 Dregscape Sliver
+1 Skorpekh Lord
+1 Whip of Erebos
+1 Viscera Dragger
+1 Terror Ballista
+1 First-Sphere Gargantua
+1 Ashnod's Harvester
+1 Scrapwork Rager
+1 Scrapwork Mutt
+1 Rotting Rats
+1 Undead Leotau
+1 Dregscape Zombie
+1 Geth, Thane of Contracts
+1 Extractor Demon
+1 Shambling Remains
+1 Vithian Stinger
+1 Reconstructed Thopter
+1 Hellspark Elemental
+1 Hell's Thunder
+1 Scampire
+1 Apprentice Necromancer
+1 Hexmark Destroyer
+1 Triarch Praetorian
+1 Mishra's Research Desk
+1 Heavyweight Demolisher
+1 Corpse Connoisseur
+1 Postmortem Lunge
+1 Kami of Industry
+1 Archfiend of Sorrows
+1 Grixis Slavedriver
+1 Artificer's Dragon
+1 Mishra's Juggernaut
+1 Lokhust Heavy Destroyer
+1 Arms Race
+1 The Caldaia
+1 Scourge Devil
+1 Jaxis, the Troublemaker
+1 Footsteps of the Goryo
+1 Royal Warden
+1 Wave of Rats
+1 Haunted House
+1 Voyager Staff
+1 Pitiless Horde
+1 Kolaghan Skirmisher
+1 Alesha's Vanguard
+1 Tenacious Underdog
+1 Wake to Slaughter
+1 Canoptek Tomb Sentinel
+1 Robo-
+1 Viashino Sandsprinter
+1 Dire Flail // Dire Blunderbuss
+1 Cauldron Dance
+1 Reckless Imp
+1 Reinforced Ronin
+1 Screamreach Brawler
+1 Mardu Scout
+1 Corpse Dance
+1 Sneak Attack
+1 Anathemancer
+1 Elvish Dreadlord
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer
+{'overall': '3', 'cmc': 3.3636363636363638, 'ramp': '0', 'draw': '13', 'interaction': 2}

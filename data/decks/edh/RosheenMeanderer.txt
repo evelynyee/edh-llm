@@ -1,0 +1,64 @@
+1 Rosheen Meanderer
+1 Sol Ring
+1 Apocalypse Hydra
+1 Unbound Flourishing
+1 Savageborn Hydra
+1 Command Tower
+1 Hungering Hydra
+1 Elementalist's Palette
+1 Cultivate
+1 Voracious Hydra
+1 Steelbane Hydra
+1 Cinder Glade
+1 Animist's Awakening
+1 Garruk's Uprising
+1 Genesis Hydra
+1 Mistcutter Hydra
+1 Comet Storm
+1 Hooded Hydra
+1 Clan Defiance
+1 Lifeblood Hydra
+1 Kessig Wolf Run
+1 Stonecoil Serpent
+1 Gargos, Vicious Watcher
+1 Primordial Hydra
+1 Hydra Broodmaster
+1 Neverwinter Hydra
+1 Vastwood Hydra
+1 Rampant Growth
+1 Goblin Anarchomancer
+1 Jaya's Immolating Inferno
+1 Rhythm of the Wild
+1 Rootbound Crag
+1 Arcane Signet
+1 Kodama's Reach
+1 Gruul Turf
+1 Stomping Ground
+1 Protean Hydra
+1 Beast Within
+1 Banefire
+1 Reap the Past
+1 Crackle with Power
+1 Game Trail
+1 Llanowar Elves
+1 Nexos
+1 Shivan Devastator
+1 Lair of the Hydra
+1 Rockfall Vale
+1 Temple of Abandon
+1 Gruul Signet
+1 Temple of the False God
+1 Electrodominance
+1 Return of the Wildspeaker
+1 Klauth's Will
+1 Inspiring Call
+1 Ochre Jelly
+1 Mana Reflection
+1 Nyxbloom Ancient
+1 Rogue's Passage
+1 Gelatinous Genesis
+1 Magus of the Candelabra
+1 Nature's Lore
+1 Starstorm
+1 Astral Cornucopia
+{'overall': '7', 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '6', 'interaction': 9}

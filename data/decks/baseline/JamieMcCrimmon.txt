@@ -1,0 +1,101 @@
+1 Jamie McCrimmon
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Manaplasm
+1 Skittering Cicada
+1 Metalwork Colossus
+1 Iron-Craw Crusher
+1 Nyxborn Behemoth
+1 Food Chain
+1 Remodel
+1 Metamorphosis
+1 Chord of Calling
+1 Ghalta, Primal Hunger // Ghalta, Primal Hunger
+1 Ghalta, Primal Hunger
+1 Infuse with the Elements
+1 Feeding Grounds
+1 Hotel of Fears
+1 Accelerated Mutation
+1 Yuan-Ti Scaleshield
+1 Myr Enforcer
+1 Frogmite
+1 Liberator, Urza's Battlethopter
+1 Karn's Sylex
+1 Emrakul, the Promised End
+1 Mycosynth Golem
+1 A-Earthquake Dragon
+1 Sproutback Trudge
+1 Caller of the Hunt
+1 Gwenna, Eyes of Gaea
+1 Earthquake Dragon
+1 Kozilek, the Great Distortion
+1 Arcanis, the Omnipotent Avatar
+1 Rishkar's Expertise
+1 Feral Incarnation
+1 Root-Kin Ally
+1 Pack's Favor
+1 Gather Courage
+1 Overwhelm
+1 Life's Legacy
+1 Myr Superion
+1 Momir Vig, Simic Visionary Avatar
+1 Emrakul's Influence
+1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Blessing of Frost
+1 Carpet of Flowers
+1 Visions of Dominance
+1 Consign to Dust
+1 Force of Vigor
+1 Boon of Boseiju
+1 In Search of Greatness
+1 Damping Sphere
+1 Allosaurus Rider
+1 Sprout Swarm
+1 Scatter the Seeds
+1 Redemptor Dreadnought
+1 Patron of the Orochi
+1 Reap
+1 Convergence of Dominion
+1 Necropolis
+1 Undercity Upheaval
+1 Unbound Flourishing
+1 Seedtime
+1 Rootwire Amalgam
+1 Agatha's Soul Cauldron
+1 Shaman of Forgotten Ways
+1 Shell of the Last Kappa
+{'overall': '1', 'cmc': 4.661538461538462, 'ramp': '4', 'draw': '8', 'interaction': 4}

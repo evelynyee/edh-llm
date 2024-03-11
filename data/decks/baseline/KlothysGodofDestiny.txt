@@ -1,0 +1,101 @@
+1 Klothys, God of Destiny
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Bombardment
+1 Kami of the Tended Garden
+1 Death Spark
+1 Gurzigost
+1 Sarkhan, Wanderer to Shiv
+1 Lavaball Trap
+1 Chandra, Dressed to Kill
+1 Molten-Tail Masticore
+1 Perilous Iteration
+1 Tibalt, Wicked Tormentor
+1 Afflicted Deserter // Werewolf Ransacker
+1 Roar of Jukai
+1 Mezzio Mugger
+1 Argentum Masticore
+1 Emberwilde Djinn
+1 Aether Rift
+1 Flames of Moradin
+1 Summoner's Pact
+1 Visions of Phyrexia
+1 Chandra, Acolyte of Flame
+1 Falkenrath Pit Fighter
+1 Freyalise's Charm
+1 Wand of Ith
+1 Cave-In
+1 Arm-Mounted Anchor
+1 Half-Orc, Half-
+1 Graveyard Shovel
+1 Azor's Gateway // Sanctum of the Sun
+1 Everquill Phoenix
+1 Flowstone Flood
+1 Foundry Beetle
+1 Living Twister
+1 Punishing Fire
+1 Engulfing Flames
+1 Wild Dogs
+1 Ragavan, Nimble Pilferer
+1 Through the Breach
+1 Everythingamajig
+1 Flame Blitz
+1 Goblin Influx Array
+1 Overblaze
+1 Impending Flux
+1 Gnaw to the Bone
+1 Trading Post
+1 Karn, Living Legacy
+1 Goblin Trapfinder
+1 Delayed Blast Fireball
+1 Genesis
+1 Panic Spellbomb
+1 Flash of Defiance
+1 Tavern Brawler
+1 Risk Factor
+1 Howling Gale
+1 Spawnsire of Ulamog
+1 Wolf of Devil's Breach
+1 Lifecrafter's Bestiary
+1 Fearsome Whelp
+1 Chandra, Torch of Defiance
+1 Constant Mists
+1 Strange Inversion
+1 Snag
+1 Alchemist's Greeting
+1 Embalmer's Tools
+{'overall': '5', 'cmc': 3.106060606060606, 'ramp': '13', 'draw': '20', 'interaction': 20}

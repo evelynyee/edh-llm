@@ -1,0 +1,101 @@
+1 Tinybones, Trinket Thief
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant
+1 Bat-
+1 Warlock Class
+1 Nihilistic Glee
+1 Death of a Thousand Stings
+1 Sheoldred, the Apocalypse
+1 Tallyman of Nurgle
+1 Hired Torturer
+1 Gibbering Descent
+1 Venser's Journal
+1 Gilt-Blade Prowler
+1 Dusk's Landing
+1 Skirsdag Supplicant
+1 Royal Assassin Avatar
+1 Phyrexian Arena
+1 Baleful Force
+1 Ivory Crane Netsuke
+1 Chancellor of the Dross
+1 Hollowborn Barghest
+1 Bloodgift Demon
+1 Scepter of Fugue
+1 Dread Rider
+1 Nezumi Shortfang // Stabwhisker the Odious
+
+1 A-Cosmos Elixir
+1 Starving Revenant
+1 Shadowfeed
+1 Silversmote Ghoul
+1 Mind Drain
+1 Rag Man
+1 Urborg Syphon-Mage
+1 Suffer the Past
+1 Organ Grinder
+1 Diregraf Scavenger
+1 Alms of the Vein
+1 Underbridge Warlock
+1 Eye of Vecna
+1 Curse of Fool's Wisdom
+1 Novice Occultist
+1 Call of the Ring
+1 Bloodchief Ascension
+1 Asylum Visitor
+1 Shrieking Affliction
+1 Entropic Eidolon
+1 Check for Traps
+1 Graveyard Shovel
+1 Stinging Cave Crawler
+1 Cosmos Elixir
+1 Oath of Lim-Dul
+1 Lich's Mastery
+1 Raiders' Wake
+1 Ob Nixilis Reignited
+1 Gempalm Polluter
+1 Consuming Oni
+1 Disciple of Perdition
+1 Last Caress
+1 Metalspinner's Puzzleknot
+1 Caged Zombie
+1 Grave Robbers
+1 Moriok Replica
+1 Court of Ambition
+1 Dogged Pursuit
+1 Egon, God of Death // Throne of Death
+{'overall': '3', 'cmc': 3.40, 'ramp': '0', 'draw': '30', 'interaction': 2}

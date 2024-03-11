@@ -1,0 +1,101 @@
+1 Owen Grady, Raptor Trainer
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Mushroom Watchdogs
+1 Scavenged Brawler
+1 Tin-Wing Chimera
+1 Lead-Belly Chimera
+1 Iron-Heart Chimera
+1 Snakeskin Veil
+1 Foam Weapons Kiosk
+1 Atraxa's Skitterfang
+1 Kick in the Door
+1 Wicked Wolf
+1 Arcane Archery
+1 Gruul Spellbreaker
+1 Become Brutes
+1 Kamahl, Heart of Krosa
+1 Monstrous Rage
+1 Dawnhart Mentor
+1 Press into Service
+1 Gimli, Mournful Avenger
+1 Surrak and Goreclaw
+1 Expanded Anatomy
+1 Crystalline Giant
+1 Redcap Heelslasher
+1 Stirring Bard
+1 Royal Treatment
+1 Dowsing Device // Geode Grotto
+1 Big Play
+1 Lunar Avenger
+1 Fully Grown
+1 Fearless Skald
+1 Arbor Armament
+1 Lodestone Myr
+1 Coercive Recruiter
+1 Molder Beast
+1 Furnace Strider
+1 Venom Connoisseur
+1 Burning-Yard Trainer
+1 Akroma, Angel of Wrath Avatar
+1 Gruul Beastmaster
+1 Mark of Mutiny
+1 Paragon of Fierce Defiance
+1 Sudden Spinnerets
+1 Sarkhan Vol
+1 Bearer of Memory
+1 Kodama of the South Tree
+1 Ana Sanctuary
+1 Rampaging Geoderm
+1 Besieged Viking Village
+1 Frenzied Arynx
+1 Bellowing Elk
+1 Halana and Alena, Partners
+1 Esper
+1 Ghirapur
+1 Unexpected Allies
+1 Crossroads Consecrator
+1 Golem Artisan
+1 Primal Bellow
+1 Heightened Reflexes
+1 The Hunter
+1 Diamond Faerie Avatar
+1 Spirit of the Hunt
+1 Chorus of Might
+1 Torch Courier
+1 Reptilian Reflection
+{'overall': '1', 'cmc': 2.878787878787879, 'ramp': '1', 'draw': '0', 'interaction': 1}

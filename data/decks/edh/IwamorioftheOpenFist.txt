@@ -1,0 +1,64 @@
+1 Iwamori of the Open Fist
+1 Sol Ring
+1 Cultivate
+1 Kodama's Reach
+1 Rampant Growth
+1 Ram Through
+1 Ancient Animus
+1 Llanowar Elves
+1 Mark of Sakiko
+1 Hunter's Insight
+1 Harmonize
+1 Colossal Majesty
+1 Ulvenwald Tracker
+1 Beast Within
+1 Mosswort Bridge
+1 Elvish Mystic
+1 Rogue's Passage
+1 Nature's Lore
+1 Reliquary Tower
+1 Karametra's Acolyte
+1 Blanchwood Armor
+1 Prizefight
+1 Swiftfoot Boots
+1 Snake Umbra
+1 Primal Might
+1 Savage Punch
+1 Eternal Witness
+1 Primal Bellow
+1 Alpha Authority
+1 Withstand Death
+1 Kenrith's Transformation
+1 Krosan Grip
+1 Kogla, the Titan Ape
+1 Outmuscle
+1 Sakura-Tribe Elder
+1 Boxing Ring
+1 Ghalta, Primal Hunger
+1 Heroic Intervention
+1 Bear Umbra
+1 Garruk, Primal Hunter
+1 Drumhunter
+1 Prey Upon
+1 Three Visits
+1 Spider Umbra
+1 Myriad Landscape
+1 Return to Nature
+1 Blackblade Reforged
+1 Acidic Slime
+1 Vigor
+1 Nature's Claim
+1 Epic Confrontation
+1 Soul's Majesty
+1 Emerald Medallion
+1 Pounce
+1 Rishkar's Expertise
+1 Tail Swipe
+1 Choose Your Weapon
+1 Selvala, Heart of the Wilds
+1 Rabid Bite
+1 Fyndhorn Elves
+1 Temple of the False God
+1 Staff of Titania
+1 Yavimaya, Cradle of Growth
+{'overall': '6', 'cmc': 2.4761904761904763, 'ramp': '17', 'draw': '11', 'interaction': 8}

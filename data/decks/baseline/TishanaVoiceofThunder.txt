@@ -1,0 +1,101 @@
+1 Tishana, Voice of Thunder
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Soramaro, First to Dream
+1 Sylvan Yeti
+1 Trench Gorger
+1 Maro
+1 Unlicensed Hearse
+1 Boneyard Wurm
+1 Minas Tirith Garrison
+1 Terravore
+1 Consuming Blob
+1 Masumaro, First to Live
+1 Kodama of the Center Tree
+1 Splinterfright
+1 Last March of the Ents
+1 Cultivator Colossus
+1 Tarmogoyf
+1 Cognivore
+1 Greater Good
+1 Graveyard Busybody
+1 Psychosis Crawler
+1 Wrenn and Seven
+1 Better Offer
+1 Body of Knowledge
+1 Dodgy Jalopy
+1 Soul's Majesty
+1 Tezzeret the Seeker
+1 Scourge of Fleets
+1 Geistpack Alpha
+1 Nissa's Revelation
+1 Allosaurus Rider
+1 Lhurgoyf
+1 Phyrexian Ingester
+1 Blossoming Wreath
+1 Eye of Yawgmoth
+1 Thought Sponge
+1 Boing!
+1 Mirkwood Elk
+1 Phyrexian Devourer
+1 Selvala, Heart of the Wilds
+1 Verdant Rejuvenation
+1 Overbeing of Myth
+1 Coiling Woodworm
+1 Awakened Amalgam
+1 Vivien on the Hunt
+1 Arcanis, the Omnipotent Avatar
+1 Long Rest
+1 Mordenkainen
+1 Sacellum Godspeaker
+1 Krovikan Mist
+1 Duggan, Private Detective
+1 Candlekeep Inspiration
+1 Invigorating Falls
+1 Altar of Dementia
+1 Animate Library
+1 Stitcher Geralf
+1 Protean Hulk
+1 Heedless One
+1 Wild Pair
+1 Symmetry Matrix
+1 Nissa, Steward of Elements
+1 Triumph of Ferocity
+1 Territorial Maro
+1 Syr Elenora, the Discerning
+1 Towering Gibbon
+{'overall': '3', 'cmc': 4.393939393939394, 'ramp': '5', 'draw': '21', 'interaction': 2}

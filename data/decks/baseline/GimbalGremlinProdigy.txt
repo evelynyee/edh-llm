@@ -1,0 +1,101 @@
+1 Gimbal, Gremlin Prodigy
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Glistening Dawn
+1 Leyline Invocation
+1 Cultivator of Blades
+1 Assemble the Entmoot
+1 A-Minsc & Boo, Timeless Heroes
+1 Rapid Prototyper
+1 Feed the Pack
+1 Minsc & Boo, Timeless Heroes
+1 Miming Slime
+1 Cloakwood Hermit
+1 Emrakul's Evangel
+1 Swarming of Moria
+1 Marauding Dreadship
+1 One with the Kami
+1 Gutter Grime
+1 Pest Infestation
+1 Riptide Island
+1 Garruk, Primal Hunter
+1 Iridescent Hornbeetle
+1 A-Iridescent Hornbeetle
+1 Fungal Sprouting
+1 Seed Guardian
+1 Killer Service
+1 Palani's Hatcher
+1 Chancellor of the Forge
+1 Oviya Pashiri, Sage Lifecrafter
+1 Invade the City
+1 Fractal Summoning
+1 Urabrask's Forge
+1 Gardens of Tranquil Repose
+1 Surrounded by Orcs
+1 Commence the Endgame
+1 Geralf, Visionary Stitcher
+1 Tetravus
+1 Baru, Fist of Krosa
+1 Body of Research
+1 Midsummer Revel
+1 Urza's Command
+1 Myriad Construct
+1 Yotia Declares War
+1 Furnace Gremlin
+1 Ezuri's Predation
+1 Jund
+1 Workshop Elders
+1 Full Flowering
+1 Manifestation Sage
+1 Snake Basket
+1 Elegant Edgecrafters
+1 Krenko, Mob Boss
+1 Budoka Gardener // Dokai, Weaver of Life
+1 Nissa, Voice of Zendikar
+1 Court of Embereth
+1 Ethereal Investigator
+1 Enchanted Carriage
+1 Hellion Eruption
+1 Lifecraft Awakening
+1 Ooze Flux
+1 Gleeful Demolition
+1 Artifact Mutation
+1 Reckless Crew
+1 Night Scythe
+1 Sporoloth Ancient
+1 Maul Splicer
+{'overall': '3', 'cmc': 3.611940298507463, 'ramp': '1', 'draw': '8', 'interaction': 6}

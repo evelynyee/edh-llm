@@ -1,0 +1,69 @@
+1 Aryel, Knight of Windgrace
+1 Touchstone
+1 Vanquisher's Axe
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Topple the Statue
+1 Stir the Sands
+1 Wintermoor Commander
+1 Vish Kal, Blood Arbiter
+1 Vulshok Morningstar
+1 Wake of Vultures
+1 Worship
+1 The Book of Vile Darkness
+1 Virtue of Persistence // Locthwain Scorn
+1 Voice of Reason
+1 Zombie Infestation
+1 Ugin's Mastery
+1 War Screecher
+1 Worldslayer
+1 Yawgmoth, Thran Physician
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Ultramarines Honour Guard
+1 Towashi Guide-Bot
+1 Zarichi Tiger
+1 The Pit
+1 Western Paladin
+1 Wicked Visitor
+1 Tatsumasa, the Dragon's Fang
+1 Vladimir and Godfrey
+1 War Chariot
+1 Torgaar, Famine Incarnate
+1 Thornbite Staff
+1 Swords to Plowshares
+1 Writ of Return
+1 Triangle of War
+1 Welding Jar
+1 Thraben Doomsayer
+1 Tormod, the Desecrator
+1 Wicked Guardian
+1 Teferi's Protection
+1 Vile Rebirth
+1 Wayward Angel
+1 Valiant Changeling
+1 Vault of the Archangel
+1 Spectral Reserves
+1 Trynn, Champion of Freedom
+1 Westfold Rider
+1 Xander's Pact
+1 Waxmane Baku
+1 Zombie Boa
+1 Tidy Conclusion
+1 Twisted Sewer-Witch
+1 Warchanter of Mogis
+1 Starlit Sanctum
+1 The Girl in the Fireplace
+1 White Dragon
+1 Wayward Servant
+1 Walking Skyscraper
+1 Vanguard of Brimaz
+1 Transmutation
+1 Wine of Blood and Iron
+1 Titan's Presence
+1 Triplicate Spirits
+1 Spirit Mirror
+1 Wrath of God
+1 Wave of Rats
+1 Usher of the Fallen
+1 Voldaren Estate
+1 Voice of Truth
+{'overall': '4', 'cmc': 3.5441176470588234, 'ramp': '0', 'draw': '9', 'interaction': 13}

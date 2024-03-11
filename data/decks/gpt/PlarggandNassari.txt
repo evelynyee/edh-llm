@@ -1,0 +1,64 @@
+1 Plargg and Nassari
+1 Spellweaver Helix
+1 Mind Stone
+1 Commander's Sphere
+1 Sol Ring
+1 Undying Flames
+1 Unexpected Windfall
+1 Mana Vault
+1 Chromatic Lantern
+1 Vandalblast
+1 Lightning Bolt
+1 Touch of the Void
+1 Storm World
+1 Word of Blasting
+1 Valakut Awakening // Valakut Stoneforge
+1 Zurgo Bellstriker
+1 The Golden Throne
+1 Urza's Tome
+1 Spatula of the Ages
+1 Thran Turbine
+1 Urza's Bauble
+1 Thran Portal
+1 Trinisphere
+1 Squee
+1 Zirilan of the Claw
+1 Underworld Breach
+1 Thrill of Possibility
+1 Tibalt's Trickery
+1 Tectonic Reformation
+1 Tormod's Crypt
+1 Volcanic Offering
+1 The Rack
+1 Wandering Archaic // Explore the Vastlands
+1 Volrath's Laboratory
+1 Tectonic Giant
+1 Wondrous Crucible
+1 Urza's Hot Tub
+1 Sword of Forge and Frontier
+1 Timesifter
+1 The Maelstrom
+1 Sudden Impact
+1 Lightning Greaves
+1 Mana Crypt
+1 Winding Canyons
+1 Wheel of Fortune
+1 Surrender Your Thoughts
+1 Red Elemental Blast
+1 Sol Ring
+1 Widespread Panic
+1 Ugin's Nexus
+1 Warrior's Oath
+1 Viashino Cutthroat
+1 Surveyor's Scope
+1 Whispergear Sneak
+1 Vesuva
+1 Chromatic Lantern
+1 Dockside Extortionist
+1 Chrome Mox
+1 Word of Seizing
+1 Tome of the Guildpact
+1 Arcane Signet
+1 Thought-Knot Seer
+1 Windswept Heath
+{'overall': '8', 'cmc': 2.4918032786885247, 'ramp': '17', 'draw': '11', 'interaction': 7}

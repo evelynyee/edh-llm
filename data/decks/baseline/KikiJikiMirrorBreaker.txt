@@ -1,0 +1,101 @@
+1 Kiki-Jiki, Mirror Breaker
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+1 Heat Shimmer
+1 Cogwork Assembler
+1 Determined Iteration
+1 Gut, Furious Fanatic
+1 Echo Chamber
+1 Splinter Twin
+1 Feldon of the Third Path
+1 Flameshadow Conjuring
+1 Hate Mirage
+1 Orthion, Hero of Lavabrink
+1 Felhide Spiritbinder
+1 Minion Reflector
+1 Kindred Charge
+1 Daring Piracy
+1 Hornet Cannon
+1 Phyrexian Triniform
+1 Valduk, Keeper of the Flame
+1 Molten Echoes
+1 Rukh Egg
+1 God-Pharaoh's Gift
+1 Feral Lightning
+1 Akoum Stonewaker
+1 Twinflame
+1 Rekindling Phoenix
+1 Mirror March
+1 Rite of the Raging Storm
+1 Loyal Apprentice
+1 Flamerush Rider
+1 Elemental Mastery
+1 Sparkspitter
+1 Impulsive Pilferer
+1 Red Sun's Twilight
+1 My Forces Are Innumerable
+1 Sokenzan Smelter
+1 Stone Idol Trap
+1 Helm of the Host
+1 Chimeric Coils
+1 Dalek Intensive Care
+1 Jaxis, the Troublemaker
+1 Thatcher Revolt
+1 Dollhouse of Horrors
+1 Urabrask's Forge
+1 Bloody Betrayal
+1 New New York
+1 Involuntary Employment
+1 Delina, Wild Mage
+1 Goblin Spymaster
+1 Sibling Rivalry
+1 Stensia Uprising
+1 Thopter Assembly
+1 Firbolg Flutist
+1 Mirage Phalanx
+1 Rebellion of the Flamekin
+1 Dragon Cultist
+1 Gremlin Infestation
+1 Agyrem
+1 Force of Rage
+1 Gadrak, the Crown-Scourge
+1 Pugnacious Pugilist
+1 Diabolical Salvation
+1 Mimic Vat
+1 Faerie Aerie
+{'overall': '4', 'cmc': 3.6615384615384614, 'ramp': '5', 'draw': '5', 'interaction': 3}

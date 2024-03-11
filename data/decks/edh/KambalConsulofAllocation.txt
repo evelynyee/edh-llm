@@ -1,0 +1,64 @@
+1 Kambal, Consul of Allocation
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Sanguine Bond
+1 Swords to Plowshares
+1 Orzhov Signet
+1 Blind Obedience
+1 Vito, Thorn of the Dusk Rose
+1 Caves of Koilos
+1 Godless Shrine
+1 Isolated Chapel
+1 Authority of the Consuls
+1 Suture Priest
+1 Talisman of Hierarchy
+1 Exquisite Blood
+1 Smothering Tithe
+1 Soul Warden
+1 Ghostly Prison
+1 Aetherflux Reservoir
+1 Path to Exile
+1 Anguished Unmaking
+1 Tainted Field
+1 Bolas's Citadel
+1 Debt to the Deathless
+1 Cliffhaven Vampire
+1 Orzhov Basilica
+1 Vault of Champions
+1 Temple of Silence
+1 Marauding Blight-Priest
+1 Phyrexian Arena
+1 Despark
+1 Well of Lost Dreams
+1 Bojuka Bog
+1 Scoured Barrens
+1 Sign in Blood
+1 Marsh Flats
+1 Gray Merchant of Asphodel
+1 Blood Artist
+1 Mortify
+1 Esper Sentinel
+1 Liesa, Shroud of Dusk
+1 Vizkopa Guildmage
+1 Damn
+1 Soul's Attendant
+1 Fumigate
+1 Exsanguinate
+1 Crypt Ghast
+1 Urborg, Tomb of Yawgmoth
+1 Drana's Emissary
+1 Brightclimb Pathway
+1 Demonic Tutor
+1 Fetid Heath
+1 Shattered Sanctum
+1 Read the Bones
+1 Fracture
+1 Greed
+1 Felidar Sovereign
+1 Mind Stone
+1 Utter End
+1 Teferi's Protection
+1 Serra Ascendant
+1 Indulging Patrician
+{'overall': '8', 'cmc': 2.1904761904761907, 'ramp': '7', 'draw': '8', 'interaction': 10}

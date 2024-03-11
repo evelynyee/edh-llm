@@ -1,0 +1,101 @@
+1 Teysa Karlov
+1 Mobilized District
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Panharmonicon
+1 Elesh Norn, Mother of Machines
+1 Boromir, Warden of the Tower
+1 Crackdown Construct
+1 Crown of Gondor
+1 Blue Ribbon
+1 Gandalf the White
+1 Daru Spiritualist
+1 Order of Sacred Dusk
+1 Amulet of Safekeeping
+1 Samite Elder
+1 Ratchet, Field Medic // Ratchet, Rescue Racer
+1 Opal Archangel
+1 Zhalfirin Decoy
+1 Reidane, God of the Worthy // Valkmira, Protector's Shield
+1 Ranger's Hawk
+1 Vito, Fanatic of Aclazotz
+1 Esquire of the King
+1 Faith's Shield
+1 Elspeth's Talent
+1 Gideon, the Oathsworn
+1 Coalition Flag
+1 The Peregrine Dynamo
+1 King of the Oathbreakers
+1 Rootborn Defenses
+1 Tar Pit Warrior
+1 Esper
+1 Opal Titan
+1 Opal Guardian
+1 Plate Armor
+1 A-Plate Armor
+1 Dramatic Finale
+1 Hall of Mirrors
+1 Surge of Salvation
+1 Silverflame Ritual
+1 Shield Mare
+1 Ood Sphere
+1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
+1 Eight-and-a-Half-Tails
+1 Distorting Lens
+1 Strionic Resonator
+1 Xander's Wake
+1 Answered Prayers
+1 Ring of Evos Isle
+1 Rammas Echor, Ancient Shield
+1 Abstruse Archaic
+1 Welcoming Vampire
+1 Chimeric Idol
+1 Orcish Medicine
+1 Wishmonger
+1 Regal Sliver
+1 The Wandering Emperor
+1 Horobi, Death's Wail
+1 Fey Steed
+1 Walking Skyscraper
+1 Alchor's Tomb
+1 Illusionist's Bracers
+1 Klement, Life Acolyte
+1 Unbreakable Formation
+1 Inchblade Companion
+1 Steel Seraph
+1 Leonin Lightscribe
+1 Giver of Runes
+{'overall': '4', 'cmc': 2.970149253731343, 'ramp': '1', 'draw': '4', 'interaction': 2}

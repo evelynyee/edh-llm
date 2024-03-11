@@ -1,0 +1,66 @@
+1 Klothys, God of Destiny
+1 Vernal Bloom
+1 Mana Vault
+1 Sol Ring
+1 Sylvan Library
+1 Wrenn and Seven
+1 Thrasta, Tempest's Roar
+1 Vivien, Monsters' Advocate
+1 Green Sun's Zenith
+1 Treasonous Ogre
+1 Verdant Catacombs
+1 Vivien, Arkbow Ranger
+1 Sword of Once and Future
+1 Vengevine
+1 Yidaro, Wandering Monster
+1 Twinflame
+1 Abrade
+1 Underworld Breach
+1 Vault Robber
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Urabrask, Heretic Praetor
+1 Wren's Run Vanquisher
+1 Well of Knowledge
+1 Tyrant of Valakut
+1 Hardened Scales
+1 Vengeful Rebirth
+1 Vivien's Grizzly
+1 Stone of Erech
+1 Village Elder
+1 Vessel of Nascency
+1 Bloom Tender
+1 World at War
+1 Sylvan Bounty
+1 Vexing Arcanix
+1 Sproutback Trudge
+1 Thunderblade Charge
+1 Tunneler Wurm
+1 Sword of Forge and Frontier
+1 Tectonic Reformation
+1 Vernal Equinox
+1 War-Torch Goblin
+1 Windriddle Palaces
+1 Winding Canyons
+1 Trading Post
+1 Ugin, the Spirit Dragon
+1 Vastwood Surge
+1 Viridian Revel
+1 Vivien on the Hunt
+1 Tormod's Crypt
+1 Vandalblast
+1 Thrill of Possibility
+1 Ugin, the Ineffable
+1 Trash for Treasure
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Varchild's War-Riders
+1 Warfire Javelineer
+1 Volcanic Vision
+1 Turri Island
+1 Violent Eruption
+1 Wandering Treefolk
+1 Wolfwillow Haven
+1 Wolfir Avenger
+1 The Great Henge
+1 Vines of Vastwood
+1 Treetop Village
+{'overall': '7', 'cmc': 3.3846153846153846, 'ramp': '10', 'draw': '18', 'interaction': 9}

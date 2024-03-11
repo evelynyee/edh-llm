@@ -1,0 +1,101 @@
+1 Tajic, Legion's Edge
+1 Contested War Zone
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Outrider en-Kor
+1 Zhalfirin Crusader
+1 Bogardan Lancer
+1 Ajani Steadfast
+1 Leap of Faith
+1 Soratami Cloud Chariot
+1 Rabble-Rouser
+1 Siege Striker
+1 Uncaged Fury
+1 Aurelia, Exemplar of Justice
+1 Rile
+1 Enshrouding Mist
+1 Runesword
+1 Nahiri's Machinations
+1 Crash Through
+1 Miner's Bane
+1 Razia, Boros Archangel
+1 Ingenious Leonin
+1 Goblin Banneret
+1 Drogskol Reinforcements
+1 Lithomancer's Focus
+1 Feint
+1 Consul's Lieutenant
+1 Burning Cloak
+1 Gryffwing Cavalry
+1 Blind Fury
+1 Knight of the Holy Nimbus
+1 Blood Ogre
+1 Ring of Kalonia
+1 Brawler's Plate
+1 Temur Battle Rage
+1 Jabari's Banner
+1 Zhalfirin Commander
+1 Double Cleave
+1 Assault Strobe
+1 Boros Challenger
+1 Fang Skulkin
+1 Mortal's Ardor
+1 Stampede Rider
+1 Takeno's Cavalry
+1 Battlefield Promotion
+1 Songstitcher
+1 Zhalfirin Knight
+1 Stensia
+1 Thunderstaff
+1 Knight of Valor
+1 Disharmony
+1 Smite the Deathless
+1 Femeref Knight
+1 Moment of Heroism
+1 Burning Shield Askari
+1 Flensing Raptor
+1 Suq'Ata Lancer
+1 Angelic Page
+1 Duelist's Heritage
+1 Umezawa's Jitte
+1 Liara of the Flaming Fist
+1 Gideon, Champion of Justice
+1 Opal-Eye, Konda's Yojimbo
+1 Heartfire Immolator
+1 Mtenda Herder
+1 Benalish Cavalry
+1 Kry Shield
+{'overall': '2', 'cmc': 2.5522388059701493, 'ramp': '0', 'draw': '2', 'interaction': 11}

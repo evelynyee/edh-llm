@@ -1,0 +1,101 @@
+1 Massacre Girl
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Gristle Grinner
+1 Festering Goblin
+1 Mandatory Friendship Shackles
+1 Steal Strength
+1 Hornet Harasser
+1 Disease Carriers
+1 Devouring Swarm
+1 Blister Beetle
+1 Servant of Nefarox
+1 Assembly-Worker
+1 Morkrut Banshee
+1 Tragic Slip
+1 Inflation Station
+1 Quick-Stick Lick Trick
+1 Defile
+1 The Hunter
+1 Diamond Faerie Avatar
+1 Farbog Boneflinger
+1 Phyrexian Plaguelord
+1 Blood Bairn
+1 Rabid Rats
+1 Buzz Buggy
+1 Phyrexian Denouncer
+1 Stabbing Pain
+1 Disfigure
+1 Irradiate
+1 Undead Executioner
+1 Festering Newt
+1 Vampire Aristocrat
+1 Fallen Angel
+1 Bloodthrone Vampire
+1 Strangling Spores
+1 Last Gasp
+1 Throttle
+1 Lash of the Whip
+1 Grasp of Darkness
+1 Flatten
+1 Ghosts of the Damned
+1 Lash of Malice
+1 Shambling Goblin
+1 Grim Physician
+1 Dark Remedy
+1 Splatter Goblin
+1 Howl from Beyond
+1 Bloodcurdling Scream
+1 Pull Under
+1 Demon's Grasp
+1 Howling Fury
+1 Sword of the Chosen
+1 Death Wind
+1 Skulduggery
+1 Stinging Scorpion
+1 Spire Mangler
+1 Wring Flesh
+1 Tar Snare
+1 Fatal Fumes
+1 Eyes of the Beholder
+1 A-Eyes of the Beholder
+1 Tower of Champions
+1 Sepulcher Ghoul
+1 A-Sepulcher Ghoul
+1 Jabari's Banner
+1 Consuming Rage
+{'overall': '1', 'cmc': 2.5538461538461537, 'ramp': '0', 'draw': '0', 'interaction': 1}

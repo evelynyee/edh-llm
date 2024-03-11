@@ -1,0 +1,68 @@
+1 Armix, Filigree Thrasher
+1 Demonic Tutor
+1 Umezawa's Jitte
+1 Mana Vault
+1 Diabolic Tutor
+1 Mana Crypt
+1 Volrath the Fallen
+1 Vengeful Rebel
+1 Whalebone Glider
+1 Vengeful Pharaoh
+1 Wall of Limbs
+1 Umezawa's Charm
+1 Vexing Arcanix
+1 Thought Vessel
+1 Vicious Rumors
+1 Whisper, Blood Liturgist
+1 Tallyman of Nurgle
+1 Ugin's Mastery
+1 Withered Wretch
+1 Tomb Tyrant
+1 Yawgmoth Demon
+1 Tendrils of Corruption
+1 Thornbow Archer
+1 Tasigur's Cruelty
+1 Sol Ring
+1 Wring Flesh
+1 Wand of Ith
+1 Vampire Nocturnus Avatar
+1 Yawgmoth, Thran Physician
+1 Suffocating Fumes
+1 Yawgmoth's Will
+1 Tooth Collector
+1 Tainted Monkey
+1 Stronghold Discipline
+1 When Will You Learn?
+1 Vindictive Vampire
+1 Tsabo's Decree
+1 Wicked Guardian
+1 Vraan, Executioner Thane
+1 Soulshriek
+1 Surrender Your Thoughts
+1 Stallion of Ashmouth
+1 Suppress
+1 Stinkweed Imp
+1 Wake the Dead
+1 Transmutation
+1 Yawgmoth's Testament
+1 Vampire's Bite
+1 Zulaport Cutthroat
+1 Sorin Markov
+1 Vraska's Contempt
+1 Wretched Confluence
+1 Sword of War and Peace
+1 Visage of Dread // Dread Osseosaur
+1 Symmetry Matrix
+1 Unmask
+1 Voodoo Doll
+1 Soul Conduit
+1 Shadowgrange Archfiend
+1 Stinging Scorpion
+1 Thrull Surgeon
+1 Victimize
+1 Their Number Is Legion
+1 The Cave of Skulls
+1 Unwilling Ingredient
+1 Smuggler's Copter
+1 Xiahou Dun, the One-Eyed
+{'overall': '4', 'cmc': 3.044776119402985, 'ramp': '5', 'draw': '8', 'interaction': 9}

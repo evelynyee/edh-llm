@@ -1,0 +1,101 @@
+1 Yedora, Grave Gardener
+1 Safe Haven
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Malfegor Avatar
+1 Tawnos's Coffin
+1 Changeling Titan
+1 Portcullis
+1 Ambush Krotiq
+1 Pet Project
+1 Cloudstone Curio
+1 Portal to Phyrexia
+1 Guardian Project
+1 Reincarnation
+1 Guardians of Koilos
+1 Takenuma
+1 Duplicant
+1 Multani, Yavimaya's Avatar
+1 Cryptic Gateway
+1 Next of Kin
+1 Invasive Species
+1 Paleoloth
+1 Swallow the Hero Whole
+1 Titania, Protector of Argoth
+1 Cold Storage
+1 Rishadan Pawnshop
+1 Mirror of Life Trapping
+1 My Undead Horde Awakens
+1 Weaponized Scrap
+1 Unstoppable Ash
+1 Lifeline
+1 Trail of Mystery
+1 Scrap Trawler
+1 Colfenor's Urn
+1 Scaretiller
+1 Spreading Algae
+1 Verdant Succession
+1 Masked Vandal
+1 Dragon Fangs
+1 Nissa, Vital Force
+1 Favored Enemy
+1 Composer of Spring
+1 Gladewalker Ritualist
+1 Murasa
+1 Darksteel Garrison
+1 Nissa's Zendikon
+1 Helvault
+1 Soul of the Harvest
+1 Geothermal Kami
+1 God-Eternal Rhonas
+1 Sylvan Hierophant
+1 Vastwood Zendikon
+1 Summoner's Egg
+1 Reach of Branches
+1 Blossoming Tortoise
+1 Oni of Wild Places Avatar
+1 Ancestral Statue
+1 Somberwald Stag
+1 Oathkeeper, Takeno's Daisho
+1 Cosmium Confluence
+1 Myr Retriever
+1 Antique Collector
+1 Pattern of Rebirth
+1 Kazandu Stomper
+1 Genju of the Cedars
+1 Barrin
+1 Conjurer's Closet
+{'overall': '4', 'cmc': 3.3181818181818183, 'ramp': '4', 'draw': '7', 'interaction': 6}

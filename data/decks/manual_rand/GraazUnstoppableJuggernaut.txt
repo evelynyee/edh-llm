@@ -1,0 +1,69 @@
+1 Graaz, Unstoppable Juggernaut
+1 Vial of Poison
+1 Ugin's Nexus
+1 Your Puny Minds Cannot Fathom
+1 Vanguard's Shield
+1 Surestrike Trident
+1 Untethered Express
+1 Urza's Factory
+1 The Dining Car
+1 Tawnos's Weaponry
+1 Sword of the Ages
+1 Urza
+1 Yavimaya, Cradle of Growth
+1 Urza's Bauble
+1 Time Vault
+1 Urza's Workshop
+1 Ulamog's Crusher
+1 World-Bottling Kit
+1 Shuriken
+1 Three Bowls of Porridge
+1 Urza's Saga
+1 Whirlermaker
+1 Viridian Zealot Avatar
+1 The Warmonger
+1 The Superlatorium
+1 Tawnos's Coffin
+1 Twinning Staff
+1 Vulshok Gauntlets
+1 Tangle Wire
+1 Wicker Picker
+1 Vibrating Sphere
+1 Valor's Reach
+1 Wirecat
+1 Wheel of Torture
+1 Volatile Rig
+1 Soldevi Golem
+1 Tooth of Chiss-Goria
+1 Weakstone
+1 Witch's Clinic
+1 Veteran's Armaments
+1 Tyrite Sanctum
+1 Timesifter
+1 Umbral Mantle
+1 Xanthic Statue
+1 Tenza, Godo's Maul
+1 The Drum, Mining Facility
+1 The Golden City of Orazca
+1 Wall of Shields
+1 The Hippodrome
+1 Thopter Assembly
+1 Wedding Invitation
+1 Shifting Wall
+1 Phyrexian Colossus
+1 Throne of Empires
+1 The Great Forest
+1 Syr Ginger, the Meal Ender
+1 Urborg, Tomb of Yawgmoth
+1 Undercity Reaches
+1 Sword of War and Peace
+1 Urn of Godfire
+1 Turri Island
+1 Top-Secret Tunnel
+1 The Protector
+1 Sword of Forge and Frontier
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Ulamog, the Infinite Gyre
+1 Throne of Bone
+1 Lightning Greaves
+{'overall': '5', 'cmc': 2.338235294117647, 'ramp': '3', 'draw': '8', 'interaction': 11}

@@ -1,0 +1,101 @@
+1 Plargg and Nassari
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 When Will You Learn?
+1 Ensnared by the Mara
+1 Possibility Storm
+1 Guff Rewrites History
+1 The Matrix of Time
+1 Knowledge Pool
+1 Bloodbraid Marauder
+1 Tibalt's Trickery
+1 Share the Spoils
+1 Chaos Wand
+1 Flamekin Herald
+1 Act on Impulse
+1 Noise Marine
+1 Chimil, the Inner Sun
+1 Maelstrom Colossus
+1 Boarding Party
+1 Let the Galaxy Burn
+1 Dark Apostle
+1 Creative Technique
+1 My Wish Is Your Command
+1 Etali, Primal Storm // Etali, Primal Storm
+1 Etali, Primal Storm
+1 Zhulodok, Void Gorger
+1 Uba Mask
+1 Call Forth the Tempest
+1 Dance with Calamity
+1 Aurora Phoenix
+1 Power Without Equal
+1 Volcanic Torrent
+1 TARDIS Bay
+1 Garbage Elemental
+1 Throes of Chaos
+1 Daring Discovery
+1 Treasure Keeper
+1 Rain of Riches
+1 Ingenuity Engine
+1 Wild-Magic Sorcerer
+1 River Song's Diary
+1 Into the Time Vortex
+1 Unpredictable Cyclone
+1 Timesifter
+1 Divergent Transformations
+1 Meteoric Mace
+1 Ignite the Future
+1 Thrumming Stone
+1 Turri Island
+1 Digsite Conservator
+1 The Stone Brain
+1 Surging Flame
+1 Wand of Wonder
+1 Windriddle Palaces
+1 Stolen Strategy
+1 Geological Appraiser
+1 Wandering Archaic // Explore the Vastlands
+1 Keldon Flamesage
+1 Temporal Aperture
+1 Mirrored Depths
+1 Zoyowa's Justice
+1 Hit the Mother Lode
+1 Trail of the Mage-Rings
+1 Omen Machine
+1 Sunbird's Invocation
+1 Hazoret's Undying Fury
+{'overall': '3', 'cmc': 4.0, 'ramp': '6', 'draw': '14', 'interaction': 5}

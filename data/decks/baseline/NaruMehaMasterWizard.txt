@@ -1,0 +1,101 @@
+1 Naru Meha, Master Wizard
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Aethersnatch
+1 Sigil Tracer
+1 Nebelgast Herald
+1 Lithoform Engine
+1 Insidious Will
+1 Breaching Hippocamp
+1 Twincast
+1 Uyo, Silent Prophet
+1 Psychic Rebuttal
+1 Deceiver Exarch
+1 Lucky Clover
+1 Replication Technique
+1 Virtue of Knowledge // Vantress Visions
+1 Twinning Staff
+1 Redirect
+1 Tomb of Horrors Adventurer
+1 Swarm Intelligence
+1 Radstorm
+1 Invasion of Arcavios // Invocation of the Founders
+1 Split Decision
+1 Artisan of Forms
+1 Reflective Golem
+1 Protean Thaumaturge
+1 Strixhaven
+1 Narset's Reversal
+1 Aboleth Spawn
+1 Storm of Forms
+1 Sea Gate Stormcaller
+1 Errant, Street Artist
+1 Temporal Fissure
+1 Chancellor of Tales
+1 Mirari
+1 Gadwick's First Duel
+1 Perplexing Chimera
+1 Commandeer
+1 Invasion of Vryn // Overloaded Mage-Ring
+1 Threefold Signal
+1 Precursor Golem
+1 Mirror Image
+1 Seasonal Sequels
+1 Echo Storm
+1 Brain Freeze
+1 Reflections of Littjara
+1 Blue Ribbon
+1 Mizzium Meddler
+1 Wandering Archaic // Explore the Vastlands
+1 Ring of Immortals
+1 Triton Cavalry
+1 Jin-Gitaxias, Progress Tyrant
+1 Flux Channeler
+1 The Mirari Conjecture
+1 Meletis Charlatan
+1 Quickling
+1 Psionic Ritual
+1 Curse of Echoes
+1 Myojin of Cryptic Dreams
+1 Sister of Silence
+1 Hive Mind
+1 Roaming Throne
+1 Shipwreck Dowser
+1 Flusterstorm
+1 Gigadrowse
+1 Silumgar Sorcerer
+{'overall': '2', 'cmc': 3.7846153846153845, 'ramp': '0', 'draw': '4', 'interaction': 7}

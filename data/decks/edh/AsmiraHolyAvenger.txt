@@ -1,0 +1,64 @@
+1 Asmira, Holy Avenger
+1 Fecundity
+1 Sakura-Tribe Elder
+1 Saffi Eriksdotter
+1 Command Tower
+1 Sun Titan
+1 Path to Exile
+1 Sol Ring
+1 Angelic Renewal
+1 Swords to Plowshares
+1 Canopy Vista
+1 Fanatical Devotion
+1 Qasali Pridemage
+1 Reveillark
+1 Spore Frog
+1 Selfless Savior
+1 Karmic Guide
+1 Wood Elves
+1 Vigilant Martyr
+1 Benevolent Bodyguard
+1 Renegade Rallier
+1 Alseid of Life's Bounty
+1 Selfless Spirit
+1 Skullclamp
+1 High Market
+1 Dawntreader Elk
+1 Dauntless Escort
+1 Temple Garden
+1 Sunpetal Grove
+1 Yavimaya Elder
+1 Martyr's Cause
+1 Eternal Witness
+1 Caustic Caterpillar
+1 Ashnod's Altar
+1 Krosan Verge
+1 Beast Within
+1 Divine Reckoning
+1 Luminous Broodmoth
+1 Abiding Grace
+1 Mentor of the Meek
+1 Arcane Signet
+1 Awakening Zone
+1 Rogue's Passage
+1 Cathar Commando
+1 Faith's Reward
+1 Diligent Farmhand
+1 Bounty Agent
+1 Martyr's Bond
+1 Swiftfoot Boots
+1 Rampant Growth
+1 Ollenbock Escort
+1 Dauntless Bodyguard
+1 Burnished Hart
+1 Primal Growth
+1 Neverwinter Dryad
+1 Fortified Village
+1 Abundance
+1 Mother of Runes
+1 Brought Back
+1 Evolutionary Leap
+1 Scattered Groves
+1 Avacyn's Pilgrim
+1 Cultivate
+{'overall': '7', 'cmc': 2.0952380952380953, 'ramp': '15', 'draw': '6', 'interaction': 6}

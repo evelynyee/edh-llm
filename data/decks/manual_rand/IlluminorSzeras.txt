@@ -1,0 +1,69 @@
+1 Illuminor Szeras
+1 Sultai Scavenger
+1 Spire of Industry
+1 Unlicensed Hearse
+1 Vial of Poison
+1 Stonehewer Giant Avatar
+1 Weirding Shaman
+1 Waste Not
+1 Torgaar, Famine Incarnate
+1 Transguild Promenade
+1 Thopter Squadron
+1 Untaidake, the Cloud Keeper
+1 Stinging Study
+1 The Superlatorium
+1 Soul Burn
+1 Sunglasses of Urza
+1 Wicker Picker
+1 Vampire's Bite
+1 Diabolic Tutor
+1 Yahenni's Expertise
+1 The Provider
+1 Tormented Thoughts
+1 The Seedcore
+1 Commander's Sphere
+1 Tormod's Cryptkeeper
+1 Sliver Queen Avatar
+1 Technomancer
+1 Wolfhunter's Quiver
+1 Vicious Rumors
+1 Smother
+1 Undercity's Embrace
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Thran Quarry
+1 Wicked Guardian
+1 Thieving Amalgam
+1 Swallowing Plague
+1 The Mana Rig
+1 Vampiric Feast
+1 When Will You Learn?
+1 Soul Foundry
+1 Snuff Out
+1 Zombie Boa
+1 Sweettooth Witch
+1 Unholy Grotto
+1 Wintermoon Mesa
+1 Taken by Nightmares
+1 Spoils of War
+1 Wake of Vultures
+1 Shadowheart, Dark Justiciar
+1 Thopter Assembly
+1 Shelob, Dread Weaver
+1 Welding Jar
+1 Verdant Catacombs
+1 Uchuulon
+1 Zombie Cannibal
+1 Visions of Brutality
+1 Spinning Wheel
+1 Stain the Mind
+1 Vexing Puzzlebox
+1 Withercrown
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Thornbite Staff
+1 Weirded Vampire
+1 Weaponcraft Enthusiast
+1 Surgehacker Mech
+1 Weaponized Scrap
+1 Slaughter Drone
+1 Wirefly Hive
+{'overall': '5', 'cmc': 2.7941176470588234, 'ramp': '5', 'draw': '8', 'interaction': 9}

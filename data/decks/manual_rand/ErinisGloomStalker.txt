@@ -1,0 +1,69 @@
+1 Erinis, Gloom Stalker
+1 Untamed Wilds
+1 Ulvenwald Hydra
+1 Whetwheel
+1 Urborg, Tomb of Yawgmoth
+1 World-Bottling Kit
+1 Woodcaller Automaton
+1 The Foretold Soldier
+1 Vessel of Endless Rest
+1 Thrasta, Tempest's Roar
+1 Trivia Contest
+1 Wildcall
+1 Track Down
+1 Witches' Eye
+1 Tlincalli Hunter // Retrieve Prey
+1 Thaumatic Compass // Spires of Orazca
+1 Travel Through Caradhras
+1 Weight Advantage
+1 Tranquil Frillback
+1 Timberland Ancient
+1 Wizard's Rockets
+1 Which of You Burns Brightest?
+1 Temur Sabertooth
+1 Webspinner Cuff
+1 Swell of Growth
+1 Vessel of Nascency
+1 Weatherlight Compleated
+1 Wandering Archaic // Explore the Vastlands
+1 Whetstone
+1 Vorapede
+1 Volatile Fault
+1 Wayfarer's Bauble
+1 Truga Jungle
+1 Towashi Guide-Bot
+1 The Champion
+1 Titan's Presence
+1 Summoning Trap
+1 Wirewood Symbiote
+1 The Mana Rig
+1 Vitality Salve
+1 Virtue of Strength // Garenbrig Growth
+1 Split the Spoils
+1 Tempting Wurm
+1 Survival of the Fittest
+1 Veteran Explorer
+1 Wandering Archaic // Explore the Vastlands
+1 Wreath of Geists
+1 Titania, Protector of Argoth
+1 Wicker Picker
+1 Treasure Keeper
+1 Thrumming Stone
+1 Wolf Strike
+1 Green Sun's Zenith
+1 Your Fate Is Thrice Sealed
+1 Tunnel of Love
+1 Ulamog's Despoiler
+1 Wayward Swordtooth
+1 The Dark Barony
+1 Winter's Grasp
+1 TARDIS Bay
+1 The Cave of Skulls
+1 _____-o-saurus
+1 Weathered Runestone
+1 Whispergear Sneak
+1 Wolfcaller's Howl
+1 Winnower Patrol
+1 Thaumatic Compass // Spires of Orazca
+1 Ulamog, the Ceaseless Hunger
+{'overall': '6', 'cmc': 3.090909090909091, 'ramp': '10', 'draw': '11', 'interaction': 4}

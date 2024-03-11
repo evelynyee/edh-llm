@@ -1,0 +1,101 @@
+1 Farmer Cotton
+1 Foundry of the Consuls
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Pest Infestation
+1 Killer Service
+1 Giant Opportunity
+1 Witch's Oven
+1 Wolf's Quarry
+1 Oviya Pashiri, Sage Lifecrafter
+1 Progenitor Exarch
+1 Professor of Zoomancy
+1 Containment Breach
+1 Tangled Skyline
+1 Rapid Prototyper
+1 Glistening Dawn
+1 Sunfall
+1 Clowning Around
+1 Elspeth Tirel
+1 Spectral Reserves
+1 Phyrexian Rebirth
+1 Fortifying Provisions
+1 Snake Basket
+1 Peregrin Took
+1 Bill the Pony
+1 Tinker's Tote
+1 Field-Tested Frying Pan
+1 Retrofitter Foundry
+1 Master's Call
+1 Fierce Witchstalker
+1 Servo Exhibition
+1 Converter Beast
+1 Concession Stand
+1 Phyrexian Processor
+1 Emrakul's Evangel
+1 Metrognome
+1 Infected Defector
+1 Seed Spark
+1 Rosie Cotton of South Lane
+1 Martial Coup
+1 Excise the Imperfect
+1 Brandywine Farmer
+1 Storm Herd
+1 Mitotic Slime
+1 Darksteel Splicer
+1 Eastfarthing Farmer
+1 Ulvenwald Mysteries
+1 Master Trinketeer
+1 Orochi Eggwatcher // Shidako, Broodmistress
+1 Gnomeball Machine
+1 Cogworker's Puzzleknot
+1 Freyalise, Llanowar's Fury
+1 Kozilek's Predator
+1 Sliversmith
+1 Aura Mutation
+1 Nuisance Engine
+1 Rope Line Attendant
+1 Envoy of Okinec Ahau
+1 Vessel of Ephemera
+1 Extricator of Sin // Extricator of Flesh
+1 Myriad Construct
+1 Bartered Cow
+1 Sunder the Gateway
+1 Gilded Goose
+1 Mass Production
+1 Whirlermaker
+1 Throne of Empires
+{'overall': '3', 'cmc': 3.28, 'ramp': '3', 'draw': '3', 'interaction': 10}

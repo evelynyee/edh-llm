@@ -1,0 +1,101 @@
+1 Elenda, the Dusk Rose
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Elenda's Hierophant
+1 Felisa, Fang of Silverquill
+1 Boss's Chauffeur
+1 Custodi Soulbinders
+1 Nested Shambler
+1 Clown Car
+1 Murder Investigation
+1 Attempted Murder
+1 Basri's Lieutenant
+1 Nest of Scarabs
+1 Hallowed Spiritkeeper
+1 Siege Veteran
+1 Hangarback Walker
+1 Twilight Drover
+1 Jund
+1 Nadier, Agent of the Duskenel
+1 Ghoulcaller Gisa
+1 Alharu, Solemn Ritualist
+1 Horn of Gondor
+1 Rite of the Serpent
+1 Kresh the Bloodbraided Avatar
+1 Angel of Invention
+1 Geist-Honored Monk
+1 Belfry Spirit
+1 Entrapment Maneuver
+1 Marionette Master
+1 Bloated Processor
+1 Bonehoard
+1 Deploy to the Front
+1 Darksteel Splicer
+1 Chittering Witch
+1 Herald of the Dreadhorde
+1 Promise of Bunrei
+1 Staff of Titania
+1 Anduril, Flame of the West
+1 Threefold Thunderhulk
+1 Lena, Selfless Champion
+1 Monkey Cage
+1 Slaughter Specialist
+1 Glint-Sleeve Artisan
+1 Ambitious Aetherborn
+1 Accomplished Automaton
+1 Propeller Pioneer
+1 Maulfist Squad
+1 Iron League Steed
+1 Weaponcraft Enthusiast
+1 Visionary Augmenter
+1 Ajani, Caller of the Pride
+1 Marrow-Gnawer
+1 Clowning Around
+1 Easterling Vanguard
+1 Ogre Slumlord
+1 Finale of Glory
+1 Field of Souls
+1 Sandsteppe Outcast
+1 Vizier of the Scorpion
+1 Kinsbaile Borderguard
+1 Bleeding Edge
+1 Myriad Construct
+1 Militant Angel
+1 Storm Herd
+1 Teysa, Orzhov Scion
+1 Bat Colony
+{'overall': '2', 'cmc': 3.84, 'ramp': '0', 'draw': '0', 'interaction': 2}

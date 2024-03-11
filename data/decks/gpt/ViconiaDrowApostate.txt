@@ -1,0 +1,66 @@
+1 Viconia, Drow Apostate
+1 Demonic Tutor
+1 Mana Vault
+1 Sol Ring
+1 Syphon Mind
+1 Vampiric Tutor
+1 Vile Manifestation
+1 Viscera Seer
+1 Unearth
+1 Vengeful Strangler // Strangling Grasp
+1 Void Beckoner
+1 Wand of Ith
+1 Sunbird Standard // Sunbird Effigy
+1 Thought Vessel
+1 Trepanation Blade
+1 Tormod's Crypt
+1 Volrath the Fallen
+1 Ugin's Mastery
+1 Whispergear Sneak
+1 Tormod, the Desecrator
+1 Tomb Robber
+1 Woe Strider
+1 Stitch Together
+1 Thieving Sprite
+1 Tainted Pact
+1 Tormod's Cryptkeeper
+1 Whisper Squad
+1 Talon Gates
+1 Tallyman of Nurgle
+1 Virus Beetle
+1 Veteran Ghoulcaller
+1 Undead Butler
+1 Withered Wretch
+1 Viscera Dragger
+1 Vengeful Vampire
+1 Vexing Arcanix
+1 Visage of Dread // Dread Osseosaur
+1 Toxic Deluge
+1 Unmake the Graves
+1 Zzzyxas's Abyss
+1 Trivia Contest
+1 Treasure Keeper
+1 Umbilicus
+1 Verdant Catacombs
+1 Soldevi Digger
+1 Torment of Hailfire
+1 Treacherous Vampire
+1 Varragoth, Bloodsky Sire
+1 Timesifter
+1 Yawgmoth, Thran Physician
+1 Truga Jungle
+1 Traveler's Amulet
+1 Treasure Chest
+1 Trail of the Mage-Rings
+1 Vona's Hunger
+1 Topaz Dragon // Entropic Cloud
+1 Unexpected Potential
+1 Sins of the Past
+1 Twinning Glass
+1 Thieving Amalgam
+1 Unmarked Grave
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Stinkweed Imp
+1 Wake the Dead
+1 Witness of the Ages
+{'overall': '8', 'cmc': 2.830769230769231, 'ramp': '9', 'draw': '15', 'interaction': 3}

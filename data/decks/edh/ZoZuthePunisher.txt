@@ -1,0 +1,64 @@
+1 Zo-Zu the Punisher
+1 Ankh of Mishra
+1 Manabarbs
+1 Sol Ring
+1 Harsh Mentor
+1 Torbran, Thane of Red Fell
+1 Sulfuric Vortex
+1 Vandalblast
+1 Arcane Signet
+1 Fire Diamond
+1 Chaos Warp
+1 Burning Earth
+1 Mind Stone
+1 Price of Progress
+1 Dingus Egg
+1 Blasphemous Act
+1 Blood Moon
+1 War's Toll
+1 Price of Glory
+1 Stoneshaker Shaman
+1 Tectonic Instability
+1 Iron Myr
+1 Cemetery Gatekeeper
+1 Ruby Medallion
+1 Furnace of Rath
+1 Heartless Hidetsugu
+1 Field of Ruin
+1 Ruination
+1 From the Ashes
+1 Impending Disaster
+1 Akki Blizzard-Herder
+1 Valakut, the Molten Pinnacle
+1 Wildfire
+1 Spellshock
+1 Keldon Firebombers
+1 Ghost Quarter
+1 Invader Parasite
+1 Commander's Sphere
+1 Tunnel Ignus
+1 Crucible of Worlds
+1 Darksteel Ingot
+1 Rampaging Ferocidon
+1 Magus of the Moon
+1 Tremble
+1 Cleansing Wildfire
+1 Roiling Vortex
+1 Jeska's Will
+1 Fiery Emancipation
+1 Citadel of Pain
+1 Darksteel Citadel
+1 Lightning Greaves
+1 Pillage
+1 Reverberate
+1 Immolation Shaman
+1 Thrill of Possibility
+1 Epicenter
+1 Solphim, Mayhem Dominus
+1 Faithless Looting
+1 Seething Song
+1 Storm Cauldron
+1 Rug of Smothering
+1 Strip Mine
+1 Treasure Nabber
+{'overall': '7', 'cmc': 2.857142857142857, 'ramp': '15', 'draw': '5', 'interaction': 6}

@@ -1,0 +1,69 @@
+1 Nahiri, Forged in Fury
+1 Swirling Sandstorm
+1 Squee, the Immortal
+1 Trivia Contest
+1 Teferi's Protection
+1 Surge to Victory
+1 Zephyr Boots
+1 Thunderous Might
+1 Zurzoth, Chaos Rider
+1 Viashino Heretic
+1 Weaver of Lightning
+1 Mind Stone
+1 Zenith Flare
+1 Veilstone Amulet
+1 Undying Flames
+1 Vigil for the Lost
+1 Wizened Arbiter
+1 Timely Hordemate
+1 Universal Automaton
+1 Swords to Plowshares
+1 Visions
+1 Trivia Contest
+1 Temporal Aperture
+1 Toymaker
+1 Unexpected Windfall
+1 Voldaren Estate
+1 Wild Guess
+1 Swashbuckler's Whip
+1 Voidstone Gargoyle
+1 Tormod's Cryptkeeper
+1 Thran Tome
+1 Stone Calendar
+1 Warp World
+1 Winds of Abandon
+1 The Stone Brain
+1 Tocasia's Welcome
+1 Urza's Hot Tub
+1 Starnheim Aspirant
+1 Vitality Salve
+1 Squee, Dubious Monarch
+1 Triplicate Spirits
+1 Witness of the Ages
+1 Volatile Chimera
+1 Which of You Burns Brightest?
+1 Weaponized Scrap
+1 Sword of Forge and Frontier
+1 Vampire Nocturnus Avatar
+1 Trivia Contest
+1 Village Ironsmith // Ironfang
+1 Torii Watchward
+1 Whammy Burn
+1 Widget Contraption
+1 Thermo-Alchemist
+1 Warren Instigator
+1 The Wedding of River Song
+1 Ulamog, the Infinite Gyre
+1 Summoner's Bond
+1 Twinferno
+1 Tuskeri Firewalker
+1 The Immortal Sun
+1 Unstable Hulk
+1 Volcanic Awakening
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Thran Spider
+1 Urza's Ruinous Blast
+1 Two-Headed Hunter // Twice the Rage
+1 Trash for Treasure
+1 Verdant Catacombs
+{'overall': '5', 'cmc': 3.121212121212121, 'ramp': '2', 'draw': '15', 'interaction': 12}

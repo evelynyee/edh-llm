@@ -1,0 +1,69 @@
+1 The Fourth Doctor
+1 Trivia Contest
+1 Woodland Bellower
+1 Wretched Gryff
+1 Zndrsplt's Judgment
+1 Vivien on the Hunt
+1 Thrumming Stone
+1 Woodland Changeling
+1 Zellix, Sanity Flayer
+1 Young Blue Dragon // Sand Augury
+1 Turntimber Sower
+1 The Maelstrom
+1 Void Grafter
+1 Llanowar Elves
+1 Walking Atlas
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Yanling's Harbinger
+1 Worry Beads
+1 Voda Sea Scavenger
+1 Summoning Trap
+1 Verdant Rejuvenation
+1 Thunderous Debut
+1 Vesuvan Drifter
+1 Whirling Catapult
+1 Volatile Fault
+1 Vex
+1 Tuinvale Treefolk // Oaken Boon
+1 Venture Forth
+1 Unravel the Aether
+1 Whimsy
+1 Vexing Scuttler
+1 Windriddle Palaces
+1 Very Cryptic Command
+1 Unblinking Bleb
+1 Vhal, Scholar of Prophecy
+1 Uncovered Clues
+1 Vivien, Monsters' Advocate
+1 Swindler's Scheme
+1 Underdark Rift
+1 The Magic Mirror
+1 Ugin's Mastery
+1 Teferi, Temporal Archmage
+1 Wooded Foothills
+1 Waker of Waves
+1 Vivien Reid
+1 Verdant Touch
+1 Verdant Catacombs
+1 Young Blue Dragon // Sand Augury
+1 Visions of Duplicity
+1 Tlincalli Hunter // Retrieve Prey
+1 Well of Knowledge
+1 Very Cryptic Command
+1 Treasure Chest
+1 Will Kenrith
+1 Virtue of Strength // Garenbrig Growth
+1 Twists and Turns // Mycoid Maze
+1 Wolfcaller's Howl
+1 Mana Drain
+1 Wretched Throng
+1 Voracious Typhon
+1 Winding Way
+1 Wandering Eye
+1 Vivien's Grizzly
+1 Wizards of the _____
+1 Tracker's Instincts
+1 Rampant Growth
+1 Traveler's Amulet
+1 Pongify
+{'overall': '5', 'cmc': 3.8181818181818183, 'ramp': '5', 'draw': '23', 'interaction': 7}

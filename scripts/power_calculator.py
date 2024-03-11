@@ -1,6 +1,5 @@
 
 import time
-import re
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -17,63 +16,54 @@ def calculate_power(filepath):
     # Initialize the WebDriver
     chrome_options = Options()
     chrome_options.add_argument("--headless") #Comment out this line to debug (will show browser)
+    chrome_options.add_argument('log-level=3')
+    chrome_options.add_argument('--ignore-certificate-errors')
+    chrome_options.add_argument('--ignore-ssl-errors')
     driver = webdriver.Chrome(options=chrome_options)
 
     # Open the website
-    driver.get("https://edhpowercalculator.com/")
+    driver.get("https://mtg.cardsrealm.com/en-us/tools/commander-power-level-calculator")
 
     try:
-        # Wait for the decklist upload element to be available
-        button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Do you have a decklist to upload?')]"))
+        button = WebDriverWait(driver, 100).until(
+            EC.element_to_be_clickable((By.ID, "tools_import"))
         )
-        button.click()
-
-        file_input = driver.find_element(By.ID, 'list-upload')
+        file_input = driver.find_element(By.ID, 'tools_import_input')
 
         # Send the file path to the input element
         #file_input.send_keys('C:/Users/theod/edh-llm/data/test_deck.txt')
         file_input.send_keys(os.path.abspath(filepath)) #TO BE REPLACED BY FILEPATH
         #print('sent file!')
-        button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'Import')]"))
-        )
-        button.click()
 
         # necessary to wait for site to generate power level, pending more intelligent fix (detecting js update on site)
-        time.sleep(30)
-
-        # Pull raw html and read strength tag
-        html_source = driver.page_source
-        pattern = r"<strong>(.*?)</strong>"
+        time.sleep(4)
+        try:
+            avg_cmc = int(driver.find_element(By.ID, "total_cmc").get_attribute("value")) / int(driver.find_element(By.ID, "total_counted").get_attribute("value"))
+        except ZeroDivisionError:
+            avg_cmc = 0
+        #print(avg_cmc)
 
         # Overall power
-        overall = re.findall(pattern, html_source, re.DOTALL)
-        #print(overall[1])
+        overall = driver.find_element(By.ID, 'power_level').text
+        #print(overall)
+        #Ramp
+        ramp = driver.find_element(By.ID, "total_ramp").get_attribute("value")
 
-        # CMC
-        pattern = r"Average mana cost: (\d+)"
-        cmc = re.search(pattern, html_source)
-        #print(cmc[1])
-
-        # Ramp Sources
-        pattern = r"Amount of ramp: (\d+)"
-        ramp = re.search(pattern, html_source)
-        #print(ramp[1])
-
-        # Card Advantage
-        pattern = r"Amount of card advantage: (\d+)"
-        card_adv = re.search(pattern, html_source)
-        #print(card_adv[1])
         
-        # Interaction
-        pattern = r"Amount of interaction: (\d+)"
-        interaction = re.search(pattern, html_source)
-        #print(interaction[1])
-    finally:
+        draw = driver.find_element(By.ID, "total_draw").get_attribute("value")
+
+        tutor = driver.find_element(By.ID, "total_tutor").get_attribute("value")
+
+        interaction = int(driver.find_element(By.ID, "total_removal").get_attribute("value")) + int(driver.find_element(By.ID, "total_counterspell").get_attribute("value"))
+    except Exception as e:
         # Close the browser after a delay or after certain actions
+        print(e)
         driver.quit()
-        return({'overall':overall[1], 'cmc':cmc[1], 'ramp':ramp[1], 'draw':card_adv[1], 'interaction':interaction[1]})
+        time.sleep(600)
+        calculate_power(filepath)
+    finally:
+        driver.quit()
+        return({'overall':overall, 'cmc':avg_cmc, 'ramp':ramp, 'draw':draw, 'interaction':interaction})
 
 
 

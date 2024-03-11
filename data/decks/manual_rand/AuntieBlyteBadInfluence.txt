@@ -1,0 +1,69 @@
+1 Auntie Blyte, Bad Influence
+1 Voodoo Doll
+1 Soulblast
+1 Shrine of Burning Rage
+1 Wicker Picker
+1 Ten Wizards Mountain
+1 Wolfhunter's Quiver
+1 Word of Blasting
+1 The Provider
+1 The Millennium Calendar
+1 The Countdown Is at One
+1 Volcanic Offering
+1 Unruly Catapult
+1 Volcanic Salvo
+1 Zoyowa's Justice
+1 Tunneling Geopede
+1 Tail Slash
+1 Victorious Destruction
+1 Blasphemous Act
+1 Thunderblade Charge
+1 Volcanic Geyser
+1 Éomer, Marshal of Rohan
+1 Ydwen Efreet
+1 Thundercloud Shaman
+1 Sundering Stroke
+1 Wrathful Raptors
+1 Sudden Impact
+1 Wyll, Pact-Bound Duelist
+1 Unified Lunge
+1 Springjaw Trap
+1 Searing Wind
+1 Stensia Masquerade
+1 Your Inescapable Doom
+1 Tephraderm
+1 Steam Blast
+1 Stalking Vengeance
+1 Slaying Fire
+1 Tuktuk Scrapper
+1 Wyll, Blade of Frontiers
+1 Spiteful Repossession
+1 Vindictive Flamestoker
+1 Thunderclap
+1 Tibalt, the Fiend-Blooded
+1 Wicker Warcrawler
+1 Volatile Rig
+1 Toggo, Goblin Weaponsmith
+1 Voldaren Ambusher
+1 Spiteful Sliver
+1 Tarrian's Soulcleaver
+1 Swelter
+1 Walking Ballista
+1 Wingrattle Scarecrow
+1 Arcane Signet
+1 Zuran Orb
+1 Vulshok Sorcerer
+1 Varchild's War-Riders
+1 Two-Headed Cerberus
+1 Volcanic Spite
+1 The Akroan War
+1 Stormbreath Dragon
+1 Chaos Warp
+1 Wall of Forgotten Pharaohs
+1 Syr Ginger, the Meal Ender
+1 Tyrant of Valakut
+1 Sorcerer's Wand
+1 Mana Geyser
+1 Voldaren Thrillseeker
+1 Torbran, Thane of Red Fell
+{'overall': '3', 'cmc': 3.3970588235294117, 'ramp': '2', 'draw': '4', 'interaction': 27}

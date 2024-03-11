@@ -1,0 +1,65 @@
+1 Tishana, Voice of Thunder
+1 Seedborn Muse
+1 Mana Vault
+1 Sol Ring
+1 Birds of Paradise
+1 Sylvan Messenger
+1 Yisan, the Wanderer Bard
+1 Vivien, Nature's Avenger
+1 Vivien Reid
+1 Traverse the Ulvenwald
+1 Coiling Oracle
+1 Vivien's Invocation
+1 Tooth and Nail
+1 Vizier of Many Faces
+1 Mulldrifter
+1 Unsummon
+1 Vorel of the Hull Clade
+1 The Five Doctors
+1 Verdant Rejuvenation
+1 Ugin, the Spirit Dragon
+1 Whimsy
+1 Wild Pair
+1 Wiretapping
+1 The Antiquities War
+1 Vendilion Clique
+1 Mind Stone
+1 Titania, Nature's Force
+1 Worldly Tutor
+1 Venser, Shaper Savant
+1 Green Sun's Zenith
+1 Viridian Emissary
+1 Verdurous Gearhulk
+1 Uncage the Menagerie
+1 Tezzeret, Cruel Machinist
+1 Eternal Witness
+1 Vedalken Aethermage
+1 Vizier of the Anointed
+1 Thran Temporal Gateway
+1 Tarmogoyf
+1 Vivien's Arkbow
+1 Vivien's Talent
+1 World Shaper
+1 Tishana's Wayfinder
+1 Zndrsplt, Eye of Wisdom
+1 Vedalken Squirrel-Whacker
+1 Turntimber Sower
+1 Yavimaya Elder
+1 Verdant Sun's Avatar
+1 Teferi's Tutelage
+1 Wren's Run Hydra
+1 Titania's Command
+1 Tezzeret's Gatebreaker
+1 Wild Endeavor
+1 Uproot
+1 Truth or Dare
+1 The Great Aurora
+1 Triumph of Ferocity
+1 Time Ebb
+1 Voyager Drake
+1 Wand of Vertebrae
+1 Tribute to the World Tree
+1 Wirewood Herald
+1 Uncovered Clues
+1 Willow Priestess
+{'overall': '7', 'cmc': 3.78125, 'ramp': '11', 'draw': '29', 'interaction': 3}

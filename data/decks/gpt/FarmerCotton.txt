@@ -1,0 +1,69 @@
+1 Farmer Cotton
+1 Seedborn Muse
+1 Mana Vault
+1 Mind Stone
+1 Sylvok Battle-Chair
+1 Thragtusk
+1 Tireless Tracker
+1 Ugin, the Spirit Dragon
+1 Sylvan Anthem
+1 Woodland Champion
+1 Verdant Embrace
+1 Green Sun's Zenith
+1 Sword of Body and Mind
+1 War Room
+1 Thalia's Geistcaller
+1 Viridian Zealot
+1 Tolsimir, Friend to Wolves
+1 Eternal Witness
+1 Unified Strike
+1 Synod Centurion
+1 Warping Wail
+1 Wicked Wolf
+1 Summoning Station
+1 Yavimaya Sapherd
+1 Thornbite Staff
+1 Tolsimir Wolfblood
+1 Thraben Inspector
+1 Triumph of Ferocity
+1 Yew Spirit
+1 Verdant Rejuvenation
+1 Vital Splicer
+1 Teferi's Protection
+1 Thopter Squadron
+1 The Great Henge
+1 Land Tax
+1 The Golden Throne
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Voltaic Key
+1 Timeless Dragon
+1 Torens, Fist of the Angels
+1 The Book of Exalted Deeds
+1 Zendikar Resurgent
+1 Well of Lost Dreams
+1 Vitu-Ghazi, the City-Tree
+1 Whisperwood Elemental
+1 Westfold Rider
+1 Wild Endeavor
+1 Wirefly Hive
+1 Wayfaring Temple
+1 Trynn, Champion of Freedom
+1 Wren's Run Hydra
+1 Willow Priestess
+1 Tithe Taker
+1 Symbiotic Wurm
+1 Hardened Scales
+1 Bloom Tender
+1 Triumphant Surge
+1 Vivien's Jaguar
+1 Vitu-Ghazi Guildmage
+1 Ugin's Construct
+1 Urza's Saga
+1 Titania, Gaea Incarnate
+1 Trostani, Selesnya's Voice
+1 Zealots en-Dal
+1 Tyrite Sanctum
+1 Winds of Abandon
+1 Tangleweave Armor
+1 Austere Command
+{'overall': '7', 'cmc': 3.3823529411764706, 'ramp': '12', 'draw': '12', 'interaction': 9}

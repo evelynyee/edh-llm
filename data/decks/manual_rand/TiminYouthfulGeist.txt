@@ -1,0 +1,69 @@
+1 Timin, Youthful Geist
+1 Step Through
+1 Waterspout Djinn
+1 Tower Geist
+1 Zellix, Sanity Flayer
+1 Well of Knowledge
+1 What's Yours Is Now Mine
+1 Tidal Bore
+1 Weatherlight Compleated
+1 Verity Circle
+1 Thought Harvester
+1 Vigean Graftmage
+1 Urza's Construction Drone
+1 Vapor Snag
+1 Wondrous Crucible
+1 Treasure Mage
+1 Very Cryptic Command
+1 Trade Secrets
+1 Triskaidekaphile
+1 Truga Jungle
+1 Youthful Scholar
+1 Twice Upon a Time // Unlikely Meeting
+1 Sword Coast Serpent // Capsizing Wave
+1 Sudden Storm
+1 Voracious Vacuum
+1 Waker of Waves
+1 Thought Dissector
+1 Time Lord Regeneration
+1 Whiplash Trap
+1 Symmetry Matrix
+1 Uba Mask
+1 Tinker
+1 Waterlogged Hulk // Watertight Gondola
+1 Tidepool Turtle
+1 Sword of Forge and Frontier
+1 Very Cryptic Command
+1 Unesh, Criosphinx Sovereign
+1 Tradewind Rider
+1 Wheel of Torture
+1 Zephyr Sentinel
+1 Your Fate Is Thrice Sealed
+1 Your Inescapable Doom
+1 View from Above
+1 Write into Being
+1 Zndrsplt's Judgment
+1 Trusted Advisor
+1 Windrider Patrol
+1 Vulshok Gauntlets
+1 The Reality Chip
+1 Triton Cavalry
+1 Vanishment
+1 Wandering Archaic // Explore the Vastlands
+1 Test of Talents
+1 Wormfang Crab
+1 Winter Eladrin
+1 Thwart
+1 Yarok's Wavecrasher
+1 Wizards of the _____
+1 Treasure Keeper
+1 Wall of Fortune
+1 The Great Aerie
+1 Workshop Elders
+1 The Deck of Many Things
+1 _____
+1 Unifying Theory
+1 Wanderer's Twig
+1 Viridian Zealot Avatar
+1 Teferi, Temporal Archmage
+{'overall': '5', 'cmc': 3.4029850746268657, 'ramp': '3', 'draw': '23', 'interaction': 2}

@@ -1,0 +1,69 @@
+1 Kagha, Shadow Archdruid
+1 Verdant Mastery
+1 Tempt with Discovery
+1 Wood Elves
+1 Worldly Tutor
+1 Sylvan Library
+1 Volrath the Fallen
+1 Verdant Succession
+1 Woodland Bellower
+1 Tooth Collector
+1 Ugin's Mastery
+1 Tilling Treefolk
+1 Yavimaya Dryad
+1 Vexing Arcanix
+1 Ulamog, the Ceaseless Hunger
+1 Demonic Tutor
+1 Traverse the Outlands
+1 Wild Pair
+1 Sylvan Tutor
+1 Dark Ritual
+1 Vorinclex // The Grand Evolution
+1 Sol Ring
+1 Rampant Growth
+1 Urborg Panther
+1 Wirewood Herald
+1 Viscera Seer
+1 Wrenn and Seven
+1 Vivien, Arkbow Ranger
+1 Vivien, Champion of the Wilds
+1 Whispergear Sneak
+1 The Champion
+1 Willow Geist
+1 Venser's Journal
+1 Tomb Tyrant
+1 Yawgmoth, Thran Physician
+1 Yawgmoth's Agenda
+1 Wand of Ith
+1 Trail of the Mage-Rings
+1 Vivid Revival
+1 Vivien, Nature's Avenger
+1 Verdant Touch
+1 Bloom Tender
+1 Green Sun's Zenith
+1 Vampiric Tutor
+1 Diabolic Tutor
+1 Vivien Reid
+1 Wretched Confluence
+1 Yawgmoth's Vile Offering
+1 Hardened Scales
+1 Withered Wretch
+1 Undead Butler
+1 Trazyn the Infinite
+1 Unmarked Grave
+1 Tomb Robber
+1 Wilt
+1 Treacherous Urge
+1 Viridian Revel
+1 Vraska's Scorn
+1 Yawgmoth's Will
+1 Eternal Witness
+1 Seedborn Muse
+1 Wirewood Symbiote
+1 Winding Way
+1 Wolf-Skull Shaman
+1 Wren's Run Vanquisher
+1 Undercity Plague
+1 Tocasia's Dig Site
+1 Storm the Festival
+{'overall': '7', 'cmc': 3.3088235294117645, 'ramp': '13', 'draw': '17', 'interaction': 3}

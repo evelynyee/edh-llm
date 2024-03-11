@@ -1,0 +1,64 @@
+1 Drivnod, Carnage Dominus
+1 Sol Ring
+1 Blood Artist
+1 Zulaport Cutthroat
+1 Grim Haruspex
+1 Viscera Seer
+1 Skullclamp
+1 Bastion of Remembrance
+1 Solemn Simulacrum
+1 Pawn of Ulamog
+1 Massacre Wurm
+1 Reassembling Skeleton
+1 Syr Konrad, the Grim
+1 Ashnod's Altar
+1 Feed the Swarm
+1 Arcane Signet
+1 Pitiless Plunderer
+1 Victimize
+1 Cabal Coffers
+1 Gray Merchant of Asphodel
+1 Midnight Reaper
+1 Bojuka Bog
+1 Village Rites
+1 Butcher of Malakir
+1 Junji, the Midnight Sky
+1 Black Market
+1 Sifter of Skulls
+1 Dark Ritual
+1 Braids, Arisen Nightmare
+1 Carrion Feeder
+1 Body Launderer
+1 Yahenni, Undying Partisan
+1 Falkenrath Noble
+1 Deadly Dispute
+1 Woe Strider
+1 Dictate of Erebos
+1 Ayara, First of Locthwain
+1 Ogre Slumlord
+1 Gixian Puppeteer
+1 Phyrexian Altar
+1 Vat of Rebirth
+1 Kokusho, the Evening Star
+1 Phyrexian Tower
+1 Grave Pact
+1 Defile
+1 Urborg, Tomb of Yawgmoth
+1 Vraan, Executioner Thane
+1 Blight Mound
+1 Liliana, Dreadhorde General
+1 Cabal Stronghold
+1 Crypt Ghast
+1 Ophiomancer
+1 The Meathook Massacre
+1 Mind Stone
+1 Harvester of Souls
+1 Bontu's Monument
+1 Reliquary Tower
+1 Tragic Slip
+1 Crowded Crypt
+1 Diabolic Intent
+1 Doomed Dissenter
+1 Damnation
+1 Carrier Thrall
+{'overall': '9', 'cmc': 2.857142857142857, 'ramp': '15', 'draw': '13', 'interaction': 4}

@@ -1,0 +1,69 @@
+1 Naru Meha, Master Wizard
+1 Venarian Glimmer
+1 Talion's Throneguard
+1 The Pieces Are Coming Together
+1 Warlord's Axe
+1 Strixhaven
+1 Zellix, Sanity Flayer
+1 The Eleventh Hour
+1 Unified Will
+1 Universal Surveillance
+1 Whetwheel
+1 Voidmage Prodigy
+1 Vodalian Serpent
+1 The Enigma Jewel // Locus of Enlightenment
+1 Voidmage Apprentice
+1 Transplant Theorist
+1 Wing Commando
+1 Yarok's Wavecrasher
+1 Tempt with Reflections
+1 Winged Boots
+1 Commander's Sphere
+1 Surgespanner
+1 The Cave of Skulls
+1 Ugin's Mastery
+1 Zndrsplt's Judgment
+1 Trial of Knowledge
+1 Waker of Waves
+1 Will-Forged Golem
+1 Sublime Epiphany
+1 Whiplash Trap
+1 Trivia Contest
+1 Trivia Contest
+1 Sword of the Meek
+1 Ugin, the Ineffable
+1 The Magic Mirror
+1 Wizards of Thay
+1 Three Bowls of Porridge
+1 Vantress Paladin
+1 _____ _____ Rocketship
+1 Thriving Isle
+1 Wormfang Drake
+1 Thought Harvester
+1 Wrong Turn
+1 Turn into a Pumpkin
+1 Wavecrash Triton
+1 Trip Noose
+1 Viscerid Deepwalker
+1 Tooth of Chiss-Goria
+1 Verity Circle
+1 Vesuvan Doppelganger
+1 Voracious Greatshark
+1 Visions of Duplicity
+1 Veiled Sentry
+1 Whirlwind Denial
+1 Zephyr Singer
+1 Vexing Scuttler
+1 Twiddlestick Charger
+1 Tome of the Guildpact
+1 Voidmage Husher
+1 Wall of Lost Thoughts
+1 Xenograft
+1 War-Wing Siren
+1 Symmetry Sage
+1 Trivia Contest
+1 Ashnod's Altar
+1 Vitality Salve
+1 Touchstone
+1 Viridian Longbow
+{'overall': '3', 'cmc': 3.242424242424242, 'ramp': '4', 'draw': '13', 'interaction': 6}

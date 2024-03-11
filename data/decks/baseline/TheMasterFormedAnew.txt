@@ -1,0 +1,101 @@
+1 The Master, Formed Anew
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Sapphire Dragon // Psionic Pulse
+1 Soul Exchange
+1 Silumgar Sorcerer
+1 Relentless Skaabs
+1 Body Double
+1 Quickling
+1 Arctic Merfolk
+1 Incarnation Technique
+1 Tasha, the Witch Queen
+1 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time
+1 Cauldron's Gift
+1 Blood for Bones
+1 Headless Skaab
+1 Murktide Regent
+1 Harbinger of the Tides
+1 Displacer Kitten
+1 Haakon, Stromgald Scourge Avatar
+1 Wondrous Crucible
+1 Clockspinning
+1 Fold into Aether
+1 Grixis
+1 God-Eternal Kefnet
+1 Commandeer
+1 Voidwalk
+1 Guile
+1 Rescue from the Underworld
+1 Entrails Feaster
+1 Desertion
+1 Rassilon, the War President
+1 Spellscorn Coven // Take It Back
+1 Crawl from the Cellar
+1 Gale, Waterdeep Prodigy
+1 Writ of Return
+1 Brineborn Cutthroat
+1 Triton Cavalry
+1 Mask of the Mimic
+1 Reaping the Graves
+1 Serpent's Soul-Jar
+1 Dauthi Voidwalker
+1 Sinister Concierge
+1 Familiar's Ruse
+1 Quantum Misalignment
+1 Deny the Divine
+1 Hypnotic Sprite // Mesmeric Glare
+1 Poxwalkers
+1 Escape Protocol
+1 Gorex, the Tombshell
+1 Alchemist's Retrieval
+1 Vampire Charmseeker
+1 From the Catacombs
+1 Bitter Ordeal
+1 Conceited Witch // Price of Beauty
+1 Spellweaver Helix
+1 Ugin's Mastery
+1 Dread Return
+1 Sword Coast Serpent // Capsizing Wave
+1 Gisa and Geralf
+1 Deprive
+1 Dig Up the Body
+1 Order of Midnight // Alter Fate
+1 Fell Horseman // Deathly Ride
+1 Statute of Denial
+1 Tizerus Charger
+{'overall': '1', 'cmc': 3.742424242424242, 'ramp': '1', 'draw': '4', 'interaction': 8}
