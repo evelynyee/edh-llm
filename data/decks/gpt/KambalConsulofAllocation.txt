@@ -64,6 +64,4 @@
 1 Tainted Specter
 1 Undercity Plague
 1 Underworld Dreams
-{'overall': '4', 'cmc': 3.3181818181818183, 'ramp': '4', 'draw': '13', 'interaction': 7}1 Triskaidekaphobia
-1 Vraska's Contempt
-1 Treacherous Blessing
+{'overall': '4', 'cmc': 3.3181818181818183, 'ramp': '4', 'draw': '13', 'interaction': 7}

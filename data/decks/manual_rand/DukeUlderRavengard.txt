@@ -1,0 +1,69 @@
+1 Duke Ulder Ravengard
+1 Takenuma
+1 Wojek Apothecary
+1 Veteran's Armaments
+1 Zealous Inquisitor
+1 Waylay
+1 Wolfhunter's Quiver
+1 Unnatural Speed
+1 Teyo, Aegis Adept
+1 War Oracle
+1 Steward of Solidarity
+1 Valor of the Worthy
+1 Zeriam, Golden Wind
+1 Vorrac Battlehorns
+1 Veteran's Reflexes
+1 Austere Command
+1 Two-Handed Axe // Sweeping Cleave
+1 Stensia Uprising
+1 Traumatic Prank
+1 Thorncaster Sliver
+1 Tuktuk Scrapper
+1 Uncanny Speed
+1 Chaos Warp
+1 UNIT Headquarters
+1 Vanguard's Shield
+1 Wall of Reverence
+1 Wurm's Tooth
+1 White Sun's Zenith
+1 Volunteer Reserves
+1 Zealots en-Dal
+1 You Come to the Gnoll Camp
+1 Visions of Phyrexia
+1 Zenith Chronicler
+1 Swooping Talon
+1 Taunting Kobold
+1 Unexpected Allies
+1 Warchief Giant
+1 Zhalfirin Crusader
+1 Strength of Arms
+1 Thoughtbound Primoc
+1 War Cadence
+1 Tormod's Crypt
+1 Tilonalli's Summoner
+1 Vanquish
+1 Troubled Healer
+1 Dockside Extortionist
+1 Varchild, Betrayer of Kjeldor
+1 Themberchaud
+1 Teyo, Geometric Tactician
+1 Unquenchable Fury
+1 Wake the Reflections
+1 Warmonger's Chariot
+1 Wyll, Pact-Bound Duelist
+1 Warstorm Surge
+1 Soul Snare
+1 Swift Maneuver
+1 Tower of Champions
+1 Stalking Leonin
+1 Ugin's Nexus
+1 Zariel, Archduke of Avernus
+1 The Great Aerie
+1 Turret Ogre
+1 Tori D'Avenant, Fury Rider
+1 Wall of Shields
+1 Sun-Blessed Guardian // Furnace-Blessed Conqueror
+1 Yotian Frontliner
+1 Vectis Gloves
+1 The Caldaia
+{'overall': '5', 'cmc': 2.8529411764705883, 'ramp': '2', 'draw': '5', 'interaction': 11}

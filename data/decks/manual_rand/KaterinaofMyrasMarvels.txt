@@ -1,0 +1,69 @@
+1 Katerina of Myra's Marvels
+1 White Plume Adventurer
+1 The Superlatorium
+1 Mana Vault
+1 Wayfarer's Bauble
+1 The Matrix of Time
+1 Terrarion
+1 Weathered Runestone
+1 Spirit Cairn
+1 Snake Basket
+1 Urza's Sylex
+1 Stick Together
+1 Sunder the Gateway
+1 Wand of Vertebrae
+1 Volatile Fault
+1 Teroh's Vanguard
+1 Land Tax
+1 The Superlatorium
+1 Urza's Tome
+1 Tithe Taker
+1 Worthy Knight
+1 The Wedding of River Song
+1 Water Gun Balloon Game
+1 Throne of Eldraine
+1 Triskelavus
+1 Veteran Soldier
+1 The Iron Guardian Stirs
+1 Twinning Glass
+1 Syndicate Messenger
+1 Together Forever
+1 Tamiyo's Journal
+1 The Fall of Lord Konda // Fragment of Konda
+1 Urza's Factory
+1 Thoughtweft Trio
+1 Werefox Bodyguard
+1 Sunscourge Champion
+1 Wyrm's Crossing Patrol
+1 Three Blind Mice
+1 Wingmantle Chaplain
+1 Wandering Graybeard
+1 Song of the Worldsoul
+1 Chromatic Lantern
+1 Synod Sanctum
+1 Storm Herd
+1 Wanderer's Strike
+1 Ward of Lights
+1 Thopter Shop
+1 Thalia's Geistcaller
+1 Unbounded Potential
+1 Turri Island
+1 Treasure Keeper
+1 Urza Assembles the Titans
+1 War Report
+1 Zeriam, Golden Wind
+1 True Love's Kiss
+1 The Seedcore
+1 Sunset Revelry
+1 Staff of the Mind Magus
+1 Thopter Squadron
+1 Toymaker
+1 Voice of Duty
+1 Surveyor's Scope
+1 Tallowisp
+1 Swords to Plowshares
+1 Mind Stone
+1 The Mycosynth Gardens
+1 The Wandering Emperor
+1 Tawnos's Coffin
+{'overall': '7', 'cmc': 2.8059701492537314, 'ramp': '9', 'draw': '16', 'interaction': 6}

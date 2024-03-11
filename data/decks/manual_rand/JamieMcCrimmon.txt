@@ -1,0 +1,69 @@
+1 Jamie McCrimmon
+1 Workshop Warchief
+1 Summoning Trap
+1 Vastwood Animist
+1 Tyranid Invasion
+1 Thran Quarry
+1 Titanic Brawl
+1 You Meet in a Tavern
+1 Welcome to . . . // Jurassic Park
+1 Sprouting Renewal
+1 Welcome to Sweettooth
+1 Umbilicus
+1 Wild Defiance
+1 Titania's Song
+1 Tormod's Crypt
+1 Verdant Mastery
+1 Worldknit
+1 War Room
+1 Urza's Incubator
+1 Volrath's Laboratory
+1 Wardscale Crocodile
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Titania's Chosen
+1 Verdeloth the Ancient
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Topography Tracker
+1 Unerring Sling
+1 Undercity Upheaval
+1 Unbound Flourishing
+1 Mana Vault
+1 Verdant Sun's Avatar
+1 Uktabi Wildcats
+1 Somberwald Sage
+1 Splinterfright
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 The Great Aerie
+1 Utopia Sprawl
+1 Throne of the God-Pharaoh
+1 Spellwild Ouphe
+1 Ulamog, the Infinite Gyre
+1 Reclamation Sage
+1 War Dance
+1 Voracious Typhon
+1 Vedalken Shackles
+1 Wolfbriar Elemental
+1 Which of You Burns Brightest?
+1 Wayward Swordtooth
+1 Uba Mask
+1 Ward of Bones
+1 Spoils of the Hunt
+1 Whisperwood Elemental
+1 Sunbringer's Touch
+1 Wolfkin Outcast // Wedding Crasher
+1 Mind Stone
+1 Towashi
+1 You Look Upon the Tarrasque
+1 Will-Forged Golem
+1 Wandering Stream
+1 Veil of Summer
+1 Spellweaver Helix
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Bloom Tender
+1 Titan's Presence
+1 When Will You Learn?
+1 Sunbird Standard // Sunbird Effigy
+1 Void Attendant
+1 Tyrant Guard
+1 Wolf-Skull Shaman
+{'overall': '6', 'cmc': 3.1641791044776117, 'ramp': '12', 'draw': '12', 'interaction': 8}

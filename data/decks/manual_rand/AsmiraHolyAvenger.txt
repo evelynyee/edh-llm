@@ -1,0 +1,69 @@
+1 Asmira, Holy Avenger
+1 Supply-Line Cranes
+1 Turntimber Sower
+1 Vanguard of the Rose
+1 Wildwood Tracker
+1 Strangleroot Geist
+1 Windbrisk Heights
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Vivien Reid
+1 Thran Weaponry
+1 Yoshimaru, Ever Faithful
+1 Trynn, Champion of Freedom
+1 The Wedding of River Song
+1 Vladimir and Godfrey
+1 Tusk and Whiskers
+1 Urza's Miter
+1 Talus Paladin
+1 Triumph of Ferocity
+1 Mind Stone
+1 Unstoppable Ash
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Wakeroot Elemental
+1 Trenching Steed
+1 Vigilant Sentry
+1 Twinblade Geist // Twinblade Invocation
+1 Wary Thespian
+1 Time Vault
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Ten Wizards Mountain
+1 Vizier of the True
+1 Vigor
+1 Thrive
+1 Triumph of Gerrard
+1 Wild Mongrel
+1 Wingbeat Warrior
+1 Wandermare
+1 Wilson, Urbane Bear
+1 Wild Might
+1 Wild Beastmaster
+1 Yorvo, Lord of Garenbrig
+1 Wolfbitten Captive // Krallenhorde Killer
+1 The Huntsman's Redemption
+1 Wayward Angel
+1 Tocasia's Onulet
+1 Vinelasher Kudzu
+1 Wurmskin Forger
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Steeling Stance
+1 Vivien's Jaguar
+1 Sword-Swallowing Seraph
+1 Weapon Rack
+1 Storyweave
+1 Victory's Envoy
+1 Voltaic Servant
+1 Woodfall Primus
+1 Veteran of the Depths
+1 The Book of Exalted Deeds
+1 Wolfcaller's Howl
+1 Mentor of the Meek
+1 Wingrattle Scarecrow
+1 Tower Above
+1 Water Gun Balloon Game
+1 Twilight Drover
+1 Ventifact Bottle
+1 Voyager Staff
+1 Ugin's Mastery
+1 Towashi
+{'overall': '5', 'cmc': 3.2238805970149254, 'ramp': '3', 'draw': '9', 'interaction': 4}

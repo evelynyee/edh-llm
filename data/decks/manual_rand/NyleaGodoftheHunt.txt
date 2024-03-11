@@ -1,0 +1,69 @@
+1 Nylea, God of the Hunt
+1 Vitalizing Wind
+1 The Foretold Soldier
+1 Topan Ascetic
+1 Untethered Express
+1 Warden of the Wall
+1 Yavimaya Scion
+1 Vines of the Recluse
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Willow Priestess
+1 Tawnos
+1 Welcome to . . . // Jurassic Park
+1 Tanuki Transplanter
+1 Tower of Coireall
+1 Llanowar Elves
+1 Welcome to . . . // Jurassic Park
+1 Wild Instincts
+1 Weathered Runestone
+1 Wildwood Tracker
+1 Vitalize
+1 Vedalken Shackles
+1 Staff of Titania
+1 Verdant Rebirth
+1 Wingrattle Scarecrow
+1 Withstand Death
+1 Unyaro
+1 Void Winnower
+1 Swift Warden
+1 Sylvan Advocate
+1 Vile Redeemer
+1 Eternal Witness
+1 Vital Splicer
+1 Wild Shape
+1 Wild Defiance
+1 Verdant Sun's Avatar
+1 Untamed Might
+1 Tempting Licid
+1 Vivien on the Hunt
+1 Watcher in the Web
+1 Vigorspore Wurm
+1 Walking Skyscraper
+1 Tough Cookie
+1 Towering Indrik
+1 Whip Vine
+1 Zendikar Resurgent
+1 Woolly Mammoths
+1 Wolverine Riders
+1 Whirlwind
+1 Well of Life
+1 Wrenn and Realmbreaker
+1 Timber Paladin
+1 Troll Ascetic
+1 Still Life
+1 Sundering Vitae
+1 Temur Sabertooth
+1 Visions of Dominance
+1 Teeka's Dragon
+1 The Drum, Mining Facility
+1 Woodcloaker
+1 Toil to Renown
+1 Wood Elemental
+1 Tamiyo's Safekeeping
+1 Unholy Citadel
+1 The Zephyr Maze
+1 Green Sun's Zenith
+1 Thornwatch Scarecrow
+1 Tireless Hauler // Dire-Strain Brawler
+1 Venomspout Brackus
+{'overall': '4', 'cmc': 3.4029850746268657, 'ramp': '8', 'draw': '5', 'interaction': 6}

@@ -43,7 +43,6 @@
 1 Voldaren Estate
 1 Storm Herald
 1 Tempered in Solitude
-1 Wandering Archaic // Explore the Vastlands
 1 Warcry Phoenix
 1 Winds of Change
 1 Thud
@@ -55,10 +54,11 @@
 1 Whims of the Fates
 1 Wandering Goblins
 1 Dockside Extortionist
-1 Spine of Ish Sah
-1 Chaos Warp
-1 Mana Crypt
-1 Wrenn's Resolve
-1 Unexpected Potential
+1 Spine of Ish Sah1 Weatherlight
+1 Warstorm Surge
+1 Storm Herald1 Urabrask // The Great Work
+1 Vexing Puzzlebox
 1 Worldfire
-1 Stormbreath Dragon
+1 Ugin's Nexus
+1 Visions of Ruin
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

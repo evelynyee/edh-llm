@@ -1,0 +1,69 @@
+1 Zo-Zu the Punisher
+1 Voracious Vacuum
+1 Spitebellows
+1 Shower of Sparks
+1 Wasteland
+1 Stormscale Anarch
+1 Vial of Dragonfire
+1 Tectonic Break
+1 You've Been Caught Stealing
+1 Whammy Burn
+1 Vampires' Vengeance
+1 Triskelion
+1 Tahngarth, Talruum Hero
+1 Zephyr Boots
+1 Urza's Miter
+1 Storm Fleet Arsonist
+1 Victory of the Pyrohammer
+1 Themberchaud
+1 Thundercloud Shaman
+1 Sol Ring
+1 Unquenchable Fury
+1 Viashino Fangtail
+1 Vigilante Justice
+1 Witches' Eye
+1 Violent Eruption
+1 Sundering Fork
+1 Utility Knife
+1 Turret Ogre
+1 Uncontrolled Infestation
+1 Yamabushi's Storm
+1 Wrathful Raptors
+1 Sword of Hours
+1 Toggo, Goblin Weaponsmith
+1 Sparkmage Apprentice
+1 Tarfire
+1 _____ Balls of Fire
+1 Abrade
+1 Warpath
+1 Trumpeting Carnosaur
+1 Ugin's Conjurant
+1 Lightning Bolt
+1 Thunderblade Charge
+1 Witty Roastmaster
+1 Yavimaya Steelcrusher
+1 Vexing Arcanix
+1 Unforge
+1 The Brothers' War
+1 Tezzeret's Simulacrum
+1 Weight Advantage
+1 Your Inescapable Doom
+1 Tuktuk Scrapper
+1 Arcane Signet
+1 Unleash Shell
+1 Word of Blasting
+1 Warped Landscape
+1 Varchild's War-Riders
+1 Valakut Invoker
+1 Virtue of Courage // Embereth Blaze
+1 Skysovereign, Consul Flagship
+1 Welding Sparks
+1 Surestrike Trident
+1 The Ultimate Nightmare of Wizards of the Coast® Customer Service
+1 Tower of Calamities
+1 Tail Slash
+1 Thran Power Suit
+1 Stensia Banquet
+1 Spikeshot Goblin
+1 Wheel of Misfortune
+{'overall': '3', 'cmc': 2.926470588235294, 'ramp': '3', 'draw': '7', 'interaction': 30}

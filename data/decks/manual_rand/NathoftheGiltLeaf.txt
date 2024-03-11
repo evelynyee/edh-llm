@@ -1,0 +1,69 @@
+1 Nath of the Gilt-Leaf
+1 Tevesh Szat, Doom of Fools
+1 Zhulodok, Void Gorger
+1 Squirrel Farm
+1 Warriors' Lesson
+1 Warden of the Woods
+1 Witherbloom Command
+1 Trail of Crumbs
+1 Suspicious Shambler
+1 Undertaker
+1 Unhinge
+1 Tempt with Immortality
+1 Diabolic Tutor
+1 Vital Surge
+1 Tainted Adversary
+1 Titania, Protector of Argoth
+1 Urza's Saga
+1 Volrath's Laboratory
+1 Urza's Bauble
+1 Watchers of the Dead
+1 Wreck Hunter
+1 Water Gun Balloon Game
+1 Tempting Witch
+1 Tymaret Calls the Dead
+1 Weirding Shaman
+1 Tormod, the Desecrator
+1 Undercity Plague
+1 Tormented Thoughts
+1 Woodland Guidance
+1 Stir the Sands
+1 Virulent Swipe
+1 Zendikar Resurgent
+1 Wretched Confluence
+1 Wooded Foothills
+1 Verdant Embrace
+1 Tomb Tyrant
+1 The Superlatorium
+1 Tormod's Cryptkeeper
+1 Titania, Nature's Force
+1 Toshiro Umezawa
+1 Vraska the Unseen
+1 Vengevine
+1 Volatile Fault
+1 Tamiyo's Journal
+1 Mind Stone
+1 Viral Spawning
+1 Vraska, Golgari Queen
+1 Tribute to the Wild
+1 Zendikar's Roil
+1 Vraska's Scorn
+1 Vengeful Strangler // Strangling Grasp
+1 Tempting Contract
+1 Traumatic Revelation
+1 The Superlatorium
+1 Wand of Ith
+1 Wit's End
+1 Thallid Soothsayer
+1 World-Weary
+1 Writ of Return
+1 Witherbloom Pledgemage
+1 Wildwood Escort
+1 Tormod's Crypt
+1 Torment of Venom
+1 Trail of the Mage-Rings
+1 Worry Beads
+1 Vulturous Zombie
+1 Vivien, Champion of the Wilds
+1 Straw Golem
+{'overall': '7', 'cmc': 3.373134328358209, 'ramp': '7', 'draw': '17', 'interaction': 4}

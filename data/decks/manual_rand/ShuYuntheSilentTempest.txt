@@ -1,0 +1,69 @@
+1 Shu Yun, the Silent Tempest
+1 Vanquisher's Axe
+1 Traveling Minister
+1 Transmogrifying Licid
+1 Wooden Stake
+1 Towering Thunderfist
+1 Zurgo Bellstriker
+1 Vigilant Sentry
+1 Two-Handed Axe // Sweeping Cleave
+1 Wildfire Awakener
+1 Waterspout Weavers
+1 Tireless Tribe
+1 Jeskai Ascendancy
+1 Take Heart
+1 Will, Scion of Peace
+1 Sword of the Chosen
+1 Very Cryptic Command
+1 Waterspout Elemental
+1 Wilderness Hypnotist
+1 Witness of the Ages
+1 Twice Upon a Time // Unlikely Meeting
+1 Zelyon Sword
+1 Red Elemental Blast
+1 Yare
+1 Tidal Flats
+1 Victory's Herald
+1 Will Kenrith
+1 Wizard's Retort
+1 Wing Shards
+1 Zealot's Conviction
+1 Tithe Taker
+1 Twist Allegiance
+1 When We Were Young
+1 Valor Singer
+1 You Hear Something on Watch
+1 Unnatural Speed
+1 Thick-Skinned Goblin
+1 Zhuge Jin, Wu Strategist
+1 Thran Forge
+1 Zephyr Singer
+1 Willbreaker
+1 Unicycle
+1 Vault Skyward
+1 Veteran's Reflexes
+1 War Chariot
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Viridian Claw
+1 Titanium Golem
+1 Torch Gauntlet
+1 Weaver of Lies
+1 Vulshok Battlegear
+1 Supernatural Rescue
+1 Ugin's Mastery
+1 Very Cryptic Command
+1 Trickery Charm
+1 Thorned Moloch
+1 Two-Handed Axe // Sweeping Cleave
+1 Water Wings
+1 Wall of Water
+1 Théoden, King of Rohan
+1 Umbral Mantle
+1 Zirda, the Dawnwaker
+1 Wrecking Ogre
+1 Suq'Ata Lancer
+1 Vedalken Anatomist
+1 Unstable Footing
+1 You Come to a River
+1 Whim of Volrath
+{'overall': '3', 'cmc': 3.106060606060606, 'ramp': '2', 'draw': '5', 'interaction': 5}

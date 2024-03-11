@@ -1,0 +1,69 @@
+1 Falthis, Shadowcat Familiar
+1 Word of Binding
+1 Tsabo's Assassin
+1 Trivia Contest
+1 Vengeful Strangler // Strangling Grasp
+1 Tribal Golem
+1 The Superlatorium
+1 Well of Discovery
+1 Volatile Fault
+1 Witness the End
+1 Wild Ogre Bupkis
+1 Xyru Specter
+1 Zulaport Enforcer
+1 The Witch's Vanity
+1 Woe Strider
+1 UNIT Headquarters
+1 The Cheetah Planet
+1 Warren Weirding
+1 Voracious Vampire
+1 Veilborn Ghoul
+1 Windgrace Acolyte
+1 Xiahou Dun, the One-Eyed
+1 Zodiac Pig
+1 Trigon of Corruption
+1 The Fourth Sphere
+1 The Torment of Gollum
+1 Treacherous Pit-Dweller
+1 Tower of Coireall
+1 Underdark Explorer
+1 The Great Aerie
+1 Throne of Geth
+1 Temple of the False God
+1 Unyaro
+1 Wall of Limbs
+1 Vampire Champion Fury
+1 Tyrannical Pitlord
+1 The Eldest Reborn
+1 Urborg Scavengers
+1 Treacherous Werewolf
+1 Vexing Puzzlebox
+1 Throne of the God-Pharaoh
+1 Splendid Agony
+1 Thornwatch Scarecrow
+1 Tablet of the Guilds
+1 Temp of the Damned
+1 Venomcrawler
+1 Whispering Shade
+1 Unsanctioned Ancient Juggler
+1 Mind Stone
+1 Vindictive Lich
+1 Warping Wail
+1 Witch's Vengeance
+1 Urza's Workshop
+1 Ulamog's Despoiler
+1 Wall of Corpses
+1 The Very Soil Shall Shake
+1 Thoughtrender Lamia
+1 Tevesh Szat, Doom of Fools
+1 Tomb of Urami
+1 Vampirism
+1 Thrilling Encore
+1 Thought Vessel
+1 Wei Night Raiders
+1 Throne of the Grim Captain // The Grim Captain
+1 The Black Breath
+1 Urborg Justice
+1 The Long Reach of Night // Animus of Night's Reach
+1 Yahenni, Undying Partisan
+{'overall': '5', 'cmc': 2.6911764705882355, 'ramp': '4', 'draw': '6', 'interaction': 8}

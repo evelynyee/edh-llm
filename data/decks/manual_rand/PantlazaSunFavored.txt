@@ -1,0 +1,69 @@
+1 Pantlaza, Sun-Favored
+1 Walker of the Grove
+1 Wizard's Lightning
+1 Wakening Sun's Avatar
+1 Wirewood Guardian
+1 Trash Bin
+1 Zenith Chronicler
+1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Wolfcaller's Howl
+1 Warbringer
+1 Tome Shredder
+1 Urza's Incubator
+1 World at War
+1 Will of the All-Hunter
+1 Widespread Panic
+1 Travel Through Caradhras
+1 The Cave of Skulls
+1 Warbreak Trumpeter
+1 Unexpected Potential
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Wheel of Misfortune
+1 Yannik, Scavenging Sentinel
+1 Vulpikeet
+1 Void Mirror
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Titania's Command
+1 Yeva, Nature's Herald
+1 Ulamog's Despoiler
+1 Volcanic Vision
+1 Vessel of Endless Rest
+1 Eternal Witness
+1 Wild Crocodile
+1 Vryn Wingmare
+1 Timeless Dragon
+1 Virtue of Strength // Garenbrig Growth
+1 Wizened Arbiter
+1 Wear Away
+1 Wandering Graybeard
+1 Zephyrim
+1 Wrenn and Realmbreaker
+1 Wreath of Geists
+1 Zhur-Taa Ancient
+1 Wandering Treefolk
+1 Wirewood Symbiote
+1 Turntimber Sower
+1 Zhulodok, Void Gorger
+1 Zoologist
+1 Urabrask, Heretic Praetor
+1 Underworld Rage-Hound
+1 Turn the Earth
+1 Urabrask // The Great Work
+1 The Lady of Otaria
+1 Vaultbreaker
+1 Tishana's Wayfinder
+1 Wren's Run Vanquisher
+1 Ulamog, the Infinite Gyre
+1 Green Sun's Zenith
+1 Viseling
+1 Wolf-Skull Shaman
+1 Unified Strike
+1 Wand of Ith
+1 Treefolk Harbinger
+1 Underdark Rift
+1 Willow Geist
+1 Wildfield Borderpost
+1 Worry Beads
+1 Valakut Exploration
+1 Venerable Warsinger
+{'overall': '5', 'cmc': 3.6029411764705883, 'ramp': '13', 'draw': '14', 'interaction': 5}

@@ -63,8 +63,3 @@
 1 Woe Strider
 1 Whisper, Blood Liturgist
 {'overall': '6', 'cmc': 3.28125, 'ramp': '4', 'draw': '8', 'interaction': 11}
-1 Wurmcoil Engine
-1 Staff of Titania
-1 Vexing Puzzlebox
-1 Urza's Saga
-1 Zulaport Cutthroat

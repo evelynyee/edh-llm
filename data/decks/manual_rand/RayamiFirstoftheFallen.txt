@@ -1,0 +1,69 @@
+1 Rayami, First of the Fallen
+1 Wave of Rats
+1 Tin-Wing Chimera
+1 Valor's Reach
+1 Titanic Growth
+1 Wolfkin Outcast // Wedding Crasher
+1 Voracious Vermin
+1 Counterspell
+1 Zagoth Mamba
+1 Wingfold Pteron
+1 Witch's Vengeance
+1 Weight Advantage
+1 Yarok's Fenlurker
+1 Weathered Sentinels
+1 Wall of Shadows
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Xenagos's Scorn
+1 Warlord's Axe
+1 Wand of Orcus
+1 Voracious Vampire
+1 Wu Light Cavalry
+1 Voice of the Vermin
+1 Venomthrope
+1 Walking Bulwark
+1 Wingshield Agent
+1 Wingspan Mentor
+1 Whip Vine
+1 Willow Satyr
+1 Unctus's Retrofitter
+1 Wildwood Tracker
+1 Wall of Stolen Identity
+1 Unseen Walker
+1 Wu Elite Cavalry
+1 Watercourser
+1 Tree Monkey
+1 Xerex Strobe-Knight
+1 Ulcerate
+1 Whirlwind
+1 Tread Upon
+1 Whip Silk
+1 Wing Puncture
+1 Vexing Beetle
+1 Witch's Mist
+1 Treetop Defense
+1 Vines of the Recluse
+1 Veteran's Sidearm
+1 Winds of Qal Sisma
+1 Viridian Claw
+1 Willbreaker
+1 Zenith Seeker
+1 Wall of Air
+1 Wormwood Dryad
+1 Venom Connoisseur
+1 Virtue of Persistence // Locthwain Scorn
+1 Tower Above
+1 Vengeant Earth
+1 Vampire Bats
+1 Zof Shade
+1 Turbo-Thwacking Auto-Hammer
+1 Wielding the Green Dragon
+1 Wall of Water
+1 Your Will Is Not Your Own
+1 Umara Wizard // Umara Skyfalls
+1 Ubul Sar Gatekeepers
+1 Vibrating Sphere
+1 Wine of Blood and Iron
+1 Zombie Musher
+1 Wizened Githzerai
+{'overall': '3', 'cmc': 2.735294117647059, 'ramp': '1', 'draw': '2', 'interaction': 4}

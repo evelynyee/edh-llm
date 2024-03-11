@@ -40,7 +40,7 @@
 1 Chromatic Lantern
 1 Sword of Truth and Justice
 1 Tymaret Calls the Dead
-1 Troll of Khazad-dûm
+1 Troll of Khazad-d
 1 Vile Requiem
 1 Tomb of Urami
 1 Tetzimoc, Primal Death
@@ -65,4 +65,4 @@
 1 Vraska, Betrayal's Sting
 1 Sword of the Ages
 1 War Barge
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '6', 'cmc': 2.9078947, 'ramp': '16', 'draw': '9', 'interaction': 12}

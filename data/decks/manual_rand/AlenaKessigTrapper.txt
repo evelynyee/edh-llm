@@ -1,0 +1,69 @@
+1 Alena, Kessig Trapper
+1 Weatherlight Compleated
+1 Temple of the False God
+1 Thundercloud Shaman
+1 Structural Assault
+1 The Superlatorium
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Treasure Map // Treasure Cove
+1 Slag Fiend
+1 The Filigree Sylex
+1 Zurzoth, Chaos Rider
+1 Skysovereign, Consul Flagship
+1 Springjack Pasture
+1 Survivors' Encampment
+1 Symmetry Matrix
+1 The Tyrant
+1 Total War
+1 Warlord's Fury
+1 Unexpected Windfall
+1 Two Streams Facility
+1 Weaponized Scrap
+1 Unstable Frontier
+1 Valakut Awakening // Valakut Stoneforge
+1 The Dining Car
+1 Urza's Construction Drone
+1 Viashino Runner
+1 Tarox Bladewing
+1 Unholy Citadel
+1 Witch's Oven
+1 _____ _____ Rocketship
+1 Wizard's Rockets
+1 Viashino Heretic
+1 Twin Bolt
+1 Tears of Rage
+1 Winding Canyons
+1 Blasphemous Act
+1 You See a Pair of Goblins
+1 Vexing Puzzlebox
+1 TARDIS
+1 Ugin, the Spirit Dragon
+1 The Moonbase
+1 Tomb of the Spirit Dragon
+1 Triskelavus
+1 Tectonic Break
+1 Vindictive Flamestoker
+1 The Superlatorium
+1 Welding Sparks
+1 The Philosopher
+1 Well of Life
+1 Wake of Destruction
+1 War-Trained Slasher
+1 Zariel, Archduke of Avernus
+1 The Western Cloud
+1 Terror of the Peaks
+1 The Ultimate Nightmare of Wizards of the Coast® Customer Service
+1 Twinflame
+1 Thran Portal
+1 Ulamog's Despoiler
+1 Whalebone Glider
+1 Urabrask // The Great Work
+1 Triangle of War
+1 Tiger-Tribe Hunter
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Turri Island
+1 Vent Sentinel
+1 Thunderwave
+1 Tezzeret's Strider
+1 Unquenchable Fury
+{'overall': '5', 'cmc': 2.716417910447761, 'ramp': '7', 'draw': '13', 'interaction': 16}

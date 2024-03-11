@@ -1,0 +1,69 @@
+1 Ghave, Guru of Spores
+1 Untamed Kavu
+1 Vivien on the Hunt
+1 Waxmane Baku
+1 Wood Elemental
+1 Vampire Outcasts
+1 Wolverine Riders
+1 Woodwraith Corrupter
+1 Wave of Terror
+1 Vitu-Ghazi Guildmage
+1 Tetravus
+1 Wurmcoil Engine
+1 Wilson, Majestic Bear
+1 Traumatic Revelation
+1 Verdant Force
+1 Witch's Oven
+1 Venerable Knight
+1 Teething Wurmlet
+1 Weirding Wood
+1 Vizier of Remedies
+1 War of the Last Alliance
+1 Tinker's Tote
+1 Woodland Wanderer
+1 Zombie Brute
+1 Together Forever
+1 Timothar, Baron of Bats
+1 Diabolic Tutor
+1 Vivid Marsh
+1 Tempt with Glory
+1 Wild Pair
+1 Three Blind Mice
+1 Valiant Endeavor
+1 Wanderer's Strike
+1 Unstoppable Ash
+1 Vigor
+1 Utopia Mycon
+1 Birds of Paradise
+1 Supply-Line Cranes
+1 Worldsoul Colossus
+1 Warping Wail
+1 Tempered Veteran
+1 Tuinvale Treefolk // Oaken Boon
+1 Wolf-Skull Shaman
+1 Strength of the Pack
+1 Teyo's Lightshield
+1 Thallid Shell-Dweller
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Welcome to Sweettooth
+1 Thrashing Mossdog
+1 Wolf in _____ Clothing
+1 Swarm Shambler
+1 Vraska, Betrayal's Sting
+1 Trap Digger
+1 Unbounded Potential
+1 Yoke of the Damned
+1 Tchotchke Elemental
+1 Vraska, Relic Seeker
+1 Tiller of Flesh
+1 Welding Jar
+1 The Weatherseed Treaty
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 The Monumental Facade
+1 Untethered Express
+1 You're Confronted by Robbers
+1 Turntimber Ranger
+1 Xenic Poltergeist
+1 Titania's Boon
+1 Tangled Skyline
+{'overall': '6', 'cmc': 3.676470588235294, 'ramp': '7', 'draw': '8', 'interaction': 7}

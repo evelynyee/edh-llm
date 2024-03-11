@@ -1,0 +1,69 @@
+1 The Locust God
+1 Wrenn's Resolve
+1 Wiretapping
+1 Words of Wind
+1 Verity Circle
+1 Veiled Crocodile
+1 Windcaller Aven
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Turn // Burn
+1 Twitch
+1 Vulshok Factory
+1 Urza's Chalice
+1 Stitcher's Apprentice
+1 Teferi, Temporal Pilgrim
+1 Windreader Sphinx
+1 Thawing Glaciers
+1 Zektar Shrine Expedition
+1 Volatile Wanderglyph
+1 There Is No Refuge
+1 Warchief Giant
+1 Undying Flames
+1 Thopter Engineer
+1 Whirlermaker
+1 Thousand Winds
+1 Zoyowa's Justice
+1 The Wilds
+1 Wandering Fumarole
+1 Youthful Scholar
+1 The Blackstaff of Waterdeep
+1 Vulshok Splitter
+1 Toralf, God of Fury // Toralf's Hammer
+1 Wooden Sphere
+1 Unexplained Disappearance
+1 Word of Undoing
+1 Waste Land
+1 Touch and Go
+1 Waterspout Djinn
+1 Tezzeret, Betrayer of Flesh
+1 Witches' Eye
+1 The Apprentice's Folly
+1 Whispering Wizard
+1 Theft of Dreams
+1 Young Red Dragon // Bathe in Gold
+1 Warcry Phoenix
+1 Xerex Strobe-Knight
+1 Torrent of Stone
+1 Visions of Beyond
+1 Wormfang Turtle
+1 Telim'Tor's Edict
+1 Vronos, Masked Inquisitor
+1 Vanguard Suppressor
+1 Walk the Aeons
+1 Viscerid Armor
+1 Twisted Fealty
+1 Vizier of the Anointed
+1 The Fourth Sphere
+1 Zurgo Bellstriker
+1 Urabrask // The Great Work
+1 Welding Jar
+1 Third Path Iconoclast
+1 Trail of Evidence
+1 Whisk Away
+1 Urza, Lord High Artificer
+1 Tamiyo's Journal
+1 Veil of Birds
+1 Waterfront Bouncer
+1 Tenacious Tomeseeker
+1 Yotia Declares War
+{'overall': '6', 'cmc': 3.0, 'ramp': '5', 'draw': '22', 'interaction': 6}

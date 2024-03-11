@@ -1,0 +1,69 @@
+1 Keleth, Sunmane Familiar
+1 Warrior's Charge
+1 Welkin Hawk
+1 Vulshok Gauntlets
+1 Tocasia's Welcome
+1 Trap Digger
+1 Land Tax
+1 Sol Ring
+1 Towashi
+1 Watchdog
+1 Wall of Caltrops
+1 Will of the All-Hunter
+1 Tine Shrike
+1 Surge of Thoughtweft
+1 Temper
+1 Thundersteel Colossus
+1 Vulpine Harvester
+1 Toolcraft Exemplar
+1 Village Bell-Ringer
+1 Shriekhorn
+1 Tablet of Compleation
+1 Zelyon Sword
+1 Titan Forge
+1 Spinal Parasite
+1 Wingmantle Chaplain
+1 Commander's Sphere
+1 Starlight Spectacular
+1 Valor Made Real
+1 War Elephant
+1 Time of Heroes
+1 Twilight Shepherd
+1 Tarrian's Soulcleaver
+1 Unassuming Sage
+1 The Doctor's Tomb
+1 Strongarm Monk
+1 Sunbond
+1 TARDIS
+1 Trepanation Blade
+1 Victory's Envoy
+1 Voice of the Blessed
+1 Wingsteed Trainer
+1 Serrated Biskelion
+1 Wedding Invitation
+1 Volrath
+1 Yare
+1 Vanguard of the Rose
+1 Ulamog's Despoiler
+1 Sunfall
+1 Talus Paladin
+1 The Provider
+1 Touchstone
+1 Wurm's Tooth
+1 Staff of the Storyteller
+1 Thought Vessel
+1 Thran Portal
+1 Trivia Contest
+1 Sun Droplet
+1 Skyhunter Strike Force
+1 Vladimir and Godfrey
+1 Spellbook Vendor
+1 Vizier of Remedies
+1 Workhorse
+1 Vizier of Deferment
+1 Wojek Siren
+1 Vigil for the Lost
+1 Path to Exile
+1 The Dead Shall Serve
+1 Veteran Armorsmith
+{'overall': '5', 'cmc': 2.588235294117647, 'ramp': '6', 'draw': '11', 'interaction': 4}
