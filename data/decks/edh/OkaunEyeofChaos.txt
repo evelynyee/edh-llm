@@ -1,0 +1,64 @@
+1 Okaun, Eye of Chaos
+1 Sol Ring
+1 Tavern Scoundrel
+1 Krark's Thumb
+1 Chance Encounter
+1 Planar Chaos
+1 Mirror March
+1 Goblin Traprunner
+1 Fiery Gambit
+1 Mogg Assassin
+1 Krark, the Thumbless
+1 Karplusan Minotaur
+1 Game of Chaos
+1 Goblin Kaboomist
+1 Goblin Archaeologist
+1 Chaos Warp
+1 Rogue's Passage
+1 Arcane Signet
+1 Kediss, Emberclaw Familiar
+1 Creepy Doll
+1 Boompile
+1 Swiftfoot Boots
+1 Fighting Chance
+1 Desperate Gambit
+1 Chandra's Ignition
+1 Gamble
+1 Faithless Looting
+1 Blasphemous Act
+1 Impulsive Maneuvers
+1 Volatile Rig
+1 Soul's Fire
+1 Goblin Assassin
+1 Temur Battle Rage
+1 Molten Birth
+1 Mana Clash
+1 Risky Move
+1 Myriad Landscape
+1 Footfall Crater
+1 Mijae Djinn
+1 Chaotic Goo
+1 Puppet's Verdict
+1 Mind Stone
+1 Two-Headed Giant
+1 Chaotic Strike
+1 Fling
+1 Winter Sky
+1 Crooked Scales
+1 Whispersilk Cloak
+1 Tide of War
+1 Kazuul's Fury
+1 Goblin Bangchuckers
+1 Goblin Engineer
+1 Lightning Greaves
+1 Goblin Festival
+1 Brash Taunter
+1 Jeska's Will
+1 Fickle Efreet
+1 Molten Sentry
+1 Tyrant of Discord
+1 Wildfire Devils
+1 Magus of the Wheel
+1 Vandalblast
+1 Goblin Bomb
+{'overall': '5', 'cmc': 3.0317460317460316, 'ramp': '5', 'draw': '8', 'interaction': 13}

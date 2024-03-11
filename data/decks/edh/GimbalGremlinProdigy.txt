@@ -1,0 +1,64 @@
+1 Gimbal, Gremlin Prodigy
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Tireless Provisioner
+1 Academy Manufactor
+1 Thopter Spy Network
+1 Tireless Tracker
+1 Skyclave Relic
+1 Schema Thief
+1 Curse of Opulence
+1 Frontier Bivouac
+1 Gilded Goose
+1 Inspiring Statuary
+1 Exotic Orchard
+1 Saheeli, Sublime Artificer
+1 Saheeli's Artistry
+1 Shimmer Dragon
+1 Chaos Warp
+1 Thoughtcast
+1 Rise and Shine
+1 Feldon of the Third Path
+1 Bloodforged Battle-Axe
+1 Brudiclad, Telchor Engineer
+1 Cinder Glade
+1 Perplexing Test
+1 Combine Chrysalis
+1 Junk Winder
+1 Rashmi and Ragavan
+1 Izzet Signet
+1 Simic Signet
+1 Svella, Ice Shaper
+1 Toggo, Goblin Weaponsmith
+1 Sandsteppe War Riders
+1 Third Path Iconoclast
+1 Reality Shift
+1 Replicating Ring
+1 Gruul Signet
+1 Frostboil Snarl
+1 Masterful Replication
+1 Vineglimmer Snarl
+1 Whirler Rogue
+1 Hedron Detonator
+1 Spell Swindle
+1 Game Trail
+1 Crack Open
+1 Temple of Mystery
+1 Temple of Epiphany
+1 Master of Etherium
+1 Idol of Oblivion
+1 Echo Storm
+1 Chrome Host Seedshark
+1 Temple of Abandon
+1 Kibo, Uktabi Prince
+1 Evolving Wilds
+1 Reverse Engineer
+1 Path of Ancestry
+1 Ghirapur Aether Grid
+1 Root Out
+1 Urza's Command
+1 Mirrex
+1 Sharding Sphinx
+1 Cyberdrive Awakener
+{'overall': '7', 'cmc': 2.746031746031746, 'ramp': '14', 'draw': '8', 'interaction': 7}

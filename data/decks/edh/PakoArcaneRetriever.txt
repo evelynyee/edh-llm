@@ -1,0 +1,64 @@
+1 Pako, Arcane Retriever
+1 Command Tower
+1 Sol Ring
+1 Spire Garden
+1 Llanowar Elves
+1 Arcane Signet
+1 Exotic Orchard
+1 Stomping Ground
+1 Fyndhorn Elves
+1 Wooded Foothills
+1 Wild Growth
+1 Jeska's Will
+1 Farseek
+1 Elvish Mystic
+1 Cultivate
+1 Lotus Petal
+1 Tinder Wall
+1 Exploration
+1 Birds of Paradise
+1 Veil of Summer
+1 Deflecting Swat
+1 Nature's Claim
+1 Nature's Lore
+1 Kodama's Reach
+1 Swiftfoot Boots
+1 Sylvan Library
+1 City of Brass
+1 Windswept Heath
+1 Timeless Witness
+1 Solemn Simulacrum
+1 Scavenging Ooze
+1 Azusa, Lost but Seeking
+1 Tireless Provisioner
+1 Moraug, Fury of Akoum
+1 Arbor Elf
+1 Dockside Extortionist
+1 Goblin Anarchomancer
+1 Noxious Revival
+1 Beast Within
+1 Seize the Day
+1 Explore
+1 Three Visits
+1 Utopia Sprawl
+1 Rancor
+1 Kenrith's Transformation
+1 Ancient Tomb
+1 Yavimaya, Cradle of Growth
+1 Kessig Wolf Run
+1 Fellwar Stone
+1 Jeweled Lotus
+1 Mana Crypt
+1 Gruul Signet
+1 Mana Confluence
+1 Scalding Tarn
+1 Misty Rainforest
+1 Arid Mesa
+1 Taiga
+1 Karplusan Forest
+1 Rootbound Crag
+1 Cinder Glade
+1 Delighted Halfling
+1 The One Ring
+1 Titan of Industry
+{'overall': '8', 'cmc': 1.5238095238095237, 'ramp': '28', 'draw': '7', 'interaction': 6}

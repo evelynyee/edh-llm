@@ -1,0 +1,64 @@
+1 Sek'Kuar, Deathkeeper
+1 Command Tower
+1 Sol Ring
+1 Sakura-Tribe Elder
+1 Arcane Signet
+1 Skullclamp
+1 Savage Lands
+1 Reassembling Skeleton
+1 Goblin Bombardment
+1 Viscera Seer
+1 Overgrown Tomb
+1 Moldervine Reclamation
+1 Victimize
+1 Grim Haruspex
+1 Stomping Ground
+1 Blood Crypt
+1 Ignoble Hierarch
+1 Cultivate
+1 Exotic Orchard
+1 Eternal Witness
+1 Zulaport Cutthroat
+1 Village Rites
+1 Ashnod's Altar
+1 Harmonic Prodigy
+1 Cinder Glade
+1 Ziatora's Proving Ground
+1 Beast Within
+1 Woodland Cemetery
+1 Dragonskull Summit
+1 Smoldering Marsh
+1 Pawn of Ulamog
+1 Blasphemous Act
+1 Rampant Growth
+1 Judith, the Scourge Diva
+1 Plaguecrafter
+1 Bojuka Bog
+1 Llanowar Wastes
+1 Carrion Feeder
+1 Farseek
+1 Blood Artist
+1 Evolving Wilds
+1 Kodama's Reach
+1 Reclamation Sage
+1 Grumgully, the Generous
+1 Terminate
+1 Undergrowth Stadium
+1 Phyrexian Altar
+1 Putrefy
+1 Persistent Specimen
+1 Pitiless Plunderer
+1 Riveteers Ascendancy
+1 Rootbound Crag
+1 Terramorphic Expanse
+1 Mayhem Devil
+1 Assassin's Trophy
+1 Verdant Catacombs
+1 Gut, True Soul Zealot
+1 High Market
+1 Impact Tremors
+1 Murderous Redcap
+1 Living Death
+1 Nether Traitor
+1 Wooded Foothills
+{'overall': '9', 'cmc': 1.8412698412698412, 'ramp': '12', 'draw': '6', 'interaction': 8}

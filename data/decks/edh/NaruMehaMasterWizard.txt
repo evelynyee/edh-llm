@@ -1,0 +1,64 @@
+1 Naru Meha, Master Wizard
+1 Ghostly Flicker
+1 Sol Ring
+1 Illusionist's Stratagem
+1 Sunscorched Desert
+1 Counterspell
+1 Mystic Sanctuary
+1 Arcane Signet
+1 Solve the Equation
+1 High Tide
+1 Brainstorm
+1 Merchant Scroll
+1 Displace
+1 Riptide Laboratory
+1 Archaeomancer
+1 Negate
+1 Preordain
+1 Drift of Phantasms
+1 Ponder
+1 Mind Stone
+1 Mystical Tutor
+1 Blue Sun's Zenith
+1 Dispel
+1 Blur
+1 Baral, Chief of Compliance
+1 Fellwar Stone
+1 Opt
+1 Impulse
+1 Pongify
+1 Mystic Remora
+1 Archmage Emeritus
+1 Overwhelmed Apprentice
+1 Muddle the Mixture
+1 Rapid Hybridization
+1 Essence Flux
+1 Thassa's Oracle
+1 Spell Pierce
+1 Sky Diamond
+1 Dig Through Time
+1 Frantic Search
+1 Cyclonic Rift
+1 Sage's Row Denizen
+1 Gitaxian Probe
+1 Rhystic Study
+1 Sapphire Medallion
+1 Altar of the Brood
+1 Narset, Parter of Veils
+1 Step Through
+1 Windfall
+1 Reliquary Tower
+1 Reality Shift
+1 Snap
+1 An Offer You Can't Refuse
+1 Pact of Negation
+1 Swan Song
+1 Thought Vessel
+1 Resculpt
+1 Castle Vantress
+1 Spectral Sailor
+1 Spellseeker
+1 Arcane Denial
+1 Trinket Mage
+1 Venser, Shaper Savant
+{'overall': '7', 'cmc': 2.015873015873016, 'ramp': '8', 'draw': '26', 'interaction': 14}

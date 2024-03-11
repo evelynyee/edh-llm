@@ -1,0 +1,64 @@
+1 Ratadrabik of Urborg
+1 Sol Ring
+1 Arcane Signet
+1 Command Tower
+1 Elas il-Kor, Sadistic Pilgrim
+1 Teysa Karlov
+1 Swords to Plowshares
+1 Caves of Koilos
+1 Orzhov Signet
+1 Talisman of Hierarchy
+1 Braids, Arisen Nightmare
+1 Relic of Legends
+1 Victimize
+1 Ashnod's Altar
+1 Junji, the Midnight Sky
+1 Ayara, First of Locthwain
+1 Isolated Chapel
+1 Liesa, Forgotten Archangel
+1 Godless Shrine
+1 Yahenni, Undying Partisan
+1 Primevals' Glorious Rebirth
+1 Kambal, Consul of Allocation
+1 Vault of Champions
+1 Ao, the Dawn Sky
+1 Syr Konrad, the Grim
+1 Drivnod, Carnage Dominus
+1 Path to Exile
+1 Elenda, the Dusk Rose
+1 Anointed Procession
+1 Tainted Field
+1 Viscera Seer
+1 Mondrak, Glory Dominus
+1 Anguished Unmaking
+1 Athreos, God of Passage
+1 Phyrexian Altar
+1 Sidisi, Undead Vizier
+1 Phyrexian Tower
+1 Damn
+1 Luminous Broodmoth
+1 Bojuka Bog
+1 Fetid Heath
+1 Village Rites
+1 Ayli, Eternal Pilgrim
+1 Marsh Flats
+1 Sheoldred, Whispering One
+1 Shattered Sanctum
+1 Kokusho, the Evening Star
+1 Mikaeus, the Unhallowed
+1 Urborg, Tomb of Yawgmoth
+1 Loran of the Third Path
+1 Reanimate
+1 Deadly Dispute
+1 Takenuma, Abandoned Mire
+1 Boromir, Warden of the Tower
+1 Blade of Selves
+1 Fellwar Stone
+1 Malakir Rebirth
+1 Elesh Norn, Grand Cenobite
+1 High Market
+1 Yawgmoth, Thran Physician
+1 Whisper, Blood Liturgist
+1 Generous Gift
+1 Smothering Tithe
+{'overall': '7', 'cmc': 2.5873015873015874, 'ramp': '11', 'draw': '7', 'interaction': 9}

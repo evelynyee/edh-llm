@@ -1,0 +1,64 @@
+1 Sarulf, Realm Eater
+1 Command Tower
+1 Cultivate
+1 Snakeskin Veil
+1 Rampant Growth
+1 Soul Shatter
+1 Oblivion's Hunger
+1 Plaguecrafter
+1 Kodama's Reach
+1 Culling Ritual
+1 Beast Within
+1 Putrefy
+1 Sol Ring
+1 Tribute to the Wild
+1 Invigorating Surge
+1 Rogue's Passage
+1 Casualties of War
+1 Deathsprout
+1 Tamiyo's Safekeeping
+1 Mire in Misery
+1 Fleshbag Marauder
+1 Sakura-Tribe Elder
+1 Woodland Cemetery
+1 Demon's Disciple
+1 Corpsejack Menace
+1 Return of the Wildspeaker
+1 Tyrite Sanctum
+1 Overgrown Tomb
+1 Nature's Lore
+1 Golgari Rot Farm
+1 Slippery Bogbonder
+1 Llanowar Wastes
+1 Professor's Warning
+1 Forgotten Ancient
+1 Temple of Malady
+1 Assassin's Trophy
+1 Harmonize
+1 Bojuka Bog
+1 Eternal Witness
+1 Undergrowth Stadium
+1 Farseek
+1 Arcane Signet
+1 Golgari Charm
+1 Hunter's Insight
+1 Three Visits
+1 Gaea's Gift
+1 Sign in Blood
+1 Heroic Intervention
+1 Reclamation Sage
+1 Read the Bones
+1 Feign Death
+1 Gemrazer
+1 Hydra's Growth
+1 Undying Malice
+1 Merciless Executioner
+1 Rishkar's Expertise
+1 Winding Constrictor
+1 Astarion's Thirst
+1 Vona's Hunger
+1 Ancient Animus
+1 Gravelighter
+1 Deathcap Glade
+1 Binding the Old Gods
+{'overall': '5', 'cmc': 2.3015873015873014, 'ramp': '12', 'draw': '10', 'interaction': 10}

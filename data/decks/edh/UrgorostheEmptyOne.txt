@@ -1,0 +1,64 @@
+1 Urgoros, the Empty One
+1 Fell Specter
+1 Megrim
+1 Raiders' Wake
+1 Sol Ring
+1 Liliana's Specter
+1 Burglar Rat
+1 Abyssal Specter
+1 Vicious Rumors
+1 Geth's Grimoire
+1 Syphon Mind
+1 Guul Draz Specter
+1 Shrieking Affliction
+1 Hypnotic Specter
+1 Davriel, Rogue Shadowmage
+1 Scythe Specter
+1 Liliana's Caress
+1 Charcoal Diamond
+1 Reaper of Night
+1 Dark Ritual
+1 Waste Not
+1 Feed the Swarm
+1 Defile
+1 Mind Rake
+1 Delirium Skeins
+1 Sign in Blood
+1 Sangromancer
+1 Duress
+1 Arcane Signet
+1 Bojuka Bog
+1 Elderfang Disciple
+1 Tasigur's Cruelty
+1 Virus Beetle
+1 Dreamstealer
+1 Mind Stone
+1 Plaguecrafter
+1 Murder
+1 Doom Blade
+1 Mind Rot
+1 Unnerve
+1 Painful Quandary
+1 Hollow Specter
+1 Asylum Visitor
+1 Stronghold Rats
+1 The Raven Man
+1 Specter's Shroud
+1 Larceny
+1 Creeping Dread
+1 Bad Deal
+1 Banshee of the Dread Choir
+1 Gray Merchant of Asphodel
+1 Silent Specter
+1 Bottomless Pit
+1 Elvish Doomsayer
+1 Miasmic Mummy
+1 Read the Bones
+1 Geier Reach Sanitarium
+1 Heraldic Banner
+1 Needle Specter
+1 Arterial Flow
+1 Swiftfoot Boots
+1 The Eldest Reborn
+1 Cabal Coffers
+{'overall': '4', 'cmc': 3.0634920634920637, 'ramp': '7', 'draw': '11', 'interaction': 4}

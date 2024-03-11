@@ -1,0 +1,64 @@
+1 Farmer Cotton
+1 Sol Ring
+1 Command Tower
+1 Academy Manufactor
+1 Jaheira, Friend of the Forest
+1 Swords to Plowshares
+1 Peregrin Took
+1 Rosie Cotton of South Lane
+1 Samwise Gamgee
+1 Arcane Signet
+1 Ashnod's Altar
+1 Canopy Vista
+1 The Battle of Bywater
+1 Path to Exile
+1 Cultivate
+1 Mondrak, Glory Dominus
+1 Inspiring Statuary
+1 Skullclamp
+1 Delighted Halfling
+1 Banquet Guests
+1 Gilded Goose
+1 Anointed Procession
+1 Parallel Lives
+1 Temur Sabertooth
+1 The Shire
+1 Nature's Lore
+1 Heroic Intervention
+1 Temple Garden
+1 Sunpetal Grove
+1 Panharmonicon
+1 Krark-Clan Ironworks
+1 Sam, Loyal Attendant
+1 Prosperous Innkeeper
+1 Bountiful Promenade
+1 Doubling Season
+1 Birds of Paradise
+1 Unbound Flourishing
+1 Feasting Hobbit
+1 Beast Within
+1 Circle of Dreams Druid
+1 Rampant Growth
+1 Elesh Norn, Mother of Machines
+1 Brushland
+1 Champion of Lambholt
+1 Fortified Village
+1 Shamanic Revelation
+1 Phyrexian Altar
+1 The Gaffer
+1 Essence Warden
+1 Elven Chorus
+1 Meticulous Excavation
+1 Three Visits
+1 Enlightened Tutor
+1 Second Harvest
+1 Elanor Gardner
+1 Mentor of the Meek
+1 Llanowar Elves
+1 Kodama's Reach
+1 Aura Shards
+1 Gandalf the White
+1 March of the Multitudes
+1 Generous Gift
+1 Cryptolith Rite
+{'overall': '8', 'cmc': 2.365079365079365, 'ramp': '20', 'draw': '6', 'interaction': 6}

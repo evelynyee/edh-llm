@@ -1,0 +1,64 @@
+1 Jamie McCrimmon
+1 Reki, the History of Kamigawa
+1 Omnath, Locus of Mana
+1 Lifecrafter's Bestiary
+1 Tranquil Thicket
+1 Reliquary Tower
+1 City of Death
+1 Jhoira's Familiar
+1 Susan Foreman
+1 Ornithopter of Paradise
+1 Doric, Nature's Warden
+1 Gilanra, Caller of Wirewood
+1 Dosan the Falling Leaf
+1 Arwen, Weaver of Hope
+1 Kamahl, Heart of Krosa
+1 Nylea, Keen-Eyed
+1 Vorinclex
+1 Selvala, Heart of the Wilds
+1 Surrak and Goreclaw
+1 Zopandrel, Hunger Dominus
+1 Return to Nature
+1 Beast Within
+1 Kamahl's Druidic Vow
+1 The Great Henge
+1 Emerald Medallion
+1 Fall of Gil-galad
+1 The Huntsman's Redemption
+1 Jugan Defends the Temple
+1 Song of Freyalise
+1 The Mending of Dominaria
+1 Slippery Karst
+1 Oran-Rief, the Vastwood
+1 Mosswort Bridge
+1 Nykthos, Shrine to Nyx
+1 Rogue's Passage
+1 Hedron Archive
+1 Mind Stone
+1 Thought Vessel
+1 Throne of Eldraine
+1 Arcane Signet
+1 Sol Ring
+1 Plaza of Heroes
+1 Demolition Field
+1 Displaced Dinosaurs
+1 Steel Hellkite
+1 Fangorn, Tree Shepherd
+1 Kolvori, God of Kinship
+1 Radagast the Brown
+1 Old One Eye
+1 Runadi, Behemoth Caller
+1 Nylea, God of the Hunt
+1 Renata, Called to the Hunt
+1 Ghalta, Primal Hunger
+1 Ashaya, Soul of the Wild
+1 Beast Whisperer
+1 Shower of Arrows
+1 Worldly Tutor
+1 Heroic Intervention
+1 Ezuri's Predation
+1 Regrowth
+1 Last March of the Ents
+1 Unlicensed Hearse
+1 Soul-Guide Lantern
+{'overall': '8', 'cmc': 3.380952380952381, 'ramp': '22', 'draw': '20', 'interaction': 3}

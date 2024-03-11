@@ -1,0 +1,64 @@
+1 Indominus Rex, Alpha
+1 Command Tower
+1 Venomthrope
+1 Scavenged Brawler
+1 Sol Ring
+1 Questing Beast
+1 Nighthawk Scavenger
+1 Nightveil Predator
+1 End-Raze Forerunners
+1 Arcane Signet
+1 Mirri the Cursed
+1 Gurmag Swiftwing
+1 Vampire Nighthawk
+1 Rhonas the Indomitable
+1 Baleful Strix
+1 Kefnet the Mindful
+1 Leyline Prowler
+1 Wilson, Refined Grizzly
+1 Living Death
+1 Elder Gargaroth
+1 Bontu the Glorified
+1 Birds of Paradise
+1 Zagoth Triome
+1 Vengeful Reaper
+1 Overgrown Tomb
+1 Farseek
+1 Glissa Sunslayer
+1 Nature's Lore
+1 Breeding Pool
+1 Watery Grave
+1 Cultivate
+1 Rejuvenating Springs
+1 Undergrowth Stadium
+1 Reliquary Tower
+1 Exotic Orchard
+1 The Ozolith
+1 Beast Within
+1 Reanimate
+1 Sylvan Caryatid
+1 Weathered Sentinels
+1 Kodama's Reach
+1 Nullpriest of Oblivion
+1 Carnage Tyrant
+1 Banehound
+1 Three Visits
+1 Opulent Palace
+1 Morphic Pool
+1 Stonehoof Chieftain
+1 Triplicate Titan
+1 Assassin's Trophy
+1 Animate Dead
+1 Rampant Growth
+1 Counterspell
+1 Verdant Catacombs
+1 Rogue's Passage
+1 Misty Rainforest
+1 Hinterland Harbor
+1 Woodland Cemetery
+1 Toski, Bearer of Secrets
+1 Yarok, the Desecrated
+1 Beastcaller Savant
+1 Polluted Delta
+1 Dreamroot Cascade
+{'overall': '7', 'cmc': 2.3174603174603177, 'ramp': '12', 'draw': '8', 'interaction': 5}

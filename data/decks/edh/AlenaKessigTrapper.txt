@@ -1,0 +1,64 @@
+1 Alena, Kessig Trapper
+1 Faithless Looting
+1 Sword of the Paruns
+1 Umbral Mantle
+1 Staff of Domination
+1 Comet Storm
+1 Etali, Primal Storm
+1 Chaos Warp
+1 Sol Ring
+1 Phyrexian Soulgorger
+1 Conflagrate
+1 Artisan of Kozilek
+1 Ball Lightning
+1 Bonecrusher Giant
+1 Cathartic Reunion
+1 Tormenting Voice
+1 Jeska's Will
+1 Warstorm Surge
+1 Rogue's Passage
+1 Fire Diamond
+1 Reckless Barbarian
+1 Cosmic Larva
+1 Relic Golem
+1 Arc Runner
+1 Thunderblust
+1 Nova Chaser
+1 Ilharg, the Raze-Boar
+1 Anax, Hardened in the Forge
+1 Purphoros, Bronze-Blooded
+1 Urabrask the Hidden
+1 Feldon of the Third Path
+1 Simian Spirit Guide
+1 Burnished Hart
+1 Brash Taunter
+1 Solemn Simulacrum
+1 Electrodominance
+1 Battle Hymn
+1 Demonfire
+1 Fireball
+1 Mimic Vat
+1 Thousand-Year Elixir
+1 Swiftfoot Boots
+1 Commander's Sphere
+1 Fellwar Stone
+1 Mind Stone
+1 Arcane Signet
+1 Keldon Flamesage
+1 Wild Magic Surge
+1 Ruinous Minotaur
+1 Keldon Vandals
+1 Lupine Prototype
+1 Shivan Wumpus
+1 Inferno Hellion
+1 Impetuous Devils
+1 Flameblast Dragon
+1 Hellkite Charger
+1 Inferno Titan
+1 Anger
+1 Unexpected Windfall
+1 Seething Song
+1 Thrill of Possibility
+1 Seething Anger
+1 Finale of Promise
+{'overall': '7', 'cmc': 3.2063492063492065, 'ramp': '15', 'draw': '10', 'interaction': 9}

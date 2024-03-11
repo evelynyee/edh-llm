@@ -1,0 +1,64 @@
+1 Kenessos, Priest of Thassa
+1 Whelming Wave
+1 Spawning Kraken
+1 Scourge of Fleets
+1 Sol Ring
+1 Hullbreaker Horror
+1 Serpent of Yawning Depths
+1 Command Tower
+1 Arixmethes, Slumbering Isle
+1 Inkwell Leviathan
+1 Koma, Cosmos Serpent
+1 Tromokratis
+1 Brainstorm
+1 Simic Sky Swallower
+1 Preordain
+1 Stormtide Leviathan
+1 Temple of Mystery
+1 Cultivate
+1 Aesi, Tyrant of Gyre Strait
+1 Arcane Signet
+1 Stormsurge Kraken
+1 Slinn Voda, the Rising Deep
+1 Quest for Ula's Temple
+1 Joint Exploration
+1 Biomancer's Familiar
+1 Thassa, God of the Sea
+1 Lorthos, the Tidemaker
+1 Biblioplex Kraken
+1 Opt
+1 Kodama's Reach
+1 Beast Within
+1 Hinterland Harbor
+1 Counterspell
+1 Garruk's Uprising
+1 Serum Visions
+1 Castle Vantress
+1 Rampant Growth
+1 Deep-Sea Kraken
+1 Yavimaya Coast
+1 Nadir Kraken
+1 Trench Behemoth
+1 Training Grounds
+1 Brinelin, the Moon Kraken
+1 Lifecrafter's Bestiary
+1 The Temporal Anchor
+1 Nature's Lore
+1 Breeding Pool
+1 Growth Spiral
+1 Rejuvenating Springs
+1 In Search of Greatness
+1 Simic Growth Chamber
+1 Sensei's Divining Top
+1 Shipbreaker Kraken
+1 Deliberate
+1 Reliquary Tower
+1 Octoprophet
+1 Icebreaker Kraken
+1 Reason // Believe
+1 Sigiled Starfish
+1 Dreamroot Cascade
+1 Simic Signet
+1 Halimar Depths
+1 Reservoir Kraken
+{'overall': '6', 'cmc': 3.492063492063492, 'ramp': '10', 'draw': '15', 'interaction': 4}
