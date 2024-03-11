@@ -1,0 +1,69 @@
+1 Magda, Brazen Outlaw
+1 Unstable Frontier
+1 The Golden City of Orazca
+1 Wheel of Fortune
+1 Yasmin Khan
+1 Volcanic Upheaval
+1 Workshop Assistant
+1 Summoner's Bond
+1 The Stone Brain
+1 Toggo, Goblin Weaponsmith
+1 Swiftgear Drake
+1 The Champion
+1 Time Machine
+1 Whetstone
+1 Self-Assembler
+1 Swashbuckler's Whip
+1 Tribal Flames
+1 Wrench-Rigger
+1 There Is No Refuge
+1 Your Puny Minds Cannot Fathom
+1 Urabrask // The Great Work
+1 Turri Island
+1 Where Ancients Tread
+1 Warfire Javelineer
+1 Zoetic Cavern
+1 Thunder-Thrash Elder
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Wild-Field Scarecrow
+1 The Harvester
+1 Tamiyo's Journal
+1 Tiamat's Fanatics
+1 Urn of Godfire
+1 Thaumatic Compass // Spires of Orazca
+1 Wurm's Tooth
+1 Blasphemous Act
+1 Whammy Burn
+1 Wall of Forgotten Pharaohs
+1 Urza's Construction Drone
+1 Unquenchable Fury
+1 The Vanquisher
+1 The Elder Dragon War
+1 Worry Beads
+1 Vaultbreaker
+1 Commander's Sphere
+1 Tawnos's Coffin
+1 Warren Instigator
+1 Warcry Phoenix
+1 Wanderer's Twig
+1 Taurean Mauler
+1 Stormbreath Dragon
+1 Lightning Bolt
+1 Zodiac Dragon
+1 Worldgorger Dragon
+1 Wild Magic Surge
+1 Warp World
+1 Voracious Vacuum
+1 Whims of the Fates
+1 Valakut Awakening // Valakut Stoneforge
+1 Warbeast of Gorgoroth
+1 Zirilan of the Claw
+1 Zhalfirin Void
+1 Timesifter
+1 Mana Geyser
+1 Urabrask the Hidden
+1 The Parting of the Ways
+1 Volcanic Torrent
+1 Tahngarth's Glare
+1 Zurgo Bellstriker
+{'overall': '6', 'cmc': 3.0294117647058822, 'ramp': '9', 'draw': '18', 'interaction': 12}

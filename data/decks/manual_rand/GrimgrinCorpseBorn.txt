@@ -1,0 +1,69 @@
+1 Grimgrin, Corpse-Born
+1 Traveling Plague
+1 Tsabo's Decree
+1 Your Inescapable Doom
+1 Thaumatic Compass // Spires of Orazca
+1 Wei Assassins
+1 Syr Ginger, the Meal Ender
+1 Volrath's Motion Sensor
+1 Waterfall Aerialist
+1 Weeping Angel
+1 Urza's Contact Lenses
+1 Throat Slitter
+1 Vampirism
+1 Wu Scout
+1 Vedalken Mesmerist
+1 Wormfang Manta
+1 The Abyss
+1 Subtle Strike
+1 Undercity Necrolisk
+1 Wedding Invitation
+1 Victimize
+1 Vengeful Strangler // Strangling Grasp
+1 Vampiric Sliver
+1 Voracious Vermin
+1 Tome of Legends
+1 Weakstone's Subjugation
+1 Sol Ring
+1 Vrock
+1 Whisper of the Dross
+1 The Cheetah Planet
+1 Tunnel of Love
+1 Thran Vigil
+1 Xathrid Gorgon
+1 Unhallowed Pact
+1 Toxic Stench
+1 Go for the Throat
+1 Vulturous Aven
+1 You Are Already Dead
+1 Vision Charm
+1 Traxos, Scourge of Kroog
+1 Treacherous Urge
+1 Ugin's Conjurant
+1 Wu Admiral
+1 Undercity's Embrace
+1 Tide Shaper
+1 Svyelun of Sea and Sky
+1 Teferi's Response
+1 Worms of the Earth
+1 Toils of Night and Day
+1 Vectis Gloves
+1 Tamiyo's Compleation
+1 Wing Commando
+1 Zombify
+1 Very Cryptic Command
+1 Vodalian War Machine
+1 Wasp of the Bitter End
+1 Zombie Fanboy
+1 Mana Vault
+1 Trailblazer's Boots
+1 Vulshok Battlegear
+1 Truss, Chief Engineer
+1 Voracious Greatshark
+1 Zombie Boa
+1 Wormfang Turtle
+1 Zulaport Cutthroat
+1 Teferi, Temporal Pilgrim
+1 Teardrop Kami
+1 The Watcher in the Water
+{'overall': '5', 'cmc': 2.8823529411764706, 'ramp': '5', 'draw': '10', 'interaction': 9}

@@ -1,0 +1,69 @@
+1 Kangee, Aerie Keeper
+1 Together Forever
+1 Treasure Cruise
+1 The Caves of Androzani
+1 Your Inescapable Doom
+1 Void Mirror
+1 Space Marine Devastator
+1 Urza's Incubator
+1 Vivisurgeon's Insight
+1 Venerated Teacher
+1 Mind Stone
+1 Unified Lunge
+1 Thriving Turtle
+1 Brainstorm
+1 Wingsteed Rider
+1 Staff of the Flame Magus
+1 Wintermoon Mesa
+1 Warden of the Inner Sky
+1 Thoughtcast
+1 Stormwing Entity
+1 Super Secret Tech
+1 Tide Shaper
+1 The Wandering Emperor
+1 War-Wing Siren
+1 Sustaining Spirit
+1 Wispmare
+1 Very Cryptic Command
+1 Trigon of Thought
+1 The Mana Rig
+1 Wand of the Worldsoul
+1 Teferi's Contingency
+1 Well of Lost Dreams
+1 Vitality Hunter
+1 Vodalian Serpent
+1 Tumble Magnet
+1 Undersimplify
+1 Trigon of Mending
+1 Tethmos High Priest
+1 Swallow Whole
+1 Transcendent Master
+1 Write into Being
+1 Tolarian Geyser
+1 Surrakar Spellblade
+1 Vhal, Eager Scholar
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Vexing Sphinx
+1 Thassa's Oracle
+1 Unconventional Tactics
+1 Transmute Artifact
+1 Talon Gates
+1 Visionary Augmenter
+1 Toothy, Imaginary Friend
+1 Untaidake, the Cloud Keeper
+1 Valiant Changeling
+1 Timely Hordemate
+1 Trenzalore Clocktower
+1 Swift Reckoning
+1 Transmogrifying Wand
+1 Wicked Slumber
+1 Weight Advantage
+1 Underdark Rift
+1 Tornellan Protector
+1 Unbounded Potential
+1 Spotter Thopter
+1 Umara Raptor
+1 Voidwalk
+1 Vodalian Hexcatcher
+1 Sublime Exhalation
+{'overall': '5', 'cmc': 2.926470588235294, 'ramp': '5', 'draw': '15', 'interaction': 9}

@@ -73,7 +73,7 @@
 1 Angelic Quartermaster
 1 Venerable Knight
 1 Youthful Valkyrie
-1 Andúril, Narsil Reforged
+1 Anduril, Narsil Reforged
 1 Anafenza, Kin-Tree Spirit
 1 Arcbound Slith
 1 Rose Tyler
@@ -98,4 +98,4 @@
 1 Sparring Construct
 1 Charmed Stray
 1 Arcbound Crusher
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '1', 'cmc': 3.19, 'ramp': '0', 'draw': '0', 'interaction': 1}

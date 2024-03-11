@@ -1,0 +1,69 @@
+1 Krav, the Unredeemed
+1 Voracious Fell Beast
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Sly Spy
+1 Yahenni's Expertise
+1 Shelob, Dread Weaver
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Vislor Turlough
+1 Smelting Vat
+1 The Golden City of Orazca
+1 Zombie Mob
+1 Tasigur's Cruelty
+1 Urza's Bauble
+1 Tainted Specter
+1 Vile Entomber
+1 Tendrils of Corruption
+1 World-Weary
+1 Syr Konrad, the Grim
+1 Soul Foundry
+1 Tar Fiend
+1 Spoils of the Vault
+1 Tooth Collector
+1 Victimize
+1 Wasteland Strangler
+1 Vicious Betrayal
+1 Walking Ballista
+1 Tainted Monkey
+1 Tetzimoc, Primal Death
+1 Widget Contraption
+1 Viridian Zealot Avatar
+1 Unburden
+1 Diabolic Tutor
+1 Tomb Blade
+1 The Dark Barony
+1 Thaumatic Compass // Spires of Orazca
+1 Thought-Knot Seer
+1 Go for the Throat
+1 Tomb Robber
+1 Thoughtseize
+1 Terror Tide
+1 Underdark Rift
+1 Which of You Burns Brightest?
+1 Wit's End
+1 Chromatic Lantern
+1 Your Inescapable Doom
+1 Thornmantle Striker
+1 Ugin, the Spirit Dragon
+1 Terrus Wurm
+1 Westgate Regent
+1 Surgehacker Mech
+1 The Mana Rig
+1 Vampire Nocturnus
+1 Witch's Cottage
+1 Whetstone
+1 Undercity Scavenger
+1 Torgaar, Famine Incarnate
+1 Wand of Vertebrae
+1 Symmetry Matrix
+1 Vexing Puzzlebox
+1 Syr Ginger, the Meal Ender
+1 Urborg Panther
+1 The Moonbase
+1 Wicked Guardian
+1 Thran Tome
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Skybreen
+1 Wall of Limbs
+1 Worst Fears
+{'overall': '5', 'cmc': 3.4029850746268657, 'ramp': '6', 'draw': '18', 'interaction': 9}

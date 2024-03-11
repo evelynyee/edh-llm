@@ -50,7 +50,7 @@
 1 Gnoll War Band
 1 The Eternal Wanderer
 1 Dalek Intensive Care
-1 Glóin, Dwarf Emissary
+1 Gloin, Dwarf Emissary
 1 Legion Warboss
 1 Seize the Spotlight
 1 Prime Minister's Cabinet Room
@@ -98,4 +98,4 @@
 1 Inferno Hellion
 1 Aurelia, Exemplar of Justice
 1 Neural Network
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.49, 'ramp': '1', 'draw': '5', 'interaction': 9}

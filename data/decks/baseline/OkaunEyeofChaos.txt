@@ -54,7 +54,7 @@
 1 Hellfire Mongrel
 1 Brazen Cannonade
 1 Tibalt, the Fiend-Blooded
-1 Palantír of Orthanc
+1 Palantir of Orthanc
 1 Inferno Hellion
 1 Undercity Reaches
 1 Mindslaver
@@ -98,4 +98,4 @@
 1 Urza's Bauble
 1 Iron Maiden
 1 Necropotence Avatar
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 2.98, 'ramp': '0', 'draw': '12', 'interaction': 3}

@@ -1,0 +1,69 @@
+1 Yedora, Grave Gardener
+1 Voice of Many
+1 Titania, Protector of Argoth
+1 Vigorspore Wurm
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Woodfall Primus
+1 Strength from the Fallen
+1 Veteran's Armaments
+1 Tawnos's Coffin
+1 Wild-Field Scarecrow
+1 Sword of the Meek
+1 _____-o-saurus
+1 Uktabi Orangutan
+1 The Weatherseed Treaty
+1 Tatsumasa, the Dragon's Fang
+1 Thaumatic Compass // Spires of Orazca
+1 Thran Spider
+1 Soulblade Renewer
+1 Wilson, Refined Grizzly
+1 Spirit of the Season
+1 Treasure Chest
+1 Weatherseed Totem
+1 Vineshaper Mystic
+1 Wirewood Hivemaster
+1 Verdant Touch
+1 Verdant Haven
+1 Uproot
+1 Sorcerer's Broom
+1 Wayward Swordtooth
+1 Vine Dryad
+1 Willow Geist
+1 Symmetry Matrix
+1 Tablet of Epityr
+1 Tuinvale Treefolk // Oaken Boon
+1 Urza's Construction Drone
+1 Vorinclex, Voice of Hunger
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Thousand-legged Kami
+1 Urza's Contact Lenses
+1 Stony Strength
+1 The Champion
+1 Wolfrider's Saddle
+1 Thunderous Debut
+1 Thorn Mammoth
+1 Urza's Bauble
+1 Wondrous Crucible
+1 Your Fate Is Thrice Sealed
+1 Weaver of Harmony
+1 Rampant Growth
+1 Wren's Run Packmaster
+1 Sunbird Standard // Sunbird Effigy
+1 Viridian Shaman
+1 Wood Elemental
+1 Warden of the Wall
+1 Wandering Archaic // Explore the Vastlands
+1 Wolfcaller's Howl
+1 Timeless Witness
+1 Voltaic Key
+1 Vulshok Battlegear
+1 Vital Splicer
+1 Vineweft
+1 Worldspine Wurm
+1 Sword of Hearth and Home
+1 The Moonbase
+1 Time Machine
+1 Steel Overseer
+1 Verdant Command
+1 Viridian Zealot Avatar
+{'overall': '7', 'cmc': 3.5588235294117645, 'ramp': '14', 'draw': '13', 'interaction': 5}

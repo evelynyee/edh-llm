@@ -1,0 +1,69 @@
+1 Armix, Filigree Thrasher
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 TARDIS
+1 Chromatic Lantern
+1 Wandering Archaic // Explore the Vastlands
+1 Torment of Venom
+1 Ulcerate
+1 Xyru Specter
+1 Sorin the Mirthless
+1 Whisper, Blood Liturgist
+1 Storybook Ride
+1 Waste Management
+1 Symmetry Matrix
+1 Voltaic Construct
+1 Vraska's Fall
+1 Undead Executioner
+1 The Dark Barony
+1 Waste Not
+1 Xiahou Dun, the One-Eyed
+1 Undercity's Embrace
+1 Varragoth, Bloodsky Sire
+1 The Torment of Gollum
+1 Whirling Catapult
+1 Without Weakness
+1 Vraska's Contempt
+1 Weatherlight
+1 Witch's Oven
+1 Torgaar, Famine Incarnate
+1 Transmutation
+1 Sword of Forge and Frontier
+1 Vampiric Sliver
+1 Zhang He, Wei General
+1 Vito, Thorn of the Dusk Rose
+1 Vraan, Executioner Thane
+1 Ulamog's Crusher
+1 Wake the Dead
+1 The Raven Man
+1 Sign in Blood
+1 Walking Bulwark
+1 Thoughtpicker Witch
+1 Wrench Mind
+1 Thumbscrews
+1 Go for the Throat
+1 Sword of War and Peace
+1 Urborg Uprising
+1 Whispering Shade
+1 Vraska's Scorn
+1 Demonic Tutor
+1 Treacherous Urge
+1 Thieving Sprite
+1 The Golden City of Orazca
+1 Virtus's Maneuver
+1 Wand of Denial
+1 Watchers of the Dead
+1 The Great Forest
+1 Tallyman of Nurgle
+1 Umbra Stalker
+1 Woe Strider
+1 Undercity Necrolisk
+1 Wicked Pact
+1 Voices from the Void
+1 The Long Reach of Night // Animus of Night's Reach
+1 Veilstone Amulet
+1 Tezzeret's Simulacrum
+1 Void Maw
+1 Zombie Trailblazer
+1 Sword of the Ages
+1 Warped Devotion
+{'overall': '5', 'cmc': 3.25, 'ramp': '2', 'draw': '11', 'interaction': 7}

@@ -42,7 +42,7 @@
 1 Shattered Crypt
 1 Night Dealings
 1 Shelob, Dread Weaver
-1 Palantír of Orthanc
+1 Palantir of Orthanc
 1 Plunge into Darkness
 1 Phyrexian Devourer
 1 Altar of the Wretched // Wretched Bonemass
@@ -98,4 +98,4 @@
 1 Finale of Eternity
 1 Command the Dreadhorde
 1 Necroplasm
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.78, 'ramp': '0', 'draw': '26', 'interaction': 7}

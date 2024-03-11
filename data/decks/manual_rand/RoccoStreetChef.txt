@@ -1,0 +1,69 @@
+1 Rocco, Street Chef
+1 Tuktuk Scrapper
+1 Viashino Heretic
+1 Warping Wail
+1 Vivien, Nature's Avenger
+1 Vizier of the Menagerie
+1 Touch and Go
+1 Worldspine Wurm
+1 Umbilicus
+1 Young Red Dragon // Bathe in Gold
+1 Unquenchable Fury
+1 Turn the Earth
+1 Red Elemental Blast
+1 Wildfire Awakener
+1 Witches' Eye
+1 Swashbuckler's Whip
+1 Tragic Poet
+1 Unpredictable Cyclone
+1 Titania's Command
+1 Vorinclex // The Grand Evolution
+1 Veteran Soldier
+1 Virtue of Strength // Garenbrig Growth
+1 Torch the Tower
+1 Wall of Shards
+1 Thousand-legged Kami
+1 Volatile Chimera
+1 Turri Island
+1 Zoologist
+1 Two-Headed Hunter // Twice the Rage
+1 Windriddle Palaces
+1 Survival Cache
+1 Voldaren Estate
+1 Xenagos, the Reveler
+1 Worldfire
+1 Tonic Peddler
+1 Treasure Hunter
+1 Verdant Succession
+1 Topography Tracker
+1 Wildfire Eternal
+1 Timesifter
+1 Vithian Stinger
+1 Wickerwing Effigy
+1 Wrenn and Realmbreaker
+1 Wand of Wonder
+1 Warren Instigator
+1 Volatile Wanderglyph
+1 Zuran Orb
+1 Winds of Change
+1 Yoked Plowbeast
+1 Vivid Revival
+1 World at War
+1 Weapon Surge
+1 Twisted Fealty
+1 Wooden Sphere
+1 Urza's Bauble
+1 Urza's Blueprints
+1 Waves of Aggression
+1 Viridian Revel
+1 Wipe Clean
+1 Unquenchable Fury
+1 Turf War
+1 Vinesoul Spider
+1 Wyll of the Celestial Pact
+1 Wolf-Skull Shaman
+1 Trove of Temptation
+1 Urza Assembles the Titans
+1 Vaultbreaker
+1 Wedding Ring
+{'overall': '5', 'cmc': 3.5074626865671643, 'ramp': '9', 'draw': '18', 'interaction': 8}

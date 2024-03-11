@@ -1,0 +1,69 @@
+1 Brigid, Hero of Kinsbaile
+1 Vial of Dragonfire
+1 Whalebone Glider
+1 Zhalfirin Knight
+1 Veteran's Reflexes
+1 Swift Response
+1 Words of Worship
+1 Training Drone
+1 Wedding Invitation
+1 White Plume Adventurer
+1 Throne of the God-Pharaoh
+1 Unassuming Sage
+1 The Lux Foundation Library
+1 Shatter the Sky
+1 Vampire Slayer
+1 The Dead Shall Serve
+1 Wall of Shields
+1 Skeleton Key
+1 Sphere of Grace
+1 Time to Reflect
+1 Urza's Armor
+1 Weight of Conscience
+1 Stoic Champion
+1 Youthful Knight
+1 Sword of Feast and Famine
+1 Specter's Shroud
+1 Tormod's Cryptkeeper
+1 Thundersteel Colossus
+1 Weight Advantage
+1 Sune's Intervention
+1 Wave of Reckoning
+1 Unholy Citadel
+1 Whirling Catapult
+1 Wingmate Roc
+1 Summary Judgment
+1 Truce
+1 Wings of Hubris
+1 Vigil for the Lost
+1 Sword of Once and Future
+1 Taranika, Akroan Veteran
+1 Sphere of Duty
+1 Urgent Exorcism
+1 Sylvok Lifestaff
+1 Street Sweeper
+1 Urza's Engine
+1 True Conviction
+1 Sundering Fork
+1 Wild Aesthir
+1 Sungold Barrage
+1 Winds of Rath
+1 Stormwild Capridor
+1 Traveling Minister
+1 Untethered Express
+1 Commander's Sphere
+1 Wand of Denial
+1 Valor
+1 Sword of Forge and Frontier
+1 Suspicious Bookcase
+1 Ulamog, the Infinite Gyre
+1 Sword of Hearth and Home
+1 Sunfire Balm
+1 When We Were Young
+1 Warning
+1 Umezawa's Jitte
+1 The Protector
+1 Tezzeret's Simulacrum
+1 Tegan Jovanka
+1 Topple
+{'overall': '3', 'cmc': 2.911764705882353, 'ramp': '2', 'draw': '7', 'interaction': 14}

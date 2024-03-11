@@ -58,7 +58,7 @@
 1 Scepter of Fugue
 1 Dread Rider
 1 Nezumi Shortfang // Stabwhisker the Odious
-1 Nezumi Shortfang // Stabwhisker the Odious
+
 1 A-Cosmos Elixir
 1 Starving Revenant
 1 Shadowfeed
@@ -83,7 +83,7 @@
 1 Graveyard Shovel
 1 Stinging Cave Crawler
 1 Cosmos Elixir
-1 Oath of Lim-Dûl
+1 Oath of Lim-Dul
 1 Lich's Mastery
 1 Raiders' Wake
 1 Ob Nixilis Reignited
@@ -98,4 +98,4 @@
 1 Court of Ambition
 1 Dogged Pursuit
 1 Egon, God of Death // Throne of Death
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.40, 'ramp': '0', 'draw': '30', 'interaction': 2}

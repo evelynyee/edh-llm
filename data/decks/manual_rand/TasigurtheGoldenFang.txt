@@ -1,0 +1,69 @@
+1 Tasigur, the Golden Fang
+1 Treasure Cruise
+1 Tuinvale Treefolk // Oaken Boon
+1 Watchful Automaton
+1 Xanathar, Guild Kingpin
+1 Vessel of Paramnesia
+1 Unearth
+1 Wooded Foothills
+1 Wildwood Escort
+1 When Will You Learn?
+1 Yuriko, the Tiger's Shadow
+1 Yawgmoth's Will
+1 Zombify
+1 Tormod's Crypt
+1 _____
+1 Uchbenbak, the Great Mistake
+1 Tasigur's Cruelty
+1 Vineshaper Prodigy
+1 Tombfire
+1 Wandering Archaic // Explore the Vastlands
+1 Go for the Throat
+1 Sol Ring
+1 Uba Mask
+1 The Ancient One
+1 Visions of Dread
+1 Viscera Seer
+1 Will Kenrith
+1 Wizard Class
+1 Wail of the Forgotten
+1 Tizerus Charger
+1 Woe Strider
+1 Verdant Mastery
+1 Unmake the Graves
+1 Vhal, Eager Scholar
+1 Wistful Thinking
+1 Warlock Class
+1 Whispers of Emrakul
+1 Warzone Duplicator
+1 Zombie Scavengers
+1 Vedalken Mastermind
+1 Undead Gladiator
+1 Victimize
+1 Young Blue Dragon // Sand Augury
+1 Surgical Extraction
+1 Whisper Agent
+1 Watchers of the Dead
+1 Wretched Confluence
+1 Wasteland Strangler
+1 Wizard's Retort
+1 Thran Temporal Gateway
+1 Volrath's Stronghold
+1 Word of Command
+1 Time Reversal
+1 Unholy Grotto
+1 Waking Nightmare
+1 Urborg Repossession
+1 X
+1 Mind Stone
+1 Wizened Snitches
+1 Windcaller Aven
+1 Visions of Duplicity
+1 Vivien, Monsters' Advocate
+1 Vessel of Endless Rest
+1 Very Cryptic Command
+1 Urza, Lord High Artificer
+1 Timmerian Fiends
+1 Tithing Blade // Consuming Sepulcher
+1 Umbris, Fear Manifest
+{'overall': '5', 'cmc': 3.283582089552239, 'ramp': '6', 'draw': '20', 'interaction': 2}

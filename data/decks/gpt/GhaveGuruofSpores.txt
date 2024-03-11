@@ -63,10 +63,4 @@
 1 Vulturous Zombie
 1 Titania's Boon
 1 Whisperer of the Wilds
-{'overall': '7', 'cmc': 3.2615384615384615, 'ramp': '11', 'draw': '9', 'interaction': 7}1 Vivien, Monsters' Advocate
-1 Ursine Fylgja
-1 Sol Ring
-1 Zulaport Cutthroat
-01 Vorinclex, Monstrous Raider
-1 Path to Exile
-1 Vastwood Hydra
+{'overall': '7', 'cmc': 3.2615384615384615, 'ramp': '11', 'draw': '9', 'interaction': 7}

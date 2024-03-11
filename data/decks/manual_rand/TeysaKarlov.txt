@@ -1,0 +1,69 @@
+1 Teysa Karlov
+1 The Drum, Mining Facility
+1 Xun Yu, Wei Advisor
+1 Take Heart
+1 Voracious Vermin
+1 Warg Rider
+1 War Barge
+1 Xenic Poltergeist
+1 Warehouse Tabby
+1 Smothering Tithe
+1 Tenza, Godo's Maul
+1 Warmonger's Chariot
+1 Wurmcoil Engine
+1 Tidy Conclusion
+1 Stromkirk Bloodthief
+1 Warteye Witch
+1 The Meathook Massacre
+1 Wedding Announcement // Wedding Festivity
+1 T.A.P.P.E.R.
+1 Windbrisk Raptor
+1 Sol Ring
+1 The Dining Car
+1 White Dragon
+1 The Torment of Gollum
+1 Valorous Charge
+1 War Oracle
+1 Stave Off
+1 Will-Forged Golem
+1 Animate Dead
+1 Unified Front
+1 Surge of Salvation
+1 Zulaport Chainmage
+1 Wandering Archaic // Explore the Vastlands
+1 Zelyon Sword
+1 Zhalfirin Lancer
+1 Valor's Reach
+1 Valor Made Real
+1 Vanguard of Brimaz
+1 Sworn to the Legion
+1 Vampire's Bite
+1 Diabolic Tutor
+1 Strongarm Monk
+1 Zealous Strike
+1 Thorntooth Witch
+1 Vulshok Battlegear
+1 Spirit Bonds
+1 Teferi's Protection
+1 Veil of Assimilation
+1 Valkyrie's Sword
+1 Steadfast Unicorn
+1 The Avenger
+1 Yotian Medic
+1 Zealous Persecution
+1 Vampire Bats
+1 Xiahou Dun, the One-Eyed
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Victory's Herald
+1 Ward of Bones
+1 Taranika, Akroan Veteran
+1 Thunderstaff
+1 Trained Caracal
+1 Venerated Loxodon
+1 Worship
+1 Timely Reinforcements
+1 Tethered Skirge
+1 Vraska, Scheming Gorgon
+1 Thallid Omnivore
+1 Steppe Glider
+{'overall': '4', 'cmc': 3.176470588235294, 'ramp': '3', 'draw': '2', 'interaction': 4}

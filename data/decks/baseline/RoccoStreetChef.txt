@@ -58,7 +58,7 @@
 1 Whisperwood Elemental
 1 Killer Instinct
 1 Arms Race
-1 Séance
+1 Seance
 1 Dogmeat, Ever Loyal
 1 Horn of Plenty
 1 Redcap Gutter-Dweller
@@ -98,4 +98,4 @@
 1 Keeper of the Accord
 1 Karn, Scion of Urza
 1 Robo-
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '4', 'cmc': 3.30, 'ramp': '5', 'draw': '22', 'interaction': 8}

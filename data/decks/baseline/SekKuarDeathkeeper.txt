@@ -72,7 +72,7 @@
 1 Dwynen's Elite
 1 Debtors' Transport
 1 Blightreaper Thallid // Blightsower Thallid
-1 Andúril, Flame of the West
+1 Anduril, Flame of the West
 1 Forbidden Friendship
 1 Tuktuk the Explorer
 1 Howl of the Night Pack
@@ -98,4 +98,4 @@
 1 Prowess of the Fair
 1 Conscripted Infantry
 1 Thrash // Threat
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 4.03, 'ramp': '1', 'draw': '0', 'interaction': 5}

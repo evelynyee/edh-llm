@@ -1,0 +1,69 @@
+1 Mavren Fein, Dusk Apostle
+1 Seraphic Greatsword
+1 Sol Ring
+1 Wyrm's Crossing Patrol
+1 Squad Commander
+1 Take Up Arms
+1 Vanguard of Brimaz
+1 Sun Sentinel
+1 Valorous Stance
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Staff of the Flame Magus
+1 Stone Haven Outfitter
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Vigilance
+1 Sundering Fork
+1 Weight of Conscience
+1 Victory's Herald
+1 Warden of the Beyond
+1 The Warmonger
+1 Xenagos's Scorn
+1 Stonehewer Giant Avatar
+1 Touchstone
+1 Thirsting Axe
+1 Worthy Knight
+1 Windborn Muse
+1 Watchful Giant
+1 Zhalfirin Commander
+1 Usher of the Fallen
+1 Valiant Rescuer
+1 Water Gun Balloon Game
+1 Twilight Drover
+1 Thundersteel Colossus
+1 Slayer's Plate
+1 The Hive
+1 Wall of Light
+1 Thunderhawk Gunship
+1 The Superlatorium
+1 Summoning Station
+1 Team Pennant
+1 Thousand Moons Crackshot
+1 UNIT Headquarters
+1 Zealot's Conviction
+1 Tivadar of Thorn
+1 The Iron Guardian Stirs
+1 Tezzeret's Strider
+1 Syndicate Messenger
+1 Swift Reconfiguration
+1 Sungrace Pegasus
+1 Tegan Jovanka
+1 Wand of the Elements
+1 Spellbook Vendor
+1 Static Net
+1 Spirit Weaver
+1 Threefold Thunderhulk
+1 Venerated Loxodon
+1 Sword of Dungeons & Dragons
+1 Zhalfirin Crusader
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Tempered Steel
+1 Soul Separator
+1 Tabaxi Toucaneers
+1 Suntail Hawk
+1 Veteran Swordsmith
+1 Sune's Intervention
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Topple
+1 Wrath of God
+1 Storm Herd
+{'overall': '5', 'cmc': 2.925373134328358, 'ramp': '3', 'draw': '2', 'interaction': 6}

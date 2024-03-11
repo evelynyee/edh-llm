@@ -1,0 +1,69 @@
+1 Kefnet the Mindful
+1 Thought Courier
+1 Temporal Mastery
+1 Trinket Mage
+1 Thought-Knot Seer
+1 Voltaic Key
+1 The Destined
+1 Wall of Forgotten Pharaohs
+1 Words of Wisdom
+1 Thalakos Scout
+1 Teferi, Master of Time
+1 Wayward Soul
+1 Force of Will
+1 Soratami Savant
+1 _____ _____ _____ Trespasser
+1 The Harvester
+1 Trash Bin
+1 Tazeem
+1 Worry Beads
+1 Well of Ideas
+1 Wormfang Newt
+1 Synthesis Pod
+1 Vessel of Paramnesia
+1 Sword Coast Serpent // Capsizing Wave
+1 Welcome to the Fold
+1 Surge Engine
+1 Wormfang Turtle
+1 Soratami Cloudskater
+1 Sun Ce, Young Conquerer
+1 Wretched Gryff
+1 Wu Warship
+1 Wu Spy
+1 Winter Eladrin
+1 Teferi's Isle
+1 Unwinding Clock
+1 Urza's Construction Drone
+1 Trade Routes
+1 Wind Zendikon
+1 Timestream Navigator
+1 Wall of Frost
+1 Waker of Waves
+1 Trove Tracker
+1 Windrider Wizard
+1 Commander's Sphere
+1 War Barge
+1 Sliptide Serpent
+1 _____
+1 Mana Vault
+1 Mana Crypt
+1 Tenacious Tomeseeker
+1 Stern Lesson
+1 Witness the Future
+1 Venser, Shaper Savant
+1 Voltaic Construct
+1 Void Stalker
+1 Sleep of the Dead
+1 Wandering Archaic // Explore the Vastlands
+1 Wharf Infiltrator
+1 Tide Skimmer
+1 Undo
+1 Volatile Fault
+1 Whim of Volrath
+1 The Enigma Jewel // Locus of Enlightenment
+1 Voidmage Prodigy
+1 Very Cryptic Command
+1 Windriddle Palaces
+1 Very Cryptic Command
+1 Swallow the Hero Whole
+{'overall': '6', 'cmc': 2.8656716417910446, 'ramp': '7', 'draw': '23', 'interaction': 2}

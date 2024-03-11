@@ -1,0 +1,69 @@
+1 Tom Bombadil
+1 Worldspine Wurm
+1 Vivien's Grizzly
+1 Yennett, Cryptic Sovereign
+1 Yisan, the Wanderer Bard
+1 Wizened Snitches
+1 Xanathar, Guild Kingpin
+1 Wormfang Newt
+1 Yawgmoth's Agenda
+1 Whirlpool Warrior
+1 Wand of Wonder
+1 _____-o-saurus
+1 Wretched Confluence
+1 Worldfire
+1 Zndrsplt, Eye of Wisdom
+1 Wish
+1 Visions of Beyond
+1 Unpredictable Cyclone
+1 Winter Eladrin
+1 Yawgmoth's Testament
+1 Undercity Informer
+1 Waterspout Weavers
+1 Wiretapping
+1 Undead Butler
+1 Unmarked Grave
+1 Wormfang Crab
+1 Valakut Awakening // Valakut Stoneforge
+1 Warren Instigator
+1 Wrench-Rigger
+1 Tithe
+1 Wreck and Rebuild
+1 Werebear
+1 Wheel of Sun and Moon
+1 Tishana's Wayfinder
+1 Wistful Thinking
+1 Transmogrify
+1 Witness the Future
+1 Winds of Rebuke
+1 Wanderer's Twig
+1 Urborg Panther
+1 Tribute Mage
+1 Wayfarer's Bauble
+1 Visage of Dread // Dread Osseosaur
+1 Witch-king, Sky Scourge
+1 Vivien's Talent
+1 Whims of the Fates
+1 Trivia Contest
+1 Vivien's Arkbow
+1 Ziatora's Envoy
+1 Verdant Catacombs
+1 Wilfred Mott
+1 Vessel of Paramnesia
+1 Ulamog's Despoiler
+1 Vastwood Surge
+1 Wall of Lost Thoughts
+1 Uncage the Menagerie
+1 Yuki-Onna
+1 Yavimaya Dryad
+1 Witch's Cottage
+1 Timestream Navigator
+1 Tower Geist
+1 Unexpectedly Absent
+1 Verge Rangers
+1 Trove Mage
+1 Zimone, Quandrix Prodigy
+1 Watchful Automaton
+1 World Queller
+1 Zareth San, the Trickster
+{'overall': '6', 'cmc': 3.3676470588235294, 'ramp': '8', 'draw': '21', 'interaction': 3}

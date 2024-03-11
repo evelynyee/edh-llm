@@ -1,0 +1,69 @@
+1 Kamiz, Obscura Oculus
+1 Warzone Duplicator
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Wretched Banquet
+1 Walking Skyscraper
+1 Force of Negation
+1 Touch of Invisibility
+1 Xathrid Gorgon
+1 Wintermoor Commander
+1 White Scarab
+1 Wall of Caltrops
+1 Woebearer
+1 Diabolic Tutor
+1 Xathrid Slyblade
+1 Witch's Mist
+1 Wanderer's Intervention
+1 Valiant Farewell
+1 Zhalfirin Decoy
+1 Turbo-Thwacking Auto-Hammer
+1 Traitor's Clutch
+1 Mind Stone
+1 Wing Commando
+1 White Knight
+1 Twisted Reflection
+1 The Flood of Mars
+1 Toshiro Umezawa
+1 _____ _____ Rocketship
+1 Xander's Wake
+1 Vectis Gloves
+1 Warped Researcher
+1 Triton Tactics
+1 Vanquish
+1 Warped Physique
+1 Toymaker
+1 Urza, Planeswalker
+1 Zombie Cannibal
+1 Whispersteel Dagger
+1 When Fluffy Bunnies Attack
+1 The Warrior
+1 Tawnos's Wand
+1 Wave of Rats
+1 Taranika, Akroan Veteran
+1 Zodiac Pig
+1 Virtue of Loyalty // Ardenvale Fealty
+1 You See a Guard Approach
+1 Wolfhunter's Quiver
+1 Thundering Chariot
+1 Wei Night Raiders
+1 Wall of Blood
+1 Vodalian Knights
+1 Weight of Conscience
+1 Xun Yu, Wei Advisor
+1 Vanquisher's Axe
+1 Unbreakable Formation
+1 Unctus's Retrofitter
+1 Teferi, Timeless Voyager
+1 Your Temple Is Under Attack
+1 Thornbite Staff
+1 Time to Reflect
+1 Thieving Magpie
+1 Undying Malice
+1 Xenk, Paladin Unbroken
+1 Vampire Bats
+1 Voidwalk
+1 Very Cryptic Command
+1 Topaz Dragon // Entropic Cloud
+1 Trespasser il-Vec
+1 Zhalfirin Knight
+{'overall': '4', 'cmc': 3.0441176470588234, 'ramp': '1', 'draw': '10', 'interaction': 13}
