@@ -1,0 +1,64 @@
+1 Shu Yun, the Silent Tempest
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Slip Through Space
+1 Jeskai Ascendancy
+1 Whirlwind of Thought
+1 Mystic Monastery
+1 Swords to Plowshares
+1 Distortion Strike
+1 Shadow Rift
+1 Artful Dodge
+1 Brainstorm
+1 Izzet Signet
+1 Expedite
+1 Boros Signet
+1 Swiftfoot Boots
+1 Azorius Signet
+1 Gods Willing
+1 Aqueous Form
+1 Opt
+1 Titan's Strength
+1 Unleash Fury
+1 Emerge Unscathed
+1 Fists of Flame
+1 Monastery Mentor
+1 Feather, the Redeemed
+1 Defiant Strike
+1 Reckless Charge
+1 Leap
+1 Shelter
+1 Brute Force
+1 Ponder
+1 Preordain
+1 Boros Charm
+1 Hallowed Fountain
+1 Steam Vents
+1 Path to Exile
+1 Exotic Orchard
+1 Rogue's Passage
+1 Counterspell
+1 Shivan Reef
+1 Sacred Foundry
+1 Talisman of Creativity
+1 Elsha of the Infinite
+1 Archmage Emeritus
+1 Sulfur Falls
+1 Evolving Wilds
+1 Crash Through
+1 Storm-Kiln Artist
+1 Raugrin Triome
+1 Runechanter's Pike
+1 Frantic Search
+1 Glacial Fortress
+1 Faithless Looting
+1 Battlefield Forge
+1 Valorous Stance
+1 Talisman of Conviction
+1 Infuriate
+1 Young Pyromancer
+1 Clifftop Retreat
+1 Sunforger
+1 Terramorphic Expanse
+{'overall': '6', 'cmc': 1.3968253968253967, 'ramp': '8', 'draw': '18', 'interaction': 5}

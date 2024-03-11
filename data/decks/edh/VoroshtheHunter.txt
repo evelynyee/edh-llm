@@ -1,0 +1,64 @@
+1 Vorosh, the Hunter
+1 Command Tower
+1 Sol Ring
+1 Cultivate
+1 Corpsejack Menace
+1 Opulent Palace
+1 Arcane Signet
+1 Rampant Growth
+1 Swiftfoot Boots
+1 Kodama's Reach
+1 Forgotten Ancient
+1 Vorel of the Hull Clade
+1 Plaxcaster Frogling
+1 Counterspell
+1 Herald of Secret Streams
+1 Rogue's Passage
+1 Bred for the Hunt
+1 Zagoth Triome
+1 Necropolis Regent
+1 Beast Within
+1 Farseek
+1 Negate
+1 Breeding Pool
+1 Putrefy
+1 Exotic Orchard
+1 Fireshrieker
+1 Overgrown Tomb
+1 Master Biomancer
+1 Watery Grave
+1 Hydra's Growth
+1 Inspiring Call
+1 Winding Constrictor
+1 Simic Ascendancy
+1 Fathom Mage
+1 Hardened Scales
+1 Simic Signet
+1 Hagra Constrictor
+1 Evolving Wilds
+1 Evolution Sage
+1 Growth Spiral
+1 Simic Growth Chamber
+1 The Ozolith
+1 Lightning Greaves
+1 Golgari Signet
+1 Fertilid
+1 Thrummingbird
+1 Sakura-Tribe Elder
+1 Tuskguard Captain
+1 Terramorphic Expanse
+1 Tanazir Quandrix
+1 Sultai Charm
+1 Vigor
+1 Nature's Lore
+1 Aqueous Form
+1 Golgari Rot Farm
+1 Bojuka Bog
+1 Dimir Aqueduct
+1 Reliquary Tower
+1 Dimir Signet
+1 Yavimaya Coast
+1 Llanowar Wastes
+1 Three Visits
+1 Zegana, Utopian Speaker
+{'overall': '6', 'cmc': 2.0634920634920637, 'ramp': '14', 'draw': '8', 'interaction': 5}

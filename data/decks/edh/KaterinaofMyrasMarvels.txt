@@ -1,0 +1,64 @@
+1 Katerina of Myra's Marvels
+1 Karn, Legacy Reforged
+1 Kelsinko Ranger
+1 Keen-Eyed Archers
+1 Keldon Battlewagon
+1 Keeper of the Light
+1 Keeper of the Lens
+1 Kabira Outrider
+1 Kami of Tattered Shoji
+1 Karona's Zealot
+1 Keepers of the Faith
+1 Kabuto Moth
+1 Kabira Evangel
+1 Kami of the Painted Road
+1 Auriok Transfixer
+1 Cliffside Lookout
+1 Armored Warhorse
+1 Chrome Cat
+1 Abzan Skycaptain
+1 Coalition Honor Guard
+1 Kazandu Blademaster
+1 Auriok Replica
+1 Campus Guide
+1 Keensight Mentor
+1 Kalemne's Captain
+1 Avenger en-Dal
+1 Alabaster Mage
+1 Charmed Stray
+1 Kami of the Palace Fields
+1 Karn, Silver Golem
+1 Kemba's Legion
+1 Kemba's Skyguard
+1 Kami of the Honored Dead
+1 Kabira Vindicator
+1 Keening Apparition
+1 Cubwarden
+1 Canyon Jerboa
+1 Kentaro, the Smiling Cat
+1 Keen-Eared Sentry
+1 Kami of Old Stone
+1 Ajani's Sunstriker
+1 Celebrity Fencer
+1 Kami of Ancient Law
+1 Custodi Soulbinders
+1 Keleth, Sunmane Familiar
+1 Kangee's Lieutenant
+1 Consul's Lieutenant
+1 Chaplain of Alms
+1 Crusader of Odric
+1 Kataki, War's Wage
+1 Angelic Guardian
+1 Army of Allah
+1 Chain of Silence
+1 Change of Heart
+1 Artful Maneuver
+1 Collar the Culprit
+1 Aerial Maneuver
+1 Avenging Arrow
+1 Channel Harm
+1 Candles' Glow
+1 Choking Fumes
+1 Astral Steel
+1 Aerial Boost
+{'overall': '2', 'cmc': 3.126984126984127, 'ramp': '2', 'draw': '1', 'interaction': 4}

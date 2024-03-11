@@ -1,0 +1,64 @@
+1 Brigid, Hero of Kinsbaile
+1 Sol Ring
+1 Basilisk Collar
+1 Swords to Plowshares
+1 Gorgon's Head
+1 Ballyrush Banneret
+1 Wizened Cenn
+1 Militia's Pride
+1 Path to Exile
+1 Kinsbaile Borderguard
+1 Kithkin Harbinger
+1 Gorgon Flail
+1 Order of Whiteclay
+1 Patrol Signaler
+1 Kithkin Rabble
+1 Thoughtweft Trio
+1 Mistmeadow Skulk
+1 Springjack Shepherd
+1 Goldmeadow Harrier
+1 Cenn's Heir
+1 Knight of Meadowgrain
+1 Ballynock Trapper
+1 Cenn's Tactician
+1 Preeminent Captain
+1 Open the Armory
+1 Emeria, the Sky Ruin
+1 Galepowder Mage
+1 Arcane Signet
+1 Surge of Thoughtweft
+1 Generous Gift
+1 Swiftfoot Boots
+1 Knight of the White Orchid
+1 Goldmeadow Stalwart
+1 Rustic Clachan
+1 Mentor of the Meek
+1 Goldmeadow Dodger
+1 Ballynock Cohort
+1 Sun Titan
+1 Order of the Golden Cricket
+1 Unbreakable Formation
+1 Quietus Spike
+1 Honor of the Pure
+1 Kithkin Spellduster
+1 Mind Stone
+1 Kithkin Zephyrnaut
+1 Mirror Entity
+1 Austere Command
+1 Thousand-Year Elixir
+1 Return to Dust
+1 Windbrisk Heights
+1 Cenn's Enlistment
+1 Nemesis Mask
+1 Marble Diamond
+1 Kinsbaile Balloonist
+1 Cut a Deal
+1 War Room
+1 Oketra's Monument
+1 Kusari-Gama
+1 Myriad Landscape
+1 Amrou Kithkin
+1 Mass Calcify
+1 Your Temple Is Under Attack
+1 Goldmeadow Lookout
+{'overall': '5', 'cmc': 2.5396825396825395, 'ramp': '6', 'draw': '6', 'interaction': 10}

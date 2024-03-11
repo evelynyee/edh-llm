@@ -1,0 +1,64 @@
+1 Krav, the Unredeemed
+1 Zulaport Cutthroat
+1 Sol Ring
+1 Arcane Signet
+1 Feed the Swarm
+1 Thought Vessel
+1 Pitiless Plunderer
+1 Bastion of Remembrance
+1 Reassembling Skeleton
+1 Blood Artist
+1 Rise of the Dread Marn
+1 Endrek Sahr, Master Breeder
+1 Dreadhorde Invasion
+1 Black Market
+1 Ophiomancer
+1 Dark Ritual
+1 Myriad Landscape
+1 Grim Haruspex
+1 Ogre Slumlord
+1 Charcoal Diamond
+1 Cabal Stronghold
+1 Jadar, Ghoulcaller of Nephalia
+1 Vindictive Vampire
+1 Pawn of Ulamog
+1 Tragic Slip
+1 Syr Konrad, the Grim
+1 Crypt Ghast
+1 Bojuka Bog
+1 Grave Titan
+1 Butcher of Malakir
+1 Gray Merchant of Asphodel
+1 Cabal Coffers
+1 Mind Stone
+1 Falkenrath Noble
+1 Midnight Reaper
+1 Viscera Seer
+1 Solemn Simulacrum
+1 Defile
+1 Swiftfoot Boots
+1 Phyrexian Reclamation
+1 Persistent Specimen
+1 Morbid Opportunist
+1 Sengir Autocrat
+1 Sifter of Skulls
+1 Vito, Thorn of the Dusk Rose
+1 Ayara, First of Locthwain
+1 Victimize
+1 Mutilate
+1 Toxic Deluge
+1 Skullclamp
+1 Bontu's Monument
+1 Jet Medallion
+1 Reliquary Tower
+1 Lolth, Spider Queen
+1 Witch of the Moors
+1 Plaguecrafter
+1 Demonic Tutor
+1 Animate Dead
+1 Liliana, Dreadhorde General
+1 Witch's Cottage
+1 Fellwar Stone
+1 Infernal Grasp
+1 Crowded Crypt
+{'overall': '9', 'cmc': 2.746031746031746, 'ramp': '15', 'draw': '10', 'interaction': 5}

@@ -1,0 +1,64 @@
+1 Rayami, First of the Fallen
+1 Command Tower
+1 Stonecoil Serpent
+1 Sol Ring
+1 Gurmag Swiftwing
+1 Bontu the Glorified
+1 Nightveil Predator
+1 Leyline Prowler
+1 Opulent Palace
+1 Arcane Signet
+1 Vampire Nighthawk
+1 Baleful Strix
+1 Banehound
+1 Kefnet the Mindful
+1 Neoform
+1 Cultivate
+1 Village Rites
+1 Evolutionary Leap
+1 Wilson, Refined Grizzly
+1 Blackblade Reforged
+1 Slippery Bogle
+1 Nighthawk Scavenger
+1 Exotic Orchard
+1 Cerulean Drake
+1 Mirri the Cursed
+1 High Market
+1 Viscera Seer
+1 Rampant Growth
+1 Darksteel Myr
+1 Mulldrifter
+1 Rogue's Passage
+1 Beast Within
+1 Deadly Dispute
+1 Rhonas the Indomitable
+1 Venomthrope
+1 Black Knight
+1 Harbinger of Spring
+1 Vampire of the Dire Moon
+1 Primal Growth
+1 Sylvan Caryatid
+1 Bassara Tower Archer
+1 Evolving Wilds
+1 Zagoth Triome
+1 Sunken Hollow
+1 Gladecover Scout
+1 Farseek
+1 Great Sable Stag
+1 Vampiric Rites
+1 Fireshrieker
+1 Overgrown Tomb
+1 Putrefy
+1 Kodama's Reach
+1 Prime Speaker Vannifar
+1 Watery Grave
+1 Questing Beast
+1 Fell Stinger
+1 Terramorphic Expanse
+1 Breeding Pool
+1 Yavimaya Coast
+1 Reckoner's Bargain
+1 Bojuka Bog
+1 Llanowar Wastes
+1 Sultai Charm
+{'overall': '7', 'cmc': 1.8888888888888888, 'ramp': '10', 'draw': '12', 'interaction': 5}

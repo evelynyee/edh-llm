@@ -1,0 +1,64 @@
+1 King Macar, the Gold-Cursed
+1 Mobile Garrison
+1 Sol Ring
+1 Springleaf Drum
+1 Marionette Master
+1 Puppet Strings
+1 Disciple of the Vault
+1 Clock of Omens
+1 Liquimetal Torque
+1 Smuggler's Copter
+1 Survivors' Encampment
+1 Pain Seer
+1 Holdout Settlement
+1 Swiftfoot Boots
+1 Silverskin Armor
+1 Thousand-Year Elixir
+1 Servant of Tymaret
+1 Sword of the Paruns
+1 Honor-Worn Shaku
+1 Patriar's Seal
+1 Underhanded Designs
+1 Cranial Plating
+1 Sign in Blood
+1 Feed the Swarm
+1 Deadly Dispute
+1 Night Market Lookout
+1 Bojuka Bog
+1 Paradise Mantle
+1 Foundry Inspector
+1 Crypt Ghast
+1 Umbral Mantle
+1 Buried Ruin
+1 Cabal Coffers
+1 Manifold Key
+1 Costly Plunder
+1 Voltaic Servant
+1 Herald of Anguish
+1 Leaden Myr
+1 Inspiring Statuary
+1 Staff of Domination
+1 Cabal Stronghold
+1 Magus of the Coffers
+1 Unwinding Clock
+1 Gray Merchant of Asphodel
+1 Solemn Simulacrum
+1 Greed
+1 Arcane Signet
+1 Nadier's Nightblade
+1 Fortuitous Find
+1 Cultivator's Caravan
+1 Voltaic Key
+1 Relic of Legends
+1 Read the Bones
+1 Exsanguinate
+1 Trading Post
+1 Inventors' Fair
+1 Vault of Whispers
+1 Dark Ritual
+1 Mind Stone
+1 Defile
+1 Torment of Hailfire
+1 Jandor's Saddlebags
+1 Battle at the Bridge
+{'overall': '7', 'cmc': 2.3015873015873014, 'ramp': '17', 'draw': '12', 'interaction': 4}

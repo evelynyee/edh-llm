@@ -1,0 +1,64 @@
+1 The Master, Formed Anew
+1 Arcane Signet
+1 Command Tower
+1 Dimir Signet
+1 Talisman of Dominance
+1 Sol Ring
+1 Sunken Hollow
+1 Solemn Simulacrum
+1 Mind Stone
+1 Drowned Catacomb
+1 Thassa, Deep-Dwelling
+1 Counterspell
+1 Hostage Taker
+1 Thought Vessel
+1 Fellwar Stone
+1 Shipwreck Marsh
+1 Choked Estuary
+1 Tainted Isle
+1 Crystal Shard
+1 Bojuka Bog
+1 Darkwater Catacombs
+1 Snap
+1 Baleful Strix
+1 Sanctum of Eternity
+1 Underground River
+1 Panharmonicon
+1 Watery Grave
+1 Feed the Swarm
+1 Candlekeep Sage
+1 Deadeye Navigator
+1 Scroll of Fate
+1 Massacre Wurm
+1 Morphic Pool
+1 Agent of Treachery
+1 Exotic Orchard
+1 Auton Soldier
+1 Ghostly Flicker
+1 Animate Dead
+1 Familiar's Ruse
+1 Gray Merchant of Asphodel
+1 Sower of Temptation
+1 Conjurer's Closet
+1 Dimir Aqueduct
+1 Callidus Assassin
+1 Essence Flux
+1 Ravenous Chupacabra
+1 Temple of Deceit
+1 Run Away Together
+1 Sepulchral Primordial
+1 Cavern Harpy
+1 Puppeteer Clique
+1 Displacer Kitten
+1 Reanimate
+1 Myriad Landscape
+1 Ertai Resurrected
+1 Curfew
+1 Reliquary Tower
+1 Virtue of Knowledge
+1 Aether Channeler
+1 Leyline of Anticipation
+1 Peregrine Drake
+1 Arcane Denial
+1 Massacre Girl
+{'overall': '6', 'cmc': 2.492063492063492, 'ramp': '8', 'draw': '8', 'interaction': 8}

@@ -1,0 +1,64 @@
+1 Falthis, Shadowcat Familiar
+1 Sol Ring
+1 Sign in Blood
+1 Arcane Signet
+1 Crippling Fear
+1 Massacre Girl
+1 Tainted Strike
+1 Dark Ritual
+1 Wayfarer's Bauble
+1 Cabal Coffers
+1 Diamond Lion
+1 Entrails Feaster
+1 Hunted Nightmare
+1 Ghostly Changeling
+1 Dreadmalkin
+1 Grimdancer
+1 Black Cat
+1 Cauldron Familiar
+1 Adaptive Automaton
+1 Changeling Outcast
+1 Burnished Hart
+1 Crypt Ghast
+1 Deadly Rollick
+1 Go for the Throat
+1 Beacon of Unrest
+1 Beseech the Queen
+1 Syphon Mind
+1 Diabolic Tutor
+1 Torment of Hailfire
+1 Victimize
+1 Night's Whisper
+1 Read the Bones
+1 Damnation
+1 Mask of Memory
+1 Skullclamp
+1 Bontu's Monument
+1 Intimidation
+1 Cover of Darkness
+1 Oubliette
+1 Black Market
+1 Polluted Mire
+1 Barren Moor
+1 Cabal Stronghold
+1 Caged Sun
+1 Ashiok's Reaper
+1 Wicked Visitor
+1 Gloomfang Mauler
+1 Haunt of the Dead Marshes
+1 Ashcoat of the Shadow Swarm
+1 Instruments of War
+1 The Golden Throne
+1 Chrome Cat
+1 Myrkul's Invoker
+1 Chainflail Centipede
+1 Gibbering Barricade
+1 Angel of Suffering
+1 Dreadhound
+1 Nashi, Moon Sage's Scion
+1 Defiler of Flesh
+1 Morbid Opportunist
+1 Braids, Arisen Nightmare
+1 Infernal Grasp
+1 Their Name Is Death
+{'overall': '5', 'cmc': 2.857142857142857, 'ramp': '11', 'draw': '13', 'interaction': 7}
