@@ -1,0 +1,67 @@
+1 Alandra, Sky Dreamer
+1 Brainstorm
+1 Mana Drain
+1 Cyclonic Rift
+1 Chrome Mox
+1 Zoetic Glyph
+1 Whalebone Glider
+1 Vedalken Blademaster
+1 Tolarian Kraken
+1 Thassa's Bounty
+1 Thopter Spy Network
+1 Spellweaver Eternal
+1 Whirler Rogue
+1 Sword of Feast and Famine
+1 Windfall
+1 Teferi, Master of Time
+1 Ugin, the Spirit Dragon
+1 Mana Vault
+1 Thassa's Emissary
+1 Whirlermaker
+1 Well of Ideas
+1 Wistful Thinking
+1 Zellix, Sanity Flayer
+1 Visions of Beyond
+1 Wurmcoil Engine
+1 Sphinx of Clear Skies
+1 Sword of the Animist
+1 Sol Ring
+1 Sword of the Meek
+1 Trail of Evidence
+1 Thada Adel, Acquisitor
+1 Sphinx's Herald
+1 Storm Elemental
+1 Tamiyo, the Moon Sage
+1 Thought Reflection
+1 Zephyr Charge
+1 Tidal Wave
+1 Whirlpool Drake
+1 Mulldrifter
+1 Treasure Cruise
+1 Teferi, Timeless Voyager
+1 Volo, Itinerant Scholar
+1 Tezzeret's Ambition
+1 Whisk Away
+1 Tezzeret's Gatebreaker
+1 Waterkin Shaman
+1 Vizier of Many Faces
+1 Swan Song
+1 Force of Will
+1 Windreader Sphinx
+1 Tamiyo's Journal
+1 Web of Inertia
+1 Stolen Goods
+1 Tolarian Winds
+1 Wing Commando
+1 Wheel and Deal
+1 Swashbuckler's Whip
+1 Stormsurge Kraken
+1 Zephyr Singer
+1 Teferi, Temporal Pilgrim
+1 Thassa, God of the Sea
+1 Welcome to the Fold
+1 Teferi's Talent
+1 Shark Typhoon
+1 Witness of the Ages
+1 The Immortal Sun
+{'overall': '5', 'cmc': 3.742424242424242, 'ramp': '4', 'draw': '32', 'interaction': 5}

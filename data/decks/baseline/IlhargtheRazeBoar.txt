@@ -1,0 +1,101 @@
+1 Ilharg, the Raze-Boar
+1 Thawing Glaciers
+1 Safe Haven
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Summoner's Egg
+1 Quicksilver Amulet
+1 Leashling
+1 Valakut Exploration
+1 Pendant of Prosperity
+1 Dragon Arch
+1 Khorvath Brightflame
+1 Search for Survivors
+1 Knowledge Vault
+1 Gustha's Scepter
+1 Zodiac Dragon
+1 Jester's Scepter
+1 Hoarding Dragon
+1 Skirk Drill Sergeant
+1 Countryside Crusher
+1 Mangara's Tome
+1 Chaos Warp
+1 Junktroller
+1 Fireflux Squad
+1 Swiftgear Drake
+1 Brazen Buccaneers
+1 Didgeridoo
+1 Walking Atlas
+1 Planebound Accomplice
+1 Ecologist's Terrarium
+1 Colfenor's Urn
+1 Shivan Wumpus
+1 Reito Lantern
+1 Phyrexian Archivist
+1 Cogwork Archivist
+1 Kyren Archive
+1 Scaretiller
+1 Triassic Egg
+1 Clone Shell
+1 Salvager of Ruin
+1 Realmbreaker, the Invasion Tree
+1 Gate to the Aether
+1 Industrial Advancement
+1 First Day of Class
+1 Lantern of Revealing
+1 Retriever Phoenix
+1 Rishadan Pawnshop
+1 Transmogrify
+1 Darksteel Colossus // Darksteel Colossus
+1 Darksteel Colossus
+1 Karn Liberated
+1 Gerrard's Hourglass Pendant
+1 The Deck of Many Things
+1 Boldwyr Heavyweights
+1 Copper Gnomes
+1 Blightsteel Colossus // Blightsteel Colossus
+1 Blightsteel Colossus
+1 Feldon's Cane
+1 Pattern Matcher
+1 Furious Rise
+1 Belbe's Portal
+1 Storm Cauldron
+1 Moonring Mirror
+1 Gate to the Afterlife
+1 Dreamshaper Shaman
+1 Guild Feud
+1 Skyship Weatherlight
+1 Cragsmasher Yeti
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

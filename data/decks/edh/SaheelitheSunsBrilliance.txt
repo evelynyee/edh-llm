@@ -1,0 +1,64 @@
+1 Saheeli, the Sun's Brilliance
+1 Sol Ring
+1 Arcane Signet
+1 Command Tower
+1 Solemn Simulacrum
+1 Talisman of Creativity
+1 Izzet Signet
+1 Ichor Wellspring
+1 Shivan Reef
+1 Blasphemous Act
+1 Training Center
+1 Brudiclad, Telchor Engineer
+1 Cursed Mirror
+1 Thought Monitor
+1 Sulfur Falls
+1 Steam Vents
+1 Chaos Warp
+1 Wurmcoil Engine
+1 Counterspell
+1 Myr Battlesphere
+1 Lightning Greaves
+1 Emry, Lurker of the Loch
+1 Seat of the Synod
+1 Great Furnace
+1 Swiftfoot Boots
+1 Intruder Alarm
+1 Goblin Engineer
+1 Stormcarved Coast
+1 Etherium Sculptor
+1 Meteor Golem
+1 Enthusiastic Mechanaut
+1 Idol of Oblivion
+1 Determined Iteration
+1 Silverbluff Bridge
+1 Frostboil Snarl
+1 Cyclonic Rift
+1 Izzet Boilerworks
+1 Sai, Master Thopterist
+1 Goblin Welder
+1 Atsushi, the Blazing Sky
+1 Fellwar Stone
+1 Combustible Gearhulk
+1 An Offer You Can't Refuse
+1 Daretti, Scrap Savant
+1 Triplicate Titan
+1 Scrap Trawler
+1 Mind Stone
+1 Peregrine Drake
+1 Dockside Extortionist
+1 Threefold Thunderhulk
+1 Phyrexian Metamorph
+1 Jhoira, Weatherlight Captain
+1 Battlemage's Bracers
+1 Scalding Tarn
+1 Exotic Orchard
+1 Urza, Lord High Artificer
+1 Sundial of the Infinite
+1 Brass's Tunnel-Grinder
+1 Minamo, School at Water's Edge
+1 Cascade Bluffs
+1 Foundry Inspector
+1 Temple of Epiphany
+1 Arcane Denial
+{'overall': '9', 'cmc': 2.5555555555555554, 'ramp': '11', 'draw': '11', 'interaction': 8}

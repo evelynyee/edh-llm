@@ -1,0 +1,66 @@
+1 Ghalta, Stampede Tyrant
+1 Survival of the Fittest
+1 Green Sun's Zenith
+1 Worldly Tutor
+1 Sylvan Library
+1 Doubling Season
+1 Strength of the Pack
+1 Seedguide Ash
+1 Wildcall
+1 Woodland Champion
+1 Verdant Catacombs
+1 Tarmogoyf
+1 Tilling Treefolk
+1 Thelon's Chant
+1 The Ring Goes South
+1 Workshop Warchief
+1 Sylvan Ranger
+1 Vastwood Surge
+1 Zhalfirin Void
+1 Woodfall Primus
+1 Verdant Haven
+1 Ugin's Conjurant
+1 Silverglade Pathfinder
+1 Thundering Wurm
+1 Turntimber Ascetic
+1 Weatherseed Treefolk
+1 Wirewood Hivemaster
+1 Wren's Run Packmaster
+1 Wren's Run Vanquisher
+1 Verdant Crescendo
+1 Vivien's Invocation
+1 War Room
+1 Vivien, Nature's Avenger
+1 Traverse the Ulvenwald
+1 Vivien Reid
+1 Verdant Mastery
+1 Verdant Sun's Avatar
+1 Skyshroud Claim
+1 Springbloom Druid
+1 Veteran Explorer
+1 Whirling Catapult
+1 Thought-Knot Seer
+1 Viridian Emissary
+1 Wooded Foothills
+1 Vizier of the Menagerie
+1 Verdant Eidolon
+1 Wildgrowth Walker
+1 Viridian Corrupter
+1 Timesifter
+1 Wirewood Symbiote
+1 Trail of Mystery
+1 Zendikar Resurgent
+1 Selvala's Stampede
+1 Wild Growth
+1 Sylvan Tutor
+1 Utopia Sprawl
+1 Wrenn and Seven
+1 Storybook Ride
+1 Turntimber Grove
+1 Wandering Stream
+1 Workhorse
+1 Soulblade Renewer
+1 Witches' Eye
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Venture Forth
+{'overall': '8', 'cmc': 3.2, 'ramp': '18', 'draw': '13', 'interaction': 6}

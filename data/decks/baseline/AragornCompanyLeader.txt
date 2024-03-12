@@ -1,0 +1,101 @@
+1 Aragorn, Company Leader
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Resolute Veggiesaur
+1 Knighted Myr
+1 Branching Evolution
+1 Hunger of the Howlpack
+1 Hardened Scales
+1 Invigorating Surge
+1 Vizier of Remedies
+1 Scavenged Brawler
+1 Mowu, Loyal Companion
+1 Benevolent Hydra
+1 Andúril, Narsil Reforged
+1 Strength of Solidarity
+1 Drillworks Mole
+1 Conclave Mentor
+1 Gavel of the Righteous
+1 Quest for the Gemblades
+1 Enduring Scalelord
+1 Cloaked Cadet
+1 Elder Cathar
+1 Power Conduit
+1 Melira, the Living Cure
+1 River Heralds' Boon
+1 Scale Blessing
+1 Lae'zel, Vlaakith's Champion
+1 Sword of Truth and Justice
+1 Defiant Greatmaw
+1 Overwhelming Encounter
+1 Skyboon Evangelist
+1 Catti-brie of Mithral Hall
+1 Predator Ooze
+1 Myojin of Towering Might
+1 Ichorplate Golem
+1 Reap What Is Sown
+1 Botanical Brawler
+1 Expanded Anatomy
+1 Soulcatchers' Aerie
+1 Necropede
+1 Contractual Safeguard
+1 Beastmaster Ascension
+1 Wildwood Scourge
+1 Immaculate Magistrate
+1 Titania's Boon
+1 Inspiring Roar
+1 Basri's Solidarity
+1 Kavu Predator
+1 Strength of the Pack
+1 Thrive
+1 Woodland Champion
+1 Lifecrafter's Gift
+1 Gird for Battle
+1 Tempt with Glory
+1 Incremental Growth
+1 Rite of Passage
+1 Arcus Acolyte
+1 Dromoka Captain
+1 Serrated Biskelion
+1 Primal Vigor
+1 Umezawa's Jitte
+1 Blade of the Bloodchief
+1 Storyweave
+1 Bellowing Aegisaur
+1 Choking Fumes
+1 Silkguard
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

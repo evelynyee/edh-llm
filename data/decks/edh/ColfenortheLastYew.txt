@@ -1,0 +1,64 @@
+1 Colfenor, the Last Yew
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Cultivate
+1 Viscera Seer
+1 Sakura-Tribe Elder
+1 Sandsteppe Citadel
+1 Indatha Triome
+1 Zulaport Cutthroat
+1 Swords to Plowshares
+1 Exotic Orchard
+1 Overgrown Tomb
+1 Evolving Wilds
+1 Faeburrow Elder
+1 Rampant Growth
+1 Temple Garden
+1 Eternal Witness
+1 Ashnod's Altar
+1 Grim Haruspex
+1 Murmuring Bosk
+1 Godless Shrine
+1 Moldervine Reclamation
+1 Carrion Feeder
+1 Canopy Vista
+1 Farseek
+1 Cruel Celebrant
+1 Syr Konrad, the Grim
+1 Ancient Lumberknot
+1 Reclamation Sage
+1 Kodama's Reach
+1 Terramorphic Expanse
+1 Blood Artist
+1 Willow Geist
+1 Undergrowth Stadium
+1 Beast Whisperer
+1 Doran, the Siege Tower
+1 Eerie Ultimatum
+1 Sapling of Colfenor
+1 Spore Frog
+1 Vault of Champions
+1 Stonecoil Serpent
+1 Farhaven Elf
+1 Tormod, the Desecrator
+1 Beast Within
+1 Three Visits
+1 Solemn Simulacrum
+1 Path to Exile
+1 Yavimaya, Cradle of Growth
+1 Bojuka Bog
+1 Bosk Banneret
+1 Treefolk Harbinger
+1 Nature's Lore
+1 Krosan Verge
+1 Woodland Cemetery
+1 Path of Ancestry
+1 Midnight Reaper
+1 Corpse Knight
+1 Altar of Dementia
+1 Foundation Breaker
+1 Mirari's Wake
+1 Ulvenwald Observer
+1 Hangarback Walker
+{'overall': '9', 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '9', 'interaction': 4}

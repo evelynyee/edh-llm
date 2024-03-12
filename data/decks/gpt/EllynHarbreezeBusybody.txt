@@ -1,0 +1,64 @@
+1 Ellyn Harbreeze, Busybody
+1 Scroll Rack
+1 Sphinx-Bone Wand
+1 Weathered Runestone
+1 Arcane Signet
+1 Vanish into Eternity
+1 Wingsteed Rider
+1 Zhalfirin Void
+1 War Room
+1 Swift Reckoning
+1 Waylay
+1 Victory's Envoy
+1 Zephyrim
+1 Thought-Knot Seer
+1 Vesuva
+1 White Mana Battery
+1 Venerated Loxodon
+1 Swashbuckler's Whip
+1 Ugin's Conjurant
+1 White Plume Adventurer
+1 Sorcerer's Strongbox
+1 Whirling Catapult
+1 Trove Warden
+1 Sunfall
+1 Storybook Ride
+1 Witches' Eye
+1 Uba Mask
+1 Spellbinder
+1 Solitude
+1 Terashi's Grasp
+1 Thought Prison
+1 Sword of Hearth and Home
+1 Vedalken Orrery
+1 Sword of the Animist
+1 Walking Atlas
+1 Trepanation Blade
+1 Stoneforge Mystic
+1 Terminus
+1 Sun Titan
+1 Solemn Simulacrum
+1 Steelshaper's Gift
+1 Sword of War and Peace
+1 Skyclave Apparition
+1 Vengeful Archon
+1 Austere Command
+1 Vizier of Remedies
+1 Shrine of Piercing Vision
+1 Swords to Plowshares
+1 Vedalken Shackles
+1 Well of Lost Dreams
+1 Sun's Bounty
+1 Zealots en-Dal
+1 Whitemane Lion
+1 Treasure Vault
+1 Tablet of the Guilds
+1 Umbilicus
+1 Venser's Journal
+1 Worldslayer
+1 Vengeful Dreams
+1 The Eternal Wanderer
+1 Tormod's Crypt
+1 Scroll of Origins
+1 Winds of Abandon
+{'overall': '6', 'cmc': 3.0476190476190474, 'ramp': '6', 'draw': '12', 'interaction': 10}

@@ -1,0 +1,65 @@
+1 Ertai, Wizard Adept
+1 Whirlwind Denial
+1 Whim of Volrath
+1 Sphinx of Magosi
+1 Wheel and Deal
+1 Voidmage Prodigy
+1 Mulldrifter
+1 Counterspell
+1 Cyclonic Rift
+1 Sol Ring
+1 Stream of Thought
+1 Traumatic Visions
+1 Surtland Elementalist
+1 Trail of Evidence
+1 Zhalfirin Void
+1 War Room
+1 Stormchaser Drake
+1 Venser, Shaper Savant
+1 Thassa's Emissary
+1 Swarm Intelligence
+1 Urza, Lord High Artificer
+1 Wing Commando
+1 Whalebone Glider
+1 Swashbuckler's Whip
+1 Shifting Borders
+1 Unified Will
+1 Teferi, Mage of Zhalfir
+1 Sphinx of Lost Truths
+1 Mana Vault
+1 Venser's Journal
+1 Stormwing Entity
+1 Teferi, Master of Time
+1 Terisian Mindbreaker
+1 Ugin, the Spirit Dragon
+1 Mana Drain
+1 Spell Pierce
+1 Vedalken Blademaster
+1 Wingspan Mentor
+1 The Magic Mirror
+1 Thieving Skydiver
+1 Welcome to the Fold
+1 Teferi's Protege
+1 Turn Aside
+1 Synchronized Eviction
+1 Trinket Mage
+1 Whirling Catapult
+1 Suncrusher
+1 Steelfin Whale
+1 Throne of Makindi
+1 Winter's Chill
+1 Stronghold Biologist
+1 Voidmage Husher
+1 Spellskite
+1 Spiketail Drakeling
+1 Waker of Waves
+1 Pongify
+1 Waterfront Bouncer
+1 Venser's Diffusion
+1 Spell Snuff
+1 Thryx, the Sudden Storm
+1 Volrath's Curse
+1 Warping Wail
+1 Wu Longbowman
+1 Synod Sanctum
+{'overall': '5', 'cmc': 3.359375, 'ramp': '7', 'draw': '18', 'interaction': 16}

@@ -1,0 +1,69 @@
+1 Florian, Voldaren Scion
+1 Tainted Pact
+1 The Cruelty of Gix
+1 Widespread Panic
+1 Torch Song
+1 Valakut Awakening // Valakut Stoneforge
+1 Wall of Tombstones
+1 Walking Atlas
+1 Wire Surgeons
+1 Twilight's Call
+1 Visions of Dread
+1 Worry Beads
+1 Vicious Shadows
+1 Waste Management
+1 Workshop Assistant
+1 Time Reaper
+1 Unburden
+1 Witch's Cottage
+1 Vraska, Betrayal's Sting
+1 Wurm's Tooth
+1 Wit's End
+1 Vindictive Flamestoker
+1 Zombie Cutthroat
+1 Virtue of Persistence // Locthwain Scorn
+1 Underdark Rift
+1 Wand of Ith
+1 Witch-king, Sky Scourge
+1 Tibalt, the Fiend-Blooded
+1 Welding Sparks
+1 Zenith Chronicler
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 You Find Some Prisoners
+1 Underworld Cerberus
+1 Urza's Bauble
+1 Temporal Extortion
+1 Tel-Jilad Stylus
+1 Wasteland Strangler
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Words of Waste
+1 Wild Guess
+1 Village Ironsmith // Ironfang
+1 Whispersteel Dagger
+1 Triarch Praetorian
+1 Wildfire Eternal
+1 Whip of Erebos
+1 Without Weakness
+1 The Mana Rig
+1 Storm World
+1 Tormented Pariah // Rampaging Werewolf
+1 Tormod's Crypt
+1 Surveyor's Scope
+1 Virtus's Maneuver
+1 Volley of Boulders
+1 Warped Devotion
+1 Word of Command
+1 The Parting of the Ways
+1 Go for the Throat
+1 Voldaren Ambusher
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Sword-Point Diplomacy
+1 Surge to Victory
+1 Vicious Betrayal
+1 Vile Entomber
+1 Young Red Dragon // Bathe in Gold
+1 Thunderous Wrath
+1 Visions of Ruin
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Witch's Mark
+{'overall': '5', 'cmc': 3.7205882352941178, 'ramp': '10', 'draw': '18', 'interaction': 10}

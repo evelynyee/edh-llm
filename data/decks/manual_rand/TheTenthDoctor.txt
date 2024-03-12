@@ -1,0 +1,69 @@
+1 The Tenth Doctor
+1 Ugin's Insight
+1 You Find Some Prisoners
+1 Virtue of Knowledge // Vantress Visions
+1 Treasure Hunt
+1 Soulcipher Board // Cipherbound Spirit
+1 Void Stalker
+1 Start the TARDIS
+1 Trusted Advisor
+1 Thought Nibbler
+1 Zahid, Djinn of the Lamp
+1 Voyage's End
+1 Wild Guess
+1 Watcher in the Mist
+1 Village Ironsmith // Ironfang
+1 Summoner's Egg
+1 Terisian Mindbreaker
+1 Ulamog's Despoiler
+1 Temporal Aperture
+1 Widespread Panic
+1 Ugin's Mastery
+1 Vendilion Clique
+1 Titan's Strength
+1 Waker of Waves
+1 Teferi, Master of Time
+1 Wistful Thinking
+1 Zoanthrope
+1 Virtue of Courage // Embereth Blaze
+1 Wish
+1 Underworld Breach
+1 The Mirari Conjecture
+1 Wormfang Turtle
+1 Wave Goodbye
+1 Yasmin Khan
+1 Volcanic Torrent
+1 Tablet of Compleation
+1 Whirlpool Warrior
+1 Willbender
+1 Voidmage Husher
+1 Withering Gaze
+1 Windswept Heath
+1 Unexplained Disappearance
+1 Whir of Invention
+1 Well of Knowledge
+1 Wu Spy
+1 The Immortal Sun
+1 Voyager Staff
+1 Wizard's Retort
+1 Think Twice
+1 Tidepool Turtle
+1 Winds of Rebuke
+1 Vanishment
+1 The Monumental Facade
+1 Unblinking Observer
+1 Wanderwine Prophets
+1 Urza's Bauble
+1 Venser's Diffusion
+1 Torrent of Stone
+1 Zndrsplt, Eye of Wisdom
+1 Thassa's Intervention
+1 Red Elemental Blast
+1 Zurgo Bellstriker
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Wicked Slumber
+1 Ulamog, the Infinite Gyre
+1 Vexing Scuttler
+1 Turn // Burn
+1 Zaffai, Thunder Conductor
+{'overall': '5', 'cmc': 3.411764705882353, 'ramp': '4', 'draw': '23', 'interaction': 13}

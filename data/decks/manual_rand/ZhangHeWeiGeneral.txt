@@ -1,0 +1,69 @@
+1 Zhang He, Wei General
+1 Veldrane of Sengir
+1 Skulking Knight
+1 Weigh Down
+1 Stoneforge Masterwork
+1 Transmogrifying Licid
+1 Vengeful Strangler // Strangling Grasp
+1 Vampiric Sliver
+1 Venomous Changeling
+1 Sickle Dancer
+1 Torpor Orb
+1 Undercity Shade
+1 Triarch Stalker
+1 Tawnos's Weaponry
+1 The Black Breath
+1 Weakness
+1 Whispersilk Cloak
+1 Squirming Mass
+1 Mana Crypt
+1 Swinging Ship
+1 Unforgiving One
+1 Stitcher's Graft
+1 Triangle of War
+1 Withercrown
+1 Victory Chimes
+1 Wall of Blood
+1 Vampire Aristocrat
+1 Westgate Regent
+1 Witch-king of Angmar
+1 Tooth Collector
+1 Spiderwig Boggart
+1 Vulshok Morningstar
+1 Stromgald Spy
+1 Stronghold Overseer
+1 Viridian Longbow
+1 Whispering Snitch
+1 Wicked Akuba
+1 Sting, the Glinting Dagger
+1 Vanquish the Weak
+1 Topaz Dragon // Entropic Cloud
+1 Vraska's Finisher
+1 Wingrattle Scarecrow
+1 Yukora, the Prisoner
+1 Treacherous Werewolf
+1 Skeleton Key
+1 Mind Stone
+1 Strength-Testing Hammer
+1 Shady Traveler // Stalking Predator
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Team Pennant
+1 Xathrid Demon
+1 Yawgmoth's Agenda
+1 Unliving Psychopath
+1 Ulamog's Crusher
+1 War Chariot
+1 Volrath the Fallen
+1 Toxin Sliver
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Tribute to Hunger
+1 Dark Ritual
+1 Seafarer's Quay
+1 Unnatural Endurance
+1 Vindictive Mob
+1 Vulshok Gauntlets
+1 The Abyss
+1 Yawgmoth's Vile Offering
+1 Viscid Lemures
+1 Swiftfoot Boots
+{'overall': '3', 'cmc': 3.029850746268657, 'ramp': '3', 'draw': '3', 'interaction': 7}

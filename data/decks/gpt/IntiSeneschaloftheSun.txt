@@ -1,0 +1,66 @@
+1 Inti, Seneschal of the Sun
+1 Wheel of Fortune
+1 Sol Ring
+1 Chaos Warp
+1 Sneak Attack
+1 Thought-Knot Seer
+1 Wildfire Devils
+1 Vengeful Firebrand
+1 Thoughtbound Primoc
+1 Toralf, God of Fury // Toralf's Hammer
+1 Wheel of Fate
+1 Tyrant of Valakut
+1 Thunderous Wrath
+1 Stensia Masquerade
+1 Transmogrify
+1 Sibylline Soothsayer
+1 Voldaren Estate
+1 Scroll of Origins
+1 Stormwing Dragon
+1 Village Ironsmith // Ironfang
+1 Thunderclap
+1 Tuktuk Scrapper
+1 Vengeful Devil
+1 Taurean Mauler
+1 Skirk Alarmist
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Zelyon Sword
+1 Spellbinder
+1 Sweltering Suns
+1 Dockside Extortionist
+1 Chrome Mox
+1 Winds of Change
+1 Ugin, the Ineffable
+1 Zurzoth, Chaos Rider
+1 Abrade
+1 Wheel of Misfortune
+1 Scouring Sands
+1 Wild Ricochet
+1 Zhalfirin Void
+1 Vexing Puzzlebox
+1 Viashino Sandswimmer
+1 Viashino Sandscout
+1 Wrenn's Resolve
+1 Treasure Nabber
+1 Vandalblast
+1 Lightning Greaves
+1 Swirling Sandstorm
+1 Lightning Bolt
+1 Imperial Recruiter
+1 Undiscovered Paradise
+1 Wild-Field Scarecrow
+1 Snapping Thragg
+1 Whalebone Glider
+1 Skirk Volcanist
+1 Wayward Guide-Beast
+1 Warlord's Fury
+1 Volcano Hellion
+1 Sword of the Animist
+1 Sword of Light and Shadow
+1 Squee, Goblin Nabob
+1 Vedalken Shackles
+1 Trailblazing Historian
+1 Vindictive Flamestoker
+1 Warcry Phoenix
+1 Warrior's Oath
+{'overall': '6', 'cmc': 2.8, 'ramp': '8', 'draw': '13', 'interaction': 16}

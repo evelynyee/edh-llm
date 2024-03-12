@@ -1,0 +1,67 @@
+1 Tevesh Szat, Doom of Fools
+1 Whirlermaker
+1 Thought-Knot Seer
+1 Syr Konrad, the Grim
+1 Viscera Seer
+1 Tetzimoc, Primal Death
+1 Skyclave Shade
+1 Treacherous Blessing
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Arcane Signet
+1 Skemfar Avenger
+1 Tainted Pact
+1 Stitch Together
+1 Scrapyard Recombiner
+1 Damnation
+1 Toshiro Umezawa
+1 Vampire Nocturnus
+1 Shatter the Oath
+1 Warping Wail
+1 Zombie Assassin
+1 Varragoth, Bloodsky Sire
+1 Zuran Orb
+1 Verdant Catacombs
+1 Withering Wisps
+1 Windswept Heath
+1 Zhalfirin Void
+1 Thieving Sprite
+1 Woe Strider
+1 Tymaret Calls the Dead
+1 Vile Requiem
+1 Undying Evil
+1 Vanquisher's Banner
+1 Viridian Longbow
+1 Shirei, Shizo's Caretaker
+1 Westgate Regent
+1 Yarok's Fenlurker
+1 Terrus Wurm
+1 Wayfarer's Bauble
+1 Shamble Back
+1 Whisper Squad
+1 Vizier of the Scorpion
+1 Scrap Trawler
+1 Treasure Map // Treasure Cove
+1 Umbilicus
+1 Thought Distortion
+1 Soulcoil Viper
+1 Victimize
+1 Tamiyo's Journal
+1 Tormod's Crypt
+1 Dark Ritual
+1 Vraska's Contempt
+1 Waste Not
+1 Wicked Pact
+1 Ugin, the Spirit Dragon
+1 Ugin's Construct
+1 Tourach's Canticle
+1 Visions of Dread
+1 Wasteland Strangler
+1 Thought Gorger
+1 Terrarion
+1 Sorin, Imperious Bloodlord
+1 Vito's Inquisitor
+1 Blood Artist
+1 Sorin's Guide
+1 Sword of the Animist
+{'overall': '8', 'cmc': 2.9696969696969697, 'ramp': '8', 'draw': '14', 'interaction': 13}

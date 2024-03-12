@@ -1,0 +1,69 @@
+1 Elrond of the White Council
+1 Thelonite Druid
+1 Whirler Rogue
+1 Vivien's Jaguar
+1 Vedalken Squirrel-Whacker
+1 Surrounded by Orcs
+1 Veteran's Armaments
+1 Titania's Command
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Wormfang Drake
+1 Ulamog, the Infinite Gyre
+1 Wardscale Crocodile
+1 War Tax
+1 Venomous Vines
+1 Watertrap Weaver
+1 Unstoppable Ash
+1 Xolatoyac, the Smiling Flood
+1 Green Sun's Zenith
+1 Vivien, Arkbow Ranger
+1 Zuo Ci, the Mocking Sage
+1 The Watcher in the Water
+1 Willow Priestess
+1 Witness Protection
+1 Tawnos's Tinkering
+1 Tromp the Domains
+1 Wrong Turn
+1 Thing in the Ice // Awoken Horror
+1 Vanquisher's Banner
+1 Vedalken Certarch
+1 Trickery Charm
+1 Zendikar Farguide
+1 Withstand Death
+1 Young Wolf
+1 Windswift Slice
+1 Triumph of Ferocity
+1 Sol Ring
+1 Thassa, Deep-Dwelling
+1 Zephyr Singer
+1 Whirlwind Adept
+1 Vapor Snag
+1 Waker of the Wilds
+1 Twitch
+1 Weatherseed Elf
+1 Theoretical Duplication
+1 Unity of Purpose
+1 Thornbite Staff
+1 Wildborn Preserver
+1 Turn to Frog
+1 Valeron Wardens
+1 Viridian Corrupter
+1 Vodalian War Machine
+1 Tezzeret's Strider
+1 The Bears of Littjara
+1 Tandem Lookout
+1 Wurmskin Forger
+1 Waterfall Aerialist
+1 Wild Endeavor
+1 Twists and Turns // Mycoid Maze
+1 Word of Undoing
+1 Tatyova, Steward of Tides
+1 Venerated Rotpriest
+1 Thornwatch Scarecrow
+1 Venomous Breath
+1 Xenograft
+1 Tunnel of Love
+1 Tsabo's Web
+1 Touchstone
+1 Yorvo, Lord of Garenbrig
+{'overall': '4', 'cmc': 3.2941176470588234, 'ramp': '5', 'draw': '11', 'interaction': 9}

@@ -1,0 +1,69 @@
+1 Pippin, Warden of Isengard
+1 Toshiro Umezawa
+1 Wreck Hunter
+1 Tragic Fall
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Mind Stone
+1 Welcome to . . . // Jurassic Park
+1 Tranquil Frillback
+1 Wave of Rats
+1 Vine Kami
+1 Warteye Witch
+1 Throne of the Grim Captain // The Grim Captain
+1 Treacherous Pit-Dweller
+1 Sylvan Hierophant
+1 Vivien's Jaguar
+1 Vengeful Rebel
+1 Underrealm Lich
+1 Ulvenwald Hydra
+1 Witch's Cottage
+1 Wild Pair
+1 Tivash, Gloom Summoner
+1 Virulent Swipe
+1 Zendikar Resurgent
+1 Wight
+1 Ugin, the Ineffable
+1 Ugin's Mastery
+1 Swell of Growth
+1 Wild Endeavor
+1 Sword of the Animist
+1 Vorrac Battlehorns
+1 Tomb Tyrant
+1 Twilight Prophet
+1 Tawnos's Tinkering
+1 Wrap in Vigor
+1 Terror of Towashi
+1 Viscera Dragger
+1 Wicked Wolf
+1 Wirewood Symbiote
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Unearth
+1 Tlincalli Hunter // Retrieve Prey
+1 Triassic Egg
+1 Thran Temporal Gateway
+1 Wake the Dead
+1 Wei Assassins
+1 Underworld Charger
+1 Undercity Scavenger
+1 Wicked Visitor
+1 Whirling Catapult
+1 Voracious Null
+1 Writ of Return
+1 Vat of Rebirth
+1 Wildwood Mentor
+1 Verdant Rebirth
+1 Wave of Vitriol
+1 Zombify
+1 Volrath's Stronghold
+1 Vivien's Talent
+1 Vislor Turlough
+1 World Shaper
+1 Spring-Leaf Avenger
+1 Tributary Instructor
+1 Zopandrel, Hunger Dominus
+1 _____ _____ Rocketship
+1 Vastwood Surge
+1 Vicious Offering
+1 Wildborn Preserver
+1 Tawnos's Coffin
+{'overall': '4', 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7}

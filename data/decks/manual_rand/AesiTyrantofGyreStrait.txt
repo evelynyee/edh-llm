@@ -1,0 +1,69 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Wormfang Newt
+1 Tapping at the Window
+1 Vivien on the Hunt
+1 Weatherlight
+1 Vantress Paladin
+1 Vacuumelt
+1 Welcome to . . . // Jurassic Park
+1 Stoic Builder
+1 Zhulodok, Void Gorger
+1 Wall of Blossoms
+1 Whisperwood Elemental
+1 Wild Onslaught
+1 The Antiquities War
+1 Visions of Duplicity
+1 Storm Cauldron
+1 Watcher in the Mist
+1 Willow Priestess
+1 Yedora, Grave Gardener
+1 Well of Knowledge
+1 Whiplash Trap
+1 Treasure Cruise
+1 Words of Wind
+1 Thought Dissector
+1 Vivien's Invocation
+1 Whispergear Sneak
+1 Will Kenrith
+1 The Ring Goes South
+1 Wolfbriar Elemental
+1 Wanderwine Prophets
+1 Watchful Automaton
+1 Treasure Hunt
+1 Winged Portent
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Timetwister
+1 Thirst for Knowledge
+1 Venser's Journal
+1 Voyager Staff
+1 Unexplained Vision
+1 Unexpected Results
+1 Tidal Terror
+1 Thran Tome
+1 Wildcall
+1 Woodland Guidance
+1 Traverse the Ulvenwald
+1 Walking Atlas
+1 Trumpeting Herd
+1 Unblinking Bleb
+1 Yarok's Wavecrasher
+1 Tazeem Roilmage
+1 Walker of the Grove
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Verdant Succession
+1 Verdant Eidolon
+1 Woodland Bellower
+1 Visions of Beyond
+1 Urza's Bauble
+1 Thirsting Roots
+1 Void Squall
+1 Willbender
+1 Yavimaya Granger
+1 Voidmage Husher
+1 Trail of Crumbs
+1 Thought Prison
+1 Sol Ring
+1 Wood Elves
+1 Wear Away
+1 Vizier of Tumbling Sands
+{'overall': '5', 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2}

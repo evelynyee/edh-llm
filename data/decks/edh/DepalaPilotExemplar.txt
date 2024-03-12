@@ -1,0 +1,64 @@
+1 Depala, Pilot Exemplar
+1 Sram, Senior Edificer
+1 Veteran Motorist
+1 Peacewalker Colossus
+1 Magda, Brazen Outlaw
+1 Cultivator's Caravan
+1 Sol Ring
+1 Skysovereign, Consul Flagship
+1 Command Tower
+1 Gearshift Ace
+1 Renegade Wheelsmith
+1 Weatherlight
+1 Parhelion II
+1 Smuggler's Copter
+1 Aethershield Artificer
+1 Start Your Engines
+1 Restoration Specialist
+1 Duergar Hedge-Mage
+1 Arcane Signet
+1 Boros Signet
+1 Untethered Express
+1 Digsite Engineer
+1 Fleetwheel Cruiser
+1 Toolcraft Exemplar
+1 Aeronaut Admiral
+1 Dwarven Recruiter
+1 Swords to Plowshares
+1 Armed and Armored
+1 Mech Hangar
+1 Foundry Inspector
+1 Boros Charm
+1 Reckless Crew
+1 Hoard Hauler
+1 Boros Garrison
+1 Dwarven Mine
+1 Temple of Triumph
+1 Battlefield Forge
+1 Surgehacker Mech
+1 Raiders' Karve
+1 Fairgrounds Warden
+1 Mizzium Tank
+1 Dispatch
+1 Aerial Surveyor
+1 Buried Ruin
+1 Colossal Plow
+1 Clifftop Retreat
+1 Reckoner Bankbuster
+1 Stoic Farmer
+1 Speedway Fanatic
+1 Bomat Bazaar Barge
+1 Mobile Garrison
+1 Mighty Servant of Leuk-o
+1 Heart of Kiran
+1 Siege Modification
+1 Plundering Barbarian
+1 Consulate Dreadnought
+1 Inventors' Fair
+1 Tempered Steel
+1 Jor Kadeen, the Prevailer
+1 Generous Gift
+1 Great Furnace
+1 Conqueror's Galleon
+1 Path of Ancestry
+{'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '9', 'draw': '10', 'interaction': 7}

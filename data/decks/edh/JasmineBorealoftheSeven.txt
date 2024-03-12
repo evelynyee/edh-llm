@@ -1,0 +1,64 @@
+1 Jasmine Boreal of the Seven
+1 Muraganda Petroglyphs
+1 Ruxa, Patient Professor
+1 Watchwolf
+1 Command Tower
+1 Garruk's Gorehorn
+1 Kalonian Tusker
+1 Sol Ring
+1 Gigantosaurus
+1 Leatherback Baloth
+1 Isamaru, Hound of Konda
+1 Cultivate
+1 Alpine Grizzly
+1 Canopy Vista
+1 Savannah Lions
+1 Arcane Signet
+1 Vorstclaw
+1 Terrain Elemental
+1 Swords to Plowshares
+1 Rampant Growth
+1 Beastmaster Ascension
+1 Raptor Companion
+1 Orazca Frillback
+1 Blade of the Sixth Pride
+1 Beast Within
+1 Shepherd of the Flock
+1 Beast Whisperer
+1 Primordial Wurm
+1 Kodama's Reach
+1 Ancient Brontodon
+1 Devilthorn Fox
+1 Elite Vanguard
+1 Swordwise Centaur
+1 Path to Exile
+1 Gaea's Anthem
+1 Collective Blessing
+1 Fortified Village
+1 Aura Mutation
+1 Mirari's Wake
+1 Gavony Township
+1 Maja, Bretagard Protector
+1 Oreskos Swiftclaw
+1 Savai Sabertooth
+1 Expedition Envoy
+1 Shamanic Revelation
+1 Nature's Lore
+1 Generous Gift
+1 Sunpetal Grove
+1 Glorious Anthem
+1 Sandwurm Convergence
+1 Selesnya Sanctuary
+1 Unnatural Growth
+1 Quilled Slagwurm
+1 Ezuri's Predation
+1 Spear of Heliod
+1 Return of the Wildspeaker
+1 Harmonize
+1 Lifecrafter's Bestiary
+1 Knight of New Benalia
+1 Bountiful Promenade
+1 Temple of Plenty
+1 Cliffhaven Sell-Sword
+1 Toski, Bearer of Secrets
+{'overall': '4', 'cmc': 2.9047619047619047, 'ramp': '8', 'draw': '7', 'interaction': 6}

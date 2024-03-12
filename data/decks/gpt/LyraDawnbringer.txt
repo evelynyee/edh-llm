@@ -1,0 +1,67 @@
+1 Lyra Dawnbringer
+1 Sword of Truth and Justice
+1 Stonecoil Serpent
+1 Sword of Light and Shadow
+1 Wurmcoil Engine
+1 Mana Crypt
+1 Warden of the Wall
+1 Whirlermaker
+1 Victory's Envoy
+1 Siege Striker
+1 Stoic Champion
+1 Sword of Hours
+1 Sword of Vengeance
+1 Shadowspear
+1 Path to Exile
+1 Arcane Signet
+1 Soltari Monk
+1 Ugin's Conjurant
+1 Soltari Champion
+1 Thraben Valiant
+1 Sunhome Stalwart
+1 Wingsteed Rider
+1 Tivadar of Thorn
+1 Zealot il-Vec
+1 Sun-Crested Pterodon
+1 Steel-Plume Marshal
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Sinew and Steel
+1 True Conviction
+1 Unbreakable Formation
+1 Sword of the Chosen
+1 Austere Command
+1 Wings of Hubris
+1 Serra Angel
+1 Sword of the Paruns
+1 Skyhunter Skirmisher
+1 Waylay
+1 Vedalken Shackles
+1 Zealot's Conviction
+1 Sublime Archangel
+1 Triumph of Gerrard
+1 Sidewinder Sliver
+1 Takeno's Cavalry
+1 Whalebone Glider
+1 Shield Wall
+1 Temple Altisaur
+1 Zhang Fei, Fierce Warrior
+1 Takeno, Samurai General
+1 Wall of One Thousand Cuts
+1 White Plume Adventurer
+1 Seize the Initiative
+1 Surge of Salvation
+1 Thornbite Staff
+1 Warrior's Honor
+1 Tandem Tactics
+1 Xenk, Paladin Unbroken
+1 Wingmate Roc
+1 Vexilus Praetor
+1 Taranika, Akroan Veteran
+1 Thunder Totem
+1 Spontaneous Flight
+1 Zelyon Sword
+1 Strongarm Monk
+1 Will of the All-Hunter
+1 Testament of Faith
+{'overall': '4', 'cmc': 3.015151515151515, 'ramp': '4', 'draw': '3', 'interaction': 5}

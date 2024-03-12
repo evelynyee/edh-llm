@@ -1,0 +1,69 @@
+1 Captain Sisay
+1 Stonehewer Giant
+1 Winged Shepherd
+1 Zephyrim
+1 Wren's Run Packmaster
+1 Wild Onslaught
+1 Woodfall Primus
+1 Storm Cauldron
+1 Unexpectedly Absent
+1 Verdant Automaton
+1 Zenith Chronicler
+1 Whisperwood Elemental
+1 Torii Watchward
+1 Vanquisher's Banner
+1 Tamiyo's Journal
+1 Zhulodok, Void Gorger
+1 Ulamog, the Infinite Gyre
+1 Watchers of the Dead
+1 Zar Ojanen, Scion of Efrava
+1 Titania, Protector of Argoth
+1 Visions of Dominance
+1 Woolly Loxodon
+1 The Binding of the Titans
+1 Sylvan Bounty
+1 Squadron Hawk
+1 Wilt-Leaf Liege
+1 Wren's Run Vanquisher
+1 Visions of Glory
+1 Unfinished Business
+1 The Stone Brain
+1 The Huntsman's Redemption
+1 Wakening Sun's Avatar
+1 War of the Last Alliance
+1 Thran Portal
+1 Vessel of Nascency
+1 Treefolk Harbinger
+1 You Meet in a Tavern
+1 Wildwood Scourge
+1 Wayfarer's Bauble
+1 Tapping at the Window
+1 Surveyor's Scope
+1 Waker of the Wilds
+1 Trelasarra, Moon Dancer
+1 Yotian Dissident
+1 Urza's Tome
+1 Tempt with Discovery
+1 Venerable Kumo
+1 Sunrise Seeker
+1 Yeva, Nature's Herald
+1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Urza's Bauble
+1 Trumpeting Herd
+1 Vivien, Monsters' Advocate
+1 Thrumming Stone
+1 Worldly Tutor
+1 Venser's Journal
+1 Workshop Assistant
+1 Sylvia Brightspear
+1 Walk with the Ancestors
+1 Zhalfirin Void
+1 World Breaker
+1 Vexing Puzzlebox
+1 Weird Harvest
+1 Vine Dryad
+1 Wingsteed Rider
+1 Woodland Changeling
+1 Vine Gecko
+1 Waxmane Baku
+{'overall': '6', 'cmc': 3.6470588235294117, 'ramp': '9', 'draw': '19', 'interaction': 4}

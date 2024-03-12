@@ -1,0 +1,69 @@
+1 Sosuke, Son of Seshiro
+1 Voice of the Vermin
+1 Stonehoof Chieftain
+1 Thunderstaff
+1 Unstoppable Ash
+1 Whiptongue Hydra
+1 Tanglewalker
+1 Wall of Wood
+1 Yavimaya Wurm
+1 Treeshaker Chimera
+1 Snare the Skies
+1 Yavimaya Ancients
+1 Weathered Sentinels
+1 Webspinner Cuff
+1 Sword of Light and Shadow
+1 Vial of Dragonfire
+1 Twigwalker
+1 Venom
+1 Viridian Corrupter
+1 Timberwatch Elf
+1 Tawnos's Wand
+1 Bloom Tender
+1 TARDIS
+1 Wall of Spears
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Wicked Wolf
+1 Whiteout
+1 Warriors' Lesson
+1 Urza's Engine
+1 Timber Paladin
+1 Steel Hellkite
+1 Trip Wire
+1 Stampeding Wildebeests
+1 Vitalize
+1 Staff of Titania
+1 Trophy Hunter
+1 Voodoo Doll
+1 Unholy Citadel
+1 Viridian Betrayers
+1 Tin-Wing Chimera
+1 Talons of Wildwood
+1 Voltaic Key
+1 Triangle of War
+1 Thornwatch Scarecrow
+1 Tel-Jilad Fallen
+1 Treetop Scout
+1 Woodborn Behemoth
+1 Voltaic Construct
+1 Willow Geist
+1 Sylvan Paradise
+1 Serpent's Gift
+1 Wingrattle Scarecrow
+1 Treefolk Umbra
+1 Wurmcoil Engine
+1 Tempered Sliver
+1 Venomous Dragonfly
+1 Vivien's Crocodile
+1 Tornado Elemental
+1 Sword of Feast and Famine
+1 The Sea Devils
+1 Taoist Mystic
+1 Wallop
+1 Wilderness Reclamation
+1 Titanic Brawl
+1 Wild Mammoth
+1 Sorrow's Path
+1 Spiked Ripsaw
+1 Strength in Numbers
+{'overall': '3', 'cmc': 3.2058823529411766, 'ramp': '2', 'draw': '3', 'interaction': 14}

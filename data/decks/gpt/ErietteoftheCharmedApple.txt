@@ -1,0 +1,65 @@
+1 Eriette of the Charmed Apple
+1 Sol Ring
+1 Slaughter the Strong
+1 Vizkopa Guildmage
+1 Suffer the Past
+1 Vampire Envoy
+1 Vona, Butcher of Magan
+1 Woebringer Demon
+1 Umbra Stalker
+1 Vraska's Contempt
+1 Tainted Sigil
+1 Vedalken Shackles
+1 Vampiric Touch
+1 Swarm of Rats
+1 Zombie Master
+1 Wall of Caltrops
+1 Torment of Hailfire
+1 Worms of the Earth
+1 Wanderer's Intervention
+1 Weed Strangle
+1 Spectrum Sentinel
+1 Weed-Pruner Poplar
+1 Demonic Tutor
+1 Torgaar, Famine Incarnate
+1 Swords to Plowshares
+1 Ugin, the Spirit Dragon
+1 Vengeful Archon
+1 Sphere of Safety
+1 Tendrils of Corruption
+1 Tragic Arrogance
+1 Vampire Cutthroat
+1 Vengeful Rebel
+1 Vito, Thorn of the Dusk Rose
+1 Warden of the Beyond
+1 Tymna the Weaver
+1 Take Heart
+1 Tomb Blade
+1 Squelching Leeches
+1 Wall of Nets
+1 Vicious Offering
+1 Xathrid Demon
+1 Tainted Remedy
+1 Withering Wisps
+1 Animate Dead
+1 Wretched Confluence
+1 Xenic Poltergeist
+1 Vindictive Vampire
+1 Unwinding Clock
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Vengeful Pharaoh
+1 Trespasser's Curse
+1 Tsabo's Web
+1 Starfield of Nyx
+1 Torment of Scarabs
+1 Xenk, Paladin Unbroken
+1 Virtus's Maneuver
+1 Weight of Conscience
+1 Talara's Bane
+1 Zhalfirin Decoy
+1 Swooping Talon
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Vanquish the Weak
+1 Wall of Bone
+1 Termination Facilitator
+{'overall': '3', 'cmc': 3.5, 'ramp': '2', 'draw': '4', 'interaction': 12}

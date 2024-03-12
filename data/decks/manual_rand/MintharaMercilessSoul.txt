@@ -1,0 +1,69 @@
+1 Minthara, Merciless Soul
+1 Triumph of Cruelty
+1 Wingrattle Scarecrow
+1 Triad of Fates
+1 Syndicate Trafficker
+1 Skyboon Evangelist
+1 Vivisection Evangelist
+1 Voracious Vampire
+1 Vile Deacon
+1 Walking Bulwark
+1 Watcher Sliver
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Steel Overseer
+1 Spontaneous Flight
+1 Tragic Slip
+1 Sublime Archangel
+1 Yukora, the Prisoner
+1 Transmogrifying Wand
+1 Tallyman of Nurgle
+1 Soulshriek
+1 Squad Commander
+1 The Wandering Emperor
+1 Vampiric Sliver
+1 Zealot's Conviction
+1 Xathrid Slyblade
+1 Sunseed Nurturer
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Tetravus
+1 Vizier of Deferment
+1 War of the Last Alliance
+1 Vizier of Remedies
+1 Sword of Truth and Justice
+1 Tendrils of Corruption
+1 Virulent Wound
+1 Untethered Express
+1 Thraben Sentry // Thraben Militia
+1 Smothering Tithe
+1 Spitting Dilophosaurus
+1 Weathered Sentinels
+1 Terashi's Cry
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Stromkirk Condemned
+1 Yawgmoth's Vile Offering
+1 Wring Flesh
+1 Weatherlight Compleated
+1 Voracious Hatchling
+1 Mana Vault
+1 The Toymaker's Trap
+1 Weed-Pruner Poplar
+1 Zombie Trailblazer
+1 Steel Dromedary
+1 Traveling Plague
+1 Talus Paladin
+1 Twinblade Paladin
+1 Tragic Fall
+1 Undercity Scavenger
+1 Wall of Tombstones
+1 Veteran's Reflexes
+1 Syphon Sliver
+1 Swell of Courage
+1 Vogar, Necropolis Tyrant
+1 Wight of Precinct Six
+1 Undying Malice
+1 Virtue of Persistence // Locthwain Scorn
+1 Tempt with Glory
+1 Throne of the Grim Captain // The Grim Captain
+1 Waxmane Baku
+1 Tymaret Calls the Dead
+{'overall': '4', 'cmc': 3.2941176470588234, 'ramp': '4', 'draw': '7', 'interaction': 5}

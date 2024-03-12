@@ -1,0 +1,66 @@
+1 Ramses Overdark
+1 Spectral Prison
+1 Venser, Corpse Puppet
+1 Tamiyo, the Moon Sage
+1 Mana Vault
+1 Wurmcoil Engine
+1 Damnation
+1 Mulldrifter
+1 Vampiric Sliver
+1 Counterspell
+1 Demonic Tutor
+1 Mana Drain
+1 Sol Ring
+1 Tamiyo's Compleation
+1 Wrexial, the Risen Deep
+1 Animate Dead
+1 Vampiric Touch
+1 Tainted Aether
+1 Tsabo's Assassin
+1 Threads of Disloyalty
+1 Zephyr Sentinel
+1 Vindictive Lich
+1 War Tax
+1 Water Wings
+1 Warping Wail
+1 Zulaport Cutthroat
+1 Tribute to Hunger
+1 Vanishing
+1 Whispersteel Dagger
+1 Voidwalk
+1 Zephyr Singer
+1 Vantress Transmuter // Croaking Curse
+1 Vraska, Scheming Gorgon
+1 Tidal Visionary
+1 Thieving Magpie
+1 Zombie Master // Zombie Master
+1 Vedalken Shackles
+1 Tidal Warrior
+1 Watertrap Weaver
+1 Zephyr Charge
+1 Tidewater Minion
+1 Toils of Night and Day
+1 Twisted Justice
+1 Zephyr Winder
+1 Vindictive Vampire
+1 Whisper, Blood Liturgist
+1 Teferi, Timeless Voyager
+1 Vito's Inquisitor
+1 Zephid
+1 Vengeful Pharaoh
+1 Whirlwind Adept
+1 Veil of Birds
+1 Zephyr Boots
+1 Zephyr Net
+1 Transmogrifying Licid
+1 Whalebone Glider
+1 Waterwind Scout
+1 Vertigo Spawn
+1 Toshiro Umezawa
+1 Yawgmoth's Vile Offering
+1 Vampire Champion
+1 Vampiric Link
+1 Whirler Rogue
+1 Thassa's Emissary
+1 Vraska's Contempt
+{'overall': '4', 'cmc': 3.3230769230769233, 'ramp': '3', 'draw': '7', 'interaction': 12}

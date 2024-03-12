@@ -1,0 +1,69 @@
+1 Ghalta, Stampede Tyrant
+1 Striped Bears
+1 Transmogrifying Wand
+1 Survivors' Bond
+1 Thundering Wurm
+1 Seedborn Muse
+1 Strength of the Pack
+1 Well of Lost Dreams
+1 Thran Portal
+1 You Meet in a Tavern
+1 Eternal Witness
+1 Wildwood Mentor
+1 Sylvan Ranger
+1 Yavimaya Granger
+1 Young Wolf
+1 Tunnel of Love
+1 Terravore
+1 Thran Tome
+1 Treefolk Harbinger
+1 Wildwood Scourge
+1 Verdant Haven
+1 Seek the Horizon
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Yisan, the Wanderer Bard
+1 Unstoppable Ash
+1 Troublemaker Ouphe
+1 Wild Growth
+1 Wirewood Hivemaster
+1 Spirit of the Aldergard
+1 Woodland Wanderer
+1 Vivid Grove
+1 Thicket Elemental
+1 Woodfall Primus
+1 Wicked Wolf
+1 Strata Scythe
+1 Three Visits
+1 Wooded Foothills
+1 Sprouting Vines
+1 The Weatherseed Treaty
+1 Storm Cauldron
+1 Skyshroud Claim
+1 Titania's Chosen
+1 Wirewood Channeler
+1 Winding Way
+1 Traveler's Amulet
+1 Worry Beads
+1 Verdant Touch
+1 Wood Elemental
+1 Vexing Puzzlebox
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Vorinclex, Voice of Hunger
+1 Summoning Trap
+1 Vanquisher's Banner
+1 Titan's Presence
+1 Tempt with Discovery
+1 Voracious Typhon
+1 See the Unwritten
+1 Territorial Maro
+1 Strangleroot Geist
+1 Unravel the Aether
+1 Undercity Upheaval
+1 Viridian Corrupter
+1 Wildgrowth Walker
+1 Terminal Moraine
+1 Wandering Archaic // Explore the Vastlands
+1 Watchers of the Dead
+1 Wrenn and Realmbreaker
+1 Vorinclex, Monstrous Raider
+{'overall': '7', 'cmc': 3.2794117647058822, 'ramp': '21', 'draw': '15', 'interaction': 6}

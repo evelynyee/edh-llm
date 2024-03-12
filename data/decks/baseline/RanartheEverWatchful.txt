@@ -1,0 +1,101 @@
+1 Ranar the Ever-Watchful
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Battle Screech
+1 Pegasus Stampede
+1 Cenn's Enlistment
+1 Banish into Fable
+1 Descend upon the Sinful
+1 Horn of Valhalla // Ysgard's Call
+1 Dino DNA
+1 Deekah, Fractal Theorist
+1 Hour of Eternity
+1 Kasmina, Enigmatic Mentor
+1 Scour the Desert
+1 Cemetery Protector
+1 Archangel Elspeth
+1 Entreat the Angels
+1 Release to Memory
+1 Visions of Glory
+1 Vizier of Many Faces
+1 Ugin, the Ineffable
+1 Starnheim Unleashed
+1 God-Eternal Oketra
+1 Minn, Wily Illusionist
+1 Anointer Priest
+1 Soul Foundry
+1 Hour of Need
+1 Nomads' Assembly
+1 Docent of Perfection // Final Iteration
+1 Lonesome Unicorn // Rider in Need
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Increasing Devotion
+1 Metallurgic Summonings
+1 Angel of Sanctions
+1 Sanctifier en-Vec
+1 Quasiduplicate
+1 Sacred Cat
+1 Heron-Blessed Geist
+1 Gideon's Phalanx
+1 Asinine Antics
+1 Adipose Offspring
+1 Oketra's Monument
+1 Storm of Souls
+1 Dovescape
+1 Rally for the Throne
+1 Shark Typhoon
+1 Trueheart Duelist
+1 Elminster
+1 Wondrous Crucible
+1 Nearheath Chaplain
+1 Canoptek Scarab Swarm
+1 Curse of the Swine
+1 Preston, the Vanisher
+1 Ravenform
+1 Prototype Portal
+1 Alrund's Epiphany
+1 Aven Initiate
+1 Abdel Adrian, Gorion's Ward
+1 Unwavering Initiate
+1 Swan Song
+1 Occult Epiphany
+1 Ancient Stone Idol
+1 Abuelo's Awakening
+1 Labyrinth Guardian
+1 Stolen by the Fae
+1 Thalia's Geistcaller
+{'overall': '3', 'cmc': 4.045454545454546, 'ramp': '3', 'draw': '8', 'interaction': 10}

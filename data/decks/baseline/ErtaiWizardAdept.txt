@@ -1,0 +1,101 @@
+1 Ertai, Wizard Adept
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Stronghold Machinist
+1 Stronghold Biologist
+1 Douse
+1 Malevolent Hermit // Benevolent Geist
+1 Mistfolk
+1 Decree of Silence
+1 Complicate
+1 Memory Drain
+1 Ghost-Lit Warder
+1 Wash Away
+1 Diplomatic Escort
+1 Into the Roil
+1 Blink of an Eye
+1 Cunning Geysermage
+1 Hydromorph Gull
+1 Censor
+1 Choking Tethers
+1 Spell Contortion
+1 Nimble Obstructionist
+1 Wizard Replica
+1 Mind Games
+1 Faerie Squadron
+1 Lunar Rejection
+1 Spellskite
+1 Fervent Denial
+1 Tempest Owl
+1 Siren Stormtamer
+1 Circular Logic
+1 Null Brooch
+1 Rune Snag
+1 Wizard Class
+1 Vodalian Mage
+1 Witness of Tomorrows
+1 Quicksilver Dragon
+1 Echo Mage
+1 Avian Oddity
+1 Riptide Director
+1 Vizier of Tumbling Sands
+1 Slinn Voda, the Rising Deep
+1 Disruptive Pitmage
+1 Controvert
+1 Overwhelming Denial
+1 Hydromorph Guardian
+1 Field Research
+1 Sphinx of Lost Truths
+1 Jwar Isle Avenger
+1 Treasure Trove
+1 Spell Snip
+1 Enclave Cryptologist
+1 Alchemist's Retrieval
+1 Mental Misstep
+1 Miscalculation
+1 Silumgar Spell-Eater
+1 Rakshasa's Disdain
+1 Saw It Coming
+1 Baithook Angler // Hook-Haunt Drifter
+1 Broken Concentration
+1 Disruption Protocol
+1 Lantern Bearer // Lanterns' Lift
+1 Jace's Defeat
+1 Laquatus's Disdain
+1 Disrupt
+1 Countervailing Winds
+{'overall': '2', 'cmc': 2.876923076923077, 'ramp': '1', 'draw': '23', 'interaction': 16}

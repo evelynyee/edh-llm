@@ -1,0 +1,101 @@
+1 Djeru and Hazoret
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Bloodbraid Marauder
+1 Possibility Storm
+1 Chaos Wand
+1 Temporal Aperture
+1 Meteoric Mace
+1 Keldon Flamesage
+1 Invasion of Ravnica // Guildpact Paragon
+1 Creative Technique
+1 Flamekin Herald
+1 Maelstrom Colossus
+1 Boarding Party
+1 Surging Sentinels
+1 Tibalt's Trickery
+1 Velomachus Lorehold
+1 Recruitment Officer
+1 Caparocti Sunborn
+1 Oracle's Vault
+1 Throes of Chaos
+1 Aurora Phoenix
+1 Let the Galaxy Burn
+1 Treasure Keeper
+1 Etali's Favor
+1 Industrial Advancement
+1 Chimil, the Inner Sun
+1 Ardent Dustspeaker
+1 Smuggler's Buggy
+1 Reality Scramble
+1 Horn of the Mark
+1 Wandering Archaic // Explore the Vastlands
+1 Thrumming Stone
+1 Goblin Machinist
+1 Ryan Sinclair
+1 Wild-Magic Sorcerer
+1 Noise Marine
+1 Dark Apostle
+1 Caves of Chaos Adventurer
+1 Orb of Dragonkind
+1 Sibylline Soothsayer
+1 Daring Discovery
+1 Board the Weatherlight
+1 Harper Recruiter
+1 Surging Flame
+1 Herald's Horn
+1 Etali, Primal Storm // Etali, Primal Storm
+1 Etali, Primal Storm
+1 Militia Bugler
+1 Geological Appraiser
+1 Ingenuity Engine
+1 Deceiver of Form
+1 Aether Searcher
+1 Divergent Transformations
+1 Mindmoil
+1 Inscribed Tablet
+1 Heroes' Podium
+1 Plargg, Dean of Chaos // Augusta, Dean of Order
+1 Volcanic Torrent
+1 Plargg and Nassari
+1 Magmatic Channeler
+1 Kolaghan Warmonger
+1 Guff Rewrites History
+1 Conspicuous Snoop
+1 Zhulodok, Void Gorger
+1 Triumph of Saint Katherine
+{'overall': '2', 'cmc': 4.151515151515151, 'ramp': '3', 'draw': '22', 'interaction': 4}

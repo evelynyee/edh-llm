@@ -1,0 +1,65 @@
+1 Miirym, Sentinel Wyrm
+1 Wurmcoil Engine
+1 Zendikar Resurgent
+1 Woodland Champion
+1 Wolfbriar Elemental
+1 Young Pyromancer
+1 Whip Silk
+1 Wirewood Savage
+1 Wild Celebrants
+1 Workshop Warchief
+1 Vengeant Earth
+1 Thopter Spy Network
+1 Trail of Evidence
+1 Wind Drake
+1 Warden of the Wall
+1 Wall of Tears
+1 Wandering Archaic // Explore the Vastlands
+1 Wakeroot Elemental
+1 Zurzoth, Chaos Rider
+1 Veil of Birds
+1 Verix Bladewing
+1 Varchild, Betrayer of Kjeldor
+1 Water Wings
+1 Zephyr Sprite
+1 Whirler Rogue
+1 Thunderkin Awakener
+1 Thundering Spineback
+1 Zephyr Singer
+1 Traproot Kami
+1 Vandalblast
+1 Volo, Guide to Monsters
+1 Zephyr Sentinel
+1 Vantress Transmuter // Croaking Curse
+1 Tempt with Reflections
+1 Zaffai, Thunder Conductor
+1 Woodfall Primus
+1 Zephyr Net
+1 Unexpected Windfall
+1 Wingfold Pteron
+1 Voice of the Woods
+1 Thundermare
+1 Zurgo Bellstriker
+1 Talrand, Sky Summoner
+1 Vizier of Many Faces
+1 Vesuvan Shapeshifter
+1 Mana Vault
+1 Zektar Shrine Expedition
+1 Wrenn and Realmbreaker
+1 Vitality Charm
+1 Wild Defiance
+1 Wolfcaller's Howl
+1 Whirlermaker
+1 Wirewood Hivemaster
+1 Wingspan Mentor
+1 Voyager Staff
+1 Willow Priestess
+1 Zahid, Djinn of the Lamp
+1 Thorn Mammoth
+1 Verdeloth the Ancient
+1 Zephyr Spirit
+1 Seedborn Muse
+1 Verdant Embrace
+1 Mana Drain
+1 Ugin, the Ineffable
+{'overall': '5', 'cmc': 3.75, 'ramp': '6', 'draw': '8', 'interaction': 6}

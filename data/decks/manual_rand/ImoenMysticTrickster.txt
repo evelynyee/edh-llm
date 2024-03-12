@@ -1,0 +1,69 @@
+1 Imoen, Mystic Trickster
+1 Submerge
+1 The Blackstaff of Waterdeep
+1 Wondrous Crucible
+1 Twinning Glass
+1 Viridian Longbow
+1 Urza's Miter
+1 Vedalken Shackles
+1 Stronghold Machinist
+1 Vesuvan Duplimancy
+1 Ulamog, the Ceaseless Hunger
+1 Vedalken Entrancer
+1 Tower of Murmurs
+1 Vedalken Mastermind
+1 Zephyr Scribe
+1 The One Ring
+1 Tide Skimmer
+1 Time of Ice
+1 Spell Shrivel
+1 Vronos, Masked Inquisitor
+1 Vulshok Gauntlets
+1 Triton Cavalry
+1 Stormchaser Drake
+1 Tamiyo's Journal
+1 Windreader Sphinx
+1 Twice Upon a Time // Unlikely Meeting
+1 Veiled Apparition
+1 Whetwheel
+1 Twitch
+1 Thirst for Meaning
+1 Tangle Wire
+1 Thunder Drake
+1 Zygon Infiltrator
+1 Zephyr Singer
+1 Trapfinder's Trick
+1 Vanishment
+1 Winds of Rebuke
+1 Veiled Sentry
+1 You See a Guard Approach
+1 Wall of Stolen Identity
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Ugin's Nexus
+1 Talas Researcher
+1 Time Warp
+1 Tragic Lesson
+1 Temple Bell
+1 Spiketail Drakeling
+1 War Tax
+1 Siren's Call
+1 Unexplained Vision
+1 Wibbly-wobbly, Timey-wimey
+1 Wrong Turn
+1 Teferi's Response
+1 Storm of Saruman
+1 Welcome to the Fold
+1 Teferi, Temporal Pilgrim
+1 Thwart
+1 Counterspell
+1 Wretched Gryff
+1 Vodalian Serpent
+1 Ugin, the Spirit Dragon
+1 Triton Tactics
+1 Thing from the Deep
+1 Witches' Eye
+1 Tunnel of Love
+1 Walking Bulwark
+1 Weatherlight Compleated
+1 Thirst for Knowledge
+{'overall': '4', 'cmc': 3.735294117647059, 'ramp': '2', 'draw': '24', 'interaction': 6}

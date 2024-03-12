@@ -1,0 +1,69 @@
+1 Gluntch, the Bestower
+1 Thelon's Chant
+1 Trelasarra, Moon Dancer
+1 Well of Life
+1 Treeshaker Chimera
+1 Wedding Announcement // Wedding Festivity
+1 Wildwood Patrol
+1 Wildwood Escort
+1 _____ Bird Gets the Worm
+1 The Great Aurora
+1 Yenna, Redtooth Regent
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 White Sun's Zenith
+1 Warm Welcome
+1 Tariff
+1 Termagant Swarm
+1 Sol Ring
+1 Triassic Egg
+1 Windbrisk Heights
+1 Witchstalker
+1 Well of Discovery
+1 Unlicensed Hearse
+1 Volatile Fault
+1 Ugin's Construct
+1 Wirefly Hive
+1 Wildest Dreams
+1 Teferi's Puzzle Box
+1 You Happen On a Glade
+1 The Fall of Lord Konda // Fragment of Konda
+1 Bloom Tender
+1 Twinning Staff
+1 Sylvan Offering
+1 The Eternal Wanderer
+1 Urza's Bauble
+1 Well of Lost Dreams
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 The Filigree Sylex
+1 Tower of Murmurs
+1 Will of the All-Hunter
+1 Teleportation Circle
+1 Worthy Cause
+1 Vizier of the True
+1 Sudden Disappearance
+1 Trove Warden
+1 Unbounded Potential
+1 War Report
+1 True Love's Kiss
+1 Woodland Acolyte // Mend the Wilds
+1 Vivid Revival
+1 Eternal Witness
+1 Whiptongue Hydra
+1 Vivien Reid
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Stampeding Wildebeests
+1 The Mending of Dominaria
+1 Welcoming Vampire
+1 Tetravus
+1 Wakening Sun's Avatar
+1 Stalking Leonin
+1 Susan Foreman
+1 Waylay
+1 Wilfred Mott
+1 Ulvenwald Bear
+1 Standard Bearer
+1 Vegetation Abomination
+1 Wild-Field Scarecrow
+1 Valiant Rescuer
+1 You're Ambushed on the Road
+{'overall': '6', 'cmc': 3.417910447761194, 'ramp': '7', 'draw': '20', 'interaction': 9}

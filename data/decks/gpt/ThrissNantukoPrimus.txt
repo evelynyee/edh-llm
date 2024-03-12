@@ -1,0 +1,67 @@
+1 Thriss, Nantuko Primus
+1 Green Sun's Zenith
+1 Thousand-Year Elixir
+1 Sylvan Paradise
+1 Seedborn Muse
+1 Vivien Reid
+1 Wildgrowth Walker
+1 Avenger of Zendikar
+1 Strength from the Fallen
+1 Rampant Growth
+1 Warden of the Wall
+1 Vengeant Earth
+1 Turntimber Grove
+1 Ugin's Mastery
+1 Weaver of Harmony
+1 Wall of Mulch
+1 Vine Trellis
+1 Whisperer of the Wilds
+1 Syr Faren, the Hengehammer
+1 Eternal Witness
+1 Birds of Paradise
+1 Sol Ring
+1 Vivien, Nature's Avenger
+1 Vivien, Arkbow Ranger
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Triumph of the Hordes
+1 Sylvok Lifestaff
+1 Workshop Warchief
+1 Vine Mare
+1 Whalebone Glider
+1 Wren's Run Packmaster
+1 Yew Spirit
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Trollhide
+1 Sunbathing Rootwalla
+1 Thornbite Staff
+1 Whip Silk
+1 Titanic Brawl
+1 War Mammoth
+1 Warping Wail
+1 Skarrg Goliath
+1 Sword of Vengeance
+1 Treefolk Mystic
+1 Tempting Licid
+1 Spiked Ripsaw
+1 Unstable Frontier
+1 Zodiac Tiger
+1 Wallop
+1 Willow Faerie
+1 Stonewood Invoker
+1 The Chain Veil
+1 Tower of Champions
+1 Zelyon Sword
+1 Tangle Mantis
+1 Torch Gauntlet
+1 Snare the Skies
+1 Tropical Storm
+1 Vine Gecko
+1 Toymaker
+1 Tel-Jilad Wolf
+1 Wild Onslaught
+1 Tyrite Sanctum
+1 Turntimber Basilisk
+1 Web
+1 Venomous Breath
+1 Wary Okapi
+{'overall': '5', 'cmc': 2.9242424242424243, 'ramp': '8', 'draw': '6', 'interaction': 11}

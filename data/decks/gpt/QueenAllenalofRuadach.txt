@@ -1,0 +1,67 @@
+1 Queen Allenal of Ruadach
+1 Wurmcoil Engine
+1 Wildgrowth Walker
+1 Vengeful Archon
+1 Verdant Force
+1 Sylvan Anthem
+1 Whirlermaker
+1 Vengeant Earth
+1 Titanic Brawl
+1 Wayfaring Temple
+1 Vengeance
+1 Waylay
+1 Workshop Warchief
+1 Whiptongue Hydra
+1 Wingmate Roc
+1 Tarmogoyf
+1 Seedborn Muse
+1 Birds of Paradise
+1 Ulvenwald Observer
+1 Triskelavus
+1 Vrestin, Menoptra Leader
+1 Ugin's Conjurant
+1 Vulpine Harvester
+1 Ugin, the Spirit Dragon
+1 Weaver of Harmony
+1 Wren's Run Packmaster
+1 Symbiotic Wurm
+1 Thopter Assembly
+1 Steward of Solidarity
+1 Sporeweb Weaver
+1 Sunfall
+1 Surge of Salvation
+1 Smothering Tithe
+1 Trostani's Summoner
+1 Treasure Map // Treasure Cove
+1 Thraben Standard Bearer
+1 Tolsimir, Friend to Wolves
+1 Wrenn and Seven
+1 Zendikar Resurgent
+1 Zhang Fei, Fierce Warrior
+1 Whalebone Glider
+1 Wirewood Hivemaster
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Warping Wail
+1 Treasure Vault
+1 Thallid
+1 Voice of Truth
+1 Sylvan Offering
+1 White Plume Adventurer
+1 Vigorous Charge
+1 Speaker of the Heavens
+1 Thorn Lieutenant
+1 Twin-Silk Spider
+1 Yew Spirit
+1 Tendershoot Dryad
+1 Surge of Righteousness
+1 Vorinclex // The Grand Evolution
+1 Spinning Wheel Kick
+1 Wallop
+1 Xenk, Paladin Unbroken
+1 Terashi's Verdict
+1 Toymaker
+1 Vivien on the Hunt
+1 Vital Splicer
+1 Trophy Hunter
+1 Thalia's Geistcaller
+{'overall': '6', 'cmc': 3.5606060606060606, 'ramp': '8', 'draw': '9', 'interaction': 12}

@@ -1,0 +1,66 @@
+1 Kalemne, Disciple of Iroas
+1 Triumph of Gerrard
+1 Thundermaw Hellkite
+1 Warstorm Surge
+1 Sunforger
+1 Land Tax
+1 Chaos Warp
+1 Tithe Taker
+1 Mentor of the Meek
+1 Trailblazer's Torch
+1 Vanquisher's Banner
+1 White Shield Crusader
+1 Wojek Apothecary
+1 Thraben Watcher
+1 Warlord's Elite
+1 Treasonous Ogre
+1 Thunderblade Charge
+1 Valakut Fireboar
+1 Stormbreath Dragon
+1 Sword of Truth and Justice
+1 Sword of Light and Shadow
+1 Steel Hellkite
+1 Syr Ginger, the Meal Ender
+1 Talons of Falkenrath
+1 Tarox Bladewing
+1 Thunderous Wrath
+1 Valiant Knight
+1 Tethmos High Priest
+1 Unerring Sling
+1 Visions of Ruin
+1 Valor in Akros
+1 Unstable Hulk
+1 Whirling Strike
+1 Venerable Warsinger
+1 Sol Ring
+1 Mind Stone
+1 Thalia, Guardian of Thraben
+1 Skittering Cicada
+1 Wings of Hubris
+1 Warpath
+1 Swallow Whole
+1 Steeling Stance
+1 Strongarm Monk
+1 Symmetry Matrix
+1 Task Mage Assembly
+1 Zephyr Boots
+1 Spire Golem
+1 Umezawa's Jitte
+1 Transmogrifying Wand
+1 Taurean Mauler
+1 Vandalblast
+1 Stoke the Flames
+1 Spirit Flare
+1 Unbreakable Formation
+1 Wondrous Crucible
+1 You Hear Something on Watch
+1 Tears of Valakut
+1 The Red Terror
+1 Zerapa Minotaur
+1 Warrior's Stand
+1 Spellgorger Weird
+1 Traveling Minister
+1 Wildfire Cerberus
+1 Vial of Poison
+1 Twinblade Paladin
+{'overall': '4', 'cmc': 3.276923076923077, 'ramp': '4', 'draw': '8', 'interaction': 14}

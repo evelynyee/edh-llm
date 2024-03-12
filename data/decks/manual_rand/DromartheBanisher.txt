@@ -1,0 +1,69 @@
+1 Dromar, the Banisher
+1 Vanish into Eternity
+1 Temporal Extortion
+1 Thoughtseize
+1 Urza's Sylex
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Sol Ring
+1 Towering-Wave Mystic
+1 Triskaidekaphobia
+1 Wipe Away
+1 Vanguard Suppressor
+1 Wave of Rats
+1 War Room
+1 Woebearer
+1 Trait Doctoring
+1 Twincast
+1 Volrath's Dungeon
+1 Vicious Rumors
+1 Zombie Musher
+1 Zombie Cannibal
+1 Torment of Venom
+1 Worst Fears
+1 Without Weakness
+1 Sword of Once and Future
+1 Unearth
+1 Timesifter
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Vedalken Archmage
+1 Twice Upon a Time // Unlikely Meeting
+1 Talion, the Kindly Lord
+1 Welcome to the Fold
+1 Dark Ritual
+1 Swords to Plowshares
+1 Wandering Archaic // Explore the Vastlands
+1 Thought Scour
+1 Withstand
+1 Wanderer's Intervention
+1 Urza's Ruinous Blast
+1 Walk the Aeons
+1 Tombfire
+1 Teshar, Ancestor's Apostle
+1 Vodalian Hypnotist
+1 World Queller
+1 Wandering Archaic // Explore the Vastlands
+1 Tasigur's Cruelty
+1 Urza, Planeswalker
+1 Withering Wisps
+1 Venarian Glimmer
+1 Urborg Stalker
+1 Zareth San, the Trickster
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Witness the End
+1 Viseling
+1 Winding Canyons
+1 Twisted Reflection
+1 Tourach, Dread Cantor
+1 Word of Command
+1 Zndrsplt, Eye of Wisdom
+1 Whirling Catapult
+1 Waxmane Baku
+1 Vicious Hunger
+1 Windrider Wizard
+1 Uninvited Geist // Unimpeded Trespasser
+1 Tourach's Canticle
+1 Treasure Cruise
+1 Whispers of Emrakul
+1 Whirlwind Denial
+1 Zephyr Scribe
+{'overall': '5', 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10}

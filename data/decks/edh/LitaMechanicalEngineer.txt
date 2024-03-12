@@ -1,0 +1,64 @@
+1 Lita, Mechanical Engineer
+1 Sol Ring
+1 Gold Myr
+1 Foundry Inspector
+1 Palladium Myr
+1 Losheel, Clockwork Scholar
+1 Peacewalker Colossus
+1 Digsite Engineer
+1 Swords to Plowshares
+1 Steel Overseer
+1 Bronze Guardian
+1 Tempered Steel
+1 Organic Extinction
+1 Ornithopter of Paradise
+1 Unwinding Clock
+1 Dispatch
+1 Mech Hangar
+1 Ancient Den
+1 Platoon Dispenser
+1 Esper Sentinel
+1 Drumbellower
+1 Path to Exile
+1 Generous Gift
+1 Sanwell, Avenger Ace
+1 Arcane Signet
+1 Liberator, Urza's Battlethopter
+1 Armed and Armored
+1 Hotshot Mechanic
+1 Rebbec, Architect of Ascension
+1 Reckoner Bankbuster
+1 Brilliant Restoration
+1 Buried Ruin
+1 War Room
+1 Thopter Shop
+1 Aerial Surveyor
+1 Cryptothrall
+1 Smuggler's Copter
+1 Darksteel Citadel
+1 Shimmer Myr
+1 Manakin
+1 Mystic Forge
+1 Oswald Fiddlebender
+1 Solemn Simulacrum
+1 Parhelion II
+1 Inventors' Fair
+1 Chief of the Foundry
+1 Scrap Trawler
+1 Canoptek Spyder
+1 Skysovereign, Consul Flagship
+1 Weatherlight
+1 Nautiloid Ship
+1 Mechtitan Core
+1 Sculpting Steel
+1 Born to Drive
+1 Mind Stone
+1 Liquimetal Torque
+1 Sram, Senior Edificer
+1 Archaeomancer's Map
+1 Swiftfoot Boots
+1 Halo Fountain
+1 Cultivator's Caravan
+1 Myriad Landscape
+1 Teshar, Ancestor's Apostle
+{'overall': '8', 'cmc': 2.746031746031746, 'ramp': '12', 'draw': '15', 'interaction': 7}

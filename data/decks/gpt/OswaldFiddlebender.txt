@@ -1,0 +1,68 @@
+1 Oswald Fiddlebender
+1 Soul Foundry
+1 Sun Titan
+1 Sword of Hearth and Home
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Soul Separator
+1 Treasure Map // Treasure Cove
+1 Urza's Tower
+1 Sol Ring
+1 Terminus
+1 Thalia's Lancers
+1 Thran Turbine
+1 Steelshaper Apprentice
+1 Swords to Plowshares
+1 Terrarion
+1 Urn of Godfire
+1 Temporal Aperture
+1 Tectonic Edge
+1 Thought Vessel
+1 Vexing Puzzlebox
+1 Study Break
+1 Trove Warden
+1 Trading Post
+1 Vizier of Deferment
+1 Sunscour
+1 Sun's Bounty
+1 Tithe
+1 Serra Avatar
+1 Wrath of God
+1 Staff of the Death Magus
+1 Verge Rangers
+1 Salvaging Station
+1 Sword of the Animist
+1 Spire Golem
+1 Tallowisp
+1 Venser's Journal
+1 Path to Exile
+1 Sylvia Brightspear
+1 Starfield of Nyx
+1 Vesperlark
+1 Watcher of the Roost
+1 Tome of the Guildpact
+1 Unlicensed Hearse
+1 Wall of Omens
+1 Wispweaver Angel
+1 Teshar, Ancestor's Apostle
+1 Sarevok's Tome
+1 Zephyr Boots
+1 Wintermoon Mesa
+1 Scalding Tarn
+1 Yavimaya, Cradle of Growth
+1 Sudden Salvation
+1 Winged Shepherd
+1 Union of the Third Path
+1 Tazeem Raptor
+1 Valiant Rescuer
+1 Splicer's Skill
+1 Twinning Staff
+1 Temple of the Dragon Queen
+1 Shield-Wall Sentinel
+1 Trinisphere
+1 Ward of Lights
+1 Timely Hordemate
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Trap Digger
+1 Tower of Fortunes
+{'overall': '8', 'cmc': 3.014925373134328, 'ramp': '14', 'draw': '20', 'interaction': 7}

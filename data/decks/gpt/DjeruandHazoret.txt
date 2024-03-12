@@ -1,0 +1,66 @@
+1 Djeru and Hazoret
+1 Wheel of Fortune
+1 Smothering Tithe
+1 Temple of the Dragon Queen
+1 Sol Ring
+1 Sword of Hearth and Home
+1 Wheel of Fate
+1 Thunderous Wrath
+1 Thrilling Discovery
+1 Thought-Knot Seer
+1 Wandering Archaic // Explore the Vastlands
+1 Spellbinder
+1 Verdant Catacombs
+1 Ugin, the Spirit Dragon
+1 Smuggler's Buggy
+1 Teshar, Ancestor's Apostle
+1 Tectonic Reformation
+1 Valakut Exploration
+1 Terrain Generator
+1 Vanquish the Foul
+1 War Room
+1 Zada, Hedron Grinder
+1 Tragic Arrogance
+1 Yidaro, Wandering Monster
+1 Vesperlark
+1 Sun Titan
+1 Sunbird's Invocation
+1 Winds of Abandon
+1 Timecrafting
+1 Sword-Swallowing Seraph
+1 Dockside Extortionist
+1 Waves of Aggression
+1 Viashino Racketeer
+1 Vedalken Orrery
+1 Mind Stone
+1 Lightning Bolt
+1 Stoneforge Mystic
+1 Swords to Plowshares
+1 Transmogrify
+1 Teferi's Protection
+1 Thalia's Lancers
+1 Vexing Puzzlebox
+1 Well of Knowledge
+1 Mana Vault
+1 Vengeful Dreams
+1 Vanquisher's Banner
+1 Venerated Loxodon
+1 Twinblade Geist // Twinblade Invocation
+1 Zabaz, the Glimmerwasp
+1 Windswept Heath
+1 Vanish into Eternity
+1 Zhalfirin Void
+1 Tyrant of Valakut
+1 Wardscale Dragon
+1 Yotian Frontliner
+1 Taurean Mauler
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Wildfire Devils
+1 Tormod's Crypt
+1 Tormod's Cryptkeeper
+1 Zurzoth, Chaos Rider
+1 Storm Cauldron
+1 Temple Bell
+1 Winged Shepherd
+1 Well of Lost Dreams
+{'overall': '7', 'cmc': 3.2615384615384615, 'ramp': '10', 'draw': '16', 'interaction': 13}

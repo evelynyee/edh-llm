@@ -1,0 +1,101 @@
+1 Goddric, Cloaked Reveler
+1 Island of Wak-Wak
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Volatile Claws
+1 Keldon Battlewagon
+1 Hivestone
+1 Fleetwheel Cruiser
+1 Thundering Chariot
+1 Impelled Giant
+1 Dragon Throne of Tarkir
+1 Thundersteel Colossus
+1 Renegade Freighter
+1 Mirror Box
+1 Orcish Siegemaster
+1 Ovalchase Dragster
+1 Bogardan Dragonheart
+1 Grishnákh, Brash Instigator
+1 Consulate Dreadnought
+1 Skyshaper
+1 Chimeric Idol
+1 Arni Brokenbrow
+1 Brothers Yamazaki
+1 Flayer of Loyalties
+1 Start Your Engines
+1 Blades of Velis Vel
+1 Altar of the Goyf
+1 Bessie, the Doctor's Roadster
+1 Dan Lewis
+1 Dominating Vampire
+1 Honeymoon Hearse
+1 Ambitious Assault
+1 Dusk Legion Dreadnought
+1 Thunderous Might
+1 Ghost Ark
+1 Coercive Recruiter
+1 Paragon of Fierce Defiance
+1 Purphoros, God of the Forge
+1 Sleek Schooner
+1 Gnawing Crescendo
+1 Sky Skiff
+1 Funeral Longboat
+1 Brute Suit
+1 Graaz, Unstoppable Juggernaut
+1 Temporary Insanity
+1 Irontread Crusher
+1 Night Scythe
+1 Belligerent of the Ball
+1 Lodestone Myr
+1 Chariot of the Sun
+1 Cryptothrall
+1 Shadowspear
+1 Mizzium Tank
+1 Nogi, Draco-Zealot
+1 Stone Giant
+1 Aradara Express
+1 Ogre Chitterlord
+1 Song of Totentanz
+1 Atarka Pummeler
+1 Merry-Go-Round
+1 Eldrazi Mimic
+1 Necron Monolith
+1 Golden Argosy
+1 Mobile Garrison
+1 Dowsing Device // Geode Grotto
+1 Enchanted Carriage
+1 Lose Calm
+{'overall': '2', 'cmc': 3.4545454545454546, 'ramp': '1', 'draw': '1', 'interaction': 2}

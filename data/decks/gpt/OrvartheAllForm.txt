@@ -1,0 +1,66 @@
+1 Orvar, the All-Form
+1 Whirler Rogue
+1 Mana Drain
+1 Wurmcoil Engine
+1 Snapback
+1 Teferi's Realm
+1 Zephyr Scribe
+1 Unsubstantiate
+1 Tidespout Tyrant
+1 Windreader Sphinx
+1 Verity Circle
+1 Zephyr Singer
+1 Thieving Skydiver
+1 Zephyr Sentinel
+1 Winged Boots
+1 Theft of Dreams
+1 Zephyr Boots
+1 Wing Splicer
+1 Talrand, Sky Summoner
+1 Wind Zendikon
+1 Worry Beads
+1 Zephyr Winder
+1 Storm of Forms
+1 Swan Song
+1 Veil of Secrecy
+1 Zephyr Spirit
+1 Vodalian Arcanist
+1 Wandering Archaic // Explore the Vastlands
+1 Whirlwind Denial
+1 Zoetic Glyph
+1 Swashbuckler's Whip
+1 Thopter Spy Network
+1 Spellbinder
+1 Stolen by the Fae
+1 Whirlwind Adept
+1 Veiling Oddity
+1 Tolarian Kraken
+1 Tome of the Guildpact
+1 Whirlpool Whelm
+1 Vedalken Aethermage
+1 Vivisection
+1 Tamiyo, the Moon Sage
+1 Whirling Catapult
+1 Trusted Advisor
+1 The Magic Mirror
+1 Turn Aside
+1 Toymaker
+1 Whirlermaker
+1 Surtland Elementalist
+1 Trail of Evidence
+1 Winter's Chill
+1 Thassa's Emissary
+1 Web of Inertia
+1 Synchronized Eviction
+1 Unified Will
+1 Stream of Thought
+1 Welcome to the Fold
+1 Teferi's Talent
+1 Voidmage Husher
+1 Thought-Knot Seer
+1 Taigam's Strike
+1 Thassa, God of the Sea
+1 Spell Swindle
+1 Venser, Shaper Savant
+1 Vedalken Archmage
+{'overall': '5', 'cmc': 3.4923076923076923, 'ramp': '3', 'draw': '17', 'interaction': 10}

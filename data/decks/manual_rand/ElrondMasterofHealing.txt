@@ -1,0 +1,69 @@
+1 Elrond, Master of Healing
+1 Waterlogged Hulk // Watertight Gondola
+1 Undergrowth Scavenger
+1 Vulshok Battlegear
+1 Wasteful Harvest
+1 Sol Ring
+1 Unsubstantiate
+1 Untethered Express
+1 Synchronized Eviction
+1 Woodripper
+1 Thrive
+1 Vorinclex, Monstrous Raider
+1 Trap the Trespassers
+1 Wren's Run Hydra
+1 Vedalken Infuser
+1 Treason of Isengard
+1 Witherscale Wurm
+1 Thought Scour
+1 Tomakul Honor Guard
+1 Webweaver Changeling
+1 Syr Elenora, the Discerning
+1 War Dance
+1 Mana Vault
+1 Vigorspore Wurm
+1 Yavimaya Sojourner
+1 Underdark Rift
+1 _____-o-saurus
+1 Willbreaker
+1 Will of the Naga
+1 Wingspan Mentor
+1 Workshop Assistant
+1 Writ of Passage
+1 Symmetry Sage
+1 Streetwise Negotiator
+1 Voyager Drake
+1 Twice Upon a Time // Unlikely Meeting
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Wicked Slumber
+1 Sword of the Ages
+1 Wing Puncture
+1 TARDIS
+1 Wake Thrasher
+1 Twists and Turns // Mycoid Maze
+1 Titania's Song
+1 Thassa, Deep-Dwelling
+1 Ulamog's Despoiler
+1 Vivien, Monsters' Advocate
+1 Zahid, Djinn of the Lamp
+1 Urza, Lord High Artificer
+1 Weight of Memory
+1 Vastwood Fortification // Vastwood Thicket
+1 Vulshok Gauntlets
+1 Llanowar Elves
+1 The Great Henge
+1 Trench Gorger
+1 Ulvenwald Observer
+1 Veil of Secrecy
+1 Tishana, Voice of Thunder
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Teferi, Temporal Pilgrim
+1 Vedalken Certarch
+1 Voidwalk
+1 Whisperwood Elemental
+1 Toymaker
+1 Wizards of Thay
+1 Wreath of Geists
+1 Wicked Wolf
+1 Sweet-Gum Recluse
+{'overall': '5', 'cmc': 3.7058823529411766, 'ramp': '9', 'draw': '12', 'interaction': 5}

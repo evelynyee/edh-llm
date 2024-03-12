@@ -1,0 +1,69 @@
+1 Elenda and Azor
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Warg Rider
+1 Tymaret Calls the Dead
+1 Tah-Crop Skirmisher
+1 Wedding Ring
+1 Unified Strike
+1 Varina, Lich Queen
+1 TARDIS
+1 Windreader Sphinx
+1 Warlock Class
+1 Woeleecher
+1 Sword of the Ages
+1 Vicious Offering
+1 The Raven's Warning
+1 Zur, Eternal Schemer
+1 Trostani's Judgment
+1 Tallyman of Nurgle
+1 Wedding Announcement // Wedding Festivity
+1 Vizkopa Guildmage
+1 Worthy Cause
+1 Tolarian Geyser
+1 Wondrous Crucible
+1 Zethi, Arcane Blademaster
+1 Thwart
+1 Wander in Death
+1 The Battle of Bywater
+1 Vanish into Memory
+1 Wrath of God
+1 Wheel and Deal
+1 Yawgmoth, Thran Physician
+1 Wharf Infiltrator
+1 Wake the Dead
+1 _____ Bird Gets the Worm
+1 Wicked Reward
+1 Touch the Spirit Realm
+1 Undead Slayer
+1 Whispering Wizard
+1 Uchuulon
+1 Unearth
+1 Vito, Thorn of the Dusk Rose
+1 Vortex Elemental
+1 Whip of Erebos
+1 Zephyrim
+1 Tonic Peddler
+1 Mentor of the Meek
+1 Tormented Hero
+1 The Golden Throne
+1 Writ of Return
+1 The Moment
+1 Weathered Bodyguards
+1 Trove Tracker
+1 White Sun's Zenith
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Twisted Sewer-Witch
+1 Watcher of the Roost
+1 Wizards of Thay
+1 The Stasis Coffin
+1 Wall of Limbs
+1 Vraska's Contempt
+1 Tezzeret, Artifice Master
+1 Tetravus
+1 Veil of Secrecy
+1 Zulaport Cutthroat
+1 Whalebone Glider
+1 Weeping Angel
+1 Stromgald Cabal
+{'overall': '6', 'cmc': 3.4411764705882355, 'ramp': '2', 'draw': '22', 'interaction': 10}

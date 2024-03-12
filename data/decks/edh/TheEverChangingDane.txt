@@ -1,0 +1,64 @@
+1 The Ever-Changing 'Dane
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Swords to Plowshares
+1 Raffine's Tower
+1 Arcane Sanctum
+1 Dimir Signet
+1 Orzhov Signet
+1 Exotic Orchard
+1 Azorius Signet
+1 Void Rend
+1 Hallowed Fountain
+1 Grim Haruspex
+1 Godless Shrine
+1 Watery Grave
+1 Bane, Lord of Darkness
+1 Keiga, the Tide Star
+1 Talisman of Hierarchy
+1 Body Launderer
+1 Junji, the Midnight Sky
+1 Solemn Simulacrum
+1 Path to Exile
+1 Talisman of Dominance
+1 Reanimate
+1 Sea of Clouds
+1 Fellwar Stone
+1 Cemetery Puca
+1 Merieke Ri Berit
+1 Animate Dead
+1 Morphic Pool
+1 Prairie Stream
+1 Chamber of Manipulation
+1 Mimic Vat
+1 Counterspell
+1 Ratadrabik of Urborg
+1 Luminous Broodmoth
+1 Sunken Hollow
+1 Vault of Champions
+1 Mind Flayer
+1 Midnight Reaper
+1 Evil Twin
+1 Activated Sleeper
+1 Clever Impersonator
+1 Morbid Opportunist
+1 Nightmare Shepherd
+1 Rhystic Study
+1 Anguished Unmaking
+1 Caves of Koilos
+1 Elas il-Kor, Sadistic Pilgrim
+1 Talisman of Progress
+1 Shipwreck Marsh
+1 Marsh Flats
+1 Damn
+1 Swiftfoot Boots
+1 Drowned Catacomb
+1 Victimize
+1 Kokusho, the Evening Star
+1 Sower of Temptation
+1 Domineering Will
+1 Smothering Tithe
+1 Glacial Fortress
+1 Isolated Chapel
+{'overall': '6', 'cmc': 2.1587301587301586, 'ramp': '11', 'draw': '7', 'interaction': 8}

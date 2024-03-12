@@ -1,0 +1,68 @@
+1 Hisoka, Minamo Sensei
+1 Spellweaver Helix
+1 Ulamog's Reclaimer
+1 Temporal Aperture
+1 Teferi's Tutelage
+1 Timesifter
+1 Wandering Archaic // Explore the Vastlands
+1 Mulldrifter
+1 Sphinx's Tutelage
+1 Trinket Mage
+1 Tezzeret's Gatebreaker
+1 Visions of Duplicity
+1 Storm Cauldron
+1 Counterspell
+1 Trade Routes
+1 Whispers of the Muse
+1 Windfall
+1 Vedalken Engineer
+1 Urza's Bauble
+1 Void Mirror
+1 Telemin Performance
+1 Veiled Serpent
+1 Stormwing Entity
+1 Surtland Elementalist
+1 Wu Spy
+1 Vodalian Arcanist
+1 Verity Circle
+1 Willbender
+1 Spellseeker
+1 Totally Lost
+1 Thieves' Fortune
+1 Zhulodok, Void Gorger
+1 Vizier of Many Faces
+1 Venser, Shaper Savant
+1 The Unspeakable
+1 Zndrsplt's Judgment
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Wheel and Deal
+1 Whisk Away
+1 Tolaria West
+1 Threefold Signal
+1 Uncovered Clues
+1 Wand of Denial
+1 Wayfarer's Bauble
+1 Veiled Crocodile
+1 Thwart
+1 Watchful Automaton
+1 Void Stalker
+1 Watcher in the Mist
+1 Witness of the Ages
+1 Tamiyo's Journal
+1 Time Elemental
+1 Vantress Paladin
+1 Tidespout Tyrant
+1 Ugin, the Spirit Dragon
+1 Snapcaster Mage
+1 Vendilion Clique
+1 Talent of the Telepath
+1 Thought Eater
+1 Wretched Throng
+1 Toothy, Imaginary Friend
+1 Whetstone
+1 Wurm's Tooth
+1 Volcanic Eruption
+1 Vexing Puzzlebox
+1 Tempest Owl
+1 Vessel of Paramnesia
+{'overall': '5', 'cmc': 3.611940298507463, 'ramp': '6', 'draw': '23', 'interaction': 5}

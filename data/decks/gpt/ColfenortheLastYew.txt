@@ -1,0 +1,64 @@
+1 Colfenor, the Last Yew
+1 Wildcall
+1 Woodfall Primus
+1 Wake the Dead
+1 Visions of Dread
+1 Tooth Collector
+1 Victory's Envoy
+1 Tayam, Luminous Enigma
+1 Whalebone Glider
+1 Trove Warden
+1 Wasteland Strangler
+1 Workshop Warchief
+1 Weatherseed Treefolk
+1 Vivien's Invocation
+1 Wren's Run Packmaster
+1 Yisan, the Wanderer Bard
+1 Vessel of Nascency
+1 Treasure Hunter
+1 To the Slaughter
+1 Urborg Justice
+1 Syr Konrad, the Grim
+1 Vraska, Regal Gorgon
+1 Sword of Kaldra
+1 Swords to Plowshares
+1 Transmutation
+1 Titanic Brawl
+1 White Plume Adventurer
+1 Treacherous Pit-Dweller
+1 Will of the All-Hunter
+1 Wingrattle Scarecrow
+1 Virtue of Strength // Garenbrig Growth
+1 Vastwood Zendikon
+1 Whisperwood Elemental
+1 Trail of Mystery
+1 Voracious Vermin
+1 Vulturous Aven
+1 Woe Strider
+1 Vraska's Contempt
+1 Vorinclex // The Grand Evolution
+1 Rampant Growth
+1 Seedborn Muse
+1 Sylvan Hierophant
+1 Vastwood Animist
+1 Triumph of Ferocity
+1 Wilt-Leaf Liege
+1 Vivien, Nature's Avenger
+1 Vedalken Shackles
+1 Yavimaya Dryad
+1 Tolsimir, Friend to Wolves
+1 Titania, Nature's Force
+1 Yotian Frontliner
+1 Tetzimoc, Primal Death
+1 Tormod's Crypt
+1 Vesperlark
+1 Wayfaring Temple
+1 Uchuulon
+1 Zombie Assassin
+1 Warden of the Woods
+1 Vulturous Zombie
+1 Wing Snare
+1 Wildgrowth Walker
+1 Twisted Embrace
+1 Wild Instincts
+{'overall': '4', 'cmc': 3.6984126984126986, 'ramp': '6', 'draw': '9', 'interaction': 10}

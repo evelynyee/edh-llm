@@ -1,0 +1,64 @@
+1 Elas il-Kor, Sadistic Pilgrim
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Zulaport Cutthroat
+1 Blood Artist
+1 Cruel Celebrant
+1 Viscera Seer
+1 Caves of Koilos
+1 Corpse Knight
+1 Swords to Plowshares
+1 Orzhov Signet
+1 Skullclamp
+1 Suture Priest
+1 Village Rites
+1 Talisman of Hierarchy
+1 Tainted Field
+1 Isolated Chapel
+1 Carrion Feeder
+1 Reassembling Skeleton
+1 Path to Exile
+1 Cathar Commando
+1 Marauding Blight-Priest
+1 Godless Shrine
+1 Bastion of Remembrance
+1 Deadly Dispute
+1 Orzhov Basilica
+1 Fleshtaker
+1 Soul Warden
+1 Bojuka Bog
+1 Temple of Silence
+1 Teysa Karlov
+1 Despark
+1 Priest of Forgotten Gods
+1 Vault of Champions
+1 Jadar, Ghoulcaller of Nephalia
+1 Victimize
+1 Ashnod's Altar
+1 Damn
+1 Fracture
+1 Vito, Thorn of the Dusk Rose
+1 Fetid Heath
+1 Doomed Traveler
+1 Hidden Stockpile
+1 Unearth
+1 Anguished Unmaking
+1 Mind Stone
+1 Brightclimb Pathway
+1 Rite of Oblivion
+1 Scoured Barrens
+1 Marsh Flats
+1 Vampiric Rites
+1 Selfless Spirit
+1 Shineshadow Snarl
+1 Dark Ritual
+1 High Market
+1 Shattered Sanctum
+1 Esper Sentinel
+1 Grim Haruspex
+1 Dreadhorde Invasion
+1 Woe Strider
+1 Sanguine Bond
+1 The Meathook Massacre
+{'overall': '8', 'cmc': 1.492063492063492, 'ramp': '9', 'draw': '9', 'interaction': 8}

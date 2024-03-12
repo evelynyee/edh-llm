@@ -1,0 +1,101 @@
+1 Jazal Goldmane
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 War Screecher
+1 Sea Gate Banneret
+1 Cliffside Lookout
+1 Charismatic Vanguard
+1 Gerrard's Battle Cry
+1 Leonin Sun Standard
+1 Ambush Paratrooper
+1 Borrowed Grace
+1 Encampment Keeper
+1 Morale
+1 Steadfast Unicorn
+1 Army of Allah
+1 Bone Flute
+1 Gideon, Martial Paragon
+1 Windborne Charge
+1 Selfless Cathar
+1 Spare from Evil
+1 Soul of Theros
+1 Gustrider Exuberant
+1 Thundering Chariot
+1 Moonshaker Cavalry
+1 Battershield Warrior
+1 Valiant Knight
+1 Kytheon's Tactics
+1 Selfless Spirit
+1 Dauntless Onslaught
+1 When We Were Young
+1 Steadfastness
+1 Solidarity
+1 Akroma's Will
+1 Bar the Door
+1 Inspired Charge
+1 Ethereal Guidance
+1 Shield Wall
+1 Angelic Exaltation
+1 Paragon of New Dawns
+1 Ghost Tactician
+1 Guardians' Pledge
+1 Warrior's Honor
+1 Warrior's Charge
+1 Virtuous Charge
+1 Glorious Charge
+1 Charge
+1 Bane's Invoker
+1 Sanctified Charge
+1 Tandem Tactics
+1 Holy Light
+1 Valorous Charge
+1 Rally
+1 Rally of Wings
+1 Righteous Charge
+1 Makindi Stampede // Makindi Mesas
+1 Hold the Line
+1 In Oketra's Name
+1 Piety
+1 Steel-Plume Marshal
+1 Rhystic Shield
+1 Hero of the Winds
+1 Bold Defense
+1 Skyshaper
+1 Crashing Drawbridge
+1 Bond of Discipline
+1 Tenacity
+{'overall': '1', 'cmc': 2.9846153846153847, 'ramp': '0', 'draw': '0', 'interaction': 0}

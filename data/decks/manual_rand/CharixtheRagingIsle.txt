@@ -1,0 +1,69 @@
+1 Charix, the Raging Isle
+1 Triton Tactics
+1 Temporal Mastery
+1 Urza's Incubator
+1 Tidal Surge
+1 Writ of Passage
+1 Surtland Elementalist
+1 Spell Blast
+1 Untethered Express
+1 War Room
+1 Void Mirror
+1 Turn into a Pumpkin
+1 Spontaneous Mutation
+1 Write into Being
+1 Spire Golem
+1 Whalebone Glider
+1 Wind-Kin Raiders
+1 Witchbane Orb
+1 Witness of the Ages
+1 Underdark Rift
+1 Skaab Goliath
+1 Spell Rupture
+1 Volrath's Shapeshifter
+1 Tempted by the Oriq
+1 Sparkshaper Visionary
+1 Star Whale
+1 The Chain Veil
+1 Suffocation
+1 Well of Life
+1 Xerex Strobe-Knight
+1 Weaver of Lies
+1 Witness Protection
+1 Take Possession
+1 The Seedcore
+1 Talent of the Telepath
+1 Thran Power Suit
+1 Time Elemental
+1 Thoughtbind
+1 Tempest Owl
+1 Sphere of Resistance
+1 Toymaker
+1 Wizard's Spellbook
+1 Zoetic Cavern
+1 Steel Hellkite
+1 Suit Up
+1 Waker of Waves
+1 Uba Mask
+1 Thran Forge
+1 Tortoise Formation
+1 Warmonger's Chariot
+1 Tidal Bore
+1 Turn the Tide
+1 The Reality Chip
+1 Wings of Hubris
+1 Thunderheads
+1 Thassa's Ire
+1 Wall of Water
+1 Synchronized Eviction
+1 Wicked Slumber
+1 War Barge
+1 You Come to a River
+1 The Stasis Coffin
+1 Synod Artificer
+1 Teller of Tales
+1 Voltaic Construct
+1 Tezzeret, Cruel Machinist
+1 Transmogrifying Licid
+1 Skittering Cicada
+{'overall': '3', 'cmc': 3.3676470588235294, 'ramp': '0', 'draw': '8', 'interaction': 5}

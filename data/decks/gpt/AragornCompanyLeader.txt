@@ -1,0 +1,68 @@
+1 Aragorn, Company Leader
+1 Mana Vault
+1 Rampant Growth
+1 Strength of the Pack
+1 Triumph of the Hordes
+1 Venerated Loxodon
+1 Vivien Reid
+1 Verdant Confluence
+1 Wildgrowth Walker
+1 Swarm Shambler
+1 Wrenn and Seven
+1 Vivien, Monsters' Advocate
+1 Wildcall
+1 Woodfall Primus
+1 Venerated Rotpriest
+1 Seedborn Muse
+1 Thallid Germinator
+1 Vigorspore Wurm
+1 Woodland Champion
+1 Yavimaya Enchantress
+1 Tangle Angler
+1 Tervigon
+1 Viral Spawning
+1 Vexilus Praetor
+1 War Dance
+1 Winds of Qal Sisma
+1 White Mana Battery
+1 Victory's Envoy
+1 Topan Ascetic
+1 The One Ring
+1 Valor Made Real
+1 Surrak and Goreclaw
+1 Ugin's Conjurant
+1 Trophy Hunter
+1 Thornwatch Scarecrow
+1 Zelyon Sword
+1 Vivien's Invocation
+1 Trostani Discordant
+1 Verdant Command
+1 Vivien, Arkbow Ranger
+1 Vigor
+1 Vivien of the Arkbow
+1 Vivien, Nature's Avenger
+1 Thorn Mammoth
+1 Triskelion
+1 Wingsteed Rider
+1 Tel-Jilad Fallen
+1 Sword of Hours
+1 Viridian Betrayers
+1 Titania's Command
+1 Vrestin, Menoptra Leader
+1 Wild Onslaught
+1 Stonecoil Serpent
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Titanic Brawl
+1 White Plume Adventurer
+1 Trollhide
+1 Vivid Meadow
+1 Sunspring Expedition
+1 Tandem Takedown
+1 Vizier of Remedies
+1 Vivid Grove
+1 Soulcatcher
+1 Warden of the Inner Sky
+1 Tyrite Sanctum
+1 Vampire's Zeal
+1 Ugin's Nexus
+{'overall': '6', 'cmc': 3.4029850746268657, 'ramp': '6', 'draw': '7', 'interaction': 12}

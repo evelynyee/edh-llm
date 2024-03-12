@@ -1,0 +1,66 @@
+1 Neheb, the Worthy
+1 Chaos Warp
+1 Vicious Shadows
+1 Throat Slitter
+1 Syphon Mind
+1 Twilight Prophet
+1 World at War
+1 Thunderbolt
+1 Warlock Class
+1 Venser's Journal
+1 Spiteful Visions
+1 Vraska's Contempt
+1 Zombie Master
+1 Volcanic Vision
+1 Sokenzan Renegade
+1 Terra Ravager
+1 Theater of Horrors
+1 Tuskeri Firewalker
+1 Treacherous Vampire
+1 Warfire Javelineer
+1 Go for the Throat
+1 Wild Magic Surge
+1 Task Mage Assembly
+1 Syphon Soul
+1 Zurzoth, Chaos Rider
+1 Vial Smasher the Fierce
+1 Wrench Mind
+1 Wail of the Nim
+1 Volcanic Offering
+1 Tectonic Giant
+1 Thunderblade Charge
+1 Temple Bell
+1 Talara's Bane
+1 Warlord's Fury
+1 Demonic Tutor
+1 Sol Ring
+1 Mind Stone
+1 Dark Ritual
+1 Lightning Bolt
+1 Vraska's Conquistador
+1 Xiahou Dun, the One-Eyed
+1 Teferi's Puzzle Box
+1 Word of Command
+1 Yawgmoth's Will
+1 Wildfire
+1 Urborg Justice
+1 Wake the Dead
+1 Viashino Pyromancer
+1 Wasp of the Bitter End
+1 Mana Vault
+1 Sulfurous Blast
+1 Vindictive Vampire
+1 Void
+1 Thoughtseize
+1 Diabolic Tutor
+1 Underworld Dreams
+1 Waste Not
+1 Wretched Confluence
+1 Thunderstaff
+1 Vislor Turlough
+1 Tombfire
+1 Unlicensed Disintegration
+1 Wheel of Misfortune
+1 Valakut Awakening // Valakut Stoneforge
+1 Vexing Devil
+{'overall': '5', 'cmc': 3.0923076923076924, 'ramp': '7', 'draw': '13', 'interaction': 17}

@@ -1,0 +1,64 @@
+1 Bartolomé del Presidio
+1 Sunspring Expedition
+1 Sol Ring
+1 Mana Vault
+1 Swords to Plowshares
+1 Animate Dead
+1 Victimize
+1 Wurmcoil Engine
+1 Vampire Hexmage
+1 Sword of Truth and Justice
+1 Whisper Squad
+1 Vexing Puzzlebox
+1 Woeleecher
+1 Verdant Catacombs
+1 Winds of Abandon
+1 Whirlermaker
+1 Unquestioned Authority
+1 Victory's Envoy
+1 War Priest of Thune
+1 Vengeful Strangler // Strangling Grasp
+1 Underhanded Designs
+1 Vizier of Remedies
+1 Teferi's Protection
+1 Steel Overseer
+1 Tome of Legends
+1 Warden of the Wall
+1 Wingsteed Rider
+1 Ugin's Conjurant
+1 Vindictive Vampire
+1 Thrasher Brute
+1 Sword of Hours
+1 Wingmate Roc
+1 Vivid Meadow
+1 Trigon of Corruption
+1 White Mana Battery
+1 Warping Wail
+1 Witches' Eye
+1 Soulblade Corrupter
+1 Strixhaven Stadium
+1 Trove Warden
+1 Wasteland Strangler
+1 Xenk, Paladin Unbroken
+1 Twisted Embrace
+1 Soulcatcher
+1 Voracious Vampire
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Vulturous Aven
+1 Vampire Scrivener
+1 Triskelion
+1 Tragic Poet
+1 Tinker's Tote
+1 Thought Gorger
+1 Tempting Witch
+1 Spiteful Hexmage
+1 Sunfall
+1 Woe Strider
+1 Spinal Parasite
+1 Treacherous Pit-Dweller
+1 Suncrusher
+1 Teysa, Orzhov Scion
+1 Thraben Inspector
+1 Tainted Adversary
+1 Tymaret Calls the Dead
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

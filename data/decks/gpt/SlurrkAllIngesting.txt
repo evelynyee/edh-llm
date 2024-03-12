@@ -1,0 +1,68 @@
+1 Slurrk, All-Ingesting
+1 Woodfall Primus
+1 Viridian Betrayers
+1 Verdant Crescendo
+1 Verdurous Gearhulk
+1 Thran Temporal Gateway
+1 Strength of the Pack
+1 Warden of the Wall
+1 Wildcall
+1 Vessel of Nascency
+1 Vorinclex // The Grand Evolution
+1 Ugin's Conjurant
+1 Umezawa's Jitte
+1 Doubling Season
+1 Sylvan Anthem
+1 Vivien's Invocation
+1 Yavimaya Elder
+1 Tooth and Nail
+1 Worldspine Wurm
+1 Ulamog, the Infinite Gyre
+1 Voracious Hydra
+1 Terastodon
+1 Bloom Tender
+1 Rampant Growth
+1 Spike Feeder
+1 Teething Wurmlet
+1 Wildwood Rebirth
+1 Vedalken Shackles
+1 Traverse the Outlands
+1 Vastwood Hydra
+1 Vivien, Nature's Avenger
+1 Green Sun's Zenith
+1 Verdant Catacombs
+1 Wren's Run Packmaster
+1 Triumph of Ferocity
+1 Titania, Protector of Argoth
+1 Staunch-Hearted Warrior
+1 Vorinclex, Monstrous Raider
+1 Eternal Witness
+1 Seedborn Muse
+1 World Shaper
+1 The Great Henge
+1 Wrenn and Seven
+1 Sword of Truth and Justice
+1 Titanoth Rex
+1 Wurmcoil Engine
+1 Treeshaker Chimera
+1 Soul of the Harvest
+1 Venerated Rotpriest
+1 Stinging Shot
+1 Verdeloth the Ancient
+1 Spincrusher
+1 Workshop Warchief
+1 Suncrusher
+1 Weatherseed Treefolk
+1 Warping Wail
+1 Wild Onslaught
+1 Tel-Jilad Fallen
+1 Viridian Emissary
+1 Titanic Brawl
+1 Turntimber Basilisk
+1 Wildgrowth Walker
+1 Woodland Champion
+1 Verdant Mastery
+1 Wandering Stream
+1 Thriving Rhino
+1 Vine Gecko
+{'overall': '7', 'cmc': 4.104477611940299, 'ramp': '13', 'draw': '15', 'interaction': 9}

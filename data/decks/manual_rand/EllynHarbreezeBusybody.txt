@@ -1,0 +1,69 @@
+1 Ellyn Harbreeze, Busybody
+1 Smuggler's Buggy
+1 Wondrous Crucible
+1 The Golden Throne
+1 Totem-Guide Hartebeest
+1 Sorcerer's Strongbox
+1 Trade Caravan
+1 Zephyrim
+1 Thraben Heretic
+1 The Prismatic Piper
+1 Thran Portal
+1 Witch Hunter
+1 Urza's Filter
+1 The Caves of Androzani
+1 The Birth of Meletis
+1 Sunscour
+1 Three Bowls of Porridge
+1 Wand of Vertebrae
+1 Temporary Lockdown
+1 Workshop Assistant
+1 Worry Beads
+1 Wayfaring Giant
+1 Tablet of Compleation
+1 Stick Together
+1 Tawnos's Coffin
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Solitude
+1 Stalwarts of Osgiliath
+1 Unwavering Initiate
+1 Wrath of God
+1 The Rack
+1 Twinning Staff
+1 Unfinished Business
+1 Vanquish the Horde
+1 You're Confronted by Robbers
+1 Skywhaler's Shot
+1 Trove Warden
+1 Verge Rangers
+1 Terrarion
+1 Vizier of Remedies
+1 Spurnmage Advocate
+1 Terminus
+1 Well of Knowledge
+1 Swift Reckoning
+1 Soul Foundry
+1 Spark Rupture
+1 Surging Sentinels
+1 Wyrm's Crossing Patrol
+1 Smelting Vat
+1 Watchers of the Dead
+1 Triumphant Reckoning
+1 Treasure Vault
+1 Sudden Disappearance
+1 Swell of Courage
+1 Ulamog, the Ceaseless Hunger
+1 Starfield Mystic
+1 Veteran of the Depths
+1 Tel-Jilad Stylus
+1 Ugin's Nexus
+1 Wandering Graybeard
+1 Tempt with Glory
+1 Transmogrifying Wand
+1 Welcoming Vampire
+1 Void Mirror
+1 The Filigree Sylex
+1 Trial of a Time Lord
+1 Zhalfirin Void
+1 Stoic Farmer
+{'overall': '5', 'cmc': 3.6029411764705883, 'ramp': '6', 'draw': '15', 'interaction': 14}

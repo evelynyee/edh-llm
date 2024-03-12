@@ -1,0 +1,69 @@
+1 Tawnos, Urza's Apprentice
+1 Viscerid Drone
+1 Thermo-Alchemist
+1 Sudden Shock
+1 Toils of Night and Day
+1 Wing Commando
+1 Thassa's Rebuff
+1 Viashino Bladescout
+1 Turf Wound
+1 Vaporous Djinn
+1 Withdraw
+1 Wyll's Reversal
+1 The Everflowing Well // The Myriad Pools
+1 Wall of Tears
+1 Wall of Heat
+1 Vronos, Masked Inquisitor
+1 Tomb of Horrors Adventurer
+1 Zygon Infiltrator
+1 Wolf of Devil's Breach
+1 Volrath's Curse
+1 Village Watch // Village Reavers
+1 Storm King's Thunder
+1 Turn // Burn
+1 Train of Thought
+1 Wrap in Flames
+1 Trail of Evidence
+1 War Barge
+1 Yellow Scarves General
+1 Willbreaker
+1 Tidal Surge
+1 Thassa's Ire
+1 Young Pyromancer
+1 Volcanic Salvo
+1 Zoetic Cavern
+1 Veiled Sentry
+1 Wall of Frost
+1 Unblinking Observer
+1 Temporal Fissure
+1 Virtue of Knowledge // Vantress Visions
+1 Vedalken Orrery
+1 Tamiyo's Logbook
+1 Voltage Surge
+1 The Mirari Conjecture
+1 Traitorous Greed
+1 Word of Blasting
+1 Wurm's Tooth
+1 Stonybrook Banneret
+1 The Twelfth Doctor
+1 Waterfall Aerialist
+1 Treasure Cruise
+1 Wu Scout
+1 Warcry Phoenix
+1 Sword of Once and Future
+1 TARDIS
+1 Verity Circle
+1 Vexing Scuttler
+1 Tawnos's Wand
+1 Touchstone
+1 Tooth of Chiss-Goria
+1 Wind-Kin Raiders
+1 Veyran, Voice of Duality
+1 Task Mage Assembly
+1 Vaultbreaker
+1 Zurgo Bellstriker
+1 Thunderbreak Regent
+1 Volo, Itinerant Scholar
+1 The Blackstaff of Waterdeep
+1 Voltaic Key
+{'overall': '4', 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9}

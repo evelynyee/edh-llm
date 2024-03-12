@@ -1,0 +1,64 @@
+1 Orvar, the All-Form
+1 Sol Ring
+1 Mystic Sanctuary
+1 Mind Games
+1 Thermal Flux
+1 Arcane Signet
+1 Archaeomancer
+1 Archmage Emeritus
+1 Dream's Grip
+1 High Tide
+1 Hidden Strings
+1 Peregrine Drake
+1 Ghostly Flicker
+1 Aquitect's Will
+1 Twiddle
+1 Counterspell
+1 Clockspinning
+1 Cerulean Wisps
+1 Mulldrifter
+1 Shimmering Mirage
+1 Mind Stone
+1 Whim of Volrath
+1 Trait Doctoring
+1 Sapphire Medallion
+1 Shadow Rift
+1 Reliquary Tower
+1 Leap
+1 Twisted Image
+1 Thought Vessel
+1 Gigadrowse
+1 Venser, Shaper Savant
+1 Solemn Simulacrum
+1 Rhystic Study
+1 Energy Tap
+1 Wavebreak Hippocamp
+1 Spark Double
+1 Cloudpost
+1 Pongify
+1 Essence Flux
+1 Cyclonic Rift
+1 Enervate
+1 Snap
+1 Shipwreck Dowser
+1 Dive Down
+1 Spellseeker
+1 Sakashima of a Thousand Faces
+1 Vesuvan Duplimancy
+1 Fleeting Distraction
+1 Mystic Remora
+1 Mystical Tutor
+1 Gilded Lotus
+1 Hullbreaker Horror
+1 Fellwar Stone
+1 Coveted Jewel
+1 Solve the Equation
+1 Master of Waves
+1 Scourge of Fleets
+1 Slip Through Space
+1 Teferi's Time Twist
+1 Swarmyard
+1 Agent of Treachery
+1 Mizzium Skin
+1 Twitch
+{'overall': '6', 'cmc': 2.365079365079365, 'ramp': '14', 'draw': '25', 'interaction': 6}

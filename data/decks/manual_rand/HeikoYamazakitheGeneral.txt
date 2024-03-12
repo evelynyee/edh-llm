@@ -1,0 +1,69 @@
+1 Heiko Yamazaki, the General
+1 Wedding Invitation
+1 Unpredictable Cyclone
+1 The Peregrine Dynamo
+1 Treasure Keeper
+1 Vulshok Morningstar
+1 Viashino Shanktail
+1 Chromatic Lantern
+1 Stromkirk Occultist
+1 Stensia Uprising
+1 Volcanic Offering
+1 Well of Discovery
+1 Temporary Insanity
+1 Wurm's Tooth
+1 Trove of Temptation
+1 Underdark Rift
+1 Tormentor's Helm
+1 Warlord's Fury
+1 Wand of Vertebrae
+1 Warbeast of Gorgoroth
+1 Tarrian's Soulcleaver
+1 Sizzling Soloist
+1 Sokenzan, Crucible of Defiance
+1 Stolen Strategy
+1 Scrap Trawler
+1 Synod Sanctum
+1 Wandering Archaic // Explore the Vastlands
+1 Torch Gauntlet
+1 Scion of Draco
+1 Stone Giant
+1 Thorned Moloch
+1 Thought Prison
+1 Smuggler's Copter
+1 Soulfire Eruption
+1 Vaultbreaker
+1 Wand of Ith
+1 Imperial Recruiter
+1 Unstable Hulk
+1 Urza's Bauble
+1 Toymaker
+1 Viashino Sandstalker
+1 Urza's Incubator
+1 Song of Blood
+1 Steamclaw
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Veteran's Armaments
+1 Tectonic Giant
+1 Warlord's Axe
+1 Terror of the Peaks
+1 Task Mage Assembly
+1 Vedalken Shackles
+1 Tunnel Ignus
+1 Sandstorm Eidolon
+1 Sideswipe
+1 Smelt-Ward Gatekeepers
+1 Mana Vault
+1 Vandalblast
+1 Voldaren Estate
+1 Valakut Fireboar
+1 Spiteful Motives
+1 Varchild's War-Riders
+1 You Find Some Prisoners
+1 Uba Mask
+1 Viashino Sandscout
+1 Whip Sergeant
+1 Sunstreak Phoenix
+1 Thick-Skinned Goblin
+1 Sword of Once and Future
+{'overall': '4', 'cmc': 3.2794117647058822, 'ramp': '4', 'draw': '9', 'interaction': 7}

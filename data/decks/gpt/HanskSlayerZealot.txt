@@ -1,0 +1,65 @@
+1 Hansk, Slayer Zealot
+1 Sword of Hearth and Home
+1 Wheel of Fortune
+1 Verdant Rebirth
+1 Birds of Paradise
+1 Wildfire Eternal
+1 Tempting Contract
+1 Ugin, the Spirit Dragon
+1 Wurmcalling
+1 Vampires' Vengeance
+1 Wild Growth
+1 Bloom Tender
+1 Wildfire Cerberus
+1 Surtland Flinger
+1 Willow Priestess
+1 Thunderkin Awakener
+1 Stormbreath Dragon
+1 Wild Celebrants
+1 Sylvan Offering
+1 Trove of Temptation
+1 Turntimber Sower
+1 Verix Bladewing
+1 Wild Slash
+1 Lightning Bolt
+1 Young Pyromancer
+1 Sulfuric Vortex
+1 Vexing Devil
+1 Wrathful Red Dragon
+1 Warbeast of Gorgoroth
+1 Zendikar Resurgent
+1 Voracious Dragon
+1 Tibalt, the Fiend-Blooded
+1 Wildfire
+1 Urabrask's Forge
+1 Tectonic Giant
+1 Thunderclap
+1 Thunderbreak Regent
+1 Wildwood Rebirth
+1 Sprouting Phytohydra
+1 Trail of Crumbs
+1 Verdant Sun's Avatar
+1 Treetop Village
+1 Wild Mammoth
+1 Violent Impact
+1 Ulamog's Crusher
+1 Viashino Heretic
+1 Spontaneous Generation
+1 Sword of Light and Shadow
+1 Volcanic Offering
+1 Vine Dryad
+1 Warcry Phoenix
+1 Tireless Tracker
+1 Volcanic Vision
+1 Tezzeret's Simulacrum
+1 Virtue of Courage // Embereth Blaze
+1 Vengeful Ancestor
+1 Tyranid Invasion
+1 Volcanic Spite
+1 Yamabushi's Storm
+1 Wreak Havoc
+1 Rampant Growth
+1 Titania, Protector of Argoth
+1 Ulvenwald Observer
+1 Verdant Command
+{'overall': '6', 'cmc': 3.609375, 'ramp': '8', 'draw': '13', 'interaction': 16}

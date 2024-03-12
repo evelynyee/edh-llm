@@ -1,0 +1,64 @@
+1 Niv-Mizzet, Supreme
+1 Command Tower
+1 Growth Spiral
+1 Arcane Signet
+1 General Ferrous Rokiric
+1 Exotic Orchard
+1 Niv-Mizzet Reborn
+1 Tome of the Guildpact
+1 Chromatic Lantern
+1 Vega, the Watcher
+1 Boros Charm
+1 Eureka Moment
+1 Bring to Light
+1 Rakdos Charm
+1 Dovin's Veto
+1 Despark
+1 Izzet Charm
+1 Sol Ring
+1 Prismari Command
+1 Whirlwind of Thought
+1 Expressive Iteration
+1 Time Wipe
+1 Widespread Thieving
+1 Urban Evolution
+1 Storm-Kiln Artist
+1 Secrets of the Dead
+1 Faeburrow Elder
+1 Assassin's Trophy
+1 Archmage Emeritus
+1 Merciless Eviction
+1 Anguished Unmaking
+1 Pillar of the Paruns
+1 The World Tree
+1 Faithful Mending
+1 Witherbloom Apprentice
+1 Cosmic Rebirth
+1 Manamorphose
+1 Invasion of Ravnica
+1 Goblin Electromancer
+1 Fracture
+1 Fellwar Stone
+1 Farseek
+1 Guttersnipe
+1 Simic Charm
+1 Tainted Indulgence
+1 Supreme Verdict
+1 Terminate
+1 Countersquall
+1 Escape to the Wilds
+1 Inkshield
+1 Quandrix Apprentice
+1 Reborn Hope
+1 Thousand-Year Storm
+1 Steam Vents
+1 Golgari Charm
+1 Thrilling Discovery
+1 Sevinne, the Chronoclasm
+1 Breeding Pool
+1 Ketria Triome
+1 Stomping Ground
+1 Path of Ancestry
+1 Temple Garden
+1 Deflecting Palm
+{'overall': '7', 'cmc': 2.5873015873015874, 'ramp': '11', 'draw': '20', 'interaction': 16}

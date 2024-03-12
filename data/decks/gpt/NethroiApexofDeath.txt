@@ -1,0 +1,66 @@
+1 Nethroi, Apex of Death
+1 Zendikar Resurgent
+1 Turntimber Sower
+1 Rampant Growth
+1 Vraska, Golgari Queen
+1 Vanquish the Weak
+1 Tangle Golem
+1 Yisan, the Wanderer Bard
+1 Zulaport Enforcer
+1 Vessel of Nascency
+1 Vanish into Eternity
+1 Wildcall
+1 Workshop Warchief
+1 Tayam, Luminous Enigma
+1 Swashbuckler's Whip
+1 War Room
+1 Witches' Eye
+1 World Breaker
+1 Vengevine
+1 Vivien Reid
+1 Treacherous Blessing
+1 Vraska's Contempt
+1 Tendrils of Agony
+1 Vastwood Surge
+1 Whirling Catapult
+1 Wing Shards
+1 Verduran Enchantress
+1 Wirewood Channeler
+1 Underworld Charger
+1 Vorinclex // The Grand Evolution
+1 Seedborn Muse
+1 Tooth and Nail
+1 Mana Vault
+1 Vraska, Regal Gorgon
+1 Turn the Earth
+1 Terashi's Grasp
+1 Vizkopa Confessor
+1 Vengeful Dreams
+1 Urborg Uprising
+1 Vivien's Invocation
+1 Vengeful Reaper
+1 Unmask
+1 Triumph of Saint Katherine
+1 Vizier of the Menagerie
+1 Wren's Run Vanquisher
+1 Zombie Assassin
+1 Unearth
+1 Wake the Dead
+1 Trinisphere
+1 Tombstalker
+1 Visions of Dread
+1 Viridian Longbow
+1 Vivien, Nature's Avenger
+1 Vona, Butcher of Magan
+1 Virtus's Maneuver
+1 Whalebone Glider
+1 Withering Wisps
+1 Urborg Justice
+1 Welcoming Vampire
+1 Tomb Tyrant
+1 Vivien's Grizzly
+1 Yavimaya Sojourner
+1 Triassic Egg
+1 Tranquil Frillback
+1 Vessel of Malignity
+{'overall': '5', 'cmc': 3.6615384615384614, 'ramp': '8', 'draw': '17', 'interaction': 11}

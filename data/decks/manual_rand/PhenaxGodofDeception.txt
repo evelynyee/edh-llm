@@ -1,0 +1,69 @@
+1 Phenax, God of Deception
+1 Tezzeret the Schemer
+1 Zanikev Locust
+1 Varragoth, Bloodsky Sire
+1 Wormhole Serpent
+1 Toll of the Invasion
+1 Tainted Adversary
+1 Windfall
+1 Twisted Sewer-Witch
+1 Whir of Invention
+1 Unerring Sling
+1 Xathrid Slyblade
+1 Tangled Colony
+1 Veilstone Amulet
+1 Mind Stone
+1 Touch of Darkness
+1 Western Paladin
+1 Ugin, the Ineffable
+1 Volcanic Eruption
+1 Wingfold Pteron
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Tower of Murmurs
+1 Wall of Distortion
+1 Wall of Kelp
+1 Vampire's Kiss
+1 To the Slaughter
+1 Suq'Ata Firewalker
+1 Yixlid Jailer
+1 Warehouse Tabby
+1 Voltaic Construct
+1 Sudden Spoiling
+1 Venarian Glimmer
+1 Undercity Scrounger
+1 Wanderbrine Rootcutters
+1 True Polymorph
+1 Vendetta
+1 Talion, the Kindly Lord
+1 Urborg Uprising
+1 Timothar, Baron of Bats
+1 Zombie Trailblazer
+1 Worldslayer
+1 Untethered Express
+1 Treacherous Vampire
+1 Turtleshell Changeling
+1 Xanathar, Guild Kingpin
+1 Worldly Counsel
+1 Blood Artist
+1 Warkite Marauder
+1 Verity Circle
+1 Uninvited Geist // Unimpeded Trespasser
+1 Wall of Stolen Identity
+1 Wizard Mentor
+1 Weirding Shaman
+1 Tsabo's Assassin
+1 Trespasser's Curse
+1 Wizards of Thay
+1 Touchstone
+1 Topaz Dragon // Entropic Cloud
+1 Vedalken Humiliator
+1 _____ _____ _____ Trespasser
+1 Tower of Coireall
+1 Warchanter of Mogis
+1 Undo
+1 Veiled Sentry
+1 Whirlwind Adept
+1 Unliving Psychopath
+1 Volo, Itinerant Scholar
+1 Visage of Dread // Dread Osseosaur
+{'overall': '6', 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8}

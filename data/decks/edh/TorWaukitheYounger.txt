@@ -1,0 +1,64 @@
+1 Tor Wauki the Younger
+1 Sol Ring
+1 Command Tower
+1 Guttersnipe
+1 Arcane Signet
+1 Lightning Bolt
+1 Dark Ritual
+1 Faithless Looting
+1 Kessig Flamebreather
+1 Storm-Kiln Artist
+1 You Are Already Dead
+1 Firebrand Archer
+1 Smoldering Marsh
+1 Rakdos Signet
+1 Thermo-Alchemist
+1 Chaos Warp
+1 Electrostatic Field
+1 Grapeshot
+1 Sign in Blood
+1 End the Festivities
+1 Mana Geyser
+1 Thrill of Possibility
+1 Light Up the Stage
+1 Torbran, Thane of Red Fell
+1 Rakdos Charm
+1 Night's Whisper
+1 Dragonskull Summit
+1 Birgi, God of Storytelling
+1 Jeska's Will
+1 Blasphemous Act
+1 Feed the Swarm
+1 Bojuka Bog
+1 Expedite
+1 Talisman of Indulgence
+1 Rakdos Carnarium
+1 Luxury Suite
+1 Swiftfoot Boots
+1 Vandalblast
+1 Read the Bones
+1 Abrade
+1 Seething Song
+1 Young Pyromancer
+1 Cremate
+1 Blood Crypt
+1 Needle Drop
+1 Kederekt Parasite
+1 Fellwar Stone
+1 Myriad Landscape
+1 Foreboding Ruins
+1 Basilisk Collar
+1 Tainted Peak
+1 Terminate
+1 Electrickery
+1 Sulfurous Springs
+1 Mind Stone
+1 Pestilent Spirit
+1 Runaway Steam-Kin
+1 Florian, Voldaren Scion
+1 Malakir Rebirth
+1 Renegade Tactics
+1 Bedevil
+1 Lightning Greaves
+1 Shivan Gorge
+{'overall': '6', 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '13', 'interaction': 14}

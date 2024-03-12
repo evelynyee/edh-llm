@@ -1,0 +1,69 @@
+1 Sliver Legion
+1 Word of Binding
+1 Urborg Scavengers
+1 Thundermaw Hellkite
+1 Triumph of Gerrard
+1 Wildwood Tracker
+1 Wojek Siren
+1 Wei Strike Force
+1 Yukora, the Prisoner
+1 War Screecher
+1 You Come to the Gnoll Camp
+1 Wickerbough Elder
+1 Ulvenwald Bear
+1 Vampirism
+1 Wind Sail
+1 Yotia Declares War
+1 Whisper of the Dross
+1 Veteran Armorsmith
+1 Viridian Betrayers
+1 Wizened Cenn
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Vigilant Baloth
+1 Warlord's Fury
+1 Wurmskin Forger
+1 Warbeast of Gorgoroth
+1 Zealot's Conviction
+1 Trusted Forcemage
+1 War Mammoth
+1 Zealot il-Vec
+1 Waveskimmer Aven
+1 Viridian Lorebearers
+1 Unctus's Retrofitter
+1 Virtuous Charge
+1 Yeva's Forcemage
+1 Waterkin Shaman
+1 Widespread Brutality
+1 Toxic Scorpion
+1 Vitalizing Wind
+1 Wingmantle Chaplain
+1 Xenograft
+1 _____ _____ _____ Trespasser
+1 Weight of Conscience
+1 Wei Ambush Force
+1 Vito's Inquisitor
+1 Wilt-Leaf Cavaliers
+1 Swords to Plowshares
+1 Wave-Wing Elemental
+1 Vraska, Scheming Gorgon
+1 Zygon Infiltrator
+1 Wild Elephant
+1 Thundermare
+1 Vitalize
+1 Tuya Bearclaw
+1 Zealous Conscripts
+1 Vitality Hunter
+1 Valor
+1 Wingrattle Scarecrow
+1 Vampire Socialite
+1 Zur, Eternal Schemer
+1 Wintermoor Commander
+1 Xenagos, God of Revels
+1 Zephyr Sprite
+1 Vulshok Heartstoker
+1 Vastwood Hydra
+1 Vastwood Fortification // Vastwood Thicket
+1 Wee Champion
+1 White Sun's Twilight
+1 Tromp the Domains
+{'overall': '2', 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6}

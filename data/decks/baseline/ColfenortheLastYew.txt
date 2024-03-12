@@ -1,0 +1,101 @@
+1 Colfenor, the Last Yew
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Reincarnation
+1 Meren of Clan Nel Toth
+1 Body Launderer
+1 Guardian Scalelord
+1 Savior of Ollenbock
+1 Graceful Reprieve
+1 Paleoloth
+1 Return Triumphant
+1 Adarkar Valkyrie
+1 Raffine's Silencer
+1 Gurgling Anointer
+1 Okiba Salvage
+1 Cold Storage
+1 Eagle of Deliverance
+1 First Responder
+1 Unbreakable Bond
+1 Scrollshift
+1 Dutiful Attendant
+1 Eriette's Whisper
+1 Clear the Stage
+1 Graceful Restoration
+1 Guardian Project
+1 Exhumer Thrull
+1 Cryptek
+1 Plow Through Reito
+1 Persist
+1 Suspension Field
+1 Yedora, Grave Gardener
+1 Archpriest of Shadows
+1 Puppeteer Clique
+1 Orzhov Charm
+1 Forcemage Advocate
+1 Not Dead After All
+1 Solitude
+1 Undying Malice
+1 Feign Death
+1 Against All Odds
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Shatter the Oath
+1 Loran, Disciple of History
+1 Together Forever
+1 Ironsoul Enforcer
+1 Cloudshift
+1 Sylvan Hierophant
+1 God-Eternal Rhonas
+1 Liliana, Heretical Healer // Liliana, Defiant Necromancer
+1 Yawgmoth's Vile Offering
+1 Defy Death
+1 Teleportation Circle
+1 Kutzil's Flanker
+1 Settle Beyond Reality
+1 Survivors' Bond
+1 Malakir Rebirth // Malakir Mire
+1 Shirei, Shizo's Caretaker
+1 Scuttling Death
+1 Verdant Rebirth
+1 Whisper, Blood Liturgist
+1 Resplendent Marshal
+1 Fearsome Awakening
+1 Soulblade Corrupter
+1 Ashnod's Intervention
+1 Protective Parents
+1 Crime // Punishment
+{'overall': '2', 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '7', 'interaction': 9}

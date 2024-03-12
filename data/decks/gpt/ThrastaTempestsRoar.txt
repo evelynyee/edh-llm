@@ -1,0 +1,64 @@
+1 Thrasta, Tempest's Roar
+1 Vernal Bloom
+1 Rampant Growth
+1 Doubling Season
+1 Seedborn Muse
+1 Wildcall
+1 Vengeant Earth
+1 Green Sun's Zenith
+1 Wildgrowth Walker
+1 Wild Onslaught
+1 Verdant Haven
+1 Crop Rotation
+1 Bloom Tender
+1 Ugin, the Spirit Dragon
+1 Vivien's Invocation
+1 Thorn Elemental
+1 Tornado Elemental
+1 Vedalken Shackles
+1 Weaver of Harmony
+1 Vine Mare
+1 Vastwood Surge
+1 Whirling Catapult
+1 Wand of Denial
+1 Wren's Run Vanquisher
+1 Ulamog's Crusher
+1 Surrak, the Hunt Caller
+1 Vizier of the Menagerie
+1 Zendikar Resurgent
+1 Workshop Warchief
+1 Whalebone Glider
+1 Yew Spirit
+1 Spinning Wheel Kick
+1 Titanic Brawl
+1 The Great Henge
+1 Sylvan Safekeeper
+1 Veil of Summer
+1 Sword of Feast and Famine
+1 Talara's Battalion
+1 Thousand-Year Elixir
+1 Triumph of Ferocity
+1 Sword of Light and Shadow
+1 Urza's Incubator
+1 Vivien, Monsters' Advocate
+1 Vivien's Stampede
+1 Vivien, Arkbow Ranger
+1 Sword of Hours
+1 Throne of the God-Pharaoh
+1 Thorn Lieutenant
+1 Wrenn and Seven
+1 Sword of Sinew and Steel
+1 Thelon's Chant
+1 Vexing Arcanix
+1 Winter Blast
+1 Ugin's Mastery
+1 Tormod's Crypt
+1 Umezawa's Jitte
+1 Swiftfoot Boots
+1 Sol Ring
+1 Swashbuckler's Whip
+1 Turntimber Basilisk
+1 Thornbite Staff
+1 Zodiac Tiger
+1 The Chain Veil
+{'overall': '5', 'cmc': 3.5238095238095237, 'ramp': '9', 'draw': '10', 'interaction': 10}
