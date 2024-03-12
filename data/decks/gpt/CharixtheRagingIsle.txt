@@ -1,0 +1,64 @@
+1 Charix, the Raging Isle
+1 Thassa, God of the Sea
+1 Counterspell
+1 Cyclonic Rift
+1 Mana Drain
+1 Zoetic Glyph
+1 Vedalken Blademaster
+1 Wingspan Mentor
+1 Wizard's Spellbook
+1 Volo, Itinerant Scholar
+1 Web of Inertia
+1 Whirlwind Denial
+1 Surtland Elementalist
+1 Thassa's Emissary
+1 Unified Will
+1 Teferi's Talent
+1 Vodalian Serpent
+1 Zephyr Singer
+1 Vizier of Many Faces
+1 Tishana's Tidebinder
+1 Stream of Thought
+1 Stolen Goods
+1 Swashbuckler's Whip
+1 Whalebone Glider
+1 Soratami Rainshaper
+1 Teferi, Mage of Zhalfir
+1 Thassa, Deep-Dwelling
+1 Tezzeret, Cruel Machinist
+1 Wheel and Deal
+1 Whirling Catapult
+1 Whim of Volrath
+1 Thousand Winds
+1 Mulldrifter
+1 Teferi, Master of Time
+1 Ugin, the Spirit Dragon
+1 Force of Will
+1 Mana Vault
+1 Snapcaster Mage
+1 Warden of Evos Isle
+1 Vizier of Tumbling Sands
+1 Wall of Tears
+1 Spell Burst
+1 Tezzeret, Betrayer of Flesh
+1 Sphinx of Jwar Isle
+1 Sword of Light and Shadow
+1 The Immortal Sun
+1 Wing Commando
+1 Turn Aside
+1 War Room
+1 Thieving Skydiver
+1 Vedalken Blademaster
+1 Vedalken Engineer
+1 Wall of Tears
+1 Vodalian Knights
+1 Wall of Water
+1 Zephyr Singer
+1 Wing Commando
+1 Whirlwind Denial
+1 Unified Will
+1 Surtland Elementalist
+1 Thassa's Emissary
+1 War Room
+1 Turn Aside
+{'overall': '5', 'cmc': 3.3773584905660377, 'ramp': '3', 'draw': '14', 'interaction': 13}

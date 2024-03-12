@@ -1,0 +1,68 @@
+1 Depala, Pilot Exemplar
+1 Wheel of Fate
+1 War Room
+1 Sun Titan
+1 Path to Exile
+1 Vindictive Flamestoker
+1 Vanish into Eternity
+1 Victory's Envoy
+1 Zhalfirin Void
+1 War of the Last Alliance
+1 Tempered in Solitude
+1 Taurean Mauler
+1 Thought-Knot Seer
+1 Timecrafting
+1 Vanquisher's Banner
+1 Venerable Warsinger
+1 Wingsteed Rider
+1 Swashbuckler's Whip
+1 Voracious Dragon
+1 Zephyrim
+1 Yuki-Onna
+1 White Mana Battery
+1 Sword of Once and Future
+1 Wrenn's Resolve
+1 Tyrite Sanctum
+1 Thrilling Discovery
+1 Trove Warden
+1 Transmogrify
+1 Wayward Guide-Beast
+1 Wildfire Devils
+1 Vulpikeet
+1 Vedalken Shackles
+1 Swords to Plowshares
+1 Teshar, Ancestor's Apostle
+1 Dockside Extortionist
+1 Zurgo Bellstriker
+1 Smothering Tithe
+1 Tormod's Crypt
+1 Sunforger
+1 Wheel of Misfortune
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Wild Magic Surge
+1 Twinblade Geist // Twinblade Invocation
+1 Stonebound Mentor
+1 Wild Evocation
+1 Vexing Puzzlebox
+1 Wandering Archaic // Explore the Vastlands
+1 Storm Cauldron
+1 Wingrattle Scarecrow
+1 Thraben Heretic
+1 Sword of the Animist
+1 Chaos Warp
+1 Wear // Tear
+1 Treasure Keeper
+1 Warhorn Blast
+1 Tuktuk Scrapper
+1 Wheel of Fortune
+1 Tectonic Giant
+1 Volcanic Wind
+1 Wandering Champion
+1 Lightning Bolt
+1 Thunder-Thrash Elder
+1 Wildfire
+1 Winds of Change
+1 Sword of Hearth and Home
+1 Verdant Catacombs
+1 Terrain Generator
+{'overall': '7', 'cmc': 2.91044776119403, 'ramp': '10', 'draw': '14', 'interaction': 11}

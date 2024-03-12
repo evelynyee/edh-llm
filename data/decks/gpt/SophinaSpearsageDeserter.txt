@@ -1,0 +1,68 @@
+1 Sophina, Spearsage Deserter
+1 Triumph of Gerrard
+1 Varchild, Betrayer of Kjeldor
+1 Sunbond
+1 Terashi's Grasp
+1 Valorous Stance
+1 White Plume Adventurer
+1 Valiant Rescuer
+1 Lightning Bolt
+1 Mind Stone
+1 Violent Impact
+1 Ultramarines Honour Guard
+1 Unassuming Sage
+1 Warbeast of Gorgoroth
+1 Varchild's War-Riders
+1 Tiller of Flesh
+1 Viashino Heretic
+1 Survive the Night
+1 Twilight Drover
+1 Soul Separator
+1 Sword of Light and Shadow
+1 Sword of Kaldra
+1 Vandalblast
+1 Windshaper Planetar
+1 Teyo, Geometric Tactician
+1 Take Up Arms
+1 Veteran's Armaments
+1 The Birth of Meletis
+1 Torii Watchward
+1 Voice of the Provinces
+1 Vial of Poison
+1 Winds of Abandon
+1 Wishmonger
+1 Syr Ginger, the Meal Ender
+1 Sunhome Guildmage
+1 Thraben Inspector
+1 Wurmcoil Engine
+1 Storm-Kiln Artist
+1 Ugin, the Ineffable
+1 The Mana Rig
+1 Tempting Contract
+1 Starke of Rath
+1 Toymaker
+1 Trading Post
+1 You're Confronted by Robbers
+1 Trusty Retriever
+1 Triskelavus
+1 Path to Exile
+1 Weight of Conscience
+1 Volcanic Vision
+1 Well of Knowledge
+1 Voldaren Epicure
+1 Thopter Assembly
+1 Sorcerer's Broom
+1 Smothering Tithe
+1 Thraben Doomsayer
+1 Staff of the Storyteller
+1 Stone Idol Trap
+1 The Underworld Cookbook
+1 Séance
+1 Zhalfirin Decoy
+1 Swords to Plowshares
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Urabrask's Forge
+1 Tilonalli's Skinshifter
+1 Worthy Cause
+1 Warcry Phoenix
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

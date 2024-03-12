@@ -1,0 +1,64 @@
+1 Tuknir Deathlock
+1 Sol Ring
+1 Command Tower
+1 Stomping Ground
+1 Nature's Lore
+1 Birds of Paradise
+1 Rhythm of the Wild
+1 Llanowar Elves
+1 Harmonize
+1 Kodama's Reach
+1 Chaos Warp
+1 Beast Within
+1 Arcane Signet
+1 Spire Garden
+1 Beast Whisperer
+1 Cultivate
+1 Rootbound Crag
+1 Fyndhorn Elves
+1 Three Visits
+1 Rampant Growth
+1 Fires of Yavimaya
+1 Goblin Anarchomancer
+1 Rockfall Vale
+1 Quartzwood Crasher
+1 Kogla, the Titan Ape
+1 Xenagos, God of Revels
+1 Eternal Witness
+1 Elvish Mystic
+1 Thrill of Possibility
+1 Faithless Looting
+1 Cinder Glade
+1 Wood Elves
+1 Karplusan Forest
+1 Yavimaya, Cradle of Growth
+1 Cragcrown Pathway
+1 Shifting Ceratops
+1 Arbor Elf
+1 Etali, Primal Storm
+1 Blasphemous Act
+1 Talisman of Impulse
+1 Gruul Signet
+1 Mossfire Valley
+1 Sylvan Library
+1 Garruk's Uprising
+1 Kessig Wolf Run
+1 Temple of Abandon
+1 Skyshroud Claim
+1 Lightning Bolt
+1 Boseiju, Who Endures
+1 Saryth, the Viper's Fang
+1 Toski, Bearer of Secrets
+1 Valakut Awakening
+1 Klothys, God of Destiny
+1 Ruric Thar, the Unbowed
+1 Rampaging Baloths
+1 Dockside Extortionist
+1 Savage Ventmaw
+1 Sakura-Tribe Elder
+1 Nature's Claim
+1 Return of the Wildspeaker
+1 Scale Up
+1 Tormenting Voice
+1 Grafted Exoskeleton
+{'overall': '7', 'cmc': 2.4285714285714284, 'ramp': '20', 'draw': '11', 'interaction': 9}

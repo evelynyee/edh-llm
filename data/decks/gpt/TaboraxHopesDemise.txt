@@ -1,0 +1,65 @@
+1 Taborax, Hope's Demise
+1 Skemfar Avenger
+1 Vampire Nocturnus
+1 Sword of Hours
+1 Swashbuckler's Whip
+1 Shatter the Oath
+1 Skyclave Shade
+1 Wake the Dead
+1 Withering Wisps
+1 Wasteland Strangler
+1 Ugin's Conjurant
+1 Damnation
+1 Sengir Connoisseur
+1 Dark Ritual
+1 Vito, Thorn of the Dusk Rose
+1 Steel Overseer
+1 Scorn-Blade Berserker
+1 Uchuulon
+1 Whisper Squad
+1 Vampire Scrivener
+1 Thief of Blood
+1 Whirling Catapult
+1 Warping Wail
+1 Spiteful Hexmage
+1 Treacherous Blessing
+1 Vampiric Tutor
+1 Mana Crypt
+1 Arcane Signet
+1 Mana Vault
+1 Sol Ring
+1 Treacherous Vampire
+1 Vito's Inquisitor
+1 Thief of Hope
+1 Vengeful Vampire
+1 Sphinx-Bone Wand
+1 Thought Gorger
+1 Thornbite Staff
+1 Urza's Miter
+1 Tetzimoc, Primal Death
+1 Wretched Banquet
+1 Vengeful Warchief
+1 Vraska's Contempt
+1 Vraska, Scheming Gorgon
+1 Vengeant Vampire
+1 Suncrusher
+1 Go for the Throat
+1 Zombie Assassin
+1 Xathrid Demon
+1 The Monumental Facade
+1 The Torment of Gollum
+1 Workhorse
+1 Twisted Embrace
+1 Toshiro Umezawa
+1 Toxic Nim
+1 Treacherous Pit-Dweller
+1 Wooded Foothills
+1 Szat's Will
+1 Tyrite Sanctum
+1 Vengeful Pharaoh
+1 The Witch's Vanity
+1 Spinal Parasite
+1 Tooth Collector
+1 Scrapyard Recombiner
+1 Witches' Eye
+{'overall': '6', 'cmc': 3.234375, 'ramp': '7', 'draw': '9', 'interaction': 20}

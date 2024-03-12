@@ -1,0 +1,101 @@
+1 Nicanzil, Current Conductor
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Path of Discovery
+1 Hakbal of the Surging Soul
+1 Enter the Unknown
+1 Composer of Spring
+1 Subterranean Schooner
+1 Lodestone Needle // Guidestone Compass
+1 Over the Edge
+1 Show and Tell
+1 Deepfathom Echo
+1 Burgeoning
+1 Tishana's Wayfinder
+1 Ixalli's Diviner
+1 Risen Reef
+1 Dragon Arch
+1 Merfolk Branchwalker
+1 Doubling Chant
+1 River Herald Scout
+1 River Herald Guide
+1 Cenote Scout
+1 Jadelight Ranger
+1 Pathfinding Axejaw
+1 Siren Lookout
+1 Ecologist's Terrarium
+1 Arbiter of the Ideal
+1 Verdant Succession
+1 Jadelight Spelunker
+1 Quicksilver Amulet
+1 Restore
+1 Trail of Mystery
+1 Dramatic Entrance
+1 Metamorphose
+1 Hypergenesis
+1 Scaretiller
+1 Bifurcate
+1 Elvish Piper
+1 Aetherplasm
+1 Skyclave Aerialist // Skyclave Invader
+1 Sarinth Steelseeker
+1 Walking Atlas
+1 Scaled Herbalist
+1 Sakura-Tribe Scout
+1 Llanowar Scout
+1 Didgeridoo
+1 Broken Bond
+1 Seeker of Sunlight
+1 Toothy, Imaginary Friend
+1 Loam Dweller
+1 Pendant of Prosperity
+1 Triassic Egg
+1 Court of Bounty
+1 Budoka Gardener // Dokai, Weaver of Life
+1 Krosan Wayfarer
+1 Glowering Rogon
+1 Fertilid's Favor
+1 Caravan Vigil
+1 Malanthrope
+1 Emperor's Vanguard
+1 Norwood Priestess
+1 Pattern of Rebirth
+1 Map the Wastes
+1 Ruin in Their Wake
+1 Monster Manual // Zoological Study
+1 Primal Growth
+{'overall': '5', 'cmc': 2.803030303030303, 'ramp': '13', 'draw': '28', 'interaction': 2}

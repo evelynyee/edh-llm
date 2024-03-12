@@ -1,0 +1,101 @@
+1 Gimli, Counter of Kills
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Dingus Staff
+1 Blur of Blades
+1 Heat of Battle
+1 Battle Strain
+1 Searing Blood
+1 Careless Celebrant
+1 Tectonic Hazard
+1 Kami's Flare
+1 Dwarven Scorcher
+1 Rending Flame
+1 Hellrider
+1 Surtland Flinger
+1 Mutiny
+1 Chandra's Fury
+1 Rage Thrower
+1 Starfall
+1 Breaking of the Fellowship
+1 Searing Blaze
+1 Flame Wave
+1 Blazing Salvo
+1 Unleash Shell
+1 Hobblefiend
+1 Flames of the Raze-Boar
+1 Repercussion
+1 Burn the Impure
+1 Hissing Iguanar
+1 Chandra's Outrage
+1 Purifying Dragon
+1 Spiteful Prankster
+1 Cavalcade of Calamity
+1 Stalking Vengeance
+1 First Volley
+1 Raid Bombardment
+1 Triangle of War
+1 Latulla's Orders
+1 Neko-Te
+1 Rampaging Ferocidon
+1 Toralf, God of Fury // Toralf's Hammer
+1 Chandra, Flame's Fury
+1 Karplusan Hound
+1 Kyren Negotiations
+1 Aggravate
+1 Flame Spill
+1 Arcbond
+1 Chandra's Triumph
+1 End the Festivities
+1 Redcap Melee
+1 Scorch Spitter
+1 Assembled Alphas
+1 Cyclops Gladiator
+1 Pandemonium
+1 Scab-Clan Berserker
+1 Flameblade Angel
+1 All Will Be One
+1 Commando Raid
+1 Flamespeaker's Will
+1 Alpha Brawl
+1 Aura Barbs
+1 Radiating Lightning
+1 The Fall of Kroog
+1 Iroas's Blessing
+1 Seismic Wave
+1 Pigment Storm
+{'overall': '1', 'cmc': 3.3846153846153846, 'ramp': '0', 'draw': '0', 'interaction': 46}

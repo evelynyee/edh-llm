@@ -1,0 +1,64 @@
+1 Alandra, Sky Dreamer
+1 Sol Ring
+1 Talrand, Sky Summoner
+1 Brainstorm
+1 Reliquary Tower
+1 Thought Vessel
+1 Teferi's Ageless Insight
+1 Frantic Search
+1 Loyal Drake
+1 Arcane Signet
+1 Wizard Class
+1 Mystic Sanctuary
+1 Counterspell
+1 Mind Stone
+1 Arcane Denial
+1 Flow of Knowledge
+1 Opt
+1 Thirst for Discovery
+1 Windfall
+1 High Tide
+1 Keep Watch
+1 Archmage Emeritus
+1 Decanter of Endless Water
+1 Kindred Discovery
+1 Tolarian Winds
+1 Pongify
+1 Preordain
+1 Pull from Tomorrow
+1 Psychosis Crawler
+1 Midnight Clock
+1 Lonely Sandbar
+1 Curiosity Crafter
+1 Rhystic Study
+1 Rapid Hybridization
+1 Ponder
+1 Whirlpool Drake
+1 Consecrated Sphinx
+1 Reality Shift
+1 Mystic Remora
+1 Distant Melody
+1 Resculpt
+1 Sapphire Medallion
+1 Tide Skimmer
+1 Winged Words
+1 Negate
+1 Reconnaissance Mission
+1 Myriad Landscape
+1 Wavebreak Hippocamp
+1 Minn, Wily Illusionist
+1 Consider
+1 Ominous Seas
+1 Blue Sun's Zenith
+1 Sky Diamond
+1 Remote Isle
+1 Teferi, Temporal Pilgrim
+1 Spectral Deluge
+1 Wayfarer's Bauble
+1 Bident of Thassa
+1 Triskaidekaphile
+1 Cyclonic Rift
+1 Sea Gate Restoration
+1 Swiftfoot Boots
+1 Behold the Multiverse
+{'overall': '6', 'cmc': 2.5873015873015874, 'ramp': '10', 'draw': '39', 'interaction': 9}

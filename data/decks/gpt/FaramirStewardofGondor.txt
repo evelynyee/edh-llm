@@ -1,0 +1,67 @@
+1 Faramir, Steward of Gondor
+1 Treasure Map // Treasure Cove
+1 Mana Vault
+1 Swords to Plowshares
+1 Mana Drain
+1 Zephyr Singer
+1 Wurmcoil Engine
+1 Mulldrifter
+1 Zoetic Glyph
+1 Tide Drifter
+1 Victory's Envoy
+1 Thopter Spy Network
+1 Thassa's Rebuff
+1 Whirler Rogue
+1 Venerated Loxodon
+1 Stitcher Geralf
+1 Teferi's Time Twist
+1 Venser, the Sojourner
+1 Whirlermaker
+1 Trail of Evidence
+1 Wingspan Mentor
+1 Vedalken Humiliator
+1 Smothering Tithe
+1 Warden of the Wall
+1 Whalebone Glider
+1 Trove Warden
+1 Waylay
+1 Vertigo Spawn
+1 Wandering Champion
+1 Vesuvan Shapeshifter
+1 Wayward Angel
+1 Whitewater Naiads
+1 Unified Will
+1 Sunfall
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Thassa, God of the Sea
+1 Zephyrim
+1 Welcome to the Fold
+1 White Plume Adventurer
+1 Trusted Advisor
+1 Xenk, Paladin Unbroken
+1 Warping Wail
+1 Thornbite Staff
+1 Voice of Truth
+1 Winged Words
+1 Treasure Vault
+1 Wingmate Roc
+1 The Council of Four
+1 Triumphant Reckoning
+1 Teyo, the Shieldmage
+1 Thopter Assembly
+1 Windbrisk Raptor
+1 Thopter Mechanic
+1 Wings of Velis Vel
+1 Stormfront Riders
+1 Towashi Guide-Bot
+1 Zellix, Sanity Flayer
+1 Turn to Mist
+1 Weldfast Wingsmith
+1 Speaker of the Heavens
+1 Tezzeret the Seeker
+1 Treasure Hunter
+1 Taranika, Akroan Veteran
+1 Vexilus Praetor
+1 Thousand-Faced Shadow
+1 Thunder Totem
+{'overall': '6', 'cmc': 3.4393939393939394, 'ramp': '8', 'draw': '11', 'interaction': 9}

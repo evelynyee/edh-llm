@@ -1,0 +1,65 @@
+1 Muzzio, Visionary Architect
+1 Ulamog, the Ceaseless Hunger
+1 Mulldrifter
+1 Wistful Thinking
+1 Sphinx of Uthuun
+1 Treasure Cruise
+1 Ugin's Nexus
+1 War Room
+1 Sword of the Animist
+1 Sol Ring
+1 Counterspell
+1 Tidespout Tyrant
+1 Windrider Wizard
+1 Urborg, Tomb of Yawgmoth
+1 Tezzeret, Artifice Master
+1 Ugin, the Spirit Dragon
+1 Time Spiral
+1 Mana Drain
+1 Whirlpool Whelm
+1 Cyclonic Rift
+1 Vedalken Archmage
+1 Urza, Lord High Artificer
+1 Thought Collapse
+1 Wibbly-wobbly, Timey-wimey
+1 Ugin's Mastery
+1 Teferi's Wavecaster
+1 Sphinx of Clear Skies
+1 Tower Geist
+1 Zndrsplt, Eye of Wisdom
+1 Wash Away
+1 Venser's Diffusion
+1 Traumatic Visions
+1 Void Shatter
+1 Synod Sanctum
+1 Vedalken Aethermage
+1 Vedalken Infuser
+1 Tezzeret the Seeker
+1 Soratami Seer
+1 Tamiyo's Epiphany
+1 Supreme Will
+1 Thran Tome
+1 Spire Owl
+1 Vedalken Engineer
+1 Wretched Gryff
+1 Storm Elemental
+1 Wind Zendikon
+1 Spellseeker
+1 Waterspout Elemental
+1 Thassa's Intervention
+1 Lightning Greaves
+1 Treasure Mage
+1 Transmute Artifact
+1 Tolarian Serpent
+1 Test of Talents
+1 Vendilion Clique
+1 Force of Will
+1 Vizier of Many Faces
+1 Telling Time
+1 Vexing Puzzlebox
+1 Ulamog, the Infinite Gyre
+1 Tormod's Crypt
+1 Tel-Jilad Stylus
+1 Tribute Mage
+1 Walking Atlas
+{'overall': '6', 'cmc': 3.6875, 'ramp': '6', 'draw': '29', 'interaction': 12}

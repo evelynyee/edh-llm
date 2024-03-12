@@ -1,0 +1,69 @@
+1 Uyo, Silent Prophet
+1 Waterspout Elemental
+1 Unexplained Vision
+1 Vedalken Mastermind
+1 Soratami Mindsweeper
+1 Thrumming Stone
+1 Spellkeeper Weird
+1 The Stone Brain
+1 Thoughtcast
+1 Transplant Theorist
+1 The Enigma Jewel // Locus of Enlightenment
+1 Young Blue Dragon // Sand Augury
+1 Wizard Mentor
+1 Unifying Theory
+1 Temporal Machinations
+1 Symmetry Sage
+1 Telekinetic Bonds
+1 Stormwing Entity
+1 The Unspeakable
+1 The Blackstaff of Waterdeep
+1 Thought Prison
+1 Spellweaver Helix
+1 Synchronized Eviction
+1 Zephyr Singer
+1 Spell Contortion
+1 Veiled Sentry
+1 Soratami Mirror-Mage
+1 Vesuvan Doppelganger
+1 Wizard's Retort
+1 Counterspell
+1 Voidmage Husher
+1 Wall of Runes
+1 Turn into a Pumpkin
+1 Triton Cavalry
+1 Unsummon
+1 Zoetic Cavern
+1 Temporal Cascade
+1 Vodalian Serpent
+1 Trash Bin
+1 Vizier of the Anointed
+1 Vodalian Mage
+1 Vesuva
+1 Windreader Sphinx
+1 Thassa's Devourer
+1 Void Squall
+1 Triskaidekaphile
+1 Summoner's Egg
+1 Weatherlight
+1 Trail of Evidence
+1 Sword Coast Serpent // Capsizing Wave
+1 Tamiyo's Logbook
+1 Spell Burst
+1 Unexplained Disappearance
+1 Winding Canyons
+1 Thoughtbind
+1 Twinning Glass
+1 You Find the Villains' Lair
+1 Tiller Engine
+1 Vessel of Paramnesia
+1 Windfall
+1 Worry Beads
+1 Watchful Automaton
+1 Tenacious Tomeseeker
+1 Waterlogged Hulk // Watertight Gondola
+1 Wretched Gryff
+1 Swirling Torrent
+1 Warden of Evos Isle
+1 Time Elemental
+{'overall': '4', 'cmc': 3.4705882352941178, 'ramp': '1', 'draw': '20', 'interaction': 6}

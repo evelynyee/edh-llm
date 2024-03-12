@@ -1,0 +1,101 @@
+1 Zhang He, Wei General
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Signal Pest
+1 Belle of the Brawl
+1 Smogsteed Rider
+1 Breach
+1 Blood-Chin Rager
+1 Chitinous Cloak
+1 Dauthi Trapper
+1 Harvest Hand // Scrounged Scythe
+1 Myrkul's Invoker
+1 Vampire Bats
+1 Snarling Warg
+1 Geyserfield Stalker
+1 Abyssal Nocturnus
+1 Knight of Dusk's Shadow
+1 Undercity Shade
+1 Shriek of Dread
+1 Fallen Askari
+1 Glaive of the Guildpact
+1 Frenzy Sliver
+1 Lim-Dûl's Cohort
+1 Untamed Hunger
+1 Hezrou // Demonic Stench
+1 Cybermat
+1 Dauthi Marauder
+1 Cursed Flesh
+1 Tower of Coireall
+1 Chittering Host
+1 Dauthi Horror
+1 Morkrut Necropod
+1 Evil Eye of Urborg
+1 Vow of Torment
+1 Crenellated Wall
+1 Dancing Scimitar
+1 Bog Imp
+1 Bartizan Bats
+1 Dance of Shadows
+1 Hired Muscle // Scarmaker
+1 Vow of Malice
+1 Warchanter of Mogis
+1 Knight of Infamy
+1 Urza's Engine
+1 Urza's Avenger
+1 Ascendant Evincar
+1 Consulate Skygate
+1 Predator's Gambit
+1 Spiderwig Boggart
+1 Guardian of the Ages
+1 Shadowcloak Vampire
+1 Merry-Go-Round
+1 Sengir Vampire
+1 Sandals of Abdallah
+1 Wei Strike Force
+1 Wei Scout
+1 Wei Elite Companions
+1 Arachnoid
+1 Marsh Lurker
+1 The Long Reach of Night // Animus of Night's Reach
+1 Bumper Cars
+1 Joven's Tools
+1 Aphotic Wisps
+1 Prowler's Helm
+1 Dauthi Slayer
+1 Grim Draugr
+{'overall': '1', 'cmc': 3.230769230769231, 'ramp': '0', 'draw': '1', 'interaction': 0}

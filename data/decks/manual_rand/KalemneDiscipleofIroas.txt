@@ -1,0 +1,69 @@
+1 Kalemne, Disciple of Iroas
+1 Whetwheel
+1 Unruly Catapult
+1 The Filigree Sylex
+1 Wave of Reckoning
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Thud
+1 Winds of Abandon
+1 Urza's Incubator
+1 Warleader's Helix
+1 Path to Exile
+1 Uncivil Unrest
+1 Ward of Lights
+1 Vulpine Harvester
+1 Worldslayer
+1 Wingsteed Rider
+1 Vulpikeet
+1 Vigilant Sentry
+1 Vulshok Factory
+1 Whipflare
+1 Talon of Pain
+1 Thermopod
+1 Swords to Plowshares
+1 Valor Made Real
+1 Treasonous Ogre
+1 Tyrant's Machine
+1 Zephyr Boots
+1 Truefire Captain
+1 Tangle Golem
+1 Spearpoint Oread
+1 Triplicate Spirits
+1 Wojek Bodyguard
+1 Wildfire Awakener
+1 Wand of Wonder
+1 Warmonger
+1 Varchild's War-Riders
+1 Two-Headed Hunter // Twice the Rage
+1 Red Elemental Blast
+1 Éomer, King of Rohan
+1 Worship
+1 Zariel, Archduke of Avernus
+1 Tentative Connection
+1 Talons of Falkenrath
+1 Sleek Schooner
+1 Lightning Bolt
+1 Strider Harness
+1 Wall of Reverence
+1 Winding Canyons
+1 You're Ambushed on the Road
+1 Tocasia's Welcome
+1 Wing Shards
+1 Violent Eruption
+1 Warrior's Stand
+1 Weapon Surge
+1 Suq'Ata Lancer
+1 Sokenzan Spellblade
+1 Smuggler's Copter
+1 Warden of the Inner Sky
+1 Zada's Commando
+1 Terashi's Grasp
+1 Triumphant Surge
+1 Timely Ward
+1 Triumph of Gerrard
+1 Subterranean Spirit
+1 Sword of Once and Future
+1 Whipcorder
+1 Warmonger's Chariot
+1 Street Spasm
+{'overall': '3', 'cmc': 3.073529411764706, 'ramp': '3', 'draw': '4', 'interaction': 20}

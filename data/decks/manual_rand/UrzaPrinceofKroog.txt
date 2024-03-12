@@ -1,0 +1,69 @@
+1 Urza, Prince of Kroog
+1 Viridian Longbow
+1 Wingfold Pteron
+1 Syphon Essence
+1 Whirlwind Adept
+1 Tide Drifter
+1 Wu Scout
+1 Vedalken Outlander
+1 The Book of Exalted Deeds
+1 Tooth of Chiss-Goria
+1 Talrand's Invocation
+1 Startle
+1 Veteran Soldier
+1 Tomb of Horrors Adventurer
+1 The Hive
+1 Vedalken Squirrel-Whacker
+1 Swan Song
+1 Waterlogged Hulk // Watertight Gondola
+1 Venerated Loxodon
+1 Wings of Hubris
+1 Weight of Conscience
+1 Storm of Souls
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Urn of Godfire
+1 Tatsumasa, the Dragon's Fang
+1 Time Wipe
+1 Sunder the Gateway
+1 Zenith Seeker
+1 Thraben Sentry // Thraben Militia
+1 You're Ambushed on the Road
+1 Zhuge Jin, Wu Strategist
+1 Tidal Wave
+1 Well of Life
+1 White Scarab
+1 Teyo, Geometric Tactician
+1 Veil of Birds
+1 Vessel of Ephemera
+1 Warden of the Wall
+1 Unified Strike
+1 War Barge
+1 White Ward
+1 Valor Made Real
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Urza's Ruinous Blast
+1 Storm Herd
+1 Thunder Totem
+1 Vizier of Many Faces
+1 Thraben Exorcism
+1 Valorous Stance
+1 Wizened Cenn
+1 Whipgrass Entangler
+1 Mind Stone
+1 Wirefly Hive
+1 Urza, Planeswalker
+1 Valkyrie Harbinger
+1 Urza's Engine
+1 Zephyr Spirit
+1 Whispering Wizard
+1 Tradewind Rider
+1 Victory's Herald
+1 Teferi's Protection
+1 Zephyr Sprite
+1 Summoning Station
+1 Wall of Kelp
+1 Valkyrie's Sword
+1 Venser, the Sojourner
+1 Yarok's Wavecrasher
+1 Wormfang Drake
+{'overall': '4', 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13}

@@ -1,0 +1,64 @@
+1 Ranar the Ever-Watchful
+1 Command Tower
+1 Soulherder
+1 Sol Ring
+1 Saw It Coming
+1 Arcane Signet
+1 Cosmic Intervention
+1 Ravenform
+1 Brago, King Eternal
+1 Ethereal Valkyrie
+1 Behold the Multiverse
+1 Eerie Interlude
+1 Azorius Signet
+1 Restoration Angel
+1 Doomskar
+1 Flickerwisp
+1 Ghostly Flicker
+1 Stoic Farmer
+1 Mulldrifter
+1 Cloudblazer
+1 Spectral Deluge
+1 Azorius Chancery
+1 Momentary Blink
+1 Glorious Protector
+1 Myriad Landscape
+1 Drogskol Captain
+1 Mind Stone
+1 Mystic Reflection
+1 Swords to Plowshares
+1 Prairie Stream
+1 Cosmos Charger
+1 Vega, the Watcher
+1 Sage of the Beyond
+1 Ephemerate
+1 Wall of Omens
+1 Glacial Floodplain
+1 Tales of the Ancestors
+1 Hero of Bretagard
+1 Curse of the Swine
+1 Return to Dust
+1 Sun Titan
+1 Teleportation Circle
+1 Swiftfoot Boots
+1 Empyrean Eagle
+1 Geist-Honored Monk
+1 Depart the Realm
+1 Alrund's Epiphany
+1 Gates of Istfell
+1 Cleansing Nova
+1 Path to Exile
+1 Sejiri Refuge
+1 Tranquil Cove
+1 Commander's Sphere
+1 Yorion, Sky Nomad
+1 Mistmeadow Witch
+1 Angel of Serenity
+1 Kor Cartographer
+1 Ghostly Prison
+1 Reconnaissance Mission
+1 Glacial Fortress
+1 Felidar Guardian
+1 Sea Gate Oracle
+1 Sky Diamond
+{'overall': '6', 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '14', 'interaction': 9}

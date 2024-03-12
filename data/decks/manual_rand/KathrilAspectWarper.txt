@@ -1,0 +1,69 @@
+1 Kathril, Aspect Warper
+1 Weatherlight Compleated
+1 The Ozolith
+1 Virulent Wound
+1 Wilt-Leaf Liege
+1 True-Faith Censer
+1 Youthful Valkyrie
+1 Undead Executioner
+1 Ursine Fylgja
+1 Thunder Spirit
+1 War Screecher
+1 Veteran's Sidearm
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Wreath of Geists
+1 Vulshok Battlegear
+1 When We Were Young
+1 Wickerbough Elder
+1 Vitality Charm
+1 Thundering Mightmare
+1 Yew Spirit
+1 You Look Upon the Tarrasque
+1 Topan Ascetic
+1 Topan Freeblade
+1 Wolfrider's Saddle
+1 Wren's Run Packmaster
+1 Titanium Golem
+1 Vizier of the Scorpion
+1 Unbreathing Horde
+1 Withering Hex
+1 Sunblade Elf
+1 Torture
+1 Untethered Express
+1 Withering Wisps
+1 Woolly Spider
+1 Zopandrel, Hunger Dominus
+1 Wingsteed Rider
+1 Titania's Boon
+1 Yahenni, Undying Partisan
+1 Victory's Envoy
+1 Victory's Herald
+1 Wall of Resurgence
+1 Wicker Warcrawler
+1 Timbermaw Larva
+1 Tyrite Sanctum
+1 White Sun's Twilight
+1 Yarok's Fenlurker
+1 Timber Protector
+1 Wings of the Guard
+1 Webspinner Cuff
+1 Voice of the Blessed
+1 Vampire Scrivener
+1 Voice of the Vermin
+1 Wingmate Roc
+1 Veteran's Reflexes
+1 Witherscale Wurm
+1 Toxic Scorpion
+1 Zealous Strike
+1 Wedding Announcement // Wedding Festivity
+1 Tyrannical Pitlord
+1 Thundering Ceratok
+1 Vile Deacon
+1 Valorous Charge
+1 Twinblade Paladin
+1 Vulpine Goliath
+1 Umezawa's Jitte
+1 The Wandering Emperor
+1 Teeka's Dragon
+1 War Dance
+{'overall': '3', 'cmc': 3.3529411764705883, 'ramp': '0', 'draw': '3', 'interaction': 4}

@@ -1,0 +1,64 @@
+1 Kethek, Crucible Goliath
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Rakdos Signet
+1 Solemn Simulacrum
+1 Smoldering Marsh
+1 Grim Haruspex
+1 Talisman of Indulgence
+1 Chaos Warp
+1 Dragonskull Summit
+1 Captivating Crew
+1 Morbid Opportunist
+1 Puppeteer Clique
+1 Victimize
+1 Blasphemous Act
+1 Feed the Swarm
+1 Feldon of the Third Path
+1 Mind Stone
+1 Foreboding Ruins
+1 Ravenous Chupacabra
+1 Fellwar Stone
+1 Luxury Suite
+1 Bojuka Bog
+1 Body Launderer
+1 Sulfurous Springs
+1 Midnight Reaper
+1 Blood Crypt
+1 Rakdos Carnarium
+1 Prowling Geistcatcher
+1 Terminate
+1 Firbolg Flutist
+1 Act of Treason
+1 Zealous Conscripts
+1 Temple of Malice
+1 Skullclamp
+1 Jaxis, the Troublemaker
+1 Viscera Seer
+1 Gray Merchant of Asphodel
+1 Sneak Attack
+1 Bedevil
+1 Mayhem Devil
+1 Wayfarer's Bauble
+1 Malakir Rebirth
+1 Tainted Peak
+1 Exotic Orchard
+1 Mimic Vat
+1 Chainer, Nightmare Adept
+1 Reanimate
+1 Braids, Arisen Nightmare
+1 Seize the Spotlight
+1 Blood Artist
+1 Combustible Gearhulk
+1 Animate Dead
+1 Kari Zev's Expertise
+1 Massacre Wurm
+1 Bloody Betrayal
+1 Shadowblood Ridge
+1 Noxious Gearhulk
+1 Molten Primordial
+1 Zulaport Cutthroat
+1 Flameshadow Conjuring
+1 Village Rites
+{'overall': '7', 'cmc': 2.6031746031746033, 'ramp': '9', 'draw': '12', 'interaction': 8}

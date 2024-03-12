@@ -1,0 +1,101 @@
+1 Slurrk, All-Ingesting
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Wildwood Scourge
+1 Duskshell Crawler
+1 Avatar of the Resolute
+1 Cytoplast Root-Kin
+1 Ridgescale Tusker
+1 Oran-Rief Ooze
+1 Benevolent Hydra
+1 Spike Worker
+1 Spike Rogue
+1 Grim Poppet
+1 Ichorplate Golem
+1 Spike Colony
+1 Spike Drone
+1 Hexavus
+1 Iron Apprentice
+1 Explorer's Cache
+1 Yorvo, Lord of Garenbrig
+1 Heir of the Ancient Fang
+1 Lifecrafter's Gift
+1 Arcbound Crusher
+1 Defiant Greatmaw
+1 Salt Road Quartermasters
+1 Clockwork Vorrac
+1 Evolving Adaptive
+1 Kujar Seedsculptor
+1 Vineshaper Mystic
+1 Spike Tiller
+1 Clockwork Dragon
+1 Spike Feeder
+1 Strength of the Pack
+1 Titania's Boon
+1 Rot Shambler
+1 Bribe Taker
+1 Arcbound Overseer
+1 Ironshell Beetle
+1 Stand Together
+1 Bond Beetle
+1 Kalonian Hydra
+1 Satyr Grovedancer
+1 Weapon Rack
+1 Jade Bearer
+1 Dauntless Survivor
+1 Timberland Guide
+1 Incremental Growth
+1 Drillworks Mole
+1 Arcbound Ravager
+1 Oran-Rief Hydra
+1 Spike Soldier
+1 Bramblewood Paragon
+1 Karstoderm
+1 Pelt Collector
+1 Servant of the Scale
+1 Crocodile of the Crossing
+1 Ornery Kudu
+1 Graypelt Hunter
+1 Arcbound Worker
+1 Arcbound Stinger
+1 Gatekeeper Gargoyle
+1 Decorated Champion
+1 Arcbound Lancer
+1 Arcbound Hybrid
+1 Ascendant Acolyte
+1 Young Wolf
+{'overall': '1', 'cmc': 3.3384615384615386, 'ramp': '0', 'draw': '0', 'interaction': 0}

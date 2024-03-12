@@ -1,0 +1,64 @@
+1 Dina, Soul Steeper
+1 Command Tower
+1 Sol Ring
+1 Marauding Blight-Priest
+1 Essence Warden
+1 Mortality Spear
+1 Blood Artist
+1 Jungle Hollow
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Cultivate
+1 Moldervine Reclamation
+1 Deathgreeter
+1 Pristine Talisman
+1 Vito, Thorn of the Dusk Rose
+1 Prosperous Innkeeper
+1 Llanowar Wastes
+1 Witherbloom Apprentice
+1 Sanguine Bond
+1 Pest Infestation
+1 Scavenging Ooze
+1 Blight Mound
+1 Tainted Wood
+1 Golgari Rot Farm
+1 Rampant Growth
+1 High Market
+1 Valentin, Dean of the Vein
+1 Bastion of Remembrance
+1 Veinwitch Coven
+1 Radiant Fountain
+1 Sakura-Tribe Elder
+1 Beledros Witherbloom
+1 Exquisite Blood
+1 Sapseep Forest
+1 Well of Lost Dreams
+1 Temple of Malady
+1 Sedgemoor Witch
+1 Beast Within
+1 Tend the Pests
+1 Jaddi Offshoot
+1 Llanowar Elves
+1 Overgrown Tomb
+1 Putrefy
+1 Woodland Cemetery
+1 Infuse with Vitality
+1 Trudge Garden
+1 Tablet of the Guilds
+1 Gray Merchant of Asphodel
+1 Ayara, First of Locthwain
+1 Epicure of Blood
+1 Revenge of Ravens
+1 Viscera Seer
+1 Bolas's Citadel
+1 Witch of the Moors
+1 Village Rites
+1 Falkenrath Noble
+1 Tamiyo's Safekeeping
+1 Culling Ritual
+1 Essence Pulse
+1 Undergrowth Stadium
+1 Sign in Blood
+1 Exotic Orchard
+1 Druid Class
+{'overall': '7', 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '6', 'interaction': 3}

@@ -1,0 +1,64 @@
+1 The Fugitive Doctor
+1 Hit the Mother Lode
+1 Academy Raider
+1 Greenseeker
+1 Goblin Sharpshooter
+1 Burnished Hart
+1 Oracle of Mul Daya
+1 Desecrate Reality
+1 Bounty of Might
+1 Hunting Pack
+1 Become Immense
+1 Vitalizing Wind
+1 Pyroblast
+1 Valakut Awakening
+1 Crop Rotation
+1 Harrow
+1 Nature's Claim
+1 Chaos Warp
+1 Beast Within
+1 Devils' Playground
+1 Molten Psyche
+1 Burning Inquiry
+1 Winds of Change
+1 Worldfire
+1 Chaotic Transformation
+1 Seasons Past
+1 Reforge the Soul
+1 Change of Fortune
+1 Mizzix's Mastery
+1 Reshape the Earth
+1 Tempt with Discovery
+1 Boundless Realms
+1 Wheel of Misfortune
+1 Tormenting Voice
+1 Nissa's Pilgrimage
+1 Splendid Reclamation
+1 Regrowth
+1 Call Forth the Tempest
+1 Gamble
+1 Faithless Looting
+1 Skyshroud Claim
+1 Explore
+1 Vandalblast
+1 Jeska's Will
+1 Decimate
+1 Three Visits
+1 Nature's Lore
+1 Blasphemous Act
+1 Kodama's Reach
+1 Rampant Growth
+1 Cultivate
+1 Teferi's Puzzle Box
+1 Skeleton Key
+1 Currency Converter
+1 Collector's Vault
+1 Sword of the Animist
+1 Living Lands
+1 Geier Reach Sanitarium
+1 Temple of the False God
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Talisman of Impulse
+1 Arcane Signet
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

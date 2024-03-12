@@ -1,0 +1,64 @@
+1 Junji, the Midnight Sky
+1 Damnation
+1 Thought-Knot Seer
+1 Wasteland Strangler
+1 Sign in Blood
+1 Vampiric Tutor
+1 Arcane Signet
+1 Sol Ring
+1 Thoughtseize
+1 Demonic Tutor
+1 Skull Raid
+1 Thought Distortion
+1 Thief of Hope
+1 Vengeant Vampire
+1 Skemfar Avenger
+1 Whisper Squad
+1 Szat's Will
+1 Tombfire
+1 Thraxodemon
+1 Zuran Orb
+1 Viscera Seer
+1 Verdant Catacombs
+1 Windswept Heath
+1 Voracious Null
+1 Viscera Dragger
+1 Thieves' Guild Enforcer
+1 Vile Requiem
+1 Unhinge
+1 Treacherous Blessing
+1 Thought Prison
+1 Tainted Pact
+1 The Eldest Reborn
+1 Yawgmoth's Edict
+1 Tourach's Canticle
+1 Wake the Dead
+1 Visions of Dread
+1 Swashbuckler's Whip
+1 Zhalfirin Void
+1 Stinging Study
+1 Tymaret, Chosen from Death
+1 Wretched Confluence
+1 Vampiric Touch
+1 Urza's Incubator
+1 Syr Konrad, the Grim
+1 Soul Conduit
+1 Vedalken Shackles
+1 Varragoth, Bloodsky Sire
+1 Specter of Mortality
+1 Tetzimoc, Primal Death
+1 Torgaar, Famine Incarnate
+1 Vampire Neonate
+1 Tithebearer Giant
+1 Vraska's Contempt
+1 Vengeful Pharaoh
+1 Struggle for Sanity
+1 Toshiro Umezawa
+1 Tormod's Crypt
+1 Tainted Specter
+1 Woebringer Demon
+1 Treacherous Vampire
+1 Witch's Oven
+1 Vicious Rumors
+1 Throne of the God-Pharaoh
+{'overall': '6', 'cmc': 3.0634920634920637, 'ramp': '2', 'draw': '13', 'interaction': 8}

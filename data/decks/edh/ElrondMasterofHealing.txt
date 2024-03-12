@@ -1,0 +1,64 @@
+1 Elrond, Master of Healing
+1 Arwen Undómiel
+1 Elrond, Lord of Rivendell
+1 Elven Farsight
+1 Command Tower
+1 Rivendell
+1 Celeborn the Wise
+1 Sol Ring
+1 Galadriel of Lothlórien
+1 Preordain
+1 Elvish Mariner
+1 Opt
+1 Hinterland Harbor
+1 Arwen, Weaver of Hope
+1 Arcane Signet
+1 Legolas, Counter of Kills
+1 Lothlórien Lookout
+1 Elvish Archdruid
+1 Lost Isle Calling
+1 Elvish Mystic
+1 Beast Within
+1 The Grey Havens
+1 Lifecrafter's Bestiary
+1 Temple of Mystery
+1 Path of Ancestry
+1 Vineglimmer Snarl
+1 Shower of Arrows
+1 Arwen's Gift
+1 Rejuvenating Springs
+1 Reclamation Sage
+1 Cultivate
+1 Glorfindel, Dauntless Rescuer
+1 Heroic Intervention
+1 Elvish Warmaster
+1 Haldir, Lórien Lieutenant
+1 Flooded Grove
+1 Song of Eärendil
+1 Chance-Met Elves
+1 Galadhrim Ambush
+1 Raise the Palisade
+1 Fall of Gil-galad
+1 Hardened Scales
+1 Mirror of Galadriel
+1 Sylvan Anthem
+1 Rampant Growth
+1 Elven Chorus
+1 Overwhelming Stampede
+1 Castle Vantress
+1 Serum Visions
+1 Exotic Orchard
+1 Nimrodel Watcher
+1 Marwyn, the Nurturer
+1 Joint Exploration
+1 Kami of Whispered Hopes
+1 Growth Spiral
+1 Legolas Greenleaf
+1 Thornwood Falls
+1 Hithlain Knots
+1 Master Biomancer
+1 The Temporal Anchor
+1 Cryptic Annelid
+1 Council's Deliberation
+1 Rishkar, Peema Renegade
+{'overall': '7', 'cmc': 2.2063492063492065, 'ramp': '11', 'draw': '16', 'interaction': 2}

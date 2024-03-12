@@ -1,0 +1,101 @@
+1 Miirym, Sentinel Wyrm
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Irenicus's Vile Duplication
+1 Arboreal Alliance
+1 Necroduality
+1 Thopter Engineer
+1 Specimen Collector
+1 Faerie Artisans
+1 Phantom Steed
+1 Esika's Chariot
+1 Second Harvest
+1 Brudiclad, Telchor Engineer
+1 Life Finds a Way
+1 Aspiring Aeronaut
+1 Horncaller's Chant
+1 Deeproot Pilgrimage
+1 Stangg, Echo Warrior
+1 Dutiful Replicator
+1 Tuktuk the Explorer
+1 Mirrorworks
+1 Progenitor Mimic
+1 Ghirapur Gearcrafter
+1 Stangg
+1 Penumbra Spider
+1 Ominous Roost
+1 Aviation Pioneer
+1 Repudiate // Replicate
+1 Wing Splicer
+1 Dwynen's Elite
+1 Scute Swarm
+1 Mechtitan Core
+1 Bear's Companion
+1 Genesis Chamber
+1 Filigree Crawler
+1 The Third Doctor
+1 Saheeli's Artistry
+1 Efficient Construction
+1 Twin-Silk Spider
+1 Grip of Phyresis
+1 Whirlermaker
+1 Crash the Party
+1 Myr Propagator
+1 Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship
+1 Vesuvan Duplimancy
+1 Penumbra Kavu
+1 Triplicate Titan
+1 Falcon Abomination
+1 Helm of the Host
+1 Penumbra Bobcat
+1 Regisaur Alpha
+1 Wirewood Hivemaster
+1 Brood Weaver
+1 Ulvenwald Mysteries
+1 Diminisher Witch
+1 Enlightened Maniac
+1 Tempt with Reflections
+1 Tooth and Claw
+1 Launch Mishap
+1 Theoretical Duplication
+1 Lictor
+1 The Hive
+1 Cult of the Waxing Moon
+1 Loot Dispute
+1 Conscripted Infantry
+1 Feywild Trickster
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

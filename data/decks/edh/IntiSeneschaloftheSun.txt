@@ -1,0 +1,64 @@
+1 Inti, Seneschal of the Sun
+1 Sol Ring
+1 Faithless Looting
+1 Containment Construct
+1 Thrill of Possibility
+1 Conspiracy Theorist
+1 Glint-Horn Buccaneer
+1 Surly Badgersaur
+1 Arcane Signet
+1 Laelia, the Blade Reforged
+1 Chaos Warp
+1 Brass's Tunnel-Grinder
+1 Forgotten Cave
+1 Blasphemous Act
+1 Brallin, Skyshark Rider
+1 Big Score
+1 Unexpected Windfall
+1 Birgi, God of Storytelling
+1 Anger
+1 Currency Converter
+1 Jeska's Will
+1 Runaway Steam-Kin
+1 Hazoret's Monument
+1 Tectonic Reformation
+1 Bitter Reunion
+1 Professional Face-Breaker
+1 Abrade
+1 Ruby Medallion
+1 Squee, Goblin Nabob
+1 Vandalblast
+1 Ash Barrens
+1 Geier Reach Sanitarium
+1 Cathartic Reunion
+1 Passionate Archaeologist
+1 Sokenzan, Crucible of Defiance
+1 Anje's Ravager
+1 Bag of Holding
+1 Smoldering Crater
+1 Neheb, Dreadhorde Champion
+1 Gamble
+1 Delayed Blast Fireball
+1 Iraxxa, Empress of Mars
+1 Desert of the Fervent
+1 Kami of Celebration
+1 Change of Fortune
+1 Underworld Breach
+1 Memory Worm
+1 Jaxis, the Troublemaker
+1 Mind Stone
+1 Enterprising Scallywag
+1 Key to the City
+1 Oliphaunt
+1 Mana Geyser
+1 Witch's Mark
+1 Flaming Tyrannosaurus
+1 Tormenting Voice
+1 Matzalantli, the Great Door
+1 Ox of Agonas
+1 Invasion of Kaldheim
+1 Cathartic Pyre
+1 Wild-Magic Sorcerer
+1 War Room
+1 Cursed Mirror
+{'overall': '7', 'cmc': 2.7142857142857144, 'ramp': '16', 'draw': '33', 'interaction': 9}

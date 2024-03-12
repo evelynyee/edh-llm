@@ -1,0 +1,101 @@
+1 Chainer, Dementia Master
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Lord of the Undead
+1 Tomb Tyrant
+1 Havengul Laboratory // Havengul Mystery
+1 Nezumi Graverobber // Nighteyes the Desecrator
+1 Krovikan Rot
+1 Doomed Necromancer
+1 Terror of Towashi
+1 Strands of Night
+1 Shadow-Rite Priest
+1 Azra Smokeshaper
+1 Corpse Hauler
+1 Nezumi Prowler
+1 Malevolent Awakening
+1 Altar of Bhaal // Bone Offering
+1 Bonecaller Cleric
+1 Lim-Dûl the Necromancer
+1 Skeleton Shard
+1 Ruinous Path
+1 Balthor the Defiled
+1 Grim Harvest
+1 Nullpriest of Oblivion
+1 Soul of Innistrad
+1 Carrion Imp
+1 Bone Dragon
+1 Tithing Blade // Consuming Sepulcher
+1 The Cauldron of Eternity
+1 Boneyard Scourge
+1 Relentless Dead
+1 Lychguard
+1 Fleshwrither
+1 Cold Storage
+1 Rank Officer
+1 Woe Strider
+1 Shelob, Dread Weaver
+1 Veinwitch Coven
+1 Heirloom Mirror // Inherited Fiend
+1 Eternal Taskmaster
+1 Whisper, Blood Liturgist
+1 Ninja of the New Moon
+1 Dokuchi Shadow-Walker
+1 Haunt of the Dead Marshes
+1 Zanikev Locust
+1 Takenuma, Abandoned Mire
+1 Skeleton Crew
+1 Scrapheap Scrounger
+1 Phyrexian Reclamation
+1 Font of Return
+1 Driver of the Dead
+1 Cult Conscript
+1 Cavalier of Night
+1 Reassembling Skeleton
+1 Cabal Surgeon
+1 Omen of the Dead
+1 Persistent Specimen
+1 Garza's Assassin
+1 Mukotai Ambusher
+1 Ink-Eyes, Servant of Oni
+1 Altar of the Wretched // Wretched Bonemass
+1 Edgar's Awakening
+1 Return Upon the Tide
+1 Grave Robbers
+1 Crawl from the Cellar
+1 Pus Kami
+{'overall': '3', 'cmc': 3.3692307692307693, 'ramp': '0', 'draw': '4', 'interaction': 9}

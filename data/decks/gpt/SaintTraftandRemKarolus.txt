@@ -1,0 +1,64 @@
+1 Saint Traft and Rem Karolus
+1 Warden of the Wall
+1 Vedalken Blademaster
+1 Trail of Evidence
+1 Vedalken Humiliator
+1 Wall of Tears
+1 Thopter Spy Network
+1 Thopter Mechanic
+1 Trostani's Judgment
+1 Thunderkin Awakener
+1 Vizier of Many Faces
+1 Whirler Rogue
+1 Mana Vault
+1 Sword of Body and Mind
+1 Vedalken Archmage
+1 Wind Drake
+1 Zephyrim
+1 Zephyr Singer
+1 Whispering Wizard
+1 Talrand, Sky Summoner
+1 Wurmcoil Engine
+1 Warmth
+1 Winds of Abandon
+1 Wall of Kelp
+1 Zephyr Sprite
+1 Winged Boots
+1 Winged Hive Tyrant
+1 Winged Words
+1 Windshaper Planetar
+1 Zurzoth, Chaos Rider
+1 Swan Song
+1 Willbreaker
+1 Venser, the Sojourner
+1 Voice of Truth
+1 Zethi, Arcane Blademaster
+1 Wand of the Elements
+1 Vizier of Deferment
+1 Unexpected Windfall
+1 Voice of the Provinces
+1 Zada, Hedron Grinder
+1 Tidebinder Mage
+1 Vantress Transmuter // Croaking Curse
+1 Talrand's Invocation
+1 Ugin, the Ineffable
+1 Zoetic Glyph
+1 Thassa's Emissary
+1 Unified Will
+1 Vesuva
+1 Varchild's War-Riders
+1 Whirlermaker
+1 Wing Commando
+1 Whitewater Naiads
+1 Waylay
+1 Village Watch // Village Reavers
+1 Wingsteed Rider
+1 Whalebone Glider
+1 Welcome to the Fold
+1 White Plume Adventurer
+1 Young Pyromancer
+1 Tuktuk the Explorer
+1 Thopter Assembly
+1 Thunder Totem
+1 Warping Wail
+{'overall': '5', 'cmc': 3.380952380952381, 'ramp': '5', 'draw': '9', 'interaction': 9}

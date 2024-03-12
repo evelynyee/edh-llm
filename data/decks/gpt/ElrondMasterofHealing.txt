@@ -1,0 +1,68 @@
+1 Elrond, Master of Healing
+1 Woodfall Primus
+1 Mulldrifter
+1 The Great Henge
+1 Bloom Tender
+1 Triumph of Ferocity
+1 Teferi, Temporal Pilgrim
+1 Birds of Paradise
+1 Strength of the Pack
+1 Wildcall
+1 Vastwood Surge
+1 Vastwood Animist
+1 Verdant Touch
+1 Zoetic Glyph
+1 Zimone, Quandrix Prodigy
+1 Thassa's Intervention
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Whirlwind Denial
+1 Unified Will
+1 Veil of Secrecy
+1 Counterspell
+1 Vedalken Archmage
+1 Seedborn Muse
+1 Worldly Counsel
+1 Wing Commando
+1 Thought Sponge
+1 Ugin's Conjurant
+1 Winter's Chill
+1 Vivien Reid
+1 Time Ebb
+1 Titania's Song
+1 Mana Drain
+1 Whispers of the Muse
+1 Voracious Hydra
+1 Vivien, Monsters' Advocate
+1 Vodalian Mage
+1 Waker of Waves
+1 Volo, Guide to Monsters
+1 Teferi's Response
+1 Vivien, Arkbow Ranger
+1 Zegana, Utopian Speaker
+1 Traverse the Outlands
+1 Wandering Stream
+1 Tishana, Voice of Thunder
+1 Turn the Earth
+1 Umara Entangler
+1 Visions of Duplicity
+1 Wingspan Mentor
+1 Synchronized Eviction
+1 Whirling Catapult
+1 Wildgrowth Walker
+1 Vine Gecko
+1 Wistful Thinking
+1 Vivien's Invocation
+1 Teferi's Talent
+1 The Magic Mirror
+1 Welcome to the Fold
+1 Wizards of the _____
+1 Wren's Run Vanquisher
+1 Vivien, Nature's Avenger
+1 Syr Elenora, the Discerning
+1 Verduran Enchantress
+1 Whitewater Naiads
+1 Voidmage Husher
+1 Toymaker
+1 Verdant Mastery
+1 Wandering Archaic // Explore the Vastlands
+{'overall': '5', 'cmc': 3.7611940298507465, 'ramp': '9', 'draw': '26', 'interaction': 9}

@@ -1,0 +1,64 @@
+1 Shadowfax, Lord of Horses
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Swords to Plowshares
+1 Keleth, Sunmane Familiar
+1 Path to Exile
+1 Boros Signet
+1 Crested Sunmare
+1 Clifftop Retreat
+1 Battlefield Forge
+1 Boros Charm
+1 Aurelia, the Warleader
+1 Blade Historian
+1 Loyal Unicorn
+1 Talisman of Conviction
+1 Shield Mare
+1 Bill the Pony
+1 Diamond Mare
+1 Bastion Protector
+1 Thundermare
+1 Lightning Mare
+1 Generous Gift
+1 Balefire Liege
+1 Blasphemous Act
+1 Chaos Warp
+1 Éowyn, Fearless Knight
+1 Taurean Mauler
+1 Furycalm Snarl
+1 Rogue's Passage
+1 Spectator Seating
+1 Minas Tirith
+1 Sacred Foundry
+1 Swiftfoot Boots
+1 Boros Garrison
+1 Solemn Simulacrum
+1 Armored Warhorse
+1 Mind Stone
+1 Iroas, God of Victory
+1 Meteor Golem
+1 Sundown Pass
+1 Mirror Entity
+1 Blackblade Reforged
+1 Path of Ancestry
+1 Flowering of the White Tree
+1 Chrome Steed
+1 Commander's Sphere
+1 Maskwood Nexus
+1 Akroma's Will
+1 Rugged Prairie
+1 Fellwar Stone
+1 Workhorse
+1 Arid Mesa
+1 Sword of the Animist
+1 Relentless Assault
+1 Temple of Triumph
+1 Esper Sentinel
+1 Needleverge Pathway
+1 Knight of the White Orchid
+1 Port Razer
+1 Bloodline Pretender
+1 Elesh Norn, Grand Cenobite
+1 Wayfarer's Bauble
+{'overall': '6', 'cmc': 2.5396825396825395, 'ramp': '12', 'draw': '5', 'interaction': 9}

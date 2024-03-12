@@ -1,0 +1,64 @@
+1 Ao, the Dawn Sky
+1 Sol Ring
+1 Ashnod's Altar
+1 Swords to Plowshares
+1 Arcane Signet
+1 Nim Deathmantle
+1 High Market
+1 Gift of Immortality
+1 Esper Sentinel
+1 Cathar Commando
+1 Path to Exile
+1 Weathered Wayfarer
+1 Blade of Selves
+1 Skyclave Apparition
+1 Enduring Renewal
+1 Angelic Renewal
+1 Aven Mindcensor
+1 Eiganjo, Seat of the Empire
+1 Enlightened Tutor
+1 Nykthos, Shrine to Nyx
+1 Oswald Fiddlebender
+1 Smothering Tithe
+1 Phyrexian Altar
+1 Grand Abolisher
+1 Drannith Magistrate
+1 Archivist of Oghma
+1 Restoration Specialist
+1 Oketra's Monument
+1 Mirage Mirror
+1 Land Tax
+1 Brought Back
+1 Memnite
+1 Recruiter of the Guard
+1 Knight of the White Orchid
+1 Urza's Saga
+1 Blind Obedience
+1 Spirit of the Labyrinth
+1 Mind Stone
+1 Relic Vial
+1 Emeria, the Sky Ruin
+1 Archon of Emeria
+1 Lion Sash
+1 War Room
+1 Mirror of the Forebears
+1 Walking Ballista
+1 Ranger-Captain of Eos
+1 Inventors' Fair
+1 Mother of Runes
+1 Jeweled Lotus
+1 Martyred Rusalka
+1 Ornithopter
+1 Ancient Tomb
+1 Serra Ascendant
+1 Generous Gift
+1 Grasp of Fate
+1 Mana Crypt
+1 Leonin Relic-Warder
+1 Sun Titan
+1 Sol Talisman
+1 Stoneforge Mystic
+1 Moonsilver Key
+1 Bounty Agent
+1 Sanctifier en-Vec
+{'overall': '9', 'cmc': 1.7777777777777777, 'ramp': '12', 'draw': '10', 'interaction': 8}

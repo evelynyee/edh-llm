@@ -32,6 +32,11 @@ def tokenize(text):
     return [x for x in word_tokenize(text.lower()) if x not in to_remove]
 
 def clean_data(cards, commanders):
+    #filtering out non-legal cards in commander
+    legal = pd.read_csv('../data/cardLegalities.csv').loc[:,['commander', 'uuid']]
+    cards = cards.merge(legal,on='uuid')
+    cards = cards[cards['commander'] == 'Legal']
+
     cards_clean = cards.loc[cards["text"].apply(lambda x: not (isinstance(x, float) and np.isnan(x))), ["name", "text", "colorIdentity", "keywords", "type"]]
     cards_clean["color"] = cards_clean["colorIdentity"].str.split(", ")
     # tokenize text
@@ -42,8 +47,8 @@ def clean_data(cards, commanders):
     # keyword list
     cards_clean["keyword_list"] = cards_clean["keywords"].str.split(", ")
 
-    card_texts = cards_clean.loc[~cards_clean["name"].isin(commanders["valid"])]
-    commander_texts = cards_clean.loc[cards_clean["name"].isin(commanders["valid"])]
+    card_texts = cards_clean.loc[~cards_clean["name"].isin(commanders["test"])]
+    commander_texts = cards_clean.loc[cards_clean["name"].isin(commanders["test"])]
 
     return cards_clean, commander_texts, card_texts
 
@@ -51,17 +56,18 @@ def train_model(cards_clean):
     return Word2Vec(sentences=cards_clean["tokenized"])
 
 def save_decks(results_df, fp):
-    # pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
-
-    all_decks = pd.read_pickle(BASE_PATH)
-    for col in all_decks:
-        cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
-        with open(os.path.join(BASE_PWR_PATH, cmdr_f), "w") as f:
-            f.write(f"1 {col}\n")
-            for row in all_decks[col]:
-                f.write(f"1 {row}\n")
-        with open(os.path.join(BASE_PWR_PATH, cmdr_f), "a") as f:
-            f.write(str(calculate_power(os.path.join(BASE_PWR_PATH, cmdr_f))))
+    pd.DataFrame(results_df).to_pickle(fp)
+    #pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
+    #results_df.to_pickle(fp)
+    #all_decks = pd.read_pickle(BASE_PATH)
+    #for col in all_decks:
+    #    cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
+    #    with open(os.path.join(BASE_PWR_PATH, cmdr_f), "w") as f:
+    #        f.write(f"1 {col}\n")
+    #        for row in all_decks[col]:
+    #            f.write(f"1 {row}\n")
+    #    with open(os.path.join(BASE_PWR_PATH, cmdr_f), "a") as f:
+    #        f.write(str(calculate_power(os.path.join(BASE_PWR_PATH, cmdr_f))))
         
 
 def build_decks(commander_texts):
@@ -84,7 +90,7 @@ def main():
 
     #results_base, results_base_all = baseline(card_texts, commander_texts, model)
     #results_manual = manual(card_texts, commander_texts, model, results_base_all)
-    #save_decks("results_base", BASE_PATH)
+    #save_decks(results_base, BASE_PATH)
     #save_decks(results_manual, MANUAL_PATH)
 
     build_decks(commander_texts)

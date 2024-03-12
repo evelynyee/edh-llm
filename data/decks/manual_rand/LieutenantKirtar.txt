@@ -1,0 +1,69 @@
+1 Lieutenant Kirtar
+1 Shepherd of the Cosmos
+1 Tower of Champions
+1 Stonespeaker Crystal
+1 Slagwurm Armor
+1 The Underworld Cookbook
+1 Woeleecher
+1 Werefox Bodyguard
+1 Thornbite Staff
+1 Path to Exile
+1 Wojek Apothecary
+1 The Wandering Emperor
+1 Spear of Heliod
+1 Worthy Knight
+1 Suture Priest
+1 Zhalfirin Knight
+1 War Chariot
+1 Swords to Plowshares
+1 Wyrm's Crossing Patrol
+1 Shefet Dunes
+1 Untethered Express
+1 Steel Seraph
+1 Words of Worship
+1 Vigilant Sentry
+1 Transcendent Master
+1 Whipgrass Entangler
+1 Chromatic Lantern
+1 Soul-Guide Lantern
+1 Steamclaw
+1 Welcoming Vampire
+1 Thraben Standard Bearer
+1 Urn of Godfire
+1 Umezawa's Jitte
+1 Triumphant Reckoning
+1 Take Heart
+1 Symmetry Matrix
+1 Unconventional Tactics
+1 Tithe Taker
+1 Wedding Invitation
+1 Wayward Angel
+1 War Barge
+1 Traveling Minister
+1 Séance
+1 Soldier Replica
+1 Sol Ring
+1 Sigil of the New Dawn
+1 Terashi's Verdict
+1 Tale of Tinúviel
+1 Slumbering Tora
+1 Stormrider Rig
+1 The Eternal Wanderer
+1 Tyrite Sanctum
+1 Tanglebloom
+1 Tethmos High Priest
+1 Wild Aesthir
+1 Unyaro Griffin
+1 Vessel of Ephemera
+1 The Girl in the Fireplace
+1 Underdark Rift
+1 Thraben Inspector
+1 Vedalken Shackles
+1 Vengeance
+1 Torch Gauntlet
+1 Twinblade Geist // Twinblade Invocation
+1 Skyline Scout
+1 Warrior en-Kor
+1 Tormod's Crypt
+1 Sephara, Sky's Blade
+{'overall': '4', 'cmc': 2.7941176470588234, 'ramp': '4', 'draw': '8', 'interaction': 11}

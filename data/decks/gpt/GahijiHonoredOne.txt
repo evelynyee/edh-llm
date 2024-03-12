@@ -1,0 +1,64 @@
+1 Gahiji, Honored One
+1 Swords to Plowshares
+1 Mind Stone
+1 Rampant Growth
+1 Sol Ring
+1 Birds of Paradise
+1 Wojek Apothecary
+1 Tilonalli's Skinshifter
+1 Valor in Akros
+1 Viridian Lorebearers
+1 Vengeful Firebrand
+1 Veteran Warleader
+1 Vassal's Duty
+1 Zendikar Farguide
+1 Tangle Asp
+1 Zephyr Boots
+1 Topan Freeblade
+1 Talruum Champion
+1 Thrakkus the Butcher
+1 Tattermunge Duo
+1 Valeron Wardens
+1 Surrak, the Hunt Caller
+1 Syr Faren, the Hengehammer
+1 Seedborn Muse
+1 Wrangle
+1 Wicker Warcrawler
+1 Vintara Elephant
+1 Théoden, King of Rohan
+1 Yosei, the Morning Star
+1 Trapjaw Tyrant
+1 Valorous Charge
+1 Wall of Essence
+1 Unnatural Growth
+1 Venom
+1 Wild Growth
+1 Wings of Hubris
+1 Warpath
+1 War Chariot
+1 Wall of Opposition
+1 Wirewood Pride
+1 Voice of the Vermin
+1 Tenth District Guard
+1 Tower Above
+1 Unerring Sling
+1 Willow Dryad
+1 Treetop Bracers
+1 Witchstalker
+1 Winds of Qal Sisma
+1 Unchained Berserker
+1 Zodiac Horse
+1 Whipgrass Entangler
+1 Venomous Breath
+1 Zerapa Minotaur
+1 You Hear Something on Watch
+1 Unbreakable Formation
+1 Thicket Basilisk
+1 Venerated Rotpriest
+1 Wing Puncture
+1 Zodiac Dog
+1 Whirling Dervish
+1 Warden of the Woods
+1 Warrior's Stand
+1 Territorial Witchstalker
+{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

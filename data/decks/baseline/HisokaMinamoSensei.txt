@@ -1,0 +1,101 @@
+1 Hisoka, Minamo Sensei
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Circular Logic
+1 Hollow One
+1 Shifting Borders
+1 Dampen Thought
+1 Foil
+1 Spell Burst
+1 Synthesis Pod
+1 Muddle the Mixture
+1 Deep Analysis
+1 Ethereal Usher
+1 Stronghold Machinist
+1 Broken Concentration
+1 Mind Games
+1 Into the Roil
+1 Blink of an Eye
+1 Failed Inspection
+1 Dizzy Spell
+1 Hypnotic Sprite // Mesmeric Glare
+1 Anchor to Reality
+1 Drift of Phantasms
+1 Divide by Zero
+1 Stronghold Biologist
+1 Treasure Cruise
+1 Lifted by Clouds
+1 Consuming Vortex
+1 Malevolent Hermit // Benevolent Geist
+1 Evermind
+1 Brine Seer
+1 Cobbled Lancer
+1 Dream Twist
+1 Loreseeker's Stone
+1 Jin-Gitaxias // The Great Synthesis
+1 Whispers of the Muse
+1 Null Brooch
+1 Capsize
+1 Welcome to the Fold
+1 Grozoth
+1 Countervailing Winds
+1 Dream Halls
+1 Huddle Up
+1 Calamity of the Titans
+1 Censor
+1 Forbid
+1 Horribly Awry
+1 Pollywog Symbiote
+1 Everdream
+1 Customs Depot
+1 Reshape
+1 Vexing Scuttler
+1 Rites of Refusal
+1 Artificer's Intuition
+1 Cryptic Cruiser
+1 Johann's Stopgap
+1 Force of Will
+1 Silvergill Adept
+1 Spell Blast
+1 Emry, Lurker of the Loch
+1 Prohibit
+1 Skyway Robber
+1 Psychic Puppetry
+1 Fervent Denial
+1 Cosmos Charger
+1 Rune Snag
+{'overall': '4', 'cmc': 3.2, 'ramp': '3', 'draw': '28', 'interaction': 14}

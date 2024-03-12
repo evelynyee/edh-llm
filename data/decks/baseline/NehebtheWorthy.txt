@@ -1,0 +1,101 @@
+1 Neheb, the Worthy
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Guul Draz Specter
+1 Headless Specter
+1 Larceny
+1 Dragon Mage
+1 Barbed Shocker
+1 Fiend of the Shadows
+1 Slavering Nulls
+1 Moria Marauder
+1 Urgoros, the Empty One
+1 Shoreline Salvager
+1 Sycorax Commander
+1 Blazing Specter
+1 Shadow Stinger
+1 Eye Collector
+1 Gouged Zealot
+1 Book Burning
+1 Jagged Poppet
+1 Raving Dead
+1 Carrion Wurm
+1 Anthem of Rakdos
+1 Prophetic Flamespeaker
+1 Cabal Slaver
+1 Azra Oddsmaker
+1 Shocker
+1 Cruel Entertainment
+1 Rankle, Master of Pranks
+1 Rakdos Ringleader
+1 Rakdos the Defiler
+1 Carrion Rats
+1 Knight Rampager
+1 Browbeat
+1 Blim, Comedic Genius
+1 Culling Drone
+1 Hellkite Tyrant
+1 Abyssal Specter
+1 Ashling, the Extinguisher
+1 Book Devourer
+1 Hypnotic Specter
+1 Molten Psyche
+1 Lord of the Void
+1 Capricious Sliver
+1 Cogwork Tracker
+1 Hollow Specter
+1 Oath of Mages
+1 Rankle and Torbran
+1 Needle Specter
+1 Skullknocker Ogre
+1 Flamewar, Brash Veteran // Flamewar, Streetwise Operative
+1 Ash Zealot
+1 Incite Rebellion
+1 Akki Underminer
+1 Destructive Force
+1 Bronze Bombshell
+1 Demon of Loathing
+1 Bladeback Sliver
+1 Zombie Cannibal
+1 Davriel, Rogue Shadowmage
+1 Wildfire
+1 Professional Face-Breaker
+1 Sludge Crawler
+1 Zenith Chronicler
+1 Dream Pillager
+1 Curse of Chaos
+{'overall': '2', 'cmc': 3.772727272727273, 'ramp': '2', 'draw': '15', 'interaction': 8}

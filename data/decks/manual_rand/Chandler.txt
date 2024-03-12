@@ -1,0 +1,69 @@
+1 Chandler
+1 Spiked Pit Trap
+1 Spin Engine
+1 Urabrask // The Great Work
+1 Untaidake, the Cloud Keeper
+1 Skirk Prospector
+1 Witch's Oven
+1 Zariel, Archduke of Avernus
+1 You Come to the Gnoll Camp
+1 Sonic Burst
+1 Wand of Ith
+1 Whispersilk Cloak
+1 Shield of Kaldra
+1 Weight of Spires
+1 Spikeshot Goblin
+1 Terror of the Peaks
+1 Tomb of the Spirit Dragon
+1 Two-Headed Giant of Foriys
+1 Ugin, the Ineffable
+1 Sunfire Torch
+1 Wolf of Devil's Breach
+1 Torrent of Lava
+1 Unknown Shores
+1 The Underworld Cookbook
+1 Imperial Recruiter
+1 Warden of the Wall
+1 Shatter the Source
+1 Vengeful Devil
+1 Twinflame
+1 You Find Some Prisoners
+1 Slash Panther
+1 Tooth of Chiss-Goria
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 War-Spike Changeling
+1 Thornbite Staff
+1 Wall of Opposition
+1 Wrangle
+1 Simian Spirit Guide
+1 Street Spasm
+1 Swelter
+1 Smoldering Werewolf // Erupting Dreadwolf
+1 Stonespeaker Crystal
+1 Urza's Factory
+1 Volatile Fault
+1 Unstable Hulk
+1 Twinshot Sniper
+1 Scarecrone
+1 Slag Strider
+1 _____ Goblin
+1 Wondrous Crucible
+1 Vulshok Gauntlets
+1 Sorcerer's Wand
+1 Star of Extinction
+1 Unerring Sling
+1 Red Elemental Blast
+1 Tundra Fumarole
+1 Mana Vault
+1 Subterranean Spirit
+1 Tome of the Guildpact
+1 Voldaren Epicure
+1 Young Pyromancer
+1 Whip Sergeant
+1 Steamclaw
+1 Team Pennant
+1 Wildfire Eternal
+1 Slingshot Goblin
+1 Swashbuckler's Whip
+1 Specter's Shroud
+{'overall': '6', 'cmc': 2.8823529411764706, 'ramp': '11', 'draw': '8', 'interaction': 26}

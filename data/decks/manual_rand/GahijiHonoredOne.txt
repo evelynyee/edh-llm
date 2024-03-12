@@ -1,0 +1,69 @@
+1 Gahiji, Honored One
+1 Warmind Infantry
+1 Venom
+1 Witherscale Wurm
+1 Viridescent Wisps
+1 Victory's Herald
+1 Village Watch // Village Reavers
+1 Whipkeeper
+1 Yare
+1 Take Heart
+1 Withstand Death
+1 Wall of Reverence
+1 Woolly Spider
+1 Total War
+1 Warrior's Honor
+1 Treasure Nabber
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Wasteland Viper
+1 Vengeful Ancestor
+1 Wojek Bodyguard
+1 Warmonger's Chariot
+1 Threaten
+1 Wooden Stake
+1 Towashi Songshaper
+1 Wrath of God
+1 Zerapa Minotaur
+1 Time to Reflect
+1 Untamed Might
+1 Tegan Jovanka
+1 Wildwood Mentor
+1 Wing Snare
+1 Taunting Challenge
+1 Thran Forge
+1 Unwilling Recruit
+1 Warchief Giant
+1 Welkin Guide
+1 Sword of Feast and Famine
+1 Takeno, Samurai General
+1 Vitalizing Wind
+1 Turn Against
+1 Théoden, King of Rohan
+1 Vigilance
+1 Yavimaya Steelcrusher
+1 Wild Might
+1 Zodiac Ox
+1 Webspinner Cuff
+1 Tormentor Exarch
+1 Veteran Cathar
+1 Thundersteel Colossus
+1 Thorned Moloch
+1 Unflinching Courage
+1 Thicket Basilisk
+1 War Elephant
+1 Wrap in Flames
+1 Seedborn Muse
+1 Unnatural Speed
+1 Syr Alin, the Lion's Claw
+1 Wall of Shields
+1 Themberchaud
+1 Suq'Ata Lancer
+1 Wyluli Wolf
+1 _____ _____ Rocketship
+1 Taranika, Akroan Veteran
+1 Zendikar Farguide
+1 Trumpet Blast
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Vertigo
+1 Walking Bulwark
+{'overall': '2', 'cmc': 3.426470588235294, 'ramp': '1', 'draw': '1', 'interaction': 11}

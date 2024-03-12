@@ -1,0 +1,69 @@
+1 Orcus, Prince of Undeath
+1 The Mana Rig
+1 The End
+1 Weapon Surge
+1 The Toymaker's Trap
+1 Well of Lost Dreams
+1 Tuktuk Scrapper
+1 The Ruinous Powers
+1 Tower of Champions
+1 Where Ancients Tread
+1 Toshiro Umezawa
+1 Sunbird Standard // Sunbird Effigy
+1 Thwart the Grave
+1 Void Maw
+1 Spoils of War
+1 Throne of the God-Pharaoh
+1 Vedalken Shackles
+1 Workshop Assistant
+1 Volrath's Dungeon
+1 Voodoo Doll
+1 Whiptail Moloch
+1 Traitorous Instinct
+1 The Deck of Many Things
+1 Zhulodok, Void Gorger
+1 Steel Hellkite
+1 Soul Shatter
+1 Witch's Mark
+1 Unnatural Speed
+1 Theater of Horrors
+1 Vorrac Battlehorns
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Yavimaya Steelcrusher
+1 Tibalt, the Fiend-Blooded
+1 Weaver of Lightning
+1 Wheel of Torture
+1 Sorin, Imperious Bloodlord
+1 Tundra Fumarole
+1 Uncanny Speed
+1 Unlicensed Disintegration
+1 Umezawa's Jitte
+1 Sunbird Standard // Sunbird Effigy
+1 Witch's Mist
+1 Urabrask's Forge
+1 Ugin, the Spirit Dragon
+1 Utility Knife
+1 Dark Ritual
+1 Zariel, Archduke of Avernus
+1 Tentative Connection
+1 Vampire's Bite
+1 Vulshok Battlegear
+1 Syrix, Carrier of the Flame
+1 Towashi Guide-Bot
+1 Waste Management
+1 Swift Kick
+1 Chaos Warp
+1 Wound Reflection
+1 Tormented Hero
+1 Trip Noose
+1 Vanquisher's Banner
+1 Witch-king, Sky Scourge
+1 Underworld Sentinel
+1 Warlord's Fury
+1 Vrock
+1 Terminate
+1 Ulcerate
+1 Vanquish the Weak
+1 Witch's Oven
+1 Transmutation
+{'overall': '4', 'cmc': 3.3582089552238807, 'ramp': '4', 'draw': '11', 'interaction': 17}

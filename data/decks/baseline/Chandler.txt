@@ -1,0 +1,101 @@
+1 Chandler
+1 Hanweir Battlements // Hanweir, the Writhing Township
+1 Blighted Gorge
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Joven
+1 Goblin Replica
+1 Torch Fiend
+1 Ruinous Gremlin
+1 Reckless Reveler
+1 Shivan Harvest
+1 Dwarven Miner
+1 Mizzium Mortars
+1 Seismic Spike
+1 Barbarian Riftcutter
+1 Blaster Mage
+1 Geosurge
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Barbarian Lunatic
+1 Dismissive Pyromancer
+1 Skirsdag Cultist
+1 Soulbright Flamekin
+1 Keldon Necropolis
+1 Seismic Mage
+1 Blood Rites
+1 Barrage of Expendables
+1 Hoard-Smelter Dragon
+1 Arms Dealer
+1 Explosive Welcome
+1 Jaya Ballard, Task Mage
+1 Vandalblast
+1 Vessel of Volatility
+1 Burning Palm Efreet
+1 Magma Vein
+1 Coal Golem
+1 Bloodfire Kavu
+1 Deadapult
+1 Jhoira's Toolbox
+1 Dire Flail // Dire Blunderbuss
+1 Electrickery
+1 Dynacharge
+1 Clockwork Gnomes
+1 Eron the Relentless
+1 Ghost-Lit Raider
+1 Slingshot Goblin
+1 War-Torch Goblin
+1 Grotag Siege-Runner
+1 Street Spasm
+1 Barrage Tyrant
+1 Scourge of Kher Ridges
+1 Krark-Clan Stoker
+1 Krark-Clan Engineers
+1 Firewing Phoenix
+1 Seething Song
+1 Shard Phoenix
+1 Pyroclastic Elemental
+1 Hammer of Bogardan
+1 Bloodfire Dwarf
+1 Solar Blast
+1 Herbal Poultice
+1 Titan of Eternal Fire
+1 Ali Baba
+1 Scorchwalker
+1 Inferno Fist
+1 Molten Vortex
+1 Chandra, Torch of Defiance
+1 Goblin Chirurgeon
+1 Chandra, Novice Pyromancer
+{'overall': '3', 'cmc': 2.970149253731343, 'ramp': '11', 'draw': '2', 'interaction': 35}

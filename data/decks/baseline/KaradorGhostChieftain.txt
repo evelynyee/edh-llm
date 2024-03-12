@@ -1,0 +1,101 @@
+1 Karador, Ghost Chieftain
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Ghoultree
+1 Writhing Necromass
+1 Hazoret's Monument
+1 Argivian Phalanx
+1 Locket of Yesterdays
+1 Gargantuan Leech
+1 Sky-Blessed Samurai
+1 Overwhelming Remorse
+1 Diregraf Rebirth
+1 Mockery of Nature
+1 March of Otherworldly Light
+1 No One Left Behind
+1 Mavinda, Students' Advocate
+1 Banish from Edoras
+1 Angelic Observer
+1 Necrotic Fumes
+1 Planar Gate
+1 Quicksand Whirlpool
+1 Dream Chisel
+1 Bone Picker
+1 Conduit of Ruin
+1 Vanquish the Horde
+1 Start // Finish
+1 Twinning Glass
+1 Xander's Pact
+1 Astral Confrontation
+1 Starnheim Courser
+1 Shell of the Last Kappa
+1 Necropanther
+1 Herald of the Pantheon
+1 Withering Boon
+1 Idol of Endurance
+1 Foundry Inspector
+1 Foul-Tongue Invocation
+1 Mana Matrix
+1 Vengevine
+1 Beseech the Mirror
+1 Tangle Golem
+1 Sevinne's Reclamation
+1 Patrician's Scorn
+1 Tlincalli Hunter // Retrieve Prey
+1 Krosan Drover
+1 Blood Funnel
+1 Patron of the Kitsune
+1 Spire Golem
+1 Spellwild Ouphe
+1 Oxidda Golem
+1 Sublime Exhalation
+1 Bone Splinters
+1 Mutual Destruction
+1 Bitter Triumph
+1 Worthy Cause
+1 Induce Despair
+1 Mycosynth Golem
+1 Coveted Prize
+1 Mouth // Feed
+1 Boneyard Lurker
+1 Gaze of Justice
+1 Deadly Rollick
+1 Razor Golem
+1 Sanguine Indulgence
+1 Merciless Resolve
+1 Knight of the Stampede
+{'overall': '1', 'cmc': 4.358208955223881, 'ramp': '2', 'draw': '6', 'interaction': 18}

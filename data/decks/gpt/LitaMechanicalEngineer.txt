@@ -1,0 +1,65 @@
+1 Lita, Mechanical Engineer
+1 Wurmcoil Engine
+1 Sword of Light and Shadow
+1 Stoneforge Masterwork
+1 Throne of Empires
+1 Sword of the Chosen
+1 Whipgrass Entangler
+1 Wedding Invitation
+1 Sword of the Ages
+1 Vessel of Ephemera
+1 Sword of the Meek
+1 Sol Ring
+1 Arcane Signet
+1 Mana Crypt
+1 Chromatic Lantern
+1 Mind Stone
+1 Treasure Map // Treasure Cove
+1 Austere Command
+1 Sword of the Paruns
+1 Thousand-Year Elixir
+1 Staff of Titania
+1 Tempered Steel
+1 Thornbite Staff
+1 Thunder Totem
+1 Whirlermaker
+1 Takeno's Cavalry
+1 Zhang Fei, Fierce Warrior
+1 Sunfall
+1 Wingmate Roc
+1 Warrior's Honor
+1 Smothering Tithe
+1 Thalia's Geistcaller
+1 Starlight
+1 Thran Power Suit
+1 Warden of the Wall
+1 Waylay
+1 Whalebone Glider
+1 Take Vengeance
+1 Takeno, Samurai General
+1 Silverwing Squadron
+1 Solitude
+1 Terashi's Verdict
+1 Strongarm Monk
+1 Valiant Changeling
+1 Treasure Vault
+1 Tocasia's Welcome
+1 Skrelv's Hive
+1 The Tabernacle at Pendrell Vale
+1 Sword of Body and Mind
+1 Warhorn Blast
+1 Spectral Reserves
+1 Tower of Champions
+1 Thousand Moons Crackshot
+1 Triumph of Gerrard
+1 Sunder the Gateway
+1 Teferi's Protection
+1 Valor of the Worthy
+1 Sunseed Nurturer
+1 Winds of Abandon
+1 White Plume Adventurer
+1 Unstable Frontier
+1 Sleek Schooner
+1 Surge of Salvation
+1 The Restoration of Eiganjo // Architect of Restoration
+{'overall': '7', 'cmc': 2.984375, 'ramp': '11', 'draw': '6', 'interaction': 10}

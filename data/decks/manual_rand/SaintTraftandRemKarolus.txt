@@ -1,0 +1,69 @@
+1 Saint Traft and Rem Karolus
+1 Teferi's Protection
+1 Wayward Angel
+1 Voyager Staff
+1 Toggo, Goblin Weaponsmith
+1 Timely Reinforcements
+1 Tinker's Tote
+1 Wedding Invitation
+1 Wall of Resurgence
+1 Transmogrifying Wand
+1 Wing Commando
+1 The Raven's Warning
+1 Sun-Blessed Guardian // Furnace-Blessed Conqueror
+1 Virtue of Knowledge // Vantress Visions
+1 Warping Wail
+1 The Battle of Bywater
+1 Vault Robber
+1 Wall of Frost
+1 Titan Forge
+1 Word of Undoing
+1 Twinning Staff
+1 Vampires' Vengeance
+1 Trail of Evidence
+1 Verity Circle
+1 Take Up Arms
+1 Winged Words
+1 Wavecrash Triton
+1 Wind-Kin Raiders
+1 Whiplash Trap
+1 The Hive
+1 Volcanic Awakening
+1 Treason of Isengard
+1 Wurmcoil Engine
+1 Talrand's Invocation
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Voice of Grace
+1 Updraft
+1 Vacuumelt
+1 Thopter Squadron
+1 The Everflowing Well // The Myriad Pools
+1 Thassa's Emissary
+1 Throne of Empires
+1 Warhorn Blast
+1 Vedalken Archmage
+1 Whalebone Glider
+1 Thermal Glider
+1 Thalia's Geistcaller
+1 Swarming of Moria
+1 Veyran, Voice of Duality
+1 Wingmantle Chaplain
+1 Wind Zendikon
+1 Thraben Sentry // Thraben Militia
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Winged Hive Tyrant
+1 Welcoming Vampire
+1 Unctus's Retrofitter
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Unstable Shapeshifter
+1 Vizier of Many Faces
+1 Veil of Assimilation
+1 Twisted Fealty
+1 Zeriam, Golden Wind
+1 Tetravus
+1 Thousand-Faced Shadow
+1 Séance
+1 Vanguard Suppressor
+1 Warcry Phoenix
+1 Vesuvan Doppelganger
+{'overall': '5', 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7}
