@@ -1,0 +1,65 @@
+1 Dynaheir, Invoker Adept
+1 Sol Ring
+1 Mana Vault
+1 Whispers of the Muse
+1 Vedalken Archmage
+1 Whir of Invention
+1 Thoughtcast
+1 Venser, the Sojourner
+1 Wand of Ith
+1 Void Mirror
+1 Train of Thought
+1 Vexing Scuttler
+1 Warzone Duplicator
+1 Tundra Fumarole
+1 Trait Doctoring
+1 Yavimaya Steelcrusher
+1 Ugin's Mastery
+1 Trail of the Mage-Rings
+1 Treasure Nabber
+1 Swords to Plowshares
+1 Vanquisher's Banner
+1 Teferi's Protection
+1 Vandalblast
+1 Whispersilk Cloak
+1 Vedalken Orrery
+1 Windrider Wizard
+1 Verity Circle
+1 Vadrik, Astral Archmage
+1 Whalebone Glider
+1 Undying Flames
+1 Time Beetle
+1 Wizard's Retort
+1 Teferi, Master of Time
+1 Universal Surveillance
+1 Tolaria
+1 When Will You Learn?
+1 Twinning Staff
+1 Wicker Picker
+1 Welcome to the Fold
+1 Warhorn Blast
+1 Training Grounds
+1 Taigam's Strike
+1 Thassa, God of the Sea
+1 Yusri, Fortune's Flame
+1 Walk the Aeons
+1 Torpor Orb
+1 Urza's Filter
+1 Uncontrollable Anger
+1 Warehouse Thief
+1 Vedalken Engineer
+1 Workshop Elders
+1 Veil of Secrecy
+1 Wedding Ring
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Unexpected Windfall
+1 Vizier of the True
+1 Vindictive Flamestoker
+1 Thryx, the Sudden Storm
+1 Storm of Saruman
+1 Sweatworks Brawler
+1 Tyrant of Valakut
+1 The Twelfth Doctor
+1 Teferi's Contingency
+1 Vodalian Knights
+{'overall': '6', 'cmc': 3.3125, 'ramp': '9', 'draw': '16', 'interaction': 11}

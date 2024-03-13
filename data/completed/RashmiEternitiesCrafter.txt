@@ -1,0 +1,66 @@
+1 Rashmi, Eternities Crafter
+1 Verdant Mastery
+1 Vivid Revival
+1 Towering Baloth
+1 Trepanation Blade
+1 Ugin, the Ineffable
+1 Vernal Bloom
+1 Verdant Succession
+1 Wrenn and Seven
+1 Birds of Paradise
+1 Vivien, Champion of the Wilds
+1 Vedalken Orrery
+1 Venser's Diffusion
+1 Windfall
+1 Thoughtcast
+1 Teferi, Temporal Archmage
+1 Warden of Evos Isle
+1 Voda Sea Scavenger
+1 Yavimaya Sojourner
+1 Wanderer's Twig
+1 Mana Vault
+1 Counterspell
+1 Mulldrifter
+1 Teferi, Mage of Zhalfir
+1 Green Sun's Zenith
+1 Coiling Oracle
+1 Unexpected Results
+1 Time Reversal
+1 Whispergear Sneak
+1 Trail of the Mage-Rings
+1 Windrider Patrol
+1 Walk the Aeons
+1 Wand of Ith
+1 Wirewood Herald
+1 Void Mirror
+1 Wizened Snitches
+1 Zndrsplt, Eye of Wisdom
+1 Vedalken Engineer
+1 Tolarian Terror
+1 Waterspout Elemental
+1 Tidal Courier
+1 Vines of Vastwood
+1 Zephyr Scribe
+1 Whimsy
+1 Windcaller Aven
+1 Ugin's Mastery
+1 Trenzalore Clocktower
+1 Wretched Throng
+1 Uro, Titan of Nature's Wrath
+1 Twinning Staff
+1 Zur's Weirding
+1 Venser's Journal
+1 Tezzeret's Gatebreaker
+1 Wren's Run Vanquisher
+1 Whispers of the Muse
+1 Storm the Festival
+1 Vital Surge
+1 Wall of Runes
+1 Winged Coatl
+1 Vedalken Archmage
+1 Vine Dryad
+1 Vineshaper Prodigy
+1 Vedalken Aethermage
+1 Voyage's End
+1 Vizier of Many Faces
+{'overall': '5', 'cmc': 3.5076923076923077, 'ramp': '8', 'draw': '26', 'interaction': 2}

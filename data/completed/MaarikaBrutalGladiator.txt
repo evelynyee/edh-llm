@@ -1,0 +1,66 @@
+1 Maarika, Brutal Gladiator
+1 Wild Growth
+1 Rampant Growth
+1 Birds of Paradise
+1 Sol Ring
+1 Umezawa's Jitte
+1 Vile Aggregate
+1 Thrasta, Tempest's Roar
+1 Valor Singer
+1 Thicket Basilisk
+1 Vampiric Touch
+1 Mana Vault
+1 Thunderstaff
+1 Thundering Rebuke
+1 Undercity's Embrace
+1 Vivien, Arkbow Ranger
+1 Wings of Hubris
+1 Vivien of the Arkbow
+1 Wildfire Elemental
+1 Whipflare
+1 The Long Reach of Night // Animus of Night's Reach
+1 Ward of Bones
+1 Go for the Throat
+1 Vrondiss, Rage of Ancients
+1 Venomous Dragonfly
+1 Zodiac Monkey
+1 Tower of Calamities
+1 Warfire Javelineer
+1 Tilonalli's Skinshifter
+1 Wei Assassins
+1 Zurzoth, Chaos Rider
+1 Withercrown
+1 Vicious Shadows
+1 Yahenni, Undying Partisan
+1 Volcanic Offering
+1 Zodiac Rooster
+1 Wildfire
+1 Uncivil Unrest
+1 Vampire's Bite
+1 Warpath
+1 Woodlurker Mimic
+1 Ydwen Efreet
+1 Warren Instigator
+1 Whispersilk Cloak
+1 Volcanic Geyser
+1 Xenagos, God of Revels
+1 Unnatural Aggression
+1 Vengeful Ancestor
+1 Vicious Offering
+1 Torbran, Thane of Red Fell
+1 Vengeful Strangler // Strangling Grasp
+1 Vial of Poison
+1 Viridian Longbow
+1 Whipkeeper
+1 Wrangle
+1 Windgrace's Judgment
+1 Vampire Cutthroat
+1 Wretched Confluence
+1 Wedding Invitation
+1 Worldslayer
+1 Victim of Night
+1 Tyvar's Stand
+1 Super-Duper Death Ray
+1 Varchild, Betrayer of Kjeldor
+1 Vengeful Pharaoh
+{'overall': '4', 'cmc': 3.292307692307692, 'ramp': '5', 'draw': '3', 'interaction': 23}

@@ -1,0 +1,69 @@
+1 Meneldor, Swift Savior
+1 Commander's Sphere
+1 Mana Vault
+1 Mind Stone
+1 Ashnod's Altar
+1 The Philosopher
+1 Vendilion Clique
+1 Volrath
+1 Stolen Identity
+1 Zephyr Singer
+1 Unsummon
+1 Tunnel of Love
+1 Vex
+1 Voltaic Key
+1 Voltaic Construct
+1 Teferi's Response
+1 Supplant Form
+1 Teferi, Timeless Voyager
+1 Treason of Isengard
+1 Umezawa's Jitte
+1 Sorcerer's Wand
+1 Wingrattle Scarecrow
+1 Sword of Feast and Famine
+1 Windfall
+1 Vedalken Dismisser
+1 Worry Beads
+1 Ugin's Nexus
+1 Teferi's Talent
+1 Updraft
+1 Truth or Dare
+1 Tidal Surge
+1 Ugin, the Spirit Dragon
+1 Sword of Kaldra
+1 Counterspell
+1 Tolarian Sentinel
+1 Sword of Fire and Ice
+1 Arcane Signet
+1 Mana Drain
+1 Teferi, Temporal Pilgrim
+1 Thieving Magpie
+1 Your Will Is Not Your Own
+1 Soulknife Spy
+1 Thopter Spy Network
+1 Teardrop Kami
+1 Unified Lunge
+1 Chromatic Lantern
+1 Sphinx Ambassador
+1 Venser, Shaper Savant
+1 Mana Crypt
+1 Steel Hellkite
+1 Sword of Truth and Justice
+1 Winter Eladrin
+1 Worldslayer
+1 Sword of Dungeons & Dragons
+1 Urza's Bauble
+1 Temporal Cascade
+1 Stealer of Secrets
+1 Stinging Lionfish
+1 Wondrous Crucible
+1 Water Gun Balloon Game
+1 Trade Routes
+1 Stensia
+1 Sorrow's Path
+1 Time Ebb
+1 Stroke of Genius
+1 Thran Power Suit
+1 Weight of Memory
+1 Force of Will
+{'overall': '6', 'cmc': 3.0441176470588234, 'ramp': '7', 'draw': '21', 'interaction': 12}

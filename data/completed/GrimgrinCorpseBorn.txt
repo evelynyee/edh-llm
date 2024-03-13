@@ -1,0 +1,65 @@
+1 Grimgrin, Corpse-Born
+1 Vampiric Embrace
+1 Vat of Rebirth
+1 Mana Vault
+1 Mind Stone
+1 Cyclonic Rift
+1 Unquenchable Thirst
+1 Whirlwind Denial
+1 Thrilling Encore
+1 Vodalian Serpent
+1 Wavecrash Triton
+1 Unhallowed Pact
+1 Vraska's Fall
+1 Traxos, Scourge of Kroog
+1 Tetzimoc, Primal Death
+1 Treachery
+1 Tangle Wire
+1 Warkite Marauder
+1 Wicked Visitor
+1 Wishclaw Talisman
+1 Wizened Githzerai
+1 Tideforce Elemental
+1 Voltaic Key
+1 Taunting Sliver
+1 Vraska's Finisher
+1 Vampirism
+1 Counterspell
+1 Mulldrifter
+1 Animate Dead
+1 Vampiric Sliver
+1 Wretched Confluence
+1 Triumph of Cruelty
+1 The Abyss
+1 Zndrsplt, Eye of Wisdom
+1 Veilborn Ghoul
+1 Triskelavus
+1 Triskelion
+1 Thalakos Dreamsower
+1 Undercity Necrolisk
+1 Tidal Force
+1 Warteye Witch
+1 Vedalken Shackles
+1 Vortex Elemental
+1 Wrexial, the Risen Deep
+1 Viridian Longbow
+1 Thassa, Deep-Dwelling
+1 Vraska, Scheming Gorgon
+1 Twisted Embrace
+1 Twiddlestick Charger
+1 Teferi's Time Twist
+1 Thornbow Archer
+1 Torture
+1 Whirlwind Adept
+1 Thrill-Kill Assassin
+1 Turn Aside
+1 Tandem Lookout
+1 Tunnel of Love
+1 Warchanter of Mogis
+1 Thirst
+1 Village Cannibals
+1 Wedding Invitation
+1 Tooth Collector
+1 Vampire Scrivener
+1 Vampire Outcasts
+{'overall': '4', 'cmc': 3.25, 'ramp': '2', 'draw': '8', 'interaction': 15}

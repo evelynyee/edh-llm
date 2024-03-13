@@ -1,0 +1,66 @@
+1 Sarulf, Realm Eater
+1 Seedborn Muse
+1 Mana Vault
+1 Ugin, the Spirit Dragon
+1 Birds of Paradise
+1 Sol Ring
+1 Yisan, the Wanderer Bard
+1 Vivien, Nature's Avenger
+1 Uncage the Menagerie
+1 Verdant Rejuvenation
+1 Mind Stone
+1 Eternal Witness
+1 Sylvan Primordial
+1 Wild Pair
+1 Verdurous Gearhulk
+1 Titania's Chosen
+1 Bloom Tender
+1 Sword-Point Diplomacy
+1 Visage of Dread // Dread Osseosaur
+1 Sphere of Annihilation
+1 Wren's Run Hydra
+1 Tetzimoc, Primal Death
+1 The Great Aurora
+1 The Great Henge
+1 Vampire Hexmage
+1 Animate Dead
+1 Woodland Champion
+1 The End
+1 The One Ring
+1 Tribute to the World Tree
+1 Vraska, Golgari Queen
+1 The Gitrog Monster
+1 Tooth and Nail
+1 Tangle Wire
+1 Vexing Arcanix
+1 Vorinclex // The Grand Evolution
+1 Yawgmoth's Vile Offering
+1 Vivien Reid
+1 Vengevine
+1 Vraska, Regal Gorgon
+1 Vengeful Strangler // Strangling Grasp
+1 Undergrowth Scavenger
+1 The Golden Throne
+1 Worry Beads
+1 The Five Doctors
+1 Wild Endeavor
+1 The Aether Flues
+1 Vat of Rebirth
+1 Witness the End
+1 Willow Priestess
+1 Vampire Scrivener
+1 Wasteland Strangler
+1 Winding Constrictor
+1 Wretched Confluence
+1 Whirling Dervish
+1 Wretched Camel
+1 Wrench Mind
+1 Vivien, Monsters' Advocate
+1 Vivien's Invocation
+1 Ugin's Nexus
+1 Trollbred Guardian
+1 Triumph of Ferocity
+1 Titania's Command
+1 Yavimaya Elder
+1 Zask, Skittering Swarmlord
+{'overall': '7', 'cmc': 3.953846153846154, 'ramp': '14', 'draw': '19', 'interaction': 9}

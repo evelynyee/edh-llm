@@ -1,0 +1,69 @@
+1 Tom Bombadil
+1 Seedborn Muse
+1 Mana Vault
+1 Vampiric Tutor
+1 Traverse the Ulvenwald
+1 Yisan, the Wanderer Bard
+1 Zyym, Mesmeric Lord
+1 Vizier of the Menagerie
+1 Vizier of the Anointed
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Valakut Exploration
+1 Vampire Nocturnus Avatar
+1 Vampire Nocturnus
+1 Varragoth, Bloodsky Sire
+1 Wild Growth
+1 Sol Ring
+1 Urban Evolution
+1 Verdant Catacombs
+1 Zndrsplt, Eye of Wisdom
+1 Zareth San, the Trickster
+1 Watcher for Tomorrow
+1 Worldly Counsel
+1 Wayfaring Giant
+1 Zirda, the Dawnwaker
+1 Worldknit
+1 Umori, the Collector
+1 Unexpectedly Absent
+1 Worldly Tutor
+1 Zoologist
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Warren Instigator
+1 Vessel of Nascency
+1 Villainous Wealth
+1 Vendilion Clique
+1 Vraska's Stoneglare
+1 Tooth and Nail
+1 Zurgo and Ojutai
+1 Zimone and Dina
+1 Twists and Turns // Mycoid Maze
+1 Wild Pair
+1 Uro, Titan of Nature's Wrath
+1 Yidris, Maelstrom Wielder
+1 Zethi, Arcane Blademaster
+1 Visage of Dread // Dread Osseosaur
+1 Whimsy
+1 Wiretapping
+1 Vivien, Nature's Avenger
+1 Viridian Emissary
+1 Mind Stone
+1 X
+1 Wandering Mind
+1 Valakut Awakening // Valakut Stoneforge
+1 Worm Harvest
+1 Traumatic Visions
+1 Wake to Slaughter
+1 Wretched Confluence
+1 Uncage the Menagerie
+1 Verdant Rejuvenation
+1 Witness the End
+1 Vhal, Scholar of Mortality
+1 Wand of Vertebrae
+1 Wayward Soul
+1 Xolatoyac, the Smiling Flood
+1 Whispering Madness
+1 Wizened Snitches
+1 Unexplained Disappearance
+1 Yavimaya Elder
+1 Zhur-Taa Ancient
+{'overall': '7', 'cmc': 3.462686567164179, 'ramp': '16', 'draw': '27', 'interaction': 4}

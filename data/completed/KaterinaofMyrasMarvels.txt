@@ -1,0 +1,66 @@
+1 Katerina of Myra's Marvels
+1 Servo Schematic
+1 Terrarion
+1 Squad Commander
+1 Sol Ring
+1 Surveyor's Scope
+1 Zeriam, Golden Wind
+1 Triplicate Titan
+1 Timesifter
+1 World Queller
+1 Titan Forge
+1 The Rack
+1 Wandering Archaic // Explore the Vastlands
+1 Warchanter Skald
+1 Storm Herd
+1 Urza's Ruinous Blast
+1 You're Confronted by Robbers
+1 The Maelstrom
+1 Volrath's Laboratory
+1 The Peregrine Dynamo
+1 Zoetic Cavern
+1 Watcher of the Roost
+1 War Report
+1 Ulamog's Despoiler
+1 Wingbeat Warrior
+1 Song of the Worldsoul
+1 Undead Slayer
+1 Ultramarines Honour Guard
+1 Wingsteed Trainer
+1 Whispergear Sneak
+1 War of the Last Alliance
+1 Wondrous Crucible
+1 Stonehewer Giant Avatar
+1 Will-Forged Golem
+1 The Pieces Are Coming Together
+1 Tatsumasa, the Dragon's Fang
+1 Tormod's Crypt
+1 Whirlermaker
+1 Spectral Procession
+1 Sorcerer's Broom
+1 Thraben Heretic
+1 Thraben Exorcism
+1 Tethmos High Priest
+1 Timely Reinforcements
+1 Staff of the Storyteller
+1 Tariff
+1 The Dead Shall Serve
+1 Squire's Devotion
+1 Urza's Incubator
+1 Thalia's Lancers
+1 The Deck of Many Things
+1 Thran Portal
+1 Thought Dissector
+1 Wand of Ith
+1 Windshaper Planetar
+1 Wing Shards
+1 Sunset Revelry
+1 Voyager Staff
+1 The Girl in the Fireplace
+1 Welcoming Vampire
+1 The Dining Car
+1 Wirefly Hive
+1 Two Streams Facility
+1 White Mana Battery
+1 Unconventional Tactics
+{'overall': '6', 'cmc': 3.2153846153846155, 'ramp': '6', 'draw': '11', 'interaction': 4}

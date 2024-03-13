@@ -1,0 +1,67 @@
+1 Gimbal, Gremlin Prodigy
+1 Will Kenrith
+1 World Breaker
+1 Zndrsplt's Judgment
+1 Zendikar Resurgent
+1 Whir of Invention
+1 Mana Vault
+1 Sol Ring
+1 Mana Drain
+1 Mulldrifter
+1 Tangleweave Armor
+1 Wolfcaller's Howl
+1 Thundering Raiju
+1 Wolf Strike
+1 Voldaren Thrillseeker
+1 Zhur-Taa Goblin
+1 Volcanic Wind
+1 Thopter Assembly
+1 Wildborn Preserver
+1 Whirler Rogue
+1 Volo, Guide to Monsters
+1 Wort, the Raidmother
+1 Mind Stone
+1 Twisted Image
+1 Ugin, the Ineffable
+1 Warzone Duplicator
+1 Verdant Embrace
+1 Voldaren Epicure
+1 Turn // Burn
+1 Thopter Spy Network
+1 Workshop Elders
+1 Treason of Isengard
+1 True Polymorph
+1 Willow Priestess
+1 Viridescent Wisps
+1 Zara, Renegade Recruiter
+1 Terastodon
+1 Weapon Rack
+1 Zegana, Utopian Speaker
+1 Vorel of the Hull Clade
+1 Bloom Tender
+1 Tempt with Reflections
+1 Zephyr Sentinel
+1 Winged Hive Tyrant
+1 Titania, Protector of Argoth
+1 Yavimaya Kavu
+1 Verix Bladewing
+1 Zoanthrope
+1 Winterthorn Blessing
+1 Zurzoth, Chaos Rider
+1 Verdant Rejuvenation
+1 Tooth and Claw
+1 Young Wolf
+1 Thundersteel Colossus
+1 Zephyr Singer
+1 Trove of Temptation
+1 Veiled Sentry
+1 Zameck Guildmage
+1 Vedalken Infuser
+1 Throne of Empires
+1 Volo, Itinerant Scholar
+1 Zulaport Duelist
+1 Urza's Saga
+1 Wingrattle Scarecrow
+1 Thromok the Insatiable
+1 Waterlogged Hulk // Watertight Gondola
+{'overall': '6', 'cmc': 3.787878787878788, 'ramp': '7', 'draw': '14', 'interaction': 5}

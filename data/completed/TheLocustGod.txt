@@ -1,0 +1,67 @@
+1 The Locust God
+1 Talrand, Sky Summoner
+1 Venser, Shaper Savant
+1 Whirler Rogue
+1 Zndrsplt, Eye of Wisdom
+1 Mana Drain
+1 Sol Ring
+1 Tectonic Reformation
+1 Storm Fleet Negotiator
+1 Warbringer
+1 Treasure Cruise
+1 Vizier of Many Faces
+1 Lightning Bolt
+1 Counterspell
+1 Swan Song
+1 Tuktuk the Explorer
+1 Tezzeret, Artifice Master
+1 Whispering Wizard
+1 Tah-Crop Skirmisher
+1 Warzone Duplicator
+1 Tiamat's Fanatics
+1 Zndrsplt's Judgment
+1 Transmute Artifact
+1 Thopter Spy Network
+1 Thirst for Knowledge
+1 Tolarian Kraken
+1 Squee, Dubious Monarch
+1 Trail of Evidence
+1 Ugin, the Spirit Dragon
+1 Wand of Ith
+1 Ugin's Mastery
+1 Trial of Knowledge
+1 Tamiyo, the Moon Sage
+1 Veil of Secrecy
+1 Warren Instigator
+1 Yavimaya Steelcrusher
+1 Treasure Chest
+1 Welcome to the Fold
+1 Treasure Nabber
+1 Worldfire
+1 Unsubstantiate
+1 Mana Crypt
+1 Trail of the Mage-Rings
+1 Vexing Scuttler
+1 True Polymorph
+1 Witness of the Ages
+1 Temporal Machinations
+1 Transplant Theorist
+1 Wirefly Hive
+1 Varchild's War-Riders
+1 Venser's Diffusion
+1 Workshop Elders
+1 The Stasis Coffin
+1 Undying Flames
+1 Zirilan of the Claw
+1 Tragic Lesson
+1 Vizier of the Anointed
+1 Whispers of the Muse
+1 Walk the Aeons
+1 Theft of Dreams
+1 Verix Bladewing
+1 Wind Zendikon
+1 Zulaport Duelist
+1 Tormod's Cryptkeeper
+1 Time Elemental
+1 Vizier of Tumbling Sands
+{'overall': '7', 'cmc': 3.6666666666666665, 'ramp': '4', 'draw': '24', 'interaction': 9}

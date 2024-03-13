@@ -1,0 +1,65 @@
+1 Purphoros, Bronze-Blooded
+1 Abrade
+1 Mana Vault
+1 Fellwar Stone
+1 Arcane Signet
+1 Trepanation Blade
+1 Tilonalli's Summoner
+1 Varchild's War-Riders
+1 Storm Herald
+1 Unexpected Windfall
+1 Volcanic Offering
+1 Tempest Efreet
+1 Chaos Warp
+1 Skyship Weatherlight
+1 Vandalblast
+1 Volrath's Laboratory
+1 Trash for Treasure
+1 Trading Post
+1 Underworld Breach
+1 Unstable Hulk
+1 Tuktuk Scrapper
+1 Sword of Kaldra
+1 Thunderous Might
+1 Ugin, the Spirit Dragon
+1 Vexing Arcanix
+1 Vedalken Shackles
+1 Talon Gates
+1 Zurzoth, Chaos Rider
+1 Stolen Strategy
+1 Venser's Journal
+1 Treasure Nabber
+1 Warden of the Wall
+1 Sword of Once and Future
+1 Turri Island
+1 Zada, Hedron Grinder
+1 Summoning Station
+1 Triassic Egg
+1 Tome Shredder
+1 Smuggler's Copter
+1 Sword of Hearth and Home
+1 Vampires' Vengeance
+1 Verix Bladewing
+1 Tundra Kavu
+1 Umbilicus
+1 Vault Robber
+1 Xanthic Statue
+1 Viashino Sandscout
+1 Thran Temporal Gateway
+1 Mind Stone
+1 Urabrask, Heretic Praetor
+1 Whirlermaker
+1 Twinflame
+1 Underdark Rift
+1 Worldfire
+1 Temporary Insanity
+1 Ward of Bones
+1 Wings of Hubris
+1 The Fourth Sphere
+1 The Provider
+1 Tormod's Crypt
+1 Vessel of Endless Rest
+1 Vicious Shadows
+1 Wheel of Torture
+1 Zuran Orb
+{'overall': '6', 'cmc': 3.21875, 'ramp': '9', 'draw': '8', 'interaction': 8}
