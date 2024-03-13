@@ -66,4 +66,4 @@
 1 Treasure Keeper
 1 Sudden Insight
 1 The Mirari Conjecture
-{'overall': '5', 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '28', 'interaction': 8}
+{'overall': 9.209670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '28', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrmosArchiveKeeper.txt'}

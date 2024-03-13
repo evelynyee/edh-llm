@@ -65,4 +65,4 @@
 1 Wayward Angel
 1 Vanquisher's Banner
 1 Viashino Weaponsmith
-{'overall': '3', 'cmc': 3.71, 'ramp': '1', 'draw': '9', 'interaction': 11}
+{'overall': 3.589083557951483, 'cmc': 3.71, 'ramp': '1', 'draw': '9', 'interaction': 11, 'folder': 'gpt', 'commander': 'MerryEsquireofRohan.txt'}

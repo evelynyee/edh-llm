@@ -64,4 +64,4 @@
 1 Vizier of Deferment
 1 Ugin, the Ineffable
 1 Tethmos High Priest
-{'overall': '8', 'cmc': 3.393939393939394, 'ramp': '19', 'draw': '19', 'interaction': 4}
+{'overall': 10.289285714285713, 'cmc': 3.393939393939394, 'ramp': '19', 'draw': '19', 'interaction': 4, 'folder': 'gpt', 'commander': 'CaptainSisay.txt'}

@@ -66,4 +66,4 @@
 1 Thornbite Staff
 1 Zabaz, the Glimmerwasp
 1 Thorncaster Sliver
-{'overall': '2', 'cmc': 3.2686567164179103, 'ramp': '0', 'draw': '1', 'interaction': 13}
+{'overall': 1.5118721461187214, 'cmc': 3.2686567164179103, 'ramp': '0', 'draw': '1', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}

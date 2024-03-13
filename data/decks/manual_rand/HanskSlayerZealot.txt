@@ -66,4 +66,4 @@
 1 Thorn Lieutenant
 1 Vexing Devil
 1 Tibalt, the Fiend-Blooded
-{'overall': '7', 'cmc': 3.2058823529411766, 'ramp': '12', 'draw': '14', 'interaction': 24}
+{'overall': 8.323853211009174, 'cmc': 3.2058823529411766, 'ramp': '12', 'draw': '14', 'interaction': 24, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}

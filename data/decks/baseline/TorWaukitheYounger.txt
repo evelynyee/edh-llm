@@ -98,4 +98,4 @@
 1 Frilled Deathspitter
 1 Chandra's Triumph
 1 Needle Drop
-{'overall': '1', 'cmc': 3.4242424242424243, 'ramp': '2', 'draw': '1', 'interaction': 42}
+{'overall': 3.434070796460177, 'cmc': 3.4242424242424243, 'ramp': '2', 'draw': '1', 'interaction': 42, 'folder': 'baseline', 'commander': 'TorWaukitheYounger.txt'}

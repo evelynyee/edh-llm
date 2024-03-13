@@ -64,4 +64,4 @@
 1 Tamiyo's Journal
 1 Watcher of the Roost
 1 Vexing Puzzlebox
-{'overall': '7', 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7}
+{'overall': 6.114138817480719, 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7, 'folder': 'gpt', 'commander': 'RegnatheRedeemer.txt'}

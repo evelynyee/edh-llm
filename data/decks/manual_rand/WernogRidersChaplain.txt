@@ -66,4 +66,4 @@
 1 Treasure Chest
 1 Warped Devotion
 1 Wedding Ring
-{'overall': '5', 'cmc': 3.073529411764706, 'ramp': '2', 'draw': '13', 'interaction': 10}
+{'overall': 4.900717703349282, 'cmc': 3.073529411764706, 'ramp': '2', 'draw': '13', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}

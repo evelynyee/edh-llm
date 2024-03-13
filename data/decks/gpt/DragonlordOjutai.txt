@@ -63,4 +63,4 @@
 1 Thada Adel, Acquisitor
 1 Vex
 1 Warden of the Inner Sky
-{'overall': '6', 'cmc': 3.4923076923076923, 'ramp': '8', 'draw': '37', 'interaction': 5}
+{'overall': 12.072687224669604, 'cmc': 3.4923076923076923, 'ramp': '8', 'draw': '37', 'interaction': 5, 'folder': 'gpt', 'commander': 'DragonlordOjutai.txt'}

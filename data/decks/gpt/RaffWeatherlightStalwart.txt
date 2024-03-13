@@ -64,4 +64,4 @@
 1 Urza's Incubator
 1 Steel Seraph
 1 Spoils of Adventure
-{'overall': '4', 'cmc': 3.257575757575758, 'ramp': '5', 'draw': '12', 'interaction': 10}
+{'overall': 5.363953488372093, 'cmc': 3.257575757575758, 'ramp': '5', 'draw': '12', 'interaction': 10, 'folder': 'gpt', 'commander': 'RaffWeatherlightStalwart.txt'}

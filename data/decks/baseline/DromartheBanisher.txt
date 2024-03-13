@@ -98,4 +98,4 @@
 1 Deluxe Dragster
 1 Grisly Sigil
 1 Doom Cannon
-{'overall': '2', 'cmc': 3.8676470588235294, 'ramp': '3', 'draw': '10', 'interaction': 14}
+{'overall': 4.467110266159696, 'cmc': 3.8676470588235294, 'ramp': '3', 'draw': '10', 'interaction': 14, 'folder': 'baseline', 'commander': 'DromartheBanisher.txt'}

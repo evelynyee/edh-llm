@@ -98,4 +98,4 @@
 1 Sanwell, Avenger Ace
 1 Thought Dissector
 1 Eye of Yawgmoth
-{'overall': '4', 'cmc': 3.5454545454545454, 'ramp': '3', 'draw': '36', 'interaction': 4}
+{'overall': 10.514102564102563, 'cmc': 3.5454545454545454, 'ramp': '3', 'draw': '36', 'interaction': 4, 'folder': 'baseline', 'commander': 'DepalaPilotExemplar.txt'}

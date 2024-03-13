@@ -98,4 +98,4 @@
 1 Maned Serval
 1 Lonesome Unicorn // Rider in Need
 1 Jhovall Queen
-{'overall': '1', 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '1', 'interaction': 1}
+{'overall': 1.0538759689922481, 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '1', 'interaction': 1, 'folder': 'baseline', 'commander': 'OdricLunarchMarshal.txt'}

@@ -64,4 +64,4 @@
 1 The Chain Veil
 1 Tendrils of Corruption
 1 Vraska, Golgari Queen
-{'overall': '5', 'cmc': 3.106060606060606, 'ramp': '8', 'draw': '11', 'interaction': 8}
+{'overall': 5.79390243902439, 'cmc': 3.106060606060606, 'ramp': '8', 'draw': '11', 'interaction': 8, 'folder': 'gpt', 'commander': 'BelbeCorruptedObserver.txt'}

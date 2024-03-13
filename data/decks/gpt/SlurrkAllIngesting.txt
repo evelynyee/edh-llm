@@ -65,4 +65,4 @@
 1 Wandering Stream
 1 Thriving Rhino
 1 Vine Gecko
-{'overall': '7', 'cmc': 4.104477611940299, 'ramp': '13', 'draw': '15', 'interaction': 9}
+{'overall': 7.9372727272727275, 'cmc': 4.104477611940299, 'ramp': '13', 'draw': '15', 'interaction': 9, 'folder': 'gpt', 'commander': 'SlurrkAllIngesting.txt'}

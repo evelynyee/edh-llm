@@ -61,4 +61,4 @@
 1 Generous Gift
 1 Swiftfoot Boots
 1 Glistening Oil
-{'overall': '6', 'cmc': 2.142857142857143, 'ramp': '4', 'draw': '12', 'interaction': 5}
+{'overall': 5.183333333333334, 'cmc': 2.142857142857143, 'ramp': '4', 'draw': '12', 'interaction': 5, 'folder': 'edh', 'commander': 'ErietteoftheCharmedApple.txt'}

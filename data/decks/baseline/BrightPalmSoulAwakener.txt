@@ -98,4 +98,4 @@
 1 Bessie, the Doctor's Roadster
 1 Ondu Rising
 1 Regent's Authority
-{'overall': '1', 'cmc': 3.0597014925373136, 'ramp': '0', 'draw': '0', 'interaction': 3}
+{'overall': 0.8036585365853658, 'cmc': 3.0597014925373136, 'ramp': '0', 'draw': '0', 'interaction': 3, 'folder': 'baseline', 'commander': 'BrightPalmSoulAwakener.txt'}

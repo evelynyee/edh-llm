@@ -66,4 +66,4 @@
 1 Volo, Itinerant Scholar
 1 The Blackstaff of Waterdeep
 1 Voltaic Key
-{'overall': '4', 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9}
+{'overall': 4.299118942731278, 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}

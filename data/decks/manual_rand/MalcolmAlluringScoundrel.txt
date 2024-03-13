@@ -66,4 +66,4 @@
 1 Synthetic Destiny
 1 Whirlpool Whelm
 1 Wandering Eye
-{'overall': '4', 'cmc': 3.253731343283582, 'ramp': '4', 'draw': '26', 'interaction': 7}
+{'overall': 8.464678899082568, 'cmc': 3.253731343283582, 'ramp': '4', 'draw': '26', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MalcolmAlluringScoundrel.txt'}

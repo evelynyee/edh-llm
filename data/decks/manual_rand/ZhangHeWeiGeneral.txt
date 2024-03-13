@@ -66,4 +66,4 @@
 1 Yawgmoth's Vile Offering
 1 Viscid Lemures
 1 Swiftfoot Boots
-{'overall': '3', 'cmc': 3.029850746268657, 'ramp': '3', 'draw': '3', 'interaction': 7}
+{'overall': 2.5100985221674876, 'cmc': 3.029850746268657, 'ramp': '3', 'draw': '3', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ZhangHeWeiGeneral.txt'}

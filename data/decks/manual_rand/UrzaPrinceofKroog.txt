@@ -66,4 +66,4 @@
 1 Venser, the Sojourner
 1 Yarok's Wavecrasher
 1 Wormfang Drake
-{'overall': '4', 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13}
+{'overall': 3.7618721461187214, 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}

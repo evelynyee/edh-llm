@@ -65,4 +65,4 @@
 1 Vexing Puzzlebox
 1 Tempest Owl
 1 Vessel of Paramnesia
-{'overall': '5', 'cmc': 3.611940298507463, 'ramp': '6', 'draw': '23', 'interaction': 5}
+{'overall': 8.053719008264462, 'cmc': 3.611940298507463, 'ramp': '6', 'draw': '23', 'interaction': 5, 'folder': 'gpt', 'commander': 'HisokaMinamoSensei.txt'}

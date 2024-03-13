@@ -98,4 +98,4 @@
 1 Grim Feast
 1 Kinzu of the Bleak Coven
 1 Beledros Witherbloom
-{'overall': '3', 'cmc': 3.985074626865672, 'ramp': '3', 'draw': '7', 'interaction': 24}
+{'overall': 4.20187265917603, 'cmc': 3.985074626865672, 'ramp': '3', 'draw': '7', 'interaction': 24, 'folder': 'baseline', 'commander': 'ZiatoratheIncinerator.txt'}

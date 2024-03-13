@@ -98,4 +98,4 @@
 1 Turbulent Dreams
 1 Wizard's Retort
 1 Moonshae Pixie // Pixie Dust
-{'overall': '2', 'cmc': 3.6923076923076925, 'ramp': '1', 'draw': '8', 'interaction': 3}
+{'overall': 2.9416666666666664, 'cmc': 3.6923076923076925, 'ramp': '1', 'draw': '8', 'interaction': 3, 'folder': 'baseline', 'commander': 'CharixtheRagingIsle.txt'}

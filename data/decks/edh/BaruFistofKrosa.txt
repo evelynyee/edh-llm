@@ -61,4 +61,4 @@
 1 Howl of the Night Pack
 1 Staff of Titania
 1 Elvish Mystic
-{'overall': '7', 'cmc': 3.3174603174603177, 'ramp': '34', 'draw': '9', 'interaction': 1}
+{'overall': 11.40287081339713, 'cmc': 3.3174603174603177, 'ramp': '34', 'draw': '9', 'interaction': 1, 'folder': 'edh', 'commander': 'BaruFistofKrosa.txt'}

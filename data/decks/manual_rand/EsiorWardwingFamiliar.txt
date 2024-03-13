@@ -66,4 +66,4 @@
 1 Wave Elemental
 1 Well of Knowledge
 1 Timesifter
-{'overall': '5', 'cmc': 3.3582089552238807, 'ramp': '7', 'draw': '22', 'interaction': 5}
+{'overall': 8.095555555555556, 'cmc': 3.3582089552238807, 'ramp': '7', 'draw': '22', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}

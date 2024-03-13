@@ -98,4 +98,4 @@
 1 Weaver of Harmony
 1 Abstruse Archaic
 1 Second Guess
-{'overall': '2', 'cmc': 3.272727272727273, 'ramp': '2', 'draw': '3', 'interaction': 14}
+{'overall': 2.561111111111111, 'cmc': 3.272727272727273, 'ramp': '2', 'draw': '3', 'interaction': 14, 'folder': 'baseline', 'commander': 'YaroktheDesecrated.txt'}

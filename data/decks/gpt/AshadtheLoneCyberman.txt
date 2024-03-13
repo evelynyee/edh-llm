@@ -62,4 +62,4 @@
 1 Veteran's Armaments
 1 Teleportal
 1 Violet Pall
-{'overall': '5', 'cmc': 3.96875, 'ramp': '6', 'draw': '14', 'interaction': 10}
+{'overall': 6.003937007874016, 'cmc': 3.96875, 'ramp': '6', 'draw': '14', 'interaction': 10, 'folder': 'gpt', 'commander': 'AshadtheLoneCyberman.txt'}

@@ -98,4 +98,4 @@
 1 Foe-Razer Regent
 1 Vedalken Shackles
 1 Unnatural Aggression
-{'overall': '2', 'cmc': 3.5303030303030303, 'ramp': '3', 'draw': '11', 'interaction': 7}
+{'overall': 4.416523605150214, 'cmc': 3.5303030303030303, 'ramp': '3', 'draw': '11', 'interaction': 7, 'folder': 'baseline', 'commander': 'ElrondoftheWhiteCouncil.txt'}

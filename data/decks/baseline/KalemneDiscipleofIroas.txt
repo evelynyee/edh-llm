@@ -98,4 +98,4 @@
 1 Lens Flare
 1 Crowd's Favor
 1 Soulblast
-{'overall': '1', 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 12}
+{'overall': 1.231578947368421, 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 12, 'folder': 'baseline', 'commander': 'KalemneDiscipleofIroas.txt'}

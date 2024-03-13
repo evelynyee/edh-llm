@@ -66,4 +66,4 @@
 1 Tsabo's Decree
 1 Whirling Catapult
 1 Damnation
-{'overall': '3', 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16}
+{'overall': 2.918181818181818, 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}

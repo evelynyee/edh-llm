@@ -98,4 +98,4 @@
 1 Serum Tank
 1 Sparring Construct
 1 Gird for Battle
-{'overall': '1', 'cmc': 3.0923076923076924, 'ramp': '0', 'draw': '1', 'interaction': 0}
+{'overall': 0.8967661691542288, 'cmc': 3.0923076923076924, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'baseline', 'commander': 'YoshimaruEverFaithful.txt'}

@@ -98,4 +98,4 @@
 1 Overrun
 1 Hamlet Captain
 1 Thrakkus the Butcher
-{'overall': '1', 'cmc': 3.712121212121212, 'ramp': '0', 'draw': '1', 'interaction': 0}
+{'overall': 0.7887755102040817, 'cmc': 3.712121212121212, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'baseline', 'commander': 'DeathleaperTerrorWeapon.txt'}

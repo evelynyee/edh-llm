@@ -98,4 +98,4 @@
 1 Hornet Cannon
 1 Field-Tested Frying Pan
 1 Aradara Express
-{'overall': '5', 'cmc': 3.2388059701492535, 'ramp': '7', 'draw': '2', 'interaction': 4}
+{'overall': 3.0675115207373276, 'cmc': 3.2388059701492535, 'ramp': '7', 'draw': '2', 'interaction': 4, 'folder': 'baseline', 'commander': 'LitaMechanicalEngineer.txt'}

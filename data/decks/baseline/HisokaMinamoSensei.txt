@@ -98,4 +98,4 @@
 1 Fervent Denial
 1 Cosmos Charger
 1 Rune Snag
-{'overall': '4', 'cmc': 3.2, 'ramp': '3', 'draw': '28', 'interaction': 14}
+{'overall': 9.075, 'cmc': 3.2, 'ramp': '3', 'draw': '28', 'interaction': 14, 'folder': 'baseline', 'commander': 'HisokaMinamoSensei.txt'}

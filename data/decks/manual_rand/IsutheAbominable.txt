@@ -66,4 +66,4 @@
 1 Warden of Evos Isle
 1 Zhulodok, Void Gorger
 1 Vorinclex // The Grand Evolution
-{'overall': '5', 'cmc': 3.676470588235294, 'ramp': '14', 'draw': '20', 'interaction': 5}
+{'overall': 9.294, 'cmc': 3.676470588235294, 'ramp': '14', 'draw': '20', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IsutheAbominable.txt'}

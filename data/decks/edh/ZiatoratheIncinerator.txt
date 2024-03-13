@@ -61,4 +61,4 @@
 1 Spire Garden
 1 Old Gnawbone
 1 Luxury Suite
-{'overall': '7', 'cmc': 2.8253968253968256, 'ramp': '17', 'draw': '7', 'interaction': 7}
+{'overall': 7.057865168539325, 'cmc': 2.8253968253968256, 'ramp': '17', 'draw': '7', 'interaction': 7, 'folder': 'edh', 'commander': 'ZiatoratheIncinerator.txt'}

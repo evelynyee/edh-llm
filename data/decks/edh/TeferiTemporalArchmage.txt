@@ -61,4 +61,4 @@
 1 Reshape
 1 Misty Rainforest
 1 Flusterstorm
-{'overall': '10', 'cmc': 2.2063492063492065, 'ramp': '17', 'draw': '17', 'interaction': 14}
+{'overall': 10.106474820143884, 'cmc': 2.2063492063492065, 'ramp': '17', 'draw': '17', 'interaction': 14, 'folder': 'edh', 'commander': 'TeferiTemporalArchmage.txt'}

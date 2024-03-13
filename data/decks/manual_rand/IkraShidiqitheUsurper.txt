@@ -66,4 +66,4 @@
 1 Rampant Growth
 1 Sword of Hearth and Home
 1 Voldaren Pariah // Abolisher of Bloodlines
-{'overall': '3', 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '8', 'interaction': 8}
+{'overall': 3.728723404255319, 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '8', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'IkraShidiqitheUsurper.txt'}

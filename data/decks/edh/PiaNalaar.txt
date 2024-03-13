@@ -61,4 +61,4 @@
 1 Feldon of the Third Path
 1 Steel Hellkite
 1 Goblin Welder
-{'overall': '8', 'cmc': 2.9206349206349205, 'ramp': '12', 'draw': '14', 'interaction': 10}
+{'overall': 7.684782608695652, 'cmc': 2.9206349206349205, 'ramp': '12', 'draw': '14', 'interaction': 10, 'folder': 'edh', 'commander': 'PiaNalaar.txt'}

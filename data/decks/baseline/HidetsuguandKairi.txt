@@ -98,4 +98,4 @@
 1 Advice from the Fae
 1 Dig Up the Body
 1 Nashi, Moon Sage's Scion
-{'overall': '3', 'cmc': 0, 'ramp': '2', 'draw': '35', 'interaction': 3}
+{'overall': 10.066666666666666, 'cmc': 3, 'ramp': '2', 'draw': '35', 'interaction': 3, 'folder': 'baseline', 'commander': 'HidetsuguandKairi.txt'}

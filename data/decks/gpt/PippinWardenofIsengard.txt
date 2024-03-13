@@ -65,4 +65,4 @@
 1 Ugin's Mastery
 1 Titanoth Rex
 1 The Great Henge
-{'overall': '6', 'cmc': 3.671641791044776, 'ramp': '12', 'draw': '12', 'interaction': 8}
+{'overall': 6.944715447154472, 'cmc': 3.671641791044776, 'ramp': '12', 'draw': '12', 'interaction': 8, 'folder': 'gpt', 'commander': 'PippinWardenofIsengard.txt'}

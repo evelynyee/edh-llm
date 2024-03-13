@@ -66,4 +66,4 @@
 1 Wheel and Deal
 1 Submerge
 1 Tangle Golem
-{'overall': '3', 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1}
+{'overall': 5.850607287449392, 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}

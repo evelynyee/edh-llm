@@ -66,4 +66,4 @@
 1 Mind Stone
 1 Sunspear Shikari
 1 Starlight Spectacular
-{'overall': '3', 'cmc': 2.9402985074626864, 'ramp': '3', 'draw': '7', 'interaction': 5}
+{'overall': 3.4302030456852792, 'cmc': 2.9402985074626864, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MerryEsquireofRohan.txt'}

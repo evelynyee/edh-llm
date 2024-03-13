@@ -98,4 +98,4 @@
 1 Spoils of War
 1 Nightshade Seer
 1 Scuttling Death
-{'overall': '3', 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '6', 'interaction': 10}
+{'overall': 2.8472850678733033, 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '6', 'interaction': 10, 'folder': 'baseline', 'commander': 'OrcusPrinceofUndeath.txt'}

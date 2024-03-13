@@ -98,4 +98,4 @@
 1 Meeting of Minds
 1 Sea Gate Colossus
 1 Kopala, Warden of Waves
-{'overall': '2', 'cmc': 4.769230769230769, 'ramp': '5', 'draw': '10', 'interaction': 4}
+{'overall': 4.369354838709677, 'cmc': 4.769230769230769, 'ramp': '5', 'draw': '10', 'interaction': 4, 'folder': 'baseline', 'commander': 'CallapheBelovedoftheSea.txt'}

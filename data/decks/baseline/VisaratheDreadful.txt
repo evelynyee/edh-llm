@@ -98,4 +98,4 @@
 1 Sandals of Abdallah
 1 Bog Rats
 1 Corrupting Licid
-{'overall': '1', 'cmc': 3.5384615384615383, 'ramp': '0', 'draw': '3', 'interaction': 35}
+{'overall': 3.0652173913043477, 'cmc': 3.5384615384615383, 'ramp': '0', 'draw': '3', 'interaction': 35, 'folder': 'baseline', 'commander': 'VisaratheDreadful.txt'}

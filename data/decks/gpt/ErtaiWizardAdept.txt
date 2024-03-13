@@ -62,4 +62,4 @@
 1 Warping Wail
 1 Wu Longbowman
 1 Synod Sanctum
-{'overall': '5', 'cmc': 3.359375, 'ramp': '7', 'draw': '18', 'interaction': 16}
+{'overall': 7.645348837209302, 'cmc': 3.359375, 'ramp': '7', 'draw': '18', 'interaction': 16, 'folder': 'gpt', 'commander': 'ErtaiWizardAdept.txt'}

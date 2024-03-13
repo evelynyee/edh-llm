@@ -98,4 +98,4 @@
 1 Mycologist
 1 Overgrowth Elemental
 1 Gruff Triplets
-{'overall': '4', 'cmc': 3.5, 'ramp': '0', 'draw': '6', 'interaction': 0}
+{'overall': 2.071428571428571, 'cmc': 3.5, 'ramp': '0', 'draw': '6', 'interaction': 0, 'folder': 'baseline', 'commander': 'TreebeardGraciousHost.txt'}

@@ -66,4 +66,4 @@
 1 Wall of Omens
 1 Wildborn Preserver
 1 Weird Harvest
-{'overall': '5', 'cmc': 3.5441176470588234, 'ramp': '7', 'draw': '18', 'interaction': 3}
+{'overall': 6.964315352697096, 'cmc': 3.5441176470588234, 'ramp': '7', 'draw': '18', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'TorstenFounderofBenalia.txt'}

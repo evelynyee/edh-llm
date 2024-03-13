@@ -98,4 +98,4 @@
 1 Endless Sands
 1 Thousand Moons Crackshot
 1 Blinding Souleater
-{'overall': '2', 'cmc': 2.5692307692307694, 'ramp': '0', 'draw': '7', 'interaction': 12}
+{'overall': 3.128443113772455, 'cmc': 2.5692307692307694, 'ramp': '0', 'draw': '7', 'interaction': 12, 'folder': 'baseline', 'commander': 'LieutenantKirtar.txt'}

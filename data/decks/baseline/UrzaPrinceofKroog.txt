@@ -98,4 +98,4 @@
 1 Digsite Engineer
 1 Specimen Collector
 1 Preston, the Vanisher
-{'overall': '2', 'cmc': 3.9384615384615387, 'ramp': '2', 'draw': '5', 'interaction': 7}
+{'overall': 2.6078125, 'cmc': 3.9384615384615387, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'baseline', 'commander': 'UrzaPrinceofKroog.txt'}

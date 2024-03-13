@@ -63,4 +63,4 @@
 1 Song of Totentanz
 1 Thunder Strike
 1 Swashbuckling
-{'overall': '6', 'cmc': 2.923076923076923, 'ramp': '7', 'draw': '4', 'interaction': 15}
+{'overall': 4.184210526315789, 'cmc': 2.923076923076923, 'ramp': '7', 'draw': '4', 'interaction': 15, 'folder': 'gpt', 'commander': 'ArdozCobblerofWar.txt'}

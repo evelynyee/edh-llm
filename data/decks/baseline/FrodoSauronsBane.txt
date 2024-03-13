@@ -98,4 +98,4 @@
 1 Tribute to Hunger
 1 Ammit Eternal
 1 Shatter the Sky
-{'overall': '2', 'cmc': 3.4696969696969697, 'ramp': '1', 'draw': '6', 'interaction': 12}
+{'overall': 2.9264192139737992, 'cmc': 3.4696969696969697, 'ramp': '1', 'draw': '6', 'interaction': 12, 'folder': 'baseline', 'commander': 'FrodoSauronsBane.txt'}

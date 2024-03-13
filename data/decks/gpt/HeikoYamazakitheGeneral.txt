@@ -63,4 +63,4 @@
 1 Tarox Bladewing
 1 Valakut Exploration
 1 Sword of the Animist
-{'overall': '4', 'cmc': 3.6307692307692307, 'ramp': '6', 'draw': '6', 'interaction': 13}
+{'overall': 4.200847457627119, 'cmc': 3.6307692307692307, 'ramp': '6', 'draw': '6', 'interaction': 13, 'folder': 'gpt', 'commander': 'HeikoYamazakitheGeneral.txt'}

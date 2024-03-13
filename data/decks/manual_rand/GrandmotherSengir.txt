@@ -66,4 +66,4 @@
 1 Yotian Soldier
 1 Vogar, Necropolis Tyrant
 1 Vampiric Rites
-{'overall': '3', 'cmc': 2.7761194029850746, 'ramp': '1', 'draw': '6', 'interaction': 9}
+{'overall': 2.920430107526882, 'cmc': 2.7761194029850746, 'ramp': '1', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GrandmotherSengir.txt'}

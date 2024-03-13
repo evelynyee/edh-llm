@@ -66,4 +66,4 @@
 1 Stitcher's Supplier
 1 Whisper of the Dross
 1 The Book of Vile Darkness
-{'overall': '5', 'cmc': 3.088235294117647, 'ramp': '4', 'draw': '9', 'interaction': 9}
+{'overall': 4.347619047619047, 'cmc': 3.088235294117647, 'ramp': '4', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TaboraxHopesDemise.txt'}

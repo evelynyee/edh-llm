@@ -98,4 +98,4 @@
 1 Scroll Thief
 1 Embermaw Hellion
 1 Nine-Tail White Fox
-{'overall': '3', 'cmc': 3.55, 'ramp': '0', 'draw': '16', 'interaction': 22}
+{'overall': 5.6633802816901415, 'cmc': 3.55, 'ramp': '0', 'draw': '16', 'interaction': 22, 'folder': 'baseline', 'commander': 'GarzaZolPlagueQueen.txt'}

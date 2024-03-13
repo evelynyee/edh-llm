@@ -98,4 +98,4 @@
 1 Verdant Command
 1 Soul's Might
 1 Spell Rupture
-{'overall': '2', 'cmc': 3.4696969696969697, 'ramp': '1', 'draw': '10', 'interaction': 12}
+{'overall': 3.9264192139737992, 'cmc': 3.4696969696969697, 'ramp': '1', 'draw': '10', 'interaction': 12, 'folder': 'baseline', 'commander': 'ElrondMasterofHealing.txt'}

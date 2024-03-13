@@ -61,4 +61,4 @@
 1 Go for the Throat
 1 Veinwitch Coven
 1 Mind Stone
-{'overall': '6', 'cmc': 2.7936507936507935, 'ramp': '7', 'draw': '11', 'interaction': 12}
+{'overall': 5.8159090909090905, 'cmc': 2.7936507936507935, 'ramp': '7', 'draw': '11', 'interaction': 12, 'folder': 'edh', 'commander': 'GollumObsessedStalker.txt'}

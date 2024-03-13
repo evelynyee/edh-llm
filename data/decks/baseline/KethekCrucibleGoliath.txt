@@ -98,4 +98,4 @@
 1 Sarkhan's Triumph
 1 Icon of Ancestry
 1 Infernal Tutor
-{'overall': '4', 'cmc': 3.621212121212121, 'ramp': '2', 'draw': '33', 'interaction': 5}
+{'overall': 9.552301255230125, 'cmc': 3.621212121212121, 'ramp': '2', 'draw': '33', 'interaction': 5, 'folder': 'baseline', 'commander': 'KethekCrucibleGoliath.txt'}

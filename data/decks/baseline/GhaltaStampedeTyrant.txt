@@ -98,4 +98,4 @@
 1 Quirion Trailblazer
 1 Far Wanderings
 1 Everbark Shaman
-{'overall': '6', 'cmc': 3.923076923076923, 'ramp': '33', 'draw': '10', 'interaction': 0}
+{'overall': 11.259803921568627, 'cmc': 3.923076923076923, 'ramp': '33', 'draw': '10', 'interaction': 0, 'folder': 'baseline', 'commander': 'GhaltaStampedeTyrant.txt'}

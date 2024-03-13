@@ -66,4 +66,4 @@
 1 Wreath of Geists
 1 Wicked Wolf
 1 Sweet-Gum Recluse
-{'overall': '5', 'cmc': 3.7058823529411766, 'ramp': '9', 'draw': '12', 'interaction': 5}
+{'overall': 6.0396825396825395, 'cmc': 3.7058823529411766, 'ramp': '9', 'draw': '12', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'ElrondMasterofHealing.txt'}

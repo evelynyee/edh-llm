@@ -66,4 +66,4 @@
 1 Twin Bolt
 1 Territorial Hellkite
 1 Ulamog, the Infinite Gyre
-{'overall': '4', 'cmc': 3.373134328358209, 'ramp': '5', 'draw': '4', 'interaction': 31}
+{'overall': 4.3929203539823005, 'cmc': 3.373134328358209, 'ramp': '5', 'draw': '4', 'interaction': 31, 'folder': 'manual_rand', 'commander': 'GimliCounterofKills.txt'}

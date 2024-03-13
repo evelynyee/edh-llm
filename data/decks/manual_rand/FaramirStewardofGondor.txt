@@ -66,4 +66,4 @@
 1 Tah-Crop Skirmisher
 1 Voice of Law
 1 Treasure Map // Treasure Cove
-{'overall': '5', 'cmc': 3.582089552238806, 'ramp': '3', 'draw': '12', 'interaction': 7}
+{'overall': 4.658333333333333, 'cmc': 3.582089552238806, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'FaramirStewardofGondor.txt'}

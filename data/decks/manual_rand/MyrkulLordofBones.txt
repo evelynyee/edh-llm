@@ -66,4 +66,4 @@
 1 Tariff
 1 Tivash, Gloom Summoner
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
-{'overall': '5', 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '10', 'interaction': 11}
+{'overall': 4.117796610169491, 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '10', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'MyrkulLordofBones.txt'}

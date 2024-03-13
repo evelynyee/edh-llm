@@ -61,4 +61,4 @@
 1 Smothering Tithe
 1 Glacial Fortress
 1 Isolated Chapel
-{'overall': '6', 'cmc': 2.1587301587301586, 'ramp': '11', 'draw': '7', 'interaction': 8}
+{'overall': 5.826470588235295, 'cmc': 2.1587301587301586, 'ramp': '11', 'draw': '7', 'interaction': 8, 'folder': 'edh', 'commander': 'TheEverChangingDane.txt'}

@@ -66,4 +66,4 @@
 1 The Deck of Many Things
 1 Weapon Surge
 1 Warchief Giant
-{'overall': '4', 'cmc': 3.074626865671642, 'ramp': '9', 'draw': '10', 'interaction': 5}
+{'overall': 5.650485436893204, 'cmc': 3.074626865671642, 'ramp': '9', 'draw': '10', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IntiSeneschaloftheSun.txt'}

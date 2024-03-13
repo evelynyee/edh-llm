@@ -98,4 +98,4 @@
 1 Temporal Aperture
 1 Thrumming Stone
 1 Thran Tome
-{'overall': '3', 'cmc': 3.393939393939394, 'ramp': '0', 'draw': '29', 'interaction': 3}
+{'overall': 7.989285714285715, 'cmc': 3.393939393939394, 'ramp': '0', 'draw': '29', 'interaction': 3, 'folder': 'baseline', 'commander': 'FirjaJudgeofValor.txt'}

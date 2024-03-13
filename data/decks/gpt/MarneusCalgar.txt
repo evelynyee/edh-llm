@@ -61,4 +61,4 @@
 1 Windbrisk Raptor
 1 Swords to Plowshares
 1 Trostani's Judgment
-{'overall': '5', 'cmc': 3.4838709677419355, 'ramp': '5', 'draw': '8', 'interaction': 5}
+{'overall': 4.074074074074074, 'cmc': 3.4838709677419355, 'ramp': '5', 'draw': '8', 'interaction': 5, 'folder': 'gpt', 'commander': 'MarneusCalgar.txt'}

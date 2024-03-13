@@ -98,4 +98,4 @@
 1 Cavernous Maw
 1 Hour of Revelation
 1 Knight-Errant of Eos
-{'overall': '4', 'cmc': 3.5538461538461537, 'ramp': '13', 'draw': '6', 'interaction': 11}
+{'overall': 5.862770562770563, 'cmc': 3.5538461538461537, 'ramp': '13', 'draw': '6', 'interaction': 11, 'folder': 'baseline', 'commander': 'RebbecArchitectofAscension.txt'}

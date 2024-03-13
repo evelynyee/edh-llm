@@ -98,4 +98,4 @@
 1 Gadrak, the Crown-Scourge
 1 Valduk, Keeper of the Flame
 1 Feral Lightning
-{'overall': '5', 'cmc': 3.4696969696969697, 'ramp': '4', 'draw': '8', 'interaction': 2}
+{'overall': 3.6764192139737992, 'cmc': 3.4696969696969697, 'ramp': '4', 'draw': '8', 'interaction': 2, 'folder': 'baseline', 'commander': 'SaheelitheSunsBrilliance.txt'}

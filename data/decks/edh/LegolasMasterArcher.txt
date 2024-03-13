@@ -61,4 +61,4 @@
 1 Reclamation Sage
 1 Bear Umbra
 1 Stuffy Doll
-{'overall': '6', 'cmc': 2.253968253968254, 'ramp': '12', 'draw': '13', 'interaction': 6}
+{'overall': 7.437323943661972, 'cmc': 2.253968253968254, 'ramp': '12', 'draw': '13', 'interaction': 6, 'folder': 'edh', 'commander': 'LegolasMasterArcher.txt'}

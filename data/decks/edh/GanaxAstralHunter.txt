@@ -61,4 +61,4 @@
 1 Hazoret's Monument
 1 Opportunistic Dragon
 1 Chaos Dragon
-{'overall': '6', 'cmc': 3.857142857142857, 'ramp': '24', 'draw': '10', 'interaction': 16}
+{'overall': 9.81851851851852, 'cmc': 3.857142857142857, 'ramp': '24', 'draw': '10', 'interaction': 16, 'folder': 'edh', 'commander': 'GanaxAstralHunter.txt'}

@@ -98,4 +98,4 @@
 1 Sigiled Skink
 1 Lukka, Coppercoat Outcast
 1 Sarkhan's Triumph
-{'overall': '5', 'cmc': 3.0303030303030303, 'ramp': '2', 'draw': '32', 'interaction': 14}
+{'overall': 9.86, 'cmc': 3.0303030303030303, 'ramp': '2', 'draw': '32', 'interaction': 14, 'folder': 'baseline', 'commander': 'JennyGeneratedAnomaly.txt'}

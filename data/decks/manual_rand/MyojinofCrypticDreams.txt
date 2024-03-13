@@ -66,4 +66,4 @@
 1 Vesuvan Duplimancy
 1 Tumble Magnet
 1 Vodalian Mage
-{'overall': '6', 'cmc': 3.4328358208955225, 'ramp': '9', 'draw': '16', 'interaction': 7}
+{'overall': 7.182608695652173, 'cmc': 3.4328358208955225, 'ramp': '9', 'draw': '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MyojinofCrypticDreams.txt'}

@@ -61,4 +61,4 @@
 1 Evolving Wilds
 1 Knight-Errant of Eos
 1 Elspeth, Sun's Champion
-{'overall': '8', 'cmc': 2.746031746031746, 'ramp': '7', 'draw': '13', 'interaction': 10}
+{'overall': 6.228323699421965, 'cmc': 2.746031746031746, 'ramp': '7', 'draw': '13', 'interaction': 10, 'folder': 'edh', 'commander': 'SaintTraftandRemKarolus.txt'}

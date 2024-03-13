@@ -64,4 +64,4 @@
 1 Web
 1 Venomous Breath
 1 Wary Okapi
-{'overall': '5', 'cmc': 2.9242424242424243, 'ramp': '8', 'draw': '6', 'interaction': 11}
+{'overall': 4.7339378238341965, 'cmc': 2.9242424242424243, 'ramp': '8', 'draw': '6', 'interaction': 11, 'folder': 'gpt', 'commander': 'ThrissNantukoPrimus.txt'}

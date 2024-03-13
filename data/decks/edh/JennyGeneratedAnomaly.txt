@@ -61,4 +61,4 @@
 1 Felidar Retreat
 1 Lotus Field
 1 Nesting Dragon
-{'overall': '8', 'cmc': 2.2222222222222223, 'ramp': '14', 'draw': '15', 'interaction': 7}
+{'overall': 8.5, 'cmc': 2.2222222222222223, 'ramp': '14', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'JennyGeneratedAnomaly.txt'}

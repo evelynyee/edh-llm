@@ -61,4 +61,4 @@
 1 Canoptek Scarab Swarm
 1 Royal Warden
 1 The Raven Man
-{'overall': '7', 'cmc': 2.761904761904762, 'ramp': '7', 'draw': '11', 'interaction': 6}
+{'overall': 5.524137931034483, 'cmc': 2.761904761904762, 'ramp': '7', 'draw': '11', 'interaction': 6, 'folder': 'edh', 'commander': 'ZhangHeWeiGeneral.txt'}

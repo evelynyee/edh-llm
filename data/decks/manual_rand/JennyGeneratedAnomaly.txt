@@ -66,4 +66,4 @@
 1 Trap Digger
 1 Soul-Strike Technique
 1 Tower of Fortunes
-{'overall': '6', 'cmc': 2.9558823529411766, 'ramp': '7', 'draw': '16', 'interaction': 12}
+{'overall': 7.026616915422885, 'cmc': 2.9558823529411766, 'ramp': '7', 'draw': '16', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'JennyGeneratedAnomaly.txt'}

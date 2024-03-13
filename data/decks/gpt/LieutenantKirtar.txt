@@ -62,4 +62,4 @@
 1 Tooth of Ramos
 1 Trailblazer's Torch
 1 Stone Haven Medic
-{'overall': '6', 'cmc': 2.578125, 'ramp': '7', 'draw': '9', 'interaction': 15}
+{'overall': 5.525757575757575, 'cmc': 2.578125, 'ramp': '7', 'draw': '9', 'interaction': 15, 'folder': 'gpt', 'commander': 'LieutenantKirtar.txt'}

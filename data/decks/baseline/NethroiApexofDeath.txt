@@ -98,4 +98,4 @@
 1 Stir the Grave
 1 Induce Despair
 1 Demon of Fate's Design
-{'overall': '1', 'cmc': 4.029850746268656, 'ramp': '0', 'draw': '4', 'interaction': 14}
+{'overall': 2.196296296296296, 'cmc': 4.029850746268656, 'ramp': '0', 'draw': '4', 'interaction': 14, 'folder': 'baseline', 'commander': 'NethroiApexofDeath.txt'}

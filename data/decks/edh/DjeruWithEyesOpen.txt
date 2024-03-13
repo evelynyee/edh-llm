@@ -61,4 +61,4 @@
 1 Castle Ardenvale
 1 Loyal Warhound
 1 Thalia's Lancers
-{'overall': '8', 'cmc': 3.2857142857142856, 'ramp': '12', 'draw': '15', 'interaction': 16}
+{'overall': 8.158695652173913, 'cmc': 3.2857142857142856, 'ramp': '12', 'draw': '15', 'interaction': 16, 'folder': 'edh', 'commander': 'DjeruWithEyesOpen.txt'}

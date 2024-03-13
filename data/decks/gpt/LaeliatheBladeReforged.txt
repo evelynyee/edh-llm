@@ -64,4 +64,4 @@
 1 Storm World
 1 Vance's Blasting Cannons // Spitfire Bastion
 1 Witches' Eye
-{'overall': '7', 'cmc': 2.9696969696969697, 'ramp': '12', 'draw': '18', 'interaction': 6}
+{'overall': 8.473469387755102, 'cmc': 2.9696969696969697, 'ramp': '12', 'draw': '18', 'interaction': 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}

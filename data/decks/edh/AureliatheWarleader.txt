@@ -61,4 +61,4 @@
 1 Battle Angels of Tyr
 1 Puresteel Paladin
 1 Mask of Memory
-{'overall': '8', 'cmc': 2.3492063492063493, 'ramp': '11', 'draw': '9', 'interaction': 8}
+{'overall': 6.251351351351351, 'cmc': 2.3492063492063493, 'ramp': '11', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'AureliatheWarleader.txt'}

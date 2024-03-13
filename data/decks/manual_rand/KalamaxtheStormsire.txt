@@ -66,4 +66,4 @@
 1 Vesuvan Drifter
 1 Wild Onslaught
 1 The Sixth Doctor
-{'overall': '4', 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6}
+{'overall': 5.55936329588015, 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}

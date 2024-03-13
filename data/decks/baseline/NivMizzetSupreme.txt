@@ -98,4 +98,4 @@
 1 Monstrify
 1 Izzet Chemister
 1 Vexing Scuttler
-{'overall': '1', 'cmc': 4.391304347826087, 'ramp': '8', 'draw': '7', 'interaction': 5}
+{'overall': 4.455445544554456, 'cmc': 4.391304347826087, 'ramp': '8', 'draw': '7', 'interaction': 5, 'folder': 'baseline', 'commander': 'NivMizzetSupreme.txt'}

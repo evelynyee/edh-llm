@@ -98,4 +98,4 @@
 1 Kinsbaile Balloonist
 1 Ollenbock Escort
 1 Guardian of New Benalia
-{'overall': '1', 'cmc': 2.878787878787879, 'ramp': '0', 'draw': '1', 'interaction': 3}
+{'overall': 1.094736842105263, 'cmc': 2.878787878787879, 'ramp': '0', 'draw': '1', 'interaction': 3, 'folder': 'baseline', 'commander': 'AureliaExemplarofJustice.txt'}

@@ -98,4 +98,4 @@
 1 Loxodon Restorer
 1 Fury Storm
 1 Quicksand Whirlpool
-{'overall': '1', 'cmc': 3.4242424242424243, 'ramp': '1', 'draw': '0', 'interaction': 9}
+{'overall': 1.284070796460177, 'cmc': 3.4242424242424243, 'ramp': '1', 'draw': '0', 'interaction': 9, 'folder': 'baseline', 'commander': 'AgrusKosEternalSoldier.txt'}

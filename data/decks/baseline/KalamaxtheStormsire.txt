@@ -98,4 +98,4 @@
 1 Rings of Brighthearth
 1 Sideswipe
 1 Unbound Flourishing
-{'overall': '2', 'cmc': 3.5970149253731343, 'ramp': '0', 'draw': '3', 'interaction': 5}
+{'overall': 1.5560165975103735, 'cmc': 3.5970149253731343, 'ramp': '0', 'draw': '3', 'interaction': 5, 'folder': 'baseline', 'commander': 'KalamaxtheStormsire.txt'}

@@ -98,4 +98,4 @@
 1 Deal Broker
 1 Dampen Thought
 1 Surtland Elementalist
-{'overall': '2', 'cmc': 4.2, 'ramp': '3', 'draw': '27', 'interaction': 5}
+{'overall': 8.226190476190476, 'cmc': 4.2, 'ramp': '3', 'draw': '27', 'interaction': 5, 'folder': 'baseline', 'commander': 'MalcolmAlluringScoundrel.txt'}

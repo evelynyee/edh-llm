@@ -61,4 +61,4 @@
 1 Go for the Throat
 1 Vow of Malice
 1 Infernal Grasp
-{'overall': '5', 'cmc': 2.4603174603174605, 'ramp': '10', 'draw': '10', 'interaction': 8}
+{'overall': 6.212903225806452, 'cmc': 2.4603174603174605, 'ramp': '10', 'draw': '10', 'interaction': 8, 'folder': 'edh', 'commander': 'NefaroxOverlordofGrixis.txt'}

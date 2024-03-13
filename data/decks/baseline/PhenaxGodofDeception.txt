@@ -98,4 +98,4 @@
 1 Devour in Shadow
 1 Twisted Justice
 1 Collective Restraint
-{'overall': '3', 'cmc': 3.8333333333333335, 'ramp': '1', 'draw': '4', 'interaction': 12}
+{'overall': 2.371739130434783, 'cmc': 3.8333333333333335, 'ramp': '1', 'draw': '4', 'interaction': 12, 'folder': 'baseline', 'commander': 'PhenaxGodofDeception.txt'}

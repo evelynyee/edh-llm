@@ -66,4 +66,4 @@
 1 Structural Distortion
 1 Storm's Wrath
 1 Spiritual Focus
-{'overall': '3', 'cmc': 3.264705882352941, 'ramp': '0', 'draw': '7', 'interaction': 26}
+{'overall': 3.6626126126126124, 'cmc': 3.264705882352941, 'ramp': '0', 'draw': '7', 'interaction': 26, 'folder': 'manual_rand', 'commander': 'FiresongandSunspeaker.txt'}

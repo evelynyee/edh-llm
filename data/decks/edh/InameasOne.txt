@@ -61,4 +61,4 @@
 1 Seedborn Muse
 1 Death Denied
 1 Long-Forgotten Gohei
-{'overall': '6', 'cmc': 3.380952380952381, 'ramp': '13', 'draw': '10', 'interaction': 5}
+{'overall': 6.591549295774648, 'cmc': 3.380952380952381, 'ramp': '13', 'draw': '10', 'interaction': 5, 'folder': 'edh', 'commander': 'InameasOne.txt'}

@@ -64,4 +64,4 @@
 1 Tovolar's Huntmaster // Tovolar's Packleader
 1 Tormod's Crypt
 1 Treasure Keeper
-{'overall': '9', 'cmc': 3.742424242424242, 'ramp': '13', 'draw': '17', 'interaction': 5}
+{'overall': 8.284412955465587, 'cmc': 3.742424242424242, 'ramp': '13', 'draw': '17', 'interaction': 5, 'folder': 'gpt', 'commander': 'OldOneEye.txt'}

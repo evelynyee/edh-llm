@@ -64,4 +64,4 @@
 1 Vampire's Bite
 1 Wedding Invitation
 1 Tropical Storm
-{'overall': '5', 'cmc': 2.8181818181818183, 'ramp': '6', 'draw': '6', 'interaction': 15}
+{'overall': 4.459677419354838, 'cmc': 2.8181818181818183, 'ramp': '6', 'draw': '6', 'interaction': 15, 'folder': 'gpt', 'commander': 'DinaSoulSteeper.txt'}

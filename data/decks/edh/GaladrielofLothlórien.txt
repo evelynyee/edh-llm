@@ -61,4 +61,4 @@
 1 Legolas, Counter of Kills
 1 Swan Song
 1 Sigiled Starfish
-{'overall': '6', 'cmc': 1.95, 'ramp': '9', 'draw': '15', 'interaction': 5}
+{'overall': 7.2756410256410255, 'cmc': 1.95, 'ramp': '9', 'draw': '15', 'interaction': 5, 'folder': 'edh', 'commander': 'GaladrielofLothlórien.txt'}

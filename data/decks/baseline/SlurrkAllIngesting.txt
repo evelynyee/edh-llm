@@ -98,4 +98,4 @@
 1 Arcbound Hybrid
 1 Ascendant Acolyte
 1 Young Wolf
-{'overall': '1', 'cmc': 3.3384615384615386, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.5990783410138248, 'cmc': 3.3384615384615386, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'SlurrkAllIngesting.txt'}

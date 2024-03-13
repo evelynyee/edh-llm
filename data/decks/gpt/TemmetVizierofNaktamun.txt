@@ -61,4 +61,4 @@
 1 Ugin, the Ineffable
 1 Venser, the Sojourner
 1 Thopter Spy Network
-{'overall': '6', 'cmc': 3.2419354838709675, 'ramp': '3', 'draw': '13', 'interaction': 7}
+{'overall': 4.966915422885572, 'cmc': 3.2419354838709675, 'ramp': '3', 'draw': '13', 'interaction': 7, 'folder': 'gpt', 'commander': 'TemmetVizierofNaktamun.txt'}

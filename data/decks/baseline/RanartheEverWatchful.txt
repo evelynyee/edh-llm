@@ -98,4 +98,4 @@
 1 Labyrinth Guardian
 1 Stolen by the Fae
 1 Thalia's Geistcaller
-{'overall': '3', 'cmc': 4.045454545454546, 'ramp': '3', 'draw': '8', 'interaction': 10}
+{'overall': 3.74438202247191, 'cmc': 4.045454545454546, 'ramp': '3', 'draw': '8', 'interaction': 10, 'folder': 'baseline', 'commander': 'RanartheEverWatchful.txt'}

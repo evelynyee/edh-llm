@@ -98,4 +98,4 @@
 1 Snake Basket
 1 Reverent Hoplite
 1 Akroan Horse
-{'overall': '3', 'cmc': 3.712121212121212, 'ramp': '2', 'draw': '6', 'interaction': 3}
+{'overall': 2.688775510204082, 'cmc': 3.712121212121212, 'ramp': '2', 'draw': '6', 'interaction': 3, 'folder': 'baseline', 'commander': 'FaramirStewardofGondor.txt'}

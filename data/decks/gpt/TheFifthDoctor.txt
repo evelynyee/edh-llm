@@ -64,4 +64,4 @@
 1 Counterspell
 1 Thalia, Heretic Cathar
 1 Supreme Verdict
-{'overall': '3', 'cmc': 3.303030303030303, 'ramp': '1', 'draw': '3', 'interaction': 9}
+{'overall': 2.0555045871559634, 'cmc': 3.303030303030303, 'ramp': '1', 'draw': '3', 'interaction': 9, 'folder': 'gpt', 'commander': 'TheFifthDoctor.txt'}

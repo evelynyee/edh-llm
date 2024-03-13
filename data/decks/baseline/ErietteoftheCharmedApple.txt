@@ -98,4 +98,4 @@
 1 Astarion, the Decadent
 1 Angel of Destiny
 1 Single Combat
-{'overall': '1', 'cmc': 3.742424242424242, 'ramp': '0', 'draw': '2', 'interaction': 16}
+{'overall': 1.8344129554655872, 'cmc': 3.742424242424242, 'ramp': '0', 'draw': '2', 'interaction': 16, 'folder': 'baseline', 'commander': 'ErietteoftheCharmedApple.txt'}

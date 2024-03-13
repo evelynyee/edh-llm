@@ -66,4 +66,4 @@
 1 Vanquish the Weak
 1 Witch's Oven
 1 Transmutation
-{'overall': '4', 'cmc': 3.3582089552238807, 'ramp': '4', 'draw': '11', 'interaction': 17}
+{'overall': 5.195555555555555, 'cmc': 3.3582089552238807, 'ramp': '4', 'draw': '11', 'interaction': 17, 'folder': 'manual_rand', 'commander': 'OrcusPrinceofUndeath.txt'}

@@ -66,4 +66,4 @@
 1 Vicious Offering
 1 Wildborn Preserver
 1 Tawnos's Coffin
-{'overall': '4', 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7}
+{'overall': 6.421428571428571, 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}

@@ -61,4 +61,4 @@
 1 Defiler of Faith
 1 Skeleton Key
 1 Eater of Virtue
-{'overall': '6', 'cmc': 2.8095238095238093, 'ramp': '10', 'draw': '7', 'interaction': 9}
+{'overall': 5.411864406779661, 'cmc': 2.8095238095238093, 'ramp': '10', 'draw': '7', 'interaction': 9, 'folder': 'edh', 'commander': 'OdricLunarchMarshal.txt'}

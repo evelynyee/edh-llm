@@ -98,4 +98,4 @@
 1 Song of the Worldsoul
 1 Minion Reflector
 1 Thopter Shop
-{'overall': '3', 'cmc': 3.343283582089552, 'ramp': '1', 'draw': '5', 'interaction': 2}
+{'overall': 2.1982142857142857, 'cmc': 3.343283582089552, 'ramp': '1', 'draw': '5', 'interaction': 2, 'folder': 'baseline', 'commander': 'TheEverChangingDane.txt'}

@@ -66,4 +66,4 @@
 1 Valor
 1 War Priest of Thune
 1 Terashi's Verdict
-{'overall': '4', 'cmc': 3.7313432835820897, 'ramp': '8', 'draw': '6', 'interaction': 9}
+{'overall': 4.486, 'cmc': 3.7313432835820897, 'ramp': '8', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ShadowfaxLordofHorses.txt'}

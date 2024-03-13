@@ -61,4 +61,4 @@
 1 Sakura-Tribe Elder
 1 Night's Whisper
 1 Three Visits
-{'overall': '7', 'cmc': 2.4285714285714284, 'ramp': '14', 'draw': '8', 'interaction': 6}
+{'overall': 6.623529411764705, 'cmc': 2.4285714285714284, 'ramp': '14', 'draw': '8', 'interaction': 6, 'folder': 'edh', 'commander': 'IkraShidiqitheUsurper.txt'}

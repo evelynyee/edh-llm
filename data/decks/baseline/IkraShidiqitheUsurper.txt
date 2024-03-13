@@ -98,4 +98,4 @@
 1 Dakmor Plague
 1 Band Together
 1 Surgehacker Mech
-{'overall': '2', 'cmc': 3.621212121212121, 'ramp': '0', 'draw': '10', 'interaction': 15}
+{'overall': 3.8023012552301254, 'cmc': 3.621212121212121, 'ramp': '0', 'draw': '10', 'interaction': 15, 'folder': 'baseline', 'commander': 'IkraShidiqitheUsurper.txt'}

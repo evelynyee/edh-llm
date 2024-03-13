@@ -98,4 +98,4 @@
 1 Riptide Shapeshifter
 1 Braidwood Sextant
 1 Expedition Map
-{'overall': '7', 'cmc': 3.0454545454545454, 'ramp': '30', 'draw': '38', 'interaction': 0}
+{'overall': 17.65671641791045, 'cmc': 3.0454545454545454, 'ramp': '30', 'draw': '38', 'interaction': 0, 'folder': 'baseline', 'commander': 'GaladrielofLothlórien.txt'}

@@ -98,4 +98,4 @@
 1 Bloodcurdling Scream
 1 Boon of Erebos
 1 Primeval Shambler
-{'overall': '1', 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.6499999999999999, 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'GrandmotherSengir.txt'}

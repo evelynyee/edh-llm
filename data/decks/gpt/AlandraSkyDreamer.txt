@@ -64,4 +64,4 @@
 1 Shark Typhoon
 1 Witness of the Ages
 1 The Immortal Sun
-{'overall': '5', 'cmc': 3.742424242424242, 'ramp': '4', 'draw': '32', 'interaction': 5}
+{'overall': 9.784412955465587, 'cmc': 3.742424242424242, 'ramp': '4', 'draw': '32', 'interaction': 5, 'folder': 'gpt', 'commander': 'AlandraSkyDreamer.txt'}

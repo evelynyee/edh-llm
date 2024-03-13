@@ -66,4 +66,4 @@
 1 Warped Landscape
 1 Vat of Rebirth
 1 Take Up the Shield
-{'overall': '6', 'cmc': 3.08, 'ramp': '5', 'draw': '11', 'interaction': 12}
+{'overall': 5.249350649350649, 'cmc': 3.08, 'ramp': '5', 'draw': '11', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'BartolomédelPresidio.txt'}

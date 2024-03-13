@@ -66,4 +66,4 @@
 1 Wee Champion
 1 White Sun's Twilight
 1 Tromp the Domains
-{'overall': '2', 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6}
+{'overall': 2.194549763033175, 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}

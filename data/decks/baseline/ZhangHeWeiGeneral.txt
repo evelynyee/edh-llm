@@ -98,4 +98,4 @@
 1 Prowler's Helm
 1 Dauthi Slayer
 1 Grim Draugr
-{'overall': '1', 'cmc': 3.230769230769231, 'ramp': '0', 'draw': '1', 'interaction': 0}
+{'overall': 0.8690476190476191, 'cmc': 3.230769230769231, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'baseline', 'commander': 'ZhangHeWeiGeneral.txt'}

@@ -66,4 +66,4 @@
 1 Thran Foundry
 1 Throne of Makindi
 1 The Underworld Cookbook
-{'overall': '1', 'cmc': 0, 'ramp': '6', 'draw': '14', 'interaction': 7}
+{'overall': 6.016666666666667, 'cmc': 3, 'ramp': '6', 'draw': '14', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}

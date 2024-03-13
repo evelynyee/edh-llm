@@ -98,4 +98,4 @@
 1 Regal Sliver
 1 Crookclaw Elder
 1 Glyph of Delusion
-{'overall': '2', 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '2', 'interaction': 2}
+{'overall': 1.2315789473684213, 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '2', 'interaction': 2, 'folder': 'baseline', 'commander': 'TheFifthDoctor.txt'}

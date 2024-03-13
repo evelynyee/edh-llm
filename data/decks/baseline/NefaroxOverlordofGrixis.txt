@@ -98,4 +98,4 @@
 1 Flayer of Loyalties
 1 Tormentor's Trident
 1 Catacomb Dragon
-{'overall': '1', 'cmc': 3.53125, 'ramp': '0', 'draw': '0', 'interaction': 3}
+{'overall': 0.7163716814159292, 'cmc': 3.53125, 'ramp': '0', 'draw': '0', 'interaction': 3, 'folder': 'baseline', 'commander': 'NefaroxOverlordofGrixis.txt'}

@@ -98,4 +98,4 @@
 1 Talara's Bane
 1 Virtus's Maneuver
 1 Locthwain Lancer
-{'overall': '2', 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '17', 'interaction': 7}
+{'overall': 5.180357142857142, 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '17', 'interaction': 7, 'folder': 'baseline', 'commander': 'JunjitheMidnightSky.txt'}

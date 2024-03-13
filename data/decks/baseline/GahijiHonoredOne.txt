@@ -98,4 +98,4 @@
 1 Mtenda Herder
 1 Benalish Cavalry
 1 Hero of Oxid Ridge
-{'overall': '1', 'cmc': 3.2238805970149254, 'ramp': '0', 'draw': '2', 'interaction': 2}
+{'overall': 1.2203703703703703, 'cmc': 3.2238805970149254, 'ramp': '0', 'draw': '2', 'interaction': 2, 'folder': 'baseline', 'commander': 'GahijiHonoredOne.txt'}

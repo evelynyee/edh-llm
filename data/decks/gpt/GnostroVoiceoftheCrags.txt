@@ -64,4 +64,4 @@
 1 Zulaport Duelist
 1 Winds of Change
 1 Swords to Plowshares
-{'overall': '4', 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '14', 'interaction': 22}
+{'overall': 5.441928251121077, 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '14', 'interaction': 22, 'folder': 'gpt', 'commander': 'GnostroVoiceoftheCrags.txt'}

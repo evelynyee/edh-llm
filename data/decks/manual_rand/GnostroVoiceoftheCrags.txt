@@ -66,4 +66,4 @@
 1 The Indomitable
 1 Street Spasm
 1 Zap
-{'overall': '4', 'cmc': 3.514705882352941, 'ramp': '4', 'draw': '14', 'interaction': 25}
+{'overall': 6.319037656903766, 'cmc': 3.514705882352941, 'ramp': '4', 'draw': '14', 'interaction': 25, 'folder': 'manual_rand', 'commander': 'GnostroVoiceoftheCrags.txt'}

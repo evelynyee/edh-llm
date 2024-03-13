@@ -66,4 +66,4 @@
 1 Windseeker Centaur
 1 Thraben Watcher
 1 Themberchaud
-{'overall': '2', 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '2', 'interaction': 6}
+{'overall': 1.659865470852018, 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TajicBladeoftheLegion.txt'}

@@ -98,4 +98,4 @@
 1 Surreal Memoir
 1 Underworld Breach
 1 Muse Vessel
-{'overall': '3', 'cmc': 3.49, 'ramp': '5', 'draw': '18', 'interaction': 2}
+{'overall': 6.423065902578796, 'cmc': 3.49, 'ramp': '5', 'draw': '18', 'interaction': 2, 'folder': 'baseline', 'commander': 'UrabraskHereticPraetor.txt'}

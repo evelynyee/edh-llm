@@ -66,4 +66,4 @@
 1 Vault Skirge
 1 Well of Life
 1 Writ of Passage
-{'overall': '5', 'cmc': 3.1911764705882355, 'ramp': '3', 'draw': '11', 'interaction': 6}
+{'overall': 4.426728110599078, 'cmc': 3.1911764705882355, 'ramp': '3', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TegwyllDukeofSplendor.txt'}

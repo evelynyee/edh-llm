@@ -98,4 +98,4 @@
 1 Bellowing Aegisaur
 1 Choking Fumes
 1 Silkguard
-{'overall': '2', 'cmc': 3.04, 'ramp': '0', 'draw': '1', 'interaction': 4}
+{'overall': 1.1078947368421053, 'cmc': 3.04, 'ramp': '0', 'draw': '1', 'interaction': 4, 'folder': 'baseline', 'commander': 'AragornCompanyLeader.txt'}

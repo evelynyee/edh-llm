@@ -61,4 +61,4 @@
 1 Boon of Safety
 1 Resourceful Defense
 1 Aragorn and Arwen, Wed
-{'overall': '6', 'cmc': 2.6031746031746033, 'ramp': '7', 'draw': '9', 'interaction': 8}
+{'overall': 5.16829268292683, 'cmc': 2.6031746031746033, 'ramp': '7', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'AragornCompanyLeader.txt'}

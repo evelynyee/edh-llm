@@ -98,4 +98,4 @@
 1 Gaea's Balance
 1 Descendants' Path
 1 Courser of Kruphix
-{'overall': '4', 'cmc': 3.6153846153846154, 'ramp': '19', 'draw': '15', 'interaction': 3}
+{'overall': 9.203191489361702, 'cmc': 3.6153846153846154, 'ramp': '19', 'draw': '15', 'interaction': 3, 'folder': 'baseline', 'commander': 'AzusaLostbutSeeking.txt'}

@@ -61,4 +61,4 @@
 1 Kamahl, Heart of Krosa
 1 Eternal Witness
 1 Staff of Domination
-{'overall': '9', 'cmc': 2.8095238095238093, 'ramp': '20', 'draw': '16', 'interaction': 4}
+{'overall': 9.91186440677966, 'cmc': 2.8095238095238093, 'ramp': '20', 'draw': '16', 'interaction': 4, 'folder': 'edh', 'commander': 'SetonKrosanProtector.txt'}

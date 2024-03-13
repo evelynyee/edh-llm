@@ -64,4 +64,4 @@
 1 Wizard's Spellbook
 1 Toymaker
 1 Telim'Tor's Edict
-{'overall': '6', 'cmc': 3.0303030303030303, 'ramp': '5', 'draw': '13', 'interaction': 14}
+{'overall': 5.86, 'cmc': 3.0303030303030303, 'ramp': '5', 'draw': '13', 'interaction': 14, 'folder': 'gpt', 'commander': 'SaheelitheSunsBrilliance.txt'}

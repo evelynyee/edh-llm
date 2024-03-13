@@ -65,4 +65,4 @@
 1 The Restoration of Eiganjo // Architect of Restoration
 1 Trap Digger
 1 Tower of Fortunes
-{'overall': '8', 'cmc': 3.014925373134328, 'ramp': '14', 'draw': '20', 'interaction': 7}
+{'overall': 9.513366336633663, 'cmc': 3.014925373134328, 'ramp': '14', 'draw': '20', 'interaction': 7, 'folder': 'gpt', 'commander': 'OswaldFiddlebender.txt'}

@@ -66,4 +66,4 @@
 1 Stratadon
 1 Volcanic Awakening
 1 Triassic Egg
-{'overall': '3', 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12}
+{'overall': 5.5755244755244755, 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}

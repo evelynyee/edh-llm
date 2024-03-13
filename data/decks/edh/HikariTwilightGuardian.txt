@@ -61,4 +61,4 @@
 1 Dawn of Hope
 1 Smothering Tithe
 1 Ghost Quarter
-{'overall': '7', 'cmc': 2.4444444444444446, 'ramp': '6', 'draw': '7', 'interaction': 5}
+{'overall': 4.318181818181818, 'cmc': 2.4444444444444446, 'ramp': '6', 'draw': '7', 'interaction': 5, 'folder': 'edh', 'commander': 'HikariTwilightGuardian.txt'}

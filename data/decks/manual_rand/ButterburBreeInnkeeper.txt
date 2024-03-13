@@ -66,4 +66,4 @@
 1 Throne of Empires
 1 Toil to Renown
 1 Touch of Vitae
-{'overall': '6', 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7}
+{'overall': 5.763414634146341, 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}

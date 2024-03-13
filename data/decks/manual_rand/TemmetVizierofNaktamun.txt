@@ -66,4 +66,4 @@
 1 Vizier of Tumbling Sands
 1 True Love's Kiss
 1 Thoughtcast
-{'overall': '5', 'cmc': 3.6470588235294117, 'ramp': '4', 'draw': '18', 'interaction': 7}
+{'overall': 6.398387096774194, 'cmc': 3.6470588235294117, 'ramp': '4', 'draw': '18', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'TemmetVizierofNaktamun.txt'}

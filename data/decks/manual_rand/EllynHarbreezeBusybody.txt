@@ -66,4 +66,4 @@
 1 Trial of a Time Lord
 1 Zhalfirin Void
 1 Stoic Farmer
-{'overall': '5', 'cmc': 3.6029411764705883, 'ramp': '6', 'draw': '15', 'interaction': 14}
+{'overall': 6.505102040816326, 'cmc': 3.6029411764705883, 'ramp': '6', 'draw': '15', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'EllynHarbreezeBusybody.txt'}

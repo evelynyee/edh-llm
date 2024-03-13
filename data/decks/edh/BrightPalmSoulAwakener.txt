@@ -61,4 +61,4 @@
 1 Krosan Verge
 1 Sunscorch Regent
 1 Fertilid
-{'overall': '7', 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '4', 'interaction': 4}
+{'overall': 4.390298507462687, 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '4', 'interaction': 4, 'folder': 'edh', 'commander': 'BrightPalmSoulAwakener.txt'}

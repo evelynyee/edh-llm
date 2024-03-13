@@ -98,4 +98,4 @@
 1 Reito Sentinel
 1 Armored Skyhunter
 1 Oaken Brawler
-{'overall': '3', 'cmc': 3.3230769230769233, 'ramp': '4', 'draw': '31', 'interaction': 2}
+{'overall': 9.45185185185185, 'cmc': 3.3230769230769233, 'ramp': '4', 'draw': '31', 'interaction': 2, 'folder': 'baseline', 'commander': 'EllynHarbreezeBusybody.txt'}

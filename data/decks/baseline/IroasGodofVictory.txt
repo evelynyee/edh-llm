@@ -98,4 +98,4 @@
 1 Combat Calligrapher
 1 Endure
 1 Boros Mastiff
-{'overall': '2', 'cmc': 3.49, 'ramp': '0', 'draw': '0', 'interaction': 13}
+{'overall': 1.2230659025787967, 'cmc': 3.49, 'ramp': '0', 'draw': '0', 'interaction': 13, 'folder': 'baseline', 'commander': 'IroasGodofVictory.txt'}

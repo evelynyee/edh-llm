@@ -98,4 +98,4 @@
 1 Chorus of the Tides
 1 Write into Being
 1 Dissolve
-{'overall': '6', 'cmc': 3.1142857142857143, 'ramp': '18', 'draw': '27', 'interaction': 2}
+{'overall': 11.992201834862385, 'cmc': 3.1142857142857143, 'ramp': '18', 'draw': '27', 'interaction': 2, 'folder': 'baseline', 'commander': 'IsutheAbominable.txt'}

@@ -98,4 +98,4 @@
 1 Courageous Outrider
 1 Bounty of Skemfar
 1 Tajuru Paragon
-{'overall': '4', 'cmc': 2.823529411764706, 'ramp': '4', 'draw': '42', 'interaction': 6}
+{'overall': 12.508333333333335, 'cmc': 2.823529411764706, 'ramp': '4', 'draw': '42', 'interaction': 6, 'folder': 'baseline', 'commander': 'MayaeltheAnima.txt'}

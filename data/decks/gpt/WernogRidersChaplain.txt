@@ -62,4 +62,4 @@
 1 Trusty Retriever
 1 Tombfire
 1 Wretched Camel
-{'overall': '4', 'cmc': 3.53125, 'ramp': '4', 'draw': '11', 'interaction': 12}
+{'overall': 4.916371681415929, 'cmc': 3.53125, 'ramp': '4', 'draw': '11', 'interaction': 12, 'folder': 'gpt', 'commander': 'WernogRidersChaplain.txt'}

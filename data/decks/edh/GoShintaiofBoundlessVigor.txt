@@ -61,4 +61,4 @@
 1 Blanchwood Armor
 1 Utopia Sprawl
 1 Tranquil Thicket
-{'overall': '8', 'cmc': 2.492063492063492, 'ramp': '16', 'draw': '15', 'interaction': 7}
+{'overall': 8.902547770700636, 'cmc': 2.492063492063492, 'ramp': '16', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'GoShintaiofBoundlessVigor.txt'}

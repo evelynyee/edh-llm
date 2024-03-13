@@ -61,4 +61,4 @@
 1 Swiftfoot Boots
 1 Spectator Seating
 1 Commander's Sphere
-{'overall': '6', 'cmc': 2.015873015873016, 'ramp': '13', 'draw': '19', 'interaction': 9}
+{'overall': 9.442125984251968, 'cmc': 2.015873015873016, 'ramp': '13', 'draw': '19', 'interaction': 9, 'folder': 'edh', 'commander': 'GnostroVoiceoftheCrags.txt'}

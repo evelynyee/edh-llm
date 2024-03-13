@@ -98,4 +98,4 @@
 1 Plague Myr
 1 Unity of Purpose
 1 Ribskiff
-{'overall': '5', 'cmc': 3.073529411764706, 'ramp': '12', 'draw': '8', 'interaction': 5}
+{'overall': 5.900717703349282, 'cmc': 3.073529411764706, 'ramp': '12', 'draw': '8', 'interaction': 5, 'folder': 'baseline', 'commander': 'TekuthalInquiryDominus.txt'}

@@ -66,4 +66,4 @@
 1 Chromatic Lantern
 1 Trial of a Time Lord
 1 Weatherlight Compleated
-{'overall': '4', 'cmc': 3.4705882352941178, 'ramp': '5', 'draw': '9', 'interaction': 9}
+{'overall': 4.526271186440678, 'cmc': 3.4705882352941178, 'ramp': '5', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'YoshimaruEverFaithful.txt'}

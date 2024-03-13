@@ -66,4 +66,4 @@
 1 Thrull Parasite
 1 Thallid Omnivore
 1 Tyrannical Pitlord
-{'overall': '6', 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '13', 'interaction': 3}
+{'overall': 5.0210045662100455, 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '13', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ObyraDreamingDuelist.txt'}

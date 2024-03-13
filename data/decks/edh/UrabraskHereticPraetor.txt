@@ -61,4 +61,4 @@
 1 Dockside Extortionist
 1 Liquimetal Torque
 1 Wand of Wonder
-{'overall': '7', 'cmc': 3.0634920634920637, 'ramp': '22', 'draw': '9', 'interaction': 14}
+{'overall': 9.102849740932642, 'cmc': 3.0634920634920637, 'ramp': '22', 'draw': '9', 'interaction': 14, 'folder': 'edh', 'commander': 'UrabraskHereticPraetor.txt'}

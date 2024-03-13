@@ -66,4 +66,4 @@
 1 Walking Bulwark
 1 Warrior's Stand
 1 Warning
-{'overall': '2', 'cmc': 3.25, 'ramp': '0', 'draw': '1', 'interaction': 9}
+{'overall': 1.3153846153846154, 'cmc': 3.25, 'ramp': '0', 'draw': '1', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AureliatheWarleader.txt'}

@@ -66,4 +66,4 @@
 1 Valorous Charge
 1 Vizier of Remedies
 1 Tidal Force
-{'overall': '4', 'cmc': 3.411764705882353, 'ramp': '2', 'draw': '9', 'interaction': 4}
+{'overall': 3.5362068965517244, 'cmc': 3.411764705882353, 'ramp': '2', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TheFifthDoctor.txt'}

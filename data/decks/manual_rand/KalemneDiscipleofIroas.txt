@@ -66,4 +66,4 @@
 1 Whipcorder
 1 Warmonger's Chariot
 1 Street Spasm
-{'overall': '3', 'cmc': 3.073529411764706, 'ramp': '3', 'draw': '4', 'interaction': 20}
+{'overall': 3.400717703349282, 'cmc': 3.073529411764706, 'ramp': '3', 'draw': '4', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'KalemneDiscipleofIroas.txt'}

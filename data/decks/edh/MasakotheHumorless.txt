@@ -61,4 +61,4 @@
 1 Evangel of Heliod
 1 Solemn Simulacrum
 1 Devouring Light
-{'overall': '7', 'cmc': 2.9682539682539684, 'ramp': '12', 'draw': '10', 'interaction': 12}
+{'overall': 6.77379679144385, 'cmc': 2.9682539682539684, 'ramp': '12', 'draw': '10', 'interaction': 12, 'folder': 'edh', 'commander': 'MasakotheHumorless.txt'}

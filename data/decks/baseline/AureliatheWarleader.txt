@@ -98,4 +98,4 @@
 1 Akki Coalflinger
 1 Victory's Herald
 1 Battle-Rattle Shaman
-{'overall': '1', 'cmc': 3.6515151515151514, 'ramp': '1', 'draw': '0', 'interaction': 1}
+{'overall': 0.8477178423236515, 'cmc': 3.6515151515151514, 'ramp': '1', 'draw': '0', 'interaction': 1, 'folder': 'baseline', 'commander': 'AureliatheWarleader.txt'}

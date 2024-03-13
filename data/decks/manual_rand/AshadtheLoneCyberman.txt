@@ -66,4 +66,4 @@
 1 Willbreaker
 1 Willbender
 1 Turn // Burn
-{'overall': '5', 'cmc': 3.426470588235294, 'ramp': '3', 'draw': '16', 'interaction': 11}
+{'overall': 5.883690987124464, 'cmc': 3.426470588235294, 'ramp': '3', 'draw': '16', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'AshadtheLoneCyberman.txt'}

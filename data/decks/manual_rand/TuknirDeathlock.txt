@@ -66,4 +66,4 @@
 1 Threaten
 1 The Howling Abomination
 1 Upriser Renegade
-{'overall': '3', 'cmc': 2.823529411764706, 'ramp': '3', 'draw': '6', 'interaction': 4}
+{'overall': 3.158333333333333, 'cmc': 2.823529411764706, 'ramp': '3', 'draw': '6', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TuknirDeathlock.txt'}

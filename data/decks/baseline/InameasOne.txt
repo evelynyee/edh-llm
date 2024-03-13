@@ -98,4 +98,4 @@
 1 Scrounge
 1 Solemn Simulacrum
 1 Deadbridge Chant
-{'overall': '3', 'cmc': 3.9545454545454546, 'ramp': '7', 'draw': '10', 'interaction': 0}
+{'overall': 4.755747126436781, 'cmc': 3.9545454545454546, 'ramp': '7', 'draw': '10', 'interaction': 0, 'folder': 'baseline', 'commander': 'InameasOne.txt'}

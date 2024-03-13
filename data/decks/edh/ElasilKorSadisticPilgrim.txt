@@ -61,4 +61,4 @@
 1 Woe Strider
 1 Sanguine Bond
 1 The Meathook Massacre
-{'overall': '8', 'cmc': 1.492063492063492, 'ramp': '9', 'draw': '9', 'interaction': 8}
+{'overall': 6.2404255319148945, 'cmc': 1.492063492063492, 'ramp': '9', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'ElasilKorSadisticPilgrim.txt'}

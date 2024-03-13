@@ -66,4 +66,4 @@
 1 Wolfbitten Captive // Krallenhorde Killer
 1 Triumph of the Hordes
 1 Vivien, Nature's Avenger
-{'overall': '4', 'cmc': 3.4558823529411766, 'ramp': '5', 'draw': '6', 'interaction': 3}
+{'overall': 3.478723404255319, 'cmc': 3.4558823529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}

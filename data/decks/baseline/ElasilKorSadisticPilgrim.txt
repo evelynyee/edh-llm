@@ -98,4 +98,4 @@
 1 Mardu Woe-Reaper
 1 Underworld Coinsmith
 1 Golden Guardian // Gold-Forge Garrison
-{'overall': '3', 'cmc': 3.0923076923076924, 'ramp': '1', 'draw': '4', 'interaction': 5}
+{'overall': 2.146766169154229, 'cmc': 3.0923076923076924, 'ramp': '1', 'draw': '4', 'interaction': 5, 'folder': 'baseline', 'commander': 'ElasilKorSadisticPilgrim.txt'}

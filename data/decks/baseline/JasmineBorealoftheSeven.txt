@@ -98,4 +98,4 @@
 1 Walking Skyscraper
 1 Robaran Mercenaries
 1 Cursed Totem
-{'overall': '2', 'cmc': 3.746268656716418, 'ramp': '3', 'draw': '0', 'interaction': 2}
+{'overall': 1.3838645418326694, 'cmc': 3.746268656716418, 'ramp': '3', 'draw': '0', 'interaction': 2, 'folder': 'baseline', 'commander': 'JasmineBorealoftheSeven.txt'}

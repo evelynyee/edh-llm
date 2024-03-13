@@ -98,4 +98,4 @@
 1 Spawning Breath
 1 Blood Servitor
 1 Korvold and the Noble Thief
-{'overall': '6', 'cmc': 2.788732394366197, 'ramp': '57', 'draw': '11', 'interaction': 7}
+{'overall': 18.067171717171718, 'cmc': 2.788732394366197, 'ramp': '57', 'draw': '11', 'interaction': 7, 'folder': 'baseline', 'commander': 'GanaxAstralHunter.txt'}

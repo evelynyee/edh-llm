@@ -61,4 +61,4 @@
 1 The Watcher in the Water
 1 Tidal Influence
 1 Wrenn and Realmbreaker
-{'overall': '6', 'cmc': 3.6984126984126986, 'ramp': '8', 'draw': '15', 'interaction': 4}
+{'overall': 6.490772532188841, 'cmc': 3.6984126984126986, 'ramp': '8', 'draw': '15', 'interaction': 4, 'folder': 'gpt', 'commander': 'EzuriClawofProgress.txt'}

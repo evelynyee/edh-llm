@@ -64,4 +64,4 @@
 1 Vital Splicer
 1 Trophy Hunter
 1 Thalia's Geistcaller
-{'overall': '6', 'cmc': 3.5606060606060606, 'ramp': '8', 'draw': '9', 'interaction': 12}
+{'overall': 5.4117021276595745, 'cmc': 3.5606060606060606, 'ramp': '8', 'draw': '9', 'interaction': 12, 'folder': 'gpt', 'commander': 'QueenAllenalofRuadach.txt'}

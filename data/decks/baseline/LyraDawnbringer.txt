@@ -98,4 +98,4 @@
 1 Abbey Griffin
 1 Dragonloft Idol
 1 Sword of Vengeance
-{'overall': '1', 'cmc': 3.723076923076923, 'ramp': '1', 'draw': '2', 'interaction': 1}
+{'overall': 1.3371900826446281, 'cmc': 3.723076923076923, 'ramp': '1', 'draw': '2', 'interaction': 1, 'folder': 'baseline', 'commander': 'LyraDawnbringer.txt'}

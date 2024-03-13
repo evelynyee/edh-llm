@@ -66,4 +66,4 @@
 1 Visions of Ruin
 1 Tergrid, God of Fright // Tergrid's Lantern
 1 Witch's Mark
-{'overall': '5', 'cmc': 3.7205882352941178, 'ramp': '10', 'draw': '18', 'interaction': 10}
+{'overall': 8.037549407114625, 'cmc': 3.7205882352941178, 'ramp': '10', 'draw': '18', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FlorianVoldarenScion.txt'}

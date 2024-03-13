@@ -61,4 +61,4 @@
 1 Counterspell
 1 Launch the Fleet
 1 Rhystic Study
-{'overall': '9', 'cmc': 2.126984126984127, 'ramp': '10', 'draw': '13', 'interaction': 11}
+{'overall': 7.240298507462686, 'cmc': 2.126984126984127, 'ramp': '10', 'draw': '13', 'interaction': 11, 'folder': 'edh', 'commander': 'MarneusCalgar.txt'}

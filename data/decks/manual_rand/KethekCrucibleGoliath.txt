@@ -66,4 +66,4 @@
 1 _____ Balls of Fire
 1 Stolen Strategy
 1 Thresher Lizard
-{'overall': '5', 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '15', 'interaction': 8}
+{'overall': 5.959670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}
