@@ -98,4 +98,4 @@
 1 Commander's Insight
 1 Swashbuckler's Whip
 1 Synchronized Eviction
-{'overall': '3', 'cmc': 3.6615384615384614, 'ramp': '7', 'draw': '29', 'interaction': 2}
+{'overall': 9.646218487394957, 'cmc': 3.6615384615384614, 'ramp': '7', 'draw': '29', 'interaction': 2, 'folder': 'baseline', 'commander': 'TeferiTemporalArchmage.txt'}

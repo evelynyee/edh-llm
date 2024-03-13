@@ -64,4 +64,4 @@
 1 Worldly Counsel
 1 Veiling Oddity
 1 Veyran, Voice of Duality
-{'overall': '5', 'cmc': 3.5606060606060606, 'ramp': '4', 'draw': '27', 'interaction': 13}
+{'overall': 8.961702127659574, 'cmc': 3.5606060606060606, 'ramp': '4', 'draw': '27', 'interaction': 13, 'folder': 'gpt', 'commander': 'TheTenthDoctor.txt'}

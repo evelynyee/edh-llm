@@ -98,4 +98,4 @@
 1 Summoning Station
 1 Realmbreaker, the Invasion Tree
 1 Blossoming Tortoise
-{'overall': '5', 'cmc': 4.2, 'ramp': '15', 'draw': '17', 'interaction': 5}
+{'overall': 8.726190476190476, 'cmc': 4.2, 'ramp': '15', 'draw': '17', 'interaction': 5, 'folder': 'baseline', 'commander': 'OldOneEye.txt'}

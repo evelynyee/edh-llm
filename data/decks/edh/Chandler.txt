@@ -61,4 +61,4 @@
 1 By Force
 1 War Room
 1 Hoard-Smelter Dragon
-{'overall': '8', 'cmc': 2.7301587301587302, 'ramp': '21', 'draw': '13', 'interaction': 9}
+{'overall': 9.682558139534883, 'cmc': 2.7301587301587302, 'ramp': '21', 'draw': '13', 'interaction': 9, 'folder': 'edh', 'commander': 'Chandler.txt'}

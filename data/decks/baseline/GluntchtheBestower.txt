@@ -98,4 +98,4 @@
 1 Pests of Honor
 1 The Millennium Calendar
 1 Done for the Day
-{'overall': '4', 'cmc': 3.4545454545454546, 'ramp': '6', 'draw': '22', 'interaction': 5}
+{'overall': 7.828947368421053, 'cmc': 3.4545454545454546, 'ramp': '6', 'draw': '22', 'interaction': 5, 'folder': 'baseline', 'commander': 'GluntchtheBestower.txt'}

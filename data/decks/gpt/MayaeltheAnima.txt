@@ -65,4 +65,4 @@
 1 Wood Elves
 1 Viridian Revel
 1 Triumph of Saint Katherine
-{'overall': '8', 'cmc': 3.5223880597014925, 'ramp': '23', 'draw': '29', 'interaction': 3}
+{'overall': 13.717796610169492, 'cmc': 3.5223880597014925, 'ramp': '23', 'draw': '29', 'interaction': 3, 'folder': 'gpt', 'commander': 'MayaeltheAnima.txt'}

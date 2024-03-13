@@ -63,4 +63,4 @@
 1 Vindictive Flamestoker
 1 Warcry Phoenix
 1 Warrior's Oath
-{'overall': '6', 'cmc': 2.8, 'ramp': '8', 'draw': '13', 'interaction': 16}
+{'overall': 6.764285714285714, 'cmc': 2.8, 'ramp': '8', 'draw': '13', 'interaction': 16, 'folder': 'gpt', 'commander': 'IntiSeneschaloftheSun.txt'}

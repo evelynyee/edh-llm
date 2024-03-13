@@ -64,4 +64,4 @@
 1 Blood Artist
 1 Sorin's Guide
 1 Sword of the Animist
-{'overall': '8', 'cmc': 2.9696969696969697, 'ramp': '8', 'draw': '14', 'interaction': 13}
+{'overall': 6.823469387755102, 'cmc': 2.9696969696969697, 'ramp': '8', 'draw': '14', 'interaction': 13, 'folder': 'gpt', 'commander': 'TeveshSzatDoomofFools.txt'}

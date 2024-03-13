@@ -98,4 +98,4 @@
 1 Oppressive Will
 1 Straw Golem
 1 Runeboggle
-{'overall': '3', 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '25', 'interaction': 15}
+{'overall': 7.562770562770563, 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '25', 'interaction': 15, 'folder': 'baseline', 'commander': 'ImoenMysticTrickster.txt'}

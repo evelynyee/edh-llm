@@ -65,4 +65,4 @@
 1 Soltari Emissary
 1 Warrior's Stand
 1 Warden of the Inner Sky
-{'overall': '4', 'cmc': 3.41, 'ramp': '5', 'draw': '5', 'interaction': 3}
+{'overall': 3.2365102639296186, 'cmc': 3.41, 'ramp': '5', 'draw': '5', 'interaction': 3, 'folder': 'gpt', 'commander': 'OdricLunarchMarshal.txt'}

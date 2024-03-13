@@ -61,4 +61,4 @@
 1 Maelstrom Wanderer
 1 Omnath, Locus of the Roil
 1 Dryad of the Ilysian Grove
-{'overall': '9', 'cmc': 2.0793650793650795, 'ramp': '19', 'draw': '15', 'interaction': 8}
+{'overall': 9.861832061068702, 'cmc': 2.0793650793650795, 'ramp': '19', 'draw': '15', 'interaction': 8, 'folder': 'edh', 'commander': 'OmnathLocusofAll.txt'}

@@ -98,4 +98,4 @@
 1 Gonti's Machinations
 1 Sengir, the Dark Baron
 1 Wicked Visitor
-{'overall': '3', 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '18', 'interaction': 4}
+{'overall': 5.547285067873303, 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '18', 'interaction': 4, 'folder': 'baseline', 'commander': 'TegwyllDukeofSplendor.txt'}

@@ -65,4 +65,4 @@
 1 Sol Ring
 1 Umezawa's Jitte
 1 Tribute to the World Tree
-{'overall': '5', 'cmc': 3.5522388059701493, 'ramp': '9', 'draw': '7', 'interaction': 11}
+{'overall': 5.113025210084033, 'cmc': 3.5522388059701493, 'ramp': '9', 'draw': '7', 'interaction': 11, 'folder': 'gpt', 'commander': 'LathieltheBounteousDawn.txt'}

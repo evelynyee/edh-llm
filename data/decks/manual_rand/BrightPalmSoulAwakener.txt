@@ -66,4 +66,4 @@
 1 Witch's Web
 1 Wirewood Pride
 1 Zephyr Boots
-{'overall': '4', 'cmc': 3.176470588235294, 'ramp': '3', 'draw': '8', 'interaction': 15}
+{'overall': 4.12962962962963, 'cmc': 3.176470588235294, 'ramp': '3', 'draw': '8', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'BrightPalmSoulAwakener.txt'}

@@ -98,4 +98,4 @@
 1 Lux Artillery
 1 Ardenn, Intrepid Archaeologist
 1 Quirion Beastcaller
-{'overall': '2', 'cmc': 3.6818181818181817, 'ramp': '1', 'draw': '10', 'interaction': 3}
+{'overall': 3.4432098765432095, 'cmc': 3.6818181818181817, 'ramp': '1', 'draw': '10', 'interaction': 3, 'folder': 'baseline', 'commander': 'LathieltheBounteousDawn.txt'}

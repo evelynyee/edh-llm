@@ -61,4 +61,4 @@
 1 Loyal Unicorn
 1 Champion of Lambholt
 1 Avacyn's Pilgrim
-{'overall': '7', 'cmc': 2.5238095238095237, 'ramp': '9', 'draw': '5', 'interaction': 5}
+{'overall': 4.5424528301886795, 'cmc': 2.5238095238095237, 'ramp': '9', 'draw': '5', 'interaction': 5, 'folder': 'edh', 'commander': 'LathieltheBounteousDawn.txt'}

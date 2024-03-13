@@ -98,4 +98,4 @@
 1 Tiller of Flesh
 1 Parhelion II
 1 Peacewalker Colossus
-{'overall': '4', 'cmc': 3.523076923076923, 'ramp': '5', 'draw': '13', 'interaction': 6}
+{'overall': 5.367685589519651, 'cmc': 3.523076923076923, 'ramp': '5', 'draw': '13', 'interaction': 6, 'folder': 'baseline', 'commander': 'ShorikaiGenesisEngine.txt'}

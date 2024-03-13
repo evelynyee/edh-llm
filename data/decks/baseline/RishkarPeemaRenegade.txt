@@ -98,4 +98,4 @@
 1 Cytoplast Root-Kin
 1 Surge Node
 1 Workhorse
-{'overall': '5', 'cmc': 3.1594202898550723, 'ramp': '10', 'draw': '5', 'interaction': 2}
+{'overall': 4.48302752293578, 'cmc': 3.1594202898550723, 'ramp': '10', 'draw': '5', 'interaction': 2, 'folder': 'baseline', 'commander': 'RishkarPeemaRenegade.txt'}

@@ -98,4 +98,4 @@
 1 Reprieve
 1 Ruin-Lurker Bat
 1 Profound Journey
-{'overall': '3', 'cmc': 3.328358208955224, 'ramp': '0', 'draw': '5', 'interaction': 7}
+{'overall': 2.200896860986547, 'cmc': 3.328358208955224, 'ramp': '0', 'draw': '5', 'interaction': 7, 'folder': 'baseline', 'commander': 'HikariTwilightGuardian.txt'}

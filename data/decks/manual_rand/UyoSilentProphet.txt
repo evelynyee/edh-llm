@@ -66,4 +66,4 @@
 1 Swirling Torrent
 1 Warden of Evos Isle
 1 Time Elemental
-{'overall': '4', 'cmc': 3.4705882352941178, 'ramp': '1', 'draw': '20', 'interaction': 6}
+{'overall': 6.126271186440678, 'cmc': 3.4705882352941178, 'ramp': '1', 'draw': '20', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'UyoSilentProphet.txt'}

@@ -65,4 +65,4 @@
 1 Vigilance
 1 Sword of Vengeance
 1 Umezawa's Jitte
-{'overall': '4', 'cmc': 3.08955223880597, 'ramp': '6', 'draw': '4', 'interaction': 4}
+{'overall': 3.3473429951690825, 'cmc': 3.08955223880597, 'ramp': '6', 'draw': '4', 'interaction': 4, 'folder': 'gpt', 'commander': 'JazalGoldmane.txt'}

@@ -61,4 +61,4 @@
 1 Warden of the Woods
 1 Warrior's Stand
 1 Territorial Witchstalker
-{'overall': '4', 'cmc': 3.08, 'ramp': '6', 'draw': '4', 'interaction': 7}
+{'overall': 3.4993506493506494, 'cmc': 3.08, 'ramp': '6', 'draw': '4', 'interaction': 7, 'folder': 'gpt', 'commander': 'GahijiHonoredOne.txt'}

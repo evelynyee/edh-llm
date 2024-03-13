@@ -62,4 +62,4 @@
 1 Thassa, God of the Sea
 1 Thassa's Rebuff
 1 Vizier of the Anointed
-{'overall': '5', 'cmc': 3.40625, 'ramp': '3', 'draw': '28', 'interaction': 11}
+{'overall': 8.887155963302753, 'cmc': 3.40625, 'ramp': '3', 'draw': '28', 'interaction': 11, 'folder': 'gpt', 'commander': 'LierDiscipleoftheDrowned.txt'}

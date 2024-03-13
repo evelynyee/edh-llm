@@ -66,4 +66,4 @@
 1 Wandering Champion
 1 Witch Hunter
 1 You Hear Something on Watch
-{'overall': '5', 'cmc': 3.411764705882353, 'ramp': '6', 'draw': '12', 'interaction': 11}
+{'overall': 5.636206896551724, 'cmc': 3.411764705882353, 'ramp': '6', 'draw': '12', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}

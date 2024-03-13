@@ -61,4 +61,4 @@
 1 Sunhome, Fortress of the Legion
 1 Needleverge Pathway
 1 Spirited Companion
-{'overall': '8', 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '13', 'interaction': 9}
+{'overall': 7.31896551724138, 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '13', 'interaction': 9, 'folder': 'edh', 'commander': 'SophinaSpearsageDeserter.txt'}

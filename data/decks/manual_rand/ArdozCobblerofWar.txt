@@ -66,4 +66,4 @@
 1 Warpath
 1 Scytheclaw
 1 Tibalt, the Fiend-Blooded
-{'overall': '5', 'cmc': 3.1323529411764706, 'ramp': '4', 'draw': '5', 'interaction': 10}
+{'overall': 3.3884976525821595, 'cmc': 3.1323529411764706, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}

@@ -98,4 +98,4 @@
 1 Makindi Stampede // Makindi Mesas
 1 Rollick of Abandon
 1 Start Your Engines
-{'overall': '1', 'cmc': 2.9545454545454546, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.676923076923077, 'cmc': 2.9545454545454546, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'TajicBladeoftheLegion.txt'}

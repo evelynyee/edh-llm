@@ -98,4 +98,4 @@
 1 Shadow Slice
 1 Thrull Surgeon
 1 Encroach
-{'overall': '3', 'cmc': 3.196969696969697, 'ramp': '0', 'draw': '14', 'interaction': 4}
+{'overall': 4.325592417061611, 'cmc': 3.196969696969697, 'ramp': '0', 'draw': '14', 'interaction': 4, 'folder': 'baseline', 'commander': 'SilasRennSeekerAdept.txt'}

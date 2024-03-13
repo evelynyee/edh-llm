@@ -66,4 +66,4 @@
 1 Tree of Redemption
 1 Viridian Betrayers
 1 Vivien Reid
-{'overall': '4', 'cmc': 3.5223880597014925, 'ramp': '4', 'draw': '9', 'interaction': 12}
+{'overall': 4.417796610169491, 'cmc': 3.5223880597014925, 'ramp': '4', 'draw': '9', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}

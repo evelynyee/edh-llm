@@ -66,4 +66,4 @@
 1 Woodland Changeling
 1 Vine Gecko
 1 Waxmane Baku
-{'overall': '6', 'cmc': 3.6470588235294117, 'ramp': '9', 'draw': '19', 'interaction': 4}
+{'overall': 7.748387096774194, 'cmc': 3.6470588235294117, 'ramp': '9', 'draw': '19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'CaptainSisay.txt'}

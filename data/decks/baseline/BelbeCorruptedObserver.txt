@@ -98,4 +98,4 @@
 1 Sorin's Vengeance
 1 Arcum's Whistle
 1 Xathrid Demon
-{'overall': '2', 'cmc': 3.515151515151515, 'ramp': '3', 'draw': '8', 'interaction': 5}
+{'overall': 3.5689655172413794, 'cmc': 3.515151515151515, 'ramp': '3', 'draw': '8', 'interaction': 5, 'folder': 'baseline', 'commander': 'BelbeCorruptedObserver.txt'}

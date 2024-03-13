@@ -98,4 +98,4 @@
 1 Seafloor Stalker
 1 Paragon of Gathering Mists
 1 Wedding Invitation
-{'overall': '1', 'cmc': 3.196969696969697, 'ramp': '1', 'draw': '3', 'interaction': 5}
+{'overall': 1.8755924170616114, 'cmc': 3.196969696969697, 'ramp': '1', 'draw': '3', 'interaction': 5, 'folder': 'baseline', 'commander': 'InniaztheGaleForce.txt'}

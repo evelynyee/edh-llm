@@ -61,4 +61,4 @@
 1 Inspiring Statuary
 1 Fae Offering
 1 Of Herbs and Stewed Rabbit
-{'overall': '7', 'cmc': 2.365079365079365, 'ramp': '15', 'draw': '10', 'interaction': 7}
+{'overall': 7.445637583892617, 'cmc': 2.365079365079365, 'ramp': '15', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'ButterburBreeInnkeeper.txt'}

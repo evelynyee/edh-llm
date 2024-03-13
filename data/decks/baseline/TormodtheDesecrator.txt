@@ -98,4 +98,4 @@
 1 Mechtitan Core
 1 Hunted Horror
 1 Xathrid Necromancer
-{'overall': '2', 'cmc': 3.8153846153846156, 'ramp': '0', 'draw': '2', 'interaction': 12}
+{'overall': 1.6241935483870966, 'cmc': 3.8153846153846156, 'ramp': '0', 'draw': '2', 'interaction': 12, 'folder': 'baseline', 'commander': 'TormodtheDesecrator.txt'}

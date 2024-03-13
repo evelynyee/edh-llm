@@ -61,4 +61,4 @@
 1 Battle Angels of Tyr
 1 Marble Diamond
 1 Thraben Watcher
-{'overall': '7', 'cmc': 3.3968253968253967, 'ramp': '10', 'draw': '10', 'interaction': 6}
+{'overall': 5.888785046728972, 'cmc': 3.3968253968253967, 'ramp': '10', 'draw': '10', 'interaction': 6, 'folder': 'edh', 'commander': 'LyraDawnbringer.txt'}

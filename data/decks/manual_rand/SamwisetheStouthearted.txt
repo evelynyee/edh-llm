@@ -66,4 +66,4 @@
 1 Spectral Steel
 1 Thraben Sentry // Thraben Militia
 1 Vanquisher's Banner
-{'overall': '6', 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12}
+{'overall': 7.855555555555555, 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}

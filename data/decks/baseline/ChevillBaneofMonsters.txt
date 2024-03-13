@@ -98,4 +98,4 @@
 1 Kothophed, Soul Hoarder
 1 Obsessive Skinner
 1 Portent Tracker
-{'overall': '2', 'cmc': 3.287878787878788, 'ramp': '0', 'draw': '5', 'interaction': 8}
+{'overall': 2.258294930875576, 'cmc': 3.287878787878788, 'ramp': '0', 'draw': '5', 'interaction': 8, 'folder': 'baseline', 'commander': 'ChevillBaneofMonsters.txt'}

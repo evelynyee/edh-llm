@@ -98,4 +98,4 @@
 1 Altar of Dementia
 1 Horned Loch-Whale // Lagoon Breach
 1 Paleontologist's Pick-Axe // Dinosaur Headdress
-{'overall': '2', 'cmc': 4.1692307692307695, 'ramp': '5', 'draw': '20', 'interaction': 7}
+{'overall': 7.07970479704797, 'cmc': 4.1692307692307695, 'ramp': '5', 'draw': '20', 'interaction': 7, 'folder': 'baseline', 'commander': 'GhostofRamirezDePietro.txt'}

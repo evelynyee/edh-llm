@@ -66,4 +66,4 @@
 1 Sunstreak Phoenix
 1 Thick-Skinned Goblin
 1 Sword of Once and Future
-{'overall': '4', 'cmc': 3.2794117647058822, 'ramp': '4', 'draw': '9', 'interaction': 7}
+{'overall': 4.209865470852018, 'cmc': 3.2794117647058822, 'ramp': '4', 'draw': '9', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HeikoYamazakitheGeneral.txt'}

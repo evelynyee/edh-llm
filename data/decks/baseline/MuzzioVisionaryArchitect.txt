@@ -98,4 +98,4 @@
 1 Taigam's Scheming
 1 Contingency Plan
 1 Intuition
-{'overall': '3', 'cmc': 3.292307692307692, 'ramp': '1', 'draw': '43', 'interaction': 1}
+{'overall': 11.65747663551402, 'cmc': 3.292307692307692, 'ramp': '1', 'draw': '43', 'interaction': 1, 'folder': 'baseline', 'commander': 'MuzzioVisionaryArchitect.txt'}

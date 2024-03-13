@@ -66,4 +66,4 @@
 1 Unhallowed Pact
 1 Thrilling Encore
 1 Unspeakable Symbol
-{'overall': '5', 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '22', 'interaction': 6}
+{'overall': 7.636206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '22', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TeveshSzatDoomofFools.txt'}

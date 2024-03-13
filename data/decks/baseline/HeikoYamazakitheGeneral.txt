@@ -98,4 +98,4 @@
 1 Goblin Heelcutter
 1 Rosnakht, Heir of Rohgahh
 1 Genasi Enforcers
-{'overall': '2', 'cmc': 3.5076923076923077, 'ramp': '3', 'draw': '8', 'interaction': 6}
+{'overall': 3.6201754385964913, 'cmc': 3.5076923076923077, 'ramp': '3', 'draw': '8', 'interaction': 6, 'folder': 'baseline', 'commander': 'HeikoYamazakitheGeneral.txt'}

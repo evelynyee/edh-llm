@@ -66,4 +66,4 @@
 1 Terminal Moraine
 1 Viashino Sandstalker
 1 Thoughtbound Primoc
-{'overall': '6', 'cmc': 3.1343283582089554, 'ramp': '10', 'draw': '14', 'interaction': 8}
+{'overall': 7.038095238095238, 'cmc': 3.1343283582089554, 'ramp': '10', 'draw': '14', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'IlhargtheRazeBoar.txt'}

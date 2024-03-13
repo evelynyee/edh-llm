@@ -98,4 +98,4 @@
 1 Relic Golem
 1 Warped Devotion
 1 Timesifter
-{'overall': '3', 'cmc': 3.3384615384615386, 'ramp': '4', 'draw': '19', 'interaction': 0}
+{'overall': 6.349078341013825, 'cmc': 3.3384615384615386, 'ramp': '4', 'draw': '19', 'interaction': 0, 'folder': 'baseline', 'commander': 'MaralenoftheMornsong.txt'}

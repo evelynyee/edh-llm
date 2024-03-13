@@ -98,4 +98,4 @@
 1 Hookhand Mariner // Riphook Raider
 1 Bind
 1 Suspicious Bookcase
-{'overall': '2', 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '3', 'interaction': 2}
+{'overall': 1.4303571428571429, 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '3', 'interaction': 2, 'folder': 'baseline', 'commander': 'AutumnWillow.txt'}

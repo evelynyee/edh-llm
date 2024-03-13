@@ -64,4 +64,4 @@
 1 Uba Mask
 1 Wanderlust
 1 Zodiac Tiger
-{'overall': '6', 'cmc': 3.242424242424242, 'ramp': '9', 'draw': '12', 'interaction': 7}
+{'overall': 6.216822429906542, 'cmc': 3.242424242424242, 'ramp': '9', 'draw': '12', 'interaction': 7, 'folder': 'gpt', 'commander': 'AutumnWillow.txt'}

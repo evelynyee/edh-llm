@@ -98,4 +98,4 @@
 1 Boseiju Reaches Skyward // Branch of Boseiju
 1 Elfhame Sanctuary
 1 Journey of Discovery
-{'overall': '4', 'cmc': 2.772727272727273, 'ramp': '32', 'draw': '35', 'interaction': 0}
+{'overall': 17.471311475409834, 'cmc': 2.772727272727273, 'ramp': '32', 'draw': '35', 'interaction': 0, 'folder': 'baseline', 'commander': 'AesiTyrantofGyreStrait.txt'}

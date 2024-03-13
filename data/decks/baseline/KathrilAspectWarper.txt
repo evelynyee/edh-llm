@@ -98,4 +98,4 @@
 1 Fearless Fledgling
 1 Clamavus
 1 Korozda Gorgon
-{'overall': '2', 'cmc': 3.417910447761194, 'ramp': '1', 'draw': '3', 'interaction': 1}
+{'overall': 1.6351528384279477, 'cmc': 3.417910447761194, 'ramp': '1', 'draw': '3', 'interaction': 1, 'folder': 'baseline', 'commander': 'KathrilAspectWarper.txt'}

@@ -63,4 +63,4 @@
 1 Demonic Tutor
 1 Stone Calendar
 1 Mana Vault
-{'overall': '4', 'cmc': 3.2615384615384615, 'ramp': '3', 'draw': '3', 'interaction': 8}
+{'overall': 2.513207547169811, 'cmc': 3.2615384615384615, 'ramp': '3', 'draw': '3', 'interaction': 8, 'folder': 'gpt', 'commander': 'KillianInkDuelist.txt'}

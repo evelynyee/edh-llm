@@ -98,4 +98,4 @@
 1 Moonrager's Slash
 1 Firebrand Archer
 1 Rug of Smothering
-{'overall': '2', 'cmc': 3.257575757575758, 'ramp': '1', 'draw': '2', 'interaction': 38}
+{'overall': 3.263953488372093, 'cmc': 3.257575757575758, 'ramp': '1', 'draw': '2', 'interaction': 38, 'folder': 'baseline', 'commander': 'FiresongandSunspeaker.txt'}

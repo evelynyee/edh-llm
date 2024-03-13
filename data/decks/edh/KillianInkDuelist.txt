@@ -61,4 +61,4 @@
 1 Shelter
 1 Minion's Return
 1 Read the Bones
-{'overall': '6', 'cmc': 2.2063492063492065, 'ramp': '4', 'draw': '16', 'interaction': 9}
+{'overall': 6.356474820143885, 'cmc': 2.2063492063492065, 'ramp': '4', 'draw': '16', 'interaction': 9, 'folder': 'edh', 'commander': 'KillianInkDuelist.txt'}

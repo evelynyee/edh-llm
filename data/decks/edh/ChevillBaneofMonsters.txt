@@ -61,4 +61,4 @@
 1 Go for the Throat
 1 Thornbite Staff
 1 Sakura-Tribe Elder
-{'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '12', 'draw': '10', 'interaction': 18}
+{'overall': 7.223529411764706, 'cmc': 2.4285714285714284, 'ramp': '12', 'draw': '10', 'interaction': 18, 'folder': 'edh', 'commander': 'ChevillBaneofMonsters.txt'}

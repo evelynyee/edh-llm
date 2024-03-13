@@ -66,4 +66,4 @@
 1 Weapon Rack
 1 Words of Worship
 1 _____ Goblin
-{'overall': '5', 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8}
+{'overall': 6.532558139534884, 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}

@@ -66,4 +66,4 @@
 1 Tobias, Doomed Conqueror
 1 Weight of Conscience
 1 Tezzeret, Cruel Machinist
-{'overall': '6', 'cmc': 2.838235294117647, 'ramp': '6', 'draw': '14', 'interaction': 14}
+{'overall': 6.404663212435233, 'cmc': 2.838235294117647, 'ramp': '6', 'draw': '14', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ShorikaiGenesisEngine.txt'}

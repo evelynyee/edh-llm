@@ -66,4 +66,4 @@
 1 Twitch
 1 Summoner's Bane
 1 Tale's End
-{'overall': '5', 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8}
+{'overall': 5.526728110599079, 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}

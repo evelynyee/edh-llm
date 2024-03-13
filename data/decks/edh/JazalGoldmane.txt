@@ -61,4 +61,4 @@
 1 Return to Dust
 1 Swiftfoot Boots
 1 Intangible Virtue
-{'overall': '7', 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '9', 'interaction': 8}
+{'overall': 5.809685863874346, 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'JazalGoldmane.txt'}

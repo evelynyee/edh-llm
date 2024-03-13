@@ -98,4 +98,4 @@
 1 Gilded Pinions
 1 Survive the Night
 1 Relic Vial
-{'overall': '5', 'cmc': 3.1846153846153844, 'ramp': '8', 'draw': '6', 'interaction': 12}
+{'overall': 4.728019323671497, 'cmc': 3.1846153846153844, 'ramp': '8', 'draw': '6', 'interaction': 12, 'folder': 'baseline', 'commander': 'BillthePony.txt'}

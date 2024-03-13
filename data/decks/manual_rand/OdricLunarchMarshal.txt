@@ -66,4 +66,4 @@
 1 Syr Alin, the Lion's Claw
 1 Training Drone
 1 Show of Valor
-{'overall': '3', 'cmc': 2.8088235294117645, 'ramp': '2', 'draw': '2', 'interaction': 5}
+{'overall': 1.962041884816754, 'cmc': 2.8088235294117645, 'ramp': '2', 'draw': '2', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}

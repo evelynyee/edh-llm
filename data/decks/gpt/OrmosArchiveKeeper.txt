@@ -63,4 +63,4 @@
 1 Unexplained Disappearance
 1 Unlicensed Hearse
 1 Tezzeret, Artifice Master
-{'overall': '6', 'cmc': 3.5076923076923077, 'ramp': '4', 'draw': '38', 'interaction': 4}
+{'overall': 11.27017543859649, 'cmc': 3.5076923076923077, 'ramp': '4', 'draw': '38', 'interaction': 4, 'folder': 'gpt', 'commander': 'OrmosArchiveKeeper.txt'}

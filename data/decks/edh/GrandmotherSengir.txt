@@ -61,4 +61,4 @@
 1 Bontu's Monument
 1 Sadistic Obsession
 1 Nest of Scarabs
-{'overall': '6', 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '15', 'interaction': 6}
+{'overall': 7.597468354430379, 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '15', 'interaction': 6, 'folder': 'edh', 'commander': 'GrandmotherSengir.txt'}

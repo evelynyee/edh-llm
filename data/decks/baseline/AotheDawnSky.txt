@@ -98,4 +98,4 @@
 1 Clone Shell
 1 Mirror of Fate
 1 Ugin, the Spirit Dragon
-{'overall': '4', 'cmc': 3.6615384615384614, 'ramp': '4', 'draw': '29', 'interaction': 4}
+{'overall': 8.996218487394957, 'cmc': 3.6615384615384614, 'ramp': '4', 'draw': '29', 'interaction': 4, 'folder': 'baseline', 'commander': 'AotheDawnSky.txt'}

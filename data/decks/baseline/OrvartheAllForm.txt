@@ -98,4 +98,4 @@
 1 Chain Stasis
 1 Deekah, Fractal Theorist
 1 Psychic Rebuttal
-{'overall': '3', 'cmc': 3.953846153846154, 'ramp': '1', 'draw': '11', 'interaction': 4}
+{'overall': 3.7058365758754865, 'cmc': 3.953846153846154, 'ramp': '1', 'draw': '11', 'interaction': 4, 'folder': 'baseline', 'commander': 'OrvartheAllForm.txt'}

@@ -98,4 +98,4 @@
 1 Peace Talks
 1 Staff of the Ages
 1 Forbidding Spirit
-{'overall': '3', 'cmc': 3.0428571428571427, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.6572769953051644, 'cmc': 3.0428571428571427, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'MasakotheHumorless.txt'}

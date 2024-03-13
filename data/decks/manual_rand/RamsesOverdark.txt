@@ -66,4 +66,4 @@
 1 Toymaker
 1 Takklemaggot
 1 Touch of Moonglove
-{'overall': '3', 'cmc': 3.074626865671642, 'ramp': '3', 'draw': '6', 'interaction': 9}
+{'overall': 3.350485436893204, 'cmc': 3.074626865671642, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}

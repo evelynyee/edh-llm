@@ -98,4 +98,4 @@
 1 Dowsing Device // Geode Grotto
 1 Enchanted Carriage
 1 Lose Calm
-{'overall': '2', 'cmc': 3.4545454545454546, 'ramp': '1', 'draw': '1', 'interaction': 2}
+{'overall': 1.1789473684210527, 'cmc': 3.4545454545454546, 'ramp': '1', 'draw': '1', 'interaction': 2, 'folder': 'baseline', 'commander': 'GoddricCloakedReveler.txt'}

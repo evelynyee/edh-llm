@@ -98,4 +98,4 @@
 1 Archive Trap
 1 Swindler's Scheme
 1 Isochron Scepter
-{'overall': '4', 'cmc': 3.7846153846153845, 'ramp': '2', 'draw': '16', 'interaction': 5}
+{'overall': 5.278455284552845, 'cmc': 3.7846153846153845, 'ramp': '2', 'draw': '16', 'interaction': 5, 'folder': 'baseline', 'commander': 'EmperorMihailII.txt'}

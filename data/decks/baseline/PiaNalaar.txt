@@ -98,4 +98,4 @@
 1 Fearless Liberator
 1 Nuisance Engine
 1 Inquisitorial Rosette
-{'overall': '7', 'cmc': 2.5072463768115942, 'ramp': '14', 'draw': '8', 'interaction': 8}
+{'overall': 6.697687861271676, 'cmc': 2.5072463768115942, 'ramp': '14', 'draw': '8', 'interaction': 8, 'folder': 'baseline', 'commander': 'PiaNalaar.txt'}

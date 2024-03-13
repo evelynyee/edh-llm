@@ -66,4 +66,4 @@
 1 Treefolk Umbra
 1 Soul's Might
 1 Squallmonger
-{'overall': '4', 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7}
+{'overall': 4.188744588744589, 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}

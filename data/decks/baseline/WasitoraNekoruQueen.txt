@@ -98,4 +98,4 @@
 1 Raptor Hatchling
 1 Dance with Devils
 1 Cybermen Squadron
-{'overall': '2', 'cmc': 4.08955223880597, 'ramp': '2', 'draw': '0', 'interaction': 13}
+{'overall': 1.6390510948905108, 'cmc': 4.08955223880597, 'ramp': '2', 'draw': '0', 'interaction': 13, 'folder': 'baseline', 'commander': 'WasitoraNekoruQueen.txt'}

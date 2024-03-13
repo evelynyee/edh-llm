@@ -66,4 +66,4 @@
 1 Thallid
 1 Thundering Mightmare
 1 Strip Mine
-{'overall': '5', 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3}
+{'overall': 6.847435897435898, 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}

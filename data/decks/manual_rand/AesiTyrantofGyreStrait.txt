@@ -66,4 +66,4 @@
 1 Wood Elves
 1 Wear Away
 1 Vizier of Tumbling Sands
-{'overall': '5', 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2}
+{'overall': 10.13968253968254, 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}

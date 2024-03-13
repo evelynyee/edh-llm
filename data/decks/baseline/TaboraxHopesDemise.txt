@@ -98,4 +98,4 @@
 1 Soulblade Corrupter
 1 Nightshade Harvester
 1 Incremental Blight
-{'overall': '2', 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '5', 'interaction': 1}
+{'overall': 1.95, 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '5', 'interaction': 1, 'folder': 'baseline', 'commander': 'TaboraxHopesDemise.txt'}

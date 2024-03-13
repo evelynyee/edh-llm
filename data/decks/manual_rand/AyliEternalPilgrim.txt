@@ -66,4 +66,4 @@
 1 Sorin Markov
 1 Thran Power Suit
 1 Sunseed Nurturer
-{'overall': '4', 'cmc': 3.283582089552239, 'ramp': '1', 'draw': '10', 'interaction': 10}
+{'overall': 3.859090909090909, 'cmc': 3.283582089552239, 'ramp': '1', 'draw': '10', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AyliEternalPilgrim.txt'}

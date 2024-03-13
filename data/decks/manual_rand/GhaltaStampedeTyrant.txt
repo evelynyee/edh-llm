@@ -66,4 +66,4 @@
 1 Watchers of the Dead
 1 Wrenn and Realmbreaker
 1 Vorinclex, Monstrous Raider
-{'overall': '7', 'cmc': 3.2794117647058822, 'ramp': '21', 'draw': '15', 'interaction': 6}
+{'overall': 9.909865470852019, 'cmc': 3.2794117647058822, 'ramp': '21', 'draw': '15', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'GhaltaStampedeTyrant.txt'}

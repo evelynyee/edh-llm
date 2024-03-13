@@ -98,4 +98,4 @@
 1 True Polymorph
 1 Pirated Copy
 1 Glyph Keeper
-{'overall': '3', 'cmc': 3.462686567164179, 'ramp': '1', 'draw': '11', 'interaction': 7}
+{'overall': 3.9275862068965517, 'cmc': 3.462686567164179, 'ramp': '1', 'draw': '11', 'interaction': 7, 'folder': 'baseline', 'commander': 'AshadtheLoneCyberman.txt'}

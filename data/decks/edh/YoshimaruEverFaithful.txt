@@ -61,4 +61,4 @@
 1 Rune-Tail, Kitsune Ascendant
 1 Flowering of the White Tree
 1 Umezawa's Jitte
-{'overall': '7', 'cmc': 2.3, 'ramp': '7', 'draw': '6', 'interaction': 8}
+{'overall': 4.519565217391305, 'cmc': 2.3, 'ramp': '7', 'draw': '6', 'interaction': 8, 'folder': 'edh', 'commander': 'YoshimaruEverFaithful.txt'}

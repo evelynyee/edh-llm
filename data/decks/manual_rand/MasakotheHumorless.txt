@@ -66,4 +66,4 @@
 1 Trailblazer's Boots
 1 Wingrattle Scarecrow
 1 Wingmate Roc
-{'overall': '3', 'cmc': 3.3636363636363638, 'ramp': '0', 'draw': '4', 'interaction': 7}
+{'overall': 1.9445945945945948, 'cmc': 3.3636363636363638, 'ramp': '0', 'draw': '4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MasakotheHumorless.txt'}

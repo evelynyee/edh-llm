@@ -63,4 +63,4 @@
 1 Strongarm Monk
 1 Wardscale Dragon
 1 Will of the All-Hunter
-{'overall': '4', 'cmc': 3.2, 'ramp': '2', 'draw': '8', 'interaction': 8}
+{'overall': 3.525, 'cmc': 3.2, 'ramp': '2', 'draw': '8', 'interaction': 8, 'folder': 'gpt', 'commander': 'InniaztheGaleForce.txt'}

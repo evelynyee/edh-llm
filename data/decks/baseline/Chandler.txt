@@ -98,4 +98,4 @@
 1 Chandra, Torch of Defiance
 1 Goblin Chirurgeon
 1 Chandra, Novice Pyromancer
-{'overall': '3', 'cmc': 2.970149253731343, 'ramp': '11', 'draw': '2', 'interaction': 35}
+{'overall': 5.673366834170855, 'cmc': 2.970149253731343, 'ramp': '11', 'draw': '2', 'interaction': 35, 'folder': 'baseline', 'commander': 'Chandler.txt'}

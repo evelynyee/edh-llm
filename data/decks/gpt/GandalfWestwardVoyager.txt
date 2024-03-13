@@ -65,4 +65,4 @@
 1 Voidmage Prodigy
 1 Voidmage Apprentice
 1 Vizier of Many Faces
-{'overall': '5', 'cmc': 3.5970149253731343, 'ramp': '9', 'draw': '24', 'interaction': 7}
+{'overall': 9.156016597510373, 'cmc': 3.5970149253731343, 'ramp': '9', 'draw': '24', 'interaction': 7, 'folder': 'gpt', 'commander': 'GandalfWestwardVoyager.txt'}

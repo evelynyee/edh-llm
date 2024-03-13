@@ -98,4 +98,4 @@
 1 Budoka Pupil // Ichiga, Who Topples Oaks
 1 Quilled Wolf
 1 Unnatural Predation
-{'overall': '1', 'cmc': 2.5384615384615383, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.787878787878788, 'cmc': 2.5384615384615383, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'ThrissNantukoPrimus.txt'}

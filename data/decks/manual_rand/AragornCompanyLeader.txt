@@ -66,4 +66,4 @@
 1 Sublime Archangel
 1 Spike Weaver
 1 Unstoppable Ash
-{'overall': '3', 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '5', 'interaction': 9}
+{'overall': 2.82962962962963, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '5', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AragornCompanyLeader.txt'}

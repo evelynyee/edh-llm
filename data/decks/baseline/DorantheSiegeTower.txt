@@ -98,4 +98,4 @@
 1 Gargantuan Gorilla
 1 Dakmor Sorceress
 1 Fell the Mighty
-{'overall': '2', 'cmc': 3.55, 'ramp': '1', 'draw': '2', 'interaction': 13}
+{'overall': 1.963380281690141, 'cmc': 3.55, 'ramp': '1', 'draw': '2', 'interaction': 13, 'folder': 'baseline', 'commander': 'DorantheSiegeTower.txt'}

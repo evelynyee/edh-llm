@@ -98,4 +98,4 @@
 1 Freyalise, Llanowar's Fury
 1 Careening Mine Cart
 1 Ulvenwald Mysteries
-{'overall': '5', 'cmc': 3.015151515151515, 'ramp': '10', 'draw': '22', 'interaction': 8}
+{'overall': 9.063316582914574, 'cmc': 3.015151515151515, 'ramp': '10', 'draw': '22', 'interaction': 8, 'folder': 'baseline', 'commander': 'ButterburBreeInnkeeper.txt'}

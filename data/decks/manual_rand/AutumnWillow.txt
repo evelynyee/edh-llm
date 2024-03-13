@@ -66,4 +66,4 @@
 1 Tlincalli Hunter // Retrieve Prey
 1 Zenith Chronicler
 1 Tel-Jilad Wolf
-{'overall': '3', 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 5}
+{'overall': 2.859865470852018, 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'AutumnWillow.txt'}

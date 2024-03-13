@@ -65,4 +65,4 @@
 1 Warcry Phoenix
 1 Thought-Knot Seer
 1 Thran Spider
-{'overall': '7', 'cmc': 3.1044776119402986, 'ramp': '11', 'draw': '16', 'interaction': 12}
+{'overall': 7.994230769230769, 'cmc': 3.1044776119402986, 'ramp': '11', 'draw': '16', 'interaction': 12, 'folder': 'gpt', 'commander': 'IlhargtheRazeBoar.txt'}

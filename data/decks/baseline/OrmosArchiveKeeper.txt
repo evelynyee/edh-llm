@@ -98,4 +98,4 @@
 1 Sphinx's Tutelage
 1 Screaming Swarm
 1 Vessel of Paramnesia
-{'overall': '4', 'cmc': 3.328358208955224, 'ramp': '0', 'draw': '50', 'interaction': 1}
+{'overall': 13.150896860986547, 'cmc': 3.328358208955224, 'ramp': '0', 'draw': '50', 'interaction': 1, 'folder': 'baseline', 'commander': 'OrmosArchiveKeeper.txt'}

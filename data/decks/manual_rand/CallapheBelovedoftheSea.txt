@@ -66,4 +66,4 @@
 1 Untethered Express
 1 Voidmage Prodigy
 1 Sleight of Mind
-{'overall': '4', 'cmc': 3.208955223880597, 'ramp': '7', 'draw': '9', 'interaction': 3}
+{'overall': 4.773255813953488, 'cmc': 3.208955223880597, 'ramp': '7', 'draw': '9', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'CallapheBelovedoftheSea.txt'}

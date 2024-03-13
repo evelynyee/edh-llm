@@ -66,4 +66,4 @@
 1 Yanling's Harbinger
 1 Wurmquake
 1 Time Ebb
-{'overall': '6', 'cmc': 3.661764705882353, 'ramp': '13', 'draw': '23', 'interaction': 1}
+{'overall': 9.596184738955824, 'cmc': 3.661764705882353, 'ramp': '13', 'draw': '23', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'GaladrielofLothlórien.txt'}

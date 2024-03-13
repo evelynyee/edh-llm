@@ -98,4 +98,4 @@
 1 Library of Leng
 1 Vanquish the Foul
 1 Skywhaler's Shot
-{'overall': '4', 'cmc': 3.878787878787879, 'ramp': '7', 'draw': '12', 'interaction': 11}
+{'overall': 5.815625, 'cmc': 3.878787878787879, 'ramp': '7', 'draw': '12', 'interaction': 11, 'folder': 'baseline', 'commander': 'DjeruWithEyesOpen.txt'}

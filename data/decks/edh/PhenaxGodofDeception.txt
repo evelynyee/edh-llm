@@ -61,4 +61,4 @@
 1 Manic Scribe
 1 Ashiok, Dream Render
 1 Mind Stone
-{'overall': '6', 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '6', 'interaction': 6}
+{'overall': 3.8576923076923073, 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '6', 'interaction': 6, 'folder': 'edh', 'commander': 'PhenaxGodofDeception.txt'}

@@ -98,4 +98,4 @@
 1 Unholy Heat
 1 Indomitable Creativity
 1 Molten Collapse
-{'overall': '2', 'cmc': 4.05, 'ramp': '4', 'draw': '15', 'interaction': 23}
+{'overall': 6.393827160493828, 'cmc': 4.05, 'ramp': '4', 'draw': '15', 'interaction': 23, 'folder': 'baseline', 'commander': 'OboshthePreypiercer.txt'}

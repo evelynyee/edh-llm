@@ -64,4 +64,4 @@
 1 Thraben Heretic
 1 Tarrian's Soulcleaver
 1 Warcry Phoenix
-{'overall': '6', 'cmc': 3.106060606060606, 'ramp': '9', 'draw': '17', 'interaction': 11}
+{'overall': 7.69390243902439, 'cmc': 3.106060606060606, 'ramp': '9', 'draw': '17', 'interaction': 11, 'folder': 'gpt', 'commander': 'JennyGeneratedAnomaly.txt'}

@@ -66,4 +66,4 @@
 1 Woeleecher
 1 Urza's Engine
 1 Tower of Coireall
-{'overall': '2', 'cmc': 3.073529411764706, 'ramp': '1', 'draw': '3', 'interaction': 5}
+{'overall': 1.9007177033492821, 'cmc': 3.073529411764706, 'ramp': '1', 'draw': '3', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'LyraDawnbringer.txt'}

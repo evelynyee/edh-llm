@@ -98,4 +98,4 @@
 1 Condescend
 1 Screaming Swarm
 1 Scroll Rack
-{'overall': '3', 'cmc': 3.106060606060606, 'ramp': '1', 'draw': '35', 'interaction': 3}
+{'overall': 9.793902439024391, 'cmc': 3.106060606060606, 'ramp': '1', 'draw': '35', 'interaction': 3, 'folder': 'baseline', 'commander': 'DragonlordOjutai.txt'}

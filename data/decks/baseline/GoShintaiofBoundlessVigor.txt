@@ -98,4 +98,4 @@
 1 Capricopian
 1 Junk Golem
 1 Conjurer's Closet
-{'overall': '3', 'cmc': 3.0454545454545454, 'ramp': '1', 'draw': '3', 'interaction': 0}
+{'overall': 1.6567164179104479, 'cmc': 3.0454545454545454, 'ramp': '1', 'draw': '3', 'interaction': 0, 'folder': 'baseline', 'commander': 'GoShintaiofBoundlessVigor.txt'}

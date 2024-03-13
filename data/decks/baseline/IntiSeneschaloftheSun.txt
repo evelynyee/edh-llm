@@ -98,4 +98,4 @@
 1 Invasion of Kaldheim // Pyre of the World Tree
 1 Battlefield Scavenger
 1 Muse Vessel
-{'overall': '4', 'cmc': 2.723076923076923, 'ramp': '4', 'draw': '17', 'interaction': 2}
+{'overall': 6.084463276836158, 'cmc': 2.723076923076923, 'ramp': '4', 'draw': '17', 'interaction': 2, 'folder': 'baseline', 'commander': 'IntiSeneschaloftheSun.txt'}

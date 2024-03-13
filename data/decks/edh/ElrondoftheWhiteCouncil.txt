@@ -61,4 +61,4 @@
 1 Fathom Mage
 1 Realm Seekers
 1 Celeborn the Wise
-{'overall': '7', 'cmc': 2.507936507936508, 'ramp': '14', 'draw': '18', 'interaction': 5}
+{'overall': 9.04746835443038, 'cmc': 2.507936507936508, 'ramp': '14', 'draw': '18', 'interaction': 5, 'folder': 'edh', 'commander': 'ElrondoftheWhiteCouncil.txt'}

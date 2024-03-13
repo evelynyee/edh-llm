@@ -64,4 +64,4 @@
 1 Strongarm Monk
 1 Will of the All-Hunter
 1 Testament of Faith
-{'overall': '4', 'cmc': 3.015151515151515, 'ramp': '4', 'draw': '3', 'interaction': 5}
+{'overall': 2.6633165829145726, 'cmc': 3.015151515151515, 'ramp': '4', 'draw': '3', 'interaction': 5, 'folder': 'gpt', 'commander': 'LyraDawnbringer.txt'}

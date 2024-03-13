@@ -66,4 +66,4 @@
 1 Wildheart Invoker
 1 Thrasher Brute
 1 Unliving Psychopath
-{'overall': '3', 'cmc': 2.8823529411764706, 'ramp': '3', 'draw': '7', 'interaction': 9}
+{'overall': 3.6438775510204082, 'cmc': 2.8823529411764706, 'ramp': '3', 'draw': '7', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'DinaSoulSteeper.txt'}

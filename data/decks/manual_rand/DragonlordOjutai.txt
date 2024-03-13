@@ -66,4 +66,4 @@
 1 The Caves of Androzani
 1 Transmute Artifact
 1 Unsummon
-{'overall': '5', 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3}
+{'overall': 9.741304347826087, 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}

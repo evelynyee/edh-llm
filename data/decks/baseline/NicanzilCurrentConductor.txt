@@ -98,4 +98,4 @@
 1 Ruin in Their Wake
 1 Monster Manual // Zoological Study
 1 Primal Growth
-{'overall': '5', 'cmc': 2.803030303030303, 'ramp': '13', 'draw': '28', 'interaction': 2}
+{'overall': 11.063513513513513, 'cmc': 2.803030303030303, 'ramp': '13', 'draw': '28', 'interaction': 2, 'folder': 'baseline', 'commander': 'NicanzilCurrentConductor.txt'}

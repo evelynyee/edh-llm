@@ -98,4 +98,4 @@
 1 Killer Service
 1 Phyrexian Triniform
 1 Giant Opportunity
-{'overall': '3', 'cmc': 3.878787878787879, 'ramp': '3', 'draw': '13', 'interaction': 22}
+{'overall': 5.615625, 'cmc': 3.878787878787879, 'ramp': '3', 'draw': '13', 'interaction': 22, 'folder': 'baseline', 'commander': 'HanskSlayerZealot.txt'}

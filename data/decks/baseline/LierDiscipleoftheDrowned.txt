@@ -98,4 +98,4 @@
 1 Planeswalker's Mischief
 1 Spelljack
 1 Gale's Redirection
-{'overall': '2', 'cmc': 4.615384615384615, 'ramp': '4', 'draw': '12', 'interaction': 3}
+{'overall': 4.583333333333334, 'cmc': 4.615384615384615, 'ramp': '4', 'draw': '12', 'interaction': 3, 'folder': 'baseline', 'commander': 'LierDiscipleoftheDrowned.txt'}

@@ -61,4 +61,4 @@
 1 Maelstrom Nexus
 1 Rhystic Study
 1 Zagoth Triome
-{'overall': '8', 'cmc': 3.4444444444444446, 'ramp': '19', 'draw': '10', 'interaction': 7}
+{'overall': 8.180645161290322, 'cmc': 3.4444444444444446, 'ramp': '19', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'JodahArchmageEternal.txt'}

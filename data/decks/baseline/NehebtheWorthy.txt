@@ -98,4 +98,4 @@
 1 Zenith Chronicler
 1 Dream Pillager
 1 Curse of Chaos
-{'overall': '2', 'cmc': 3.772727272727273, 'ramp': '2', 'draw': '15', 'interaction': 8}
+{'overall': 5.180120481927711, 'cmc': 3.772727272727273, 'ramp': '2', 'draw': '15', 'interaction': 8, 'folder': 'baseline', 'commander': 'NehebtheWorthy.txt'}

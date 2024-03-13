@@ -66,4 +66,4 @@
 1 Temporal Extortion
 1 Yawgmoth, Thran Physician
 1 Zhang Liao, Hero of Hefei
-{'overall': '3', 'cmc': 3.7058823529411766, 'ramp': '5', 'draw': '4', 'interaction': 27}
+{'overall': 4.139682539682539, 'cmc': 3.7058823529411766, 'ramp': '5', 'draw': '4', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'TorWaukitheYounger.txt'}

@@ -98,4 +98,4 @@
 1 Quirion Beastcaller
 1 Nessian Hornbeetle
 1 Consulate Dreadnought
-{'overall': '2', 'cmc': 3.515151515151515, 'ramp': '0', 'draw': '1', 'interaction': 1}
+{'overall': 0.8689655172413794, 'cmc': 3.515151515151515, 'ramp': '0', 'draw': '1', 'interaction': 1, 'folder': 'baseline', 'commander': 'BessSoulNourisher.txt'}

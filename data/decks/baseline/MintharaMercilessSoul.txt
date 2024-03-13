@@ -98,4 +98,4 @@
 1 Scavenged Brawler
 1 Pestilent Haze
 1 Zealous Persecution
-{'overall': '1', 'cmc': 3.393939393939394, 'ramp': '1', 'draw': '1', 'interaction': 2}
+{'overall': 1.1892857142857145, 'cmc': 3.393939393939394, 'ramp': '1', 'draw': '1', 'interaction': 2, 'folder': 'baseline', 'commander': 'MintharaMercilessSoul.txt'}

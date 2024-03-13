@@ -66,4 +66,4 @@
 1 Dark Ritual
 1 Topan Freeblade
 1 Witch Engine
-{'overall': '4', 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '5', 'interaction': 10}
+{'overall': 3.3767281105990783, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}

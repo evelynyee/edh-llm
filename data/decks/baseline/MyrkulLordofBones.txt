@@ -98,4 +98,4 @@
 1 Samwise Gamgee
 1 Daxos, Blessed by the Sun
 1 Sorin, Vengeful Bloodlord
-{'overall': '3', 'cmc': 3.8208955223880596, 'ramp': '1', 'draw': '7', 'interaction': 20}
+{'overall': 3.5234375, 'cmc': 3.8208955223880596, 'ramp': '1', 'draw': '7', 'interaction': 20, 'folder': 'baseline', 'commander': 'MyrkulLordofBones.txt'}

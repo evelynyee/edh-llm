@@ -66,4 +66,4 @@
 1 Whispers of Emrakul
 1 Whirlwind Denial
 1 Zephyr Scribe
-{'overall': '5', 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10}
+{'overall': 8.600896860986547, 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}

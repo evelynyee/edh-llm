@@ -98,4 +98,4 @@
 1 Hixus, Prison Warden
 1 Lens of Clarity
 1 Kayla's Command
-{'overall': '2', 'cmc': 3.4615384615384617, 'ramp': '2', 'draw': '4', 'interaction': 3}
+{'overall': 2.2277777777777774, 'cmc': 3.4615384615384617, 'ramp': '2', 'draw': '4', 'interaction': 3, 'folder': 'baseline', 'commander': 'GandalfWhiteRider.txt'}

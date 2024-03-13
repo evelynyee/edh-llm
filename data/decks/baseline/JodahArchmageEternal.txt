@@ -98,4 +98,4 @@
 1 Drogskol Infantry // Drogskol Armaments
 1 Defiler of Dreams
 1 Withering Boon
-{'overall': '3', 'cmc': 3.449275362318841, 'ramp': '12', 'draw': '8', 'interaction': 8}
+{'overall': 5.979831932773109, 'cmc': 3.449275362318841, 'ramp': '12', 'draw': '8', 'interaction': 8, 'folder': 'baseline', 'commander': 'JodahArchmageEternal.txt'}

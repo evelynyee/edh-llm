@@ -66,4 +66,4 @@
 1 Yawgmoth's Edict
 1 Unmake the Graves
 1 Unmask
-{'overall': '4', 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7}
+{'overall': 4.660224089635854, 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'JunjitheMidnightSky.txt'}

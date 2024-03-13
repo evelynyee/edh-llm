@@ -66,4 +66,4 @@
 1 Trustworthy Scout
 1 Wall of Junk
 1 Staff of the Storyteller
-{'overall': '7', 'cmc': 3.0, 'ramp': '4', 'draw': '20', 'interaction': 11}
+{'overall': 7.216666666666667, 'cmc': 3.0, 'ramp': '4', 'draw': '20', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'RegnatheRedeemer.txt'}

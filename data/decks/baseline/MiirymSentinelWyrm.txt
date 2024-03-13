@@ -98,4 +98,4 @@
 1 Loot Dispute
 1 Conscripted Infantry
 1 Feywild Trickster
-{'overall': '3', 'cmc': 3.98, 'ramp': '0', 'draw': '1', 'interaction': 2}
+{'overall': 0.8525125628140703, 'cmc': 3.98, 'ramp': '0', 'draw': '1', 'interaction': 2, 'folder': 'baseline', 'commander': 'MiirymSentinelWyrm.txt'}

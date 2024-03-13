@@ -66,4 +66,4 @@
 1 Vexing Sphinx
 1 Watcher in the Mist
 1 Thoughtbind
-{'overall': '5', 'cmc': 3.3676470588235294, 'ramp': '6', 'draw': '21', 'interaction': 9}
+{'overall': 7.793886462882096, 'cmc': 3.3676470588235294, 'ramp': '6', 'draw': '21', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'HisokaMinamoSensei.txt'}

@@ -62,4 +62,4 @@
 1 Titania, Protector of Argoth
 1 Ulvenwald Observer
 1 Verdant Command
-{'overall': '6', 'cmc': 3.609375, 'ramp': '8', 'draw': '13', 'interaction': 16}
+{'overall': 6.604112554112554, 'cmc': 3.609375, 'ramp': '8', 'draw': '13', 'interaction': 16, 'folder': 'gpt', 'commander': 'HanskSlayerZealot.txt'}

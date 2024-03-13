@@ -65,4 +65,4 @@
 1 Thunderous Might
 1 Swift Kick
 1 Thopter Squadron
-{'overall': '7', 'cmc': 2.746268656716418, 'ramp': '6', 'draw': '7', 'interaction': 15}
+{'overall': 4.728260869565217, 'cmc': 2.746268656716418, 'ramp': '6', 'draw': '7', 'interaction': 15, 'folder': 'gpt', 'commander': 'PiaNalaar.txt'}

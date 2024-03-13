@@ -61,4 +61,4 @@
 1 Izzet Boilerworks
 1 Rampant Growth
 1 Nature's Claim
-{'overall': '7', 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '15', 'interaction': 7}
+{'overall': 8.243617021276595, 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'KalamaxtheStormsire.txt'}

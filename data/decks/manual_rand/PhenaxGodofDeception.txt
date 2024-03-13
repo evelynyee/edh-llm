@@ -66,4 +66,4 @@
 1 Unliving Psychopath
 1 Volo, Itinerant Scholar
 1 Visage of Dread // Dread Osseosaur
-{'overall': '6', 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8}
+{'overall': 3.981196581196581, 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}

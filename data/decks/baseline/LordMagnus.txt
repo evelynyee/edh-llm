@@ -98,4 +98,4 @@
 1 Soltari Priest
 1 Soltari Monk
 1 Orchard Spirit
-{'overall': '1', 'cmc': 2.772727272727273, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.721311475409836, 'cmc': 2.772727272727273, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'LordMagnus.txt'}

@@ -61,4 +61,4 @@
 1 Grave Titan
 1 Butcher of Malakir
 1 Sheoldred, Whispering One
-{'overall': '9', 'cmc': 2.8095238095238093, 'ramp': '17', 'draw': '15', 'interaction': 9}
+{'overall': 9.16186440677966, 'cmc': 2.8095238095238093, 'ramp': '17', 'draw': '15', 'interaction': 9, 'folder': 'edh', 'commander': 'TeveshSzatDoomofFools.txt'}

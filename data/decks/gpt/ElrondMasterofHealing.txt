@@ -65,4 +65,4 @@
 1 Toymaker
 1 Verdant Mastery
 1 Wandering Archaic // Explore the Vastlands
-{'overall': '5', 'cmc': 3.7611940298507465, 'ramp': '9', 'draw': '26', 'interaction': 9}
+{'overall': 9.731746031746031, 'cmc': 3.7611940298507465, 'ramp': '9', 'draw': '26', 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondMasterofHealing.txt'}

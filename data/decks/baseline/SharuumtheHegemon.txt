@@ -98,4 +98,4 @@
 1 Trial of Knowledge
 1 Loran, Disciple of History
 1 Stockpiling Celebrant
-{'overall': '1', 'cmc': 3.6470588235294117, 'ramp': '0', 'draw': '1', 'interaction': 4}
+{'overall': 0.9983870967741935, 'cmc': 3.6470588235294117, 'ramp': '0', 'draw': '1', 'interaction': 4, 'folder': 'baseline', 'commander': 'SharuumtheHegemon.txt'}

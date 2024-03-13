@@ -98,4 +98,4 @@
 1 Guardians of Meletis
 1 Glacial Wall
 1 Biolume Egg // Biolume Serpent
-{'overall': '1', 'cmc': 3.753846153846154, 'ramp': '0', 'draw': '1', 'interaction': 1}
+{'overall': 0.8327868852459017, 'cmc': 3.753846153846154, 'ramp': '0', 'draw': '1', 'interaction': 1, 'folder': 'baseline', 'commander': 'Tromokratis.txt'}

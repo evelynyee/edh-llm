@@ -98,4 +98,4 @@
 1 Warchanter of Mogis
 1 Hooded Kavu
 1 Eldrazi Monument
-{'overall': '4', 'cmc': 3.1549295774647885, 'ramp': '5', 'draw': '5', 'interaction': 7}
+{'overall': 3.4839285714285717, 'cmc': 3.1549295774647885, 'ramp': '5', 'draw': '5', 'interaction': 7, 'folder': 'baseline', 'commander': 'TheMasterMultiplied.txt'}

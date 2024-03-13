@@ -98,4 +98,4 @@
 1 Dream Strix
 1 Tribute Mage
 1 Solemn Simulacrum
-{'overall': '5', 'cmc': 3.2941176470588234, 'ramp': '32', 'draw': '36', 'interaction': 2}
+{'overall': 17.70714285714286, 'cmc': 3.2941176470588234, 'ramp': '32', 'draw': '36', 'interaction': 2, 'folder': 'baseline', 'commander': 'GretchenTitchwillow.txt'}

@@ -66,4 +66,4 @@
 1 Uba Mask
 1 Thieving Skydiver
 1 Trapmaker's Snare
-{'overall': '6', 'cmc': 3.0, 'ramp': '5', 'draw': '20', 'interaction': 2}
+{'overall': 7.016666666666667, 'cmc': 3.0, 'ramp': '5', 'draw': '20', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'MuzzioVisionaryArchitect.txt'}

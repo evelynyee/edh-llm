@@ -66,4 +66,4 @@
 1 Vanguard Suppressor
 1 Warcry Phoenix
 1 Vesuvan Doppelganger
-{'overall': '5', 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7}
+{'overall': 5.172649572649572, 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}

@@ -63,4 +63,4 @@
 1 Witches' Eye
 1 Teachings of the Kirin // Kirin-Touched Orochi
 1 Venture Forth
-{'overall': '8', 'cmc': 3.2, 'ramp': '18', 'draw': '13', 'interaction': 6}
+{'overall': 8.675, 'cmc': 3.2, 'ramp': '18', 'draw': '13', 'interaction': 6, 'folder': 'gpt', 'commander': 'GhaltaStampedeTyrant.txt'}

@@ -66,4 +66,4 @@
 1 Vanquish the Horde
 1 The Underworld Cookbook
 1 Wicker Picker
-{'overall': '5', 'cmc': 3.970149253731343, 'ramp': '3', 'draw': '12', 'interaction': 7}
+{'overall': 4.603759398496241, 'cmc': 3.970149253731343, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}

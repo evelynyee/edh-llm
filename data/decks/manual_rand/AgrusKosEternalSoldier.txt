@@ -66,4 +66,4 @@
 1 Vulpine Harvester
 1 Thran Turbine
 1 Tithe Taker
-{'overall': '4', 'cmc': 3.4242424242424243, 'ramp': '6', 'draw': '6', 'interaction': 13}
+{'overall': 4.234070796460177, 'cmc': 3.4242424242424243, 'ramp': '6', 'draw': '6', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}

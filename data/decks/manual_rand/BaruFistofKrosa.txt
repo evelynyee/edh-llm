@@ -66,4 +66,4 @@
 1 Wolf's Quarry
 1 Welding Jar
 1 Vitaspore Thallid
-{'overall': '4', 'cmc': 3.7205882352941178, 'ramp': '3', 'draw': '7', 'interaction': 5}
+{'overall': 3.2875494071146245, 'cmc': 3.7205882352941178, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}

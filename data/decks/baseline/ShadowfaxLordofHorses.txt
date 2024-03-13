@@ -98,4 +98,4 @@
 1 Scaretiller
 1 Archon of Redemption
 1 Burning Sands
-{'overall': '1', 'cmc': 3.8636363636363638, 'ramp': '4', 'draw': '3', 'interaction': 7}
+{'overall': 2.6176470588235294, 'cmc': 3.8636363636363638, 'ramp': '4', 'draw': '3', 'interaction': 7, 'folder': 'baseline', 'commander': 'ShadowfaxLordofHorses.txt'}

@@ -61,4 +61,4 @@
 1 Haunted Ridge
 1 Neheb, the Eternal
 1 Terminate
-{'overall': '6', 'cmc': 2.761904761904762, 'ramp': '13', 'draw': '10', 'interaction': 13}
+{'overall': 7.1241379310344835, 'cmc': 2.761904761904762, 'ramp': '13', 'draw': '10', 'interaction': 13, 'folder': 'edh', 'commander': 'OboshthePreypiercer.txt'}

@@ -98,4 +98,4 @@
 1 Iroas's Blessing
 1 Seismic Wave
 1 Pigment Storm
-{'overall': '1', 'cmc': 3.3846153846153846, 'ramp': '0', 'draw': '0', 'interaction': 46}
+{'overall': 2.8909090909090907, 'cmc': 3.3846153846153846, 'ramp': '0', 'draw': '0', 'interaction': 46, 'folder': 'baseline', 'commander': 'GimliCounterofKills.txt'}

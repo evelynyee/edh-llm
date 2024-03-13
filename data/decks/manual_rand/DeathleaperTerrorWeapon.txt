@@ -66,4 +66,4 @@
 1 Umezawa's Jitte
 1 Welcome to . . . // Jurassic Park
 1 Whirling Dervish
-{'overall': '3', 'cmc': 3.1911764705882355, 'ramp': '2', 'draw': '5', 'interaction': 3}
+{'overall': 2.526728110599078, 'cmc': 3.1911764705882355, 'ramp': '2', 'draw': '5', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DeathleaperTerrorWeapon.txt'}

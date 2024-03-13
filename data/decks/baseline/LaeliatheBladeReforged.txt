@@ -98,4 +98,4 @@
 1 Pyxis of Pandemonium
 1 Spite of Mogis
 1 Wandering Archaic // Explore the Vastlands
-{'overall': '4', 'cmc': 3.227272727272727, 'ramp': '3', 'draw': '25', 'interaction': 4}
+{'overall': 7.819718309859155, 'cmc': 3.227272727272727, 'ramp': '3', 'draw': '25', 'interaction': 4, 'folder': 'baseline', 'commander': 'LaeliatheBladeReforged.txt'}

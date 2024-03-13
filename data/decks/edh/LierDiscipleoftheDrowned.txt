@@ -61,4 +61,4 @@
 1 Castle Vantress
 1 Sea Gate Restoration
 1 Otawara, Soaring City
-{'overall': '7', 'cmc': 2.365079365079365, 'ramp': '8', 'draw': '22', 'interaction': 9}
+{'overall': 8.795637583892617, 'cmc': 2.365079365079365, 'ramp': '8', 'draw': '22', 'interaction': 9, 'folder': 'edh', 'commander': 'LierDiscipleoftheDrowned.txt'}

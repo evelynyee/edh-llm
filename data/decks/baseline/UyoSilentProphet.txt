@@ -98,4 +98,4 @@
 1 Thwart
 1 Johann's Stopgap
 1 Tidespout Tyrant
-{'overall': '2', 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '8', 'interaction': 10}
+{'overall': 3.253875968992248, 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '8', 'interaction': 10, 'folder': 'baseline', 'commander': 'UyoSilentProphet.txt'}

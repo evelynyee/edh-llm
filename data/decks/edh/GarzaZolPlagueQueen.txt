@@ -61,4 +61,4 @@
 1 Drowned Catacomb
 1 Dimir Aqueduct
 1 Bloodline Keeper
-{'overall': '7', 'cmc': 1.7142857142857142, 'ramp': '9', 'draw': '5', 'interaction': 7}
+{'overall': 5.016666666666667, 'cmc': 1.7142857142857142, 'ramp': '9', 'draw': '5', 'interaction': 7, 'folder': 'edh', 'commander': 'GarzaZolPlagueQueen.txt'}

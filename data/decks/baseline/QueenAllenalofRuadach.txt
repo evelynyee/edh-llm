@@ -98,4 +98,4 @@
 1 Aura Mutation
 1 Curious Herd
 1 Cultivator of Blades
-{'overall': '2', 'cmc': 3.9696969696969697, 'ramp': '1', 'draw': '1', 'interaction': 6}
+{'overall': 1.3038167938931298, 'cmc': 3.9696969696969697, 'ramp': '1', 'draw': '1', 'interaction': 6, 'folder': 'baseline', 'commander': 'QueenAllenalofRuadach.txt'}

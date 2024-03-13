@@ -98,4 +98,4 @@
 1 Conspicuous Snoop
 1 Zhulodok, Void Gorger
 1 Triumph of Saint Katherine
-{'overall': '2', 'cmc': 4.151515151515151, 'ramp': '3', 'draw': '22', 'interaction': 4}
+{'overall': 6.9317518248175185, 'cmc': 4.151515151515151, 'ramp': '3', 'draw': '22', 'interaction': 4, 'folder': 'baseline', 'commander': 'DjeruandHazoret.txt'}

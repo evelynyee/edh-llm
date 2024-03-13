@@ -98,4 +98,4 @@
 1 Might of Alara
 1 Gaea's Might
 1 Wild Shape
-{'overall': '1', 'cmc': 3.6307692307692307, 'ramp': '0', 'draw': '3', 'interaction': 1}
+{'overall': 1.3508474576271186, 'cmc': 3.6307692307692307, 'ramp': '0', 'draw': '3', 'interaction': 1, 'folder': 'baseline', 'commander': 'SkanosDragonheart.txt'}

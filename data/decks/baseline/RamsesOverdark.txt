@@ -98,4 +98,4 @@
 1 Shuriken
 1 Triangle of War
 1 Necrotic Plague
-{'overall': '1', 'cmc': 2.8333333333333335, 'ramp': '0', 'draw': '0', 'interaction': 49}
+{'overall': 3.155882352941177, 'cmc': 2.8333333333333335, 'ramp': '0', 'draw': '0', 'interaction': 49, 'folder': 'baseline', 'commander': 'RamsesOverdark.txt'}

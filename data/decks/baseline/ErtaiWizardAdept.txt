@@ -98,4 +98,4 @@
 1 Laquatus's Disdain
 1 Disrupt
 1 Countervailing Winds
-{'overall': '2', 'cmc': 2.876923076923077, 'ramp': '1', 'draw': '23', 'interaction': 16}
+{'overall': 7.495187165775401, 'cmc': 2.876923076923077, 'ramp': '1', 'draw': '23', 'interaction': 16, 'folder': 'baseline', 'commander': 'ErtaiWizardAdept.txt'}
