@@ -62,8 +62,4 @@
 1 Wings of Hubris
 1 Zealous Conscripts
 1 Worthy Knight
-1 Wall of Dust
-1 Voice of Grace
-1 Volcanic Salvo
-1 Welding Sparks
-{'overall': 2.2336909871244637, 'cmc': 3.426470588235294, 'ramp': '2', 'draw': '2', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'IroasGodofVictory.txt'}
+{'overall': 2.2336909871244637, 'cmc': 3.426470588235294, 'ramp': '2', 'draw': '2', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'IroasGodofVictory.txt'}n': 13, 'folder': 'manual_rand', 'commander': 'IroasGodofVictory.txt'}

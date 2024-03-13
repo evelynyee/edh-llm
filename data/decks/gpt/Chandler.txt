@@ -62,6 +62,4 @@
 1 Treasure Vault
 1 Staff of Domination
 1 Thornbite Staff
-1 Tibalt, the Fiend-Blooded
-1 Slobad, Goblin Tinkerer
-{'overall': 5.96, 'cmc': 3.0303030303030303, 'ramp': '6', 'draw': '10', 'interaction': 26, 'folder': 'gpt', 'commander': 'Chandler.txt'}
+{'overall': 5.96, 'cmc': 3.0303030303030303, 'ramp': '6', 'draw': '10', 'interaction': 26, 'folder': 'gpt', 'commander': 'Chandler.txt'}tion': 26, 'folder': 'gpt', 'commander': 'Chandler.txt'}

@@ -44,7 +44,6 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
 
         picked = completion.choices[0].message.content.split('; ')
 
-<<<<<<< HEAD
         for card in picked:
             if card in pool:
                 pool.remove(card)
@@ -53,32 +52,15 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
                 print('failed to find ' + card)
         file.seek(0)
         if len(file.readlines()) > 6:
-            cur_power = calculate_power('data/temp_deck.txt')
+            try:
+                cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
+            except Exception as e:
+                print(e)
+                time.sleep(60*60)
         print('Time Elapsed: ' + str(time.time()-start_time))
-        print('Adding: ', picked)
+        print('Adding: ' + completion.choices[0].message.content)
         print(cur_power)
         file.seek(0)
-
-os.rename('data/temp_deck.txt', 'data/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
-=======
-            for card in picked:
-                if card in pool:
-                    pool.remove(card)
-                    file.write("1 " + card + "\n")
-                else:
-                    print('failed to find ' + card)
-            file.seek(0)
-            if len(file.readlines()) > 6:
-                try:
-                    cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
-                except Exception as e:
-                    print(e)
-                    time.sleep(60*60)
-            print('Time Elapsed: ' + str(time.time()-start_time))
-            print('Adding: ' + completion.choices[0].message.content)
-            print(cur_power)
-            file.seek(0)
-            if len(file.readlines()) >= 63:
-                file.write(str(cur_power))
-            file.seek(0)
->>>>>>> main
+        if len(file.readlines()) >= 63:
+            file.write(str(cur_power))
+        file.seek(0)

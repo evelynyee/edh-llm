@@ -62,5 +62,4 @@
 1 Wild Magic Surge
 1 Virtus the Veiled
 1 Tomb Robber
-1 Zada, Hedron Grinder
-{'overall': 6.946766169154229, 'cmc': 3.0923076923076924, 'ramp': '9', 'draw': '13', 'interaction': 16, 'folder': 'gpt', 'commander': 'OboshthePreypiercer.txt'}
+{'overall': 6.946766169154229, 'cmc': 3.0923076923076924, 'ramp': '9', 'draw': '13', 'interaction': 16, 'folder': 'gpt', 'commander': 'OboshthePreypiercer.txt'}boshthePreypiercer.txt'}

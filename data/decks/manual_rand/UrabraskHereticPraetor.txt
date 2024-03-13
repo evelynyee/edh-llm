@@ -62,8 +62,4 @@
 1 Thran War Machine
 1 Wheel of Fate
 1 Thoughtbound Primoc
-1 Traveler's Amulet
-1 Shah of Naar Isle
-1 Thawing Glaciers
-1 Well of Life
-{'overall': 5.32962962962963, 'cmc': 3.176470588235294, 'ramp': '9', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}
+{'overall': 5.32962962962963, 'cmc': 3.176470588235294, 'ramp': '9', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}ction': 4, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}

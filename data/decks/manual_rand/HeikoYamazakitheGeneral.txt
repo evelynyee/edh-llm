@@ -62,8 +62,4 @@
 1 You Find Some Prisoners
 1 Uba Mask
 1 Viashino Sandscout
-1 Whip Sergeant
-1 Sunstreak Phoenix
-1 Thick-Skinned Goblin
-1 Sword of Once and Future
-{'overall': 4.209865470852018, 'cmc': 3.2794117647058822, 'ramp': '4', 'draw': '9', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HeikoYamazakitheGeneral.txt'}
+{'overall': 4.209865470852018, 'cmc': 3.2794117647058822, 'ramp': '4', 'draw': '9', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HeikoYamazakitheGeneral.txt'}9', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HeikoYamazakitheGeneral.txt'}

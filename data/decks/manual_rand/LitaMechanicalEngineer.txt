@@ -62,8 +62,4 @@
 1 Warping Wail
 1 Valorous Charge
 1 Spare Dagger
-1 Strionic Resonator
-1 Skysovereign, Consul Flagship
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Take Vengeance
-{'overall': 3.231182795698925, 'cmc': 2.735294117647059, 'ramp': '5', 'draw': '2', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}
+{'overall': 3.231182795698925, 'cmc': 2.735294117647059, 'ramp': '5', 'draw': '2', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}294117647059, 'ramp': '5', 'draw': '2', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}

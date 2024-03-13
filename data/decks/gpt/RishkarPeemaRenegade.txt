@@ -61,4 +61,4 @@
 1 Voltaic Construct
 1 Unnatural Restoration
 1 Viridian Acolyte
-{'overall': 7.155769230769231, 'cmc': 3.3015873015873014, 'ramp': '13', 'draw': '12', 'interaction': 6, 'folder': 'gpt', 'commander': 'RishkarPeemaRenegade.txt'}
+{'overall': 7.155769230769231, 'cmc': 3.3015873015873014, 'ramp': '13', 'draw': '12', 'interaction': 6, 'folder': 'gpt', 'commander': 'RishkarPeemaRenegade.txt'}{'overall': 7.155769230769231, 'cmc': 3.3015873015873014, 'ramp': '13', 'draw': '12', 'interaction': 6, 'folder': 'gpt', 'commander': 'RishkarPeemaRenegade.txt'}

@@ -62,8 +62,4 @@
 1 Wojek Siren
 1 Swordsworn Cavalier
 1 Swooping Lookout
-1 Sword of Truth and Justice
-1 Syr Alin, the Lion's Claw
-1 Training Drone
-1 Show of Valor
-{'overall': 1.962041884816754, 'cmc': 2.8088235294117645, 'ramp': '2', 'draw': '2', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}
+{'overall': 1.962041884816754, 'cmc': 2.8088235294117645, 'ramp': '2', 'draw': '2', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}draw': '2', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}

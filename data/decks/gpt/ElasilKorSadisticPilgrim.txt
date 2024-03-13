@@ -62,6 +62,4 @@
 1 Withering Wisps
 1 White Plume Adventurer
 1 Umezawa's Charm
-1 Sunstrike Legionnaire
-1 Xenk, Paladin Unbroken
-{'overall': 3.2407766990291265, 'cmc': 3.121212121212121, 'ramp': '1', 'draw': '7', 'interaction': 12, 'folder': 'gpt', 'commander': 'ElasilKorSadisticPilgrim.txt'}
+{'overall': 3.2407766990291265, 'cmc': 3.121212121212121, 'ramp': '1', 'draw': '7', 'interaction': 12, 'folder': 'gpt', 'commander': 'ElasilKorSadisticPilgrim.txt'}'gpt', 'commander': 'ElasilKorSadisticPilgrim.txt'}

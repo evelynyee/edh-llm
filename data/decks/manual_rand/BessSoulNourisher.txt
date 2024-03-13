@@ -62,8 +62,4 @@
 1 Tine Shrike
 1 Tangleweave Armor
 1 Windstorm
-1 Ugin's Conjurant
-1 Time to Feed
-1 Thallid Germinator
-1 Tempt with Glory
-{'overall': 2.9275862068965517, 'cmc': 3.462686567164179, 'ramp': '4', 'draw': '4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}
+{'overall': 2.9275862068965517, 'cmc': 3.462686567164179, 'ramp': '4', 'draw': '4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}nteraction': 7, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}

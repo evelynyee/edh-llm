@@ -62,8 +62,4 @@
 1 Verdant Eidolon
 1 Veiled Crocodile
 1 Ugin, the Ineffable
-1 Veil of Secrecy
-1 Vastwood Fortification // Vastwood Thicket
-1 Thwart
-1 You Happen On a Glade
-{'overall': 8.83, 'cmc': 2.9411764705882355, 'ramp': '10', 'draw': '22', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}
+{'overall': 8.83, 'cmc': 2.9411764705882355, 'ramp': '10', 'draw': '22', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}draw': '22', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}

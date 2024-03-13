@@ -62,6 +62,4 @@
 1 The Ozolith
 1 Spellgorger Weird
 1 Storm World
-1 Vance's Blasting Cannons // Spitfire Bastion
-1 Witches' Eye
-{'overall': 8.473469387755102, 'cmc': 2.9696969696969697, 'ramp': '12', 'draw': '18', 'interaction': 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}
+{'overall': 8.473469387755102, 'cmc': 2.9696969696969697, 'ramp': '12', 'draw': '18', 'interaction': 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}: 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}

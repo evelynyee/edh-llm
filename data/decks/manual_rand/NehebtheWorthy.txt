@@ -62,8 +62,4 @@
 1 Unquenchable Fury
 1 Tomb Blade
 1 Themberchaud
-1 Worldfire
-1 Tremble
-1 Utvara Scalper
-1 Toxin Sliver
-{'overall': 3.757575757575758, 'cmc': 3.9402985074626864, 'ramp': '3', 'draw': '6', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}
+{'overall': 3.757575757575758, 'cmc': 3.9402985074626864, 'ramp': '3', 'draw': '6', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}

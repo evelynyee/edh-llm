@@ -62,8 +62,4 @@
 1 Valorous Charge
 1 Twinblade Paladin
 1 Vulpine Goliath
-1 Umezawa's Jitte
-1 The Wandering Emperor
-1 Teeka's Dragon
-1 War Dance
-{'overall': 1.5464912280701755, 'cmc': 3.3529411764705883, 'ramp': '0', 'draw': '3', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'KathrilAspectWarper.txt'}
+{'overall': 1.5464912280701755, 'cmc': 3.3529411764705883, 'ramp': '0', 'draw': '3', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'KathrilAspectWarper.txt'}ction': 4, 'folder': 'manual_rand', 'commander': 'KathrilAspectWarper.txt'}

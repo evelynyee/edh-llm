@@ -62,8 +62,4 @@
 1 Walking Dream
 1 Waterlogged Hulk // Watertight Gondola
 1 Wind Spirit
-1 Triumph of Gerrard
-1 Valorous Charge
-1 Vizier of Remedies
-1 Tidal Force
-{'overall': 3.5362068965517244, 'cmc': 3.411764705882353, 'ramp': '2', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TheFifthDoctor.txt'}
+{'overall': 3.5362068965517244, 'cmc': 3.411764705882353, 'ramp': '2', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TheFifthDoctor.txt'} 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TheFifthDoctor.txt'}

@@ -62,8 +62,4 @@
 1 Warchanter of Mogis
 1 Undo
 1 Veiled Sentry
-1 Whirlwind Adept
-1 Unliving Psychopath
-1 Volo, Itinerant Scholar
-1 Visage of Dread // Dread Osseosaur
-{'overall': 3.981196581196581, 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}
+{'overall': 3.981196581196581, 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}amp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}

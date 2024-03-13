@@ -62,8 +62,4 @@
 1 Sword of the Ages
 1 Thorn Elemental
 1 Waxing Moon
-1 Treasure Keeper
-1 Woodborn Behemoth
-1 Squee's Toy
-1 You Look Upon the Tarrasque
-{'overall': 3.6429203539823005, 'cmc': 3.373134328358209, 'ramp': '4', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}
+{'overall': 3.6429203539823005, 'cmc': 3.373134328358209, 'ramp': '4', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}

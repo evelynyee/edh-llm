@@ -62,8 +62,4 @@
 1 Transcendent Message
 1 Vodalian Serpent
 1 Mind Stone
-1 Temporal Cascade
-1 Wheel and Deal
-1 Submerge
-1 Tangle Golem
-{'overall': 5.850607287449392, 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}
+{'overall': 5.850607287449392, 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}lder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}

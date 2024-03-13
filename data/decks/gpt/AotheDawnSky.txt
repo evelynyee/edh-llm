@@ -62,7 +62,4 @@
 1 Timesifter
 1 Workhorse
 1 Soul-Strike Technique
-1 Tablet of the Guilds
-1 Venerated Loxodon
-1 Tower of Fortunes
-{'overall': 9.132075471698114, 'cmc': 3.1641791044776117, 'ramp': '15', 'draw': '17', 'interaction': 10, 'folder': 'gpt', 'commander': 'AotheDawnSky.txt'}
+{'overall': 9.132075471698114, 'cmc': 3.1641791044776117, 'ramp': '15', 'draw': '17', 'interaction': 10, 'folder': 'gpt', 'commander': 'AotheDawnSky.txt'}nteraction': 10, 'folder': 'gpt', 'commander': 'AotheDawnSky.txt'}

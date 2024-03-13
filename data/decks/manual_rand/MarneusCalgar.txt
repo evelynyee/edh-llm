@@ -62,8 +62,4 @@
 1 Counterspell
 1 Undercover Operative
 1 Willbreaker
-1 Toxrill, the Corrosive
-1 Thunder Totem
-1 Treasure Vault
-1 Tezzeret, Artifice Master
-{'overall': 5.000607287449393, 'cmc': 3.6323529411764706, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}
+{'overall': 5.000607287449393, 'cmc': 3.6323529411764706, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}

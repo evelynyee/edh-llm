@@ -62,8 +62,4 @@
 1 Well of Life
 1 Urborg Skeleton
 1 Wreck Hunter
-1 Villagers of Estwald // Howlpack of Estwald
-1 Vodalian Hexcatcher
-1 Zephyr Singer
-1 The Watcher in the Water
-{'overall': 4.360194174757281, 'cmc': 3.0294117647058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}
+{'overall': 4.360194174757281, 'cmc': 3.0294117647058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}

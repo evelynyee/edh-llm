@@ -62,6 +62,4 @@
 1 Zhalfirin Void
 1 Unstable Frontier
 1 Urza's Chalice
-1 The Chain Veil
-1 The Immortal Sun
-{'overall': 7.021311475409836, 'cmc': 2.772727272727273, 'ramp': '14', 'draw': '10', 'interaction': 6, 'folder': 'gpt', 'commander': 'EmrakulthePromisedEnd.txt'}
+{'overall': 7.021311475409836, 'cmc': 2.772727272727273, 'ramp': '14', 'draw': '10', 'interaction': 6, 'folder': 'gpt', 'commander': 'EmrakulthePromisedEnd.txt'}mmander': 'EmrakulthePromisedEnd.txt'}

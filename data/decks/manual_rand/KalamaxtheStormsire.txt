@@ -62,8 +62,4 @@
 1 Volo, Guide to Monsters
 1 Weaver of Lies
 1 Urza's Filter
-1 Storm King's Thunder
-1 Vesuvan Drifter
-1 Wild Onslaught
-1 The Sixth Doctor
-{'overall': 5.55936329588015, 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}
+{'overall': 5.55936329588015, 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}

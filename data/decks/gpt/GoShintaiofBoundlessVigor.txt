@@ -61,4 +61,4 @@
 1 Wooded Foothills
 1 Thriving Rhino
 1 Turntimber Sower
-{'overall': 5.170135746606334, 'cmc': 3.507936507936508, 'ramp': '11', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'GoShintaiofBoundlessVigor.txt'}
+{'overall': 5.170135746606334, 'cmc': 3.507936507936508, 'ramp': '11', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'GoShintaiofBoundlessVigor.txt'}{'overall': 5.170135746606334, 'cmc': 3.507936507936508, 'ramp': '11', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'GoShintaiofBoundlessVigor.txt'}

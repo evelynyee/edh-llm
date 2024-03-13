@@ -62,8 +62,4 @@
 1 Weeping Angel
 1 Tendrils of Agony
 1 Worldslayer
-1 Tower of Murmurs
-1 Surging Aether
-1 Wizards of Thay
-1 Torment of Venom
-{'overall': 5.827131782945736, 'cmc': 3.7941176470588234, 'ramp': '2', 'draw': '18', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}
+{'overall': 5.827131782945736, 'cmc': 3.7941176470588234, 'ramp': '2', 'draw': '18', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}action': 6, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}

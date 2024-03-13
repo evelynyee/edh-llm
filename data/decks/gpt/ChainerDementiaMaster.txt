@@ -61,4 +61,4 @@
 1 Sword of the Animist
 1 Victimize
 1 Verdant Catacombs
-{'overall': 4.066666666666666, 'cmc': 3.0, 'ramp': '4', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'ChainerDementiaMaster.txt'}
+{'overall': 4.066666666666666, 'cmc': 3.0, 'ramp': '4', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'ChainerDementiaMaster.txt'}{'overall': 4.066666666666666, 'cmc': 3.0, 'ramp': '4', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'ChainerDementiaMaster.txt'}

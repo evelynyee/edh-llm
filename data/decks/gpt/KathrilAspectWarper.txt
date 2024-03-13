@@ -62,5 +62,4 @@
 1 Teething Wurmlet
 1 Vrestin, Menoptra Leader
 1 Yavimaya Ancients
-1 Timbermaw Larva
-{'overall': 3.1310679611650487, 'cmc': 3.169230769230769, 'ramp': '6', 'draw': '3', 'interaction': 5, 'folder': 'gpt', 'commander': 'KathrilAspectWarper.txt'}
+{'overall': 3.1310679611650487, 'cmc': 3.169230769230769, 'ramp': '6', 'draw': '3', 'interaction': 5, 'folder': 'gpt', 'commander': 'KathrilAspectWarper.txt'}lAspectWarper.txt'}

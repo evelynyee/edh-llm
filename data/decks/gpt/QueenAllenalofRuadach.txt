@@ -62,6 +62,4 @@
 1 Toymaker
 1 Vivien on the Hunt
 1 Vital Splicer
-1 Trophy Hunter
-1 Thalia's Geistcaller
-{'overall': 5.4117021276595745, 'cmc': 3.5606060606060606, 'ramp': '8', 'draw': '9', 'interaction': 12, 'folder': 'gpt', 'commander': 'QueenAllenalofRuadach.txt'}
+{'overall': 5.4117021276595745, 'cmc': 3.5606060606060606, 'ramp': '8', 'draw': '9', 'interaction': 12, 'folder': 'gpt', 'commander': 'QueenAllenalofRuadach.txt'}'commander': 'QueenAllenalofRuadach.txt'}

@@ -62,8 +62,4 @@
 1 Staff of Domination
 1 Threefold Signal
 1 Verdant Catacombs
-1 Screaming Shield
-1 Reflecting Mirror
-1 Wine of Blood and Iron
-1 Thopter Assembly
-{'overall': 3.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '2', 'draw': '10', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}
+{'overall': 3.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '2', 'draw': '10', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}

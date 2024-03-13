@@ -62,8 +62,4 @@
 1 Subtlety
 1 Time Reversal
 1 Watchers of the Dead
-1 Stand Firm
-1 The Caves of Androzani
-1 Transmute Artifact
-1 Unsummon
-{'overall': 9.741304347826087, 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}
+{'overall': 9.741304347826087, 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}raction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}

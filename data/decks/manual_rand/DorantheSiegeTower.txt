@@ -62,8 +62,4 @@
 1 Wings of Hubris
 1 Vampiric Touch
 1 Trailblazer's Torch
-1 Unyaro Bee Sting
-1 Wing Storm
-1 Triumphant Surge
-1 Volunteer Reserves
-{'overall': 2.2455555555555553, 'cmc': 3.3582089552238807, 'ramp': '2', 'draw': '2', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'DorantheSiegeTower.txt'}
+{'overall': 2.2455555555555553, 'cmc': 3.3582089552238807, 'ramp': '2', 'draw': '2', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'DorantheSiegeTower.txt'}action': 13, 'folder': 'manual_rand', 'commander': 'DorantheSiegeTower.txt'}

@@ -62,8 +62,4 @@
 1 Tremor
 1 Warmonger
 1 Vigilante Justice
-1 Too Greedily, Too Deep
-1 Word of Blasting
-1 Westgate Regent
-1 Windreader Sphinx
-{'overall': 3.6714285714285713, 'cmc': 3.5, 'ramp': '1', 'draw': '6', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'GarzaZolPlagueQueen.txt'}
+{'overall': 3.6714285714285713, 'cmc': 3.5, 'ramp': '1', 'draw': '6', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'GarzaZolPlagueQueen.txt'}', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'GarzaZolPlagueQueen.txt'}

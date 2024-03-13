@@ -62,8 +62,4 @@
 1 Wondrous Crucible
 1 Wind-Kin Raiders
 1 Soulcipher Board // Cipherbound Spirit
-1 Wand of Denial
-1 Thran Foundry
-1 Throne of Makindi
-1 The Underworld Cookbook
-{'overall': 6.016666666666667, 'cmc': 3, 'ramp': '6', 'draw': '14', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}
+{'overall': 6.016666666666667, 'cmc': 3, 'ramp': '6', 'draw': '14', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}

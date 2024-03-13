@@ -61,4 +61,4 @@
 1 Wildgrowth Walker
 1 Twisted Embrace
 1 Wild Instincts
-{'overall': 4.790772532188841, 'cmc': 3.6984126984126986, 'ramp': '6', 'draw': '9', 'interaction': 10, 'folder': 'gpt', 'commander': 'ColfenortheLastYew.txt'}
+{'overall': 4.790772532188841, 'cmc': 3.6984126984126986, 'ramp': '6', 'draw': '9', 'interaction': 10, 'folder': 'gpt', 'commander': 'ColfenortheLastYew.txt'}{'overall': 4.790772532188841, 'cmc': 3.6984126984126986, 'ramp': '6', 'draw': '9', 'interaction': 10, 'folder': 'gpt', 'commander': 'ColfenortheLastYew.txt'}

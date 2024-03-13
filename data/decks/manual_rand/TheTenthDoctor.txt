@@ -62,8 +62,4 @@
 1 Zurgo Bellstriker
 1 Vance's Blasting Cannons // Spitfire Bastion
 1 Wicked Slumber
-1 Ulamog, the Infinite Gyre
-1 Vexing Scuttler
-1 Turn // Burn
-1 Zaffai, Thunder Conductor
-{'overall': 7.9862068965517246, 'cmc': 3.411764705882353, 'ramp': '4', 'draw': '23', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'TheTenthDoctor.txt'}
+{'overall': 7.9862068965517246, 'cmc': 3.411764705882353, 'ramp': '4', 'draw': '23', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'TheTenthDoctor.txt'} 'draw': '23', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'TheTenthDoctor.txt'}

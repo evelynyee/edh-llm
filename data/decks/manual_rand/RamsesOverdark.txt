@@ -62,8 +62,4 @@
 1 Vedalken Plotter
 1 Typhoid Rats
 1 Stasis Cell
-1 Vito, Thorn of the Dusk Rose
-1 Toymaker
-1 Takklemaggot
-1 Touch of Moonglove
-{'overall': 3.350485436893204, 'cmc': 3.074626865671642, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}
+{'overall': 3.350485436893204, 'cmc': 3.074626865671642, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}'6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}

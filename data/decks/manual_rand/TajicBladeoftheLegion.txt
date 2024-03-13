@@ -62,8 +62,4 @@
 1 Wall of Hope
 1 Swift Kick
 1 Yuan Shao, the Indecisive
-1 Wishmonger
-1 Windseeker Centaur
-1 Thraben Watcher
-1 Themberchaud
-{'overall': 1.659865470852018, 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TajicBladeoftheLegion.txt'}
+{'overall': 1.659865470852018, 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TajicBladeoftheLegion.txt'}: 6, 'folder': 'manual_rand', 'commander': 'TajicBladeoftheLegion.txt'}

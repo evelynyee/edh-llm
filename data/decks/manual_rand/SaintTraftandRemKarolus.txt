@@ -62,8 +62,4 @@
 1 Zeriam, Golden Wind
 1 Tetravus
 1 Thousand-Faced Shadow
-1 Séance
-1 Vanguard Suppressor
-1 Warcry Phoenix
-1 Vesuvan Doppelganger
-{'overall': 5.172649572649572, 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}
+{'overall': 5.172649572649572, 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}on': 7, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}

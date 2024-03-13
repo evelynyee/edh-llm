@@ -62,8 +62,4 @@
 1 Worldspine Wurm
 1 Warbriar Blessing
 1 Undiscovered Paradise
-1 Wolfkin Outcast // Wedding Crasher
-1 Throne of Empires
-1 Toil to Renown
-1 Touch of Vitae
-{'overall': 5.763414634146341, 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}
+{'overall': 5.763414634146341, 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}w': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}

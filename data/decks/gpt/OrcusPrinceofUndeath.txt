@@ -61,4 +61,4 @@
 1 Witch's Oven
 1 Vindictive Lich
 1 Tymaret Calls the Dead
-{'overall': 4.227196652719665, 'cmc': 3.7936507936507935, 'ramp': '1', 'draw': '11', 'interaction': 14, 'folder': 'gpt', 'commander': 'OrcusPrinceofUndeath.txt'}
+{'overall': 4.227196652719665, 'cmc': 3.7936507936507935, 'ramp': '1', 'draw': '11', 'interaction': 14, 'folder': 'gpt', 'commander': 'OrcusPrinceofUndeath.txt'}{'overall': 4.227196652719665, 'cmc': 3.7936507936507935, 'ramp': '1', 'draw': '11', 'interaction': 14, 'folder': 'gpt', 'commander': 'OrcusPrinceofUndeath.txt'}

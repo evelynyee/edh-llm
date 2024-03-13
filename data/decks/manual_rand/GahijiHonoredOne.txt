@@ -62,8 +62,4 @@
 1 _____ _____ Rocketship
 1 Taranika, Akroan Veteran
 1 Zendikar Farguide
-1 Trumpet Blast
-1 Vildin-Pack Outcast // Dronepack Kindred
-1 Vertigo
-1 Walking Bulwark
-{'overall': 1.6336909871244636, 'cmc': 3.426470588235294, 'ramp': '1', 'draw': '1', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}
+{'overall': 1.6336909871244636, 'cmc': 3.426470588235294, 'ramp': '1', 'draw': '1', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}raw': '1', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}

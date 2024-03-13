@@ -62,7 +62,4 @@
 1 Vulturous Aven
 1 Tourach's Canticle
 1 Vance's Blasting Cannons // Spitfire Bastion
-1 Wayward Guide-Beast
-1 Wild Celebrants
-1 Whirling Catapult
-{'overall': 5.730086580086581, 'cmc': 3.4477611940298507, 'ramp': '7', 'draw': '12', 'interaction': 8, 'folder': 'gpt', 'commander': 'KethekCrucibleGoliath.txt'}
+{'overall': 5.730086580086581, 'cmc': 3.4477611940298507, 'ramp': '7', 'draw': '12', 'interaction': 8, 'folder': 'gpt', 'commander': 'KethekCrucibleGoliath.txt'}: 8, 'folder': 'gpt', 'commander': 'KethekCrucibleGoliath.txt'}

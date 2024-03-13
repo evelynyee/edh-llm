@@ -62,8 +62,4 @@
 1 Vulshok Morningstar
 1 Syndic of Tithes
 1 Ugin, the Spirit Dragon
-1 Spawnsire of Ulamog
-1 Surestrike Trident
-1 Ultramarines Honour Guard
-1 Teyo, Geometric Tactician
-{'overall': 4.262612612612613, 'cmc': 3.264705882352941, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}
+{'overall': 4.262612612612613, 'cmc': 3.264705882352941, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}

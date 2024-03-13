@@ -62,8 +62,4 @@
 1 Temporal Aperture
 1 Voidwalk
 1 Windswept Heath
-1 Trophy Mage
-1 Wand of Denial
-1 You Find the Villains' Lair
-1 Vedalken Entrancer
-{'overall': 10.821004566210044, 'cmc': 3.2205882352941178, 'ramp': '9', 'draw': '31', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}
+{'overall': 10.821004566210044, 'cmc': 3.2205882352941178, 'ramp': '9', 'draw': '31', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}1', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}

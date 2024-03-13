@@ -62,8 +62,4 @@
 1 Wren's Run Vanquisher
 1 The Ruinous Powers
 1 Varolz, the Scar-Striped
-1 Wheel of Sun and Moon
-1 Zulaport Duelist
-1 Zombie Brute
-1 Visions of Duplicity
-{'overall': 8.664315352697095, 'cmc': 3.5441176470588234, 'ramp': '12', 'draw': '19', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'OmnathLocusofAll.txt'}
+{'overall': 8.664315352697095, 'cmc': 3.5441176470588234, 'ramp': '12', 'draw': '19', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'OmnathLocusofAll.txt'}'19', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'OmnathLocusofAll.txt'}

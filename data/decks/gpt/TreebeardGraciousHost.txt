@@ -62,6 +62,4 @@
 1 Vitality Charm
 1 Tranquil Frillback
 1 Thraben Inspector
-1 Triumph of Gerrard
-1 Sweet-Gum Recluse
-{'overall': 6.592537313432835, 'cmc': 4.0606060606060606, 'ramp': '10', 'draw': '13', 'interaction': 7, 'folder': 'gpt', 'commander': 'TreebeardGraciousHost.txt'}
+{'overall': 6.592537313432835, 'cmc': 4.0606060606060606, 'ramp': '10', 'draw': '13', 'interaction': 7, 'folder': 'gpt', 'commander': 'TreebeardGraciousHost.txt'}, 'commander': 'TreebeardGraciousHost.txt'}
