@@ -62,3 +62,4 @@
 1 Marble Diamond
 1 Myriad Landscape
 {'overall': '7', 'cmc': 2.888888888888889, 'ramp': '12', 'draw': '9', 'interaction': 10}
+{'commander_synergy': -10.126742341206802, 'card_synergy': -12.753513215500035}

@@ -62,3 +62,4 @@
 1 Vandalblast
 1 Foreboding Ruins
 {'overall': '5', 'cmc': 2.5873015873015874, 'ramp': '8', 'draw': '7', 'interaction': 8}
+{'commander_synergy': -5.133943325657214, 'card_synergy': -11.221613598087567}

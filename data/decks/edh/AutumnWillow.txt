@@ -62,3 +62,4 @@
 1 Fertile Ground
 1 Nessian Wanderer
 {'overall': '7', 'cmc': 2.746031746031746, 'ramp': '14', 'draw': '17', 'interaction': 6}
+{'commander_synergy': -8.449259285380021, 'card_synergy': -13.648600257991808}

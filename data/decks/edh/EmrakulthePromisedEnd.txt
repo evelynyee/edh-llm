@@ -62,3 +62,4 @@
 1 Ugin's Nexus
 1 Spawning Bed
 {'overall': '6', 'cmc': 4.476190476190476, 'ramp': '16', 'draw': '14', 'interaction': 15}
+{'commander_synergy': -5.1980698061403166, 'card_synergy': -7.821818343906615}

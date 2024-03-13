@@ -62,3 +62,4 @@
 1 Champion of Lambholt
 1 Avacyn's Pilgrim
 {'overall': '7', 'cmc': 2.5238095238095237, 'ramp': '9', 'draw': '5', 'interaction': 5}
+{'commander_synergy': -4.6821871625888045, 'card_synergy': -12.337326256975938}

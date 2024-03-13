@@ -62,3 +62,4 @@
 1 War Room
 1 Cursed Mirror
 {'overall': '7', 'cmc': 2.7142857142857144, 'ramp': '16', 'draw': '33', 'interaction': 9}
+{'commander_synergy': -6.514620189860186, 'card_synergy': -13.662351698808457}

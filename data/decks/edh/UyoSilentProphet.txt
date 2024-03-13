@@ -62,3 +62,4 @@
 1 Twincast
 1 Opt
 {'overall': '8', 'cmc': 3.0634920634920637, 'ramp': '16', 'draw': '16', 'interaction': 8}
+{'commander_synergy': -7.897188943960724, 'card_synergy': -13.432188090877176}

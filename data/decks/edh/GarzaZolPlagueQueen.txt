@@ -62,3 +62,4 @@
 1 Dimir Aqueduct
 1 Bloodline Keeper
 {'overall': '7', 'cmc': 1.7142857142857142, 'ramp': '9', 'draw': '5', 'interaction': 7}
+{'commander_synergy': -9.831031747831936, 'card_synergy': -11.661000040012173}

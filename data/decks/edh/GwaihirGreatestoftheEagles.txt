@@ -62,3 +62,4 @@
 1 Emeria, the Sky Ruin
 1 Ambitious Farmhand
 {'overall': '7', 'cmc': 2.9523809523809526, 'ramp': '7', 'draw': '12', 'interaction': 7}
+{'commander_synergy': -7.970270695344546, 'card_synergy': -13.572033716037321}

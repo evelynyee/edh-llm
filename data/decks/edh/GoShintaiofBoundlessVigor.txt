@@ -62,3 +62,4 @@
 1 Utopia Sprawl
 1 Tranquil Thicket
 {'overall': '8', 'cmc': 2.492063492063492, 'ramp': '16', 'draw': '15', 'interaction': 7}
+{'commander_synergy': -9.886191565186808, 'card_synergy': -14.83838010351679}

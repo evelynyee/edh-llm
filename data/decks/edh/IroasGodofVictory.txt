@@ -62,3 +62,4 @@
 1 Flawless Maneuver
 1 Arid Mesa
 {'overall': '7', 'cmc': 2.5555555555555554, 'ramp': '7', 'draw': '3', 'interaction': 10}
+{'commander_synergy': -6.095508998112829, 'card_synergy': -12.702139547367683}

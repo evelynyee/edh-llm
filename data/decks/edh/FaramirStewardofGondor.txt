@@ -62,3 +62,4 @@
 1 Unbreakable Formation
 1 Arcane Denial
 {'overall': '7', 'cmc': 2.4761904761904763, 'ramp': '6', 'draw': '11', 'interaction': 9}
+{'commander_synergy': -7.395314317426735, 'card_synergy': -12.6941555144512}

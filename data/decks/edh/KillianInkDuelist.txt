@@ -62,3 +62,4 @@
 1 Minion's Return
 1 Read the Bones
 {'overall': '6', 'cmc': 2.2063492063492065, 'ramp': '4', 'draw': '16', 'interaction': 9}
+{'commander_synergy': -4.374509209504316, 'card_synergy': -11.081112771338713}

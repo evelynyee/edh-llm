@@ -62,3 +62,4 @@
 1 Nine Lives
 1 Pendant of Prosperity
 {'overall': '7', 'cmc': 2.4126984126984126, 'ramp': '8', 'draw': '13', 'interaction': 7}
+{'commander_synergy': -4.74157454448261, 'card_synergy': -11.960144042747313}

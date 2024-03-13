@@ -62,3 +62,4 @@
 1 Council's Deliberation
 1 Rishkar, Peema Renegade
 {'overall': '7', 'cmc': 2.2063492063492065, 'ramp': '11', 'draw': '16', 'interaction': 2}
+{'commander_synergy': -4.82817594770667, 'card_synergy': -10.637046287241782}

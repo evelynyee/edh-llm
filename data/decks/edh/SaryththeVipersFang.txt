@@ -62,3 +62,4 @@
 1 Nature's Lore
 1 The Great Henge
 {'overall': '7', 'cmc': 3.142857142857143, 'ramp': '17', 'draw': '16', 'interaction': 8}
+{'commander_synergy': -7.715287160322732, 'card_synergy': -12.052874691502028}

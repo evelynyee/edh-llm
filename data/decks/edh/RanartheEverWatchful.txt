@@ -62,3 +62,4 @@
 1 Sea Gate Oracle
 1 Sky Diamond
 {'overall': '6', 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '14', 'interaction': 9}
+{'commander_synergy': -3.746971537507405, 'card_synergy': -11.20678905140067}

@@ -62,3 +62,4 @@
 1 Elesh Norn, Grand Cenobite
 1 Wayfarer's Bauble
 {'overall': '6', 'cmc': 2.5396825396825395, 'ramp': '12', 'draw': '5', 'interaction': 9}
+{'commander_synergy': -6.503142604507969, 'card_synergy': -12.99265191738165}

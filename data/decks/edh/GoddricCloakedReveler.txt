@@ -62,3 +62,4 @@
 1 Curse of Opulence
 1 Pain Distributor
 {'overall': '6', 'cmc': 3.0952380952380953, 'ramp': '29', 'draw': '11', 'interaction': 10}
+{'commander_synergy': -8.68075909593176, 'card_synergy': -13.133244207137627}

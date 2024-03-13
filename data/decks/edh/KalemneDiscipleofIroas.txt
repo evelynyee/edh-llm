@@ -62,3 +62,4 @@
 1 Wear // Tear
 1 Boros Cluestone
 {'overall': '5', 'cmc': 3.2063492063492065, 'ramp': '10', 'draw': '5', 'interaction': 9}
+{'commander_synergy': -5.648709644303509, 'card_synergy': -12.071388107480024}

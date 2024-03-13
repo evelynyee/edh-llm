@@ -62,3 +62,4 @@
 1 Marble Diamond
 1 Thraben Watcher
 {'overall': '7', 'cmc': 3.3968253968253967, 'ramp': '10', 'draw': '10', 'interaction': 6}
+{'commander_synergy': -5.536666622394174, 'card_synergy': -9.880941399432789}

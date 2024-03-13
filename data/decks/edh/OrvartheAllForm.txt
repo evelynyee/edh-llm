@@ -62,3 +62,4 @@
 1 Mizzium Skin
 1 Twitch
 {'overall': '6', 'cmc': 2.365079365079365, 'ramp': '14', 'draw': '25', 'interaction': 6}
+{'commander_synergy': -3.1666825510061147, 'card_synergy': -11.564348285008457}

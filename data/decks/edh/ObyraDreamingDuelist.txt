@@ -62,3 +62,4 @@
 1 Puppeteer Clique
 1 Reconnaissance Mission
 {'overall': '7', 'cmc': 2.8253968253968256, 'ramp': '5', 'draw': '15', 'interaction': 7}
+{'commander_synergy': -5.226981690371027, 'card_synergy': -8.690518311482736}

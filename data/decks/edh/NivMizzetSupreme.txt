@@ -62,3 +62,4 @@
 1 Temple Garden
 1 Deflecting Palm
 {'overall': '7', 'cmc': 2.5873015873015874, 'ramp': '11', 'draw': '20', 'interaction': 16}
+{'commander_synergy': -5.484195466590235, 'card_synergy': -11.70527117160081}

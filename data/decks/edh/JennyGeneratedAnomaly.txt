@@ -62,3 +62,4 @@
 1 Lotus Field
 1 Nesting Dragon
 {'overall': '8', 'cmc': 2.2222222222222223, 'ramp': '14', 'draw': '15', 'interaction': 7}
+{'commander_synergy': -9.22177585789127, 'card_synergy': -13.942744597271304}

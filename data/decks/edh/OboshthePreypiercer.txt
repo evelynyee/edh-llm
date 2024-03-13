@@ -62,3 +62,4 @@
 1 Neheb, the Eternal
 1 Terminate
 {'overall': '6', 'cmc': 2.761904761904762, 'ramp': '13', 'draw': '10', 'interaction': 13}
+{'commander_synergy': -5.6343992694669485, 'card_synergy': -11.753809755926723}

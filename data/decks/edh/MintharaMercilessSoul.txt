@@ -62,3 +62,4 @@
 1 Marsh Flats
 1 Callous Bloodmage
 {'overall': '8', 'cmc': 1.8253968253968254, 'ramp': '11', 'draw': '11', 'interaction': 8}
+{'commander_synergy': -5.793120952232034, 'card_synergy': -12.97814742201049}

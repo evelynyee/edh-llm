@@ -62,3 +62,4 @@
 1 Liquimetal Torque
 1 Wand of Wonder
 {'overall': '7', 'cmc': 3.0634920634920637, 'ramp': '22', 'draw': '9', 'interaction': 14}
+{'commander_synergy': -6.498412849281647, 'card_synergy': -12.110980502180661}

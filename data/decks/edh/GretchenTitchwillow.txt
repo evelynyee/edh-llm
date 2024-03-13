@@ -62,3 +62,4 @@
 1 Temple of the False God
 1 Sakura-Tribe Elder
 {'overall': '7', 'cmc': 1.9206349206349207, 'ramp': '25', 'draw': '10', 'interaction': 8}
+{'commander_synergy': -7.847421553675026, 'card_synergy': -9.513564447568013}

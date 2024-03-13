@@ -62,3 +62,4 @@
 1 Launch the Fleet
 1 Rhystic Study
 {'overall': '9', 'cmc': 2.126984126984127, 'ramp': '10', 'draw': '13', 'interaction': 11}
+{'commander_synergy': -4.072633805486117, 'card_synergy': -10.544385646535945}

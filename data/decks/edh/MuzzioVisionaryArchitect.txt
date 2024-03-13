@@ -62,3 +62,4 @@
 1 Kuldotha Forgemaster
 1 Thousand-Year Elixir
 {'overall': '6', 'cmc': 4.142857142857143, 'ramp': '9', 'draw': '11', 'interaction': 6}
+{'commander_synergy': -6.654720479023623, 'card_synergy': -12.032160295289447}

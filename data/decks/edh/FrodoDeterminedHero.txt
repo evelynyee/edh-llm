@@ -62,3 +62,4 @@
 1 Bitterthorn, Nissa's Animus
 1 Sun Titan
 {'overall': '7', 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '10', 'interaction': 7}
+{'commander_synergy': -7.142034123541126, 'card_synergy': -10.265803801832146}

@@ -62,3 +62,4 @@
 1 Loyal Warhound
 1 Thalia's Lancers
 {'overall': '8', 'cmc': 3.2857142857142856, 'ramp': '12', 'draw': '15', 'interaction': 16}
+{'commander_synergy': -6.238982488663281, 'card_synergy': -13.50959922764617}

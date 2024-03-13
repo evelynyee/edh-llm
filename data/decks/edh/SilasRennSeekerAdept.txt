@@ -62,3 +62,4 @@
 1 Lightning Greaves
 1 Polluted Delta
 {'overall': '9', 'cmc': 2.5238095238095237, 'ramp': '8', 'draw': '15', 'interaction': 6}
+{'commander_synergy': -9.399164896454817, 'card_synergy': -9.804972746979566}

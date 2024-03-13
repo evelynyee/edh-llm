@@ -62,3 +62,4 @@
 1 Old Gnawbone
 1 Luxury Suite
 {'overall': '7', 'cmc': 2.8253968253968256, 'ramp': '17', 'draw': '7', 'interaction': 7}
+{'commander_synergy': -4.669683778353526, 'card_synergy': -9.848507932900873}

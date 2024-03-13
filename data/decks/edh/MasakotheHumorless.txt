@@ -62,3 +62,4 @@
 1 Solemn Simulacrum
 1 Devouring Light
 {'overall': '7', 'cmc': 2.9682539682539684, 'ramp': '12', 'draw': '10', 'interaction': 12}
+{'commander_synergy': -8.024701706772918, 'card_synergy': -14.064718119056144}

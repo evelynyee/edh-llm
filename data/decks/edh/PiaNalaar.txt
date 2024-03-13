@@ -62,3 +62,4 @@
 1 Steel Hellkite
 1 Goblin Welder
 {'overall': '8', 'cmc': 2.9206349206349205, 'ramp': '12', 'draw': '14', 'interaction': 10}
+{'commander_synergy': -9.22661308485506, 'card_synergy': -12.950718676489755}

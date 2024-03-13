@@ -62,3 +62,4 @@
 1 Staff of Titania
 1 Elvish Mystic
 {'overall': '7', 'cmc': 3.3174603174603177, 'ramp': '34', 'draw': '9', 'interaction': 1}
+{'commander_synergy': -8.977241336044951, 'card_synergy': -11.569203767576047}

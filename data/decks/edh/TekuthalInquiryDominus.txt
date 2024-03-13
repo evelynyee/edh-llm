@@ -62,3 +62,4 @@
 1 Rapid Hybridization
 1 Nykthos, Shrine to Nyx
 {'overall': '7', 'cmc': 2.9206349206349205, 'ramp': '14', 'draw': '21', 'interaction': 11}
+{'commander_synergy': -4.743571157236347, 'card_synergy': -10.829284653135955}

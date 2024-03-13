@@ -62,3 +62,4 @@
 1 Rugged Prairie
 1 Flawless Maneuver
 {'overall': '5', 'cmc': 3.507936507936508, 'ramp': '10', 'draw': '4', 'interaction': 10}
+{'commander_synergy': -6.342038360011836, 'card_synergy': -13.759908989665806}

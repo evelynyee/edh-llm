@@ -62,3 +62,4 @@
 1 Birds of Paradise
 1 Swan Song
 {'overall': '7', 'cmc': 3.3968253968253967, 'ramp': '22', 'draw': '13', 'interaction': 6}
+{'commander_synergy': -7.281764599391207, 'card_synergy': -12.757397049632516}

@@ -62,3 +62,4 @@
 1 Sea Gate Restoration
 1 Otawara, Soaring City
 {'overall': '7', 'cmc': 2.365079365079365, 'ramp': '8', 'draw': '22', 'interaction': 9}
+{'commander_synergy': -6.0711841369018895, 'card_synergy': -11.887602652770282}

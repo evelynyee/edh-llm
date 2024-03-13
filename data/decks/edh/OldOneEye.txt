@@ -62,3 +62,4 @@
 1 War Room
 1 Selvala, Heart of the Wilds
 {'overall': '7', 'cmc': 3.365079365079365, 'ramp': '21', 'draw': '22', 'interaction': 6}
+{'commander_synergy': -8.15491991568636, 'card_synergy': -12.192693620469218}

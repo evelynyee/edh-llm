@@ -62,3 +62,4 @@
 1 Swan Song
 1 Sigiled Starfish
 {'overall': '6', 'cmc': 1.95, 'ramp': '9', 'draw': '15', 'interaction': 5}
+{'commander_synergy': -4.426019665915721, 'card_synergy': -11.37729538375493}

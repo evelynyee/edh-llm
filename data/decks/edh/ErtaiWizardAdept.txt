@@ -62,3 +62,4 @@
 1 Bane's Contingency
 1 Wavebreak Hippocamp
 {'overall': '7', 'cmc': 2.8253968253968256, 'ramp': '6', 'draw': '21', 'interaction': 25}
+{'commander_synergy': -8.534100816843821, 'card_synergy': -13.239429654920837}

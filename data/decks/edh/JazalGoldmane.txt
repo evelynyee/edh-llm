@@ -62,3 +62,4 @@
 1 Swiftfoot Boots
 1 Intangible Virtue
 {'overall': '7', 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '9', 'interaction': 8}
+{'commander_synergy': -8.335445724984215, 'card_synergy': -12.734113537534945}

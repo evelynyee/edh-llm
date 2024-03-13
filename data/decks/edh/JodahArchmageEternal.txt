@@ -62,3 +62,4 @@
 1 Rhystic Study
 1 Zagoth Triome
 {'overall': '8', 'cmc': 3.4444444444444446, 'ramp': '19', 'draw': '10', 'interaction': 7}
+{'commander_synergy': -5.059354353007528, 'card_synergy': -8.477281619210395}

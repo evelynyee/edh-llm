@@ -62,3 +62,4 @@
 1 Rakdos, Lord of Riots
 1 Bloodfell Caves
 {'overall': '7', 'cmc': 1.9682539682539681, 'ramp': '18', 'draw': '8', 'interaction': 8}
+{'commander_synergy': -8.764592470262455, 'card_synergy': -11.598228156537562}

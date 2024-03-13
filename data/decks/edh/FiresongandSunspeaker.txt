@@ -62,3 +62,4 @@
 1 Aurelia's Fury
 1 Reverberate
 {'overall': '6', 'cmc': 2.9523809523809526, 'ramp': '11', 'draw': '5', 'interaction': 22}
+{'commander_synergy': -4.38272977710447, 'card_synergy': -12.532071638214106}

@@ -62,3 +62,4 @@
 1 Wayfarer's Bauble
 1 Ponder
 {'overall': '6', 'cmc': 1.8412698412698412, 'ramp': '10', 'draw': '15', 'interaction': 10}
+{'commander_synergy': -7.094602713287433, 'card_synergy': -10.716871803116854}

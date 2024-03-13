@@ -62,3 +62,4 @@
 1 Adeline, Resplendent Cathar
 1 Gimli of the Glittering Caves
 {'overall': '7', 'cmc': 2.142857142857143, 'ramp': '6', 'draw': '11', 'interaction': 7}
+{'commander_synergy': -8.256271721149997, 'card_synergy': -11.685602369306954}

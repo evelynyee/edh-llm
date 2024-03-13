@@ -62,3 +62,4 @@
 1 Thought Vessel
 1 Phyrexian Altar
 {'overall': '8', 'cmc': 2.2698412698412698, 'ramp': '14', 'draw': '10', 'interaction': 5}
+{'commander_synergy': -7.758921044794762, 'card_synergy': -10.95705001188584}

@@ -62,3 +62,4 @@
 1 Fae Offering
 1 Of Herbs and Stewed Rabbit
 {'overall': '7', 'cmc': 2.365079365079365, 'ramp': '15', 'draw': '10', 'interaction': 7}
+{'commander_synergy': -9.133793342264141, 'card_synergy': -10.604640456465228}

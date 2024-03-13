@@ -62,3 +62,4 @@
 1 Heroic Intervention
 1 Temur Sabertooth
 {'overall': '6', 'cmc': 2.9047619047619047, 'ramp': '11', 'draw': '10', 'interaction': 4}
+{'commander_synergy': -6.90699897791866, 'card_synergy': -12.533854838292894}

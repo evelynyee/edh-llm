@@ -110,7 +110,7 @@ for f in deckfiles:
         print(deck)
     try:
         mean_commander, mean_co_card = evaluate_deck(deck[0], deck[1:], lists)
-        record = {'commander_synergy':{mean_commander}, 'card_synergy':{mean_co_card}}
+        record = {'commander_synergy':mean_commander, 'card_synergy':mean_co_card}
         print(record)
         with open(os.path.join(deck_path, f), 'a', encoding='utf-8') as file:
             file.write('\n'+str(record)+'\n')

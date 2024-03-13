@@ -62,3 +62,4 @@
 1 Vanquish the Horde
 1 Lotus Petal
 {'overall': '8', 'cmc': 2.3492063492063493, 'ramp': '11', 'draw': '18', 'interaction': 9}
+{'commander_synergy': -9.28362754348074, 'card_synergy': -14.97276429223105}

@@ -62,3 +62,4 @@
 1 Buried Alive
 1 Charcoal Diamond
 {'overall': '6', 'cmc': 2.4444444444444446, 'ramp': '11', 'draw': '8', 'interaction': 9}
+{'commander_synergy': -6.6290087928698656, 'card_synergy': -11.589944486695169}

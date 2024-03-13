@@ -62,3 +62,4 @@
 1 Majestic Myriarch
 1 Overgrown Tomb
 {'overall': '6', 'cmc': 2.888888888888889, 'ramp': '9', 'draw': '9', 'interaction': 5}
+{'commander_synergy': -4.3509013826098455, 'card_synergy': -12.81789324280675}

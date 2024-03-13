@@ -62,3 +62,4 @@
 1 Boseiju, Who Endures
 1 Vorinclex, Voice of Hunger
 {'overall': '6', 'cmc': 4.2063492063492065, 'ramp': '26', 'draw': '16', 'interaction': 4}
+{'commander_synergy': -7.146954803800694, 'card_synergy': -11.18996842727461}

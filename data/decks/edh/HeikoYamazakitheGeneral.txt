@@ -62,3 +62,4 @@
 1 Mycosynth Wellspring
 1 Akki Battle Squad
 {'overall': '7', 'cmc': 2.1904761904761907, 'ramp': '16', 'draw': '21', 'interaction': 6}
+{'commander_synergy': -7.873273481146996, 'card_synergy': -13.610274795735988}

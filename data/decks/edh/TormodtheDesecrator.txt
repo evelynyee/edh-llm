@@ -62,3 +62,4 @@
 1 Gempalm Polluter
 1 Unbreathing Horde
 {'overall': '7', 'cmc': 2.7142857142857144, 'ramp': '6', 'draw': '9', 'interaction': 6}
+{'commander_synergy': -8.286142611313796, 'card_synergy': -11.293655069705197}

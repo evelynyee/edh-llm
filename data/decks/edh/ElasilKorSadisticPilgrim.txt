@@ -62,3 +62,4 @@
 1 Sanguine Bond
 1 The Meathook Massacre
 {'overall': '8', 'cmc': 1.492063492063492, 'ramp': '9', 'draw': '9', 'interaction': 8}
+{'commander_synergy': -5.112555856840044, 'card_synergy': -11.023418076784669}

@@ -62,3 +62,4 @@
 1 Bounty Agent
 1 Sanctifier en-Vec
 {'overall': '9', 'cmc': 1.7777777777777777, 'ramp': '12', 'draw': '10', 'interaction': 8}
+{'commander_synergy': -6.170253444380873, 'card_synergy': -14.414429557940021}

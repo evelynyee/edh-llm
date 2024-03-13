@@ -62,3 +62,4 @@
 1 Baleful Mastery
 1 Diabolic Tutor
 {'overall': '10', 'cmc': 1.9841269841269842, 'ramp': '14', 'draw': '7', 'interaction': 9}
+{'commander_synergy': -7.056259655796818, 'card_synergy': -11.305431768822057}

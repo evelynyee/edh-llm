@@ -62,3 +62,4 @@
 1 Unbreakable Formation
 1 Ezuri's Predation
 {'overall': '8', 'cmc': 2.3015873015873014, 'ramp': '17', 'draw': '12', 'interaction': 10}
+{'commander_synergy': -11.135847606041489, 'card_synergy': -10.758775600107269}

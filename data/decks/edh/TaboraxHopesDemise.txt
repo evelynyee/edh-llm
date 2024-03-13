@@ -62,3 +62,4 @@
 1 Myriad Landscape
 1 Dictate of Erebos
 {'overall': '8', 'cmc': 2.9523809523809526, 'ramp': '8', 'draw': '14', 'interaction': 5}
+{'commander_synergy': -6.430371898017694, 'card_synergy': -12.003562698545876}

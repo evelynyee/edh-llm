@@ -62,3 +62,4 @@
 1 Karn's Bastion
 1 Forerunner of the Heralds
 {'overall': '7', 'cmc': 1.9841269841269842, 'ramp': '7', 'draw': '26', 'interaction': 3}
+{'commander_synergy': -5.571966253779592, 'card_synergy': -9.987143628146258}

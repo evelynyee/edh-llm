@@ -62,3 +62,4 @@
 1 Utter End
 1 Nesting Grounds
 {'overall': '7', 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '7', 'interaction': 16}
+{'commander_synergy': -6.555165474565933, 'card_synergy': -12.363489884711463}

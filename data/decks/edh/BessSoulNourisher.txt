@@ -62,3 +62,4 @@
 1 Selesnya Sanctuary
 1 Rumor Gatherer
 {'overall': '8', 'cmc': 1.9841269841269842, 'ramp': '10', 'draw': '7', 'interaction': 5}
+{'commander_synergy': -5.972770504023361, 'card_synergy': -11.914532831654855}

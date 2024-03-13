@@ -62,3 +62,4 @@
 1 Omenspeaker
 1 Constricting Tendrils
 {'overall': '2', 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '40', 'interaction': 6}
+{'commander_synergy': -8.430558964758008, 'card_synergy': -14.393580905241613}

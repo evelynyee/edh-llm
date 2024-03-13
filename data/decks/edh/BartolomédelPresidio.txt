@@ -62,3 +62,4 @@
 1 Charismatic Conqueror
 1 Esper Sentinel
 {'overall': '9', 'cmc': 1.4444444444444444, 'ramp': '10', 'draw': '10', 'interaction': 5}
+{'commander_synergy': -8.100343199373985, 'card_synergy': -11.340085619955278}

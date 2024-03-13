@@ -62,3 +62,4 @@
 1 Vorinclex, Voice of Hunger
 1 Selvala, Heart of the Wilds
 {'overall': '7', 'cmc': 3.1587301587301586, 'ramp': '14', 'draw': '5', 'interaction': 5}
+{'commander_synergy': -5.577594103222322, 'card_synergy': -11.418603048514033}

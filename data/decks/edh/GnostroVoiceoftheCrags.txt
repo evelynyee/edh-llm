@@ -62,3 +62,4 @@
 1 Spectator Seating
 1 Commander's Sphere
 {'overall': '6', 'cmc': 2.015873015873016, 'ramp': '13', 'draw': '19', 'interaction': 9}
+{'commander_synergy': -7.310024542342222, 'card_synergy': -9.277532949270018}

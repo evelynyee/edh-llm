@@ -62,3 +62,4 @@
 1 Tezzeret's Gambit
 1 Invisible Stalker
 {'overall': '8', 'cmc': 2.0476190476190474, 'ramp': '16', 'draw': '9', 'interaction': 5}
+{'commander_synergy': -4.741960405541594, 'card_synergy': -11.099521052805814}

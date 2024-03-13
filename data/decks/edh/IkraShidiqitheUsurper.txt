@@ -62,3 +62,4 @@
 1 Night's Whisper
 1 Three Visits
 {'overall': '7', 'cmc': 2.4285714285714284, 'ramp': '14', 'draw': '8', 'interaction': 6}
+{'commander_synergy': -10.568473211824168, 'card_synergy': -13.007391470914142}

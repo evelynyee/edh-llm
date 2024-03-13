@@ -62,3 +62,4 @@
 1 Swiftfoot Boots
 1 Glistening Oil
 {'overall': '6', 'cmc': 2.142857142857143, 'ramp': '4', 'draw': '12', 'interaction': 5}
+{'commander_synergy': -3.292322715626275, 'card_synergy': -9.226394604000232}

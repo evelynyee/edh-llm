@@ -62,3 +62,4 @@
 1 Conqueror's Galleon
 1 Path of Ancestry
 {'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '9', 'draw': '10', 'interaction': 7}
+{'commander_synergy': -3.842977331006842, 'card_synergy': -10.002437258302255}

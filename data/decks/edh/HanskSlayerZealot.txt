@@ -62,3 +62,4 @@
 1 Fiery Cannonade
 1 Nature's Claim
 {'overall': '7', 'cmc': 2.5396825396825395, 'ramp': '14', 'draw': '8', 'interaction': 23}
+{'commander_synergy': -6.7521206027624405, 'card_synergy': -13.158765431244554}

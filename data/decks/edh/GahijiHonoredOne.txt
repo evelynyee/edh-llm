@@ -62,3 +62,4 @@
 1 Harmonize
 1 Fumiko the Lowblood
 {'overall': '7', 'cmc': 2.2063492063492065, 'ramp': '12', 'draw': '6', 'interaction': 9}
+{'commander_synergy': -7.594865564998959, 'card_synergy': -10.006029907579677}

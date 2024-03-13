@@ -62,3 +62,4 @@
 1 Helm of the Host
 1 Historian's Boon
 {'overall': '6', 'cmc': 3.5555555555555554, 'ramp': '7', 'draw': '17', 'interaction': 10}
+{'commander_synergy': -10.322441732014257, 'card_synergy': -16.267025643591595}
