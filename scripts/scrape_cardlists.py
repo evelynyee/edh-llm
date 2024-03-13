@@ -14,9 +14,10 @@ from unidecode import unidecode
 DATA_PATH = os.path.abspath(os.path.join('..','data'))
 CARDLISTS_PATH = os.path.join(DATA_PATH,'edhreclists.pkl')
 
-def format_card_name(commander_name:str):
+def format_card_name(card_name:str):
+    first_card = card_name.split(" // ")[0] # If the card is a split card, only use the first card
     non_alphas_regex = "[^\w\s-]" # Remove everything that's not alphanumeric or space or hyphen
-    formatted_name = re.sub(non_alphas_regex, "", commander_name)
+    formatted_name = re.sub(non_alphas_regex, "", first_card)
     formatted_name = formatted_name.lower() # Make lowercase
     formatted_name = formatted_name.replace(" ", "-")  # Replace spaces with hyphens
     formatted_name = re.sub(r"-+", "-", formatted_name) # do not have multiple hyphens
