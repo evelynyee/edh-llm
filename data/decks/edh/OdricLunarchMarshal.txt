@@ -62,4 +62,3 @@
 1 Skeleton Key
 1 Eater of Virtue
 {'overall': '6', 'cmc': 2.8095238095238093, 'ramp': '10', 'draw': '7', 'interaction': 9}
-{'commander_synergy': -5.144480972154011, 'card_synergy': -13.845598533303413}

@@ -62,4 +62,3 @@
 1 Veinwitch Coven
 1 Mind Stone
 {'overall': '6', 'cmc': 2.7936507936507935, 'ramp': '7', 'draw': '11', 'interaction': 12}
-{'commander_synergy': -5.701281617479549, 'card_synergy': -11.881576286602286}

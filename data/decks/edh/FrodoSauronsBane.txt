@@ -62,4 +62,3 @@
 1 Marsh Flats
 1 Bojuka Bog
 {'overall': '7', 'cmc': 1.7936507936507937, 'ramp': '8', 'draw': '11', 'interaction': 10}
-{'commander_synergy': -4.992943111800956, 'card_synergy': -11.19855185879333}

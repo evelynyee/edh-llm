@@ -62,4 +62,3 @@
 1 Butcher of Malakir
 1 Sheoldred, Whispering One
 {'overall': '9', 'cmc': 2.8095238095238093, 'ramp': '17', 'draw': '15', 'interaction': 9}
-{'commander_synergy': -9.393790362123971, 'card_synergy': -10.377210500861654}

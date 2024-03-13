@@ -62,4 +62,3 @@
 1 Circle of Dreams Druid
 1 Concordant Crossroads
 {'overall': '9', 'cmc': 2.1904761904761907, 'ramp': '22', 'draw': '17', 'interaction': 6}
-{'commander_synergy': -6.9381811982847434, 'card_synergy': -12.228062074959324}

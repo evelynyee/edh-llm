@@ -62,4 +62,3 @@
 1 Rampant Growth
 1 Nature's Claim
 {'overall': '7', 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '15', 'interaction': 7}
-{'commander_synergy': -4.466984597919998, 'card_synergy': -10.69596597598216}

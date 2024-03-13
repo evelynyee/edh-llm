@@ -62,4 +62,3 @@
 1 Tranquil Thicket
 1 Wilson, Refined Grizzly
 {'overall': '5', 'cmc': 3.1587301587301586, 'ramp': '10', 'draw': '11', 'interaction': 12}
-{'commander_synergy': -8.43087964842572, 'card_synergy': -13.38781530967487}

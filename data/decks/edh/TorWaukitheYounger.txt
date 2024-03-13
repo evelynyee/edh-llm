@@ -62,4 +62,3 @@
 1 Lightning Greaves
 1 Shivan Gorge
 {'overall': '6', 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '13', 'interaction': 14}
-{'commander_synergy': -5.100201791191801, 'card_synergy': -10.823719069152416}

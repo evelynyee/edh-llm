@@ -62,4 +62,3 @@
 1 Terramorphic Expanse
 1 Valiant Veteran
 {'overall': '7', 'cmc': 2.1904761904761907, 'ramp': '7', 'draw': '3', 'interaction': 8}
-{'commander_synergy': -7.279434845917605, 'card_synergy': -12.59104280138946}

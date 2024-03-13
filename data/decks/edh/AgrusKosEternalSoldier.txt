@@ -62,4 +62,3 @@
 1 Skrelv, Defector Mite
 1 Assemble the Legion
 {'overall': '6', 'cmc': 2.4126984126984126, 'ramp': '10', 'draw': '6', 'interaction': 7}
-{'commander_synergy': -5.703147550579126, 'card_synergy': -14.239462456559092}

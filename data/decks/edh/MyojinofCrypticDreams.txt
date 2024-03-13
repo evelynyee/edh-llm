@@ -62,4 +62,3 @@
 1 Dramatist's Puppet
 1 Myojin of Seeing Winds
 {'overall': '7', 'cmc': 3.0952380952380953, 'ramp': '16', 'draw': '14', 'interaction': 6}
-{'commander_synergy': -7.688173480720214, 'card_synergy': -15.035571473244415}

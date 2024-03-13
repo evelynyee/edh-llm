@@ -62,4 +62,3 @@
 1 Ponder
 1 Commander's Plate
 {'overall': '4', 'cmc': 2.7777777777777777, 'ramp': '9', 'draw': '9', 'interaction': 12}
-{'commander_synergy': -10.604429923129121, 'card_synergy': -14.303010214970577}

@@ -62,4 +62,3 @@
 1 Cathar's Shield
 1 Hobbit's Sting
 {'overall': '5', 'cmc': 2.746031746031746, 'ramp': '8', 'draw': '9', 'interaction': 9}
-{'commander_synergy': -6.215128652829383, 'card_synergy': -14.620943550595177}

@@ -62,4 +62,3 @@
 1 Opportunistic Dragon
 1 Chaos Dragon
 {'overall': '6', 'cmc': 3.857142857142857, 'ramp': '24', 'draw': '10', 'interaction': 16}
-{'commander_synergy': -8.601722752251007, 'card_synergy': -12.042962731132423}

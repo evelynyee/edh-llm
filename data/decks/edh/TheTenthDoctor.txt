@@ -62,4 +62,3 @@
 1 Ulamog, the Infinite Gyre
 1 Aminatou's Augury
 {'overall': '6', 'cmc': 3.0, 'ramp': '11', 'draw': '10', 'interaction': 8}
-{'commander_synergy': -7.6603838821122645, 'card_synergy': -12.004096361100093}

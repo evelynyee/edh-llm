@@ -62,4 +62,3 @@
 1 Castle Garenbrig
 1 Temple of Plenty
 {'overall': '8', 'cmc': 2.0317460317460316, 'ramp': '16', 'draw': '5', 'interaction': 6}
-{'commander_synergy': -7.759071762516098, 'card_synergy': -14.675979815423654}

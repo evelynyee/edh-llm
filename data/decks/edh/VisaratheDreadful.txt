@@ -62,4 +62,3 @@
 1 Caged Sun
 1 No Mercy
 {'overall': '7', 'cmc': 3.0634920634920637, 'ramp': '16', 'draw': '14', 'interaction': 15}
-{'commander_synergy': -9.911979524489517, 'card_synergy': -12.841886721176609}

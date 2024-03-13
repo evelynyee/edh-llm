@@ -62,4 +62,3 @@
 1 Vault of Whispers
 1 Death in Heaven
 {'overall': '6', 'cmc': 2.634920634920635, 'ramp': '8', 'draw': '11', 'interaction': 9}
-{'commander_synergy': -6.323644853727165, 'card_synergy': -11.236871635773285}

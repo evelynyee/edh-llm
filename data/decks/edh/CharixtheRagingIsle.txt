@@ -62,4 +62,3 @@
 1 Preordain
 1 Imprisoned in the Moon
 {'overall': '4', 'cmc': 2.8095238095238093, 'ramp': '12', 'draw': '13', 'interaction': 7}
-{'commander_synergy': -4.338208382419222, 'card_synergy': -12.095232675772111}

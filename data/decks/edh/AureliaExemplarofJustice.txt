@@ -62,4 +62,3 @@
 1 Boros Reckoner
 1 Chance for Glory
 {'overall': '5', 'cmc': 2.6825396825396823, 'ramp': '9', 'draw': '3', 'interaction': 14}
-{'commander_synergy': -7.067475337738291, 'card_synergy': -11.808749050096415}

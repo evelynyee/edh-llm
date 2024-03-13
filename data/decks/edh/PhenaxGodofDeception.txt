@@ -62,4 +62,3 @@
 1 Ashiok, Dream Render
 1 Mind Stone
 {'overall': '6', 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '6', 'interaction': 6}
-{'commander_synergy': -3.748451202660672, 'card_synergy': -10.3142991437353}

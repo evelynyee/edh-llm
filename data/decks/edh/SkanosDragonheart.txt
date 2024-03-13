@@ -62,4 +62,3 @@
 1 War Room
 1 Mind Stone
 {'overall': '5', 'cmc': 3.619047619047619, 'ramp': '23', 'draw': '18', 'interaction': 4}
-{'commander_synergy': -9.696753681882157, 'card_synergy': -13.665767738781987}

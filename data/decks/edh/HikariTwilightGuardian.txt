@@ -62,4 +62,3 @@
 1 Smothering Tithe
 1 Ghost Quarter
 {'overall': '7', 'cmc': 2.4444444444444446, 'ramp': '6', 'draw': '7', 'interaction': 5}
-{'commander_synergy': -8.067478140197599, 'card_synergy': -14.738611913450816}

@@ -62,4 +62,3 @@
 1 Reliquary Tower
 1 Dungeon Map
 {'overall': '6', 'cmc': 2.761904761904762, 'ramp': '10', 'draw': '20', 'interaction': 12}
-{'commander_synergy': -10.268512581663938, 'card_synergy': -13.94361882077545}

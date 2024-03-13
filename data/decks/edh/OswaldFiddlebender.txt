@@ -62,4 +62,3 @@
 1 Archaeomancer's Map
 1 Walking Ballista
 {'overall': '9', 'cmc': 1.8571428571428572, 'ramp': '17', 'draw': '9', 'interaction': 5}
-{'commander_synergy': -5.662581549597331, 'card_synergy': -12.294779886817642}

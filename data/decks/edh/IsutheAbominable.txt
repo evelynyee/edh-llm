@@ -62,4 +62,3 @@
 1 Azusa, Lost but Seeking
 1 Path to Exile
 {'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '12', 'draw': '14', 'interaction': 7}
-{'commander_synergy': -2.955712901128539, 'card_synergy': -7.1127561947796965}

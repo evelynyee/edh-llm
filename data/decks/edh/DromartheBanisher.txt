@@ -62,4 +62,3 @@
 1 Rhystic Study
 1 Void Rend
 {'overall': '7', 'cmc': 1.8888888888888888, 'ramp': '10', 'draw': '7', 'interaction': 7}
-{'commander_synergy': -6.208413692298007, 'card_synergy': -11.145629858752192}

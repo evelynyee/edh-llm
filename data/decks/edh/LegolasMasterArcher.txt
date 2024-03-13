@@ -62,4 +62,3 @@
 1 Bear Umbra
 1 Stuffy Doll
 {'overall': '6', 'cmc': 2.253968253968254, 'ramp': '12', 'draw': '13', 'interaction': 6}
-{'commander_synergy': -5.332609387852894, 'card_synergy': -11.877230298394545}

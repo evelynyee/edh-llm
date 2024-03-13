@@ -62,4 +62,3 @@
 1 Ulvenwald Observer
 1 Hangarback Walker
 {'overall': '9', 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '9', 'interaction': 4}
-{'commander_synergy': -7.322413577382004, 'card_synergy': -12.168875452774923}

@@ -62,4 +62,3 @@
 1 Loran of the Third Path
 1 Baird, Steward of Argive
 {'overall': '8', 'cmc': 2.4444444444444446, 'ramp': '14', 'draw': '18', 'interaction': 6}
-{'commander_synergy': -4.523654533134923, 'card_synergy': -11.787081568943572}

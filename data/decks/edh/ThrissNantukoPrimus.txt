@@ -62,4 +62,3 @@
 1 Blighted Woodland
 1 Myriad Landscape
 {'overall': '5', 'cmc': 3.111111111111111, 'ramp': '11', 'draw': '9', 'interaction': 3}
-{'commander_synergy': -8.566152368057036, 'card_synergy': -14.008826773124705}

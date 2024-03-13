@@ -62,4 +62,3 @@
 1 Setessan Champion
 1 Ring of Kalonia
 {'overall': '6', 'cmc': 2.6825396825396823, 'ramp': '13', 'draw': '14', 'interaction': 6}
-{'commander_synergy': -6.380332636816957, 'card_synergy': -11.84136875096175}

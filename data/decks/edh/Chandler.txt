@@ -62,4 +62,3 @@
 1 War Room
 1 Hoard-Smelter Dragon
 {'overall': '8', 'cmc': 2.7301587301587302, 'ramp': '21', 'draw': '13', 'interaction': 9}
-{'commander_synergy': -8.680095539166532, 'card_synergy': -12.342028322251753}

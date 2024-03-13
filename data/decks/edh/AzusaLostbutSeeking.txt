@@ -62,4 +62,3 @@
 1 Ulvenwald Hydra
 1 Return of the Wildspeaker
 {'overall': '9', 'cmc': 2.5873015873015874, 'ramp': '17', 'draw': '13', 'interaction': 5}
-{'commander_synergy': -5.810912327884828, 'card_synergy': -10.817034307386113}

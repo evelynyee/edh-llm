@@ -62,4 +62,3 @@
 1 Misty Rainforest
 1 Flusterstorm
 {'overall': '10', 'cmc': 2.2063492063492065, 'ramp': '17', 'draw': '17', 'interaction': 14}
-{'commander_synergy': -7.150548267125708, 'card_synergy': -8.980190669104081}

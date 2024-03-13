@@ -62,4 +62,3 @@
 1 Reconnaissance Mission
 1 Sheoldred, the Apocalypse
 {'overall': '7', 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '16', 'interaction': 9}
-{'commander_synergy': -6.3286769598832935, 'card_synergy': -9.340284268585483}

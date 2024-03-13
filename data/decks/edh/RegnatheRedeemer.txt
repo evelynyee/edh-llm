@@ -62,4 +62,3 @@
 1 Prism Ring
 1 Angel's Feather
 {'overall': '8', 'cmc': 2.7936507936507935, 'ramp': '8', 'draw': '14', 'interaction': 8}
-{'commander_synergy': -9.46399654728833, 'card_synergy': -13.658882939982348}

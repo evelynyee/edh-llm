@@ -62,4 +62,3 @@
 1 Congregate
 1 Blossoming Sands
 {'overall': '7', 'cmc': 2.142857142857143, 'ramp': '15', 'draw': '6', 'interaction': 5}
-{'commander_synergy': -5.885194671137111, 'card_synergy': -12.371573647404203}

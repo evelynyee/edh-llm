@@ -62,4 +62,3 @@
 1 Thornbite Staff
 1 Sakura-Tribe Elder
 {'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '12', 'draw': '10', 'interaction': 18}
-{'commander_synergy': -5.510987020808475, 'card_synergy': -13.204483887509559}

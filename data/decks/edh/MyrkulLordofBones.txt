@@ -62,4 +62,3 @@
 1 Beast Whisperer
 1 Windswept Heath
 {'overall': '8', 'cmc': 1.9841269841269842, 'ramp': '18', 'draw': '6', 'interaction': 4}
-{'commander_synergy': -4.778555021075737, 'card_synergy': -10.804109662690838}

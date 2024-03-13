@@ -62,4 +62,3 @@
 1 Constricting Sliver
 1 Rampant Growth
 {'overall': '4', 'cmc': 2.7301587301587302, 'ramp': '10', 'draw': '4', 'interaction': 4}
-{'commander_synergy': -5.079493091237215, 'card_synergy': -6.750571148321848}

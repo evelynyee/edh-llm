@@ -62,4 +62,3 @@
 1 Frantic Search
 1 Talion, the Kindly Lord
 {'overall': '7', 'cmc': 2.761904761904762, 'ramp': '8', 'draw': '14', 'interaction': 7}
-{'commander_synergy': -4.2023334180143, 'card_synergy': -8.534989215561009}

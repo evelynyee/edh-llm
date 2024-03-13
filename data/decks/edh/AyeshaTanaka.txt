@@ -62,4 +62,3 @@
 1 Knights of Thorn
 1 Brainstorm
 {'overall': '4', 'cmc': 2.33, 'ramp': '8', 'draw': '7', 'interaction': 6}
-{'commander_synergy': -7.0339306184900785, 'card_synergy': -11.15137648385318}

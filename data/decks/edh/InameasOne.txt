@@ -62,4 +62,3 @@
 1 Death Denied
 1 Long-Forgotten Gohei
 {'overall': '6', 'cmc': 3.380952380952381, 'ramp': '13', 'draw': '10', 'interaction': 5}
-{'commander_synergy': -6.492728552049483, 'card_synergy': -12.96754585400032}

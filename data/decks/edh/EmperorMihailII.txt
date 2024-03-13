@@ -62,4 +62,3 @@
 1 Vanquisher's Banner
 1 Reality Shift
 {'overall': '6', 'cmc': 2.3968253968253967, 'ramp': '11', 'draw': '14', 'interaction': 6}
-{'commander_synergy': -4.756172897173061, 'card_synergy': -10.899789795271685}

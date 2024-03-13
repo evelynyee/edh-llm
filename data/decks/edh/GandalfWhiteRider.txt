@@ -62,4 +62,3 @@
 1 Staff of the Storyteller
 1 Serra Ascendant
 {'overall': '9', 'cmc': 1.873015873015873, 'ramp': '12', 'draw': '20', 'interaction': 5}
-{'commander_synergy': -8.414915378325356, 'card_synergy': -14.539912738789038}

@@ -62,4 +62,3 @@
 1 Trinket Mage
 1 Noxious Gearhulk
 {'overall': '9', 'cmc': 2.111111111111111, 'ramp': '10', 'draw': '11', 'interaction': 6}
-{'commander_synergy': -6.150116592596335, 'card_synergy': -10.189944916787812}

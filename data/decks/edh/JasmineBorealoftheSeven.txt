@@ -62,4 +62,3 @@
 1 Cliffhaven Sell-Sword
 1 Toski, Bearer of Secrets
 {'overall': '4', 'cmc': 2.9047619047619047, 'ramp': '8', 'draw': '7', 'interaction': 6}
-{'commander_synergy': -3.963824055308029, 'card_synergy': -10.137155638443291}

@@ -62,4 +62,3 @@
 1 Martial Coup
 1 Unbreakable Formation
 {'overall': '7', 'cmc': 2.0634920634920637, 'ramp': '9', 'draw': '13', 'interaction': 13}
-{'commander_synergy': -6.103090547637792, 'card_synergy': -12.511998740439628}

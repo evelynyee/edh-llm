@@ -62,4 +62,3 @@
 1 Knight-Errant of Eos
 1 Elspeth, Sun's Champion
 {'overall': '8', 'cmc': 2.746031746031746, 'ramp': '7', 'draw': '13', 'interaction': 10}
-{'commander_synergy': -5.008337459272717, 'card_synergy': -10.597629355377011}

@@ -62,4 +62,3 @@
 1 Ghostly Prison
 1 Smothering Tithe
 {'overall': '7', 'cmc': 2.888888888888889, 'ramp': '14', 'draw': '12', 'interaction': 11}
-{'commander_synergy': -9.330748943440282, 'card_synergy': -15.031985760905787}

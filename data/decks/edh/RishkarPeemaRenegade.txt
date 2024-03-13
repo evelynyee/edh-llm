@@ -62,4 +62,3 @@
 1 Reliquary Tower
 1 The Ozolith
 {'overall': '7', 'cmc': 2.984126984126984, 'ramp': '16', 'draw': '13', 'interaction': 3}
-{'commander_synergy': -7.623234408279918, 'card_synergy': -12.706003955030777}

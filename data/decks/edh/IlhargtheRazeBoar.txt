@@ -62,4 +62,3 @@
 1 Mirror March
 1 Blightsteel Colossus
 {'overall': '5', 'cmc': 4.365079365079365, 'ramp': '15', 'draw': '11', 'interaction': 8}
-{'commander_synergy': -6.006195658116549, 'card_synergy': -14.411810399080782}

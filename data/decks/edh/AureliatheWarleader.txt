@@ -62,4 +62,3 @@
 1 Puresteel Paladin
 1 Mask of Memory
 {'overall': '8', 'cmc': 2.3492063492063493, 'ramp': '11', 'draw': '9', 'interaction': 8}
-{'commander_synergy': -5.921679469636236, 'card_synergy': -10.58272125018749}

@@ -62,4 +62,3 @@
 1 Rockfall Vale
 1 Blasphemous Act
 {'overall': '6', 'cmc': 2.5555555555555554, 'ramp': '17', 'draw': '8', 'interaction': 7}
-{'commander_synergy': -7.153749630322931, 'card_synergy': -9.83474763447211}

@@ -62,4 +62,3 @@
 1 Anger
 1 Helm of the Host
 {'overall': '6', 'cmc': 2.857142857142857, 'ramp': '10', 'draw': '3', 'interaction': 6}
-{'commander_synergy': -5.123373971747346, 'card_synergy': -11.8132874940198}

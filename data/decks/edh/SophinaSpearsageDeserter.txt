@@ -62,4 +62,3 @@
 1 Needleverge Pathway
 1 Spirited Companion
 {'overall': '8', 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '13', 'interaction': 9}
-{'commander_synergy': -9.571506514507783, 'card_synergy': -13.507131284652175}

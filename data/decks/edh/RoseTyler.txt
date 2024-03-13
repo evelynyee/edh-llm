@@ -62,4 +62,3 @@
 1 Lightning Greaves
 1 Grasp of Fate
 {'overall': '5', 'cmc': 2.9047619047619047, 'ramp': '7', 'draw': '6', 'interaction': 6}
-{'commander_synergy': -8.625554323477001, 'card_synergy': -13.917554787282272}

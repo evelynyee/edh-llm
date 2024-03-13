@@ -62,4 +62,3 @@
 1 Mind Stone
 1 Hellspark Elemental
 {'overall': '8', 'cmc': 2.492063492063492, 'ramp': '9', 'draw': '8', 'interaction': 9}
-{'commander_synergy': -8.162548256377576, 'card_synergy': -13.365192845715377}

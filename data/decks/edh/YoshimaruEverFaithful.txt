@@ -62,4 +62,3 @@
 1 Flowering of the White Tree
 1 Umezawa's Jitte
 {'overall': '7', 'cmc': 2.3, 'ramp': '7', 'draw': '6', 'interaction': 8}
-{'commander_synergy': -8.311803656511984, 'card_synergy': -14.303615765012976}

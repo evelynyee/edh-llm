@@ -62,4 +62,3 @@
 1 Gluttonous Slime
 1 Bloodline Pretender
 {'overall': '6', 'cmc': 3.0, 'ramp': '8', 'draw': '7', 'interaction': 3}
-{'commander_synergy': -8.551212780548925, 'card_synergy': -12.391661287197296}

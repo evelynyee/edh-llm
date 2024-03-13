@@ -62,4 +62,3 @@
 1 Nimraiser Paladin
 1 Sheoldred's Headcleaver
 {'overall': '4', 'cmc': 2.888888888888889, 'ramp': '9', 'draw': '7', 'interaction': 22}
-{'commander_synergy': -10.32188949058484, 'card_synergy': -13.671817043985095}

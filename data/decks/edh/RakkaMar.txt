@@ -62,4 +62,3 @@
 1 Charging Cinderhorn
 1 Mind Stone
 {'overall': '8', 'cmc': 2.9523809523809526, 'ramp': '16', 'draw': '7', 'interaction': 9}
-{'commander_synergy': -6.518236683957783, 'card_synergy': -14.721592926904972}

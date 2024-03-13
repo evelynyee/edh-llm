@@ -62,4 +62,3 @@
 1 Shadowspear
 1 Wayfarer's Bauble
 {'overall': '7', 'cmc': 2.6031746031746033, 'ramp': '14', 'draw': '8', 'interaction': 10}
-{'commander_synergy': -5.550927603813085, 'card_synergy': -13.287739669076018}

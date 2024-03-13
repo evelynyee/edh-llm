@@ -62,4 +62,3 @@
 1 Sadistic Obsession
 1 Nest of Scarabs
 {'overall': '6', 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '15', 'interaction': 6}
-{'commander_synergy': -9.545203307206544, 'card_synergy': -12.73807551049831}

@@ -62,4 +62,3 @@
 1 Reliquary Tower
 1 Thought Vessel
 {'overall': '7', 'cmc': 1.9523809523809523, 'ramp': '11', 'draw': '9', 'interaction': 8}
-{'commander_synergy': -8.502915617931604, 'card_synergy': -13.454711399416556}

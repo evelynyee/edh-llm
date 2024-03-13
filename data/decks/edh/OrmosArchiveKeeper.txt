@@ -62,4 +62,3 @@
 1 Defiler of Dreams
 1 Propaganda
 {'overall': '7', 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '28', 'interaction': 9}
-{'commander_synergy': -7.834248377168856, 'card_synergy': -11.186924629113149}

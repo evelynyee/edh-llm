@@ -62,4 +62,3 @@
 1 Syr Konrad, the Grim
 1 Vault of Champions
 {'overall': '9', 'cmc': 1.8888888888888888, 'ramp': '9', 'draw': '6', 'interaction': 4}
-{'commander_synergy': -5.239456536245125, 'card_synergy': -11.028496278164184}

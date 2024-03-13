@@ -62,4 +62,3 @@
 1 Descent into Avernus
 1 Pyromancer Ascension
 {'overall': '7', 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '10', 'interaction': 9}
-{'commander_synergy': -6.672736854112418, 'card_synergy': -11.95327601713455}

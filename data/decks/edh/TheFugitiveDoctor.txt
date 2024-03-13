@@ -62,4 +62,3 @@
 1 Talisman of Impulse
 1 Arcane Signet
 {'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
-{'commander_synergy': -10.84122991555047, 'card_synergy': -15.142008681009465}

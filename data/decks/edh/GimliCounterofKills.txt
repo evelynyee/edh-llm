@@ -62,4 +62,3 @@
 1 Comet Storm
 1 Commander's Sphere
 {'overall': '6', 'cmc': 2.6507936507936507, 'ramp': '10', 'draw': '8', 'interaction': 24}
-{'commander_synergy': -8.034673940452567, 'card_synergy': -14.25519715838266}

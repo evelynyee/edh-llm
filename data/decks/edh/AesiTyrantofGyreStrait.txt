@@ -62,4 +62,3 @@
 1 Multani, Yavimaya's Avatar
 1 Simic Signet
 {'overall': '8', 'cmc': 2.9365079365079363, 'ramp': '23', 'draw': '9', 'interaction': 5}
-{'commander_synergy': -4.150242172163367, 'card_synergy': -10.570284820778221}

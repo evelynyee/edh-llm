@@ -62,4 +62,3 @@
 1 Saryth, the Viper's Fang
 1 Finale of Devastation
 {'overall': '10', 'cmc': 2.0793650793650795, 'ramp': '15', 'draw': '8', 'interaction': 7}
-{'commander_synergy': -6.213998395716448, 'card_synergy': -11.733380019850701}

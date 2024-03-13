@@ -62,4 +62,3 @@
 1 Swiftfoot Boots
 1 Spectral Flight
 {'overall': '6', 'cmc': 2.3492063492063493, 'ramp': '9', 'draw': '17', 'interaction': 7}
-{'commander_synergy': -6.478482112511544, 'card_synergy': -14.932768813637502}
