@@ -98,4 +98,4 @@
 1 Dark Offering
 1 Zulaport Cutthroat
 1 Blight Keeper
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '1', 'cmc': 3.079, 'ramp': '1', 'draw': '4', 'interaction': 16}

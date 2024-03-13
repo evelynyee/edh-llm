@@ -98,4 +98,4 @@
 1 Dovescape
 1 Inscription of Insight
 1 Sunfall
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 253, 'ramp': '1', 'draw': '14', 'interaction': 6}

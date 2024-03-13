@@ -52,7 +52,7 @@
 1 Land Tax
 1 The Gaffer
 1 Song of the Worldsoul
-1 Tale of Tinúviel
+1 Tale of Tinuviel
 1 The Ozolith
 1 Thran Temporal Gateway
 1 Sword of the Meek
@@ -64,4 +64,4 @@
 1 Tamiyo's Journal
 1 Watcher of the Roost
 1 Vexing Puzzlebox
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '7', 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7}

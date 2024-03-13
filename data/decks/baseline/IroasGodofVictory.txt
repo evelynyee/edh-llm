@@ -98,4 +98,4 @@
 1 Combat Calligrapher
 1 Endure
 1 Boros Mastiff
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 3.49, 'ramp': '0', 'draw': '0', 'interaction': 13}

@@ -98,4 +98,4 @@
 1 Bellowing Aegisaur
 1 Choking Fumes
 1 Silkguard
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 3.04, 'ramp': '0', 'draw': '1', 'interaction': 4}

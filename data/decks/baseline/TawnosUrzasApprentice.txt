@@ -98,4 +98,4 @@
 1 Gigadrowse
 1 Make Disappear
 1 Not of This World
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.44, 'ramp':'6', 'draw': '7', 'interaction': 2}

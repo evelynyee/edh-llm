@@ -66,4 +66,4 @@
 1 Yawgmoth's Edict
 1 Unmake the Graves
 1 Unmask
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '4', 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7}

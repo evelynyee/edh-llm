@@ -1,4 +1,4 @@
-1 Galadriel of Lothlórien
+1 Galadriel of Lothlorien
 1 Survival of the Fittest
 1 Sylvan Ranger
 1 Green Sun's Zenith
@@ -62,4 +62,4 @@
 1 Traumatic Visions
 1 Weight of Memory
 1 Urban Evolution
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '7', 'cmc': 3.3, 'ramp': '15', 'draw': '31', 'interaction': 4}

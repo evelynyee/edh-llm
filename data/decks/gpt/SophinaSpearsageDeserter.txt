@@ -57,7 +57,7 @@
 1 Staff of the Storyteller
 1 Stone Idol Trap
 1 The Underworld Cookbook
-1 Séance
+1 Seance
 1 Zhalfirin Decoy
 1 Swords to Plowshares
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
@@ -65,4 +65,4 @@
 1 Tilonalli's Skinshifter
 1 Worthy Cause
 1 Warcry Phoenix
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '7', 'cmc': 3.41, 'ramp': '6', 'draw': '16', 'interaction': 13}

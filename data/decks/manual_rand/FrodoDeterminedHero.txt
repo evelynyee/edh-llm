@@ -66,4 +66,4 @@
 1 Whetwheel
 1 Street Sweeper
 1 Vesperlark
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.62, 'ramp': '2', 'draw': '4', 'interaction': 10}

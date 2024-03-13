@@ -98,4 +98,4 @@
 1 Guild Feud
 1 Skyship Weatherlight
 1 Cragsmasher Yeti
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 4.43, 'ramp': '6', 'draw': '10', 'interaction': 3}

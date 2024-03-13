@@ -61,4 +61,4 @@
 1 Rune-Tail, Kitsune Ascendant
 1 Flowering of the White Tree
 1 Umezawa's Jitte
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '7', 'cmc': 2.3, 'ramp': '7', 'draw': '6', 'interaction': 8}
