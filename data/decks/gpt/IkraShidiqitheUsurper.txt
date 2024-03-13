@@ -1,0 +1,64 @@
+1 Ikra Shidiqi, the Usurper
+1 Bloom Tender
+1 Sol Ring
+1 Mana Vault
+1 Vraska, Relic Seeker
+1 The Torment of Gollum
+1 Vampiric Feast
+1 Viridian Lorebearers
+1 Wreck Hunter
+1 Wild Onslaught
+1 Torment of Hailfire
+1 Wirewood Pride
+1 Voice of Many
+1 Vraska's Contempt
+1 Mind Stone
+1 Zuran Orb
+1 Vampiric Link
+1 Tainted Remedy
+1 Whispering Specter
+1 Withering Wisps
+1 The Sea Devils
+1 Vexing Arcanix
+1 Wormwood Treefolk
+1 Zombie Trailblazer
+1 Zendikar Farguide
+1 Wrenn and Realmbreaker
+1 Vengeful Strangler // Strangling Grasp
+1 Umezawa's Jitte
+1 Seedborn Muse
+1 Zephyr Boots
+1 Well of Lost Dreams
+1 Ugin's Nexus
+1 Wing Snare
+1 Vraska, Scheming Gorgon
+1 Unerring Sling
+1 Tower Above
+1 Vampire Outcasts
+1 Virtus's Maneuver
+1 Vorinclex // The Grand Evolution
+1 Vito, Thorn of the Dusk Rose
+1 Worldslayer
+1 Vraska, Golgari Queen
+1 Tendrils of Corruption
+1 Vanquish the Weak
+1 Triskaidekaphobia
+1 Sword of Light and Shadow
+1 Vindictive Vampire
+1 Yawgmoth's Vile Offering
+1 Volrath's Dungeon
+1 Voice of the Vermin
+1 Wicked Akuba
+1 Zodiac Horse
+1 Woodlurker Mimic
+1 Toski, Bearer of Secrets
+1 Vigorspore Wurm
+1 Words of Waste
+1 Verdant Sun's Avatar
+1 Wrenn and Seven
+1 Wurm's Tooth
+1 Tornado Elemental
+1 Treacherous Link
+1 Timber Wolves
+1 Talons of Wildwood
+{'overall': '6', 'cmc': 3.4603174603174605, 'ramp': '9', 'draw': '10', 'interaction': 14}

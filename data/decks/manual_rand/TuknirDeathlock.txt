@@ -1,0 +1,69 @@
+1 Tuknir Deathlock
+1 Sylvan Might
+1 Wicker Warcrawler
+1 Werewolf Pack Leader
+1 Weldfast Monitor
+1 Vial of Poison
+1 Wild Might
+1 Zurgo Bellstriker
+1 Wrenn and Realmbreaker
+1 Tempting Licid
+1 Vampiric Fury
+1 Unnatural Growth
+1 Yavimaya Hollow
+1 Warmonger's Chariot
+1 Wurmweaver Coil
+1 Vines of Vastwood
+1 Syr Faren, the Hengehammer
+1 Unnatural Predation
+1 Traitorous Instinct
+1 Steady Aim
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Weakstone
+1 War Barge
+1 Volatile Claws
+1 Whirlwind
+1 Wandering Goblins
+1 Wild Instincts
+1 Viashino Branchrider
+1 Umezawa's Jitte
+1 Spiked Ripsaw
+1 Viridian Longbow
+1 Volrath's Gardens
+1 Warmind Infantry
+1 Wayward Giant
+1 Two-Headed Hunter // Twice the Rage
+1 Eternal Witness
+1 War Dance
+1 Trailblazing Historian
+1 Treetop Bracers
+1 Sunfire Torch
+1 Swift Kick
+1 Wasteland Viper
+1 Twigwalker
+1 Wall of Opposition
+1 Wolfir Silverheart
+1 Yavimaya Iconoclast
+1 Wall of Mulch
+1 Unwilling Recruit
+1 Titanoth Rex
+1 Wall of Brambles
+1 Vigilant Baloth
+1 Troll Ascetic
+1 Warden of the Wall
+1 Wildfire Elemental
+1 Sylvok Lifestaff
+1 Turntimber Grove
+1 Thunder Strike
+1 Wirewood Symbiote
+1 Vivien, Arkbow Ranger
+1 Stonehands
+1 Witch's Mark
+1 Undying Rage
+1 Varchild's Crusader
+1 Unchained Berserker
+1 Tinder Wall
+1 Threaten
+1 The Howling Abomination
+1 Upriser Renegade
+{'overall': '3', 'cmc': 2.823529411764706, 'ramp': '3', 'draw': '6', 'interaction': 4}

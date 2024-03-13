@@ -1,0 +1,101 @@
+1 Gretchen Titchwillow
+1 Tolaria West
+1 Ash Barrens
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Shefet Monitor
+1 Krosan Tusker
+1 Deep Reconnaissance
+1 Mental Journey
+1 Horizon Spellbomb
+1 Traumatic Visions
+1 Lunar Hatchling
+1 Monster Manual // Zoological Study
+1 Growth Spiral
+1 Uro, Titan of Nature's Wrath
+1 Beneath the Sands
+1 Elvish Piper
+1 Silverglade Pathfinder
+1 Hypergenesis
+1 Call of the Wild
+1 Sylvan Bounty
+1 Sojourner's Companion
+1 Migration Path
+1 Dragon Arch
+1 Field Trip
+1 Dreamscape Artist
+1 Thunderherd Migration
+1 Zimone, Quandrix Prodigy
+1 Survival of the Fittest
+1 Timberland Ancient
+1 Elvish Aberration
+1 Wirewood Guardian
+1 Lórien Revealed
+1 Shoreline Ranger
+1 Groundskeeper
+1 Krosan Wayfarer
+1 Fauna Shaman
+1 Crop Rotation
+1 Step Through
+1 Pedantic Learning
+1 Gaea's Touch
+1 Vizier of the Anointed
+1 Beanstalk Giant // Fertile Footsteps
+1 Eureka Moment
+1 Copper Gnomes
+1 Path to the Festival
+1 Grow from the Ashes
+1 Zoologist
+1 Thrasios, Triton Hero
+1 Greenseeker
+1 Diligent Farmhand
+1 Gnarled Professor
+1 Llanowar Sentinel
+1 Quicksilver Amulet
+1 Thicket Elemental
+1 Didgeridoo
+1 Walking Atlas
+1 Scaled Herbalist
+1 Sakura-Tribe Scout
+1 Llanowar Scout
+1 Pendant of Prosperity
+1 Grozoth
+1 Dizzy Spell
+1 Yavimaya Elder
+1 Muddle the Mixture
+1 Dream Strix
+1 Tribute Mage
+1 Solemn Simulacrum
+{'overall': '5', 'cmc': 3.2941176470588234, 'ramp': '32', 'draw': '36', 'interaction': 2}

@@ -1,0 +1,69 @@
+1 Rakka Mar
+1 Sparkspitter
+1 You See a Pair of Goblins
+1 Yamabushi's Storm
+1 Tibalt, Rakish Instigator
+1 Torch Gauntlet
+1 Sword of the Meek
+1 Imperial Recruiter
+1 Staff of the Flame Magus
+1 Toxic Iguanar
+1 Undying Rage
+1 Wayward Guide-Beast
+1 Snare Thopter
+1 The Triumph of Anax
+1 Uncanny Speed
+1 Viashino Slasher
+1 Tormod's Cryptkeeper
+1 Thermal Navigator
+1 Treasure Vault
+1 Smoke Spirits' Aid
+1 Urza's Factory
+1 Treasure Nabber
+1 Titan's Presence
+1 Wolf of Devil's Breach
+1 Unchained Berserker
+1 Searing Barb
+1 Searchlight Companion
+1 Tilonalli's Skinshifter
+1 Tremor
+1 Ugin, the Ineffable
+1 Soul Separator
+1 Volcanic Rush
+1 Telethopter
+1 Wandering Archaic // Explore the Vastlands
+1 Thundermaw Hellkite
+1 The Reaver Cleaver
+1 Wily Goblin
+1 Temporary Insanity
+1 Soul Foundry
+1 Scampering Scorcher
+1 Sticky Fingers
+1 Thorned Moloch
+1 Spare Dagger
+1 Zariel, Archduke of Avernus
+1 Talons of Falkenrath
+1 Stolen Vitality
+1 Veteran's Sidearm
+1 Where Ancients Tread
+1 Tilonalli's Crown
+1 Swashbuckling
+1 Witch's Clinic
+1 Wrecking Crew
+1 There and Back Again
+1 Sylvok Lifestaff
+1 The Underworld Cookbook
+1 Volatile Fault
+1 Thran Forge
+1 Tenza, Godo's Maul
+1 Skitterbeam Battalion
+1 Whirlermaker
+1 Smelt-Ward Ignus
+1 Volcanic Dragon
+1 Springjack Pasture
+1 Viashino Heretic
+1 Trailblazer's Torch
+1 Sword of Feast and Famine
+1 Spawning Bed
+1 Shiny Impetus
+{'overall': '5', 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '5', 'interaction': 14}

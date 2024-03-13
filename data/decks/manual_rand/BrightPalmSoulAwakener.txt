@@ -1,0 +1,69 @@
+1 Bright-Palm, Soul Awakener
+1 Warden of the Woods
+1 Tori D'Avenant, Fury Rider
+1 Swift Kick
+1 Zariel, Archduke of Avernus
+1 Vitaspore Thallid
+1 Worldsoul Colossus
+1 Wild Slash
+1 Sunhome Stalwart
+1 Unnatural Speed
+1 Wayta, Trainer Prodigy
+1 Yotia Declares War
+1 Tower of Coireall
+1 Swords to Plowshares
+1 Vivien's Stampede
+1 Valor in Akros
+1 Volunteer Reserves
+1 Terashi's Verdict
+1 Thirsting Axe
+1 Trailblazer
+1 Vastwood Animist
+1 Warrior en-Kor
+1 Weight of Spires
+1 Wojek Siren
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Warden of the Chained
+1 Vorinclex // The Grand Evolution
+1 Undercity Troll
+1 Ulvenwald Observer
+1 Thundermaw Hellkite
+1 Zealot il-Vec
+1 Tuya Bearclaw
+1 Éowyn, Lady of Rohan
+1 Windshaper Planetar
+1 Tarrian's Soulcleaver
+1 Vivien of the Arkbow
+1 Wulfgar of Icewind Dale
+1 Witherscale Wurm
+1 Rampant Growth
+1 Wolfir Silverheart
+1 Steadfast Sentry
+1 Whiptail Moloch
+1 Woolly Spider
+1 Twists and Turns // Mycoid Maze
+1 Topan Freeblade
+1 Wall of Resistance
+1 Syr Faren, the Hengehammer
+1 Unnatural Aggression
+1 Wilson, Refined Grizzly
+1 Wicked Wolf
+1 Uril, the Miststalker
+1 Thrash // Threat
+1 You Hear Something on Watch
+1 Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier
+1 Wojek Bodyguard
+1 Upriser Renegade
+1 Transmogrifying Licid
+1 Wings of the Cosmos
+1 Vivify
+1 Wrack with Madness
+1 Topple
+1 Vorrac Battlehorns
+1 Whiptongue Hydra
+1 Traitorous Instinct
+1 Thornbite Staff
+1 Witch's Web
+1 Wirewood Pride
+1 Zephyr Boots
+{'overall': '4', 'cmc': 3.176470588235294, 'ramp': '3', 'draw': '8', 'interaction': 15}

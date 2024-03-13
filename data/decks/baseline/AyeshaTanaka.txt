@@ -1,0 +1,101 @@
+1 Ayesha Tanaka
+1 Seafarer's Quay
+1 Mountain Stronghold
+1 Cathedral of Serra
+1 Unholy Citadel
+1 Adventurers' Guildhouse
+1 Sorrow's Path
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Wall of Shields
+1 Helm of Chatzuk
+1 Baton of Morale
+1 Shield Bearer
+1 Kjeldoran Warrior
+1 Kjeldoran Escort
+1 Icatian Phalanx
+1 Benalish Infantry
+1 Benalish Hero
+1 Mishra's War Machine
+1 Cooperation
+1 Teremko Griffin
+1 Mesa Pegasus
+1 Knights of Thorn
+1 Soraya the Falconer
+1 War Elephant
+1 Noble Elephant
+1 Formation
+1 Hollow Warrior
+1 Pikemen
+1 Kjeldoran Phalanx
+1 Kjeldoran Skyknight
+1 Kjeldoran Skycaptain
+1 Fortified Area
+1 Trap Runner
+1 Urza's Engine
+1 Camel
+1 Battering Ram
+1 Spiketail Hatchling
+1 General Jarkeld
+1 Wall of Caltrops
+1 Volunteer Reserves
+1 Propaganda // Propaganda
+1 Propaganda
+1 Ghostly Prison
+1 Curtain of Light
+1 Errand of Duty
+1 Huang Zhong, Shu General
+1 Icatian Infantry
+1 Archon of Absolution
+1 Graxiplon
+1 Icatian Skirmishers
+1 Urza's Avenger
+1 Windborn Muse
+1 Awesome Presence
+1 War Tax
+1 Merfolk Seastalkers
+1 Wall of Vapor
+1 Thalakos Deceiver
+1 Stalwart Aven
+1 Audacious Infiltrator
+1 Great Wall
+1 Space Beleren
+1 Frostpeak Yeti
+1 Archangel of Tithes
+1 Dazzling Beauty
+1 Undertow
+1 Ghostform
+1 Kjeldoran Knight
+1 Tower of Coireall
+1 Baird, Steward of Argive
+1 Arctic Foxes
+1 Infiltrate
+{'overall': '3', 'cmc': 2.7916666666666665, 'ramp': '0', 'draw': '3', 'interaction': 3}

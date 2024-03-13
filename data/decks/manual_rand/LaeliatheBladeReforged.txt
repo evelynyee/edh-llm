@@ -1,0 +1,69 @@
+1 Laelia, the Blade Reforged
+1 Void Mirror
+1 Zuran Orb
+1 Wheel of Torture
+1 Zap
+1 Search for Survivors
+1 Workshop Assistant
+1 Wild Swing
+1 Volcanic Vision
+1 Vulshok Factory
+1 Sojourner's Companion
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Tormenting Voice
+1 Warfire Javelineer
+1 The Golden Throne
+1 Spellbook
+1 Vicious Shadows
+1 Uncontrollable Anger
+1 Terrain Generator
+1 Tibalt, the Fiend-Blooded
+1 Mind Stone
+1 Tarrian's Soulcleaver
+1 Skyship Weatherlight
+1 Urza's Filter
+1 Tapestry of the Ages
+1 Zoyowa's Justice
+1 Seismic Monstrosaur
+1 Wizard's Lightning
+1 Wee Champion
+1 Symmetry Matrix
+1 Thunderclap
+1 Unlicensed Hearse
+1 Wyll, Blade of Frontiers
+1 Whetstone
+1 The Flux
+1 Tome of Legends
+1 Walker of the Wastes
+1 Soul Foundry
+1 Turf War
+1 Worldfire
+1 Urza's Miter
+1 Wild-Magic Sorcerer
+1 Viashino Bladescout
+1 The Mana Rig
+1 Viashino Sandsprinter
+1 Scouring Sands
+1 Vestige of Emrakul
+1 Witches' Eye
+1 Wayfarer's Bauble
+1 Surge to Victory
+1 Wild-Field Scarecrow
+1 Timecrafting
+1 Tablet of the Guilds
+1 Spite of Mogis
+1 Words of War
+1 Weapon Rack
+1 Tuktuk Grunts
+1 Spelleater Wolverine
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Serum Powder
+1 Winding Canyons
+1 Walking Skyscraper
+1 Storm Cauldron
+1 Tavern Brawler
+1 Smuggler's Buggy
+1 Spellgorger Barbarian
+1 Weary Prisoner // Wrathful Jailbreaker
+1 The Prismatic Piper
+{'overall': '5', 'cmc': 3.3088235294117645, 'ramp': '12', 'draw': '15', 'interaction': 11}

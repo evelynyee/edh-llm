@@ -1,0 +1,68 @@
+1 Ao, the Dawn Sky
+1 Spellbinder
+1 Scroll Rack
+1 War Room
+1 Sphinx-Bone Wand
+1 Sensei's Divining Top
+1 Ugin's Conjurant
+1 Vizier of Remedies
+1 Serra Avatar
+1 Vedalken Shackles
+1 Steel Overseer
+1 Sword of the Animist
+1 Land Tax
+1 Arcane Signet
+1 Chromatic Lantern
+1 Sol Ring
+1 Solitude
+1 Path to Exile
+1 Sun Titan
+1 Vanish into Eternity
+1 Thought-Knot Seer
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Urza's Incubator
+1 Mind Stone
+1 Wingsteed Rider
+1 Triumph of Saint Katherine
+1 Verge Rangers
+1 Seasoned Dungeoneer
+1 Vesuva
+1 White Mana Battery
+1 Victory's Envoy
+1 Zhalfirin Void
+1 Warping Wail
+1 Tallowisp
+1 Suncrusher
+1 Sunfall
+1 Wispweaver Angel
+1 Umbilicus
+1 Thalia's Lieutenant
+1 Trove Warden
+1 Stonecloaker
+1 Thalia's Lancers
+1 War Priest of Thune
+1 Tocasia's Welcome
+1 Swashbuckler's Whip
+1 Zephyrim
+1 Whirling Catapult
+1 White Plume Adventurer
+1 Storybook Ride
+1 Swift Reckoning
+1 Terrarion
+1 Strata Scythe
+1 Treasure Map // Treasure Cove
+1 Sram's Expertise
+1 Vulpikeet
+1 Ugin's Mastery
+1 Wand of Denial
+1 Xenk, Paladin Unbroken
+1 Uba Mask
+1 Terashi's Grasp
+1 Shield-Wall Sentinel
+1 Timesifter
+1 Workhorse
+1 Soul-Strike Technique
+1 Tablet of the Guilds
+1 Venerated Loxodon
+1 Tower of Fortunes
+{'overall': '7', 'cmc': 3.1641791044776117, 'ramp': '15', 'draw': '17', 'interaction': 10}

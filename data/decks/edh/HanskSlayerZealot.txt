@@ -1,0 +1,64 @@
+1 Hansk, Slayer Zealot
+1 Command Tower
+1 Sol Ring
+1 Aether Flash
+1 Pyroclasm
+1 Arcane Signet
+1 Cinder Glade
+1 Basilisk Collar
+1 Reap
+1 Beast Within
+1 Volcanic Fallout
+1 Sting, the Glinting Dagger
+1 Ranging Raptors
+1 Saryth, the Viper's Fang
+1 Blasphemous Act
+1 Rampant Growth
+1 Spiteful Banditry
+1 Dingus Staff
+1 Reliquary Tower
+1 Ripjaw Raptor
+1 Nature's Lore
+1 Rootbound Crag
+1 Whipflare
+1 Cultivate
+1 Irencrag Pyromancer
+1 Chaos Warp
+1 Into the Fire
+1 Goblin Anarchomancer
+1 Swiftfoot Boots
+1 Rockfall Vale
+1 Gimli, Counter of Kills
+1 Pygmy Kavu
+1 Stomping Ground
+1 Rampaging Ferocidon
+1 Thought Vessel
+1 Spire Garden
+1 Torbran, Thane of Red Fell
+1 Game Trail
+1 Brash Taunter
+1 Kodama's Reach
+1 Compost
+1 Lightning Greaves
+1 Three Visits
+1 Thornbite Staff
+1 Karplusan Forest
+1 Repercussion
+1 Delayed Blast Fireball
+1 Farseek
+1 Vrondiss, Rage of Ancients
+1 Heroic Intervention
+1 Instill Energy
+1 Seedborn Muse
+1 Gruul Signet
+1 Wild Growth
+1 Pyrohemia
+1 Eternal Witness
+1 Silverclad Ferocidons
+1 Ezuri's Predation
+1 Temple of Abandon
+1 Sakura-Tribe Elder
+1 Vampires' Vengeance
+1 Fiery Cannonade
+1 Nature's Claim
+{'overall': '7', 'cmc': 2.5396825396825395, 'ramp': '14', 'draw': '8', 'interaction': 23}

@@ -1,0 +1,69 @@
+1 Gollum, Obsessed Stalker
+1 Go for the Throat
+1 Stalactite Stalker
+1 Umbilicus
+1 Vislor Turlough
+1 Ultimate Price
+1 Sol Ring
+1 Wound Reflection
+1 Urza's Engine
+1 Triumph of Cruelty
+1 Volatile Rig
+1 Sleek Schooner
+1 Zenith Chronicler
+1 Traumatic Revelation
+1 Well of Life
+1 Thallid Omnivore
+1 The Tabernacle at Pendrell Vale
+1 Wooden Stake
+1 Voltaic Key
+1 Vile Deacon
+1 Words of Waste
+1 Walk the Plank
+1 Tyrant's Machine
+1 Vengeful Warchief
+1 Two-Headed Zombie
+1 Sundial of the Infinite
+1 The Abyss
+1 Vector Asp
+1 Toxic Nim
+1 Word of Binding
+1 Soul Rend
+1 Swarm of Rats
+1 Vampiric Feast
+1 Vampire Interloper
+1 Thousand-Year Elixir
+1 Watchdog
+1 Sunstone
+1 Virtue of Persistence // Locthwain Scorn
+1 Unholy Citadel
+1 Whispersteel Dagger
+1 Wei Elite Companions
+1 Xathrid Gorgon
+1 Triarch Stalker
+1 Throne of the God-Pharaoh
+1 Vampire Scrivener
+1 Zombie Assassin
+1 Soul Bleed
+1 Viseling
+1 Underhanded Designs
+1 Transmutation
+1 Tomb Blade
+1 Typhoid Rats
+1 Unforgiving One
+1 Toymaker
+1 Wall of Corpses
+1 Zof Consumption // Zof Bloodbog
+1 Chromatic Lantern
+1 Veldrane of Sengir
+1 Tsabo's Assassin
+1 Wall of Forgotten Pharaohs
+1 Wall of Distortion
+1 Skeleton Key
+1 Ulcerate
+1 Wurm's Tooth
+1 Tithing Blade // Consuming Sepulcher
+1 Tsabo's Decree
+1 Whirling Catapult
+1 Damnation
+{'overall': '3', 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16}

@@ -1,0 +1,67 @@
+1 Jenny, Generated Anomaly
+1 Ugin, the Spirit Dragon
+1 Torii Watchward
+1 Triumph of Saint Katherine
+1 Ugin's Conjurant
+1 Teferi's Puzzle Box
+1 Treasure Hunter
+1 Stoneforge Mystic
+1 Land Tax
+1 Stonehewer Giant
+1 Sun Titan
+1 Thoughts of Ruin
+1 Thunderblade Charge
+1 Tectonic Reformation
+1 Wrenn's Resolve
+1 Terramorphic Expanse
+1 Swirling Sandstorm
+1 Viashino Heretic
+1 Vexing Puzzlebox
+1 Teshar, Ancestor's Apostle
+1 Vessel of Endless Rest
+1 Unlucky Witness
+1 Wild Magic Surge
+1 Through the Breach
+1 Volcanic Spite
+1 Yamabushi's Storm
+1 Trepanation Blade
+1 Violent Impact
+1 Underworld Breach
+1 Sweltering Suns
+1 Volcanic Vision
+1 Tectonic Giant
+1 Sword of Hearth and Home
+1 Sunbird's Invocation
+1 Thran Foundry
+1 Triumphant Reckoning
+1 Tocasia's Dig Site
+1 The One Ring
+1 Syr Carah, the Bold
+1 Temple of the Dragon Queen
+1 Solemn Simulacrum
+1 Sol Ring
+1 Vizier of Deferment
+1 Tormod's Crypt
+1 Wandering Archaic // Explore the Vastlands
+1 Words of War
+1 Stonebinder's Familiar
+1 Valakut Exploration
+1 Warp World
+1 Valakut Awakening // Valakut Stoneforge
+1 Path to Exile
+1 Tome of Legends
+1 Surveyor's Scope
+1 The Birth of Meletis
+1 Trusty Retriever
+1 Veteran of the Depths
+1 Well of Knowledge
+1 Tibalt's Trickery
+1 Thought-Knot Seer
+1 Storm World
+1 Swords to Plowshares
+1 Surging Sentinels
+1 Voldaren Epicure
+1 Thraben Heretic
+1 Tarrian's Soulcleaver
+1 Warcry Phoenix
+{'overall': '6', 'cmc': 3.106060606060606, 'ramp': '9', 'draw': '17', 'interaction': 11}

@@ -1,0 +1,67 @@
+1 Niv-Mizzet, Supreme
+1 Wild-Magic Sorcerer
+1 Vivien, Nature's Avenger
+1 Volrath's Shapeshifter
+1 Vessel of Nascency
+1 Urza Assembles the Titans
+1 Wildcall
+1 Unexpected Results
+1 Vastwood Surge
+1 Vine Gecko
+1 Vivien's Grizzly
+1 Wheel of Fate
+1 Vanish into Eternity
+1 Visions of Dread
+1 Vizier of the Menagerie
+1 Verdant Mastery
+1 Unmoored Ego
+1 Zimone, Quandrix Prodigy
+1 Vizier of the Anointed
+1 Vadrok, Apex of Thunder
+1 Valakut Exploration
+1 Wandering Archaic // Explore the Vastlands
+1 Underworld Breach
+1 Vizier of Many Faces
+1 Wizards of the _____
+1 Zurgo and Ojutai
+1 Wheel and Deal
+1 Vengevine
+1 Vraska's Stoneglare
+1 Vedalken Aethermage
+1 Llanowar Elves
+1 Unexplained Disappearance
+1 Zirda, the Dawnwaker
+1 Wild Pair
+1 Vorinclex // The Grand Evolution
+1 Seedborn Muse
+1 Mana Vault
+1 Yisan, the Wanderer Bard
+1 Worldly Tutor
+1 Wrenn and Six
+1 Veil of Secrecy
+1 Visage of Bolas
+1 Vraska's Scorn
+1 Vryn Wingmare
+1 Volcanic Torrent
+1 Tlincalli Hunter // Retrieve Prey
+1 Vex
+1 Waker of Waves
+1 Winding Way
+1 Vedalken Archmage
+1 Urban Evolution
+1 Yorion, Sky Nomad
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Warhost's Frenzy
+1 Yuriko, the Tiger's Shadow
+1 Varragoth, Bloodsky Sire
+1 World Breaker
+1 Urza's Tome
+1 Zephyrim
+1 Whisperwood Elemental
+1 Voidmage Prodigy
+1 Vine Kami
+1 Tombstalker
+1 Visions of Beyond
+1 Viscera Seer
+1 Torrential Gearhulk
+{'overall': '6', 'cmc': 3.742424242424242, 'ramp': '12', 'draw': '29', 'interaction': 7}

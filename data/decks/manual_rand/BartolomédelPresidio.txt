@@ -1,0 +1,69 @@
+1 Bartolomé del Presidio
+1 Walking Atlas
+1 Voltaic Construct
+1 Wayward Angel
+1 Vampiric Sliver
+1 Soultether Golem
+1 The Caves of Androzani
+1 Star Pupil
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Toll of the Invasion
+1 Stonecoil Serpent
+1 Venerated Loxodon
+1 World-Weary
+1 Urborg Skeleton
+1 Wayward Servant
+1 Twilight Shepherd
+1 Animate Dead
+1 Thraben Exorcism
+1 Treasure Map // Treasure Cove
+1 Solitary Sanctuary
+1 Vengeful Strangler // Strangling Grasp
+1 Thopter Squadron
+1 Mentor of the Meek
+1 Thief of Blood
+1 Withercrown
+1 Vulpikeet
+1 The Fall of Lord Konda // Fragment of Konda
+1 Sunspring Expedition
+1 Vampire Warlord
+1 Victory's Envoy
+1 Yawgmoth, Thran Physician
+1 Wanderer's Strike
+1 Takklemaggot
+1 Wizard's Rockets
+1 Youthful Valkyrie
+1 Syr Ginger, the Meal Ender
+1 The Witch's Vanity
+1 Vampire's Kiss
+1 Swell of Courage
+1 Witches' Eye
+1 Vulpine Harvester
+1 The Underworld Cookbook
+1 You're Ambushed on the Road
+1 Starfield Mystic
+1 Triumph of Gerrard
+1 The Filigree Sylex
+1 Strixhaven Stadium
+1 Wispmare
+1 Wingsteed Rider
+1 Tetzimoc, Primal Death
+1 Witch's Oven
+1 Vashta Nerada
+1 Tidy Conclusion
+1 Thoughtweft Trio
+1 The Moment
+1 Yoke of the Damned
+1 Unnatural Hunger
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Tribute to Horobi // Echo of Death's Wail
+1 Wayfarer's Bauble
+1 Urza's Saga
+1 Transmogrifying Wand
+1 Werefox Bodyguard
+1 Undercity Necrolisk
+1 Warg Rider
+1 Warped Landscape
+1 Vat of Rebirth
+1 Take Up the Shield
+{'overall': '6', 'cmc': 3.08, 'ramp': '5', 'draw': '11', 'interaction': 12}

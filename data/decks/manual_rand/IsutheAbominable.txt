@@ -1,0 +1,69 @@
+1 Isu the Abominable
+1 Whisperwood Elemental
+1 Unexpectedly Absent
+1 Terminus
+1 Tusk and Whiskers
+1 Yedora, Grave Gardener
+1 Trophy Mage
+1 Visions of Duplicity
+1 Windswept Heath
+1 Seedborn Muse
+1 Tocasia's Dig Site
+1 Viridian Revel
+1 Vesuvan Drifter
+1 Zephyr Singer
+1 Verazol, the Split Current
+1 Wizard's Rockets
+1 Void Grafter
+1 Watchful Automaton
+1 Visions of Glory
+1 Wand of Vertebrae
+1 Voidmage Prodigy
+1 Turn the Earth
+1 Transplant Theorist
+1 Tlincalli Hunter // Retrieve Prey
+1 Vulpikeet
+1 Whir of Invention
+1 Talent of the Telepath
+1 The Fourth Doctor
+1 Walk the Aeons
+1 Ugin, the Ineffable
+1 Woodvine Elemental
+1 Vega, the Watcher
+1 Thran Temporal Gateway
+1 Summoning Trap
+1 Urza's Incubator
+1 Watchers of the Dead
+1 Zephyr Scribe
+1 Llanowar Elves
+1 Totally Lost
+1 Vanquish the Foul
+1 Whiplash Trap
+1 Will of the All-Hunter
+1 Wave of Vitriol
+1 Write into Being
+1 Yomiji, Who Bars the Way
+1 Verdant Touch
+1 Thaumatic Compass // Spires of Orazca
+1 Vivien's Invocation
+1 Waterfront Bouncer
+1 Wand of Ith
+1 _____ _____ Rocketship
+1 Weathered Wayfarer
+1 Veil of Secrecy
+1 Tolarian Geyser
+1 Wave Goodbye
+1 _____ Bird Gets the Worm
+1 Wanderer's Twig
+1 Whirling Catapult
+1 Vastwood Surge
+1 Vessel of Endless Rest
+1 Uncage the Menagerie
+1 Wirewood Guardian
+1 Trove Warden
+1 Wall of Runes
+1 Tezzeret's Gatebreaker
+1 Warden of Evos Isle
+1 Zhulodok, Void Gorger
+1 Vorinclex // The Grand Evolution
+{'overall': '5', 'cmc': 3.676470588235294, 'ramp': '14', 'draw': '20', 'interaction': 5}

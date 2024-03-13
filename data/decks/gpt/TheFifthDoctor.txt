@@ -1,0 +1,67 @@
+1 The Fifth Doctor
+1 Warden of the Beyond
+1 Thousand-Year Elixir
+1 Turnabout
+1 Talus Paladin
+1 Wingmate Roc
+1 Wizened Cenn
+1 Sublime Archangel
+1 Tideshaper Mystic
+1 Vaporkin
+1 Unity of Purpose
+1 Winged Sliver
+1 Treachery
+1 Mana Vault
+1 Ugin's Nexus
+1 Ward of Bones
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Time Stop
+1 Tishana's Tidebinder
+1 Wizards of Thay
+1 Tidal Surge
+1 Waterwhirl
+1 Whirlwind Denial
+1 Waterspout Djinn
+1 Trained Condor
+1 Winds of Rath
+1 Tidal Influence
+1 Teferi, Who Slows the Sunset
+1 Wall of Water
+1 Teferi's Imp
+1 Sungold Sentinel
+1 Valor
+1 Tolarian Drake
+1 Umezawa's Jitte
+1 Tocatli Honor Guard
+1 Sword of the Paruns
+1 Warden of the Inner Sky
+1 Thalakos Dreamsower
+1 Triumph of Gerrard
+1 Vortex Elemental
+1 Wall of Frost
+1 Way of the Thief
+1 Wall of Caltrops
+1 Words of Wind
+1 Veteran's Armaments
+1 Tidal Force
+1 Thassa, God of the Sea
+1 Steadfast Sentry
+1 Trap Runner
+1 Weight of Conscience
+1 Zenith Seeker
+1 Valorous Charge
+1 Starlight Spectacular
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Watertrap Weaver
+1 Tidal Flats
+1 Tidewalker
+1 Tidal Wave
+1 Vedalken Infiltrator
+1 Thoughtweft Trio
+1 Tamiyo's Compleation
+1 Vodalian Knights
+1 Path to Exile
+1 Counterspell
+1 Thalia, Heretic Cathar
+1 Supreme Verdict
+{'overall': '3', 'cmc': 3.303030303030303, 'ramp': '1', 'draw': '3', 'interaction': 9}

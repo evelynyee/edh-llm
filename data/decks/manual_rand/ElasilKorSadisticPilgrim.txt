@@ -1,0 +1,69 @@
+1 Elas il-Kor, Sadistic Pilgrim
+1 Tribute to Horobi // Echo of Death's Wail
+1 Yarok's Fenlurker
+1 Tainted Aether
+1 Thornbite Staff
+1 Witch Hunter
+1 Warlord's Axe
+1 Virtue of Persistence // Locthwain Scorn
+1 The Battle of Bywater
+1 Zulaport Chainmage
+1 Vislor Turlough
+1 Vito, Fanatic of Aclazotz
+1 Wayward Servant
+1 Zombie Boa
+1 Teroh's Faithful
+1 Vampiric Feast
+1 Tenured Inkcaster
+1 Veteran of the Depths
+1 Warren Pilferers
+1 White Dragon
+1 Worldslayer
+1 Mentor of the Meek
+1 Wretched Banquet
+1 Venerated Loxodon
+1 Winnow
+1 Skymarch Bloodletter
+1 Solemn Offering
+1 _____ Bird Gets the Worm
+1 Throat Slitter
+1 Vizkopa Guildmage
+1 Vanquish the Weak
+1 Triumph of Gerrard
+1 Touch of Moonglove
+1 Voltaic Construct
+1 Wand of Orcus
+1 Throwing Knife
+1 Towashi Guide-Bot
+1 Valiant Veteran
+1 Syphon Sliver
+1 Vectis Dominator
+1 Vendetta
+1 Venerable Knight
+1 Vengeance
+1 Wyrm's Crossing Patrol
+1 Vindicate
+1 Tenth District Veteran
+1 Sword of Light and Shadow
+1 Wight
+1 The Underworld Cookbook
+1 Vigil for the Lost
+1 Zhalfirin Lancer
+1 Vengeful Vampire
+1 Timely Reinforcements
+1 Woeleecher
+1 Stormrider Rig
+1 Your Temple Is Under Attack
+1 Transmogrifying Wand
+1 Sunset Revelry
+1 Swords to Plowshares
+1 Wingmantle Chaplain
+1 Wolf in _____ Clothing
+1 Zof Consumption // Zof Bloodbog
+1 Unforgiving One
+1 Warren Weirding
+1 Whitesun's Passage
+1 Supply Drop
+1 Sunstrike Legionnaire
+1 Thunderhawk Gunship
+{'overall': '4', 'cmc': 3.323529411764706, 'ramp': '0', 'draw': '9', 'interaction': 14}

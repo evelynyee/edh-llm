@@ -1,0 +1,101 @@
+1 Phenax, God of Deception
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Reign of the Pit
+1 Ruthless Technomancer
+1 Unforgiving One
+1 Profane Command
+1 Geth, Lord of the Vault
+1 Szat's Will
+1 Tymaret, Chosen from Death
+1 Ludevic, Necrogenius // Olag, Ludevic's Hubris
+1 Finale of Eternity
+1 Curse of the Swine
+1 Necron Monolith
+1 Ghouls' Night Out
+1 Ghastly Demise
+1 Commence the Endgame
+1 Altar of Dementia
+1 Biotransference
+1 Minamo Sightbender
+1 Saw in Half
+1 Stitcher Geralf
+1 Their Number Is Legion
+1 Blue Sun's Twilight
+1 Spawnsire of Ulamog
+1 Blight-Breath Catoblepas
+1 Corpseweft
+1 Mortarion, Daemon Primarch
+1 Dark Salvation
+1 Broodstar
+1 Sanguimancy
+1 Tezzeret the Seeker
+1 Infernal Genesis
+1 Wall of Tombstones
+1 Nightstalker Engine
+1 Animate Artifact
+1 Thassa, God of the Sea
+1 Grisly Spectacle
+1 Nighthawk Scavenger
+1 Crawling Filth
+1 Endrek Sahr, Master Breeder
+1 Necropolis
+1 Flunk
+1 Crowd of Cinders
+1 Spoils of War
+1 Ritual of the Returned
+1 The Mouth of Sauron
+1 Eaten by Piranhas
+1 Armix, Filigree Thrasher
+1 Cruel Somnophage // Can't Wake Up
+1 Go-Shintai of Hidden Cruelty
+1 Black Hole
+1 Doorkeeper
+1 Unlicensed Hearse
+1 Warren Weirding
+1 Mogis's Marauder
+1 Revenant
+1 Kalitas, Bloodchief of Ghet
+1 Minn, Wily Illusionist
+1 Hour of Need
+1 March of the Machines
+1 Candlekeep Inspiration
+1 Liliana, the Last Hope
+1 Devour in Shadow
+1 Twisted Justice
+1 Collective Restraint
+{'overall': '3', 'cmc': 3.8333333333333335, 'ramp': '1', 'draw': '4', 'interaction': 12}

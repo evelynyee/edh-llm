@@ -1,0 +1,68 @@
+1 Garza Zol, Plague Queen
+1 Time Warp
+1 Damnation
+1 Thunder Dragon
+1 Thunderbreak Regent
+1 Viashino Heretic
+1 Wu Longbowman
+1 Volcanic Eruption
+1 Sol Ring
+1 Yuriko, the Tiger's Shadow
+1 Vraska's Contempt
+1 Vraska's Finisher
+1 Vilis, Broker of Blood
+1 Mana Drain
+1 Toralf, God of Fury // Toralf's Hammer
+1 Wildfire Elemental
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Tuktuk Scrapper
+1 Zada's Commando
+1 Yavimaya Steelcrusher
+1 Thunderblade Charge
+1 Viridian Longbow
+1 Telim'Tor's Darts
+1 Yuan-Ti Fang-Blade
+1 Wing Commando
+1 Vampire Champion
+1 Ugin's Conjurant
+1 Zealot of the God-Pharaoh
+1 Uncle Istvan
+1 Viashino Spearhunter
+1 Wayward Guide-Beast
+1 Wingspan Mentor
+1 Whirling Catapult
+1 Wretched Confluence
+1 Unstable Footing
+1 Twin Bolt
+1 Unfriendly Fire
+1 Thunderbolt
+1 Volcanic Fallout
+1 Vexing Devil
+1 Vexing Arcanix
+1 Tarfire
+1 Tormentor's Trident
+1 Web of Inertia
+1 Sword of Hours
+1 Wake the Dead
+1 Ukkima, Stalking Shadow
+1 Wall of Tears
+1 Volcano Hellion
+1 Thornbite Staff
+1 Vicious Shadows
+1 Warstorm Surge
+1 Thrummingbird
+1 Demonic Tutor
+1 Thraximundar
+1 Tyrant's Familiar
+1 Viashino Pyromancer
+1 Tomebound Lich
+1 Vraska, Scheming Gorgon
+1 Sulfuric Vortex
+1 Yawgmoth, Thran Physician
+1 Virtus the Veiled
+1 Witch Hunt
+1 Vengeful Pharaoh
+1 Wicked Visitor
+1 Sulfurous Blast
+1 Tymaret, the Murder King
+{'overall': '4', 'cmc': 3.417910447761194, 'ramp': '2', 'draw': '6', 'interaction': 25}

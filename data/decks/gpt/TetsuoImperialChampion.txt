@@ -1,0 +1,66 @@
+1 Tetsuo, Imperial Champion
+1 Sol Ring
+1 Vandalblast
+1 Mana Vault
+1 Mana Drain
+1 Animate Dead
+1 Wheel of Fate
+1 Thunderous Wrath
+1 Zndrsplt's Judgment
+1 Vexing Arcanix
+1 Tezzeret, Agent of Bolas
+1 Trophy Mage
+1 Ugin, the Spirit Dragon
+1 Thieves' Fortune
+1 Ugin's Insight
+1 Zoetic Glyph
+1 Unmoored Ego
+1 Wizards of the _____
+1 Wake the Dead
+1 War Room
+1 Word of Binding
+1 Surtland Elementalist
+1 Transmogrify
+1 Thassa's Intervention
+1 Unified Will
+1 Tyrant of Valakut
+1 Torgaar, Famine Incarnate
+1 Unclaimed Territory
+1 Windfall
+1 Thunder of Hooves
+1 Viseling
+1 Thieving Skydiver
+1 Vizier of Many Faces
+1 Urza's Incubator
+1 Ulamog, the Ceaseless Hunger
+1 Viashino Heretic
+1 Uba Mask
+1 Toymaker
+1 Tidal Bore
+1 Wretched Gryff
+1 Visions of Dread
+1 Visions of Ruin
+1 Tendrils of Agony
+1 Vizier of the Anointed
+1 Thousand-Year Storm
+1 Swindler's Scheme
+1 Wandering Archaic // Explore the Vastlands
+1 Yuriko, the Tiger's Shadow
+1 Trinket Mage
+1 Tidespout Tyrant
+1 Swashbuckler's Whip
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Tzaangor Shaman
+1 Wildfire Devils
+1 Winter's Chill
+1 Wasteland Strangler
+1 The Magic Mirror
+1 Turn Aside
+1 Voidmage Husher
+1 Whirling Catapult
+1 Ukkima, Stalking Shadow
+1 Synchronized Eviction
+1 Thieving Sprite
+1 Tasha, the Witch Queen
+1 Woebearer
+{'overall': '4', 'cmc': 3.723076923076923, 'ramp': '3', 'draw': '19', 'interaction': 14}

@@ -1,0 +1,66 @@
+1 Heiko Yamazaki, the General
+1 Wheel of Fate
+1 Young Pyromancer
+1 Wildfire Devils
+1 Sunbird Standard // Sunbird Effigy
+1 Traitorous Greed
+1 Toralf, God of Fury // Toralf's Hammer
+1 Thunderous Wrath
+1 Tome Shredder
+1 Zurzoth, Chaos Rider
+1 Wildfire Cerberus
+1 Tuktuk Scrapper
+1 Wrecking Ogre
+1 Sword of Light and Shadow
+1 Treasure Keeper
+1 Thunderkin Awakener
+1 Tectonic Giant
+1 Thunder Brute
+1 Vandalblast
+1 Zealous Conscripts
+1 Zurgo Bellstriker
+1 Tunnel Ignus
+1 Stormwing Dragon
+1 Taurean Mauler
+1 Sneak Attack
+1 Skirk Alarmist
+1 Viashino Heretic
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Tyrant of Valakut
+1 Skirk Volcanist
+1 Warping Wail
+1 Tormod's Crypt
+1 Thought Dissector
+1 Snapping Thragg
+1 Transmogrify
+1 Wayward Guide-Beast
+1 Scale of Chiss-Goria
+1 Warlord's Fury
+1 Tilonalli's Skinshifter
+1 Varchild's Crusader
+1 Stormbreath Dragon
+1 Worldfire
+1 World at War
+1 Whalebone Glider
+1 Swashbuckler's Whip
+1 Village Watch // Village Reavers
+1 Stensia Masquerade
+1 Wild Celebrants
+1 Ulamog's Crusher
+1 Trove of Temptation
+1 Thundersteel Colossus
+1 Tawnos's Wand
+1 Zada, Hedron Grinder
+1 Spellbinder
+1 Tiamat's Fanatics
+1 Whirling Catapult
+1 Storm King's Thunder
+1 Wrenn's Resolve
+1 Zelyon Sword
+1 Towashi Guide-Bot
+1 Torch the Tower
+1 Thornbite Staff
+1 Tarox Bladewing
+1 Valakut Exploration
+1 Sword of the Animist
+{'overall': '4', 'cmc': 3.6307692307692307, 'ramp': '6', 'draw': '6', 'interaction': 13}

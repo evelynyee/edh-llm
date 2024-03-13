@@ -1,0 +1,66 @@
+1 Lord Magnus
+1 Treetop Rangers
+1 Vine Mare
+1 Treefolk Mystic
+1 Turntimber Basilisk
+1 Vine Trellis
+1 Soltari Monk
+1 Weaver of Harmony
+1 Takeno's Cavalry
+1 Zhang Fei, Fierce Warrior
+1 Takeno, Samurai General
+1 Bloom Tender
+1 Sol Ring
+1 Mana Vault
+1 Vedalken Orrery
+1 Sword of Feast and Famine
+1 Upwelling
+1 Urban Burgeoning
+1 Verdant Outrider
+1 Wild Growth
+1 Whipgrass Entangler
+1 Traxos, Scourge of Kroog
+1 Wilt-Leaf Cavaliers
+1 Tadeas, Juniper Ascendant
+1 Whalebone Glider
+1 White Plume Adventurer
+1 Vengeant Earth
+1 Spectral Grasp
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wayfaring Temple
+1 Vines of Vastwood
+1 Wall of Mulch
+1 Tempting Licid
+1 Wardscale Dragon
+1 Teferi's Protection
+1 War Mammoth
+1 Ulamog's Crusher
+1 Zendikar Farguide
+1 Tangle
+1 Seedborn Muse
+1 Swords to Plowshares
+1 Wojek Siren
+1 Stormkeld Vanguard // Bear Down
+1 Venerated Rotpriest
+1 Tawnos's Wand
+1 Wall of One Thousand Cuts
+1 Willow Faerie
+1 Tel-Jilad Wolf
+1 Voice of Truth
+1 Wing Shards
+1 Trollhide
+1 Wax // Wane
+1 Thundersteel Colossus
+1 Path to Exile
+1 War Horn
+1 Wallop
+1 Zodiac Tiger
+1 Veteran Armorer
+1 Twinblade Slasher
+1 Trailblazer's Torch
+1 Xenk, Paladin Unbroken
+1 Testament of Faith
+1 Thousand-Year Elixir
+1 Vitalize
+1 Vintara Elephant
+{'overall': '3', 'cmc': 3.2, 'ramp': '6', 'draw': '2', 'interaction': 11}

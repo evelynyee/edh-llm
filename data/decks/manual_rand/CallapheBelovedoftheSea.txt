@@ -1,0 +1,69 @@
+1 Callaphe, Beloved of the Sea
+1 Wheel and Deal
+1 Wu Scout
+1 Sunbird Standard // Sunbird Effigy
+1 Turn into a Pumpkin
+1 Subjugate the Hobbits
+1 Virtue of Knowledge // Vantress Visions
+1 Veiled Crocodile
+1 Spell Contortion
+1 Waterspout Elemental
+1 Steel Golem
+1 Summary Dismissal
+1 Tempest Owl
+1 Twiddle
+1 Wandering Archaic // Explore the Vastlands
+1 Wurm's Tooth
+1 Volshe Tideturner
+1 The Enigma Jewel // Locus of Enlightenment
+1 Unnatural Selection
+1 The Peregrine Dynamo
+1 Wandering Archaic // Explore the Vastlands
+1 Words of Wind
+1 Unerring Sling
+1 Talent of the Telepath
+1 Sway of Illusion
+1 Xerex Strobe-Knight
+1 Walking Bulwark
+1 Cyclonic Rift
+1 Vedalken Mastermind
+1 Vortex Elemental
+1 Threefold Signal
+1 Thrumming Stone
+1 Veiled Serpent
+1 Spell Snare
+1 Spell Shrivel
+1 Thundercloud Elemental
+1 Xanthic Statue
+1 Vedalken Orrery
+1 Stolen by the Fae
+1 The Everflowing Well // The Myriad Pools
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Vedalken Certarch
+1 Vanquisher's Banner
+1 Wrong Turn
+1 Turbulent Dreams
+1 Soul of the Rapids
+1 Viscerid Deepwalker
+1 Vesuvan Shapeshifter
+1 Temporal Cleansing
+1 Urza's Chalice
+1 Vantress Paladin
+1 TARDIS
+1 Thought Harvester
+1 Su-Chi Cave Guard
+1 Traverse Eternity
+1 Tomb of the Spirit Dragon
+1 Umara Entangler
+1 Vedalken Engineer
+1 Thryx, the Sudden Storm
+1 Void Mirror
+1 Wave Elemental
+1 Wall of Forgotten Pharaohs
+1 Chrome Mox
+1 Warkite Marauder
+1 Soulless Jailer
+1 Untethered Express
+1 Voidmage Prodigy
+1 Sleight of Mind
+{'overall': '4', 'cmc': 3.208955223880597, 'ramp': '7', 'draw': '9', 'interaction': 3}

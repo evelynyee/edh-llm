@@ -1,0 +1,64 @@
+1 Deathleaper, Terror Weapon
+1 Atalan Jackal
+1 Command Tower
+1 Sol Ring
+1 Cinder Glade
+1 Goblin Anarchomancer
+1 Arcane Signet
+1 Flamerush Rider
+1 Rhythm of the Wild
+1 Beast Within
+1 Nature's Lore
+1 Primal Forcemage
+1 Garruk's Uprising
+1 Rampant Growth
+1 Elturel Survivors
+1 Ball Lightning
+1 Rockfall Vale
+1 Viashino Sandsprinter
+1 Kessig Wolf Run
+1 Rite of the Raging Storm
+1 Spring-Leaf Avenger
+1 Ogre Battledriver
+1 Cultivate
+1 Froghemoth
+1 Blasphemous Act
+1 Chaos Warp
+1 Game Trail
+1 Rootbound Crag
+1 Hunter's Insight
+1 Urabrask the Hidden
+1 Flameshadow Conjuring
+1 Groundbreaker
+1 Stomping Ground
+1 Farseek
+1 Shatterskull Charger
+1 Blade of Selves
+1 Ulvenwald Oddity
+1 Three Visits
+1 Toski, Bearer of Secrets
+1 Spire Garden
+1 Samut, Vizier of Naktamun
+1 Ardoz, Cobbler of War
+1 Beast Whisperer
+1 Shadow in the Warp
+1 Karplusan Forest
+1 Ohran Frostfang
+1 Mirage Phalanx
+1 Bloodbraid Elf
+1 Archwing Dragon
+1 Hull Breach
+1 Lightning Greaves
+1 Gruul Signet
+1 Ilharg, the Raze-Boar
+1 Jaxis, the Troublemaker
+1 Kodama's Reach
+1 Llanowar Elves
+1 Elemental Bond
+1 Warchief Giant
+1 Swiftfoot Boots
+1 Urabrask's Forge
+1 Kiki-Jiki, Mirror Breaker
+1 Heroic Intervention
+1 Temur Sabertooth
+{'overall': '6', 'cmc': 2.9047619047619047, 'ramp': '11', 'draw': '10', 'interaction': 4}

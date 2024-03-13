@@ -1,0 +1,69 @@
+1 Killian, Ink Duelist
+1 Timely Ward
+1 Worthy Cause
+1 Voldaren Estate
+1 Umbra Stalker
+1 Start // Finish
+1 Vanish into Eternity
+1 Vindictive Mob
+1 The Immortal Sun
+1 Unholy Hunger
+1 Yare
+1 Tyrant's Machine
+1 Swords to Plowshares
+1 Virulent Swipe
+1 Spirit en-Dal
+1 Vectis Gloves
+1 Tithe Taker
+1 Teferi's Protection
+1 Zhentarim Bandit
+1 Visage of Dread // Dread Osseosaur
+1 Undercity's Embrace
+1 Transmogrifying Licid
+1 Zagoth Mamba
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Thran Turbine
+1 Spire Golem
+1 Wasteland Strangler
+1 Viper's Kiss
+1 Toxic Deluge
+1 Zodiac Snake
+1 Supernatural Rescue
+1 Soulless Jailer
+1 Vengeful Reaper
+1 Verrak, Warped Sengir
+1 Waste Management
+1 Diabolic Tutor
+1 Wei Elite Companions
+1 Worship
+1 Topple
+1 Wings of Hubris
+1 The Battle of Bywater
+1 Thwart the Grave
+1 Smother
+1 Traumatic Revelation
+1 Worldslayer
+1 Zhulodok, Void Gorger
+1 Warden of the Beyond
+1 Withering Boon
+1 Wail of the Nim
+1 Vashta Nerada
+1 Wandering Archaic // Explore the Vastlands
+1 Underworld Charger
+1 Vampire Interloper
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Visions of Brutality
+1 Ugin's Mastery
+1 Zombie Trailblazer
+1 Windborn Muse
+1 Vesperlark
+1 White Sun's Twilight
+1 Whalebone Glider
+1 Trueheart Duelist
+1 Twinning Glass
+1 Tiller of Flesh
+1 Wasp of the Bitter End
+1 Trusted Pegasus
+1 Trinisphere
+1 Unliving Psychopath
+{'overall': '4', 'cmc': 3.161764705882353, 'ramp': '2', 'draw': '4', 'interaction': 16}

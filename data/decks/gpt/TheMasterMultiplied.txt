@@ -1,0 +1,67 @@
+1 The Master, Multiplied
+1 Vito, Thorn of the Dusk Rose
+1 Wight
+1 Blood Artist
+1 Tymaret, Chosen from Death
+1 Worms of the Earth
+1 Wall of Lava
+1 Thundering Giant
+1 Thundermaw Hellkite
+1 Voldaren Estate
+1 Vengeful Strangler // Strangling Grasp
+1 Whisper, Blood Liturgist
+1 Unearthly Blizzard
+1 Unnatural Hunger
+1 Wort, Boggart Auntie
+1 Stone Idol Trap
+1 Young Pyromancer
+1 Thran Forge
+1 The Chain Veil
+1 Tuktuk the Explorer
+1 Volcanic Offering
+1 Wall of Corpses
+1 Zodiac Rat
+1 Dark Ritual
+1 Vampiric Sliver
+1 Mana Vault
+1 Wall of Stone
+1 Vedalken Shackles
+1 Sudden Spoiling
+1 Surrakar Marauder
+1 Stormblood Berserker
+1 Trove of Temptation
+1 Zulaport Enforcer
+1 Vindictive Mob
+1 Viscid Lemures
+1 War-Name Aspirant
+1 Warlord's Fury
+1 Vorpal Sword
+1 Viashino Heretic
+1 Wirefly Hive
+1 Treasure Nabber
+1 Toggo, Goblin Weaponsmith
+1 Zagoth Mamba
+1 Tuktuk Rubblefort
+1 Xiahou Dun, the One-Eyed
+1 War-Trained Slasher
+1 Winter Orb
+1 Ultimate Price
+1 Underworld Hermit
+1 Vizier of the Scorpion
+1 Victorious Destruction
+1 Veteran's Voice
+1 Zephyr Boots
+1 Wall of Razors
+1 War Horn
+1 Warbeast of Gorgoroth
+1 Vile Requiem
+1 Witchbane Orb
+1 Zombie Master
+1 Wall of Shadows
+1 Wicked Pact
+1 Vial of Poison
+1 Vraska's Contempt
+1 Volcanic Fallout
+1 Twisted Fealty
+1 The Book of Vile Darkness
+{'overall': '5', 'cmc': 3.0454545454545454, 'ramp': '3', 'draw': '3', 'interaction': 9}

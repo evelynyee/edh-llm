@@ -1,0 +1,64 @@
+1 Bill the Pony
+1 Sol Ring
+1 Swords to Plowshares
+1 Rosie Cotton of South Lane
+1 Stoneskin
+1 The Battle of Bywater
+1 Path to Exile
+1 Academy Manufactor
+1 Eastfarthing Farmer
+1 Ephemerate
+1 Fortifying Provisions
+1 Late to Dinner
+1 Arcane Signet
+1 Daxos, Blessed by the Sun
+1 Rogue's Passage
+1 Teleportation Circle
+1 Rasaad yn Bashir
+1 Mentor of the Meek
+1 Refuse to Yield
+1 Access Tunnel
+1 Of Herbs and Stewed Rabbit
+1 Crested Sunmare
+1 Eland Umbra
+1 Far Traveler
+1 Mind Stone
+1 Generous Gift
+1 Knight of the White Orchid
+1 Nyx-Fleece Ram
+1 Slagwurm Armor
+1 Baldin, Century Herdmaster
+1 Cloudshift
+1 Wall of Omens
+1 Aegis of the Heavens
+1 Zetalpa, Primal Dawn
+1 Witch's Oven
+1 Lembas
+1 Dusk // Dawn
+1 Giant Ox
+1 The Gaffer
+1 Second Breakfast
+1 Flicker of Fate
+1 Swiftfoot Boots
+1 Wayfarer's Bauble
+1 Slip On the Ring
+1 Slaughter the Strong
+1 Solemn Simulacrum
+1 The Underworld Cookbook
+1 Fell the Mighty
+1 War Room
+1 Looming Altisaur
+1 Smothering Tithe
+1 Marble Diamond
+1 Felidar Guardian
+1 Myriad Landscape
+1 Sun Titan
+1 Kami of Old Stone
+1 Secret Rendezvous
+1 Indomitable Ancients
+1 Oathsworn Giant
+1 Bar the Door
+1 Gilraen, Dúnedain Protector
+1 Cathar's Shield
+1 Hobbit's Sting
+{'overall': '5', 'cmc': 2.746031746031746, 'ramp': '8', 'draw': '9', 'interaction': 9}

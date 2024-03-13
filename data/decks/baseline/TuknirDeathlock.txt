@@ -1,0 +1,101 @@
+1 Tuknir Deathlock
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Flowstone Overseer
+1 Narcissism
+1 Ghitu War Cry
+1 Captive Flame
+1 Nantuko Disciple
+1 Dwarven Lieutenant
+1 Devotee of Strength
+1 Ghost-Lit Nourisher
+1 Ghor-Clan Rampager
+1 Skarrg Goliath
+1 Moonveil Dragon
+1 One-Clown Band
+1 Alpha Kavu
+1 Gravel-Hide Goblin
+1 Shambling Strider
+1 Devkarin Dissident
+1 Iridescent Blademaster
+1 Almighty Brushwagg
+1 Elven Fortress
+1 Kithkin Daggerdare
+1 Tattermunge Witch
+1 Relentless Hunter
+1 Viashivan Dragon
+1 Orochi Eggwatcher // Shidako, Broodmistress
+1 Wasteland Viper
+1 Flame Spirit
+1 Firefly
+1 Granite Gargoyle
+1 Folk of the Pines
+1 Zhur-Taa Swine
+1 Dragon Hatchling
+1 Killer Bees
+1 Ironhoof Boar
+1 Furnace Whelp
+1 Teeterpeak Ambusher
+1 Bold Impaler
+1 Lavastep Raider
+1 Quilled Wolf
+1 Furnace Spirit
+1 Sun-Collared Raptor
+1 Hematite Golem
+1 Hellkite Punisher
+1 Flowstone Wyvern
+1 Feral Ridgewolf
+1 Ember-Eye Wolf
+1 Cavern Thoctar
+1 Bellows Lizard
+1 Pixie Queen
+1 Igneous Cur
+1 Weaselback Redcap
+1 Kraul Warrior
+1 Scab-Clan Charger
+1 Leaping Lizard
+1 Pack Mastiff
+1 Torchling
+1 Fathom Fleet Firebrand
+1 Deepwood Drummer
+1 Stonewood Invoker
+1 Slaughterhorn
+1 Ursapine
+1 Flowstone Mauler
+1 Rubblebelt Maaka
+1 Pyre Charger
+{'overall': '1', 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 0}

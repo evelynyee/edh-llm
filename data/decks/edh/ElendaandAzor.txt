@@ -1,0 +1,64 @@
+1 Elenda and Azor
+1 Arcane Signet
+1 Command Tower
+1 Sol Ring
+1 Swords to Plowshares
+1 Reliquary Tower
+1 Thought Vessel
+1 Teferi's Ageless Insight
+1 Skullclamp
+1 Exotic Orchard
+1 Arcane Sanctum
+1 Windfall
+1 Path to Exile
+1 Talisman of Dominance
+1 Orzhov Signet
+1 Raffine's Tower
+1 Queza, Augur of Agonies
+1 Brainstorm
+1 Corpse Knight
+1 Talisman of Hierarchy
+1 Decanter of Endless Water
+1 Vodalian Wave-Knight
+1 Azorius Signet
+1 Alhammarret's Archive
+1 Distant Melody
+1 Dimir Signet
+1 Raffine, Scheming Seer
+1 Prairie Stream
+1 Sanctum Seeker
+1 Counterspell
+1 Talisman of Progress
+1 Rhystic Study
+1 Hallowed Fountain
+1 Godless Shrine
+1 Watery Grave
+1 Knight Exemplar
+1 Fellwar Stone
+1 Sunken Hollow
+1 Void Rend
+1 Herald of Hoofbeats
+1 Elas il-Kor, Sadistic Pilgrim
+1 Sea of Clouds
+1 Psychosis Crawler
+1 Smothering Tithe
+1 Path of Ancestry
+1 Morphic Pool
+1 Arcane Denial
+1 Consecrated Sphinx
+1 Caves of Koilos
+1 Vault of Champions
+1 Bojuka Bog
+1 Ashnod's Altar
+1 Anguished Unmaking
+1 Mondrak, Glory Dominus
+1 Transcendent Message
+1 Kindred Discovery
+1 Bident of Thassa
+1 Champion of Dusk
+1 Soul Warden
+1 Dovin's Veto
+1 Generous Gift
+1 Reconnaissance Mission
+1 Sheoldred, the Apocalypse
+{'overall': '7', 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '16', 'interaction': 9}

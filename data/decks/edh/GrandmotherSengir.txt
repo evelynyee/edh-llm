@@ -1,0 +1,64 @@
+1 Grandmother Sengir
+1 Sol Ring
+1 Dark Ritual
+1 Charcoal Diamond
+1 Mind Stone
+1 Arcane Signet
+1 Myriad Landscape
+1 Tragic Slip
+1 Read the Bones
+1 Sign in Blood
+1 Feed the Swarm
+1 Bojuka Bog
+1 Cabal Stronghold
+1 Mutilate
+1 Barren Moor
+1 Caged Sun
+1 Wayfarer's Bauble
+1 Gray Merchant of Asphodel
+1 Witch's Cottage
+1 Plague Dogs
+1 Cabal Torturer
+1 Diabolic Tutor
+1 Cabal Coffers
+1 Tooth Collector
+1 Suffocating Fumes
+1 Darkblast
+1 Midnight Banshee
+1 Chittering Witch
+1 Magus of the Coffers
+1 Grim Haruspex
+1 Solemn Simulacrum
+1 Grim Poppet
+1 Village Rites
+1 Swiftfoot Boots
+1 Thespian's Stage
+1 Castle Locthwain
+1 Painbringer
+1 Rabid Rats
+1 Nausea
+1 Tourach's Chant
+1 Fevered Convulsions
+1 Phyrexian Arena
+1 Infernal Grasp
+1 Shambling Ghast
+1 Bogbrew Witch
+1 Shambling Goblin
+1 Festering Newt
+1 Dread Presence
+1 Syr Konrad, the Grim
+1 Blood Artist
+1 Crypt Ghast
+1 Instill Infection
+1 Make Obsolete
+1 Fungal Infection
+1 Defile
+1 Marsh Casualties
+1 Ichor Slick
+1 Night's Whisper
+1 Bubbling Cauldron
+1 Contagion Clasp
+1 Bontu's Monument
+1 Sadistic Obsession
+1 Nest of Scarabs
+{'overall': '6', 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '15', 'interaction': 6}

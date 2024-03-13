@@ -1,0 +1,67 @@
+1 Emperor Mihail II
+1 Zhalfirin Void
+1 Undead Alchemist
+1 Sphinx of Jwar Isle
+1 Teferi, Mage of Zhalfir
+1 Mana Vault
+1 Zoetic Glyph
+1 Wizards of the _____
+1 Stream of Thought
+1 Trail of Evidence
+1 Trophy Mage
+1 Wizened Snitches
+1 Skaab Goliath
+1 Mulldrifter
+1 Thieving Skydiver
+1 Ugin, the Spirit Dragon
+1 Wistful Thinking
+1 Wheel and Deal
+1 Teferi's Wavecaster
+1 Walk the Aeons
+1 Web of Inertia
+1 Thought-Knot Seer
+1 Tolarian Winds
+1 Zndrsplt, Eye of Wisdom
+1 Storm Elemental
+1 Stolen Goods
+1 Sweet Oblivion
+1 Tidal Courier
+1 Venser's Journal
+1 Sudden Insight
+1 Well of Ideas
+1 Wing Commando
+1 Whirling Catapult
+1 Tezzeret, Cruel Machinist
+1 Spelltwine
+1 Sphinx's Herald
+1 Wanderwine Prophets
+1 Visions of Beyond
+1 Vizier of Tumbling Sands
+1 Mana Drain
+1 Traumatic Visions
+1 Surgespanner
+1 Trinket Mage
+1 Ugin's Mastery
+1 Swarm Intelligence
+1 Spelljack
+1 Sphinx of Lost Truths
+1 Spellweaver Helix
+1 Urza, Powerstone Prodigy
+1 Swan Song
+1 Spellseeker
+1 Cyclonic Rift
+1 Talrand, Sky Summoner
+1 Swashbuckler's Whip
+1 Surtland Elementalist
+1 Synchronized Eviction
+1 Thassa's Intervention
+1 Time Spiral
+1 Supreme Will
+1 Venser's Diffusion
+1 Twincast
+1 Voyager Staff
+1 Throne of Bone
+1 Windcaller Aven
+1 Telemin Performance
+1 The Reality Chip
+{'overall': '5', 'cmc': 3.772727272727273, 'ramp': '5', 'draw': '29', 'interaction': 8}

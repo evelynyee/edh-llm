@@ -1,0 +1,64 @@
+1 Skanos Dragonheart
+1 Seedborn Muse
+1 Untamed Might
+1 Llanowar Elves
+1 Verdant Sun's Avatar
+1 Vivien's Invocation
+1 Green Sun's Zenith
+1 Vivien Reid
+1 Umezawa's Jitte
+1 Sylvan Advocate
+1 Wrenn and Seven
+1 Territorial Witchstalker
+1 Yisan, the Wanderer Bard
+1 Weaver of Harmony
+1 War Mammoth
+1 Sylvan Awakening
+1 Yorvo, Lord of Garenbrig
+1 Triumph of Ferocity
+1 Sword of Light and Shadow
+1 Sudden Strength
+1 Vines of Vastwood
+1 Triumph of the Hordes
+1 Tel-Jilad Wolf
+1 Winding Way
+1 Tribal Unity
+1 Viridian Corrupter
+1 Sylvan Paradise
+1 Sword of Hours
+1 Vine Mare
+1 Vine Gecko
+1 Thorn Lieutenant
+1 Thunderfoot Baloth
+1 Voracious Hydra
+1 Trail of Mystery
+1 Verdant Command
+1 Verdurous Gearhulk
+1 Ugin's Nexus
+1 Veil of Summer
+1 Veilstone Amulet
+1 Viridian Claw
+1 Vivien, Nature's Avenger
+1 Superior Numbers
+1 Vitalize
+1 War Dance
+1 Vivify
+1 Ugin, the Spirit Dragon
+1 Verdant Field
+1 Wren's Run Hydra
+1 Wildwood Mentor
+1 Wildwood Tracker
+1 Whip Vine
+1 Soul's Majesty
+1 Trailblazer
+1 Wandering Archaic // Explore the Vastlands
+1 Tendershoot Dryad
+1 Wildgrowth Walker
+1 Crop Rotation
+1 Rampant Growth
+1 Zendikar Resurgent
+1 Titanic Growth
+1 Tireless Hauler // Dire-Strain Brawler
+1 Veteran's Armaments
+1 Tyvar's Stand
+{'overall': '5', 'cmc': 3.1587301587301586, 'ramp': '6', 'draw': '12', 'interaction': 6}

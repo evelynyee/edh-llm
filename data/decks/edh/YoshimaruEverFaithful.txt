@@ -1,0 +1,64 @@
+1 Yoshimaru, Ever Faithful
+1 Swords to Plowshares
+1 Sol Ring
+1 Eiganjo, Seat of the Empire
+1 Path to Exile
+1 Isamaru, Hound of Konda
+1 Flagstones of Trokair
+1 Blackblade Reforged
+1 Anafenza, Kin-Tree Spirit
+1 Sword of the Animist
+1 Shadowspear
+1 Eiganjo Castle
+1 Keleth, Sunmane Familiar
+1 Thalia, Heretic Cathar
+1 Esper Sentinel
+1 Oketra's Monument
+1 Day of Destiny
+1 Mikaeus, the Lunarch
+1 Urza's Ruinous Blast
+1 Daxos, Blessed by the Sun
+1 Legion's Landing
+1 Adeline, Resplendent Cathar
+1 Reidane, God of the Worthy
+1 Generous Gift
+1 Arcane Signet
+1 Mox Amber
+1 Enlightened Tutor
+1 Lae'zel, Vlaakith's Champion
+1 Ao, the Dawn Sky
+1 Mangara, the Diplomat
+1 Elesh Norn, Grand Cenobite
+1 Spear of Heliod
+1 Teshar, Ancestor's Apostle
+1 Linden, the Steadfast Queen
+1 Flawless Maneuver
+1 Teferi's Protection
+1 Skrelv, Defector Mite
+1 Thalia, Guardian of Thraben
+1 Heroes' Podium
+1 Geier Reach Sanitarium
+1 Mikokoro, Center of the Sea
+1 Loran of the Third Path
+1 Baird, Steward of Argive
+1 The Ozolith
+1 Nykthos, Shrine to Nyx
+1 Emeria, the Sky Ruin
+1 Kytheon, Hero of Akros
+1 Heliod, Sun-Crowned
+1 Farewell
+1 Swiftfoot Boots
+1 The Wandering Emperor
+1 Eight-and-a-Half-Tails
+1 Mother of Runes
+1 Eater of Virtue
+1 Smothering Tithe
+1 Flaming Fist
+1 Luxior, Giada's Gift
+1 Tomik, Distinguished Advokist
+1 On Serra's Wings
+1 Mangara of Corondor
+1 Rune-Tail, Kitsune Ascendant
+1 Flowering of the White Tree
+1 Umezawa's Jitte
+{'overall': '7', 'cmc': 2.3, 'ramp': '7', 'draw': '6', 'interaction': 8}

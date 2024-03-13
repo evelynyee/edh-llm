@@ -1,0 +1,101 @@
+1 Dina, Soul Steeper
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Thallid Omnivore
+1 Nightmare's Thirst
+1 Fortifying Draught
+1 Blood-Chin Fanatic
+1 Revenge of Ravens
+1 Duskwielder
+1 Essence Pulse
+1 Dying Wish
+1 Virtue of Persistence // Locthwain Scorn
+1 Mage Hunters' Onslaught
+1 Catapult Fodder // Catapult Captain
+1 Heal the Scars
+1 Moment of Craving
+1 Hardy Outlander
+1 Ulcerate
+1 Vito, Thorn of the Dusk Rose
+1 Gruesome Fate
+1 The Meathook Massacre
+1 Herbology Instructor // Malady Invoker
+1 Gloom Sower
+1 Kheru Dreadmaw
+1 Foul-Tongue Shriek
+1 Death's Caress
+1 Zulaport Cutthroat
+1 Vraska's Conquistador
+1 Aerial Predation
+1 Mortis Dogs
+1 Eriette's Tempting Apple
+1 Gríma Wormtongue
+1 Disciple of Griselbrand
+1 Blood Artist
+1 Canopy Stalker
+1 Kheru Bloodsucker
+1 Shriveling Rot
+1 Relic Vial
+1 Tidy Conclusion
+1 False Cure
+1 Undercity's Embrace
+1 Mask of Griselbrand
+1 Boon of Erebos
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Flayer of Loyalties
+1 Falkenrath Noble
+1 Spearbreaker Behemoth
+1 Whalebone Glider
+1 Smuggler's Copter
+1 Elderfang Venom
+1 Nantuko Mentor
+1 Mosstodon
+1 Lich's Caress
+1 Time to Feed
+1 Stronghold Discipline
+1 Blossoming Bogbeast
+1 Reaper's Talisman
+1 Sanctum Seeker
+1 Infernal Reckoning
+1 Tribute to Hunger
+1 Caged Zombie
+1 Bushmeat Poacher
+1 Ghost Ark
+1 Ob Nixilis of the Black Oath
+1 Blood Reckoning
+1 Beacon Behemoth
+{'overall': '1', 'cmc': 3.303030303030303, 'ramp': '0', 'draw': '5', 'interaction': 8}

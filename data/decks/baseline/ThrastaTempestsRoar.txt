@@ -1,0 +1,101 @@
+1 Thrasta, Tempest's Roar
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Bouncer's Beatdown
+1 Hunter's Mark
+1 Avatar of Might
+1 Animist's Might
+1 Falling Timber
+1 Mage Duel
+1 Obscuring Haze
+1 Gnarlback Rhino
+1 Lys Alana Bowmaster
+1 Snag
+1 Savage Stomp
+1 Pause for Reflection
+1 Sword of Once and Future
+1 Glamdring
+1 Titanic Brawl
+1 Kefnet's Monument
+1 Spoils of the Hunt
+1 Gargos, Vicious Watcher
+1 Oakhame Adversary
+1 Defense Grid
+1 Charge of the Forever-Beast
+1 Darksteel Sentinel
+1 Refreshing Rain
+1 Illusionary Mask
+1 Sentinel Tower
+1 Glyph of Reincarnation
+1 Hexbane Tortoise
+1 Terra Stomper
+1 Constant Mists
+1 TARDIS
+1 Struggle for Skemfar
+1 Tail Swipe
+1 Hope of Ghirapur
+1 Legolas's Quick Reflexes
+1 Purple Worm
+1 Wolfkin Outcast // Wedding Crasher
+1 Leonin Bladetrap
+1 Rysorian Badger
+1 Pyromancer's Gauntlet
+1 Manaplasm
+1 Not of This World
+1 Canopy Surge
+1 Seedtime
+1 Steel Hellkite
+1 Sawtusk Demolisher
+1 Warden of the Woods
+1 Ruxa, Patient Professor
+1 Cityscape Leveler
+1 Insist
+1 Heart of Kiran
+1 Ferris Wheel
+1 Garruk, Savage Herald
+1 Titan's Presence
+1 Outmuscle
+1 Delif's Cone
+1 Hematite Talisman
+1 Arcum's Whistle
+1 Arboretum Elemental
+1 Heavy Fog
+1 Deep Wood
+1 Invigorate
+1 Subdue
+1 Spellbinder
+{'overall': '2', 'cmc': 3.5384615384615383, 'ramp': '3', 'draw': '7', 'interaction': 12}

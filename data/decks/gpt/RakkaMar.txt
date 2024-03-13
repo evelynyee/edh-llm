@@ -1,0 +1,64 @@
+1 Rakka Mar
+1 Sneak Attack
+1 Wurmcoil Engine
+1 Thunder Dragon
+1 Thundermaw Hellkite
+1 Utvara Hellkite
+1 Spawning Breath
+1 Spark Elemental
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Torch Gauntlet
+1 Toralf, God of Fury // Toralf's Hammer
+1 Young Pyromancer
+1 Lightning Bolt
+1 Sol Ring
+1 Chaos Warp
+1 Whirlermaker
+1 Wayward Guide-Beast
+1 Warping Wail
+1 Sparkspitter
+1 Tibalt's Rager
+1 Tuktuk Rubblefort
+1 Sarkhan the Masterless
+1 Sword of Kaldra
+1 Ugin, the Ineffable
+1 Warden of the Wall
+1 Snare Thopter
+1 Storm-Kiln Artist
+1 Thundermaw Hellkite
+1 Varchild, Betrayer of Kjeldor
+1 Sarkhan the Masterless
+1 Sol Ring
+1 Sneak Attack
+1 Wurmcoil Engine
+1 Sword of Kaldra
+1 Toralf, God of Fury // Toralf's Hammer
+1 Whirlermaker
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Spark Elemental
+1 Warping Wail
+1 Warden of the Wall
+1 Song-Mad Treachery // Song-Mad Ruins
+1 Thunder Dragon
+1 Sparkspitter
+1 Sarpadian Empires, Vol. VII
+1 Viashino Heretic
+1 Village Watch // Village Reavers
+1 Wayward Guide-Beast
+1 Wild Celebrants
+1 Whalebone Glider
+1 Thornbite Staff
+1 Surly Badgersaur
+1 Warchief Giant
+1 Vaultbreaker
+1 Starke of Rath
+1 Young Pyromancer
+1 Torch the Tower
+1 Storm-Kiln Artist
+1 Tuktuk Rubblefort
+1 Vengeful Firebrand
+1 Torch Gauntlet
+1 Trove of Temptation
+1 Thran Power Suit
+1 Talruum Champion
+{'overall': '6', 'cmc': 3.5681818181818183, 'ramp': '7', 'draw': '2', 'interaction': 15}{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}

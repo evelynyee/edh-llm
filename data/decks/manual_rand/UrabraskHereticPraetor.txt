@@ -1,0 +1,69 @@
+1 Urabrask, Heretic Praetor
+1 Chromatic Lantern
+1 Terminal Moraine
+1 The Golden Throne
+1 Yasmin Khan
+1 Share the Spoils
+1 Thumbscrews
+1 Umbilicus
+1 Strange Inversion
+1 Unquenchable Fury
+1 Word of Seizing
+1 Volcanic Awakening
+1 War-Spike Changeling
+1 Tome Shredder
+1 Tempered in Solitude
+1 Tectonic Fiend
+1 Storybook Ride
+1 Twinning Glass
+1 The Stasis Coffin
+1 Zhulodok, Void Gorger
+1 Urabrask's Forge
+1 Wayfarer's Bauble
+1 Tyrant of Valakut
+1 Slate of Ancestry
+1 Tormenting Voice
+1 Yavimaya, Cradle of Growth
+1 Valakut Exploration
+1 Skirk Alarmist
+1 Volcanic Spray
+1 Wildfire Eternal
+1 Visions of Phyrexia
+1 Synod Sanctum
+1 Tectonic Giant
+1 Sword of the Animist
+1 Skirk Drill Sergeant
+1 Ward of Bones
+1 Screamreach Brawler
+1 Tocasia's Dig Site
+1 Weight of Spires
+1 Threefold Signal
+1 Wandering Archaic // Explore the Vastlands
+1 Ulamog, the Ceaseless Hunger
+1 Thresher Lizard
+1 Tuskeri Firewalker
+1 Well of Lost Dreams
+1 Thieves' Auction
+1 Tomakul Scrapsmith
+1 Storage Matrix
+1 Tel-Jilad Stylus
+1 Scorn Effigy
+1 Viashino Sandscout
+1 War's Toll
+1 Sunbird Standard // Sunbird Effigy
+1 Touch of the Void
+1 Storm King's Thunder
+1 Sowing Salt
+1 Wall of Junk
+1 Unlucky Witness
+1 Sorcerer's Strongbox
+1 Spellbinder
+1 Sensation Gorger
+1 Thran War Machine
+1 Wheel of Fate
+1 Thoughtbound Primoc
+1 Traveler's Amulet
+1 Shah of Naar Isle
+1 Thawing Glaciers
+1 Well of Life
+{'overall': '4', 'cmc': 3.176470588235294, 'ramp': '9', 'draw': '9', 'interaction': 4}

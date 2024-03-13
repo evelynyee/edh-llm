@@ -1,0 +1,101 @@
+1 Pia Nalaar
+1 Den of the Bugbear
+1 Blinkmoth Nexus
+1 Mishra's Factory
+1 Mishra's Foundry
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mortarpod
+1 Searing Barb
+1 Nesting Dragon
+1 Mask of Immolation
+1 Dragon Egg
+1 Hammer of Purphoros
+1 Myr Matrix
+1 Brood Keeper
+1 Otherworldly Outburst
+1 Arterial Alchemy
+1 Furnace Gremlin
+1 Jhoira's Toolbox
+1 Heroes of the Revel
+1 Harried Spearguard
+1 Marauding Dreadship
+1 Bloody Betrayal
+1 Foriysian Totem
+1 Balloon Stand
+1 Pugnacious Pugilist
+1 Chimeric Sphere
+1 The Irencrag
+1 Tibalt, Rakish Instigator
+1 Gnawing Crescendo
+1 Sanguine Statuette
+1 Stuffed Bear
+1 Toggo, Goblin Weaponsmith
+1 Involuntary Employment
+1 Darksteel Brute
+1 Ceremonial Knife
+1 Prying Blade
+1 Song of Totentanz
+1 Sibling Rivalry
+1 Clockwork Gnomes
+1 Hornet Cannon
+1 Sokenzan, Crucible of Defiance
+1 Goldvein Pick
+1 Gilded Pinions
+1 Rekindling Phoenix
+1 Cartographer's Companion
+1 Ogre Chitterlord
+1 Diviner's Wand
+1 Goro-Goro, Disciple of Ryusei
+1 Siren Song Lyre
+1 Diamond Pick-Axe
+1 Slobad, Goblin Tinkerer
+1 Goblin Chirurgeon
+1 Primal Clay
+1 Furnace Reins
+1 Retrofitter Foundry
+1 Sokenzan Smelter
+1 Triplicate Titan
+1 Sticky Fingers
+1 Ebony Fly
+1 Nettlecyst
+1 Ghirapur Gearcrafter
+1 Captain Lannery Storm
+1 Invasion of Mercadia // Kyren Flamewright
+1 Koth of the Hammer
+1 Smoke Spirits' Aid
+1 Careening Mine Cart
+1 Fearless Liberator
+1 Nuisance Engine
+1 Inquisitorial Rosette
+{'overall': '7', 'cmc': 2.5072463768115942, 'ramp': '14', 'draw': '8', 'interaction': 8}

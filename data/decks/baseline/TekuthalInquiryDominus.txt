@@ -1,0 +1,101 @@
+1 Tekuthal, Inquiry Dominus
+1 Drannith Ruins
+1 Karn's Bastion
+1 Blast Zone
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Essence Bottle
+1 Tezzeret's Gambit
+1 Involuntary Cooldown
+1 Myr Convert
+1 Angelheart Vial
+1 Luxa River Shrine
+1 The Millennium Calendar
+1 Viral Drake
+1 Etched Oracle
+1 Ventifact Bottle
+1 Magistrate's Scepter
+1 Spectral Adversary
+1 Wicked Slumber
+1 Ludevic's Test Subject // Ludevic's Abomination
+1 Infused Arrows
+1 Sleep-Cursed Faerie
+1 Paragon of Modernity
+1 Chillerpillar
+1 Confiscation Coup
+1 The Filigree Sylex
+1 Tablet of Compleation
+1 Oblivion Stone
+1 Sun Droplet
+1 Kyren Toy
+1 Clockwork Avian
+1 Skitter Eel
+1 Sage of Hours
+1 Component Pouch
+1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
+1 Lost Isle Calling
+1 Freeze in Place
+1 Necrogen Censer
+1 Clockwork Steed
+1 Coralhelm Commander
+1 Ingenious Prodigy
+1 Golden Urn
+1 Opaline Bracers
+1 Blue Mana Battery
+1 The Monumental Facade
+1 Sawtooth Thresher
+1 Clockwork Swarm
+1 Clearwater Goblet
+1 Jinxed Choker
+1 Skatewing Spy
+1 Rimefeather Owl
+1 Lux Cannon
+1 Torture Chamber
+1 Solarion
+1 Heliophial
+1 Clockwork Beast
+1 Recantation
+1 Mazemind Tome
+1 Rejuvenation Chamber
+1 Spinal Parasite
+1 Lotus Blossom
+1 Jeweled Amulet
+1 Coral Reef
+1 Rusting Golem
+1 Tidal Influence
+1 Cryptic Trilobite
+1 Plague Myr
+1 Unity of Purpose
+1 Ribskiff
+{'overall': '5', 'cmc': 3.073529411764706, 'ramp': '12', 'draw': '8', 'interaction': 5}

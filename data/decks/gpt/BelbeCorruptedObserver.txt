@@ -1,0 +1,67 @@
+1 Belbe, Corrupted Observer
+1 Animate Dead
+1 Vraska's Contempt
+1 Verdant Outrider
+1 Rampant Growth
+1 Sol Ring
+1 Yuan-Ti Fang-Blade
+1 Weaver of Harmony
+1 Withering Wisps
+1 Wren's Run Vanquisher
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Zulaport Chainmage
+1 Tranquil Frillback
+1 Viridian Joiner
+1 Vial of Poison
+1 Tormented Thoughts
+1 Zombie Master // Zombie Master
+1 Vampire Champion
+1 Whispersteel Dagger
+1 Tymaret, Chosen from Death
+1 Vivien, Arkbow Ranger
+1 Spawn of Mayhem
+1 Verdant Haven
+1 Tsabo's Web
+1 The Immortal Sun
+1 Virtus the Veiled
+1 Vampiric Rites
+1 Seedborn Muse
+1 Unnatural Growth
+1 Thran Weaponry
+1 Thran Turbine
+1 Uncle Istvan
+1 Workshop Warchief
+1 Word of Binding
+1 Thornbow Archer
+1 Well of Lost Dreams
+1 Wake the Dead
+1 Wrenn and Seven
+1 Wire Surgeons
+1 Warden of the Woods
+1 Varragoth, Bloodsky Sire
+1 Toymaker
+1 Subversion
+1 Wicked Visitor
+1 Whirling Catapult
+1 Weed Strangle
+1 War Room
+1 Vengeful Warchief
+1 Sun Droplet
+1 Veinwitch Coven
+1 Volrath's Gardens
+1 Wild Growth
+1 Vengeful Pharaoh
+1 Tendrils of Agony
+1 Words of Waste
+1 Yawgmoth's Will
+1 Urborg
+1 Vine Dryad
+1 Wall of Vipers
+1 Void Attendant
+1 Syphon Soul
+1 Vampire Neonate
+1 Willowdusk, Essence Seer
+1 The Chain Veil
+1 Tendrils of Corruption
+1 Vraska, Golgari Queen
+{'overall': '5', 'cmc': 3.106060606060606, 'ramp': '8', 'draw': '11', 'interaction': 8}

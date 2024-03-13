@@ -1,0 +1,68 @@
+1 Gandalf, Westward Voyager
+1 Wildcall
+1 Trail of Evidence
+1 Tormod's Crypt
+1 Tranquil Frillback
+1 Waker of Waves
+1 Wistful Thinking
+1 Wizards of the _____
+1 Zhalfirin Void
+1 Unified Will
+1 Vizier of the Menagerie
+1 Weaver of Harmony
+1 Whirlwind Denial
+1 Unexpected Results
+1 Thassa's Intervention
+1 Whir of Invention
+1 Stream of Thought
+1 Stolen Goods
+1 Visions of Beyond
+1 Turn Aside
+1 Truth or Tale
+1 Wheel and Deal
+1 Swashbuckler's Whip
+1 Zimone, Quandrix Prodigy
+1 Vastwood Surge
+1 Surtland Elementalist
+1 The Magic Mirror
+1 Thought-Knot Seer
+1 Voidmage Husher
+1 Vivien's Invocation
+1 Tamiyo, Collector of Tales
+1 Welcome to the Fold
+1 Whirling Catapult
+1 Verdant Eidolon
+1 Vizier of the Anointed
+1 Venerable Kumo
+1 Vedalken Archmage
+1 Seedborn Muse
+1 Rampant Growth
+1 Venser, Shaper Savant
+1 Synchronized Eviction
+1 Trophy Mage
+1 Vine Gecko
+1 Volo, Itinerant Scholar
+1 Woodland Sleuth
+1 Zephyr Singer
+1 Mulldrifter
+1 Vivien, Nature's Avenger
+1 Urban Evolution
+1 Wren's Run Vanquisher
+1 Treasure Cruise
+1 Turntimber Sower
+1 Thieves' Fortune
+1 Teferi, Mage of Zhalfir
+1 Windswept Heath
+1 Wanderer's Twig
+1 Vernal Bloom
+1 Tolarian Kraken
+1 Vesuvan Drifter
+1 Voyager Drake
+1 Winged Coatl
+1 Vessel of Endless Rest
+1 Wizard's Spellbook
+1 Verdant Mastery
+1 Voidmage Prodigy
+1 Voidmage Apprentice
+1 Vizier of Many Faces
+{'overall': '5', 'cmc': 3.5970149253731343, 'ramp': '9', 'draw': '24', 'interaction': 7}

@@ -1,0 +1,68 @@
+1 Pippin, Warden of Isengard
+1 Wildcall
+1 Verdant Eidolon
+1 Wild Onslaught
+1 Verdant Touch
+1 Thran Vigil
+1 Wildgrowth Walker
+1 Vraska's Contempt
+1 Worldly Tutor
+1 Sylvan Hierophant
+1 Vivien's Invocation
+1 Varragoth, Bloodsky Sire
+1 World Breaker
+1 Vengevine
+1 Vivien, Nature's Avenger
+1 Yisan, the Wanderer Bard
+1 Verdant Sun's Avatar
+1 Wren's Run Packmaster
+1 Verdant Mastery
+1 Vorinclex // The Grand Evolution
+1 Voracious Typhon
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Vivien Reid
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Sol Ring
+1 Sword of the Animist
+1 Workshop Warchief
+1 Damnation
+1 Vastwood Surge
+1 Vraska, Golgari Queen
+1 Tymaret Calls the Dead
+1 Vivien, Champion of the Wilds
+1 Veteran Explorer
+1 Traverse the Outlands
+1 Sword of the Meek
+1 Vedalken Shackles
+1 Vengeful Reaper
+1 Vengeful Rebel
+1 Vulturous Aven
+1 Tyvar Kell
+1 Vivien, Monsters' Advocate
+1 Vigorspore Wurm
+1 Wreath of Geists
+1 Teething Wurmlet
+1 Wolfcaller's Howl
+1 Vivien of the Arkbow
+1 Vampire Nocturnus
+1 Withering Wisps
+1 Whirling Catapult
+1 Thorntooth Witch
+1 Toshiro Umezawa
+1 Wake the Dead
+1 Visions of Dread
+1 Whalebone Glider
+1 Wasteland Strangler
+1 Tragic Fall
+1 Go for the Throat
+1 Squirrel Wrangler
+1 Whisper Squad
+1 Treacherous Pit-Dweller
+1 Tooth Collector
+1 Virtus's Maneuver
+1 Tilling Treefolk
+1 Ugin's Mastery
+1 Titanoth Rex
+1 The Great Henge
+{'overall': '6', 'cmc': 3.671641791044776, 'ramp': '12', 'draw': '12', 'interaction': 8}

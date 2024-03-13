@@ -1,0 +1,64 @@
+1 Urza, Prince of Kroog
+1 Thopter Assembly
+1 Tezzeret, Artifice Master
+1 Tezzeret, Cruel Machinist
+1 Mana Drain
+1 Sunspire Gatekeepers
+1 Smothering Tithe
+1 Thopter Spy Network
+1 Thraben Doomsayer
+1 Mulldrifter
+1 Thassa, God of the Sea
+1 Counterspell
+1 Swords to Plowshares
+1 Talrand, Sky Summoner
+1 Thorough Investigation
+1 Thistledown Liege
+1 Turn into a Pumpkin
+1 Teferi's Protection
+1 Teyo, Geometric Tactician
+1 Time Wipe
+1 Valorous Stance
+1 Vesuvan Shapeshifter
+1 Wall of Nets
+1 Teyo, the Shieldmage
+1 Thousand-Faced Shadow
+1 Valor in Akros
+1 Unctus's Retrofitter
+1 Wondrous Crucible
+1 Wu Elite Cavalry
+1 Wall of Kelp
+1 Trostani's Judgment
+1 Vedalken Certarch
+1 Song of the Worldsoul
+1 Warlord's Elite
+1 Thraben Watcher
+1 Thunder Totem
+1 Voice of Reason
+1 Will, Scion of Peace
+1 Vronos, Masked Inquisitor
+1 Vizier of Many Faces
+1 Tide Drifter
+1 Sun Ce, Young Conquerer
+1 Valorous Steed
+1 Synod Centurion
+1 Wayward Angel
+1 Urza, Powerstone Prodigy
+1 Sworn Companions
+1 Syphon Essence
+1 Urza's Saga
+1 Volrath's Laboratory
+1 Tezzeret the Seeker
+1 Mana Vault
+1 Timely Reinforcements
+1 Vedalken Outlander
+1 Willbreaker
+1 Teroh's Vanguard
+1 Wavecrash Triton
+1 Staff of Titania
+1 Venser, the Sojourner
+1 Urza, Lord High Artificer
+1 Wurmcoil Engine
+1 Tolarian Entrancer
+1 Tezzeret, Betrayer of Flesh
+{'overall': '6', 'cmc': 3.6507936507936507, 'ramp': '5', 'draw': '10', 'interaction': 9}

@@ -1,0 +1,69 @@
+1 Rishkar, Peema Renegade
+1 Undercellar Myconid
+1 Stag Beetle
+1 Tendril of the Mycotyrant
+1 Thrashing Mossdog
+1 Woodland Sleuth
+1 Undermountain Adventurer
+1 Wayfarer's Bauble
+1 Weapon Rack
+1 Unclaimed Territory
+1 Wurmquake
+1 Well of Life
+1 The Ozolith
+1 Soultether Golem
+1 Vastwood Surge
+1 Wolverine Riders
+1 Verdant Confluence
+1 Sunset Pyramid
+1 Zendikar Resurgent
+1 Steel Dromedary
+1 Untaidake, the Cloud Keeper
+1 Veteran's Armaments
+1 Tower Worker
+1 Willow Geist
+1 Turn to Dust
+1 Seedborn Muse
+1 Urza's Power Plant
+1 Web
+1 Tough Cookie
+1 Tawnos's Tinkering
+1 Thornbite Staff
+1 Surrak and Goreclaw
+1 Stand Together
+1 Warden of the Wall
+1 Storyweave
+1 Village Elder
+1 Ulvenwald Bear
+1 Steelbane Hydra
+1 Tireless Provisioner
+1 Universal Solvent
+1 Sigil of Distinction
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 The Hunter Maze
+1 Wirewood Channeler
+1 Spike Colony
+1 Toxic Scorpion
+1 Verdant Automaton
+1 Urn of Godfire
+1 Uktabi Efreet
+1 Wizard's Rockets
+1 Verdurous Gearhulk
+1 Titania, Nature's Force
+1 Trolls of Tel-Jilad
+1 Wickerbough Elder
+1 Terrain Generator
+1 Thrashing Brontodon
+1 Thorn Thallid
+1 Unbridled Growth
+1 Terrarion
+1 Wild Mongrel
+1 Sun Droplet
+1 Sporesower Thallid
+1 Timbermare
+1 The Tabernacle at Pendrell Vale
+1 Sphere of the Suns
+1 Thallid
+1 Thundering Mightmare
+1 Strip Mine
+{'overall': '5', 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3}

@@ -1,0 +1,69 @@
+1 Faramir, Steward of Gondor
+1 Yorion, Sky Nomad
+1 Stroke of Midnight
+1 Summoning Station
+1 Ugin, the Ineffable
+1 Touchstone
+1 Venser, the Sojourner
+1 Urza's Factory
+1 Threefold Thunderhulk
+1 Wyrm's Crossing Patrol
+1 Thassa, God of the Sea
+1 Wayward Angel
+1 Summoner's Bane
+1 Ugin's Insight
+1 You See a Guard Approach
+1 Thraben Sentry // Thraben Militia
+1 You Come to a River
+1 Teyo, Geometric Tactician
+1 Tezzeret, Cruel Machinist
+1 Triumphant Reckoning
+1 Vesuvan Shapeshifter
+1 Ultramarines Honour Guard
+1 Teleportation Circle
+1 Vedalken Humiliator
+1 Trynn, Champion of Freedom
+1 Treasure Vault
+1 Stormfront Riders
+1 The Circle of Loyalty
+1 Zhalfirin Decoy
+1 Warden of the Wall
+1 Zephyr Singer
+1 Veil of Assimilation
+1 Unyaro Griffin
+1 Warkite Marauder
+1 Valkyrie Harbinger
+1 Voltaic Key
+1 Unerring Sling
+1 The Golden Throne
+1 Thraben Doomsayer
+1 Twilight Drover
+1 _____ _____ Rocketship
+1 Transmogrifying Wand
+1 Mentor of the Meek
+1 Thopter Assembly
+1 Zoetic Glyph
+1 Watertrap Weaver
+1 Ugin's Construct
+1 Vexilus Praetor
+1 Zygon Infiltrator
+1 Wedding Invitation
+1 Thoughtcast
+1 Vedalken Shackles
+1 The Seventh Doctor
+1 Voidwielder
+1 Thran Lens
+1 War Report
+1 The Fall of Lord Konda // Fragment of Konda
+1 Wurmcoil Engine
+1 Unlicensed Hearse
+1 Urza's Saga
+1 Valor of the Worthy
+1 Ugin's Mastery
+1 Treasure Map // Treasure Cove
+1 Sunder the Gateway
+1 Urza's Command
+1 Tah-Crop Skirmisher
+1 Voice of Law
+1 Treasure Map // Treasure Cove
+{'overall': '5', 'cmc': 3.582089552238806, 'ramp': '3', 'draw': '12', 'interaction': 7}

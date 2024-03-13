@@ -1,0 +1,64 @@
+1 Tekuthal, Inquiry Dominus
+1 Flux Channeler
+1 Thrummingbird
+1 Tezzeret's Gambit
+1 Experimental Augury
+1 Sol Ring
+1 Contentious Plan
+1 Karn's Bastion
+1 Everflowing Chalice
+1 Inexorable Tide
+1 Astral Cornucopia
+1 Contagion Clasp
+1 Serum Snare
+1 Steady Progress
+1 Ichormoon Gauntlet
+1 Prologue to Phyresis
+1 Contagion Engine
+1 Reject Imperfection
+1 Teferi, Master of Time
+1 Viral Drake
+1 Narset, Parter of Veils
+1 Guildpact Informant
+1 Deepglow Skate
+1 Counterspell
+1 Staff of Compleation
+1 Arcane Signet
+1 Vivisurgeon's Insight
+1 Fuel for the Cause
+1 Tamiyo, the Moon Sage
+1 Mystic Sanctuary
+1 Glistening Sphere
+1 Reliquary Tower
+1 Replicating Ring
+1 Spark Double
+1 Teferi, Temporal Pilgrim
+1 Magistrate's Scepter
+1 As Foretold
+1 Teferi, Temporal Archmage
+1 Tezzeret the Seeker
+1 Blighted Agent
+1 Nesting Grounds
+1 Midnight Clock
+1 Mesmerizing Dose
+1 Tezzeret, Artifice Master
+1 Chasm Skulker
+1 Lux Cannon
+1 Cyclonic Rift
+1 Sword of Truth and Justice
+1 Sapphire Medallion
+1 Jace, Cunning Castaway
+1 Fabricate
+1 Pongify
+1 Rhystic Study
+1 Darksteel Reactor
+1 Myojin of Cryptic Dreams
+1 Thought Vessel
+1 Jace, the Mind Sculptor
+1 Ominous Seas
+1 Kasmina, Enigmatic Mentor
+1 Plague Myr
+1 Empowered Autogenerator
+1 Rapid Hybridization
+1 Nykthos, Shrine to Nyx
+{'overall': '7', 'cmc': 2.9206349206349205, 'ramp': '14', 'draw': '21', 'interaction': 11}

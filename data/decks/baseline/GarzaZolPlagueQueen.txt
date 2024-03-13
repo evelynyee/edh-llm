@@ -1,0 +1,101 @@
+1 Garza Zol, Plague Queen
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Blood Cultist
+1 Slith Firewalker
+1 Erdwal Ripper
+1 Markov Blademaster
+1 Marchesa's Infiltrator
+1 Hobblefiend
+1 Stromkirk Patrol
+1 Necropolis Regent
+1 Bloodcrazed Neonate
+1 Drana, Liberator of Malakir
+1 Kazarov, Sengir Pureblood
+1 Rakish Heir
+1 Vampiric Dragon
+1 Falkenrath Marauders
+1 Slith Strider
+1 Scab-Clan Berserker
+1 Hidetsugu Consumes All // Vessel of the All-Consuming
+1 Dreadhorde Butcher
+1 Coastal Piracy
+1 Falkenrath Exterminator
+1 Plague Spitter
+1 Blood Ogre
+1 Curse of Stalked Prey
+1 Seafloor Oracle
+1 Gangrenous Zombies
+1 Quest for Pure Flame
+1 Five-Alarm Fire
+1 Akroan Sergeant
+1 Sengir Bats
+1 Vengeful Pharaoh
+1 Oona's Blackguard
+1 Robe of the Archmagi
+1 Research Thief
+1 Bring Low
+1 Firkraag, Cunning Instigator
+1 Ammit Eternal
+1 Grenzo's Ruffians
+1 Tomebound Lich
+1 Anthem of Rakdos
+1 Initiate of Blood // Goka the Unjust
+1 Diseased Vermin
+1 Aegar, the Freezing Flame
+1 Garna, Bloodfist of Keld
+1 Spark Mage
+1 Acolyte of the Inferno
+1 Whispering Specter
+1 Slith Bloodletter
+1 Puncture Bolt
+1 Sword of Hours
+1 Blur of Blades
+1 Aggravate
+1 Loafing Giant
+1 Midnight Reaper
+1 Purifying Dragon
+1 Arcbond
+1 Jhessian Thief
+1 Jeska, Thrice Reborn
+1 Axelrod Gunnarson
+1 Spiteful Prankster
+1 Hissing Iguanar
+1 Scroll Thief
+1 Embermaw Hellion
+1 Nine-Tail White Fox
+{'overall': '3', 'cmc': 3.55, 'ramp': '0', 'draw': '16', 'interaction': 22}

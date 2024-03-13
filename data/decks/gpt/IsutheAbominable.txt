@@ -1,0 +1,65 @@
+1 Isu the Abominable
+1 Rampant Growth
+1 Birds of Paradise
+1 Wood Elves
+1 Urban Evolution
+1 Verdant Crescendo
+1 Vizier of the Menagerie
+1 Visions of Beyond
+1 Vanquish the Foul
+1 Worldly Tutor
+1 Trophy Mage
+1 Sylvan Library
+1 Wrenn and Seven
+1 Vanquisher's Banner
+1 Vizier of the Anointed
+1 Warden of Evos Isle
+1 Vedalken Aethermage
+1 Seedborn Muse
+1 Vanish into Eternity
+1 Wildcall
+1 Zhalfirin Void
+1 Thassa's Intervention
+1 Zephyrim
+1 Vedalken Archmage
+1 Vizier of Tumbling Sands
+1 Telling Time
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Voidmage Prodigy
+1 Wingsteed Rider
+1 Unexpected Results
+1 Vastwood Surge
+1 Thrasios, Triton Hero
+1 Whisperwood Elemental
+1 Wistful Thinking
+1 Zimone, Quandrix Prodigy
+1 Vineglimmer Snarl
+1 Whirlpool Drake
+1 Vexing Puzzlebox
+1 The Magic Mirror
+1 Vivien's Invocation
+1 Trelasarra, Moon Dancer
+1 Yorion, Sky Nomad
+1 Vivien, Monsters' Advocate
+1 The Ring Goes South
+1 Wizards of the _____
+1 Trove Warden
+1 Vivien, Nature's Avenger
+1 Vendilion Clique
+1 Venser's Journal
+1 Waker of Waves
+1 Windswept Heath
+1 World Breaker
+1 Vexing Sphinx
+1 Twinblade Geist // Twinblade Invocation
+1 Zur's Weirding
+1 Wandering Graybeard
+1 Traumatic Visions
+1 Wheel and Deal
+1 Whirling Catapult
+1 Vine Gecko
+1 Viridian Emissary
+1 Vedalken Dismisser
+1 Vengevine
+1 Veil of Secrecy
+{'overall': '6', 'cmc': 3.609375, 'ramp': '15', 'draw': '27', 'interaction': 5}

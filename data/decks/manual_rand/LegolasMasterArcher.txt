@@ -1,0 +1,69 @@
+1 Legolas, Master Archer
+1 Willow Priestess
+1 Shrine of Burning Rage
+1 Unlicensed Hearse
+1 Vivien, Champion of the Wilds
+1 Toymaker
+1 Talara's Battalion
+1 Wurmcalling
+1 Terravore
+1 Unnatural Restoration
+1 Sol Ring
+1 The Peregrine Dynamo
+1 Titania's Song
+1 Vorinclex, Monstrous Raider
+1 Wolfcaller's Howl
+1 Touchstone
+1 Subdue
+1 Vastwood Surge
+1 Smell Fear
+1 Rampant Growth
+1 Titan of Industry
+1 Thornbite Staff
+1 Tapestry of the Ages
+1 Steel Hellkite
+1 Venerated Rotpriest
+1 Troublemaker Ouphe
+1 Tuskguard Captain
+1 Winding Canyons
+1 Staff of the Mind Magus
+1 Tree of Redemption
+1 Urza's Engine
+1 Telim'Tor's Darts
+1 Terrifying Presence
+1 Wolfkin Outcast // Wedding Crasher
+1 Triskelavus
+1 Visions of Dominance
+1 Ugin's Nexus
+1 Thran Power Suit
+1 The Great Henge
+1 The Immortal Sun
+1 Tomakul Honor Guard
+1 Trollbred Guardian
+1 Unerring Sling
+1 Tandem Takedown
+1 Thrive
+1 Sentinel Tower
+1 Zendikar Resurgent
+1 Verdant Outrider
+1 Vivien's Jaguar
+1 Wing Puncture
+1 Virulent Sliver
+1 Vivien on the Hunt
+1 Unbound Flourishing
+1 Tangletrap
+1 Weathered Runestone
+1 Wandering Wolf
+1 Slingbow Trap
+1 Webweaver Changeling
+1 Treefolk Seedlings
+1 Twinning Staff
+1 Thundering Chariot
+1 Vital Surge
+1 Well of Lost Dreams
+1 Vernal Equinox
+1 Tuinvale Treefolk // Oaken Boon
+1 Treefolk Umbra
+1 Soul's Might
+1 Squallmonger
+{'overall': '4', 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7}

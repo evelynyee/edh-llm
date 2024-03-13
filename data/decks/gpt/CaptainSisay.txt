@@ -1,0 +1,67 @@
+1 Captain Sisay
+1 Survival of the Fittest
+1 Sylvan Library
+1 Sylvan Hierophant
+1 Sylvan Bounty
+1 Vernal Bloom
+1 Sylvan Ranger
+1 Verdant Haven
+1 Vastwood Surge
+1 Verdant Mastery
+1 Traverse the Ulvenwald
+1 Verdant Eidolon
+1 Wren's Run Packmaster
+1 Tempt with Discovery
+1 Wren's Run Vanquisher
+1 Sylvan Scrying
+1 Woodland Champion
+1 Worldly Tutor
+1 Wildgrowth Walker
+1 Yavimaya Ants
+1 Wildcall
+1 The Ring Goes South
+1 Zephyrim
+1 Thundering Wurm
+1 Vivien's Invocation
+1 Wooded Foothills
+1 Verdant Catacombs
+1 Vessel of Nascency
+1 Viridian Emissary
+1 Vizier of the Menagerie
+1 Vivien, Nature's Avenger
+1 Verdant Crescendo
+1 Trelasarra, Moon Dancer
+1 Time of Need
+1 Swords to Plowshares
+1 Stoneforge Mystic
+1 Birds of Paradise
+1 Teshar, Ancestor's Apostle
+1 Ugin, the Spirit Dragon
+1 Sylvan Reclamation
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Ulvenwald Hydra
+1 Vorinclex, Monstrous Raider
+1 Weatherseed Treefolk
+1 Trepanation Blade
+1 Veteran Explorer
+1 Viridian Harvest
+1 Wall of Omens
+1 Sword of the Animist
+1 Tilling Treefolk
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Wrenn and Seven
+1 Woodland Sleuth
+1 Vivien's Grizzly
+1 Tuinvale Treefolk // Oaken Boon
+1 Sylvan Tutor
+1 Wood Elves
+1 Wurmcalling
+1 Stonehewer Giant
+1 Temur War Shaman
+1 Zhalfirin Void
+1 Woodfall Primus
+1 Smothering Tithe
+1 Vizier of Deferment
+1 Ugin, the Ineffable
+1 Tethmos High Priest
+{'overall': '8', 'cmc': 3.393939393939394, 'ramp': '19', 'draw': '19', 'interaction': 4}

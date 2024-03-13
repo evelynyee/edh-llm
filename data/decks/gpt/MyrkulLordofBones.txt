@@ -1,0 +1,66 @@
+1 Myrkul, Lord of Bones
+1 Llanowar Elves
+1 Birds of Paradise
+1 Mana Vault
+1 Wren's Run Packmaster
+1 Toymaker
+1 Vona, Butcher of Magan
+1 Vivien, Monsters' Advocate
+1 Animate Dead
+1 Wake the Dead
+1 Unearth
+1 Vengevine
+1 Tolsimir, Friend to Wolves
+1 Visions of Dread
+1 Voracious Vermin
+1 Wilt-Leaf Liege
+1 Whispers of Emrakul
+1 Ulamog, the Infinite Gyre
+1 Whirlermaker
+1 Whalebone Glider
+1 Wayfaring Temple
+1 Wildgrowth Walker
+1 Wingmate Roc
+1 Weaver of Harmony
+1 Tomb Tyrant
+1 Vraska, Golgari Queen
+1 Treacherous Urge
+1 Vivien, Arkbow Ranger
+1 Vorinclex // The Grand Evolution
+1 Thalia's Geistcaller
+1 Triumph of Ferocity
+1 Terastodon
+1 Workshop Warchief
+1 Trove Warden
+1 Wasteland Strangler
+1 Zephyrim
+1 Titanic Brawl
+1 Sunscourge Champion
+1 Wirewood Hivemaster
+1 Uchuulon
+1 Weed Strangle
+1 Vraska's Contempt
+1 Zombie Assassin
+1 Woe Strider
+1 Workshop Assistant
+1 Teroh's Vanguard
+1 Yawgmoth's Edict
+1 The Great Henge
+1 The Kenriths' Royal Funeral
+1 The Battle of Bywater
+1 Viridian Revel
+1 Verdant Succession
+1 The Torment of Gollum
+1 Warping Wail
+1 Unmake
+1 Wicked Visitor
+1 Waste Not
+1 Xathrid Demon
+1 Verdant Sun's Avatar
+1 Vengeful Strangler // Strangling Grasp
+1 Wallop
+1 Terashi's Grasp
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Vivify
+1 Wolfkin Outcast // Wedding Crasher
+{'overall': '7', 'cmc': 3.646153846153846, 'ramp': '8', 'draw': '14', 'interaction': 12}

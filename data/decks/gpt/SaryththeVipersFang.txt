@@ -1,0 +1,68 @@
+1 Saryth, the Viper's Fang
+1 Verdant Haven
+1 Viridian Corrupter
+1 Zodiac Tiger
+1 Vines of Vastwood
+1 Zendikar Resurgent
+1 Woodland Champion
+1 Avenger of Zendikar
+1 Vernal Bloom
+1 Treetop Village
+1 Birds of Paradise
+1 Woodripper
+1 Wildborn Preserver
+1 Vine Kami
+1 Triumph of the Hordes
+1 Wildwood Tracker
+1 Woodfall Primus
+1 Vine Mare
+1 Green Sun's Zenith
+1 Thornbite Staff
+1 Wild Growth
+1 Treetop Rangers
+1 Vengeant Earth
+1 Whalebone Glider
+1 Traxos, Scourge of Kroog
+1 Tempting Licid
+1 Spinny Ride
+1 Warden of the Wall
+1 Unstable Frontier
+1 Sylvan Paradise
+1 Storm the Seedcore
+1 Weaver of Harmony
+1 Wildgrowth Walker
+1 Wild Onslaught
+1 Sylvan Advocate
+1 Sylvan Awakening
+1 Titanic Brawl
+1 Wren's Run Packmaster
+1 Venomous Breath
+1 Stampeding Elk Herd
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Thousand-Year Elixir
+1 Vastwood Zendikon
+1 Vitalize
+1 Veil of Summer
+1 Temur Sabertooth
+1 Territorial Baloth
+1 Umezawa's Jitte
+1 Vorinclex, Voice of Hunger
+1 Seedborn Muse
+1 Workshop Warchief
+1 Thermokarst
+1 Treefolk Mystic
+1 Tendershoot Dryad
+1 Tyrite Sanctum
+1 Traproot Kami
+1 Triumph of Ferocity
+1 Ulamog's Crusher
+1 Willow Dryad
+1 Yavimaya Dryad
+1 Ugin's Construct
+1 Vial of Poison
+1 Sustenance
+1 Wandering Troubadour
+1 Wildwood Mentor
+1 Thicket Basilisk
+1 Vine Dryad
+{'overall': '4', 'cmc': 3.1791044776119404, 'ramp': '8', 'draw': '5', 'interaction': 11}

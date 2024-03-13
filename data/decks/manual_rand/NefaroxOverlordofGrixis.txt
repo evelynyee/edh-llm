@@ -1,0 +1,69 @@
+1 Nefarox, Overlord of Grixis
+1 Smogsteed Rider
+1 Without Weakness
+1 Thundering Chariot
+1 Wall of Tombstones
+1 Warp Artifact
+1 Warlord's Axe
+1 Trespasser's Curse
+1 Sword of Kaldra
+1 Thunderstaff
+1 Vampiric Embrace
+1 Toxic Stench
+1 Tresserhorn Skyknight
+1 Walking Desecration
+1 Undercity Necrolisk
+1 Young Wei Recruits
+1 Slayer's Cleaver
+1 Transmogrifying Licid
+1 Termination Facilitator
+1 The Wretched
+1 Stromkirk Patrol
+1 Go for the Throat
+1 Wretched Confluence
+1 Urge to Feed
+1 Temple Thief
+1 Witch-king of Angmar
+1 Watchdog
+1 Spincrusher
+1 Sparring Golem
+1 Silumgar Butcher
+1 Vector Asp
+1 Witch's Mist
+1 Suq'Ata Assassin
+1 Stingblade Assassin
+1 Xiahou Dun, the One-Eyed
+1 Warg Rider
+1 Telethopter
+1 Viridian Longbow
+1 Trespasser il-Vec
+1 Weatherlight Compleated
+1 Weigh Down
+1 Undercity Shade
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Vorpal Sword
+1 Zenith Chronicler
+1 You Are Already Dead
+1 Whispersteel Dagger
+1 Xathrid Demon
+1 Thran Vigil
+1 Triangle of War
+1 Zulaport Enforcer
+1 Vrock
+1 Trip Noose
+1 Tek
+1 Sword of Feast and Famine
+1 Xathrid Gorgon
+1 Urborg Scavengers
+1 Signal Pest
+1 Stone Catapult
+1 Trepanation Blade
+1 Vicious Hunger
+1 Surestrike Trident
+1 Vito, Thorn of the Dusk Rose
+1 Slab Hammer
+1 Stuffed Bear
+1 Tenured Oilcaster
+1 Voracious Vermin
+1 Snarling Warg
+{'overall': '3', 'cmc': 3.1029411764705883, 'ramp': '0', 'draw': '6', 'interaction': 9}

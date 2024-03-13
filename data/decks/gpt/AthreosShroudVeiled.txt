@@ -1,0 +1,64 @@
+1 Athreos, Shroud-Veiled
+1 Damnation
+1 Undercity Necrolisk
+1 Wall of Reverence
+1 Thran Weaponry
+1 Wingmate Roc
+1 Waylay
+1 Vampire Nocturnus
+1 Wake the Dead
+1 Trove Warden
+1 Zombie Assassin
+1 Tetzimoc, Primal Death
+1 Voracious Vermin
+1 Tormod's Crypt
+1 Thopter Assembly
+1 Mana Vault
+1 Teysa, Orzhov Scion
+1 Zulaport Cutthroat
+1 Swords to Plowshares
+1 Syr Konrad, the Grim
+1 Blood Artist
+1 Vengeful Vampire
+1 Undead Servant
+1 Zombie Infestation
+1 Valkyrie Harbinger
+1 Tomb Tyrant
+1 Stitch Together
+1 Vengeful Rebel
+1 The Torment of Gollum
+1 Veil of Assimilation
+1 Xiahou Dun, the One-Eyed
+1 Vito, Fanatic of Aclazotz
+1 Vivisection Evangelist
+1 Tazeem Raptor
+1 Teroh's Vanguard
+1 Vona, Butcher of Magan
+1 Tymaret Calls the Dead
+1 Vengeful Dead
+1 Vampire Scrivener
+1 Wedding Invitation
+1 Warden of the Beyond
+1 Thraben Exorcism
+1 Yawgmoth's Agenda
+1 Thrill-Kill Assassin
+1 Virtue of Persistence // Locthwain Scorn
+1 Virulent Swipe
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Vengeful Strangler // Strangling Grasp
+1 Vesperlark
+1 White Plume Adventurer
+1 Whisper Squad
+1 Tempered Veteran
+1 Tawnos's Weaponry
+1 Voracious Vampire
+1 Yawgmoth, Thran Physician
+1 Unspeakable Symbol
+1 Ugin, the Spirit Dragon
+1 Unmake
+1 Vile Requiem
+1 Unbreakable Formation
+1 Sword of the Meek
+1 Tangle Wire
+1 Vedalken Shackles
+{'overall': '5', 'cmc': 3.5238095238095237, 'ramp': '2', 'draw': '4', 'interaction': 12}

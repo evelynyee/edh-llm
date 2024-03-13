@@ -39,7 +39,7 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
                 ]
                 )
             except:
-                time.sleep(60*60)
+                time.sleep(60)
                 build_deck(commander)
 
             picked = completion.choices[0].message.content.split('; ')

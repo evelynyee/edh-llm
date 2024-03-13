@@ -1,0 +1,64 @@
+1 Chainer, Dementia Master
+1 Gray Merchant of Asphodel
+1 Sol Ring
+1 Cabal Coffers
+1 Viscera Seer
+1 Buried Alive
+1 Crypt Ghast
+1 Arcane Signet
+1 Altar of Dementia
+1 Dark Ritual
+1 Solemn Simulacrum
+1 Feed the Swarm
+1 Plaguecrafter
+1 Reanimate
+1 Entomb
+1 Massacre Wurm
+1 Urborg, Tomb of Yawgmoth
+1 Noxious Gearhulk
+1 Soldevi Adnate
+1 Kokusho, the Evening Star
+1 Animate Dead
+1 Vilis, Broker of Blood
+1 Ashnod's Altar
+1 K'rrik, Son of Yawgmoth
+1 Disciple of Bolas
+1 Bojuka Bog
+1 Vile Entomber
+1 Phyrexian Tower
+1 Nykthos, Shrine to Nyx
+1 Mutilate
+1 Living Death
+1 Cabal Stronghold
+1 Phyrexian Altar
+1 Phyrexian Arena
+1 Nirkana Revenant
+1 Lightning Greaves
+1 Demonic Tutor
+1 Sign in Blood
+1 Meteor Golem
+1 Jet Medallion
+1 Sheoldred, Whispering One
+1 Expedition Map
+1 Victimize
+1 Carrion Feeder
+1 Toxic Deluge
+1 Blood Artist
+1 Damnation
+1 Fleshbag Marauder
+1 Charcoal Diamond
+1 Sidisi, Undead Vizier
+1 Zulaport Cutthroat
+1 Defile
+1 Ravenous Chupacabra
+1 Mind Stone
+1 High Market
+1 Abhorrent Overlord
+1 Bolas's Citadel
+1 Yawgmoth, Thran Physician
+1 Mindslicer
+1 Swiftfoot Boots
+1 Vampiric Tutor
+1 Necropotence
+1 Razaketh, the Foulblooded
+{'overall': '9', 'cmc': 3.0793650793650795, 'ramp': '13', 'draw': '12', 'interaction': 10}

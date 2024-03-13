@@ -1,0 +1,101 @@
+1 The Fugitive Doctor
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Dryad's Revival
+1 Past in Flames
+1 Sarulf's Packmate
+1 Ancient Grudge
+1 Revolutionist
+1 Canopy Claws
+1 Phoenix of Ash
+1 Bash to Bits
+1 Earth Rift
+1 Confession Dial
+1 Gnaw to the Bone
+1 Ghitu Chronicler
+1 Mammoth Growth
+1 Scorn Effigy
+1 Recoup
+1 Krosan Reclamation
+1 Reckless Wurm
+1 Incorrigible Youths
+1 Ore-Rich Stalactite // Cosmium Catalyst
+1 Backdraft Hellkite
+1 Arrogant Wurm
+1 Reckless Charge
+1 Through the Breach
+1 Dwarven Reinforcements
+1 Icefall
+1 Insatiable Gorgers
+1 Falkenrath Gorger
+1 Demon Bolt
+1 Escape Velocity
+1 Skophos Reaver
+1 Kodama's Might
+1 Battle Mammoth
+1 Shattered Perception
+1 Wild Hunger
+1 Blazing Rootwalla
+1 Underworld Rage-Hound
+1 Basking Rootwalla
+1 Resize
+1 Doomskar Titan
+1 Tlincalli Hunter // Retrieve Prey
+1 Into the Fray
+1 Electric Revelation
+1 Rooting Moloch
+1 Faithless Looting
+1 Roar of the Wurm
+1 Loathsome Chimera
+1 Ox of Agonas
+1 Trash for Treasure
+1 Masked Admirers
+1 Howling Gale
+1 Virtue of Strength // Garenbrig Growth
+1 Elvish Fury
+1 Geistflame
+1 Dual Strike
+1 Merchant of the Vale // Haggle
+1 Seething Anger
+1 Return the Past
+1 Firebolt
+1 Turn the Earth
+1 Lava Dart
+1 Mizzix's Mastery
+1 Increasing Vengeance
+1 Shattering Pulse
+{'overall': '1', 'cmc': 3.0757575757575757, 'ramp': '1', 'draw': '13', 'interaction': 7}

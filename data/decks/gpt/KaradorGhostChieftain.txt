@@ -1,0 +1,67 @@
+1 Karador, Ghost Chieftain
+1 Zombify
+1 Birds of Paradise
+1 Vessel of Nascency
+1 Yavimaya Granger
+1 Zendikar Resurgent
+1 Yavimaya Elder
+1 Wrenn and Seven
+1 Worldly Tutor
+1 Vernal Bloom
+1 Urza's Incubator
+1 World Breaker
+1 Demonic Tutor
+1 Sword of Once and Future
+1 Verdant Mastery
+1 Wilson, Refined Grizzly
+1 Talara's Battalion
+1 Wander in Death
+1 Vesperlark
+1 Wild Dogs
+1 Zephyrim
+1 Xiahou Dun, the One-Eyed
+1 Vengevine
+1 Wingsteed Rider
+1 Thalia, Guardian of Thraben
+1 Tangle Golem
+1 Verdant Succession
+1 Utter End
+1 Whispersteel Dagger
+1 Warden of the Woods
+1 Vanquisher's Banner
+1 Wirewood Herald
+1 Wolfbriar Elemental
+1 Yisan, the Wanderer Bard
+1 Witch of the Moors
+1 Woe Strider
+1 Vengeful Reaper
+1 Vengeful Dreams
+1 Whisper, Blood Liturgist
+1 Vital Surge
+1 Venerated Loxodon
+1 Whalebone Glider
+1 Twinblade Geist // Twinblade Invocation
+1 Umori, the Collector
+1 Trinisphere
+1 Vito, Fanatic of Aclazotz
+1 Will-Forged Golem
+1 Visions of Dread
+1 Wand of Denial
+1 Witches' Eye
+1 Thunderous Debut
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Wail of the Nim
+1 Wandering Champion
+1 Wolf-Skull Shaman
+1 Unbound Flourishing
+1 Zombie Brute
+1 Wild Pair
+1 Wren's Run Hydra
+1 Transgress the Mind
+1 Sunscour
+1 Verdant Eidolon
+1 Winding Canyons
+1 Wandering Archaic // Explore the Vastlands
+1 Mind Stone
+1 Visage of Dread // Dread Osseosaur
+{'overall': '6', 'cmc': 3.621212121212121, 'ramp': '8', 'draw': '15', 'interaction': 3}

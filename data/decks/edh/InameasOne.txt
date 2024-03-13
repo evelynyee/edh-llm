@@ -1,0 +1,64 @@
+1 Iname as One
+1 Iname, Death Aspect
+1 Sol Ring
+1 Command Tower
+1 Kodama of the East Tree
+1 Iname, Life Aspect
+1 Command Beacon
+1 Road of Return
+1 Kodama's Reach
+1 Netherborn Altar
+1 Loam Dweller
+1 Urborg, Tomb of Yawgmoth
+1 Junji, the Midnight Sky
+1 Myojin of Life's Web
+1 Kokusho, the Evening Star
+1 Bounteous Kirin
+1 Kura, the Boundless Sky
+1 Overgrown Tomb
+1 Lifespinner
+1 Arcane Signet
+1 Kodama of the Center Tree
+1 Cabal Coffers
+1 Kodama of the South Tree
+1 Elder Pine of Jukai
+1 Crypt Ghast
+1 Cultivate
+1 Woodland Cemetery
+1 Petalmane Baku
+1 Golgari Rot Farm
+1 Undergrowth Stadium
+1 Thief of Hope
+1 Yavimaya, Cradle of Growth
+1 Infernal Kirin
+1 He Who Hungers
+1 Rend Flesh
+1 Primordial Sage
+1 Majestic Genesis
+1 Temple of Malady
+1 Rampant Growth
+1 Myojin of Grim Betrayal
+1 Assassin's Trophy
+1 Myojin of Night's Reach
+1 Wear Away
+1 Llanowar Wastes
+1 Sekki, Seasons' Guide
+1 Kagemaro, First to Suffer
+1 Verdant Catacombs
+1 Soulless Revival
+1 Nature's Lore
+1 Campfire
+1 Kyoki, Sanity's Eclipse
+1 Sakura-Tribe Elder
+1 Deathsprout
+1 Kuro, Pitlord
+1 Boseiju, Who Endures
+1 Stinging Study
+1 Path of Ancestry
+1 Crop Rotation
+1 Beast Within
+1 Patriarch's Bidding
+1 Seedborn Muse
+1 Death Denied
+1 Long-Forgotten Gohei
+{'overall': '6', 'cmc': 3.380952380952381, 'ramp': '13', 'draw': '10', 'interaction': 5}

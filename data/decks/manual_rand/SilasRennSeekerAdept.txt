@@ -1,0 +1,69 @@
+1 Silas Renn, Seeker Adept
+1 Zellix, Sanity Flayer
+1 Unesh, Criosphinx Sovereign
+1 Tasigur's Cruelty
+1 Vesuvan Drifter
+1 Whispering Specter
+1 Wake the Dead
+1 Web of Inertia
+1 Yawgmoth's Will
+1 Blood Artist
+1 Thoughtseize
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Tempted by the Oriq
+1 Zareth San, the Trickster
+1 Turn into a Pumpkin
+1 Trapfinder's Trick
+1 Varragoth, Bloodsky Sire
+1 Thief of Hope
+1 Veiled Serpent
+1 Zuran Spellcaster
+1 Tidal Terror
+1 Supreme Will
+1 Thirst for Discovery
+1 Vampire Charmseeker
+1 Wander in Death
+1 Tezzeret, Master of Metal
+1 Tezzeret, Master of the Bridge
+1 Stupor
+1 Transplant Theorist
+1 Wandering Archaic // Explore the Vastlands
+1 Zephyr Winder
+1 Tymora's Invoker
+1 Unhinge
+1 Vicious Rumors
+1 Treasure Hunt
+1 Triton Cavalry
+1 Sphinx of Clear Skies
+1 Strongarm Tactics
+1 Whetstone
+1 Wrench Mind
+1 Volatile Fault
+1 Torgaar, Famine Incarnate
+1 Vanguard Suppressor
+1 Whispers of the Muse
+1 Waterspout Weavers
+1 Westgate Regent
+1 Surgical Extraction
+1 Wreck Hunter
+1 Wretched Camel
+1 Waker of Waves
+1 Wretched Throng
+1 Thieving Amalgam
+1 Telemin Performance
+1 Wrexial, the Risen Deep
+1 Wizard's Spellbook
+1 Writ of Return
+1 The Grim Captain's Locker
+1 Supreme Inquisitor
+1 Thieves' Fortune
+1 Tyrant's Scorn
+1 Spinning Darkness
+1 Weeping Angel
+1 Tendrils of Agony
+1 Worldslayer
+1 Tower of Murmurs
+1 Surging Aether
+1 Wizards of Thay
+1 Torment of Venom
+{'overall': '4', 'cmc': 3.7941176470588234, 'ramp': '2', 'draw': '18', 'interaction': 6}

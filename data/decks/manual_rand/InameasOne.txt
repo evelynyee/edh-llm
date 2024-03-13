@@ -1,0 +1,69 @@
+1 Iname as One
+1 Wild Growth
+1 Summon Undead
+1 Vineshaper Mystic
+1 Turntimber Sower
+1 Triassic Egg
+1 Tuinvale Treefolk // Oaken Boon
+1 Verdant Haven
+1 Wicked Guardian
+1 Stoic Builder
+1 Ugin, the Ineffable
+1 Thunderous Debut
+1 Vulturous Zombie
+1 Trail of Mystery
+1 Unholy Grotto
+1 Wildest Dreams
+1 Thran Spider
+1 Voracious Typhon
+1 Worst Fears
+1 Tribute to Horobi // Echo of Death's Wail
+1 Yawgmoth, Thran Physician
+1 Uurg, Spawn of Turg
+1 The Stone Brain
+1 Tombfire
+1 Woe Strider
+1 Tribute to the World Tree
+1 Whirling Catapult
+1 Volrath's Stronghold
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Sword-Point Diplomacy
+1 Sylvan Tutor
+1 Vraska's Scorn
+1 Sylvan Scrying
+1 Twists and Turns // Mycoid Maze
+1 Weird Harvest
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Twilight Prophet
+1 Diabolic Tutor
+1 Zanikev Locust
+1 Vat of Rebirth
+1 Soulblade Renewer
+1 Wrenn and Realmbreaker
+1 Vivid Revival
+1 Thran Foundry
+1 Sol Ring
+1 Urborg Repossession
+1 Wondrous Crucible
+1 Wren's Run Packmaster
+1 Tithing Blade // Consuming Sepulcher
+1 Thrull Surgeon
+1 Venser's Journal
+1 Thieving Sprite
+1 The Five Doctors
+1 Woodland Cemetery
+1 Traverse the Outlands
+1 Thought Dissector
+1 Vessel of Nascency
+1 Wretched Confluence
+1 Untamed Wilds
+1 Tribute to Horobi // Echo of Death's Wail
+1 World-Weary
+1 Vine Dryad
+1 Wild Wanderer
+1 Zombie Apocalypse
+1 Undertaker
+1 Zoetic Cavern
+1 Visions of Dread
+1 Titania, Nature's Force
+{'overall': '6', 'cmc': 3.6417910447761193, 'ramp': '12', 'draw': '19', 'interaction': 4}

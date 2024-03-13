@@ -1,0 +1,66 @@
+1 Gimli, Counter of Kills
+1 Toralf, God of Fury // Toralf's Hammer
+1 Volcanic Salvo
+1 Stormbreath Dragon
+1 Abrade
+1 War Elemental
+1 Spinny Ride
+1 Spark Elemental
+1 Sword of Hours
+1 Starfall
+1 Structural Assault
+1 Wildfire Elemental
+1 Whalebone Glider
+1 Starke of Rath
+1 Thunder Dragon
+1 Slagstorm
+1 Viashino Heretic
+1 Voracious Dragon
+1 Ugin's Conjurant
+1 Scorched Rusalka
+1 Viashino Spearhunter
+1 Wayward Guide-Beast
+1 Thunderbreak Regent
+1 Thundermaw Hellkite
+1 Thunderbolt
+1 Thundersteel Colossus
+1 Whipflare
+1 Arcane Signet
+1 Sol Ring
+1 Sulfuric Vortex
+1 Lightning Bolt
+1 Sword of Sinew and Steel
+1 Steel Hellkite
+1 Sword of Feast and Famine
+1 Spire Barrage
+1 Unstable Footing
+1 Whirling Catapult
+1 Skred
+1 Storm's Wrath
+1 Wildfire
+1 Torbran, Thane of Red Fell
+1 Sarkhan's Rage
+1 Zada, Hedron Grinder
+1 Warstorm Surge
+1 Victorious Destruction
+1 Urabrask's Forge
+1 Sulfurous Blast
+1 Thunder of Hooves
+1 Thundercloud Shaman
+1 Vulshok Morningstar
+1 Volcanic Offering
+1 Widespread Panic
+1 Vandalblast
+1 Chaos Warp
+1 Tezzeret's Simulacrum
+1 Volcano Hellion
+1 Skewer Slinger
+1 Sizzle
+1 Thunderkin Awakener
+1 Storm Caller
+1 Skull Catapult
+1 Strangle
+1 Scab-Clan Berserker
+1 Witch Hunt
+1 Trip Noose
+{'overall': '3', 'cmc': 3.4307692307692306, 'ramp': '2', 'draw': '0', 'interaction': 29}

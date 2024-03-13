@@ -1,0 +1,101 @@
+1 Tetsuo, Imperial Champion
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Arcane Endeavor
+1 Electrodominance
+1 Dreadhorde Arcanist
+1 Rod of Absorption
+1 Dispersal Shield
+1 Reinterpret
+1 Coveted Prize
+1 Disaster Radius
+1 Finale of Promise
+1 Anrakyr the Traveller
+1 Baral's Expertise
+1 Spectral Arcanist
+1 Press the Enemy
+1 Lozhan, Dragons' Legacy
+1 Calamity of the Titans
+1 Nahiri's Sacrifice
+1 Drown in the Loch
+1 Blood on the Snow
+1 Lullmage's Domination
+1 Change the Equation
+1 Jeleva, Nephalia's Scourge
+1 Overwhelming Intellect
+1 Myra the Magnificent
+1 Sunbird's Invocation
+1 Nahiri's Wrath
+1 Hurl into History
+1 Demon of Fate's Design
+1 Distended Mindbender
+1 Shadows' Verdict
+1 Disrupting Shoal
+1 Keeper of Secrets
+1 Pyrokinesis
+1 Epic Experiment
+1 Mindclaw Shaman
+1 Cloudhoof Kirin
+1 Kozilek, the Great Distortion
+1 Yahenni's Expertise
+1 Gang Up
+1 Zoyowa's Justice
+1 Volcanic Vision
+1 Jace's Mindseeker
+1 Titan's Presence
+1 Call Forth the Tempest
+1 Zaffai, Thunder Conductor
+1 Kaho, Minamo Historian
+1 Dragon's Fire
+1 Bloodthirsty Adversary
+1 Thoughtbind
+1 Extinction Event
+1 Gravitic Punch
+1 Hit the Mother Lode
+1 Infernal Harvest
+1 Surge to Victory
+1 Sword of Once and Future
+1 Moonveil Regent
+1 Visions of Ruin
+1 Metalwork Colossus
+1 Master of Predicaments
+1 Morbid Curiosity
+1 Living Lore
+1 Goblin Dark-Dwellers
+1 Minor Misstep
+1 Glamdring
+{'overall': '1', 'cmc': 4.104477611940299, 'ramp': '0', 'draw': '8', 'interaction': 21}

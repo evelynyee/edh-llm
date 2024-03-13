@@ -1,0 +1,65 @@
+1 Yarok, the Desecrated
+1 Verdant Haven
+1 Unified Will
+1 Titanic Brawl
+1 Wildgrowth Walker
+1 Web of Inertia
+1 Wandering Troubadour
+1 Vodalian Serpent
+1 Wall of Frost
+1 Yarok's Fenlurker
+1 Weaver of Harmony
+1 Workshop Warchief
+1 Whirlwind Denial
+1 Vertigo Spawn
+1 Visions of Dread
+1 Whisperwood Elemental
+1 Venser, Shaper Savant
+1 Verdant Command
+1 Sylvan Echoes
+1 Thran Power Suit
+1 Tolarian Terror
+1 Counterspell
+1 Transmogrifying Wand
+1 Whirlwind Adept
+1 Vesuvan Shapeshifter
+1 Veil of Summer
+1 Tourach's Gate
+1 Whitewater Naiads
+1 Wing Commando
+1 Vedalken Blademaster
+1 Welcome to the Fold
+1 Wasteland Strangler
+1 Wake the Dead
+1 Teferi's Talent
+1 Zephyr Singer
+1 Vines of Vastwood
+1 Volo, Itinerant Scholar
+1 Winding Canyons
+1 Vraska, Golgari Queen
+1 Seedborn Muse
+1 Mana Vault
+1 Force of Negation
+1 Wild Onslaught
+1 Vizier of Tumbling Sands
+1 Train of Thought
+1 Watertrap Weaver
+1 Vorinclex, Voice of Hunger
+1 Mana Drain
+1 Sol Ring
+1 Ugin's Nexus
+1 Vernal Bloom
+1 The Magic Mirror
+1 Zendikar Resurgent
+1 Vedalken Archmage
+1 Vedalken Infuser
+1 Vedalken Plotter
+1 Vodalian Arcanist
+1 Take Possession
+1 Unwind
+1 Traxos, Scourge of Kroog
+1 Wingfold Pteron
+1 Vizier of Many Faces
+1 Vantress Paladin
+1 Unmake the Graves
+{'overall': '5', 'cmc': 3.515625, 'ramp': '7', 'draw': '11', 'interaction': 12}
