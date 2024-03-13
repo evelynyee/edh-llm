@@ -1,0 +1,68 @@
+1 Kethek, Crucible Goliath
+1 Thought-Knot Seer
+1 Vampiric Tutor
+1 Urborg, Tomb of Yawgmoth
+1 Sol Ring
+1 Uba Mask
+1 Woe Strider
+1 Thoughtseize
+1 Viscera Seer
+1 Chaos Warp
+1 Diabolic Tutor
+1 Sorin's Guide
+1 Sword of the Animist
+1 Yawgmoth's Agenda
+1 Demonic Tutor
+1 Victimize
+1 Twilight Prophet
+1 Vraska, Betrayal's Sting
+1 Wheel of Fortune
+1 War Room
+1 Teferi's Puzzle Box
+1 Visions of Dread
+1 Zombie Apocalypse
+1 Animate Dead
+1 Damnation
+1 Thought Gorger
+1 Dark Ritual
+1 Vengeful Reaper
+1 Wheel of Fate
+1 Zombie Assassin
+1 Tetzimoc, Primal Death
+1 Worldfire
+1 Venser's Journal
+1 Taurean Mauler
+1 Vampire Nocturnus
+1 Transmogrify
+1 Varragoth, Bloodsky Sire
+1 Tainted Pact
+1 Zhalfirin Void
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Storm Cauldron
+1 Volrath the Fallen
+1 Treasure Keeper
+1 Vengeful Vampire
+1 Umbra Stalker
+1 Veilborn Ghoul
+1 Wailing Ghoul
+1 Tuktuk Scrapper
+1 Wasteland Strangler
+1 Viashino Sandswimmer
+1 Unmask
+1 Vexing Puzzlebox
+1 Whispers of Emrakul
+1 Vicious Shadows
+1 Vindictive Flamestoker
+1 Sultai Emissary
+1 Virtus the Veiled
+1 Wake the Dead
+1 Wretched Confluence
+1 Tormod's Crypt
+1 Windswept Heath
+1 Vulturous Aven
+1 Tourach's Canticle
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Wayward Guide-Beast
+1 Wild Celebrants
+1 Whirling Catapult
+{'overall': '6', 'cmc': 3.4477611940298507, 'ramp': '7', 'draw': '12', 'interaction': 8}

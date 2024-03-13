@@ -1,0 +1,101 @@
+1 Kethek, Crucible Goliath
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Industrial Advancement
+1 Dreamshaper Shaman
+1 Fated Return
+1 Thran Spider
+1 Lantern of Revealing
+1 Fireflux Squad
+1 Inscribed Tablet
+1 Reality Scramble
+1 Sibylline Soothsayer
+1 Goblin Ringleader
+1 Liliana's Spoils
+1 Clone Shell
+1 Glimpse of Tomorrow
+1 Invasion of Ravnica // Guildpact Paragon
+1 Liliana's Influence
+1 Kolaghan Warmonger
+1 Countryside Crusher
+1 Sarkhan's Dragonfire
+1 Audacious Reshapers
+1 Secret Salvage
+1 Dogged Detective
+1 Deadeye Tracker
+1 Muxus, Goblin Grandee
+1 Grave Defiler
+1 Horn of the Mark
+1 Guild Feud
+1 Madcap Experiment
+1 Collision of Realms
+1 Queen's Agent
+1 Gonti, Lord of Luxury
+1 Shifting Shadow
+1 Phyrexian Portal
+1 Nefarious Imp
+1 Archghoul of Thraben
+1 Heroes' Podium
+1 Buried Alive
+1 Dire Fleet Interloper
+1 Seekers' Squire
+1 Junktroller
+1 Chaos Warp
+1 Brazen Buccaneers
+1 Demonic Bargain
+1 Defossilize
+1 Soldevi Digger
+1 Desperate Research
+1 Ravenous Gigamole
+1 Testament Bearer
+1 Transmogrify
+1 Lukka, Coppercoat Outcast
+1 Sensei's Divining Top
+1 Ransack the Lab
+1 Tomakul Scrapsmith
+1 Goblin Machinist
+1 Reito Sentinel
+1 Final Parting
+1 Descendants' Fury
+1 Moonlight Bargain
+1 Tomb Robber
+1 Liliana Vess // Liliana Vess
+1 Liliana Vess
+1 Sarkhan's Triumph
+1 Icon of Ancestry
+1 Infernal Tutor
+{'overall': '4', 'cmc': 3.621212121212121, 'ramp': '2', 'draw': '33', 'interaction': 5}

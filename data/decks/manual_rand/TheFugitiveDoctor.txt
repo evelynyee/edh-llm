@@ -1,0 +1,69 @@
+1 The Fugitive Doctor
+1 Survival of the Fittest
+1 Stormkeld Vanguard // Bear Down
+1 Seedborn Muse
+1 Tuinvale Treefolk // Oaken Boon
+1 Titan's Presence
+1 Yedora, Grave Gardener
+1 Venerable Kumo
+1 War Room
+1 Volcanic Torrent
+1 Yavimaya Sojourner
+1 Yasmin Khan
+1 Vulshok Splitter
+1 Wicker Picker
+1 Zada, Hedron Grinder
+1 _____ Balls of Fire
+1 Sylvan Bounty
+1 Underworld Rage-Hound
+1 Wary Thespian
+1 Territorial Allosaurus
+1 Syr Carah, the Bold
+1 Sprouting Vines
+1 Terramorph
+1 Widespread Panic
+1 Tlincalli Hunter // Retrieve Prey
+1 Bloom Tender
+1 Wand of Wonder
+1 Wear Away
+1 Vulshok Morningstar
+1 Universal Automaton
+1 Vivien, Nature's Avenger
+1 Towashi Guide-Bot
+1 Viral Spawning
+1 Surging Might
+1 Whirling Catapult
+1 Summoner's Egg
+1 Volatile Fault
+1 Sol Ring
+1 Lightning Bolt
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Wildest Dreams
+1 Wolfrider's Saddle
+1 Warm Welcome
+1 Wooded Foothills
+1 Worldspine Wurm
+1 Eternal Witness
+1 Two-Headed Hunter // Twice the Rage
+1 Wren's Run Vanquisher
+1 Ugin, the Spirit Dragon
+1 Twinning Staff
+1 Verdant Confluence
+1 Sudden Reclamation
+1 Vessel of Volatility
+1 Vedalken Orrery
+1 Warren Instigator
+1 Two-Handed Axe // Sweeping Cleave
+1 Thought-Knot Seer
+1 Warbreak Trumpeter
+1 Verduran Emissary
+1 Thornado
+1 Volatile Wanderglyph
+1 Warp World
+1 Tome of the Guildpact
+1 Young Red Dragon // Bathe in Gold
+1 Thunderclap
+1 Vines of Vastwood
+1 Vine Kami
+1 Wirewood Savage
+{'overall': '4', 'cmc': 3.985294117647059, 'ramp': '11', 'draw': '12', 'interaction': 10}

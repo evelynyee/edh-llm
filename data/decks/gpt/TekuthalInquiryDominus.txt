@@ -1,0 +1,66 @@
+1 Tekuthal, Inquiry Dominus
+1 Time Warp
+1 Sphinx of Magosi
+1 Thassa's Intervention
+1 Well of Ideas
+1 Teferi's Talent
+1 Tide Drifter
+1 Whirlwind Denial
+1 Wingspan Mentor
+1 Thought Sponge
+1 Waker of Waves
+1 Tidal Influence
+1 War Room
+1 Thassa, God of the Sea
+1 Arcane Signet
+1 Counterspell
+1 Wistful Thinking
+1 Synchronized Eviction
+1 Synod Artificer
+1 Sphinx-Bone Wand
+1 Thieving Skydiver
+1 Tidal Surge
+1 Tezzeret, Betrayer of Flesh
+1 Supreme Will
+1 Sphere of the Suns
+1 Venser's Journal
+1 Sleep-Cursed Faerie
+1 Ugin's Conjurant
+1 Suncrusher
+1 Whirling Catapult
+1 Wizards of the _____
+1 Time and Tide
+1 Sword of Hours
+1 Turn Aside
+1 Winter's Chill
+1 Wheel and Deal
+1 Whalebone Glider
+1 Unified Will
+1 Toymaker
+1 Stormbound Geist
+1 The Magic Mirror
+1 Unstable Frontier
+1 Stormkeld Prowler
+1 Syr Ginger, the Meal Ender
+1 Steel Overseer
+1 Swashbuckler's Whip
+1 Voidmage Husher
+1 Urza's Rebuff
+1 Vial of Dragonfire
+1 Mind Stone
+1 Wing Commando
+1 Steelfin Whale
+1 Warping Wail
+1 Zellix, Sanity Flayer
+1 Spinal Parasite
+1 Treasure Cruise
+1 Urza's Incubator
+1 Thunderstaff
+1 Treason of Isengard
+1 Teferi, Master of Time
+1 Welcome to the Fold
+1 Trigon of Thought
+1 Tidal Control
+1 Threnody Singer
+1 Tawnos's Coffin
+{'overall': '5', 'cmc': 3.3076923076923075, 'ramp': '5', 'draw': '18', 'interaction': 12}

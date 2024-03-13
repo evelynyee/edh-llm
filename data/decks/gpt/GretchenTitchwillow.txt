@@ -1,0 +1,67 @@
+1 Gretchen Titchwillow
+1 Thought Courier
+1 Vivien Reid
+1 Wandering Archaic // Explore the Vastlands
+1 Temur War Shaman
+1 Sylvan Library
+1 Winged Portent
+1 Tidal Terror
+1 Zephyr Scribe
+1 Vizier of Many Faces
+1 Thran Temporal Gateway
+1 Vizier of the Menagerie
+1 Worldly Tutor
+1 Tolarian Sentinel
+1 Zephyr Sentinel
+1 Winged Words
+1 Voracious Typhon
+1 Vernal Bloom
+1 Triton Cavalry
+1 Wall of Blossoms
+1 Birds of Paradise
+1 Wood Elves
+1 Sylvan Tutor
+1 Mana Vault
+1 Vizier of the Anointed
+1 Waker of Waves
+1 Vivien, Champion of the Wilds
+1 Vorel of the Hull Clade
+1 Sylvan Ranger
+1 Uro, Titan of Nature's Wrath
+1 Sol Ring
+1 Waterspout Djinn
+1 Mulldrifter
+1 Whisperwood Elemental
+1 Wanderwine Prophets
+1 Bloom Tender
+1 Venser, Shaper Savant
+1 Venser's Journal
+1 Verdant Catacombs
+1 Wanderer's Twig
+1 Trail of Mystery
+1 Traverse the Ulvenwald
+1 Yavimaya Sojourner
+1 Wirewood Herald
+1 Verdant Confluence
+1 Ugin, the Ineffable
+1 Teferi's Tutelage
+1 Windswept Heath
+1 Walk with the Ancestors
+1 Vivien, Monsters' Advocate
+1 Wildcall
+1 Winds of Rebuke
+1 Wizard Replica
+1 Youthful Scholar
+1 Verdant Crescendo
+1 Vessel of Nascency
+1 Vorinclex // The Grand Evolution
+1 Treasure Cruise
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Traverse the Outlands
+1 Wirewood Guardian
+1 Treasure Mage
+1 Venser's Diffusion
+1 Vexing Arcanix
+1 Worldspine Wurm
+1 Tolaria West
+{'overall': '7', 'cmc': 3.6515151515151514, 'ramp': '18', 'draw': '30', 'interaction': 2}

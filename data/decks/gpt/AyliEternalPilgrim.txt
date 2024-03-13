@@ -1,0 +1,65 @@
+1 Ayli, Eternal Pilgrim
+1 Specter of the Fens
+1 Victimize
+1 Sol Ring
+1 War Room
+1 Withering Wisps
+1 Damnation
+1 Subversion
+1 Vanish into Eternity
+1 Tainted Sigil
+1 Wake the Dead
+1 Wasteland Strangler
+1 Vengeful Strangler // Strangling Grasp
+1 Syr Konrad, the Grim
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Vito, Fanatic of Aclazotz
+1 Withering Boon
+1 Tymaret Calls the Dead
+1 Titan Hunter
+1 Tormented Hero
+1 Tendrils of Agony
+1 Zuran Orb
+1 Viscera Dragger
+1 Vraska's Contempt
+1 Vona, Butcher of Magan
+1 Wretched Confluence
+1 Stern Judge
+1 Withered Wretch
+1 Twilight Prophet
+1 Vindicate
+1 Swords to Plowshares
+1 Spawn of Mayhem
+1 Whalebone Glider
+1 Visions of Dread
+1 Warping Wail
+1 The Witch's Vanity
+1 Trove Warden
+1 Swashbuckler's Whip
+1 Terashi's Verdict
+1 Xathrid Demon
+1 Sorin's Thirst
+1 Vengeant Vampire
+1 Vindictive Vampire
+1 Vito's Inquisitor
+1 Vengeful Warchief
+1 Thief of Hope
+1 Voyager Staff
+1 Word of Command
+1 Mind Stone
+1 Tireless Missionaries
+1 The Black Gate
+1 Wayward Servant
+1 Thieving Amalgam
+1 Stone Haven Medic
+1 Treacherous Blessing
+1 Vesper Ghoul
+1 Urborg Justice
+1 Blood Artist
+1 Sorin Markov
+1 Stirge
+1 Thornbite Staff
+1 Triskaidekaphobia
+1 Wretched Anurid
+1 Wretched Camel
+{'overall': '5', 'cmc': 3.078125, 'ramp': '6', 'draw': '10', 'interaction': 17}

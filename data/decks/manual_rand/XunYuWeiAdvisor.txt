@@ -1,0 +1,69 @@
+1 Xun Yu, Wei Advisor
+1 Veiled Shade
+1 Yuan-Ti Fang-Blade
+1 Undead Warchief
+1 Swarm Surge
+1 Undercity's Embrace
+1 Vectis Gloves
+1 Wei Night Raiders
+1 Urza's Engine
+1 Trespasser il-Vec
+1 Veldrane of Sengir
+1 Withering Hex
+1 Undying Evil
+1 Sleek Schooner
+1 Tooth of Chiss-Goria
+1 Virtue of Persistence // Locthwain Scorn
+1 Animate Dead
+1 Tree of Perdition
+1 Dark Ritual
+1 Vicious Hunger
+1 Zagoth Mamba
+1 Tyrant's Machine
+1 Viscid Lemures
+1 Stromkirk Condemned
+1 Vicious Battlerager
+1 Transmogrifying Licid
+1 Wall of Spears
+1 Vicious Offering
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Utility Knife
+1 Spidersilk Net
+1 Words of Waste
+1 Will-Forged Golem
+1 Demonic Tutor
+1 Vanguard's Shield
+1 Unholy Strength
+1 Vile Deacon
+1 Stallion of Ashmouth
+1 Touch of Moonglove
+1 Vampire Aristocrat
+1 Vengeful Reaper
+1 Slayer's Cleaver
+1 Zanikev Locust
+1 Teeka's Dragon
+1 Toxic Deluge
+1 Victory Chimes
+1 Wall of Junk
+1 Warmonger's Chariot
+1 Urborg Shambler
+1 Sudden Spoiling
+1 Vraska's Fall
+1 Witch-king of Angmar
+1 Skulduggery
+1 Wight of Precinct Six
+1 Toxic Deluge
+1 Whalebone Glider
+1 Tawnos's Weaponry
+1 Unholy Citadel
+1 Vow of Malice
+1 Traitor's Clutch
+1 Sword of Feast and Famine
+1 Walk the Plank
+1 Triangle of War
+1 Vraska's Conquistador
+1 Witch-king, Bringer of Ruin
+1 Xathrid Demon
+1 Whispering Shade
+1 Stalking Bloodsucker
+{'overall': '2', 'cmc': 3.1044776119402986, 'ramp': '1', 'draw': '0', 'interaction': 4}

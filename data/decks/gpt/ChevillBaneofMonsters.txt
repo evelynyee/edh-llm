@@ -1,0 +1,64 @@
+1 Chevill, Bane of Monsters
+1 Woodfall Primus
+1 Vraska, Golgari Queen
+1 Triskelion
+1 Verdant Sun's Avatar
+1 Tymaret Calls the Dead
+1 Rampant Growth
+1 Bloom Tender
+1 Vraska, Regal Gorgon
+1 Vastwood Hydra
+1 Vivien Reid
+1 Demonic Tutor
+1 Tormod's Crypt
+1 Mana Vault
+1 Sol Ring
+1 Withering Wisps
+1 Wasteland Strangler
+1 Ugin's Conjurant
+1 Subversion
+1 Vivien's Invocation
+1 Vraska's Contempt
+1 Wildgrowth Walker
+1 Whisperwood Elemental
+1 Vivien, Nature's Avenger
+1 Vivien, Monsters' Advocate
+1 Treacherous Blessing
+1 Wrenn and Seven
+1 Wake the Dead
+1 Vastwood Surge
+1 Damnation
+1 Titanic Brawl
+1 Whirling Catapult
+1 Voracious Hydra
+1 Terastodon
+1 Tetzimoc, Primal Death
+1 Go for the Throat
+1 Uchuulon
+1 Viridian Corrupter
+1 Vulturous Aven
+1 Toshiro Umezawa
+1 Thelon's Chant
+1 Untethered Express
+1 Young Wolf
+1 Verdant Command
+1 Yavimaya Dryad
+1 The Torment of Gollum
+1 Twisted Embrace
+1 Wild Onslaught
+1 Willowdusk, Essence Seer
+1 Victimize
+1 Zulaport Cutthroat
+1 Vedalken Shackles
+1 Thran Vigil
+1 Tribute to Hunger
+1 Zombie Assassin
+1 Triskaidekaphobia
+1 Treacherous Urge
+1 Vraska, Swarm's Eminence
+1 Towashi Guide-Bot
+1 Urborg Justice
+1 Tormented Hero
+1 Wanderlust
+1 Visage of Dread // Dread Osseosaur
+{'overall': '6', 'cmc': 3.4761904761904763, 'ramp': '6', 'draw': '9', 'interaction': 19}

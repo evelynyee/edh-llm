@@ -1,0 +1,69 @@
+1 Doran, the Siege Tower
+1 Worldslayer
+1 Zhalfirin Commander
+1 Vengeful Dreams
+1 Warp Artifact
+1 Wolf in _____ Clothing
+1 Yannik, Scavenging Sentinel
+1 Undercity Upheaval
+1 Withering Wisps
+1 Xathrid Slyblade
+1 Unliving Psychopath
+1 Wayfaring Temple
+1 Vine Kami
+1 The Battle of Bywater
+1 Terravore
+1 Virulent Sliver
+1 Tyvar the Bellicose
+1 Titanic Brawl
+1 Wall of Essence
+1 Zombie Boa
+1 Vial of Poison
+1 Tree of Redemption
+1 Whitesun's Passage
+1 Thundering Chariot
+1 Vicious Rumors
+1 TARDIS
+1 Uktabi Wildcats
+1 Wild Might
+1 Wicker Warcrawler
+1 Tormented Thoughts
+1 Viridian Lorebearers
+1 Whispering Snitch
+1 Warmonger's Chariot
+1 Untethered Express
+1 Vitality Hunter
+1 Mana Vault
+1 Woodborn Behemoth
+1 Virtue of Persistence // Locthwain Scorn
+1 Thicket Crasher
+1 Wave of Rats
+1 Wrenn and Seven
+1 Webspinner Cuff
+1 Wild Beastmaster
+1 Wand of Orcus
+1 Vigorspore Wurm
+1 Torens, Fist of the Angels
+1 Thrashing Mossdog
+1 Virtue of Persistence // Locthwain Scorn
+1 Vector Asp
+1 Vicious Betrayal
+1 Xanthic Statue
+1 Wintermoor Commander
+1 War Oracle
+1 Witherbloom Command
+1 Terashi's Verdict
+1 Witch's Mist
+1 Streetwise Negotiator
+1 Zebra Unicorn
+1 Transmutation
+1 Undercity Uprising
+1 Treefolk Seedlings
+1 Wings of Hubris
+1 Vampiric Touch
+1 Trailblazer's Torch
+1 Unyaro Bee Sting
+1 Wing Storm
+1 Triumphant Surge
+1 Volunteer Reserves
+{'overall': '3', 'cmc': 3.3582089552238807, 'ramp': '2', 'draw': '2', 'interaction': 13}

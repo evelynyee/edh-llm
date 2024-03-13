@@ -1,0 +1,64 @@
+1 Azusa, Lost but Seeking
+1 Bloom Tender
+1 Vorinclex, Monstrous Raider
+1 Vexing Arcanix
+1 Sylvan Library
+1 Voyaging Satyr
+1 Green Sun's Zenith
+1 Sylvan Tutor
+1 Traverse the Outlands
+1 Tempt with Discovery
+1 Utopia Sprawl
+1 Verdant Haven
+1 Skyshroud Ranger
+1 Sylvan Bounty
+1 Well of Discovery
+1 Sylvan Scrying
+1 Vivien, Nature's Avenger
+1 Zendikar Resurgent
+1 The Great Henge
+1 World Breaker
+1 Vernal Bloom
+1 Thelon's Chant
+1 Wren's Run Vanquisher
+1 Temur War Shaman
+1 Traverse the Ulvenwald
+1 Birds of Paradise
+1 Temur Charger
+1 Winding Canyons
+1 Wrenn and Seven
+1 Sylvan Messenger
+1 Verdurous Gearhulk
+1 Wildcall
+1 The Great Aurora
+1 Vivien, Champion of the Wilds
+1 Ugin's Nexus
+1 Venser's Journal
+1 Vizier of the Menagerie
+1 Verdant Confluence
+1 Verdant Touch
+1 Vivien Reid
+1 Stunted Growth
+1 Ugin, the Spirit Dragon
+1 Wasteful Harvest
+1 Vivien's Jaguar
+1 Storm the Festival
+1 Sorcerous Spyglass
+1 Verduran Enchantress
+1 Eternal Witness
+1 Tunnel of Love
+1 Wirewood Channeler
+1 Winter Orb
+1 Zelyon Sword
+1 War Dance
+1 Winding Way
+1 Woodland Changeling
+1 Twinning Staff
+1 Undiscovered Paradise
+1 Treasure Keeper
+1 Yeva, Nature's Herald
+1 Verdant Command
+1 Vernal Equinox
+1 Wild Pair
+1 Worldly Tutor
+{'overall': '7', 'cmc': 3.5396825396825395, 'ramp': '16', 'draw': '17', 'interaction': 4}

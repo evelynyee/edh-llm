@@ -1,0 +1,64 @@
+1 Imoen, Mystic Trickster
+1 Time Warp
+1 Teferi, Timeless Voyager
+1 Thassa's Emissary
+1 Trail of Evidence
+1 Unified Will
+1 Commander's Sphere
+1 Tolarian Kraken
+1 Stormchaser Drake
+1 Thran Power Suit
+1 Sphinx of Foresight
+1 Venser's Journal
+1 Mana Drain
+1 Mana Vault
+1 Veil of Secrecy
+1 Wistful Thinking
+1 Wheel and Deal
+1 Vedalken Blademaster
+1 Turn Aside
+1 Zndrsplt, Eye of Wisdom
+1 Web of Inertia
+1 Whirlwind Denial
+1 Well of Ideas
+1 Wing Commando
+1 Thopter Spy Network
+1 Urza's Incubator
+1 Thada Adel, Acquisitor
+1 Vendilion Clique
+1 Teferi, Master of Time
+1 Vertigo Spawn
+1 Talion's Messenger
+1 Vodalian Serpent
+1 Stolen Identity
+1 Surgespanner
+1 Tormod's Crypt
+1 Thieving Otter
+1 Sublime Epiphany
+1 Teferi's Response
+1 Void Shatter
+1 Whirlpool Whelm
+1 Sunken Field
+1 Wandering Archaic // Explore the Vastlands
+1 Vesuvan Shapeshifter
+1 Zur's Weirding
+1 Thwart
+1 Willbender
+1 Siren Stormtamer
+1 Worldslayer
+1 Tidespout Tyrant
+1 Whispers of the Muse
+1 Soratami Savant
+1 Spell Pierce
+1 Sphinx's Disciple
+1 Teferi, Temporal Pilgrim
+1 Whirlwind Adept
+1 Vizier of Tumbling Sands
+1 Trusted Advisor
+1 Wall of Tears
+1 Zephyr Singer
+1 Unsubstantiate
+1 The Chain Veil
+1 Tezzeret, Cruel Machinist
+1 Storm of Saruman
+{'overall': '5', 'cmc': 3.507936507936508, 'ramp': '3', 'draw': '23', 'interaction': 11}

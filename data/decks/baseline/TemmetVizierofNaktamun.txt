@@ -1,0 +1,101 @@
+1 Temmet, Vizier of Naktamun
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Trueheart Duelist
+1 Aven Wind Guide
+1 Expendable Lackey
+1 Dino DNA
+1 Labyrinth Guardian
+1 God-Pharaoh's Gift
+1 Amphin Mutineer
+1 Adorned Pouncer
+1 Tah-Crop Skirmisher
+1 Anointer Priest
+1 Ravenform
+1 Glyph Keeper
+1 Dollhouse of Horrors
+1 Unwavering Initiate
+1 Aven Initiate
+1 Deekah, Fractal Theorist
+1 Alrund's Epiphany
+1 Proven Combatant
+1 Sacred Cat
+1 Steadfast Sentinel
+1 Kasmina, Enigmatic Mentor
+1 Thunderheads
+1 The Wandering Emperor
+1 Sinuous Striker
+1 Thalia's Geistcaller
+1 Giant's Amulet
+1 Poppet Stitcher // Poppet Factory
+1 Angelic Favor
+1 Mercurial Pretender
+1 Oketra's Attendant
+1 Heron-Blessed Geist
+1 Cyber Conversion
+1 Mist Dancer
+1 Self-Reflection
+1 Dauntless Cathar
+1 Vizier of Many Faces
+1 Starnheim Unleashed
+1 Echo Chamber
+1 Soul of Eternity
+1 Lonesome Unicorn // Rider in Need
+1 Pride of the Clouds
+1 Mirror Match
+1 Hour of Need
+1 Fairgrounds Patrol
+1 Entreat the Angels
+1 Swan Song
+1 March of Progress
+1 Holy Justiciar
+1 Cackling Counterpart
+1 Drafna, Founder of Lat-Nam
+1 Sally Sparrow
+1 Shark Typhoon
+1 Vesuvan Duplimancy
+1 Tithe Taker
+1 Nearheath Chaplain
+1 The Book of Exalted Deeds
+1 Launch the Fleet
+1 Sakashima the Impostor
+1 Veil of Secrecy
+1 Skywise Teachings
+1 Shapesharer
+1 Kangee's Lieutenant
+1 Spiny Starfish
+{'overall': '3', 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '5', 'interaction': 5}

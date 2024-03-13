@@ -1,0 +1,101 @@
+1 Xun Yu, Wei Advisor
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Sepulcher Ghoul
+1 Disfigure
+1 Sword of the Chosen
+1 Blessing of Belzenlok
+1 Tower of Champions
+1 Strangling Spores
+1 Last Gasp
+1 Ghosts of the Damned
+1 Olivia's Midnight Ambush
+1 Throttle
+1 Lash of the Whip
+1 Grasp of Darkness
+1 Flatten
+1 Death Wind
+1 Howl from Beyond
+1 Bloodcurdling Scream
+1 Lash of Malice
+1 Dark Remedy
+1 Howling Fury
+1 Pull Under
+1 Demon's Grasp
+1 Wring Flesh
+1 Tar Snare
+1 Fatal Fumes
+1 Eyes of the Beholder
+1 Hunger of the Nim
+1 Defile
+1 Tragic Slip
+1 Cabal Trainee
+1 Ray of Enfeeblement
+1 Tomb Hex
+1 Assembly-Worker
+1 Sacred Armory
+1 Lash of Thorns
+1 Staff of Zegon
+1 Roterothopter
+1 Cutthroat Centurion
+1 Fallen Angel
+1 Mogg Cannon
+1 Steal Strength
+1 Irradiate
+1 Nantuko Husk
+1 War Chariot
+1 Devouring Swarm
+1 Disease Carriers
+1 Faerie Fencing
+1 Hornet Harasser
+1 Lethal Exploit
+1 Bloodthrone Vampire
+1 Vampire Aristocrat
+1 Elven Lyre
+1 Phyrexian Battleflies
+1 Phyrexian Defiler
+1 Bloodtallow Candle
+1 Phyrexian Plaguelord
+1 Smokespew Invoker
+1 Skyshroud Vampire
+1 Rabid Rats
+1 Stabbing Pain
+1 Pit Imp
+1 Jousting Dummy
+1 Belbe's Armor
+1 Puffer Extract
+{'overall': '1', 'cmc': 2.67, 'ramp': '0', 'draw': '0', 'interaction': 2}

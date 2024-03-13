@@ -1,0 +1,64 @@
+1 Masako the Humorless
+1 Chromatic Lantern
+1 Mana Crypt
+1 Mana Vault
+1 Stone Haven Outfitter
+1 Territorial Hammerskull
+1 Spectral Grasp
+1 Sword of the Paruns
+1 Veteran Swordsmith
+1 Urza's Workshop
+1 Windbrisk Raptor
+1 Thalia, Heretic Cathar
+1 Soltari Monk
+1 Yotian Medic
+1 Starlight Spectacular
+1 Thundering Chariot
+1 Slaughter the Strong
+1 Tormented Angel
+1 Unbreakable Formation
+1 Spectra Ward
+1 Vizier of the True
+1 Winds of Rath
+1 Arcane Signet
+1 Serra Bestiary
+1 Traxos, Scourge of Kroog
+1 Thousand-Year Elixir
+1 Zetalpa, Primal Dawn
+1 Venerated Loxodon
+1 Mind Stone
+1 Sheltering Prayers
+1 Thran Turbine
+1 Valiant Knight
+1 Thran Quarry
+1 Tocasia's Welcome
+1 Veteran's Armaments
+1 Time to Reflect
+1 Sword of the Chosen
+1 Shield Bearer
+1 Thran Forge
+1 Well of Discovery
+1 Valor Made Real
+1 Serra Inquisitors
+1 Tragic Arrogance
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Victory Chimes
+1 Wrath of God
+1 Wardscale Dragon
+1 Thunderous Orator
+1 Urza's Dark Cannonball
+1 Sephara, Sky's Blade
+1 Spirit Shield
+1 Stalwart Pathlighter
+1 Skyblinder Staff
+1 Spectral Rider
+1 Vial of Poison
+1 Seeker
+1 Serra Aviary
+1 Teferi's Protection
+1 Swordsworn Cavalier
+1 Tatterkite
+1 Silent Arbiter
+1 Wayward Angel
+1 Taranika, Akroan Veteran
+{'overall': '4', 'cmc': 3.0952380952380953, 'ramp': '7', 'draw': '4', 'interaction': 5}

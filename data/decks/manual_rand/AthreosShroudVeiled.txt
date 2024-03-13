@@ -1,0 +1,69 @@
+1 Athreos, Shroud-Veiled
+1 Undying Malice
+1 Wedding Ring
+1 Wedding Security
+1 Wretched Camel
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 _____ Bird Gets the Worm
+1 Warg Rider
+1 Zulaport Cutthroat
+1 Treacherous Vampire
+1 Without Weakness
+1 Stockpiling Celebrant
+1 Vile Requiem
+1 Woe Strider
+1 Thieving Amalgam
+1 Thraben Sentry // Thraben Militia
+1 Wanderer's Strike
+1 Wayward Angel
+1 Tempt with Immortality
+1 Soulstinger
+1 Towashi Guide-Bot
+1 Zealots en-Dal
+1 Tocasia's Onulet
+1 Vat Emergence
+1 Stromkirk Mentor
+1 Traveling Plague
+1 Werefox Bodyguard
+1 Ugin, the Ineffable
+1 Wall of Nets
+1 Tymaret, Chosen from Death
+1 The Ozolith
+1 Thaumatic Compass // Spires of Orazca
+1 Withercrown
+1 The One Ring
+1 Touch the Spirit Realm
+1 Yahenni, Undying Partisan
+1 Treacherous Urge
+1 Vedalken Shackles
+1 Void Beckoner
+1 Wall of Shards
+1 Vulturous Aven
+1 Spurnmage Advocate
+1 Zombie Brute
+1 Veteran Soldier
+1 Vanishing Verse
+1 Syr Ginger, the Meal Ender
+1 Vebulid
+1 Soulcoil Viper
+1 Tangle Wire
+1 Stonecloaker
+1 Timely Hordemate
+1 Well of Life
+1 Urza's Bauble
+1 Zombie Assassin
+1 Yawgmoth's Vile Offering
+1 Wasteland Strangler
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Urza's Miter
+1 Thoughtweft Trio
+1 Spellbook Vendor
+1 Vengeful Strangler // Strangling Grasp
+1 Trial of Solidarity
+1 Vulshok Battlegear
+1 Three Blind Mice
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Transmogrifying Wand
+1 The Wedding of River Song
+1 Unbreathing Horde
+{'overall': '4', 'cmc': 3.5970149253731343, 'ramp': '1', 'draw': '14', 'interaction': 9}

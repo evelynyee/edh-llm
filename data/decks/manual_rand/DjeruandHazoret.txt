@@ -1,0 +1,69 @@
+1 Djeru and Hazoret
+1 Wanderer's Strike
+1 Tel-Jilad Stylus
+1 Volcanic Submersion
+1 Urborg, Tomb of Yawgmoth
+1 You Find Some Prisoners
+1 Sword of Hearth and Home
+1 Wild Guess
+1 Vryn Wingmare
+1 Warcry Phoenix
+1 Tahngarth's Glare
+1 _____ _____ Rocketship
+1 Wanderer's Twig
+1 Thrill of Possibility
+1 The Mana Rig
+1 Thrumming Stone
+1 Tragic Arrogance
+1 Zealots en-Dal
+1 Tempered in Solitude
+1 Thran Foundry
+1 Trustworthy Scout
+1 Urza's Miter
+1 Stratadon
+1 Tormented Pariah // Rampaging Werewolf
+1 Urza's Filter
+1 Spellbook
+1 Wish
+1 Uncontrollable Anger
+1 Strata Scythe
+1 Titan's Presence
+1 Sword of Once and Future
+1 Terminal Moraine
+1 Weatherlight Compleated
+1 Weaver of Lightning
+1 Surveyor's Scope
+1 Wild Evocation
+1 Vanquisher's Banner
+1 Spellweaver Helix
+1 Unwavering Initiate
+1 Tapestry of the Ages
+1 Whipcorder
+1 Zenith Chronicler
+1 Village Ironsmith // Ironfang
+1 Three Dreams
+1 Two-Handed Axe // Sweeping Cleave
+1 Thran Temporal Gateway
+1 Swashbuckler's Whip
+1 Zirilan of the Claw
+1 Yasmin Khan
+1 Thorn of Amethyst
+1 Tome Shredder
+1 Tilonalli's Summoner
+1 Unquenchable Fury
+1 _____ Bird Gets the Worm
+1 Warlord's Elite
+1 Swords to Plowshares
+1 Winged Shepherd
+1 Whitemane Lion
+1 Volatile Chimera
+1 Vesperlark
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Vithian Stinger
+1 Surging Sentinels
+1 The Moment
+1 Temporary Truce
+1 Weapon Rack
+1 Words of Worship
+1 _____ Goblin
+{'overall': '5', 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8}

@@ -1,0 +1,67 @@
+1 Emrakul, the Promised End
+1 Arcane Signet
+1 Sol Ring
+1 Fellwar Stone
+1 Commander's Sphere
+1 Zelyon Sword
+1 Scroll Rack
+1 Uba Mask
+1 Thornbite Staff
+1 Sapphire Medallion
+1 War Room
+1 Thought-Knot Seer
+1 Pyxis of Pandemonium
+1 Sphinx-Bone Wand
+1 Pyre of Heroes
+1 Staff of Domination
+1 Veilstone Amulet
+1 Urza's Incubator
+1 Spinny Ride
+1 Whirlermaker
+1 Swashbuckler's Whip
+1 Whalebone Glider
+1 Sand Golem
+1 Whirling Catapult
+1 Patchwork Automaton
+1 Storybook Ride
+1 Sorcerous Spyglass
+1 Phyrexian Furnace
+1 Thran Turbine
+1 Wurm's Tooth
+1 Ugin, the Ineffable
+1 Spellbinder
+1 Scale of Chiss-Goria
+1 Traxos, Scourge of Kroog
+1 Tablet of the Guilds
+1 Thousand-Year Elixir
+1 Jeweled Lotus
+1 Mana Vault
+1 Mana Crypt
+1 Chromatic Lantern
+1 Thran Quarry
+1 Spectral Searchlight
+1 Sword of War and Peace
+1 Thought Prison
+1 Sword of the Animist
+1 Warping Wail
+1 Umbilicus
+1 Sentinel
+1 Prototype Portal
+1 Tezzeret's Simulacrum
+1 Sword of Light and Shadow
+1 The Celestus
+1 Ulamog's Crusher
+1 Wooded Foothills
+1 Ulamog's Despoiler
+1 Void Winnower
+1 The Biblioplex
+1 Relic Golem
+1 Verdant Catacombs
+1 Shield of the Avatar
+1 Tower of Champions
+1 Zhalfirin Void
+1 Unstable Frontier
+1 Urza's Chalice
+1 The Chain Veil
+1 The Immortal Sun
+{'overall': '7', 'cmc': 2.772727272727273, 'ramp': '14', 'draw': '10', 'interaction': 6}

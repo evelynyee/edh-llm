@@ -1,0 +1,68 @@
+1 Yoshimaru, Ever Faithful
+1 Triumph of Saint Katherine
+1 Unbreakable Formation
+1 Thalia's Lieutenant
+1 Solemn Simulacrum
+1 Zhalfirin Void
+1 Mind Stone
+1 Weathered Wayfarer
+1 Sol Ring
+1 White Mana Battery
+1 Sun Titan
+1 Land Tax
+1 Austere Command
+1 Sword of Truth and Justice
+1 Serra Redeemer
+1 Sunhome Stalwart
+1 Venerated Loxodon
+1 Topan Freeblade
+1 Sunscorch Regent
+1 Warden of the Wall
+1 Trove Warden
+1 Wingmate Roc
+1 Weatherlight
+1 Path to Exile
+1 Ugin's Conjurant
+1 Wurmcoil Engine
+1 Thalia, Heretic Cathar
+1 Stonecoil Serpent
+1 Thought-Knot Seer
+1 Unquestioned Authority
+1 Traxos, Scourge of Kroog
+1 Thopter Arrest
+1 Sword of the Meek
+1 Steel Overseer
+1 Victory's Envoy
+1 Thraben Watcher
+1 Skybind
+1 Wandering Graybeard
+1 Staff of the Sun Magus
+1 Wingsteed Rider
+1 Suncrusher
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Tempered Veteran
+1 Vexing Puzzlebox
+1 Sword of Hours
+1 Trial of Solidarity
+1 Weight of Conscience
+1 White Dragon
+1 Sword of the Animist
+1 Stonehewer Giant
+1 Swords to Plowshares
+1 Stoneforge Mystic
+1 Stonecloaker
+1 Windbrisk Heights
+1 Thalia's Lancers
+1 Thran Power Suit
+1 Tendo Ice Bridge
+1 Sphinx-Bone Wand
+1 Tocasia's Welcome
+1 Soul Warden
+1 Terramorphic Expanse
+1 Thunderwolf Cavalry
+1 War Priest of Thune
+1 Tragic Arrogance
+1 Thraben Doomsayer
+1 Tawnos's Coffin
+1 Temple of the Dragon Queen
+{'overall': '6', 'cmc': 3.08955223880597, 'ramp': '11', 'draw': '10', 'interaction': 8}

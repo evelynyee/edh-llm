@@ -1,0 +1,69 @@
+1 Samwise the Stouthearted
+1 Tormod's Cryptkeeper
+1 Soul-Guide Lantern
+1 Starfield Mystic
+1 Urgent Exorcism
+1 Stoneforge Mystic
+1 The Moment
+1 Unified Strike
+1 Welding Jar
+1 Yotian Frontliner
+1 Topple
+1 Watchers of the Dead
+1 Unlicensed Hearse
+1 Synod Sanctum
+1 Vizier of Remedies
+1 Chromatic Lantern
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Tsabo's Web
+1 Werefox Bodyguard
+1 Wall of Shards
+1 You Hear Something on Watch
+1 Witch Hunter
+1 Ugin's Construct
+1 Wand of Ith
+1 Storm of Souls
+1 _____ Bird Gets the Worm
+1 Weatherlight
+1 Titan's Presence
+1 Union of the Third Path
+1 Winnow
+1 Worthy Cause
+1 Threefold Signal
+1 Spurnmage Advocate
+1 Sparring Regimen
+1 Silent Sentinel
+1 Star Compass
+1 Unholy Officiant
+1 Seal Away
+1 True Love's Kiss
+1 Sunbird Standard // Sunbird Effigy
+1 Wild-Field Scarecrow
+1 Well of Knowledge
+1 Tireless Missionaries
+1 Self-Assembler
+1 Urza's Workshop
+1 Shire Shirriff
+1 Workshop Assistant
+1 Tempered Veteran
+1 The Biblioplex
+1 Spirited Companion
+1 Teroh's Faithful
+1 Squadron Hawk
+1 Tower of Fortunes
+1 Throne of Eldraine
+1 Treasure Chest
+1 Underdark Rift
+1 Undiscovered Paradise
+1 Mentor of the Meek
+1 Vengeful Dreams
+1 Wanderer's Strike
+1 Wrath of God
+1 Venerable Monk
+1 Volrath's Laboratory
+1 Steelshaper's Gift
+1 Voyager Staff
+1 Spectral Steel
+1 Thraben Sentry // Thraben Militia
+1 Vanquisher's Banner
+{'overall': '6', 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12}

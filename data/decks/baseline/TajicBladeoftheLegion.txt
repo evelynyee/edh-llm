@@ -1,0 +1,101 @@
+1 Tajic, Blade of the Legion
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Warmind Infantry
+1 Boros Elite
+1 Nav Squad Commandos
+1 Daring Skyjek
+1 Brazen Blademaster
+1 Wojek Halberdiers
+1 Keldon Berserker
+1 Legion Loyalist
+1 Tegan Jovanka
+1 Riot Ringleader
+1 Skyhunter Strike Force
+1 Serra Inquisitors
+1 Honored Crop-Captain
+1 Inspiring Unicorn
+1 Pianna, Nomad Captain
+1 Dauntless Onslaught
+1 Nahiri's Stoneblades
+1 Bolt Hound
+1 Soltari Champion
+1 Nagao, Bound by Honor
+1 Belligerent of the Ball
+1 Perimeter Sergeant
+1 You Come to the Gnoll Camp
+1 Deputized Protester
+1 Roller Coaster
+1 Adriana, Captain of the Guard
+1 Bane's Invoker
+1 Steel-Plume Marshal
+1 Rashka the Slayer
+1 Soltari Trooper
+1 Goblin General
+1 Kiddie Coaster
+1 Piety
+1 Lairwatch Giant
+1 Dwarven Soldier
+1 Tattered Ratter
+1 Join Forces
+1 Ogre Errant
+1 Hold the Line
+1 Fumiko the Lowblood
+1 Yare
+1 Markov Waltzer
+1 Hope and Glory
+1 Ritual Guardian
+1 Lavafume Invoker
+1 Márton Stromgald
+1 Signal Pest
+1 Shu Defender
+1 Candlegrove Witch
+1 Bumper Cars
+1 First Sliver's Chosen
+1 Zhao Zilong, Tiger General
+1 Rally
+1 Guardians of Akrasa
+1 Shield Wall
+1 Charging Paladin
+1 Trumpet Blast
+1 Army of Allah
+1 Hero of Oxid Ridge
+1 Righteous Charge
+1 Makindi Stampede // Makindi Mesas
+1 Rollick of Abandon
+1 Start Your Engines
+{'overall': '1', 'cmc': 2.9545454545454546, 'ramp': '0', 'draw': '0', 'interaction': 0}

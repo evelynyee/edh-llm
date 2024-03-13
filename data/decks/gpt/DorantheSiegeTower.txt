@@ -1,0 +1,65 @@
+1 Doran, the Siege Tower
+1 Birds of Paradise
+1 Sylvan Yeti
+1 Seedborn Muse
+1 Tarmogoyf
+1 Mind Stone
+1 Vengeful Strangler // Strangling Grasp
+1 Trailblazer's Torch
+1 Turntimber Basilisk
+1 Tyrant's Machine
+1 Wilson, Refined Grizzly
+1 Wire Surgeons
+1 Vengeant Vampire
+1 Vedalken Shackles
+1 Voracious Wurm
+1 Vraska, Golgari Queen
+1 Vraska's Conquistador
+1 Talons of Wildwood
+1 Topan Freeblade
+1 Triumphant Surge
+1 Thunderstaff
+1 Vivien's Stampede
+1 Wildgrowth Walker
+1 Undercity Uprising
+1 Yawgmoth's Edict
+1 Wing Shards
+1 Vitalizing Cascade
+1 Xathrid Demon
+1 Vraska, Relic Seeker
+1 Triumph of Cruelty
+1 Warden of the Woods
+1 Undergrowth Scavenger
+1 Viridian Corrupter
+1 Volunteer Reserves
+1 Worldslayer
+1 Wasp of the Bitter End
+1 Vault Skirge
+1 Willow Geist
+1 Vivien, Arkbow Ranger
+1 Tymna the Weaver
+1 Waxmane Baku
+1 Viridian Lorebearers
+1 Voltaic Construct
+1 Urza's Engine
+1 Wishmonger
+1 Demonic Tutor
+1 Urborg Stalker
+1 Tendrils of Corruption
+1 Vengeful Archon
+1 Vhati il-Dal
+1 Wave of Reckoning
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Wurmquake
+1 Throne of the God-Pharaoh
+1 Tomb Blade
+1 Wirewood Pride
+1 Vitality Hunter
+1 Unified Strike
+1 Warren Weirding
+1 Willowdusk, Essence Seer
+1 Wanderlust
+1 Vraska the Unseen
+1 Terashi's Grasp
+1 Westgate Regent
+{'overall': '4', 'cmc': 3.46875, 'ramp': '4', 'draw': '6', 'interaction': 13}

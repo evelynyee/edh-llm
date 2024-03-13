@@ -1,0 +1,67 @@
+1 Raff, Weatherlight Stalwart
+1 Vanish into Eternity
+1 Tide Drifter
+1 Whirlwind Denial
+1 Unified Will
+1 Thassa, God of the Sea
+1 Wings of Velis Vel
+1 Thunderheads
+1 Thunder Totem
+1 Winds of Abandon
+1 Mulldrifter
+1 Web of Inertia
+1 Wingsteed Rider
+1 Whalebone Glider
+1 Zephyrim
+1 Wingspan Mentor
+1 Whirlwind Adept
+1 Vedalken Archmage
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Veilstone Amulet
+1 Whirler Rogue
+1 Mentor of the Meek
+1 Whiptongue Frog
+1 Thunderstaff
+1 Wand of the Worldsoul
+1 Svyelun of Sea and Sky
+1 Unwind
+1 Whipgrass Entangler
+1 Vigilant Drake
+1 Wandering Archaic // Explore the Vastlands
+1 Thundercloud Elemental
+1 Venser, the Sojourner
+1 Whitewater Naiads
+1 Venerated Loxodon
+1 Trinisphere
+1 Mana Vault
+1 Thopter Architect
+1 Teferi's Talent
+1 Teferi, Timebender
+1 Vizier of the True
+1 Thassa, Deep-Dwelling
+1 Mana Drain
+1 Counterspell
+1 Winding Canyons
+1 Umezawa's Jitte
+1 Path to Exile
+1 Threnody Singer
+1 Vodalian Mystic
+1 Wingmate Roc
+1 Sway of Illusion
+1 Tidal Flats
+1 Unbounded Potential
+1 Valor Made Real
+1 Wing Commando
+1 Vedalken Blademaster
+1 Welcome to the Fold
+1 Vulpikeet
+1 Winter's Chill
+1 Traxos, Scourge of Kroog
+1 Smothering Tithe
+1 Urza's Incubator
+1 Steel Seraph
+1 Spoils of Adventure
+{'overall': '4', 'cmc': 3.257575757575758, 'ramp': '5', 'draw': '12', 'interaction': 10}

@@ -1,0 +1,64 @@
+1 Sharuum the Hegemon
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Phyrexian Metamorph
+1 Sculpting Steel
+1 Seat of the Synod
+1 Ancient Den
+1 Vault of Whispers
+1 Etherium Sculptor
+1 Arcane Sanctum
+1 Watery Grave
+1 Solemn Simulacrum
+1 Hallowed Fountain
+1 Swords to Plowshares
+1 Azorius Signet
+1 Godless Shrine
+1 Baleful Strix
+1 Mistvault Bridge
+1 Razortide Bridge
+1 Master Transmuter
+1 Dimir Signet
+1 Darksteel Citadel
+1 Goldmire Bridge
+1 Thirst for Knowledge
+1 Magister Sphinx
+1 Emry, Lurker of the Loch
+1 Fabricate
+1 Orzhov Signet
+1 Counterspell
+1 Academy Ruins
+1 Disciple of the Vault
+1 Sphinx Summoner
+1 Inventors' Fair
+1 Time Sieve
+1 Talisman of Dominance
+1 Exotic Orchard
+1 Foundry Inspector
+1 Spire of Industry
+1 Thought Monitor
+1 Padeem, Consul of Innovation
+1 Raffine's Tower
+1 Thopter Foundry
+1 Flooded Strand
+1 Marsh Flats
+1 Buried Ruin
+1 Esper Sentinel
+1 Polluted Delta
+1 Demonic Tutor
+1 Sphinx of the Steel Wind
+1 Enlightened Tutor
+1 Glacial Fortress
+1 Tezzeret the Seeker
+1 Path to Exile
+1 Talisman of Progress
+1 Conjurer's Closet
+1 Cyclonic Rift
+1 Talisman of Hierarchy
+1 Drowned Catacomb
+1 Darksteel Forge
+1 Myr Battlesphere
+1 Trinket Mage
+1 Noxious Gearhulk
+{'overall': '9', 'cmc': 2.111111111111111, 'ramp': '10', 'draw': '11', 'interaction': 6}

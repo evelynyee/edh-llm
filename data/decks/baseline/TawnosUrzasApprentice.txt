@@ -1,0 +1,101 @@
+1 Tawnos, Urza's Apprentice
+1 Primal Amulet // Primal Wellspring
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Island
+1 Mountain
+1 Abstruse Archaic
+1 The Peregrine Dynamo
+1 The Enigma Jewel // Locus of Enlightenment
+1 Kurkesh, Onakke Ancient
+1 Illusionist's Bracers
+1 Rings of Brighthearth
+1 Errant, Street Artist
+1 Virtue of Knowledge // Vantress Visions
+1 Chef's Kiss
+1 Battlemage's Bracers
+1 Ground Rift
+1 Lithoform Engine
+1 Storm of Saruman
+1 Sudden Substitution
+1 Bill Potts
+1 Dual Casting
+1 Complete the Circuit
+1 Sigil Tracer
+1 Adric, Mathematical Genius
+1 Volcanic Awakening
+1 Disallow
+1 Hindering Touch
+1 Burn Trail
+1 Beamsplitter Mage
+1 Reroute
+1 Invasion of Vryn // Overloaded Mage-Ring
+1 Artisan of Forms
+1 Zada, Hedron Grinder
+1 Flusterstorm
+1 Repeated Reverberation
+1 Lose Focus
+1 Mirror Sheen
+1 Izzet Guildmage
+1 Chief Engineer
+1 Fork
+1 Jin-Gitaxias, Progress Tyrant
+1 Bastion Inventor
+1 Wyll's Reversal
+1 Replication Technique
+1 See Double
+1 Prismari Pledgemage
+1 Radiant Performer
+1 Enraged Giant
+1 Echo Storm
+1 Teach by Example
+1 Doublecast
+1 Shattering Spree
+1 Display of Power
+1 The Everflowing Well // The Myriad Pools
+1 Aboleth Spawn
+1 Meletis Charlatan
+1 Expansion // Explosion
+1 Siege of Towers
+1 Twincast
+1 Reverberate
+1 Interdict
+1 Squelch
+1 Pyromancer's Goggles
+1 Shivan Branch-Burner
+1 Rooftop Nuisance
+1 Gigadrowse
+1 Make Disappear
+1 Not of This World
+{'overall': '3', 'cmc': 3.44, 'ramp':'6', 'draw': '7', 'interaction': 2}

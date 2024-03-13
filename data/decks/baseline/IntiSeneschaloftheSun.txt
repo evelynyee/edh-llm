@@ -1,0 +1,101 @@
+1 Inti, Seneschal of the Sun
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Academic Dispute
+1 Warehouse Thief
+1 Rundvelt Hordemaster
+1 Portent of Betrayal
+1 Furious Rise
+1 Blazing Crescendo
+1 Enthusiastic Study
+1 Tempered in Solitude
+1 Abbot of Keral Keep
+1 Mishra's Research Desk
+1 Tavern Brawler
+1 Oracle's Vault
+1 Tuskeri Firewalker
+1 Yasmin Khan
+1 Zirilan of the Claw
+1 Brazen Cannonade
+1 First Day of Class
+1 Deceiver of Form
+1 Mudbutton Clanger
+1 Containment Construct
+1 Rooting Moloch
+1 Brutal Deceiver
+1 Pack's Betrayal
+1 Unlucky Witness
+1 Wrenn's Resolve
+1 Reckless Impulse
+1 Coming In Hot
+1 Furious Bellow
+1 Sneak Attack
+1 Vaultbreaker
+1 Battle Plan
+1 Elkin Bottle
+1 Dragon's Rage Channeler
+1 Flameskull
+1 Mishra's Bauble
+1 Ignorant Bliss
+1 Clockwork Droid
+1 Stromkirk Occultist
+1 Ornate Kanzashi
+1 Laser Screwdriver
+1 Ragavan, Nimble Pilferer
+1 Valakut Exploration
+1 Planebound Accomplice
+1 Titan's Strength
+1 Mezzio Mugger
+1 Urza's Bauble
+1 Chaos Harlequin
+1 Commune with Lava
+1 Goblin Wizard
+1 Lodestone Bauble
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Kami of Celebration
+1 Conspiracy Theorist
+1 Maximize Velocity
+1 Paroxysm
+1 Elkin Lair
+1 Grinning Totem
+1 Ring of Ma'rûf
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Spark of Creativity
+1 Invasion of Kaldheim // Pyre of the World Tree
+1 Battlefield Scavenger
+1 Muse Vessel
+{'overall': '4', 'cmc': 2.723076923076923, 'ramp': '4', 'draw': '17', 'interaction': 2}

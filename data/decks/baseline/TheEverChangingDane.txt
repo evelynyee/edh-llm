@@ -1,0 +1,101 @@
+1 The Ever-Changing 'Dane
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Cemetery Puca
+1 Phantasmal Image
+1 Shameless Charlatan
+1 Unstable Shapeshifter
+1 Archmage of Echoes
+1 True Polymorph
+1 Vesuvan Duplimancy
+1 Dismiss into Dream
+1 Mirage Mirror
+1 Donal, Herald of Wings
+1 Opal Gargoyle
+1 Opal Archangel
+1 Opal Titan
+1 Tar Pit Warrior
+1 Horobi, Death's Wail
+1 Crystalline Nautilus
+1 Vesuvan Doppelganger
+1 Opal Guardian
+1 Digsite Engineer
+1 Brass Knuckles
+1 Primal Clay
+1 Jade Idol
+1 Drafna, Founder of Lat-Nam
+1 Phantom Beast
+1 Opal Caryatid
+1 Nanogene Conversion
+1 Giant's Amulet
+1 Evil Twin
+1 Corrupting Licid
+1 Veil of Birds
+1 Opal Acrolith
+1 Storm of Saruman
+1 Phantasmal Bear
+1 Join the Maestros
+1 Volo, Itinerant Scholar
+1 Phantasmal Dreadmaw
+1 Forlorn Pseudamma
+1 Mindlink Mech
+1 Thieves' Tools
+1 Phyrexian Metamorph
+1 Phantasmal Abomination
+1 Strionic Resonator
+1 Frost Walker
+1 Sally Sparrow
+1 Transmogrifying Licid
+1 Imposter Mech
+1 Urza, Chief Artificer
+1 Hall of Mirrors
+1 Irenicus's Vile Duplication
+1 Invasion of Vryn // Overloaded Mage-Ring
+1 Hunted by The Family
+1 Clavileño, First of the Blessed
+1 Phantasmal Dragon
+1 Skulking Fugitive
+1 Sedgemoor Witch
+1 Preston, the Vanisher
+1 Mage's Attendant
+1 Basalt Golem
+1 Mirror of the Forebears
+1 King of the Oathbreakers
+1 Song of the Worldsoul
+1 Minion Reflector
+1 Thopter Shop
+{'overall': '3', 'cmc': 3.343283582089552, 'ramp': '1', 'draw': '5', 'interaction': 2}

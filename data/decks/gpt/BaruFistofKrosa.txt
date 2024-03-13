@@ -1,0 +1,67 @@
+1 Baru, Fist of Krosa
+1 Bloom Tender
+1 Throne of the God-Pharaoh
+1 Doubling Season
+1 Ugin's Mastery
+1 Wakeroot Elemental
+1 Traverse the Outlands
+1 Verdant Sun's Avatar
+1 Titania, Gaea Incarnate
+1 Strength of the Pack
+1 Sporeweb Weaver
+1 Woodfall Primus
+1 Vengeant Earth
+1 Green Sun's Zenith
+1 Whalebone Glider
+1 Wandering Stream
+1 War Mammoth
+1 Warping Wail
+1 Wildgrowth Walker
+1 Whirlermaker
+1 Symbiotic Wurm
+1 Thornbite Staff
+1 Vastwood Surge
+1 Sylvan Advocate
+1 Wurmcoil Engine
+1 Tendril of the Mycotyrant
+1 Verdeloth the Ancient
+1 Sprout
+1 Wren's Run Packmaster
+1 Warden of the Wall
+1 Somberwald Beastmaster
+1 Titanic Brawl
+1 Tajuru Beastmaster
+1 Triumph of Ferocity
+1 The Great Henge
+1 Sylvan Anthem
+1 Mind Stone
+1 Sylvan Offering
+1 Tendershoot Dryad
+1 Verdant Force
+1 Thelonite Monk
+1 Titania's Command
+1 Worldspine Wurm
+1 Vorinclex // The Grand Evolution
+1 Terastodon
+1 Titania, Protector of Argoth
+1 Yisan, the Wanderer Bard
+1 Treasure Vault
+1 Titania's Chosen
+1 Thundersteel Colossus
+1 Warm Welcome
+1 Workshop Warchief
+1 Yew Spirit
+1 Squirrel Wrangler
+1 Turntimber Grove
+1 Wirewood Hivemaster
+1 Treefolk Mystic
+1 Stingerfling Spider
+1 Web
+1 Stampeding Elk Herd
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Wallop
+1 Zelyon Sword
+1 Toymaker
+1 Tyrite Sanctum
+1 Venomous Brutalizer
+{'overall': '6', 'cmc': 3.8484848484848486, 'ramp': '9', 'draw': '7', 'interaction': 10}

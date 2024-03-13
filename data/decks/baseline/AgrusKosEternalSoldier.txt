@@ -1,0 +1,101 @@
+1 Agrus Kos, Eternal Soldier
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Battlemage's Bracers
+1 Kurkesh, Onakke Ancient
+1 Rings of Brighthearth
+1 Mirror-Shield Hoplite
+1 Illusionist's Bracers
+1 Lithoform Engine
+1 Abstruse Archaic
+1 The Peregrine Dynamo
+1 Bill Potts
+1 Zada, Hedron Grinder
+1 Siege of Towers
+1 Astral Steel
+1 Repeated Reverberation
+1 Ground Rift
+1 Dual Casting
+1 Show of Confidence
+1 Shattering Spree
+1 Volcanic Awakening
+1 Not of This World
+1 Reflective Golem
+1 Chef's Kiss
+1 Double Vision
+1 Doublecast
+1 Ramosian Greatsword
+1 Threefold Signal
+1 Panharmonicon
+1 Mirari
+1 Burn Trail
+1 Scattershot
+1 Pyromancer's Goggles
+1 Spreading Insurrection
+1 Wandering Archaic // Explore the Vastlands
+1 Fork
+1 Lucky Clover
+1 Howl of the Horde
+1 Gandalf the White
+1 Reverberate
+1 Magewright's Stone
+1 Pyromatics
+1 Wing Shards
+1 Seht's Tiger
+1 Galadriel's Dismissal
+1 Grapeshot
+1 Shivan Branch-Burner
+1 Harmonic Prodigy
+1 Twinferno
+1 Cut Short
+1 Radiant Performer
+1 Wyll's Reversal
+1 Wild Ricochet
+1 Mirrorwing Dragon
+1 Storm King's Thunder
+1 Peri Brown
+1 Conclave Phalanx
+1 Banish from Edoras
+1 Nalfeshnee
+1 Chaplain of Alms // Chapel Shieldgeist
+1 Sanctum of Tranquil Light
+1 Twinning Staff
+1 Elite Skirmisher
+1 Loxodon Restorer
+1 Fury Storm
+1 Quicksand Whirlpool
+{'overall': '1', 'cmc': 3.4242424242424243, 'ramp': '1', 'draw': '0', 'interaction': 9}

@@ -1,0 +1,69 @@
+1 Muzzio, Visionary Architect
+1 Worry Beads
+1 Temple of the Dragon Queen
+1 Venerated Teacher
+1 Write into Being
+1 Tower Geist
+1 Tolarian Contempt
+1 Voda Sea Scavenger
+1 Soothsaying
+1 Thought Nibbler
+1 Sphinx of Clear Skies
+1 Yarok's Wavecrasher
+1 Thirst for Knowledge
+1 Thwart
+1 Wizard Mentor
+1 The Deck of Many Things
+1 Tezzeret, Artifice Master
+1 Timebender
+1 Verdant Catacombs
+1 Twice Upon a Time // Unlikely Meeting
+1 Spy Network
+1 Wooded Foothills
+1 Sword of Hearth and Home
+1 Visions of Duplicity
+1 Tunnel Vision
+1 Vesuvan Drifter
+1 Vantress Paladin
+1 Terminal Moraine
+1 The Everflowing Well // The Myriad Pools
+1 Whetwheel
+1 Treasure Mage
+1 Temporal Eddy
+1 Silundi Vision // Silundi Isle
+1 Volrath's Shapeshifter
+1 Wall of Forgotten Pharaohs
+1 Workshop Elders
+1 Telling Time
+1 Voyage's End
+1 Timetwister
+1 Trickster Mage
+1 Wall of Lost Thoughts
+1 Wibbly-wobbly, Timey-wimey
+1 Timestream Navigator
+1 Viscerid Deepwalker
+1 Weight of Memory
+1 Watcher for Tomorrow
+1 Vanquisher's Banner
+1 Zulaport Duelist
+1 Wand of Denial
+1 Treasure Chest
+1 Zoetic Cavern
+1 Veiled Sentry
+1 Whirlpool Whelm
+1 Ulamog's Reclaimer
+1 Titan's Presence
+1 Trade Routes
+1 Tormod's Cryptkeeper
+1 Urza's Filter
+1 Vortex Elemental
+1 Spined Megalodon
+1 Syr Elenora, the Discerning
+1 Wheel of Torture
+1 Subterranean Schooner
+1 Turbulent Dreams
+1 Zndrsplt, Eye of Wisdom
+1 Uba Mask
+1 Thieving Skydiver
+1 Trapmaker's Snare
+{'overall': '6', 'cmc': 3.0, 'ramp': '5', 'draw': '20', 'interaction': 2}

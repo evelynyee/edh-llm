@@ -1,0 +1,69 @@
+1 Autumn Willow
+1 Wakeroot Elemental
+1 Torpor Orb
+1 Bloom Tender
+1 Wolf Strike
+1 Sylvan Basilisk
+1 Trumpeting Armodon
+1 Verdant Touch
+1 Toadstool Admirer
+1 Steel Hellkite
+1 Tezzeret's Strider
+1 Shifting Ceratops
+1 Thundersteel Colossus
+1 Shrill Howler // Howling Chorus
+1 Whip Silk
+1 Skyblinder Staff
+1 Zoetic Cavern
+1 Vitalize
+1 Verdant Command
+1 Willow Satyr
+1 Whirlwind
+1 Eternal Witness
+1 Venomous Vines
+1 Tireless Hauler // Dire-Strain Brawler
+1 Zodiac Ox
+1 Song of Serenity
+1 Twinning Glass
+1 Spidery Grasp
+1 Tyrant's Machine
+1 Treeshaker Chimera
+1 Vivien's Crocodile
+1 Wind Shear
+1 Zodiac Monkey
+1 The Tabernacle at Pendrell Vale
+1 Worry Beads
+1 Vedalken Orrery
+1 Tangleclaw Werewolf // Fibrous Entangler
+1 TARDIS
+1 Varis, Silverymoon Ranger
+1 Villagers of Estwald // Howlpack of Estwald
+1 Wall of Pine Needles
+1 Wooden Stake
+1 Tyrranax
+1 Tapestry of the Ages
+1 Walking Wall
+1 Wreath of Geists
+1 Whirling Dervish
+1 Spellbane Centaur
+1 Will-Forged Golem
+1 The Skullspore Nexus
+1 Sylvan Awakening
+1 Yavimaya Wurm
+1 Sundering Vitae
+1 Witchstalker
+1 Treetop Defense
+1 Wing Snare
+1 Weather the Storm
+1 Spoils of the Hunt
+1 Waxing Moon
+1 Transmogrifying Licid
+1 Street Savvy
+1 Wild Dogs
+1 Valeron Wardens
+1 Whispersilk Cloak
+1 Watchdog
+1 Tlincalli Hunter // Retrieve Prey
+1 Zenith Chronicler
+1 Tel-Jilad Wolf
+{'overall': '3', 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 5}

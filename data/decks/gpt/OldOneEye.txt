@@ -1,0 +1,67 @@
+1 Old One Eye
+1 Soul Foundry
+1 Winding Wurm
+1 Verdant Crescendo
+1 Titania's Chosen
+1 Zendikar's Roil
+1 Wurmcalling
+1 Tempt with Discovery
+1 Vexing Arcanix
+1 Ugin's Nexus
+1 Wrenn and Realmbreaker
+1 Wurmskin Forger
+1 Vivid Revival
+1 Vastwood Surge
+1 Wood Elves
+1 Vorinclex // The Grand Evolution
+1 Sylvan Library
+1 Welcome to . . . // Jurassic Park
+1 Thirsting Roots
+1 Split the Spoils
+1 Tetravus
+1 Vitality Charm
+1 Woodland Bellower
+1 Yavimaya Sapherd
+1 Walking Atlas
+1 Sylvan Messenger
+1 Eternal Witness
+1 Verdant Sun's Avatar
+1 Voracious Typhon
+1 Vivien Reid
+1 Green Sun's Zenith
+1 Verdant Catacombs
+1 Doubling Season
+1 Verdant Succession
+1 Vitaspore Thallid
+1 Tilling Treefolk
+1 Crop Rotation
+1 Worldly Tutor
+1 Vine Dryad
+1 Vizier of the Menagerie
+1 Triumph of Ferocity
+1 Spine of Ish Sah
+1 Wild Pair
+1 Bloom Tender
+1 Wilt
+1 Traverse the Ulvenwald
+1 Spore Burst
+1 Thran Weaponry
+1 Vivien, Monsters' Advocate
+1 Undercellar Myconid
+1 Titan of Industry
+1 Twinning Staff
+1 Termagant Swarm
+1 Yavimaya, Cradle of Growth
+1 Vivien on the Hunt
+1 Traxos, Scourge of Kroog
+1 Woodfall Primus
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Ulvenwald Mysteries
+1 Storm the Festival
+1 Whisperwood Elemental
+1 Vineshaper Mystic
+1 Tishana's Wayfinder
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Tormod's Crypt
+1 Treasure Keeper
+{'overall': '9', 'cmc': 3.742424242424242, 'ramp': '13', 'draw': '17', 'interaction': 5}

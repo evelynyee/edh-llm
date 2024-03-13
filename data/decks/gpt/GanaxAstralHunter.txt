@@ -1,0 +1,66 @@
+1 Ganax, Astral Hunter
+1 Voracious Dragon
+1 Thundermaw Hellkite
+1 Warstorm Surge
+1 Traxos, Scourge of Kroog
+1 Thought-Knot Seer
+1 Urza's Chalice
+1 Thought Vessel
+1 Mana Vault
+1 Toralf, God of Fury // Toralf's Hammer
+1 Wurmcoil Engine
+1 War Room
+1 Wily Goblin
+1 Vandalblast
+1 Whirlermaker
+1 Viashino Heretic
+1 Treasure Vault
+1 Surly Badgersaur
+1 Lightning Bolt
+1 Swashbuckler's Whip
+1 Wayward Guide-Beast
+1 Wild Celebrants
+1 Volcano Hellion
+1 Suncrusher
+1 Welding Sparks
+1 Sudden Breakthrough
+1 Victorious Destruction
+1 Wild Ricochet
+1 Wandering Archaic // Explore the Vastlands
+1 Skyline Despot
+1 Unstable Frontier
+1 Spawning Breath
+1 Young Pyromancer
+1 Wildfire Devils
+1 Warping Wail
+1 Tome of the Guildpact
+1 Sol Ring
+1 Arcane Signet
+1 Treasonous Ogre
+1 Mana Crypt
+1 Warden of the Wall
+1 Starke of Rath
+1 Stoke the Flames
+1 Thornbite Staff
+1 Varchild's War-Riders
+1 The Autonomous Furnace
+1 Sarpadian Empires, Vol. VII
+1 Torch the Tower
+1 The Flame of Keld
+1 Vexing Devil
+1 Tavern Scoundrel
+1 Toymaker
+1 Zo-Zu the Punisher
+1 Treasure Nabber
+1 Vanquisher's Banner
+1 Tuktuk Scrapper
+1 Urza's Tower
+1 Terrain Generator
+1 Thran Dynamo
+1 Triskelavus
+1 Searing Barb
+1 Spinal Parasite
+1 Street Urchin
+1 Throne of Makindi
+1 Tablet of the Guilds
+{'overall': '7', 'cmc': 2.9692307692307693, 'ramp': '16', 'draw': '6', 'interaction': 17}

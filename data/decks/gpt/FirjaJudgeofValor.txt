@@ -1,0 +1,65 @@
+1 Firja, Judge of Valor
+1 Thoughtseize
+1 Sol Ring
+1 Swords to Plowshares
+1 Stoneforge Mystic
+1 Thought-Knot Seer
+1 Vampiric Tutor
+1 Path to Exile
+1 Windswept Heath
+1 Vile Manifestation
+1 Wretched Camel
+1 Zombie Apocalypse
+1 Unearth
+1 Vanquish the Foul
+1 Thrilling Encore
+1 Terramorphic Expanse
+1 Unholy Grotto
+1 Vengeful Reaper
+1 Demonic Tutor
+1 Viscera Seer
+1 Undead Gladiator
+1 Yarok's Fenlurker
+1 Trynn, Champion of Freedom
+1 Transcendent Envoy
+1 Ulamog, the Ceaseless Hunger
+1 Vanquisher's Banner
+1 Vedalken Orrery
+1 Whisper, Blood Liturgist
+1 Surging Dementia
+1 Tainted Specter
+1 Vampire Nocturnus
+1 Damnation
+1 Urborg Justice
+1 Unburial Rites
+1 Vulturous Aven
+1 Vanish into Eternity
+1 Wasteland Strangler
+1 Whisper Squad
+1 Ugin's Nexus
+1 Viscera Dragger
+1 Wingsteed Rider
+1 Zhalfirin Void
+1 Wake the Dead
+1 Withering Wisps
+1 Tourach's Canticle
+1 Voracious Null
+1 Vizier of Remedies
+1 Whispers of Emrakul
+1 Tymaret Calls the Dead
+1 Soul Summons
+1 Village Bell-Ringer
+1 Treasure Chest
+1 Venerated Loxodon
+1 Vexing Puzzlebox
+1 Verge Rangers
+1 Vraska, Betrayal's Sting
+1 Vessel of Malignity
+1 Urza's Bauble
+1 Yawgmoth's Will
+1 Trinisphere
+1 Visions of Dread
+1 Woe Strider
+1 Tragic Poet
+1 Tendrils of Despair
+{'overall': '7', 'cmc': 2.859375, 'ramp': '3', 'draw': '11', 'interaction': 8}

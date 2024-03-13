@@ -1,0 +1,68 @@
+1 Merry, Esquire of Rohan
+1 Whalebone Glider
+1 Vengeful Firebrand
+1 Ydwen Efreet
+1 Thundermaw Hellkite
+1 Thrash of Raptors
+1 Village Watch // Village Reavers
+1 Vikya, Scorching Stalwart
+1 Wayward Giant
+1 Toralf, God of Fury // Toralf's Hammer
+1 Spark Elemental
+1 Stoic Champion
+1 Zhang Fei, Fierce Warrior
+1 Wildfire Elemental
+1 Unquestioned Authority
+1 Takeno's Cavalry
+1 Viashino Spearhunter
+1 Zelyon Sword
+1 White Plume Adventurer
+1 Takeno, Samurai General
+1 Wayward Guide-Beast
+1 Thundersong Trumpeter
+1 Ulamog's Crusher
+1 Wingmate Roc
+1 Zalto, Fire Giant Duke
+1 Austere Command
+1 Winota, Joiner of Forces
+1 Swords to Plowshares
+1 Talruum Champion
+1 Wall of One Thousand Cuts
+1 Xenk, Paladin Unbroken
+1 Yellow Scarves Cavalry
+1 Wardscale Dragon
+1 Will of the All-Hunter
+1 Witch Hunt
+1 Warrior's Stand
+1 Sword of Vengeance
+1 Tectonic Rift
+1 Stoneforge Masterwork
+1 Eowyn, Fearless Knight
+1 Tormentor's Trident
+1 Warlord's Fury
+1 Wedding Invitation
+1 War-Spike Changeling
+1 Stone Spirit
+1 Storm Strike
+1 Valduk, Keeper of the Flame
+1 War Falcon
+1 Wall of Granite
+1 Wall of Razors
+1 Wall of Stone
+1 Wall of Swords
+1 Wall of Caltrops
+1 Vow of Duty
+1 Turf Wound
+1 Telethopter
+1 Zephyr Boots
+1 Ward of Bones
+1 Wall of Nets
+1 Sunblade Angel
+1 Winds of Abandon
+1 Wrath of God
+1 Warrior's Honor
+1 Weapons Trainer
+1 Wayward Angel
+1 Vanquisher's Banner
+1 Viashino Weaponsmith
+{'overall': '3', 'cmc': 3.71, 'ramp': '1', 'draw': '9', 'interaction': 11}

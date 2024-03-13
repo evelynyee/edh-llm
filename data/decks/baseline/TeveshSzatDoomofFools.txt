@@ -1,0 +1,101 @@
+1 Tevesh Szat, Doom of Fools
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Bag of Devouring
+1 Karn, Scion of Urza
+1 Nikara, Lair Scavenger
+1 Gift of Compleation
+1 Myr Turbine
+1 Kamber, the Plunderer
+1 Liliana, Dreadhorde General
+1 Kalitas, Traitor of Ghet
+1 Danse Macabre
+1 Treasure Chest
+1 Okiba Salvage
+1 Realmbreaker, the Invasion Tree
+1 Vulturous Aven
+1 Marionette Master
+1 The Torment of Gollum
+1 Injector Crocodile
+1 Scrapyard Recombiner
+1 Sheoldred // The True Scriptures
+1 Tymaret Calls the Dead
+1 Shelob, Dread Weaver
+1 Toll of the Invasion
+1 Fearsome Awakening
+1 Traumatic Revelation
+1 Death in Heaven
+1 Magus of the Bridge
+1 Portal to Phyrexia
+1 Hunt for Specimens
+1 Bridge from Below
+1 Gate to the Afterlife
+1 Druidic Satchel
+1 Liliana, the Necromancer
+1 Prowling Geistcatcher
+1 Soul Stair Expedition
+1 Whisper, Blood Liturgist
+1 Eriette's Whisper
+1 The Cruelty of Gix
+1 Geth's Summons
+1 Victimize
+1 Grimoire of the Dead
+1 Aclazotz, Deepest Betrayal // Temple of the Dead
+1 Urza's Miter
+1 Lobelia Sackville-Baggins
+1 Ashiok's Reaper
+1 The Deck of Many Things
+1 Myr Incubator
+1 Scrounge
+1 Canoptek Scarab Swarm
+1 Ironclad Revolutionary
+1 Necromantic Summons
+1 Fell Stinger
+1 Triassic Egg
+1 Dread Summons
+1 Visage of Dread // Dread Osseosaur
+1 Callous Bloodmage
+1 Shard of the Void Dragon
+1 Mind Maggots
+1 Zombie Apocalypse
+1 Gloomfang Mauler
+1 Tar Fiend
+1 Woe Strider
+1 Gravelighter
+1 Scrap Trawler
+1 Harvester of Souls
+{'overall': '5', 'cmc': 3.9846153846153847, 'ramp': '5', 'draw': '26', 'interaction': 3}

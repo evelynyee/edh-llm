@@ -1,0 +1,68 @@
+1 Odric, Lunarch Marshal
+1 Spirit Mantle
+1 Wingmate Roc
+1 Sword of Truth and Justice
+1 Lightning Greaves
+1 Sword of Feast and Famine
+1 White Shield Crusader
+1 Thraben Watcher
+1 Sun-Crested Pterodon
+1 Smothering Tithe
+1 Valiant Knight
+1 Teferi's Protection
+1 Austere Command
+1 Sol Ring
+1 Land Tax
+1 Tuinvale Guide
+1 Triumph of Gerrard
+1 Wall of Resistance
+1 Soltari Champion
+1 Swiftfoot Boots
+1 Wojek Apothecary
+1 Terra Eternal
+1 Stave Off
+1 Thunder Totem
+1 Valor in Akros
+1 Teroh's Vanguard
+1 Seraph of Dawn
+1 Voice of Reason
+1 Serra Angel
+1 Valor Made Real
+1 Steel-Plume Marshal
+1 Warden of the Wall
+1 War Screecher
+1 Thunder Spirit
+1 Serra Inquisitors
+1 Spear of Heliod
+1 Stalwart Pathlighter
+1 Trailblazer's Boots
+1 Tempered Steel
+1 Voice of Truth
+1 Venerable Lammasu
+1 Sunspire Griffin
+1 Thraben Doomsayer
+1 Well of Discovery
+1 Sylvok Lifestaff
+1 Vanguard's Shield
+1 Skyhunter Patrol
+1 Zephyr Boots
+1 Veteran Armorsmith
+1 Thunderhawk Gunship
+1 Sword of Light and Shadow
+1 Swords to Plowshares
+1 Spontaneous Flight
+1 Zetalpa, Primal Dawn
+1 Sword of Body and Mind
+1 Twinblade Paladin
+1 Sword of the Chosen
+1 Tenth District Guard
+1 Tale of Tinuviel
+1 Tivadar of Thorn
+1 Segovian Angel
+1 Turn the Tables
+1 Vassal's Duty
+1 Unerring Sling
+1 Soltari Emissary
+1 Warrior's Stand
+1 Warden of the Inner Sky
+{'overall': '4', 'cmc': 3.41, 'ramp': '5', 'draw': '5', 'interaction': 3}

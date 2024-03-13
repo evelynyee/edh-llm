@@ -1,0 +1,69 @@
+1 Taborax, Hope's Demise
+1 Vengeful Pharaoh
+1 Umezawa's Jitte
+1 Summoning Station
+1 Unspeakable Symbol
+1 Vorrac Battlehorns
+1 Vengeful Vampire
+1 The Filigree Sylex
+1 Twilight Prophet
+1 Windswept Heath
+1 Tangle Wire
+1 Urza's Miter
+1 Unholy Indenture
+1 Weatherlight Compleated
+1 Yahenni, Undying Partisan
+1 Titan Forge
+1 Vermiculos
+1 Weed Strangle
+1 Zombie Brute
+1 Wake the Dead
+1 Vampire Scrivener
+1 Stonecoil Serpent
+1 Diabolic Tutor
+1 Sol Ring
+1 Trespasser's Curse
+1 Triskelavus
+1 Yukora, the Prisoner
+1 Tortured Existence
+1 Wave of Rats
+1 Wight
+1 Talon of Pain
+1 Without Weakness
+1 Sword of the Ages
+1 Thran Temporal Gateway
+1 Wretched Banquet
+1 Vexing Puzzlebox
+1 Vector Asp
+1 Staff of the Death Magus
+1 Wayfarer's Bauble
+1 Tizerus Charger
+1 Warren Pilferers
+1 Spitting Dilophosaurus
+1 Wall of Limbs
+1 Skemfar Avenger
+1 Sword of Hours
+1 Sigil of Distinction
+1 Splendid Agony
+1 Yawgmoth's Edict
+1 To the Slaughter
+1 Tempt with Immortality
+1 Vampire Nocturnus
+1 Tetravus
+1 Shrine of Limitless Power
+1 Woebearer
+1 Sunset Pyramid
+1 Tablet of Compleation
+1 Swiftgear Drake
+1 Writ of Return
+1 Voracious Vampire
+1 Shield Sphere
+1 Wolf in _____ Clothing
+1 Tawnos's Weaponry
+1 Spike Cannibal
+1 Thornbite Staff
+1 Wand of Orcus
+1 Stitcher's Supplier
+1 Whisper of the Dross
+1 The Book of Vile Darkness
+{'overall': '5', 'cmc': 3.088235294117647, 'ramp': '4', 'draw': '9', 'interaction': 9}

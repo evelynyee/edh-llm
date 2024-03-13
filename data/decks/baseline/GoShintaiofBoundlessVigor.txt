@@ -1,0 +1,101 @@
+1 Go-Shintai of Boundless Vigor
+1 Glacial Chasm
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Advocate of the Beast
+1 Budoka Pupil // Ichiga, Who Topples Oaks
+1 Rushwood Elemental
+1 Fairgrounds Trumpeter
+1 Extruder
+1 Bulette
+1 Fraying Line
+1 Chlorophant
+1 Sabertooth Mauler
+1 Caldaia Strongarm
+1 Foe-Razer Regent
+1 Hunting Moa
+1 Fyndhorn Pollen
+1 Steel Dromedary
+1 Soldevi Simulacrum
+1 Shortcut to Mushrooms
+1 Ajani's Comrade
+1 Kami of Transience
+1 Descendant of Masumaro
+1 Cycle of Life
+1 Forgotten Harvest
+1 Ley Line
+1 Lightning Coils
+1 Bounty of the Hunt
+1 Hibernation's End
+1 Sheltering Ancient
+1 Tornado
+1 Scroll of the Masters
+1 Blizzard
+1 War Dance
+1 Infinite Hourglass
+1 Sand Golem
+1 First Responder
+1 Mwonvuli Ooze
+1 Jinxed Choker
+1 Ring of Gix
+1 Treetop Ambusher
+1 Simian Simulacrum
+1 Armageddon Clock
+1 Contortionist Troupe
+1 Phyrexian Soulgorger
+1 Tangle Wire
+1 Evolutionary Escalation
+1 Atraxa's Skitterfang
+1 Aboroth
+1 Durable Handicraft
+1 Momentum
+1 Parallax Inhibitor
+1 Freyalise's Radiance
+1 Juju Bubble
+1 Burst of Strength
+1 Loyal Guardian
+1 Yavimaya Ants
+1 Forgotten Ancient
+1 Soultether Golem
+1 Shrine of Limitless Power
+1 Golden Urn
+1 Energy Chamber
+1 Scale the Heights
+1 Thran Weaponry
+1 Capricopian
+1 Junk Golem
+1 Conjurer's Closet
+{'overall': '3', 'cmc': 3.0454545454545454, 'ramp': '1', 'draw': '3', 'interaction': 0}

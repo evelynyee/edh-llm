@@ -1,0 +1,64 @@
+1 The Tenth Doctor
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Jhoira of the Ghitu
+1 Clockspinning
+1 Jhoira's Timebug
+1 Rift Elemental
+1 Inspiring Refrain
+1 Training Center
+1 Talisman of Creativity
+1 Rousing Refrain
+1 Paradox Haze
+1 Sulfur Falls
+1 Fury Charm
+1 The Parting of the Ways
+1 Stormcarved Coast
+1 Lightning Greaves
+1 Sphinx of the Second Sun
+1 Timecrafting
+1 Brainstorm
+1 Steam Vents
+1 Wild-Magic Sorcerer
+1 Inevitable Betrayal
+1 Ancestral Vision
+1 Aeon Chronicler
+1 Suspend
+1 Sol Talisman
+1 Training Grounds
+1 Time Stretch
+1 Thought Vessel
+1 Counterspell
+1 Izzet Signet
+1 Shivan Reef
+1 As Foretold
+1 Exotic Orchard
+1 Nalfeshnee
+1 Keeper of Secrets
+1 Etali, Primal Storm
+1 Passionate Archaeologist
+1 Deep-Sea Kraken
+1 Omniscience
+1 Reliquary Tower
+1 One with the Multiverse
+1 Sinister Concierge
+1 Temple of Epiphany
+1 Blasphemous Act
+1 Chaos Warp
+1 Wheel of Fate
+1 Time Beetle
+1 Frostboil Snarl
+1 Shivan Sand-Mage
+1 Mox Tantalite
+1 Mind Stone
+1 Mystical Tutor
+1 Riverglide Pathway
+1 Nezahal, Primal Tide
+1 Cyclonic Rift
+1 TARDIS
+1 Mizzix, Replica Rider
+1 Swiftfoot Boots
+1 Ulamog, the Infinite Gyre
+1 Aminatou's Augury
+{'overall': '6', 'cmc': 3.0, 'ramp': '11', 'draw': '10', 'interaction': 8}

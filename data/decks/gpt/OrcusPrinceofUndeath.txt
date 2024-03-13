@@ -1,0 +1,64 @@
+1 Orcus, Prince of Undeath
+1 Twilight Prophet
+1 Torrent of Souls
+1 Warstorm Surge
+1 Vicious Shadows
+1 Wicked Guardian
+1 Warlock Class
+1 Undercity's Embrace
+1 Syrix, Carrier of the Flame
+1 Torgaar, Famine Incarnate
+1 Wicked Pact
+1 Demonic Tutor
+1 Thunderkin Awakener
+1 Mana Vault
+1 Chaos Warp
+1 Ugin, the Spirit Dragon
+1 Warfire Javelineer
+1 Tendrils of Corruption
+1 Terrus Wurm
+1 Thundercloud Shaman
+1 Thud
+1 Sorin, Imperious Bloodlord
+1 Vito, Thorn of the Dusk Rose
+1 Vito's Inquisitor
+1 Tetzimoc, Primal Death
+1 Tibalt, the Fiend-Blooded
+1 Soul of New Phyrexia
+1 Wretched Confluence
+1 Vraska's Contempt
+1 Toxic Deluge
+1 Tuktuk Scrapper
+1 Virtus's Maneuver
+1 Wrecking Ogre
+1 Volcanic Offering
+1 Vanquisher's Banner
+1 Word of Seizing
+1 Titan's Presence
+1 Sword of Light and Shadow
+1 Urborg Uprising
+1 Lightning Bolt
+1 Yawgmoth, Thran Physician
+1 Soulblade Corrupter
+1 Stormbreath Dragon
+1 Zurzoth, Chaos Rider
+1 Varragoth, Bloodsky Sire
+1 Woe Strider
+1 Thief of Hope
+1 Tormented Hero
+1 Vengeant Vampire
+1 Whisper, Blood Liturgist
+1 Tectonic Giant
+1 Unleash Fury
+1 Thundersteel Colossus
+1 Valakut Fireboar
+1 Wasteland Strangler
+1 Wings of Hubris
+1 Vial Smasher the Fierce
+1 Thran Vigil
+1 Victimize
+1 Weatherlight Compleated
+1 Witch's Oven
+1 Vindictive Lich
+1 Tymaret Calls the Dead
+{'overall': '5', 'cmc': 3.7936507936507935, 'ramp': '1', 'draw': '11', 'interaction': 14}

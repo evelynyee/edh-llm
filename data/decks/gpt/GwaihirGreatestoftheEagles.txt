@@ -1,0 +1,64 @@
+1 Gwaihir, Greatest of the Eagles
+1 Whalebone Glider
+1 Torch Gauntlet
+1 Valor of the Worthy
+1 Veteran Cavalier
+1 Wall of Nets
+1 Chromatic Lantern
+1 Mana Crypt
+1 Sol Ring
+1 Arcane Signet
+1 Whirlermaker
+1 Siege Striker
+1 Takeno's Cavalry
+1 Zelyon Sword
+1 Thousand-Year Elixir
+1 Umezawa's Jitte
+1 Vassal's Duty
+1 Steel Seraph
+1 Thalia's Geistcaller
+1 Wurmcoil Engine
+1 Wingmate Roc
+1 Sword of Light and Shadow
+1 Austere Command
+1 Swords to Plowshares
+1 Sidewinder Sliver
+1 Spontaneous Flight
+1 Ulamog's Crusher
+1 Tandem Tactics
+1 Thraben Valiant
+1 Steward of Solidarity
+1 Thraben Standard Bearer
+1 Sunseed Nurturer
+1 Shinen of Stars' Light
+1 Tower of Champions
+1 Waylay
+1 Stoic Champion
+1 Zhang Fei, Fierce Warrior
+1 Takeno, Samurai General
+1 White Plume Adventurer
+1 Sleek Schooner
+1 Surge of Salvation
+1 Soltari Champion
+1 Wedding Invitation
+1 Skrelv's Hive
+1 Seize the Initiative
+1 Thornbite Staff
+1 Sword of Vengeance
+1 Taranika, Akroan Veteran
+1 Topan Freeblade
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Xenk, Paladin Unbroken
+1 Terashi's Verdict
+1 Will of the All-Hunter
+1 Testament of Faith
+1 Staff of Titania
+1 Trostani's Judgment
+1 Sunspire Griffin
+1 Spidersilk Net
+1 Warhorn Blast
+1 Stir the Pride
+1 Venerable Lammasu
+1 Tenacity
+1 Windshaper Planetar
+{'overall': '5', 'cmc': 3.0634920634920637, 'ramp': '6', 'draw': '3', 'interaction': 8}

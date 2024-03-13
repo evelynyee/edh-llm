@@ -1,0 +1,64 @@
+1 Tormod, the Desecrator
+1 Gray Merchant of Asphodel
+1 Sol Ring
+1 Gravecrawler
+1 Undead Augur
+1 Feed the Swarm
+1 Fleshbag Marauder
+1 Lord of the Accursed
+1 Village Rites
+1 Mortuary Mire
+1 Gravedigger
+1 Cemetery Reaper
+1 Diregraf Colossus
+1 Death Baron
+1 Arcane Signet
+1 Tortured Existence
+1 Bojuka Bog
+1 Cabal Coffers
+1 Witch's Cottage
+1 Midnight Reaper
+1 Charcoal Diamond
+1 Carrion Feeder
+1 Victimize
+1 Archghoul of Thraben
+1 Dark Ritual
+1 Headless Rider
+1 Cryptbreaker
+1 Endless Ranks of the Dead
+1 Dread Return
+1 Undead Warchief
+1 Liliana's Mastery
+1 Tomb Tyrant
+1 Vengeful Dead
+1 Noxious Ghoul
+1 Shepherd of Rot
+1 Reanimate
+1 Crowded Crypt
+1 Murderous Rider
+1 Read the Bones
+1 Graf Harvest
+1 Open the Graves
+1 Cabal Stronghold
+1 Vile Entomber
+1 Army of the Damned
+1 Defile
+1 Plague Belcher
+1 Lord of the Undead
+1 Ghoulcaller's Chant
+1 Zombie Apocalypse
+1 Unearth
+1 Withered Wretch
+1 Sign in Blood
+1 Liliana, Death's Majesty
+1 Syr Konrad, the Grim
+1 Reassembling Skeleton
+1 Desecrated Tomb
+1 Urborg, Tomb of Yawgmoth
+1 Champion of the Perished
+1 Liliana's Devotee
+1 Ghoulraiser
+1 Phyrexian Altar
+1 Gempalm Polluter
+1 Unbreathing Horde
+{'overall': '7', 'cmc': 2.7142857142857144, 'ramp': '6', 'draw': '9', 'interaction': 6}

@@ -1,0 +1,101 @@
+1 Frodo, Determined Hero
+1 Arena
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Annex Sentry
+1 Worldslayer
+1 Shield of the Avatar
+1 Jinxed Ring
+1 Surestrike Trident
+1 Geistcatcher's Rig
+1 Specter's Shroud
+1 Harvestguard Alseids
+1 Encircling Fissure
+1 Trailblazer's Torch
+1 Rogue's Gloves
+1 Spirit Link
+1 Sivvi's Valor
+1 Heart-Piercer Bow
+1 Elspeth's Smite
+1 Skysovereign, Consul Flagship
+1 Brawler's Plate
+1 Nine-Ringed Bo
+1 Greatsword of Tyr
+1 Sword of Kaldra
+1 Acidic Dagger
+1 Mask of Memory
+1 Viridian Longbow
+1 Ring of Kalonia
+1 Chaplain of Alms // Chapel Shieldgeist
+1 Kami of the Honored Dead
+1 Holy Avenger
+1 Hopeful Eidolon
+1 Banshee's Blade
+1 Test of Faith
+1 Heart of Light
+1 Sword of Light and Shadow
+1 Sword of Hours
+1 Vulshok Gauntlets
+1 Kry Shield
+1 Gideon's Defeat
+1 Thran Power Suit
+1 Carom
+1 Brace for Impact
+1 Gossamer Chains
+1 Hot Soup
+1 The Wanderer
+1 Spirit Flare
+1 Magebane Armor
+1 Nemesis Mask
+1 Kellan's Lightblades
+1 Bilbo's Ring
+1 Dingus Staff
+1 Trapjaw Tyrant
+1 Shieldmage Advocate
+1 Orim's Cure
+1 Glyph of Life
+1 Temper
+1 Ancestral Katana
+1 Dazzling Reflection
+1 Kor Chant
+1 Triangle of War
+1 Gideon, Champion of Justice
+1 Dead-Iron Sledge
+1 Pyromancer's Gauntlet
+1 Paladin of Prahv
+1 Shuriken
+1 Bronze Horse
+{'overall': '3', 'cmc': 2.6818181818181817, 'ramp': '0', 'draw': '4', 'interaction': 19}

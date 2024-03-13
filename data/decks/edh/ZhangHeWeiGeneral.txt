@@ -1,0 +1,64 @@
+1 Zhang He, Wei General
+1 Dark Ritual
+1 Sol Ring
+1 Emergency Weld
+1 Black Market Connections
+1 Sign in Blood
+1 Feed the Swarm
+1 Thought Vessel
+1 Arcane Signet
+1 Myriad Landscape
+1 Cao Ren, Wei Commander
+1 Xiahou Dun, the One-Eyed
+1 Diabolic Tutor
+1 Charcoal Diamond
+1 Mind Stone
+1 Demonic Tutor
+1 Easterling Vanguard
+1 Gollum, Scheming Guide
+1 Gothmog, Morgul Lieutenant
+1 Orcish Bowmasters
+1 Mordor Trebuchet
+1 Orcish Medicine
+1 Mordor Muster
+1 Andúril, Flame of the West
+1 Horn of Gondor
+1 Oath of the Grey Host
+1 Call of the Ring
+1 Barad-dûr
+1 Mirrex
+1 Drider
+1 Bloodsworn Squire
+1 Battlefield Butcher
+1 Wight
+1 Spectrum Sentinel
+1 Misfortune Teller
+1 Death Tyrant
+1 Join the Maestros
+1 Their Number Is Legion
+1 Inquisitorial Rosette
+1 Thunderhawk Gunship
+1 Lolth, Spider Queen
+1 Ayara, First of Locthwain
+1 Awaken the Erstwhile
+1 Profane Tutor
+1 Helm of the Host
+1 Shadowspear
+1 Gift of Doom
+1 Cabal Stronghold
+1 Bojuka Bog
+1 Wei Strike Force
+1 Wei Night Raiders
+1 Cao Cao, Lord of Wei
+1 Vampiric Tutor
+1 Cruel Tutor
+1 Dunland Crebain
+1 March from the Black Gate
+1 Invasion of Innistrad
+1 The Black Gate
+1 Tenacious Underdog
+1 Great Unclean One
+1 Canoptek Scarab Swarm
+1 Royal Warden
+1 The Raven Man
+{'overall': '7', 'cmc': 2.761904761904762, 'ramp': '7', 'draw': '11', 'interaction': 6}

@@ -1,0 +1,69 @@
+1 The Fifth Doctor
+1 Tishana's Tidebinder
+1 War of the Last Alliance
+1 Veilstone Amulet
+1 Trenching Steed
+1 War Barge
+1 Veteran Swordsmith
+1 Tolaria
+1 White Dragon
+1 Wanderer's Strike
+1 Wu Admiral
+1 Updraft
+1 Wayward Angel
+1 Thraben Sentry // Thraben Militia
+1 Zelyon Sword
+1 Wings of the Guard
+1 Tower of Coireall
+1 Wedding Invitation
+1 Starlit Mantle
+1 Tamiyo, the Moon Sage
+1 Veil of Assimilation
+1 Mind Stone
+1 Vigean Graftmage
+1 Tah-Crop Elite
+1 Tidal Warrior
+1 Tangle Wire
+1 Thran War Machine
+1 Tolarian Entrancer
+1 Waterspout Djinn
+1 Windborne Charge
+1 Teferi's Curse
+1 Teferi's Time Twist
+1 Warden of the Beyond
+1 Sungold Sentinel
+1 Unruly Mob
+1 Syr Alin, the Lion's Claw
+1 Time to Reflect
+1 The Eternal Wanderer
+1 Wave-Wing Elemental
+1 Ward of Lights
+1 The Second Doctor
+1 Warden of the Inner Sky
+1 Wall of Mourning
+1 Vedalken Humiliator
+1 The Immortal Sun
+1 Wingmate Roc
+1 Turnabout
+1 Wormfang Manta
+1 Wall of Caltrops
+1 Warrior en-Kor
+1 Weatherlight Compleated
+1 Way of the Thief
+1 Yarok's Wavecrasher
+1 Temporal Distortion
+1 The Pandorica
+1 Zhou Yu, Chief Commander
+1 _____ _____ _____ Trespasser
+1 War Screecher
+1 Unity of Purpose
+1 Zealous Strike
+1 Will of the Naga
+1 Walking Dream
+1 Waterlogged Hulk // Watertight Gondola
+1 Wind Spirit
+1 Triumph of Gerrard
+1 Valorous Charge
+1 Vizier of Remedies
+1 Tidal Force
+{'overall': '4', 'cmc': 3.411764705882353, 'ramp': '2', 'draw': '9', 'interaction': 4}

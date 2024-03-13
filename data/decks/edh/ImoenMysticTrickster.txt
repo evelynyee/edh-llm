@@ -1,0 +1,64 @@
+1 Imoen, Mystic Trickster
+1 Mind Stone
+1 Thought Vessel
+1 Sol Ring
+1 Dungeon Delver
+1 Feywild Caretaker
+1 Tomb of Horrors Adventurer
+1 Triskaidekaphile
+1 Curse of the Swine
+1 Ravenform
+1 Wizard Class
+1 Aetherize
+1 Wayfarer's Bauble
+1 Solemn Simulacrum
+1 Resculpt
+1 Sky Diamond
+1 Aarakocra Sneak
+1 Eccentric Apprentice
+1 Fly
+1 Bar the Gate
+1 Yuan-Ti Malison
+1 Grazilaxx, Illithid Scholar
+1 Minn, Wily Illusionist
+1 Deadeye Navigator
+1 Ghostly Pilferer
+1 Mulldrifter
+1 Archaeomancer
+1 Reality Shift
+1 Propaganda
+1 Dungeon Descent
+1 Displacer Kitten
+1 Bane's Contingency
+1 Trailblazer's Torch
+1 Dungeoneer's Pack
+1 Sarevok's Tome
+1 Shortcut Seeker
+1 Displacer Beast
+1 Secret Door
+1 Deep-Sea Kraken
+1 Azami, Lady of Scrolls
+1 Archetype of Imagination
+1 Clever Impersonator
+1 Arcanis the Omnipotent
+1 Talrand, Sky Summoner
+1 Ghostly Flicker
+1 Consider
+1 Opt
+1 Rapid Hybridization
+1 Negate
+1 Cyclonic Rift
+1 Pongify
+1 Brainstorm
+1 Windfall
+1 Preordain
+1 Fifty Feet of Rope
+1 Sapphire Medallion
+1 Teferi's Ageless Insight
+1 Mystic Remora
+1 Rhystic Study
+1 Nykthos, Shrine to Nyx
+1 Castle Vantress
+1 Reliquary Tower
+1 Dungeon Map
+{'overall': '6', 'cmc': 2.761904761904762, 'ramp': '10', 'draw': '20', 'interaction': 12}

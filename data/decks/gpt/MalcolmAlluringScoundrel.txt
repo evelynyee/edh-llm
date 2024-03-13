@@ -1,0 +1,65 @@
+1 Malcolm, Alluring Scoundrel
+1 Chromatic Lantern
+1 Counterspell
+1 Sol Ring
+1 Treasure Cruise
+1 Sphinx's Tutelage
+1 Wistful Thinking
+1 Web of Inertia
+1 Wizards of the _____
+1 Zhalfirin Void
+1 Stream of Thought
+1 Wheel and Deal
+1 Thassa's Intervention
+1 Teferi's Protege
+1 Windreader Sphinx
+1 Torrential Gearhulk
+1 Whirlwind Denial
+1 Well of Ideas
+1 Teferi's Tutelage
+1 Teferi's Puzzle Box
+1 Stolen Goods
+1 Spellbinder
+1 Spelltwine
+1 Zndrsplt's Judgment
+1 Tolarian Winds
+1 Tezzeret's Ambition
+1 Trophy Mage
+1 War Room
+1 Thieving Otter
+1 Vantress Paladin
+1 Traumatic Visions
+1 Surtland Elementalist
+1 Unified Will
+1 Winter's Chill
+1 Swashbuckler's Whip
+1 Thought Nibbler
+1 Shifting Borders
+1 Welcome to the Fold
+1 The Magic Mirror
+1 Whirlpool Rider
+1 Zndrsplt, Eye of Wisdom
+1 Skaab Ruinator
+1 Mana Drain
+1 Sphinx of Lost Truths
+1 Thran Foundry
+1 Tolarian Sentinel
+1 Storm Elemental
+1 Transmute Artifact
+1 Vizier of Tumbling Sands
+1 Thought Eater
+1 War-Wing Siren
+1 Whir of Invention
+1 Force of Will
+1 Mana Crypt
+1 Time Spiral
+1 Whispers of the Muse
+1 Vedalken Archmage
+1 Spy Network
+1 Sphinx Ambassador
+1 Spellseeker
+1 Whirlpool Whelm
+1 Winds of Rebuke
+1 Tidal Control
+1 Wayward Soul
+{'overall': '5', 'cmc': 3.375, 'ramp': '5', 'draw': '28', 'interaction': 7}

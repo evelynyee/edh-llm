@@ -1,0 +1,64 @@
+1 Laelia, the Blade Reforged
+1 Sol Ring
+1 Chaos Warp
+1 Light Up the Stage
+1 Wild-Magic Sorcerer
+1 Arcane Signet
+1 Etali, Primal Storm
+1 Valakut Exploration
+1 Rogue's Passage
+1 Jeska's Will
+1 Ignite the Future
+1 Reckless Impulse
+1 Blasphemous Act
+1 Kediss, Emberclaw Familiar
+1 Abrade
+1 Swiftfoot Boots
+1 Tectonic Giant
+1 Outpost Siege
+1 Tempered in Solitude
+1 Temur Battle Rage
+1 Runaway Steam-Kin
+1 Mind Stone
+1 Furious Rise
+1 Birgi, God of Storytelling
+1 Bolt Bend
+1 Tavern Brawler
+1 Professional Face-Breaker
+1 Throes of Chaos
+1 Vandalblast
+1 Chandra, Torch of Defiance
+1 Kami of Celebration
+1 Urabrask, Heretic Praetor
+1 Faithless Looting
+1 Mana Geyser
+1 Spinerock Knoll
+1 Magmatic Channeler
+1 Commune with Lava
+1 Chandra's Ignition
+1 Myriad Landscape
+1 Fire Diamond
+1 March of Reckless Joy
+1 Tibalt's Trickery
+1 Conspiracy Theorist
+1 War Room
+1 Passionate Archaeologist
+1 Seething Song
+1 Ruby Medallion
+1 Galvanic Relay
+1 Bomat Courier
+1 Lizard Blades
+1 Commander's Plate
+1 Lightning Greaves
+1 Whispersilk Cloak
+1 Kazuul's Fury
+1 Bag of Holding
+1 Lightning Bolt
+1 Grim Lavamancer
+1 Nalfeshnee
+1 Liquimetal Torque
+1 Wild Magic Surge
+1 Scavenger Grounds
+1 Shadowspear
+1 Wayfarer's Bauble
+{'overall': '7', 'cmc': 2.6031746031746033, 'ramp': '14', 'draw': '8', 'interaction': 10}

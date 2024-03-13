@@ -1,0 +1,64 @@
+1 Xun Yu, Wei Advisor
+1 Waste Away
+1 Virulent Plague
+1 Vicious Offering
+1 Untamed Hunger
+1 Sword of Light and Shadow
+1 Umezawa's Jitte
+1 Toymaker
+1 Vampire Scrivener
+1 Vraska's Contempt
+1 Vraska, Scheming Gorgon
+1 Mind Stone
+1 Dark Ritual
+1 Mana Vault
+1 Animate Dead
+1 Sword of Kaldra
+1 Damnation
+1 Lightning Greaves
+1 Chrome Mox
+1 Vorpal Sword
+1 Vampire Envoy
+1 Ultimate Price
+1 Wicked Akuba
+1 Vampire Bats
+1 Vengeful Pharaoh
+1 Whisper, Blood Liturgist
+1 Undercity's Embrace
+1 The Immortal Sun
+1 Zombie Master
+1 Sorin, Vampire Lord
+1 Vile Deacon
+1 Vengeant Vampire
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Yawgmoth's Agenda
+1 Demonic Tutor
+1 Whispersilk Cloak
+1 Sylvok Lifestaff
+1 Sol Ring
+1 Thousand-Year Elixir
+1 Vengeful Reaper
+1 Vindictive Vampire
+1 Wretched Confluence
+1 Vampiric Embrace
+1 Stormrider Rig
+1 Vraska's Fall
+1 Virulent Wound
+1 Viridian Longbow
+1 Witch-king of Angmar
+1 Vermiculos
+1 Vengeful Rebel
+1 Viscera Dragger
+1 Toxic Deluge
+1 Terror Ballista
+1 Vulshok Morningstar
+1 War Horn
+1 Veteran's Armaments
+1 Slayer's Cleaver
+1 Walking Desecration
+1 Thrull Champion
+1 Tomb Tyrant
+1 Smogsteed Rider
+1 Weed-Pruner Poplar
+1 Tawnos's Weaponry
+{'overall': '5', 'cmc': 3.238095238095238, 'ramp': '5', 'draw': '4', 'interaction': 11}

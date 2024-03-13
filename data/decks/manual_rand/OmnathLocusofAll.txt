@@ -1,0 +1,69 @@
+1 Omnath, Locus of All
+1 Winota, Joiner of Forces
+1 Whisperwood Elemental
+1 Whetwheel
+1 Vastwood Surge
+1 Woodland Bellower
+1 Uncovered Clues
+1 Vraska's Stoneglare
+1 Whir of Invention
+1 Vindictive Flamestoker
+1 Valakut Exploration
+1 Vigean Intuition
+1 You Happen On a Glade
+1 Woodwraith Strangler
+1 Unpredictable Cyclone
+1 Wrenn and Seven
+1 Virtue of Courage // Embereth Blaze
+1 Yanling's Harbinger
+1 Whispers of the Muse
+1 Wild-Magic Sorcerer
+1 Void
+1 Urborg Lhurgoyf
+1 Worldheart Phoenix
+1 Trash Bin
+1 Tidepool Turtle
+1 _____ Goblin
+1 Undying Flames
+1 Witching Well
+1 Zhulodok, Void Gorger
+1 Wild Wanderer
+1 Xenagos, the Reveler
+1 Zoyowa's Justice
+1 Unholy Grotto // Unholy Grotto
+1 Zaffai, Thunder Conductor
+1 Verdant Catacombs
+1 Wu Spy
+1 Wear // Tear
+1 Word of Command
+1 Wargate
+1 Trapmaker's Snare
+1 Uba Mask
+1 Transmute Artifact
+1 Ugin, the Ineffable
+1 Watcher in the Mist
+1 Wreck Hunter
+1 Virtue of Strength // Garenbrig Growth
+1 Yuriko, the Tiger's Shadow
+1 The First Sliver
+1 Yasharn, Implacable Earth
+1 Umori, the Collector
+1 Venarian Glimmer
+1 You Find Some Prisoners
+1 Troll of Khazad-dûm
+1 Winnower Patrol
+1 Witch-king, Sky Scourge
+1 Timesifter
+1 Vexing Arcanix
+1 Zephyr Scribe
+1 Urza's Bauble
+1 Thought Devourer
+1 Wand of Vertebrae
+1 Wren's Run Vanquisher
+1 The Ruinous Powers
+1 Varolz, the Scar-Striped
+1 Wheel of Sun and Moon
+1 Zulaport Duelist
+1 Zombie Brute
+1 Visions of Duplicity
+{'overall': '7', 'cmc': 3.5441176470588234, 'ramp': '12', 'draw': '19', 'interaction': 7}

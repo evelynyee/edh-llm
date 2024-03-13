@@ -1,0 +1,101 @@
+1 Djeru, With Eyes Open
+1 Nephalia Academy
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Purity
+1 Hidden Retreat
+1 Cybership
+1 Nautiloid Ship
+1 Goblin Charbelcher
+1 Dune Mover
+1 Penance
+1 Crumbling Sanctuary
+1 Piercing Light
+1 Vexing Arcanix
+1 Judge Unworthy
+1 Dingus Egg
+1 Bone Mask
+1 Cartographer's Hawk
+1 Mourner's Shield
+1 Ominous Parcel
+1 Sylvia Brightspear
+1 Relic Seeker
+1 Wall of Forgotten Pharaohs
+1 Seasoned Tactician
+1 Psychogenic Probe
+1 Sanwell, Avenger Ace
+1 Blightsteel Colossus // Blightsteel Colossus
+1 Blightsteel Colossus
+1 Whirling Catapult
+1 Aven Mindcensor
+1 Harnessed Snubhorn
+1 Lapse of Certainty
+1 Thought Prison
+1 Harsh Judgment
+1 Aerial Extortionist
+1 Scepter of Empires
+1 Darksteel Colossus // Darksteel Colossus
+1 Darksteel Colossus
+1 Pyromancer's Gauntlet
+1 Retributive Wand
+1 Thumbscrews
+1 Weatherlight
+1 Oaken Brawler
+1 Canoptek Wraith
+1 Shieldmage Advocate
+1 Sword of Hearth and Home
+1 Wandering Champion
+1 Settle the Wreckage
+1 Farsight Mask
+1 Urza Assembles the Titans
+1 Urza's Sylex
+1 Kami of the Honored Dead
+1 Holy Avenger
+1 Call the Gatewatch
+1 Ugin, the Spirit Dragon
+1 Arena Rector
+1 Lashknife Barrier
+1 Candles' Glow
+1 Pulmonic Sliver
+1 Realmbreaker, the Invasion Tree
+1 Pollen Lullaby
+1 Scalding Tongs
+1 Nine Lives
+1 Thought Dissector
+1 Library of Leng
+1 Vanquish the Foul
+1 Skywhaler's Shot
+{'overall': '4', 'cmc': 3.878787878787879, 'ramp': '7', 'draw': '12', 'interaction': 11}

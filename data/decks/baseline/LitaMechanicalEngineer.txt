@@ -1,0 +1,101 @@
+1 Lita, Mechanical Engineer
+1 Blinkmoth Nexus
+1 Mishra's Factory
+1 Mishra's Foundry
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Careening Mine Cart
+1 Second Breakfast
+1 Ajani Goldmane // Ajani Goldmane
+1 Ajani Goldmane
+1 Doomed Artisan
+1 Mimic
+1 Night Scythe
+1 The Battle of Bywater
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Enchanted Carriage
+1 Dire Mimic
+1 Fleetwheel Cruiser
+1 Ghost Ark
+1 Eastfarthing Farmer
+1 Peacewalker Colossus
+1 Launch the Fleet
+1 Chimeric Sphere
+1 Mobile Garrison
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Born to Drive
+1 Spirit Bonds
+1 Hallowed Haunting
+1 Stuffed Bear
+1 Necron Monolith
+1 Thundersteel Colossus
+1 Dragon Throne of Tarkir
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Rootborn Defenses
+1 Witch's Oven
+1 Chimeric Staff
+1 Serra the Benevolent
+1 Dusk Legion Dreadnought
+1 Gruesome Slaughter
+1 Chimeric Idol
+1 Parhelion II
+1 Ovalchase Dragster
+1 Cultivator's Caravan
+1 Irontread Crusher
+1 Colossal Plow
+1 Sleek Schooner
+1 Lena, Selfless Champion
+1 Golden Argosy
+1 Sky Skiff
+1 Funeral Longboat
+1 Dragonfly Suit
+1 Brute Suit
+1 Get Lost
+1 Chimeric Coils
+1 Darksteel Brute
+1 Fountain of Ichor
+1 Xanthic Statue
+1 Digsite Engineer
+1 Bomat Bazaar Barge
+1 Survive the Night
+1 Fortifying Provisions
+1 Myr Matrix
+1 Mirage Mirror
+1 Vanguard of the Rose
+1 Elspeth's Talent
+1 Consulate Dreadnought
+1 Hornet Cannon
+1 Field-Tested Frying Pan
+1 Aradara Express
+{'overall': '5', 'cmc': 3.2388059701492535, 'ramp': '7', 'draw': '2', 'interaction': 4}

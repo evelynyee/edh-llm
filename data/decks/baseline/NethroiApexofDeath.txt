@@ -1,0 +1,101 @@
+1 Nethroi, Apex of Death
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Necropanther
+1 Dirge Bat
+1 Boneyard Lurker
+1 Majestic Auricorn
+1 Varolz, the Scar-Striped
+1 Chittering Harvester
+1 Gemrazer
+1 Insatiable Hemophage
+1 Visions of Dominance
+1 Sanguine Indulgence
+1 Auspicious Starrix
+1 Glowstone Recluse
+1 Terrus Wurm
+1 Mouth // Feed
+1 Nemesis of Mortals
+1 Dusk // Dawn
+1 No One Left Behind
+1 Dreg Mangler
+1 Idol of Endurance
+1 Drudge Beetle
+1 Dodgy Jalopy
+1 Proclamation of Rebirth
+1 Inscription of Ruin
+1 Titan's Presence
+1 Epic Downfall
+1 March of Otherworldly Light
+1 Visions of Dread
+1 The Cauldron of Eternity
+1 Patch Up
+1 Chainweb Aracnir
+1 Teshar, Ancestor's Apostle
+1 Dark Impostor
+1 Venerable Kumo
+1 Vulpikeet
+1 Slaughter
+1 Korozda Monitor
+1 Overwhelming Remorse
+1 Huntmaster Liger
+1 March of Wretched Sorrow
+1 Golgari Decoy
+1 Struggle for Skemfar
+1 Abundant Maw
+1 Zanikev Locust
+1 Deadbridge Goliath
+1 Shadows' Verdict
+1 Distended Mindbender
+1 Earthquake Dragon
+1 Boneyard Mycodrax
+1 Eldritch Evolution
+1 Diregraf Rebirth
+1 Embalmer's Tools
+1 Krosan Drover
+1 Slitherhead
+1 Thrashing Mossdog
+1 The Kenriths' Royal Funeral
+1 Restless Dreams
+1 Forked-Branch Garami
+1 Confession Dial
+1 Sawtusk Demolisher
+1 Life's Legacy
+1 Stir the Grave
+1 Induce Despair
+1 Demon of Fate's Design
+{'overall': '1', 'cmc': 4.029850746268656, 'ramp': '0', 'draw': '4', 'interaction': 14}

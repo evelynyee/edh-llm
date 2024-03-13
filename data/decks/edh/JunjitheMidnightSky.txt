@@ -1,0 +1,64 @@
+1 Junji, the Midnight Sky
+1 Sol Ring
+1 Arcane Signet
+1 Gray Merchant of Asphodel
+1 Feed the Swarm
+1 Cabal Coffers
+1 Victimize
+1 Malakir Rebirth
+1 Reanimate
+1 Animate Dead
+1 Viscera Seer
+1 Dark Ritual
+1 Ashnod's Altar
+1 Bojuka Bog
+1 Mind Stone
+1 Disciple of Bolas
+1 Crypt Ghast
+1 Urborg, Tomb of Yawgmoth
+1 Village Rites
+1 Undying Malice
+1 Deadly Dispute
+1 Plaguecrafter
+1 Supernatural Stamina
+1 Feign Death
+1 Solemn Simulacrum
+1 Cabal Stronghold
+1 Jet Medallion
+1 High Market
+1 Ayara, First of Locthwain
+1 Myriad Landscape
+1 Blood Artist
+1 Phyrexian Tower
+1 Takenuma, Abandoned Mire
+1 Demonic Tutor
+1 Charcoal Diamond
+1 Toxic Deluge
+1 Sign in Blood
+1 Syr Konrad, the Grim
+1 Kaya's Ghostform
+1 Zulaport Cutthroat
+1 Grim Haruspex
+1 Infernal Grasp
+1 Buried Alive
+1 Sheoldred, Whispering One
+1 Massacre Wurm
+1 Return to Action
+1 Carrion Feeder
+1 Nim Deathmantle
+1 Altar of Dementia
+1 Morbid Opportunist
+1 Fleshbag Marauder
+1 Soldevi Adnate
+1 Witch's Cottage
+1 Nykthos, Shrine to Nyx
+1 Sepulchral Primordial
+1 Phyrexian Reclamation
+1 Entomb
+1 Undying Evil
+1 Kokusho, the Evening Star
+1 Vilis, Broker of Blood
+1 Damnation
+1 Thought Vessel
+1 Phyrexian Altar
+{'overall': '8', 'cmc': 2.2698412698412698, 'ramp': '14', 'draw': '10', 'interaction': 5}

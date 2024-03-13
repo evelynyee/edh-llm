@@ -1,0 +1,69 @@
+1 Thrun, the Last Troll
+1 Wall of Spears
+1 Valeron Wardens
+1 Tapestry of the Ages
+1 Silhana Ledgewalker
+1 Tower of the Magistrate
+1 Twinning Glass
+1 Skyscythe Engulfer
+1 Viridescent Wisps
+1 Witness of the Ages
+1 Tooth of Chiss-Goria
+1 Tornado
+1 Verdant Command
+1 Twinblade Slasher
+1 Ward of Bones
+1 Sylvan Safekeeper
+1 Wolfkin Outcast // Wedding Crasher
+1 Territorial Witchstalker
+1 Zenith Chronicler
+1 Wilderness Reclamation
+1 Wily Bandar
+1 Woodcutter's Grit
+1 Vedalken Orrery
+1 Tanuki Transplanter
+1 Veteran's Armaments
+1 The Irencrag
+1 Strionic Resonator
+1 Worldslayer
+1 Touchstone
+1 Urza's Engine
+1 Wolfhunter's Quiver
+1 Shifting Ceratops
+1 Wall of Pine Needles
+1 Steel Leaf Champion
+1 Woodcaller Automaton
+1 Whisperer of the Wilds
+1 Ulvenwald Mystics // Ulvenwald Primordials
+1 Tel-Jilad Archers
+1 Spirespine
+1 Wildwood Geist
+1 Verdant Field
+1 Tawnos's Wand
+1 Willow Priestess
+1 Wooden Stake
+1 Llanowar Elves
+1 Vine Mare
+1 Well of Lost Dreams
+1 Vizier of the Menagerie
+1 Sylvan Basilisk
+1 Twigwalker
+1 Toxicrene
+1 Verdant Haven
+1 Trollhide
+1 Tangle Spider
+1 Yavimaya Ancients
+1 Windswift Slice
+1 Skysnare Spider
+1 Vitalize
+1 Woodcloaker
+1 War Chariot
+1 Zodiac Horse
+1 Tower Defense
+1 Tel-Jilad Defiance
+1 Urza's Incubator
+1 Warden of the Woods
+1 Webspinner Cuff
+1 Thran Power Suit
+1 Thunderstaff
+{'overall': '4', 'cmc': 3.4558823529411766, 'ramp': '6', 'draw': '8', 'interaction': 4}

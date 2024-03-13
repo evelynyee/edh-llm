@@ -1,0 +1,69 @@
+1 Temmet, Vizier of Naktamun
+1 Vulshok Gauntlets
+1 Thousand-Faced Shadow
+1 Tithe Taker
+1 Time to Reflect
+1 Undead Alchemist
+1 Thalia's Geistcaller
+1 Thraben Exorcism
+1 Viridian Longbow
+1 The Everflowing Well // The Myriad Pools
+1 Spirit Bonds
+1 Volo, Itinerant Scholar
+1 The Seventh Doctor
+1 _____ _____ _____ Trespasser
+1 Mind Stone
+1 Wingmate Roc
+1 Weathered Bodyguards
+1 Valkyrie's Sword
+1 Vault Skyward
+1 Twice Upon a Time // Unlikely Meeting
+1 Surge Mare
+1 View from Above
+1 Volrath's Shapeshifter
+1 Train of Thought
+1 Teferi, Master of Time
+1 Valkyrie Harbinger
+1 Sword of Once and Future
+1 Voidmage Husher
+1 Tolarian Geyser
+1 Voyager Staff
+1 Trostani's Judgment
+1 Stern Lesson
+1 The Peregrine Dynamo
+1 Whalebone Glider
+1 Vulshok Battlegear
+1 Wormhole Serpent
+1 Valorous Steed
+1 The Council of Four
+1 Striped Riverwinder
+1 Zhalfirin Commander
+1 War Barge
+1 Tawnos's Wand
+1 Will of the Naga
+1 Turn to Mist
+1 Veteran Soldier
+1 Sword Coast Serpent // Capsizing Wave
+1 Waterwind Scout
+1 Wizard's Retort
+1 Wretched Gryff
+1 Thalakos Scout
+1 Storm of Souls
+1 Threnody Singer
+1 Ugin, the Ineffable
+1 Vanguard of the Rose
+1 Waylay
+1 Storm of Saruman
+1 Yotian Frontliner
+1 Mentor of the Meek
+1 Vesperlark
+1 Wondrous Crucible
+1 Wayward Angel
+1 Watcher of the Spheres
+1 Thousand Winds
+1 Waterspout Elemental
+1 Unfinished Business
+1 Vizier of Tumbling Sands
+1 True Love's Kiss
+1 Thoughtcast
+{'overall': '5', 'cmc': 3.6470588235294117, 'ramp': '4', 'draw': '18', 'interaction': 7}

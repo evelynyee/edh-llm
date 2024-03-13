@@ -1,0 +1,101 @@
+1 Laelia, the Blade Reforged
+1 The Biblioplex
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Ardent Dustspeaker
+1 Invasion of Ravnica // Guildpact Paragon
+1 Clone Shell
+1 Tomakul Scrapsmith
+1 Sensei's Divining Top
+1 Horn of the Mark
+1 Mindmoil
+1 Sentinel Totem
+1 Scroll Rack
+1 Excavated Wall
+1 Phyrexian Portal
+1 Soldevi Digger
+1 Kolaghan Warmonger
+1 Inscribed Tablet
+1 Thran Spider
+1 Chaos Channeler
+1 Sibylline Soothsayer
+1 Fireflux Squad
+1 Sigiled Skink
+1 Reito Sentinel
+1 Candles of Leng
+1 Guild Feud
+1 Industrial Advancement
+1 Reality Scramble
+1 Countryside Crusher
+1 Mirror of Fate
+1 Heroes' Podium
+1 Moonring Mirror
+1 Trash Bin
+1 Sarkhan's Dragonfire
+1 Magmatic Channeler
+1 Goblin Ringleader
+1 Dreamshaper Shaman
+1 Weatherlight
+1 Canal Dredger
+1 Thran Tome
+1 Oblivion Sower
+1 Orcish Librarian
+1 Goblin Researcher
+1 Conjurer's Bauble
+1 Eager Construct
+1 Jester's Scepter
+1 Lantern of Revealing
+1 Epitaph Golem
+1 Brazen Buccaneers
+1 Conch Horn
+1 Descendants' Fury
+1 Tahngarth's Glare
+1 Mangara's Tome
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Glimpse of Tomorrow
+1 Brainstone
+1 Lukka, Coppercoat Outcast
+1 Ecstatic Beauty
+1 Sensation Gorger
+1 Collision of Realms
+1 Scouring Sands
+1 Icon of Ancestry
+1 Heirloom Blade
+1 Coastal Bulwark
+1 Pyxis of Pandemonium
+1 Spite of Mogis
+1 Wandering Archaic // Explore the Vastlands
+{'overall': '4', 'cmc': 3.227272727272727, 'ramp': '3', 'draw': '25', 'interaction': 4}

@@ -1,0 +1,68 @@
+1 Mayael the Anima
+1 Tusk and Whiskers
+1 Tooth and Nail
+1 Turntimber Sower
+1 Seedborn Muse
+1 Sylvan Library
+1 Wheel of Fortune
+1 Sylvan Tutor
+1 Birds of Paradise
+1 Mana Vault
+1 Survival of the Fittest
+1 Ulamog, the Ceaseless Hunger
+1 Vengeful Rebirth
+1 Sylvan Reclamation
+1 Worldly Tutor
+1 Sylvan Bounty
+1 Urabrask // The Great Work
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Zephyrim
+1 Vorinclex, Monstrous Raider
+1 Traverse the Ulvenwald
+1 Ugin, the Spirit Dragon
+1 Wild Growth
+1 Sylvan Ranger
+1 War Room
+1 Ugin's Mastery
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Wirewood Channeler
+1 Vivien Reid
+1 Yavimaya Elder
+1 Zendikar Resurgent
+1 Treacherous Terrain
+1 Vexing Puzzlebox
+1 Vessel of Nascency
+1 Wrenn and Six
+1 Zendikar Incarnate
+1 Tomakul Scrapsmith
+1 Thicket Elemental
+1 Tishana's Wayfinder
+1 Woodland Sleuth
+1 Treasure Hunter
+1 Wrenn and Realmbreaker
+1 Willow Geist
+1 Three Dreams
+1 Twinblade Geist // Twinblade Invocation
+1 Wheel of Fate
+1 War of the Last Alliance
+1 Vesperlark
+1 Sol Ring
+1 Trash for Treasure
+1 Tithe
+1 Thunderherd Migration
+1 Valakut Exploration
+1 Visions of Ruin
+1 Trustworthy Scout
+1 Well of Lost Dreams
+1 Vile Aggregate
+1 Wheel of Misfortune
+1 Venerable Warsinger
+1 Vivid Revival
+1 Vastwood Surge
+1 Traverse the Outlands
+1 Tajuru Paragon
+1 Yavimaya Dryad
+1 Wood Elves
+1 Viridian Revel
+1 Triumph of Saint Katherine
+{'overall': '8', 'cmc': 3.5223880597014925, 'ramp': '23', 'draw': '29', 'interaction': 3}

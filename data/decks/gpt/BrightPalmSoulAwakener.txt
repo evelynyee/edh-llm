@@ -1,0 +1,65 @@
+1 Bright-Palm, Soul Awakener
+1 Sword of Hours
+1 Whalebone Glider
+1 Takeno's Cavalry
+1 Wildfire Elemental
+1 Vengeant Earth
+1 Thorn Mammoth
+1 Sylvan Safekeeper
+1 Seedborn Muse
+1 Vitaspore Thallid
+1 Tilonalli's Skinshifter
+1 Zariel, Archduke of Avernus
+1 Thundermaw Hellkite
+1 Terror of the Peaks
+1 Thundering Mightmare
+1 Yedora, Grave Gardener
+1 Thundering Chariot
+1 Warden of the Chained
+1 Virtuous Charge
+1 Twinblade Slasher
+1 Wayta, Trainer Prodigy
+1 Takeno, Samurai General
+1 Wildgrowth Walker
+1 Taranika, Akroan Veteran
+1 Yotian Frontliner
+1 Zurzoth, Chaos Rider
+1 Venerated Rotpriest
+1 Vivify
+1 Verdant Field
+1 Vivien, Arkbow Ranger
+1 Zurgo Bellstriker
+1 Swords to Plowshares
+1 Vexing Beetle
+1 Valor Singer
+1 Wingmate Roc
+1 Toymaker
+1 Turntimber Basilisk
+1 Yavimaya Kavu
+1 Vines of Vastwood
+1 Zilortha, Strength Incarnate
+1 Zealous Strike
+1 Vengeful Devil
+1 Yare
+1 Vial of Poison
+1 Thelonite Druid
+1 Sword of Kaldra
+1 Vizier of the True
+1 Woodcutter's Grit
+1 Veil of Assimilation
+1 Titanic Brawl
+1 Tempting Licid
+1 Thornbite Staff
+1 Vigorous Charge
+1 Surrak, the Hunt Caller
+1 Warden of the Woods
+1 Zabaz, the Glimmerwasp
+1 Telethopter
+1 Wedding Invitation
+1 Verdant Sun's Avatar
+1 Zelyon Sword
+1 Wild Onslaught
+1 Thousand-Year Elixir
+1 Wax // Wane
+1 Wingrattle Scarecrow
+{'overall': '4', 'cmc': 3.140625, 'ramp': '2', 'draw': '4', 'interaction': 14}
