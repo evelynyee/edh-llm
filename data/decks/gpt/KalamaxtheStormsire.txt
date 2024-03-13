@@ -1,0 +1,64 @@
+1 Kalamax, the Stormsire
+1 Ulamog, the Ceaseless Hunger
+1 Vodalian Mystic
+1 Void Shatter
+1 Uncontrollable Anger
+1 Mana Drain
+1 Rampant Growth
+1 Ugin, the Ineffable
+1 Sol Ring
+1 Mind Stone
+1 Birds of Paradise
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Visions of Ruin
+1 Wrenn and Realmbreaker
+1 Urabrask // The Great Work
+1 Urza, Lord High Artificer
+1 Wavesifter
+1 Verdant Command
+1 Volo, Guide to Monsters
+1 Thunder Drake
+1 Wrenn's Resolve
+1 Wretched Gryff
+1 Vizier of Many Faces
+1 Tidespout Tyrant
+1 Zendikar Resurgent
+1 Unexpected Results
+1 Thunderblade Charge
+1 Vineshaper Prodigy
+1 Tuinvale Treefolk // Oaken Boon
+1 Thunderous Wrath
+1 Vivien, Champion of the Wilds
+1 Vanquisher's Banner
+1 Talrand, Sky Summoner
+1 Verazol, the Split Current
+1 Warden of the Woods
+1 Seedborn Muse
+1 Vizier of the Menagerie
+1 Turn Aside
+1 Wash Away
+1 Wild Growth
+1 Triton Fortune Hunter
+1 Zephyr Boots
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Treasure Cruise
+1 Vexing Scuttler
+1 Teferi's Response
+1 Swarm Intelligence
+1 Yavimaya Iconoclast
+1 Trash for Treasure
+1 Zerapa Minotaur
+1 Winged Portent
+1 Winged Words
+1 Words of Wind
+1 Vodalian Mage
+1 Whispering Wizard
+1 Vedalken Archmage
+1 Will of the Naga
+1 Thousand-Year Storm
+1 Vigean Intuition
+1 Wanderwine Prophets
+1 Waylaying Pirates
+1 Twinferno
+1 Wild-Magic Sorcerer
+{'overall': 9.440272373540855, 'cmc': 4.079365079365079, 'ramp': '13', 'draw': '21', 'interaction': 9, 'folder': 'gpt', 'commander': 'KalamaxtheStormsire.txt'}

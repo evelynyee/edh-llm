@@ -1,0 +1,69 @@
+1 Aragorn, Company Leader
+1 Willow Satyr
+1 Werewolf Pack Leader
+1 Tyrite Sanctum
+1 Vexilus Praetor
+1 Vassal's Duty
+1 Worldspine Wurm
+1 Yorvo, Lord of Garenbrig
+1 You Hear Something on Watch
+1 Vigilant Sentry
+1 Urza's Engine
+1 Treefolk Umbra
+1 Twinblade Geist // Twinblade Invocation
+1 Thirsting Roots
+1 Swords to Plowshares
+1 You Look Upon the Tarrasque
+1 Thicket Crasher
+1 Zhao Zilong, Tiger General
+1 Venerated Rotpriest
+1 Ulvenwald Bear
+1 Wickerbough Elder
+1 Wild Elephant
+1 Yavimaya Enchantress
+1 Vivien's Invocation
+1 Titanic Brawl
+1 Territorial Scythecat
+1 Strength-Testing Hammer
+1 Thaumatog
+1 Territorial Boar
+1 Tyrant Guard
+1 Woodland Champion
+1 Wild Shape
+1 Waker of the Wilds
+1 Veteran's Armaments
+1 Strixhaven Stadium
+1 Veteran Warleader
+1 War Elephant
+1 Vitality Hunter
+1 Spike Tiller
+1 Strangleroot Geist
+1 Warning
+1 Steelbane Hydra
+1 Mentor of the Meek
+1 Triskelion
+1 Winter Blast
+1 Tin-Wing Chimera
+1 Valiant Veteran
+1 Verdant Field
+1 Timber Protector
+1 Wall of Resurgence
+1 Timberwatch Elf
+1 Syr Alin, the Lion's Claw
+1 The Crowd Goes Wild
+1 Trusted Forcemage
+1 Windbrisk Raptor
+1 Woolly Razorback
+1 Withstand Death
+1 Wind Shear
+1 Wax // Wane
+1 Sword of Hours
+1 Unholy Officiant
+1 Tenacious Hunter
+1 Viridian Betrayers
+1 Vineshaper Mystic
+1 The Wandering Emperor
+1 Sublime Archangel
+1 Spike Weaver
+1 Unstoppable Ash
+{'overall': 2.82962962962963, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '5', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AragornCompanyLeader.txt'}

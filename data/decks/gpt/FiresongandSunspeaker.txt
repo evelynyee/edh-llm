@@ -1,0 +1,65 @@
+1 Firesong and Sunspeaker
+1 The Chain Veil
+1 Triumphant Surge
+1 Smothering Tithe
+1 Vandalblast
+1 Wrath of God
+1 Sphinx-Bone Wand
+1 Trinisphere
+1 Wand of Denial
+1 Triplicate Spirits
+1 Varchild, Betrayer of Kjeldor
+1 The Peregrine Dynamo
+1 Sulfurous Blast
+1 Thunderclap
+1 Tectonic Giant
+1 Chaos Warp
+1 The Eternal Wanderer
+1 Zephyrim
+1 Warbreak Trumpeter
+1 Soul Sculptor
+1 Vesperlark
+1 Waxmane Baku
+1 Zoyowa's Justice
+1 Sundering Stroke
+1 Waves of Aggression
+1 Wildfire Awakener
+1 Mana Vault
+1 Unholy Heat
+1 Venerated Loxodon
+1 Wheel of Misfortune
+1 Mind Stone
+1 Ugin's Nexus
+1 Ugin's Mastery
+1 Storm-Kiln Artist
+1 Storm King's Thunder
+1 Sivvi's Valor
+1 Sulfuric Vortex
+1 Spirit Flare
+1 Stormbreath Dragon
+1 Volcanic Geyser
+1 Unquenchable Fury
+1 Sphinx's Decree
+1 Vengeful Devil
+1 Torrent of Lava
+1 Tuktuk Scrapper
+1 Storm's Wrath
+1 Spikefield Hazard // Spikefield Cave
+1 Lightning Bolt
+1 Swords to Plowshares
+1 Zealous Inquisitor
+1 Vengeful Archon
+1 Spiritualize
+1 Whalebone Glider
+1 Thunder of Hooves
+1 Specter's Shroud
+1 Wave of Reckoning
+1 Vikya, Scorching Stalwart
+1 Sudden Shock
+1 Wayward Guide-Beast
+1 Tonic Peddler
+1 Voldaren Ambusher
+1 Welder Automaton
+1 Tabaxi Toucaneers
+1 Slaying Fire
+{'overall': 4.40952380952381, 'cmc': 3.28125, 'ramp': '6', 'draw': '5', 'interaction': 21, 'folder': 'gpt', 'commander': 'FiresongandSunspeaker.txt'}

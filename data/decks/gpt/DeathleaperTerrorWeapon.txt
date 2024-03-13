@@ -1,0 +1,66 @@
+1 Deathleaper, Terror Weapon
+1 Unnatural Growth
+1 Trusted Forcemage
+1 Terra Ravager
+1 Syr Faren, the Hengehammer
+1 Bloom Tender
+1 Wildwood Scourge
+1 Viridian Betrayers
+1 Mana Vault
+1 Wildheart Invoker
+1 Yorvo, Lord of Garenbrig
+1 Thelonite Druid
+1 Vitalize
+1 Wild Instincts
+1 Thundermaw Hellkite
+1 Stonehoof Chieftain
+1 Striking Sliver
+1 Thunder Strike
+1 Thornwatch Scarecrow
+1 Untethered Express
+1 Vitality Charm
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Sylvan Advocate
+1 Surrak, the Hunt Caller
+1 Vastwood Animist
+1 Wild Defiance
+1 Thundering Raiju
+1 Thunderfoot Baloth
+1 Verdurous Gearhulk
+1 Triumph of the Hordes
+1 Wrenn and Realmbreaker
+1 Voice of the Vermin
+1 Thicket Crasher
+1 Tread Upon
+1 Green Sun's Zenith
+1 Rampant Growth
+1 Vedalken Shackles
+1 Yavimaya Ancients
+1 Sol Ring
+1 Eternal Witness
+1 Storm the Seedcore
+1 Symbiosis
+1 Seedborn Muse
+1 Zilortha, Strength Incarnate
+1 Vexing Beetle
+1 Wildfire Elemental
+1 Witchstalker
+1 Vengeful Firebrand
+1 Unleash Fury
+1 Vivien's Crocodile
+1 Thrakkus the Butcher
+1 Yavimaya Wurm
+1 Wildslayer Elves
+1 Strength-Testing Hammer
+1 Vulshok Berserker
+1 Welcome to . . . // Jurassic Park
+1 Wild Slash
+1 Zariel, Archduke of Avernus
+1 Vivien's Stampede
+1 Wolf Strike
+1 Unchecked Growth
+1 Tromp the Domains
+1 Wall of Vines
+1 War Dance
+1 Whiptongue Hydra
+{'overall': 3.7463302752293575, 'cmc': 3.353846153846154, 'ramp': '7', 'draw': '4', 'interaction': 8, 'folder': 'gpt', 'commander': 'DeathleaperTerrorWeapon.txt'}

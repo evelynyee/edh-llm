@@ -1,0 +1,67 @@
+1 Autumn Willow
+1 Green Sun's Zenith
+1 Sylvan Basilisk
+1 Rampant Growth
+1 Sol Ring
+1 Weaver of Harmony
+1 Verdant Haven
+1 Tel-Jilad Wolf
+1 Vine Trellis
+1 Crop Rotation
+1 Toski, Bearer of Secrets
+1 Triumph of Ferocity
+1 Wren's Run Vanquisher
+1 Well of Knowledge
+1 Tangle Golem
+1 Vorinclex // The Grand Evolution
+1 Sylvan Awakening
+1 Ugin's Nexus
+1 Skyshroud Blessing
+1 Whispersilk Cloak
+1 Seedborn Muse
+1 Steel Hellkite
+1 Vedalken Orrery
+1 Titanic Brawl
+1 Yavimaya Ancients
+1 Champion of Lambholt
+1 Vitalize
+1 Veil of Summer
+1 Windswift Slice
+1 Thorn Elemental
+1 Thorn of Amethyst
+1 Treetop Rangers
+1 Whalebone Glider
+1 Vengeant Earth
+1 Vine Mare
+1 Yew Spirit
+1 Wildsize
+1 Trailblazer's Boots
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Workshop Warchief
+1 Treefolk Mystic
+1 Traxos, Scourge of Kroog
+1 Wild Onslaught
+1 The Immortal Sun
+1 Vine Gecko
+1 Wall of Mulch
+1 Tempting Licid
+1 Zelyon Sword
+1 Ulamog's Crusher
+1 Sylvan Paradise
+1 Zendikar Resurgent
+1 Bloom Tender
+1 Voyaging Satyr
+1 Winding Canyons
+1 Vizier of the Menagerie
+1 Thousand-Year Elixir
+1 Warden of the Woods
+1 Trollhide
+1 Whip Silk
+1 Wirewood Pride
+1 Wirewood Symbiote
+1 Whirling Catapult
+1 Turntimber Basilisk
+1 Uba Mask
+1 Wanderlust
+1 Zodiac Tiger
+{'overall': 6.216822429906542, 'cmc': 3.242424242424242, 'ramp': '9', 'draw': '12', 'interaction': 7, 'folder': 'gpt', 'commander': 'AutumnWillow.txt'}

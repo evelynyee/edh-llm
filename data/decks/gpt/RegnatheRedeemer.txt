@@ -1,0 +1,67 @@
+1 Regna, the Redeemer
+1 Ulamog, the Ceaseless Hunger
+1 Sunspire Gatekeepers
+1 Triumph of Gerrard
+1 Teroh's Vanguard
+1 The Circle of Loyalty
+1 Thraben Inspector
+1 Unlicensed Hearse
+1 Thopter Squadron
+1 Stone of Erech
+1 Stasis Snare
+1 Tallowisp
+1 Soul of Eternity
+1 Trustworthy Scout
+1 Treasure Map // Treasure Cove
+1 Sword of the Animist
+1 Tithe Taker
+1 Wurmcoil Engine
+1 Sword of Light and Shadow
+1 Treasure Hunter
+1 Well of Lost Dreams
+1 Thraben Doomsayer
+1 Second Sunrise
+1 Zephyr Boots
+1 Synod Sanctum
+1 Springjack Knight
+1 Teferi's Protection
+1 Sword of the Ages
+1 Sword of Hearth and Home
+1 War Priest of Thune
+1 Trading Post
+1 Sun Titan
+1 Wispweaver Angel
+1 Touch of the Eternal
+1 Thorough Investigation
+1 Ugin's Nexus
+1 Symmetry Matrix
+1 Springjack Shepherd
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Tethmos High Priest
+1 Seraph
+1 Three Dreams
+1 Throne of Bone
+1 Tazeem Raptor
+1 Well of Discovery
+1 Trapjaw Tyrant
+1 Warden of the Inner Sky
+1 Stalking Leonin
+1 Staff of Titania
+1 Sol Ring
+1 Arcane Signet
+1 Land Tax
+1 The Gaffer
+1 Song of the Worldsoul
+1 Tale of Tinuviel
+1 The Ozolith
+1 Thran Temporal Gateway
+1 Sword of the Meek
+1 Triskelavus
+1 Swords to Plowshares
+1 Wandering Archaic // Explore the Vastlands
+1 Zephyrim
+1 Unassuming Sage
+1 Tamiyo's Journal
+1 Watcher of the Roost
+1 Vexing Puzzlebox
+{'overall': 6.114138817480719, 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7, 'folder': 'gpt', 'commander': 'RegnatheRedeemer.txt'}

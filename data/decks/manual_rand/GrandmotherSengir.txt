@@ -1,0 +1,69 @@
+1 Grandmother Sengir
+1 Vampire Envoy
+1 Zephyr Boots
+1 Witch's Mist
+1 Swiftfoot Boots
+1 Viridian Claw
+1 Tin-Wing Chimera
+1 Touch of Death
+1 Spinal Graft
+1 Spare Dagger
+1 Umbral Mantle
+1 Supernatural Stamina
+1 Throttle
+1 Victim of Night
+1 Sword of the Meek
+1 Sword of the Chosen
+1 Silent Assassin
+1 Wicked Akuba
+1 Voracious Null
+1 Thirsting Shade
+1 Whispering Shade
+1 Vraan, Executioner Thane
+1 True-Faith Censer
+1 Skulking Knight
+1 Wight of Precinct Six
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Zanikev Locust
+1 Supply Drop
+1 Underhanded Designs
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Vulshok Gauntlets
+1 Witch-king of Angmar
+1 Shriekdiver
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Vampire Warlord
+1 Splatter Goblin
+1 Skyshroud Vampire
+1 The Long Reach of Night // Animus of Night's Reach
+1 Thirsting Axe
+1 Suspicious Bookcase
+1 Tower of Calamities
+1 Zombie Trailblazer
+1 Unworthy Dead
+1 Whispersilk Cloak
+1 Weigh Down
+1 Toxic Deluge
+1 Vanguard's Shield
+1 Tooth Collector
+1 Sol Ring
+1 Undercity's Embrace
+1 Xiahou Dun, the One-Eyed
+1 Urborg
+1 Trespasser's Curse
+1 Spiteful Returned
+1 Weakstone
+1 Toxic Nim
+1 Unbreakable Bond
+1 Worldslayer
+1 Wall of Souls
+1 Toshiro Umezawa
+1 Skyblinder Staff
+1 Spy Kit
+1 Spatial Contortion
+1 Walking Bulwark
+1 Lightning Greaves
+1 Yotian Soldier
+1 Vogar, Necropolis Tyrant
+1 Vampiric Rites
+{'overall': 2.920430107526882, 'cmc': 2.7761194029850746, 'ramp': '1', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GrandmotherSengir.txt'}

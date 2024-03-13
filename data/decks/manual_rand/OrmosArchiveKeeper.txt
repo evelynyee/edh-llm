@@ -1,0 +1,69 @@
+1 Ormos, Archive Keeper
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Winged Words
+1 Wanderer's Twig
+1 Vortex Elemental
+1 Thaumatic Compass // Spires of Orazca
+1 Venarian Glimmer
+1 Walk the Aeons
+1 Thran Temporal Gateway
+1 Tidings
+1 Transmute Artifact
+1 Wandering Archaic // Explore the Vastlands
+1 Venser, Shaper Savant
+1 Sift
+1 Vedalken Infuser
+1 Sinuous Benthisaur
+1 Walking Ballista
+1 Veil of Secrecy
+1 Whirling Catapult
+1 Pongify
+1 Thought Devourer
+1 Thought Courier
+1 Unwind
+1 Terramorphic Expanse
+1 Voyage's End
+1 Strata Scythe
+1 Willbender
+1 Time Reversal
+1 Triskaidekaphile
+1 Twinning Glass
+1 Temporal Mastery
+1 Witness of Tomorrows
+1 Witches' Eye
+1 Spell Crumple
+1 Unlicensed Hearse
+1 Workshop Elders
+1 Sphinx's Tutelage
+1 Voyager Drake
+1 Windreader Sphinx
+1 See the Truth
+1 Force of Negation
+1 Yarok's Wavecrasher
+1 Sphinx of Clear Skies
+1 Talion's Messenger
+1 Wooded Foothills
+1 Wizened Snitches
+1 Toothy, Imaginary Friend
+1 Titan's Presence
+1 Terminal Moraine
+1 Wild-Field Scarecrow
+1 Soldevi Digger
+1 Titan of Littjara
+1 Trading Post
+1 Will of the Naga
+1 Totally Lost
+1 Wizards of Thay
+1 Torrential Gearhulk
+1 Zhalfirin Void
+1 Sphinx of Magosi
+1 Shrine of Piercing Vision
+1 Trigon of Thought
+1 Whirlpool Drake
+1 Treasure Chest
+1 Wizard's Spellbook
+1 Vedalken Aethermage
+1 Treasure Keeper
+1 Sudden Insight
+1 The Mirari Conjecture
+{'overall': 9.209670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '28', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrmosArchiveKeeper.txt'}

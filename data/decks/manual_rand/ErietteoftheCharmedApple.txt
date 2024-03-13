@@ -1,0 +1,69 @@
+1 Eriette of the Charmed Apple
+1 Whip of Erebos
+1 Voltaic Servant
+1 Welcoming Vampire
+1 Thrasher Brute
+1 TARDIS
+1 Vish Kal, Blood Arbiter
+1 Viseling
+1 Mind Stone
+1 Warmth
+1 Tinybones, Trinket Thief
+1 The Long Reach of Night // Animus of Night's Reach
+1 Takklemaggot
+1 Undercity's Embrace
+1 Vanquish the Weak
+1 Throne of the God-Pharaoh
+1 Sorin Markov
+1 Vizkopa Guildmage
+1 Vicious Hunger
+1 Whalebone Glider
+1 Virtue of Persistence // Locthwain Scorn
+1 Spoils of War
+1 Slaughter the Strong
+1 Starlit Sanctum
+1 Vampire Envoy
+1 Wooden Sphere
+1 You're Ambushed on the Road
+1 Triangle of War
+1 Smothering Tithe
+1 Tallyman of Nurgle
+1 You Cannot Pass!
+1 Zombie Master
+1 Spiteful Bully
+1 Yahenni, Undying Partisan
+1 Wingmate Roc
+1 Su-Chi Cave Guard
+1 Yawgmoth Demon
+1 Veteran's Reflexes
+1 Zealous Inquisitor
+1 War Report
+1 Vile Deacon
+1 Wave of Reckoning
+1 Unified Strike
+1 Withercrown
+1 Vulturous Aven
+1 Well of Lost Dreams
+1 Windshaper Planetar
+1 Ulcerate
+1 Weed-Pruner Poplar
+1 Wedding Announcement // Wedding Festivity
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Syr Ginger, the Meal Ender
+1 Wave of Terror
+1 Word of Binding
+1 Your Temple Is Under Attack
+1 Tainted Sigil
+1 Vengeful Warchief
+1 Wall of Caltrops
+1 The Toymaker's Trap
+1 Tangled Colony
+1 Woebearer
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 You Hear Something on Watch
+1 Touch of the Eternal
+1 The Battle of Bywater
+1 Wretched Confluence
+1 Vizier of the True
+1 Veteran Cavalier
+{'overall': 4.571004566210045, 'cmc': 3.2205882352941178, 'ramp': '2', 'draw': '11', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ErietteoftheCharmedApple.txt'}

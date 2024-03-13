@@ -1,0 +1,64 @@
+1 Tuknir Deathlock
+1 Sol Ring
+1 Vandalblast
+1 Temur Battle Rage
+1 Mana Vault
+1 Troll Ascetic
+1 Bloom Tender
+1 Umezawa's Jitte
+1 Sylvok Lifestaff
+1 Llanowar Elves
+1 Wild Instincts
+1 Wild Defiance
+1 Thunderfoot Baloth
+1 Toralf, God of Fury // Toralf's Hammer
+1 Wildfire Elemental
+1 Whalebone Glider
+1 Vengeant Earth
+1 Temur Sabertooth
+1 Rampant Growth
+1 Turntimber Grove
+1 Vines of Vastwood
+1 Vessel of Volatility
+1 Vivien's Stampede
+1 Green Sun's Zenith
+1 Verdant Outrider
+1 Turntimber Basilisk
+1 Tribal Unity
+1 Viashivan Dragon
+1 Eternal Witness
+1 Chaos Warp
+1 Thunderous Might
+1 Thunder Strike
+1 Zephyr Boots
+1 Warden of the Wall
+1 Workshop Warchief
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Teeterpeak Ambusher
+1 Thelonite Druid
+1 Wren's Run Hydra
+1 Watcher in the Web
+1 Trailblazer's Torch
+1 Vitaspore Thallid
+1 Thrash of Raptors
+1 Voltaic Brawler
+1 War Mammoth
+1 Warlord's Fury
+1 Welding Jar
+1 Yavimaya Steelcrusher
+1 Thornling
+1 Thorn Lieutenant
+1 Wall of Mulch
+1 Whip Silk
+1 Yavimaya Ancients
+1 Wild Nacatl
+1 Zurgo Bellstriker
+1 Wrenn and Realmbreaker
+1 Storm Shaman
+1 Yew Spirit
+1 Stonewood Invoker
+1 Valor Singer
+1 Talons of Falkenrath
+1 Lightning Bolt
+{'overall': 4.841176470588235, 'cmc': 2.6984126984126986, 'ramp': '9', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'TuknirDeathlock.txt'}

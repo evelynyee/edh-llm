@@ -1,0 +1,101 @@
+1 Malcolm, Alluring Scoundrel
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Master of Predicaments
+1 Skyway Robber
+1 Dazzling Sphinx
+1 Knowledge Exploitation
+1 Spellshift
+1 Mischievous Catgeist // Catlike Curiosity
+1 Swindler's Scheme
+1 Mind's Dilation
+1 Smuggler's Buggy
+1 The Magic Mirror
+1 Living Lore
+1 Ledger Shredder
+1 Knowledge Pool
+1 Last Thoughts
+1 Sight Beyond Sight
+1 Sea-Dasher Octopus
+1 Chaos Wand
+1 River Song's Diary
+1 Discover the Impossible
+1 Salvage Drone
+1 Treasure Keeper
+1 Inevitable Betrayal
+1 Dichotomancy
+1 Synthesis Pod
+1 Stolen Goods
+1 Thieves' Fortune
+1 Hurl into History
+1 Zhulodok, Void Gorger
+1 Djinn of Wishes
+1 Oracle's Vault
+1 Scattering Stroke
+1 Forceful Denial
+1 Swashbuckler's Whip
+1 Commander's Insight
+1 Sorcerous Squall
+1 Recurring Insight
+1 Walk the Aeons
+1 Whispers of the Muse
+1 Blessed Reincarnation
+1 Wiretapping
+1 Digsite Conservator
+1 Diluvian Primordial
+1 Counterbalance
+1 Heralds of Tzeentch
+1 Deluxe Dragster
+1 Maelstrom Colossus
+1 Geode Golem
+1 Chancellor of the Spires
+1 A Little Chat
+1 Spellbinder
+1 Buried Treasure
+1 Increasing Confusion
+1 Tales of the Ancestors
+1 Oona's Grace
+1 Counterlash
+1 Game Plan
+1 Ingenuity Engine
+1 Chimil, the Inner Sun
+1 Glimpse the Cosmos
+1 Thought Prison
+1 Deal Broker
+1 Dampen Thought
+1 Surtland Elementalist
+{'overall': 8.226190476190476, 'cmc': 4.2, 'ramp': '3', 'draw': '27', 'interaction': 5, 'folder': 'baseline', 'commander': 'MalcolmAlluringScoundrel.txt'}

@@ -1,0 +1,66 @@
+1 Myojin of Cryptic Dreams
+1 Cyclonic Rift
+1 Thassa, Deep-Dwelling
+1 Zephyr Singer
+1 Sphinx-Bone Wand
+1 Mulldrifter
+1 Thousand-Faced Shadow
+1 Supreme Exemplar
+1 Zoetic Glyph
+1 Whirlermaker
+1 Tide Drifter
+1 Siren Stormtamer
+1 Wingcrafter
+1 Wandering Archaic // Explore the Vastlands
+1 Venser, Shaper Savant
+1 Mana Drain
+1 Teferi, Temporal Pilgrim
+1 Warden of the Wall
+1 Whitewater Naiads
+1 Trail of Evidence
+1 Stormbound Geist
+1 Ugin's Conjurant
+1 Thopter Spy Network
+1 Teferi's Talent
+1 Thought-Knot Seer
+1 Stonecoil Serpent
+1 Sleep-Cursed Faerie
+1 Troublesome Spirit
+1 Whirlwind Denial
+1 Wing Commando
+1 Wurmcoil Engine
+1 Vedalken Blademaster
+1 Thought Sponge
+1 Unified Will
+1 Welcome to the Fold
+1 Wingspan Mentor
+1 The Magic Mirror
+1 Synchronized Eviction
+1 Traxos, Scourge of Kroog
+1 Trusted Advisor
+1 Suncrusher
+1 Turn Aside
+1 Steelfin Whale
+1 Voidmage Husher
+1 Vexing Puzzlebox
+1 Water Wings
+1 Workhorse
+1 Warping Wail
+1 Thassa's Rebuff
+1 Spinal Parasite
+1 Siren of the Fanged Coast
+1 The Monumental Facade
+1 Stunt Double
+1 Toothy, Imaginary Friend
+1 Unsubstantiate
+1 Sword of Truth and Justice
+1 Towashi Guide-Bot
+1 Steady Progress
+1 Throne of Makindi
+1 Teller of Tales
+1 Waterspout Djinn
+1 Urza's Rebuff
+1 Tablet of the Guilds
+1 Thassa, God of the Sea
+1 Shrine of Loyal Legions
+{'overall': 4.565217391304348, 'cmc': 3.5384615384615383, 'ramp': '4', 'draw': '10', 'interaction': 10, 'folder': 'gpt', 'commander': 'MyojinofCrypticDreams.txt'}

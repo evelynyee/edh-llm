@@ -1,0 +1,101 @@
+1 Chevill, Bane of Monsters
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Torment of Venom
+1 Feast on the Fallen
+1 Aku Djinn
+1 Ravenloft Adventurer
+1 Sengir, the Dark Baron
+1 Nightshade Harvester
+1 Invasion of Ulgrotha // Grandmother Ravi Sengir
+1 Archfiend of the Dross
+1 Bloodchief Ascension
+1 Evolutionary Escalation
+1 Sarulf, Realm Eater
+1 Fraying Line
+1 Ley Line
+1 Stromkirk Bloodthief
+1 Liability
+1 Cinderhaze Wretch
+1 Mazirek, Kraul Death Priest
+1 Tenured Inkcaster
+1 Etched Host Doombringer
+1 Ob Nixilis, Unshackled
+1 Price of Betrayal
+1 Savage Gorger
+1 Queen's Bay Paladin
+1 Desecration Demon
+1 Grim Feast
+1 Quest for the Nihil Stone
+1 Palace Siege
+1 Sleeper Agent
+1 Parallax Nexus
+1 Animation Module
+1 Honden of Night's Reach
+1 Oil-Gorger Troll
+1 Ob Nixilis, the Fallen
+1 Vorinclex, Monstrous Raider
+1 Willow Geist
+1 Dodecapod
+1 Last Laugh
+1 Rapacious Guest
+1 Westgate Regent
+1 Verdant Command
+1 Settle the Score
+1 Contaminant Grafter
+1 Deadly Designs
+1 Plague Belcher
+1 The Moment
+1 Tourach's Chant
+1 Jinxed Ring
+1 Energy Chamber
+1 Sabertooth Cobra
+1 Descendant of Masumaro
+1 Forbidden Ritual
+1 Kappa Tech-Wrecker
+1 Tangle Wire
+1 Eye of Doom
+1 Reckoner Shakedown
+1 Capricopian
+1 The Millennium Calendar
+1 Indulgent Tormentor
+1 Shrine of Limitless Power
+1 Obelisk Spider
+1 Kothophed, Soul Hoarder
+1 Obsessive Skinner
+1 Portent Tracker
+{'overall': 2.258294930875576, 'cmc': 3.287878787878788, 'ramp': '0', 'draw': '5', 'interaction': 8, 'folder': 'baseline', 'commander': 'ChevillBaneofMonsters.txt'}

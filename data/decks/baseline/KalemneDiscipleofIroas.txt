@@ -1,0 +1,101 @@
+1 Kalemne, Disciple of Iroas
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Embercleave
+1 Aisha of Sparks and Smoke
+1 Marauding Raptor
+1 Huntmaster Liger
+1 Opaline Bracers
+1 Regal Leosaur
+1 Captain Ripley Vance
+1 Light from Within
+1 Heartfire Immolator
+1 Long-Forgotten Gohei
+1 Kentaro, the Smiling Cat
+1 Rouse the Mob
+1 Silverflame Ritual
+1 Desperate Stand
+1 Nahiri, Storm of Stone
+1 Phalanx Formation
+1 Mana-Charged Dragon
+1 Rebel Salvo
+1 Erratic Cyclops
+1 Heart of Kiran
+1 Boiling Earth
+1 Auriok Steelshaper
+1 Paragon of Modernity
+1 Devouring Rage
+1 Mistmeadow Skulk
+1 Ent-Draught Basin
+1 Dragon-Style Twins
+1 Bold Defense
+1 Great Defender
+1 Lantern Flare
+1 Nogi, Draco-Zealot
+1 Porcuparrot
+1 Rhonas's Monument
+1 Blademane Baku
+1 Jabari's Influence
+1 Hedron Matrix
+1 Livaan, Cultist of Tiamat
+1 Seeker of the Way
+1 Myth Realized
+1 Sword of Once and Future
+1 Vulpikeet
+1 Daru Warchief
+1 Terror of the Peaks
+1 Sanguinary Mage
+1 Nimble-Blade Khenra
+1 Lightning Visionary
+1 Jeskai Student
+1 Bloodfire Expert
+1 Monastery Swiftspear
+1 Dragon Bell Monk
+1 Patron of the Akki
+1 Pin Collection
+1 Reckless Bushwhacker
+1 Herald of War
+1 Blasphemous Act
+1 Tooth of Chiss-Goria
+1 Witchstalker Frenzy
+1 Glamdring
+1 Reaver Titan
+1 Scale of Chiss-Goria
+1 Lens Flare
+1 Crowd's Favor
+1 Soulblast
+{'overall': 1.231578947368421, 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 12, 'folder': 'baseline', 'commander': 'KalemneDiscipleofIroas.txt'}

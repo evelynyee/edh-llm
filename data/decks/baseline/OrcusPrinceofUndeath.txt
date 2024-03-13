@@ -1,0 +1,101 @@
+1 Orcus, Prince of Undeath
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Black Sun's Twilight
+1 Erebos's Intervention
+1 Dominating Vampire
+1 Chupacabra Echo
+1 Festive Funeral
+1 Priest of the Haunted Edge
+1 Finale of Eternity
+1 Ghoul's Feast
+1 Lys Alana Scarblade
+1 Black Hole
+1 Nightmarish End
+1 Gumdrop Poisoner // Tempt with Treats
+1 Cloudkill
+1 Profane Command
+1 Cemetery Desecrator
+1 Feeding Frenzy
+1 Scrap Welder
+1 Go-Shintai of Hidden Cruelty
+1 Foul Renewal
+1 Thornmantle Striker
+1 Flunk
+1 Ancestral Anger
+1 Painbringer
+1 Terror Tide
+1 Skemfar Shadowsage
+1 Temporary Insanity
+1 Specter of Mortality
+1 Disciple of Bolas
+1 Liliana's Standard Bearer
+1 Kagemaro, First to Suffer
+1 Clear the Stage
+1 Necrotic Wound
+1 Cavalier of Flame
+1 Hoard-Smelter Dragon
+1 Heartlash Cinder
+1 Drana's Silencer
+1 Liliana, Waker of the Dead
+1 Liliana, Untouched by Death
+1 Ruthless Technomancer
+1 Fateful Handoff
+1 Agadeem's Awakening // Agadeem, the Undercrypt
+1 Blight-Breath Catoblepas
+1 Angrath, the Flame-Chained
+1 Ghastly Demise
+1 Grave Endeavor
+1 Claim the Firstborn
+1 Astarion's Thirst
+1 Soulshriek
+1 Plaguebearer
+1 Shattered Crypt
+1 Magma Sliver
+1 Hostile Hostel // Creeping Inn
+1 Living Armor
+1 Sword of the Ages
+1 Wolf in _____ Clothing
+1 Grishnákh, Brash Instigator
+1 Planeswalker's Scorn
+1 Downhill Charge
+1 Parting Thoughts
+1 Killing Glare
+1 Spoils of War
+1 Nightshade Seer
+1 Scuttling Death
+{'overall': 2.8472850678733033, 'cmc': 3.3484848484848486, 'ramp': '1', 'draw': '6', 'interaction': 10, 'folder': 'baseline', 'commander': 'OrcusPrinceofUndeath.txt'}

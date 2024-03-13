@@ -1,0 +1,64 @@
+1 Tegwyll, Duke of Splendor
+1 Obyra, Dreaming Duelist
+1 Scion of Oona
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Alela, Cunning Conqueror
+1 Archmage of Echoes
+1 Glen Elendra Liege
+1 Glen Elendra Archmage
+1 Secluded Glen
+1 Faerie Bladecrafter
+1 Rankle, Master of Pranks
+1 Sunken Hollow
+1 Brazen Borrower
+1 Halo Forager
+1 Sower of Temptation
+1 Malleable Impostor
+1 Oona, Queen of the Fae
+1 Spell Stutter
+1 Path of Ancestry
+1 Kindred Dominance
+1 Shadow Puppeteers
+1 Talisman of Dominance
+1 Distant Melody
+1 Faerie Formation
+1 Dimir Signet
+1 Bojuka Bog
+1 Tegwyll's Scouring
+1 Faerie Conclave
+1 Puppeteer Clique
+1 Reflections of Littjara
+1 Tainted Isle
+1 Choked Estuary
+1 Nymris, Oona's Trickster
+1 Blightwing Bandit
+1 Cloud of Faeries
+1 Bitterblossom
+1 Hypnotic Sprite
+1 Reconnaissance Mission
+1 Nettling Nuisance
+1 Faerie Seer
+1 Arcane Denial
+1 Reality Shift
+1 Darkwater Catacombs
+1 Mocking Sprite
+1 Temple of Deceit
+1 Exotic Orchard
+1 Misleading Signpost
+1 Fellwar Stone
+1 Dimir Aqueduct
+1 Picklock Prankster
+1 Quickling
+1 Spellstutter Sprite
+1 Mind Stone
+1 Snap
+1 Keep Watch
+1 Myriad Landscape
+1 Spellscorn Coven
+1 Midnight Clock
+1 Faerie Mastermind
+1 Frantic Search
+1 Talion, the Kindly Lord
+{'overall': 6.574137931034483, 'cmc': 2.761904761904762, 'ramp': '8', 'draw': '14', 'interaction': 7, 'folder': 'edh', 'commander': 'TegwyllDukeofSplendor.txt'}

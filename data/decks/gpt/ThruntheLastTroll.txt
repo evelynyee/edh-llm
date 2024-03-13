@@ -1,0 +1,65 @@
+1 Thrun, the Last Troll
+1 Verdant Haven
+1 Green Sun's Zenith
+1 Viridian Zealot
+1 Sylvan Basilisk
+1 Tangle Golem
+1 Champion of Lambholt
+1 Steel Leaf Champion
+1 Doubling Season
+1 Seedborn Muse
+1 Weaver of Harmony
+1 Wirewood Lodge
+1 Vernal Bloom
+1 Thran Power Suit
+1 Treetop Bracers
+1 Warden of the Wall
+1 Thornbite Staff
+1 Tempting Licid
+1 Traproot Kami
+1 Tranquil Grove
+1 Llanowar Elves
+1 Vernal Equinox
+1 Vitalize
+1 Skyshroud Blessing
+1 Treetop Rangers
+1 Vengeant Earth
+1 Whalebone Glider
+1 Web
+1 Wren's Run Vanquisher
+1 Titanic Brawl
+1 Bloom Tender
+1 Eternal Witness
+1 Mana Vault
+1 Ulvenwald Tracker
+1 Trollhide
+1 Traxos, Scourge of Kroog
+1 Triumph of Ferocity
+1 Whisperer of the Wilds
+1 Skyscythe Engulfer
+1 Workshop Warchief
+1 Vine Mare
+1 Vine Gecko
+1 Toymaker
+1 Wirewood Symbiote
+1 Wild Onslaught
+1 Crop Rotation
+1 Thorn Elemental
+1 Vivien, Champion of the Wilds
+1 Yew Spirit
+1 Vizier of the Menagerie
+1 Wurmcalling
+1 Vivify
+1 Venerated Rotpriest
+1 Vivien's Stampede
+1 Zendikar Resurgent
+1 The Great Henge
+1 Thousand-Year Elixir
+1 Well of Knowledge
+1 Winding Canyons
+1 Tyvar's Stand
+1 The Immortal Sun
+1 Wild Growth
+1 Rampant Growth
+1 Utopia Vow
+{'overall': 6.584491978609626, 'cmc': 2.921875, 'ramp': '13', 'draw': '10', 'interaction': 3, 'folder': 'gpt', 'commander': 'ThruntheLastTroll.txt'}

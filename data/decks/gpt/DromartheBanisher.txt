@@ -1,0 +1,66 @@
+1 Dromar, the Banisher
+1 Tragic Arrogance
+1 Vessel of Paramnesia
+1 Surrakar Spellblade
+1 Teshar, Ancestor's Apostle
+1 Time Warp
+1 Wheel and Deal
+1 Waker of Waves
+1 Yuriko, the Tiger's Shadow
+1 Zombie Assassin
+1 Traverse Eternity
+1 Voidmage Husher
+1 Vanish into Eternity
+1 Wistful Thinking
+1 Web of Inertia
+1 Whirlwind Denial
+1 Word of Binding
+1 Vampiric Touch
+1 Tormod's Cryptkeeper
+1 Path to Exile
+1 Wasteland Strangler
+1 War Room
+1 Tourach's Canticle
+1 Wake the Dead
+1 Visions of Dread
+1 Swashbuckler's Whip
+1 Withering Wisps
+1 Zephyrim
+1 Thassa's Intervention
+1 Unified Will
+1 Vodalian Mage
+1 Torgaar, Famine Incarnate
+1 Whir of Invention
+1 Vraska's Finisher
+1 Tolarian Geyser
+1 Warp Artifact
+1 Vodalian Hexcatcher
+1 Whispersteel Dagger
+1 Thieving Sprite
+1 Vengeful Dreams
+1 Wretched Gryff
+1 Wretched Camel
+1 Wretched Confluence
+1 Xanathar, Guild Kingpin
+1 Wandering Archaic // Explore the Vastlands
+1 Welcome to the Fold
+1 Whirlpool Whelm
+1 Vraska's Contempt
+1 Vindictive Lich
+1 Turn into a Pumpkin
+1 Whirling Catapult
+1 Synchronized Eviction
+1 Winter's Chill
+1 Tombstalker
+1 Treasure Cruise
+1 Urborg Emissary
+1 Ukkima, Stalking Shadow
+1 Xathrid Demon
+1 Zellix, Sanity Flayer
+1 Wu Scout
+1 Windfall
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Wizard's Spellbook
+1 Urza's Rebuff
+1 Uba Mask
+{'overall': 5.993933054393305, 'cmc': 3.6769230769230767, 'ramp': '1', 'draw': '18', 'interaction': 14, 'folder': 'gpt', 'commander': 'DromartheBanisher.txt'}

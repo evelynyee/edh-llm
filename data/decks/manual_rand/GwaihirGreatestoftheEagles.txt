@@ -1,0 +1,69 @@
+1 Gwaihir, Greatest of the Eagles
+1 Whalebone Glider
+1 White Scarab
+1 Tenth District Guard
+1 Sinstriker's Will
+1 Spy Kit
+1 Syndicate Messenger
+1 Sustainer of the Realm
+1 Tabaxi Toucaneers
+1 Trusted Pegasus
+1 Vessel of Ephemera
+1 Voiceless Spirit
+1 Shield Mate
+1 You're Confronted by Robbers
+1 Sensei Golden-Tail
+1 Strength-Testing Hammer
+1 Valor
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Starlight
+1 White Ward
+1 The Book of Exalted Deeds
+1 Steam Catapult
+1 Siege Veteran
+1 Weight of Conscience
+1 Wall of Resistance
+1 Sublime Archangel
+1 Warded Battlements
+1 Vanguard of the Rose
+1 Vectis Gloves
+1 War Horn
+1 Unerring Sling
+1 Soldier of the Grey Host
+1 Sword Dancer
+1 Spare from Evil
+1 Wake the Reflections
+1 Survive the Night
+1 Sol Ring
+1 Wedding Announcement // Wedding Festivity
+1 Topan Freeblade
+1 You Cannot Pass!
+1 Sunbond
+1 Wedding Ring
+1 Stern Marshal
+1 Stuffed Bear
+1 Voltaic Construct
+1 Zetalpa, Primal Dawn
+1 Warden of the Beyond
+1 Vanguard of Brimaz
+1 Witch Hunter
+1 Skillful Lunge
+1 Soul of Theros
+1 Wrath of God
+1 Spirit Link
+1 You Hear Something on Watch
+1 Veteran's Powerblade
+1 Snow Fortress
+1 Warhorn Blast
+1 Austere Command
+1 Triangle of War
+1 Zealous Strike
+1 Tale of Tinúviel
+1 Zealous Inquisitor
+1 White Knight
+1 Sting, the Glinting Dagger
+1 Trenching Steed
+1 Wedding Announcement // Wedding Festivity
+1 Take Up the Shield
+1 Troubled Healer
+{'overall': 2.7733668341708544, 'cmc': 2.970149253731343, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}

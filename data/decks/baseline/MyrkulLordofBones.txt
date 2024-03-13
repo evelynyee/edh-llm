@@ -1,0 +1,101 @@
+1 Myrkul, Lord of Bones
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Kaya, Intangible Slayer
+1 Soul Separator
+1 Grist, the Hunger Tide
+1 Ritual of the Returned
+1 Rotfeaster Maggot
+1 Solitude
+1 Talara's Bane
+1 Death's Oasis
+1 Planewide Celebration
+1 Starfield of Nyx
+1 Swift Reconfiguration
+1 Wedding Ring
+1 Pack Rat
+1 Dire Tactics
+1 Ajani, Strength of the Pride
+1 Biotransference
+1 Sam, Loyal Attendant
+1 Bushmeat Poacher
+1 Orchard Warden
+1 Uchuulon
+1 Verdant Sun's Avatar
+1 Lobelia Sackville-Baggins
+1 Ruthless Technomancer
+1 Necromancer's Covenant
+1 Athreos, God of Passage
+1 Dino DNA
+1 Necron Monolith
+1 Release to Memory
+1 Great Unclean One
+1 Archangel Elspeth
+1 Trostani, Selesnya's Voice
+1 Ishkanah, Grafwidow
+1 Duplicant
+1 Scour the Desert
+1 Anikthea, Hand of Erebos
+1 Circle of Confinement
+1 Necromantic Selection
+1 Severed Strands
+1 Fateful Handoff
+1 Druidic Satchel
+1 Catapult Fodder // Catapult Captain
+1 Karn, the Great Creator
+1 Sunset Revelry
+1 Nightmare Shepherd
+1 Tymaret, Chosen from Death
+1 Tribute to Hunger
+1 Toll of the Invasion
+1 Elephant Resurgence
+1 Morbid Bloom
+1 Preston, the Vanisher
+1 Noxious Gearhulk
+1 Mirkwood Elk
+1 Ajani's Last Stand
+1 Gixian Puppeteer
+1 Vulpine Harvester
+1 Their Number Is Legion
+1 Lurking Jackals
+1 Ghouls' Night Out
+1 Archon of Redemption
+1 Canoptek Scarab Swarm
+1 Samwise Gamgee
+1 Daxos, Blessed by the Sun
+1 Sorin, Vengeful Bloodlord
+{'overall': 3.5234375, 'cmc': 3.8208955223880596, 'ramp': '1', 'draw': '7', 'interaction': 20, 'folder': 'baseline', 'commander': 'MyrkulLordofBones.txt'}

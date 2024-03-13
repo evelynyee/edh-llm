@@ -1,0 +1,64 @@
+1 Tetsuo, Imperial Champion
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Swiftfoot Boots
+1 Dalakos, Crafter of Wonders
+1 Ancestral Vision
+1 Basilisk Collar
+1 Profane Tutor
+1 Brass Squire
+1 Inevitable Betrayal
+1 Hammer of Nazahn
+1 Godo, Bandit Warlord
+1 Wheel of Fate
+1 Embercleave
+1 The Reality Chip
+1 Lizard Blades
+1 Enthusiastic Mechanaut
+1 Xander's Lounge
+1 Conqueror's Flail
+1 Chaos Warp
+1 Kaldra Compleat
+1 Exotic Orchard
+1 Sword of the Animist
+1 Rogue's Passage
+1 Unscythe, Killer of Kings
+1 Magnetic Theft
+1 Crumbling Necropolis
+1 Blackblade Reforged
+1 Seize the Day
+1 Heiko Yamazaki, the General
+1 Terminate
+1 Counterspell
+1 Steam Vents
+1 Pact Weapon
+1 The Reaver Cleaver
+1 Etherium Sculptor
+1 Watery Grave
+1 Blood Crypt
+1 Feed the Swarm
+1 Vorpal Sword
+1 Izzet Signet
+1 Bedevil
+1 Komainu Battle Armor
+1 Brainstorm
+1 Kediss, Emberclaw Familiar
+1 Dimir Signet
+1 Relentless Assault
+1 Oathkeeper, Takeno's Daisho
+1 Blasphemous Act
+1 Luxury Suite
+1 Akki Battle Squad
+1 Training Center
+1 Morphic Pool
+1 Fabricate
+1 Jhoira, Weatherlight Captain
+1 Rakdos Signet
+1 Talisman of Creativity
+1 Sulfur Falls
+1 Dragonskull Summit
+1 Shivan Reef
+1 Argentum Armor
+1 Sunken Hollow
+{'overall': 5.840298507462687, 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'TetsuoImperialChampion.txt'}

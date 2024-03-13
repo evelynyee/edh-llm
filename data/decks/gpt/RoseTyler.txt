@@ -1,0 +1,65 @@
+1 Rose Tyler
+1 Trepanation Blade
+1 Umezawa's Jitte
+1 Arcane Signet
+1 Sword of Truth and Justice
+1 Mana Crypt
+1 Seance
+1 Tallowisp
+1 Triumph of Gerrard
+1 Shrine of Loyal Legions
+1 Tocasia's Onulet
+1 The Monumental Facade
+1 Ultramarines Honour Guard
+1 Unassuming Sage
+1 Veteran's Armaments
+1 Stoneforge Mystic
+1 Trapjaw Tyrant
+1 Wandering Archaic // Explore the Vastlands
+1 Smuggler's Buggy
+1 Sublime Archangel
+1 Triskelavus
+1 Path to Exile
+1 Sunscorch Regent
+1 Windswept Heath
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Ugin, the Spirit Dragon
+1 Thran Power Suit
+1 Ugin's Conjurant
+1 Shield Sphere
+1 Scroll of the Masters
+1 Stoneforge Acolyte
+1 Weathered Wayfarer
+1 Treasure Map // Treasure Cove
+1 Seasoned Dungeoneer
+1 Valiant Veteran
+1 Vizier of Remedies
+1 Stand Firm
+1 Timesifter
+1 Thalia's Lieutenant
+1 Zoetic Cavern
+1 Werewolf Lightning Mage
+1 Zelyon Sword
+1 Trusty Retriever
+1 You're Confronted by Robbers
+1 Twilight Drover
+1 Thought Prison
+1 Sunbond
+1 The Immortal Sun
+1 Tiller of Flesh
+1 Seven-Tail Mentor
+1 Zhalfirin Crusader
+1 Warlord's Elite
+1 Tawnos's Weaponry
+1 Xenk, Paladin Unbroken
+1 Wizened Cenn
+1 Stonebinder's Familiar
+1 The Birth of Meletis
+1 Tapestry of the Ages
+1 Veteran of the Depths
+1 Triumph of Saint Katherine
+1 Thoughtweft Trio
+1 Wayfarer's Bauble
+1 Sol Ring
+{'overall': 5.749300699300699, 'cmc': 2.86, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'gpt', 'commander': 'RoseTyler.txt'}

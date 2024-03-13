@@ -1,0 +1,65 @@
+1 Omnath, Locus of All
+1 Zirda, the Dawnwaker
+1 Verdant Catacombs
+1 Vampiric Tutor
+1 Traverse the Ulvenwald
+1 Timesifter
+1 Rampant Growth
+1 Verdant Confluence
+1 Urborg Lhurgoyf
+1 Vessel of Nascency
+1 Vastwood Surge
+1 Wheel of Fate
+1 Visions of Beyond
+1 Voidmage Husher
+1 Vivien, Monsters' Advocate
+1 Worldly Tutor
+1 Animate Dead
+1 Vizier of the Menagerie
+1 Wrenn's Resolve
+1 Vizier of the Anointed
+1 Wall of Runes
+1 Wildcall
+1 Unexpected Results
+1 Zimone, Quandrix Prodigy
+1 Urban Evolution
+1 Yorion, Sky Nomad
+1 Verdant Mastery
+1 Windbrisk Heights
+1 Wrenn and Six
+1 Vorinclex // The Grand Evolution
+1 Uro, Titan of Nature's Wrath
+1 Seedborn Muse
+1 Birds of Paradise
+1 Wistful Thinking
+1 Vivien's Invocation
+1 Whispers of Emrakul
+1 Wrenn and Seven
+1 Time Spiral
+1 Vedalken Aethermage
+1 Yuriko, the Tiger's Shadow
+1 Tribute Mage
+1 Valakut Awakening // Valakut Stoneforge
+1 Unmoored Ego
+1 War Room
+1 Vivien, Nature's Avenger
+1 Waker of Waves
+1 Wizards of the _____
+1 Vexing Puzzlebox
+1 Vivien Reid
+1 Uba Mask
+1 Zurgo and Ojutai
+1 Trophy Mage
+1 Whisper Squad
+1 Visions of Ruin
+1 Transmogrify
+1 Zendikar Resurgent
+1 Valakut Exploration
+1 Wren's Run Vanquisher
+1 Varragoth, Bloodsky Sire
+1 Zhur-Taa Ancient
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Vessel of Endless Rest
+1 Wayfarer's Bauble
+1 Wandering Graybeard
+{'overall': 13.25093896713615, 'cmc': 3.328125, 'ramp': '20', 'draw': '30', 'interaction': 3, 'folder': 'gpt', 'commander': 'OmnathLocusofAll.txt'}

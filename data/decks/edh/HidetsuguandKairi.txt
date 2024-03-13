@@ -1,0 +1,64 @@
+1 Hidetsugu and Kairi
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Dimir Signet
+1 Talisman of Dominance
+1 Mnemonic Deluge
+1 Quasiduplicate
+1 Sunken Hollow
+1 Brainstorm
+1 Cackling Counterpart
+1 Dig Through Time
+1 In Garruk's Wake
+1 Treasure Cruise
+1 Fellwar Stone
+1 Rite of Replication
+1 See Double
+1 Breach the Multiverse
+1 Necromantic Selection
+1 Phantasmal Image
+1 Aminatou's Augury
+1 Glasspool Mimic
+1 Mystic Sanctuary
+1 Dark Ritual
+1 Sublime Epiphany
+1 Counterspell
+1 Watery Grave
+1 Clone Legion
+1 Thought Vessel
+1 Mirror Image
+1 Underground River
+1 Viscera Seer
+1 Mind Stone
+1 Choked Estuary
+1 Malakir Rebirth
+1 Mystical Tutor
+1 Drowned Catacomb
+1 Morphic Pool
+1 Undying Malice
+1 Grave Endeavor
+1 Time Stretch
+1 Fated Infatuation
+1 Shipwreck Marsh
+1 Saw in Half
+1 Phyrexian Metamorph
+1 Supernatural Stamina
+1 Temple of Deceit
+1 Exotic Orchard
+1 Decree of Pain
+1 Mirage Mockery
+1 Stolen Identity
+1 Sensei's Divining Top
+1 Reliquary Tower
+1 Mirrorhall Mimic
+1 Fated Return
+1 Replication Technique
+1 Feed the Swarm
+1 Wayfarer's Bauble
+1 Bojuka Bog
+1 Feign Death
+1 Darkwater Catacombs
+1 Army of the Damned
+1 Ponder
+{'overall': 6.249484536082473, 'cmc': 3.0793650793650795, 'ramp': '12', 'draw': '9', 'interaction': 7, 'folder': 'edh', 'commander': 'HidetsuguandKairi.txt'}

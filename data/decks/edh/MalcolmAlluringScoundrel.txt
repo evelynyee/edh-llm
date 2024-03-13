@@ -1,0 +1,64 @@
+1 Malcolm, Alluring Scoundrel
+1 Sol Ring
+1 Experimental Augury
+1 Counterspell
+1 Tezzeret's Gambit
+1 Contentious Plan
+1 Thrummingbird
+1 Arcane Signet
+1 Flux Channeler
+1 Serum Snare
+1 Omniscience
+1 Swiftfoot Boots
+1 Mystic Sanctuary
+1 Lightning Greaves
+1 Reliquary Tower
+1 Hullbreaker Horror
+1 Karn's Bastion
+1 Brainstorm
+1 Time Stretch
+1 Steady Progress
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Jin-Gitaxias, Core Augur
+1 Thought Vessel
+1 Negate
+1 Rapid Hybridization
+1 Slip Out the Back
+1 Aminatou's Augury
+1 Cyclonic Rift
+1 High Tide
+1 Pongify
+1 Ripples of Potential
+1 Nezahal, Primal Tide
+1 Fireshrieker
+1 Jin-Gitaxias, Progress Tyrant
+1 Rogue's Passage
+1 Rhystic Study
+1 One with the Multiverse
+1 Otawara, Soaring City
+1 Mystical Tutor
+1 Reject Imperfection
+1 Fierce Guardianship
+1 Combat Research
+1 Scourge of Fleets
+1 Strionic Resonator
+1 Swan Song
+1 Ponder
+1 Staff of Compleation
+1 Rise of the Eldrazi
+1 Sea Gate Restoration
+1 Mnemonic Deluge
+1 Stormtide Leviathan
+1 Reality Shift
+1 Sapphire Medallion
+1 Guildpact Informant
+1 Expropriate
+1 Mystic Remora
+1 Nexus of Fate
+1 Time Warp
+1 Artisan of Kozilek
+1 War Room
+1 Aqueous Form
+1 Everflowing Chalice
+{'overall': 8.386046511627907, 'cmc': 3.4126984126984126, 'ramp': '11', 'draw': '17', 'interaction': 16, 'folder': 'edh', 'commander': 'MalcolmAlluringScoundrel.txt'}

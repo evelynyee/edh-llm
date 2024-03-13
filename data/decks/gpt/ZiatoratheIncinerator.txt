@@ -1,0 +1,64 @@
+1 Ziatora, the Incinerator
+1 Tyvar Kell
+1 Wild Mammoth
+1 Virtus's Maneuver
+1 Umezawa's Jitte
+1 Utopia Mycon
+1 Rampant Growth
+1 Verdant Rebirth
+1 Sword of Light and Shadow
+1 Xenagos, the Reveler
+1 Whip of Erebos
+1 Vengeful Pharaoh
+1 Sol Ring
+1 Vampiric Dragon
+1 Vraska, Golgari Queen
+1 Vivien's Stampede
+1 Sylvan Offering
+1 Worldspine Wurm
+1 Tower Above
+1 Yavimaya Steelcrusher
+1 Tomb Blade
+1 Warbeast of Gorgoroth
+1 Viashino Heretic
+1 Xantcha, Sleeper Agent
+1 Vile Aggregate
+1 Zendikar Resurgent
+1 Vraska, Relic Seeker
+1 Vizier of the Scorpion
+1 Vito's Inquisitor
+1 Vivien, Arkbow Ranger
+1 Wrenn and Seven
+1 Tooth and Claw
+1 Wren's Run Packmaster
+1 Wolfcaller's Howl
+1 Twinflame
+1 Wolfrider's Saddle
+1 Whisper, Blood Liturgist
+1 Unnatural Moonrise
+1 Tervigon
+1 Wildwood Mentor
+1 Thornbite Staff
+1 Thicket Crasher
+1 Thieves' Tools
+1 Turntimber Basilisk
+1 Vanquish the Weak
+1 Whalebone Glider
+1 Thunderkin Awakener
+1 Waker of the Wilds
+1 Whirlermaker
+1 Voldaren Epicure
+1 Tempting Witch
+1 Woodwraith Corrupter
+1 Vorinclex // The Grand Evolution
+1 Tend the Pests
+1 Withering Wisps
+1 Wild Slash
+1 Vengeful Ancestor
+1 Terastodon
+1 Valduk, Keeper of the Flame
+1 Urborg Stalker
+1 Vengeant Vampire
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Vrondiss, Rage of Ancients
+{'overall': 6.7384615384615385, 'cmc': 3.7142857142857144, 'ramp': '10', 'draw': '12', 'interaction': 14, 'folder': 'gpt', 'commander': 'ZiatoratheIncinerator.txt'}

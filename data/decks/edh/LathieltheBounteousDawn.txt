@@ -1,0 +1,64 @@
+1 Lathiel, the Bounteous Dawn
+1 Command Tower
+1 Sol Ring
+1 Soul Warden
+1 Conclave Mentor
+1 Swords to Plowshares
+1 Abzan Battle Priest
+1 Essence Warden
+1 Blossoming Sands
+1 Cleric Class
+1 Inspiring Call
+1 Cultivate
+1 Arcane Signet
+1 Canopy Vista
+1 Trelasarra, Moon Dancer
+1 Abzan Falconer
+1 Soul's Attendant
+1 Well of Lost Dreams
+1 Rhox Faithmender
+1 Nykthos Paragon
+1 Spike Feeder
+1 Sunscorch Regent
+1 Daxos, Blessed by the Sun
+1 Rampant Growth
+1 Graypelt Refuge
+1 Radiant Fountain
+1 Shamanic Revelation
+1 Beast Within
+1 Aetherflux Reservoir
+1 Path to Exile
+1 Selesnya Sanctuary
+1 Voice of the Blessed
+1 Hamza, Guardian of Arashin
+1 Good-Fortune Unicorn
+1 Sunpetal Grove
+1 Heliod, Sun-Crowned
+1 Felidar Sovereign
+1 Cosmos Elixir
+1 Trostani, Selesnya's Voice
+1 Celestial Unicorn
+1 Ajani's Pridemate
+1 Authority of the Consuls
+1 Gavony Township
+1 Alhammarret's Archive
+1 Archangel of Thune
+1 Hardened Scales
+1 Generous Gift
+1 Fertilid
+1 Prosperous Innkeeper
+1 Ajani, the Greathearted
+1 Temple Garden
+1 Kodama's Reach
+1 Crested Sunmare
+1 Blossoming Bogbeast
+1 Fortified Village
+1 Overgrown Farmland
+1 Boon Reflection
+1 Pristine Talisman
+1 Suture Priest
+1 Light of Promise
+1 Loyal Unicorn
+1 Champion of Lambholt
+1 Avacyn's Pilgrim
+{'overall': 4.5424528301886795, 'cmc': 2.5238095238095237, 'ramp': '9', 'draw': '5', 'interaction': 5, 'folder': 'edh', 'commander': 'LathieltheBounteousDawn.txt'}

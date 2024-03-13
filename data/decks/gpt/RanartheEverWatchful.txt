@@ -1,0 +1,66 @@
+1 Ranar the Ever-Watchful
+1 Sol Ring
+1 Mana Vault
+1 Mana Drain
+1 Zephyrim
+1 Trail of Evidence
+1 Whirlpool Whelm
+1 Swan Song
+1 Talrand's Invocation
+1 Zephyr Singer
+1 Voidmage Husher
+1 Vedalken Archmage
+1 Tezzeret, Artifice Master
+1 Steel Seraph
+1 Zephyr Scribe
+1 Yotian Frontliner
+1 Sunbird Standard // Sunbird Effigy
+1 Zephyr Sentinel
+1 Tormod's Crypt
+1 Zephyr Spirit
+1 Warden of Evos Isle
+1 Winds of Rebuke
+1 Vanishment
+1 Teshar, Ancestor's Apostle
+1 Zulaport Duelist
+1 Winds of Abandon
+1 Worthy Knight
+1 Sword Coast Serpent // Capsizing Wave
+1 Wingmate Roc
+1 Zoetic Glyph
+1 Whirlermaker
+1 Wing Commando
+1 Trove Warden
+1 Thassa, Deep-Dwelling
+1 Wurmcoil Engine
+1 Stormchaser Drake
+1 Wing Shards
+1 Counterspell
+1 Urza, Lord High Artificer
+1 Thopter Spy Network
+1 Tolarian Geyser
+1 Venser, the Sojourner
+1 Teferi, Time Raveler
+1 Vanish into Eternity
+1 Venerated Loxodon
+1 Waylay
+1 Threadbind Clique // Rip the Seams
+1 Waterspout Weavers
+1 Stormcaller's Boon
+1 Unified Will
+1 Sunfall
+1 Tidal Bore
+1 Windrider Wizard
+1 Swarm Intelligence
+1 Thought Dissector
+1 Timeless Dragon
+1 Zellix, Sanity Flayer
+1 The Magic Mirror
+1 Warping Wail
+1 Thought-Knot Seer
+1 Teferi's Protection
+1 Thassa, God of the Sea
+1 Vizier of Many Faces
+1 Temporal Mastery
+1 Supreme Verdict
+{'overall': 6.400847457627118, 'cmc': 3.6307692307692307, 'ramp': '7', 'draw': '14', 'interaction': 12, 'folder': 'gpt', 'commander': 'RanartheEverWatchful.txt'}

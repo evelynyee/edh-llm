@@ -1,0 +1,67 @@
+1 Gollum, Obsessed Stalker
+1 Mana Crypt
+1 Sol Ring
+1 Mana Vault
+1 Chromatic Lantern
+1 Zombie Master // Zombie Master
+1 Word of Command
+1 Damnation
+1 Vault Skirge
+1 Vampire Neonate
+1 Yuan-Ti Fang-Blade
+1 Vampire Champion
+1 Undercity Shade
+1 Wake the Dead
+1 Whalebone Glider
+1 Uncle Istvan
+1 Word of Binding
+1 Splatter Goblin
+1 Sword of Hours
+1 Smogsteed Rider
+1 Tymaret, Chosen from Death
+1 Sorin Markov
+1 Tainted Strike
+1 Takenuma Bleeder
+1 Transmutation
+1 Subversion
+1 Zombie Assassin
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Tormented Hero
+1 Umbilicus
+1 Viscid Lemures
+1 Voracious Fell Beast
+1 Withering Wisps
+1 Thornbite Staff
+1 Vraska's Contempt
+1 Thornwatch Scarecrow
+1 Stingblade Assassin
+1 Tragic Fall
+1 Tooth Collector
+1 Toshiro Umezawa
+1 Vindictive Lich
+1 Unliving Psychopath
+1 Toxic Nim
+1 Umezawa's Charm
+1 Urza's Chalice
+1 Wicked Visitor
+1 Whispersilk Cloak
+1 Syphon Sliver
+1 Sword of Light and Shadow
+1 Mind Stone
+1 Wretched Confluence
+1 Whirling Catapult
+1 Go for the Throat
+1 Sleek Schooner
+1 Uchuulon
+1 The Torment of Gollum
+1 Unlikely Aid
+1 Xathrid Demon
+1 Ulamog's Crusher
+1 Virtus the Veiled
+1 The Chain Veil
+1 Zelyon Sword
+1 Simulacrum
+1 Szat's Will
+1 Walking Desecration
+1 Vengeful Pharaoh
+{'overall': 3.719718309859155, 'cmc': 3.227272727272727, 'ramp': '6', 'draw': '3', 'interaction': 17, 'folder': 'gpt', 'commander': 'GollumObsessedStalker.txt'}

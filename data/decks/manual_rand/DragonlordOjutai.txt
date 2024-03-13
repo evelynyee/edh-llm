@@ -1,0 +1,69 @@
+1 Dragonlord Ojutai
+1 Twinning Glass
+1 Subterranean Schooner
+1 The Everflowing Well // The Myriad Pools
+1 Yavimaya, Cradle of Growth
+1 Vizier of the Anointed
+1 Totally Lost
+1 Thada Adel, Acquisitor
+1 Tower of Murmurs
+1 Wharf Infiltrator
+1 Tidings
+1 Tocasia's Dig Site
+1 Think Tank
+1 Ugin's Mastery
+1 Take Inventory
+1 Unlucky Drop
+1 Teferi's Puzzle Box
+1 Volrath's Shapeshifter
+1 Weathered Wayfarer
+1 Stroke of Genius
+1 Watchful Automaton
+1 Vision Charm
+1 Worthy Cause
+1 Trove Warden
+1 Triton Cavalry
+1 Thought Lash
+1 Veiled Crocodile
+1 Trial of a Time Lord
+1 Treasure Chest
+1 Wall of Lost Thoughts
+1 Venser, Shaper Savant
+1 Wand of Ith
+1 _____ Bird Gets the Worm
+1 Windrider Patrol
+1 Thalia's Lancers
+1 Mind Stone
+1 _____ _____ _____ Trespasser
+1 Wandering Archaic // Explore the Vastlands
+1 Veil of Secrecy
+1 Visions of Beyond
+1 Timesifter
+1 Temporary Truce
+1 Titan of Littjara
+1 Tithe
+1 Thought Dissector
+1 Void Squall
+1 Words of Worship
+1 Trusty Retriever
+1 Thraben Heretic
+1 Warrant // Warden
+1 Twinblade Geist // Twinblade Invocation
+1 Walk the Aeons
+1 Vanishment
+1 Treasure Hunt
+1 Wizard Mentor
+1 Tidal Terror
+1 Wanderer's Strike
+1 Will of the All-Hunter
+1 Witness of the Ages
+1 Wistful Thinking
+1 Tolarian Contempt
+1 Subtlety
+1 Time Reversal
+1 Watchers of the Dead
+1 Stand Firm
+1 The Caves of Androzani
+1 Transmute Artifact
+1 Unsummon
+{'overall': 9.741304347826087, 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}

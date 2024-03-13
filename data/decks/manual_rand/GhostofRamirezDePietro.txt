@@ -1,0 +1,69 @@
+1 Ghost of Ramirez DePietro
+1 Uncovered Clues
+1 Welcome to the Fold
+1 Sword of Light and Shadow
+1 Vexing Puzzlebox
+1 Tezzeret's Simulacrum
+1 The Moment
+1 Wandering Archaic // Explore the Vastlands
+1 Statute of Denial
+1 Well of Knowledge
+1 Sorrow's Path
+1 Unesh, Criosphinx Sovereign
+1 Temporal Eddy
+1 Vendilion Clique
+1 Whisk Away
+1 Brainstorm
+1 Web of Inertia
+1 Thran Foundry
+1 Soratami Seer
+1 Unlucky Drop
+1 Walker of Secret Ways
+1 Time Elemental
+1 Trash Bin
+1 Unctus's Retrofitter
+1 Swashbuckler's Whip
+1 Titan of Littjara
+1 Watertrap Weaver
+1 Ulamog, the Infinite Gyre
+1 Arcane Signet
+1 Warkite Marauder
+1 Waylaying Pirates
+1 Weatherlight
+1 Wayward Soul
+1 Withering Gaze
+1 Urza, Lord High Artificer
+1 Untethered Express
+1 Thassa's Oracle
+1 Thassa's Devourer
+1 The Antiquities War
+1 Words of Wisdom
+1 Surging Aether
+1 Waterspout Weavers
+1 Teferi's Response
+1 Weatherlight Compleated
+1 Wand of Ith
+1 Tolarian Terror
+1 Tradewind Rider
+1 Snow Day
+1 Sol Ring
+1 Vantress Gargoyle
+1 The Deck of Many Things
+1 Supreme Will
+1 Subtlety
+1 Zephyr Sentinel
+1 Zenith Chronicler
+1 Wizards of Thay
+1 Voyager Staff
+1 Timesifter
+1 Young Blue Dragon // Sand Augury
+1 Twice Upon a Time // Unlikely Meeting
+1 Time Stretch
+1 Tormod's Crypt
+1 Syr Elenora, the Discerning
+1 Wizened Snitches
+1 Tezzeret, Cruel Machinist
+1 Whim of Volrath
+1 Thieving Magpie
+1 Tidal Bore
+{'overall': 9.150607287449393, 'cmc': 3.6323529411764706, 'ramp': '8', 'draw': '25', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GhostofRamirezDePietro.txt'}

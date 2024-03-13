@@ -1,0 +1,64 @@
+1 Firja, Judge of Valor
+1 Sol Ring
+1 Arcane Signet
+1 Command Tower
+1 Orzhov Signet
+1 Swords to Plowshares
+1 Talisman of Hierarchy
+1 Caves of Koilos
+1 Unburial Rites
+1 Despark
+1 Dark Ritual
+1 Path to Exile
+1 Priest of Fell Rites
+1 Karmic Guide
+1 Mind Stone
+1 Isolated Chapel
+1 Sign in Blood
+1 Victimize
+1 Orzhov Basilica
+1 Emeria Shepherd
+1 Temple of Silence
+1 Bojuka Bog
+1 Tainted Field
+1 Animate Dead
+1 Godless Shrine
+1 Reanimate
+1 Righteous Valkyrie
+1 Reya Dawnbringer
+1 Starnheim Aspirant
+1 Dread Return
+1 Angel of Despair
+1 Wayfarer's Bauble
+1 Fracture
+1 Renegade Reaper
+1 Damn
+1 Anguished Unmaking
+1 Firja's Retribution
+1 Evolving Wilds
+1 Giada, Font of Hope
+1 Sun Titan
+1 Liesa, Forgotten Archangel
+1 Eradicator Valkyrie
+1 Read the Bones
+1 Rampage of the Valkyries
+1 Myriad Landscape
+1 Sephara, Sky's Blade
+1 Vault of Champions
+1 Persist
+1 Commander's Sphere
+1 Generous Gift
+1 Path of Ancestry
+1 Snowfield Sinkhole
+1 Stitch Together
+1 Night's Whisper
+1 Mortify
+1 Marble Diamond
+1 Shattered Sanctum
+1 Serra's Emissary
+1 Brightclimb Pathway
+1 Village Rites
+1 Lyra Dawnbringer
+1 Buried Alive
+1 Charcoal Diamond
+{'overall': 6.0181818181818185, 'cmc': 2.4444444444444446, 'ramp': '11', 'draw': '8', 'interaction': 9, 'folder': 'edh', 'commander': 'FirjaJudgeofValor.txt'}

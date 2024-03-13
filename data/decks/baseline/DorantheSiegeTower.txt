@@ -1,0 +1,101 @@
+1 Doran, the Siege Tower
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Belligerent Brontodon
+1 Ancient Lumberknot
+1 Jagged-Scar Archers
+1 Wave of Reckoning
+1 Durkwood Tracker
+1 Repentance
+1 Kiku's Shadow
+1 Darksteel Juggernaut
+1 Bedrock Tortoise
+1 Molimo, Maro-Sorcerer
+1 Tracker
+1 Huatli, the Sun's Heart
+1 Sharpshooter Elf
+1 Freyalise Supplicant
+1 Rasaad yn Bashir
+1 Predatory Urge
+1 Wing Puncture
+1 Abyssal Hunter
+1 Aysen Crusader
+1 Iron Mastiff
+1 Master of the Wild Hunt
+1 Divine Retribution
+1 Wayfaring Temple
+1 Kabira Takedown // Kabira Plateau
+1 Spinning Wheel Kick
+1 Steadfast Armasaur
+1 Moonlight Hunt
+1 Armed Response
+1 Scion of the Wild
+1 Outflank
+1 Crusader of Odric
+1 Master's Rebuke
+1 Bite Down
+1 Doubtless One
+1 Windswift Slice
+1 Combo Attack
+1 Rabid Bite
+1 Aggressive Instinct
+1 Squelching Leeches
+1 Prey Upon
+1 Pounce
+1 Khalni Ambush // Khalni Territory
+1 Enduring Angel // Angelic Enforcer
+1 Sovereign Okinec Ahau
+1 Predator's Rapport
+1 Abattoir Ghoul
+1 Cosmic Hunger
+1 The Skullspore Nexus
+1 Lhurgoyf
+1 Chastise
+1 Swarm of Rats
+1 Band Together
+1 Consecrate // Consume
+1 Beast of Burden
+1 Lothlórien Blade
+1 Gaea's Avenger
+1 Blazing Hope
+1 Affectionate Indrik
+1 Unerring Sling
+1 Garruk's Uprising
+1 Gargantuan Gorilla
+1 Dakmor Sorceress
+1 Fell the Mighty
+{'overall': 1.963380281690141, 'cmc': 3.55, 'ramp': '1', 'draw': '2', 'interaction': 13, 'folder': 'baseline', 'commander': 'DorantheSiegeTower.txt'}

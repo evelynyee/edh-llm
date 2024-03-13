@@ -1,0 +1,69 @@
+1 Nicanzil, Current Conductor
+1 Verduran Enchantress
+1 Verdant Catacombs
+1 Yisan, the Wanderer Bard
+1 Zameck Guildmage
+1 Spelunking
+1 Vorinclex, Monstrous Raider
+1 Willow Geist
+1 Yarok's Wavecrasher
+1 Woodland Changeling
+1 Universal Automaton
+1 Yavimaya Elder
+1 Zndrsplt's Judgment
+1 Trickery Charm
+1 War-Wing Siren
+1 Venarian Glimmer
+1 Verdant Touch
+1 Young Blue Dragon // Sand Augury
+1 Tel-Jilad Stylus
+1 Young Wolf
+1 Vapor Snag
+1 Vivien on the Hunt
+1 Wizard Class
+1 Wirewood Guardian
+1 Tribute to the World Tree
+1 Whirlpool Drake
+1 Verdant Confluence
+1 Uncovered Clues
+1 Tawnos's Coffin
+1 Wave of Vitriol
+1 Vesuva
+1 Terramorphic Expanse
+1 Terminal Moraine
+1 Wirewood Savage
+1 Tributary Instructor
+1 Waterspout Djinn
+1 Rampant Growth
+1 Tilling Treefolk
+1 The Thirteenth Doctor
+1 Wary Thespian
+1 Whiplash Trap
+1 Voda Sea Scavenger
+1 Tezzeret, Cruel Machinist
+1 Verdant Command
+1 Visions of Beyond
+1 Woodland Champion
+1 Unlawful Entry
+1 Surveyor's Scope
+1 Titania's Boon
+1 Time Lord Regeneration
+1 Vine Dryad
+1 Trusted Advisor
+1 Trickster Mage
+1 Threats Undetected
+1 Wretched Gryff
+1 Whisperwood Elemental
+1 Sylvan Scrying
+1 Warped Landscape
+1 Witching Well
+1 Zephyr Singer
+1 Vine Kami
+1 Verdant Eidolon
+1 Veiled Crocodile
+1 Ugin, the Ineffable
+1 Veil of Secrecy
+1 Vastwood Fortification // Vastwood Thicket
+1 Thwart
+1 You Happen On a Glade
+{'overall': 8.83, 'cmc': 2.9411764705882355, 'ramp': '10', 'draw': '22', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}

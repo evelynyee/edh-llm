@@ -1,0 +1,101 @@
+1 Sharuum the Hegemon
+1 Mortuary Mire
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Sanctum Gargoyle
+1 Bloodline Necromancer
+1 Archon of Falling Stars
+1 Griffin Dreamfinder
+1 Trusty Packbeast
+1 Archaeomender
+1 Cadaver Imp
+1 Monk Idealist
+1 Auramancer
+1 Treasure Hunter
+1 Barrow Witches
+1 Leonin Relic-Warder
+1 Auriok Survivors
+1 Moriok Scavenger
+1 Strongarm Thug
+1 Enslaved Horror
+1 Soul-Guide Gryff
+1 Restoration Gearsmith
+1 Ironclad Slayer
+1 Fiend Hunter
+1 Stonecloaker
+1 Junk Diver
+1 Gravedigger
+1 Scavenging Harpy
+1 Refurbish
+1 Argivian Restoration
+1 Ovalchase Daredevil
+1 Dispersal Technician
+1 Young Necromancer
+1 Faceless Butcher
+1 Journey to Nowhere
+1 Angler Drake
+1 Stern Proctor
+1 Angel of Glory's Rise
+1 Oblivion Ring
+1 Brilliant Restoration
+1 Saprazzan Bailiff
+1 Aven Fogbringer
+1 Restoration Angel
+1 Odunos River Trawler
+1 Spine of Ish Sah
+1 Body Snatcher
+1 Myr Retriever
+1 Wormfang Newt
+1 Wispweaver Angel
+1 Wormfang Turtle
+1 Angelic Renewal
+1 Wormfang Drake
+1 Master Skald
+1 Scrivener
+1 Elderfang Ritualist
+1 Felidar Guardian
+1 Workshop Assistant
+1 Charmed Griffin
+1 Nullpriest of Oblivion
+1 Angel of Finality
+1 Deep-Cavern Bat
+1 Glowing Anemone
+1 Disposal Mummy
+1 Mist Raven
+1 Trial of Knowledge
+1 Loran, Disciple of History
+1 Stockpiling Celebrant
+{'overall': 0.9983870967741935, 'cmc': 3.6470588235294117, 'ramp': '0', 'draw': '1', 'interaction': 4, 'folder': 'baseline', 'commander': 'SharuumtheHegemon.txt'}

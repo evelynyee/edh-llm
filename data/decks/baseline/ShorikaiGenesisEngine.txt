@@ -1,0 +1,101 @@
+1 Shorikai, Genesis Engine
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Prodigy's Prototype
+1 Necron Monolith
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Careening Mine Cart
+1 Enchanted Carriage
+1 Night Scythe
+1 Born to Drive
+1 Hallowed Haunting
+1 Ajani Goldmane // Ajani Goldmane
+1 Ajani Goldmane
+1 The Battle of Bywater
+1 Ajani, Strength of the Pride
+1 Mimic
+1 Witch's Oven
+1 Launch the Fleet
+1 Tezzeret, Betrayer of Flesh
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Dire Mimic
+1 Gigantoplasm
+1 Ghost Ark
+1 Doomed Artisan
+1 Second Breakfast
+1 Unctus, Grand Metatect
+1 Sunfall
+1 Phantasmal Form
+1 Smuggler's Copter
+1 Imperial Recovery Unit
+1 Jace, Cunning Castaway
+1 Phyrexian Rebirth
+1 Niko Aris
+1 Dusk Legion Dreadnought
+1 Cyberdrive Awakener
+1 Urza's Command
+1 Cultivator's Caravan
+1 Depose // Deploy
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Fleetwheel Cruiser
+1 Katsumasa, the Animator
+1 Bomat Bazaar Barge
+1 Faerie Slumber Party
+1 Thundersteel Colossus
+1 Gruesome Slaughter
+1 Toymaker
+1 Get Lost
+1 Volo, Itinerant Scholar
+1 Mobile Garrison
+1 Lena, Selfless Champion
+1 Irontread Crusher
+1 Futurist Sentinel
+1 Relic's Roar
+1 Startling Development
+1 Into the Fae Court
+1 Sleek Schooner
+1 Mobilizer Mech
+1 Digsite Engineer
+1 Sky Skiff
+1 Funeral Longboat
+1 Dragonfly Suit
+1 Brute Suit
+1 March of the Machines
+1 Tiller of Flesh
+1 Parhelion II
+1 Peacewalker Colossus
+{'overall': 5.367685589519651, 'cmc': 3.523076923076923, 'ramp': '5', 'draw': '13', 'interaction': 6, 'folder': 'baseline', 'commander': 'ShorikaiGenesisEngine.txt'}

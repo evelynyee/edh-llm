@@ -1,0 +1,69 @@
+1 Saryth, the Viper's Fang
+1 Sword of the Paruns
+1 Trollbred Guardian
+1 Zodiac Ox
+1 Sylvan Basilisk
+1 Towering Indrik
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Silvanus's Invoker
+1 Watchful Naga
+1 Willow Satyr
+1 Victory Chimes
+1 Vectis Gloves
+1 Vigorspore Wurm
+1 Sylvan Anthem
+1 Vesuva
+1 Zopandrel, Hunger Dominus
+1 The Ozolith
+1 Yavimaya Scion
+1 Verdant Field
+1 Wind Shear
+1 Zodiac Rabbit
+1 Wildborn Preserver
+1 Tree Monkey
+1 Veil of Summer
+1 Vorinclex // The Grand Evolution
+1 Sword of the Meek
+1 The Skullspore Nexus
+1 Taunting Challenge
+1 Sorrow's Path
+1 Verdant Command
+1 Witherscale Wurm
+1 Tendershoot Dryad
+1 Mind Stone
+1 Tajuru Archer
+1 Wielding the Green Dragon
+1 Untamed Might
+1 Weaver of Harmony
+1 Thundering Chariot
+1 Venerable Kumo
+1 Sky Skiff
+1 Wing Snare
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Storm the Seedcore
+1 Wallop
+1 Wose Pathfinder
+1 Wildwood Mentor
+1 Tawnos's Weaponry
+1 Tower Above
+1 Untethered Express
+1 Yorvo, Lord of Garenbrig
+1 Birds of Paradise
+1 Timberpack Wolf
+1 Unstable Frontier
+1 Wolf Strike
+1 The Irencrag
+1 Stampeding Elk Herd
+1 Vernal Bloom
+1 Titanic Brawl
+1 Tribal Unity
+1 Tyrant's Machine
+1 Touchstone
+1 Viridian Longbow
+1 Workshop Warchief
+1 Walker of the Wastes
+1 Sustenance
+1 Thundersteel Colossus
+1 Tel-Jilad Defiance
+1 Territorial Maro
+{'overall': 4.400485436893204, 'cmc': 3.074626865671642, 'ramp': '6', 'draw': '7', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}

@@ -1,0 +1,101 @@
+1 Ezuri, Claw of Progress
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Death's Presence
+1 Quirion Beastcaller
+1 Simic Manipulator
+1 Sunbringer's Touch
+1 Invigorating Surge
+1 Soul's Might
+1 Jugan Defends the Temple // Remnant of the Rising Star
+1 Arwen, Weaver of Hope
+1 Sandsteppe War Riders
+1 Thrive
+1 Servant of the Scale
+1 Silkguard
+1 Vastwood Hydra
+1 Mighty Emergence
+1 Goliath Truck
+1 Slippery Bogbonder
+1 Contortionist Troupe
+1 Dinosaur Egg
+1 Undercity Upheaval
+1 Inscription of Abundance
+1 Ambitious Dragonborn
+1 Master Biomancer
+1 Scourge of Skola Vale
+1 Tyrant Guard
+1 Jugan, the Rising Star
+1 Experiment One
+1 Cached Defenses
+1 Vivien of the Arkbow
+1 Myojin of Towering Might
+1 Packsong Pup
+1 Dormant Grove // Gnarled Grovestrider
+1 Nessian Hornbeetle
+1 Pinion Feast
+1 Bloodspore Thrinax
+1 Dromoka's Gift
+1 Ent-Draught Basin
+1 Hadana's Climb // Winged Temple of Orazca
+1 Bioshift
+1 Vivien, Arkbow Ranger
+1 Court of Garenbrig
+1 Stand Together
+1 Broodlord
+1 Nissa's Judgment
+1 Ooze Flux
+1 Evolutionary Escalation
+1 Briar Hydra
+1 Verdurous Gearhulk
+1 Pelt Collector
+1 Glissa's Retriever
+1 Sandsteppe Mastodon
+1 Ulvenwald Bear
+1 Incremental Growth
+1 Sandsteppe Scavenger
+1 Power Plant Worker
+1 Shadowed Caravel
+1 Towering Titan
+1 Chimeric Mass
+1 The Ozolith
+1 Renegade Krasis
+1 Sweet-Gum Recluse
+1 Outmuscle
+1 Wildwood Mentor
+1 Strength of the Pack
+{'overall': 2.1789473684210527, 'cmc': 3.4545454545454546, 'ramp': '2', 'draw': '4', 'interaction': 2, 'folder': 'baseline', 'commander': 'EzuriClawofProgress.txt'}

@@ -1,0 +1,101 @@
+1 Kalamax, the Stormsire
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Forest
+1 Mountain
+1 Island
+1 Double Vision
+1 Swarm Intelligence
+1 Invasion of Arcavios // Invocation of the Founders
+1 Cloven Casting
+1 The Twelfth Doctor
+1 Reflective Golem
+1 Lucky Clover
+1 Mirari
+1 Pyromancer Ascension
+1 Wandering Archaic // Explore the Vastlands
+1 Zada, Hedron Grinder
+1 Bill Potts
+1 Thousand-Year Storm
+1 Teach by Example
+1 Doublecast
+1 Jin-Gitaxias, Progress Tyrant
+1 Fury Storm
+1 Twinning Staff
+1 Chancellor of Tales
+1 Wild Ricochet
+1 Howl of the Horde
+1 Mirror Sheen
+1 Ral, Storm Conduit
+1 Twincast
+1 Reverberate
+1 Storm King's Thunder
+1 Curse of Echoes
+1 Repeated Reverberation
+1 Psychic Rebuttal
+1 Refuse // Cooperate
+1 Quandrix Pledgemage
+1 Flusterstorm
+1 Hive Mind
+1 Mirrorwing Dragon
+1 Mercurial Spelldancer
+1 Tomb of Horrors Adventurer
+1 Psionic Ritual
+1 Artisan of Forms
+1 Split Decision
+1 Verazol, the Split Current
+1 Brineborn Cutthroat
+1 Bonus Round
+1 Brain Freeze
+1 Echo Storm
+1 Beamsplitter Mage
+1 Tzaangor Shaman
+1 Simon, Wild Magic Sorcerer
+1 Najal, the Storm Runner
+1 Volcanic Awakening
+1 Veyran, Voice of Duality
+1 Lithoform Engine
+1 Sigil Tracer
+1 Reiterate
+1 Karok Wrangler
+1 Perplexing Chimera
+1 Dualcaster Mage
+1 Meletis Charlatan
+1 Goblin Flectomancer
+1 Grapeshot
+1 Hindering Touch
+1 Rings of Brighthearth
+1 Sideswipe
+1 Unbound Flourishing
+{'overall': 1.5560165975103735, 'cmc': 3.5970149253731343, 'ramp': '0', 'draw': '3', 'interaction': 5, 'folder': 'baseline', 'commander': 'KalamaxtheStormsire.txt'}

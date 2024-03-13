@@ -1,0 +1,65 @@
+1 Gandalf, White Rider
+1 Arcane Signet
+1 Mana Crypt
+1 Sol Ring
+1 Chromatic Lantern
+1 Victory's Envoy
+1 Zephyrim
+1 Zelyon Sword
+1 The Celestus
+1 Tormod's Crypt
+1 Topple
+1 Winds of Abandon
+1 Wing Shards
+1 Austere Command
+1 Vanish into Eternity
+1 Waylay
+1 Zhalfirin Void
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Sunbird Standard // Sunbird Effigy
+1 Wingmate Roc
+1 Sun Titan
+1 Sword of Light and Shadow
+1 Windswept Heath
+1 Umezawa's Jitte
+1 Wingsteed Rider
+1 Whirling Catapult
+1 White Plume Adventurer
+1 Swift Reckoning
+1 Warrior's Charge
+1 Vizier of Remedies
+1 Ugin, the Ineffable
+1 Sram, Senior Edificer
+1 Stoneforge Mystic
+1 Swashbuckler's Whip
+1 Whalebone Glider
+1 Solitude
+1 Skyblade's Boon
+1 Strongarm Monk
+1 Spellbinder
+1 Timesifter
+1 Thaumatic Compass // Spires of Orazca
+1 Vizier of the True
+1 Seasoned Dungeoneer
+1 Trove Warden
+1 Thought Dissector
+1 Sword of the Meek
+1 Vessel of Endless Rest
+1 Well of Discovery
+1 Steel Hellkite
+1 Storybook Ride
+1 Wand of Denial
+1 Verdant Catacombs
+1 Ugin's Nexus
+1 Valiant Changeling
+1 Vulpikeet
+1 White Dragon
+1 Warden of the Inner Sky
+1 Wispweaver Angel
+1 Yotian Frontliner
+1 Xenk, Paladin Unbroken
+1 Toymaker
+1 Tandem Tactics
+1 Wedding Invitation
+1 Wandering Archaic // Explore the Vastlands
+{'overall': 6.283663366336634, 'cmc': 3.15625, 'ramp': '11', 'draw': '10', 'interaction': 8, 'folder': 'gpt', 'commander': 'GandalfWhiteRider.txt'}

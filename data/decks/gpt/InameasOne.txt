@@ -1,0 +1,64 @@
+1 Iname as One
+1 Transgress the Mind
+1 Traverse the Ulvenwald
+1 Vivien's Invocation
+1 Wood Elves
+1 Worm Harvest
+1 Woodfall Primus
+1 Vorapede
+1 Vastwood Surge
+1 Traverse the Outlands
+1 Vorinclex // The Grand Evolution
+1 Wurmcalling
+1 Worldly Tutor
+1 Tempt with Immortality
+1 Temur War Shaman
+1 Sylvan Tutor
+1 Solemn Simulacrum
+1 Seedborn Muse
+1 Vengevine
+1 Tempt with Discovery
+1 Tormod's Crypt
+1 Verdant Catacombs
+1 Vampiric Tutor
+1 Ugin, the Spirit Dragon
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Yisan, the Wanderer Bard
+1 Vivien, Champion of the Wilds
+1 Springbloom Druid
+1 Ugin, the Ineffable
+1 Terramorphic Expanse
+1 Vessel of Nascency
+1 Viridian Emissary
+1 Yorvo, Lord of Garenbrig
+1 Sylvan Bounty
+1 Vastwood Zendikon
+1 Wandering Archaic // Explore the Vastlands
+1 Vulturous Aven
+1 Vivien Reid
+1 Verdant Confluence
+1 Demonic Tutor
+1 Vanquisher's Banner
+1 Terastodon
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Voice of Many
+1 Up the Beanstalk
+1 Throne of the Grim Captain // The Grim Captain
+1 Troll of Khazad-dm
+1 Whisper, Blood Liturgist
+1 Thran Foundry
+1 Zendikar Resurgent
+1 Vraska's Stoneglare
+1 Vexing Puzzlebox
+1 Viridian Revel
+1 Vessel of Endless Rest
+1 Wasteland Scorpion
+1 Vexing Arcanix
+1 Zanikev Locust
+1 Tilling Treefolk
+1 Tribute to Horobi // Echo of Death's Wail
+1 Verdant Haven
+1 Sylvan Scrying
+1 Sorin's Guide
+1 Birds of Paradise
+{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'InameasOne.txt'}

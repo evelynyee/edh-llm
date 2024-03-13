@@ -1,0 +1,66 @@
+1 Uyo, Silent Prophet
+1 Ulamog, the Ceaseless Hunger
+1 Willbreaker
+1 Winds of Rebuke
+1 Temporal Mastery
+1 Mana Drain
+1 Ugin, the Spirit Dragon
+1 Teferi, Master of Time
+1 Soratami Mindsweeper
+1 Venser, Shaper Savant
+1 Thought Collapse
+1 Tamiyo, the Moon Sage
+1 Swan Song
+1 Sublime Epiphany
+1 Ugin's Mastery
+1 Surtland Elementalist
+1 Storm of Saruman
+1 Stormchaser Drake
+1 Submerge
+1 Ugin's Insight
+1 Thassa, Deep-Dwelling
+1 Teferi, Temporal Pilgrim
+1 Mana Crypt
+1 Arcane Signet
+1 Vodalian Mystic
+1 Tidespout Tyrant
+1 Thassa's Intervention
+1 Teferi, Mage of Zhalfir
+1 Thousand Winds
+1 Tempest Owl
+1 Tolarian Kraken
+1 Whir of Invention
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Void Shatter
+1 Sorcerer's Broom
+1 Void Snare
+1 Thousand-Faced Shadow
+1 Skaab Ruinator
+1 Test of Talents
+1 Tempted by the Oriq
+1 Treasure Cruise
+1 Trade Routes
+1 Venser's Journal
+1 Turnabout
+1 Watchful Automaton
+1 Wistful Thinking
+1 Vizier of Many Faces
+1 Vodalian Serpent
+1 Witness of the Ages
+1 Zur's Weirding
+1 Urza's Incubator
+1 Urza, Lord High Artificer
+1 Tezzeret, Cruel Machinist
+1 Vendilion Clique
+1 Wandering Archaic // Explore the Vastlands
+1 Wash Away
+1 Tideforce Elemental
+1 Startled Awake // Persistent Nightmare
+1 Windcaller Aven
+1 Storyteller Pixie
+1 Wavecrash Triton
+1 Synod Sanctum
+1 Venser's Diffusion
+1 Winter Eladrin
+1 Verity Circle
+{'overall': 6.39056603773585, 'cmc': 4.076923076923077, 'ramp': '3', 'draw': '19', 'interaction': 8, 'folder': 'gpt', 'commander': 'UyoSilentProphet.txt'}

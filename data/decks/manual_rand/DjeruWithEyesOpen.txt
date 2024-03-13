@@ -1,0 +1,69 @@
+1 Djeru, With Eyes Open
+1 Spellbook
+1 Transmogrifying Wand
+1 Sunlance
+1 Triskelion
+1 Sorcerer's Wand
+1 Witch Hunter
+1 Temple Bell
+1 The Biblioplex
+1 Stormwild Capridor
+1 Three Bowls of Porridge
+1 Tormod's Crypt
+1 Swift Reckoning
+1 Will of the All-Hunter
+1 Sphere of Reason
+1 Story Circle
+1 Swords to Plowshares
+1 Weapon Rack
+1 Welkin Hawk
+1 Spellweaver Helix
+1 Triassic Egg
+1 Wall of Forgotten Pharaohs
+1 Spirit en-Kor
+1 Ulamog's Despoiler
+1 Sivvi's Ruse
+1 Veteran Bodyguard
+1 Verge Rangers
+1 Scepter of Empires
+1 Volatile Rig
+1 Warning
+1 Sword of the Ages
+1 Stern Constable
+1 Serra's Hymn
+1 Teferi's Puzzle Box
+1 Wurm's Tooth
+1 Wandering Graybeard
+1 Mana Vault
+1 Urn of Godfire
+1 Sword of Fire and Ice
+1 Springjaw Trap
+1 Tezzeret's Simulacrum
+1 Tiller Engine
+1 Vengeful Dreams
+1 Tabaxi Toucaneers
+1 Squadron Hawk
+1 Thalia's Lancers
+1 Wall of Omens
+1 Wojek Apothecary
+1 Venser's Journal
+1 Symmetry Matrix
+1 True Love's Kiss
+1 Time Bomb
+1 Tamiyo's Journal
+1 Towashi Guide-Bot
+1 Land Tax
+1 Timesifter
+1 Workshop Assistant
+1 Summoner's Egg
+1 Terramorphic Expanse
+1 Sudden Salvation
+1 Spiritual Visit
+1 Vexing Arcanix
+1 Sunset Revelry
+1 Vulpikeet
+1 Vedalken Shackles
+1 Universal Solvent
+1 War Room
+1 Urza's Miter
+{'overall': 7.043877551020408, 'cmc': 2.8823529411764706, 'ramp': '4', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'DjeruWithEyesOpen.txt'}

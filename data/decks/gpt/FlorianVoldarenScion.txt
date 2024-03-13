@@ -1,0 +1,65 @@
+1 Florian, Voldaren Scion
+1 Vampiric Tutor
+1 Vraska, Betrayal's Sting
+1 Wheel of Fate
+1 Thunderous Wrath
+1 Damnation
+1 War Room
+1 Vampire Nocturnus
+1 Zhalfirin Void
+1 Wake the Dead
+1 Withering Wisps
+1 Visions of Dread
+1 Tourach's Canticle
+1 Wasteland Strangler
+1 Warhost's Frenzy
+1 Vicious Rumors
+1 Vexing Puzzlebox
+1 Transmogrify
+1 Volrath's Stronghold
+1 Thoughtseize
+1 Chaos Warp
+1 Sword of Forge and Frontier
+1 Swashbuckler's Whip
+1 Wayward Guide-Beast
+1 Storybook Ride
+1 Wildfire Devils
+1 Witch Hunt
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Struggle for Sanity
+1 Uchuulon
+1 The Biblioplex
+1 Whisper Squad
+1 Go for the Throat
+1 Volcano Hellion
+1 Woe Strider
+1 Sultai Emissary
+1 Stinkweed Imp
+1 Demonic Tutor
+1 Mana Vault
+1 Dark Ritual
+1 Sol Ring
+1 Whirling Catapult
+1 Sycorax Commander
+1 Void
+1 Tombfire
+1 Waste Not
+1 Wandering Archaic // Explore the Vastlands
+1 Varragoth, Bloodsky Sire
+1 Thieving Sprite
+1 Vengeful Reaper
+1 Thrill of Possibility
+1 Unmarked Grave
+1 Village Messenger // Moonrise Intruder
+1 Wake to Slaughter
+1 Wildfire
+1 Vile Aggregate
+1 Whisper, Blood Liturgist
+1 Visage of Dread // Dread Osseosaur
+1 Witches' Eye
+1 Unmask
+1 Underworld Cerberus
+1 Virtus the Veiled
+1 Titan's Revenge
+1 Torrent of Stone
+{'overall': 5.919101123595506, 'cmc': 2.78125, 'ramp': '7', 'draw': '11', 'interaction': 14, 'folder': 'gpt', 'commander': 'FlorianVoldarenScion.txt'}

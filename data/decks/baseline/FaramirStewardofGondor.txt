@@ -1,0 +1,101 @@
+1 Faramir, Steward of Gondor
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Clowning Around
+1 Hanweir Militia Captain // Westvale Cult Leader
+1 Darksteel Splicer
+1 Charismatic Conqueror
+1 Lena, Selfless Champion
+1 Devout Invocation
+1 Geist-Honored Monk
+1 Priest of the Blessed Graf
+1 Promise of Bunrei
+1 Malcator, Purity Overseer
+1 Legion's Landing // Adanto, the First Fort
+1 Argivian Cavalier
+1 Master's Guide-Mural // Master's Manufactory
+1 Lossarnach Captain
+1 Geralf, Visionary Stitcher
+1 Even the Odds
+1 Deeproot Pilgrimage
+1 Depose // Deploy
+1 Thopter Assembly
+1 Harmonious Archon
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Horn of Gondor
+1 March of the Canonized
+1 Throne of Empires
+1 Court of Grace
+1 Militant Angel
+1 Defenders of Humanity
+1 Genesis Chamber
+1 Desecrated Tomb
+1 Elspeth Tirel
+1 Myriad Construct
+1 Knight of Doves
+1 Faramir, Field Commander
+1 Go-Shintai of Shared Purpose
+1 Shadow Puppeteers
+1 Scion of Vitu-Ghazi
+1 Skystrike Officer
+1 Siege Veteran
+1 Abdel Adrian, Gorion's Ward
+1 Rally for the Throne
+1 Gather the Townsfolk
+1 Marit Lage's Slumber
+1 Spirit Mirror
+1 Gallows at Willow Hill
+1 Historian's Boon
+1 Hallowed Haunting
+1 Prava of the Steel Legion
+1 Ethereal Investigator
+1 Inspired Sphinx
+1 Ajani's Last Stand
+1 Nesting Dovehawk
+1 Whirler Rogue
+1 Mausoleum Guard
+1 Specimen Collector
+1 Grand Crescendo
+1 Bishop of Wings
+1 Benalish Commander
+1 Cleaver Skaab
+1 Mavren Fein, Dusk Apostle
+1 Feywild Caretaker
+1 Snake Basket
+1 Reverent Hoplite
+1 Akroan Horse
+{'overall': 2.688775510204082, 'cmc': 3.712121212121212, 'ramp': '2', 'draw': '6', 'interaction': 3, 'folder': 'baseline', 'commander': 'FaramirStewardofGondor.txt'}

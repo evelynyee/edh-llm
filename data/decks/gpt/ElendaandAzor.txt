@@ -1,0 +1,66 @@
+1 Elenda and Azor
+1 Tezzeret, Agent of Bolas
+1 Counterspell
+1 Venser, the Sojourner
+1 Mana Vault
+1 Zephyr Singer
+1 Whispering Madness
+1 Storm Herd
+1 Swords to Plowshares
+1 Zuran Orb
+1 Tithe Drinker
+1 Vampire Opportunist
+1 Veil of Secrecy
+1 Wine of Blood and Iron
+1 Zephyr Charge
+1 The Immortal Sun
+1 Verity Circle
+1 Wayward Angel
+1 Zoetic Glyph
+1 Thieving Skydiver
+1 War Report
+1 Unearth
+1 Whirler Rogue
+1 Thief of Hope
+1 Whirlermaker
+1 Waylay
+1 Word of Binding
+1 Wake the Dead
+1 Wheel and Deal
+1 Whir of Invention
+1 Syr Elenora, the Discerning
+1 Vraska's Conquistador
+1 Wand of Orcus
+1 Winds of Abandon
+1 Whalebone Glider
+1 Trail of Evidence
+1 Thopter Spy Network
+1 Yuriko, the Tiger's Shadow
+1 Tezzeret, Betrayer of Flesh
+1 Vile Consumption
+1 Undercity Plague
+1 Torgaar, Famine Incarnate
+1 Whispersteel Dagger
+1 Vito, Fanatic of Aclazotz
+1 Viseling
+1 Windreader Sphinx
+1 Throne of Empires
+1 Vedalken Shackles
+1 Zombie Assassin
+1 Vengeful Reaper
+1 Vulturous Aven
+1 Vraska's Contempt
+1 Vito, Thorn of the Dusk Rose
+1 Visions of Dread
+1 Withering Wisps
+1 Sunfall
+1 Will of the All-Hunter
+1 Wizard's Retort
+1 Tymna the Weaver
+1 Tymaret Calls the Dead
+1 Wandering Champion
+1 Thundercloud Elemental
+1 Valkyrie's Sword
+1 Triskelavus
+1 Whispering Wizard
+{'overall': 5.812770562770563, 'cmc': 3.5538461538461537, 'ramp': '1', 'draw': '18', 'interaction': 10, 'folder': 'gpt', 'commander': 'ElendaandAzor.txt'}

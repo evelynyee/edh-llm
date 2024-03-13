@@ -1,0 +1,64 @@
+1 Marneus Calgar
+1 Thopter Assembly
+1 Sol Ring
+1 Wing Splicer
+1 The Eternal Wanderer
+1 Vela the Night-Clad
+1 Wedding Invitation
+1 Vito, Fanatic of Aclazotz
+1 Demonic Tutor
+1 Counterspell
+1 Tezzeret, Artifice Master
+1 Sword of Body and Mind
+1 Teferi's Protection
+1 Valkyrie's Sword
+1 Zephyrim
+1 Thran Lens
+1 Vessel of Ephemera
+1 Treetop Sentinel
+1 Toll of the Invasion
+1 Throne of Empires
+1 Valor
+1 Vodalian Zombie
+1 Voracious Greatshark
+1 Transmogrant Altar
+1 Xiahou Dun, the One-Eyed
+1 Vizkopa Vampire
+1 Talrand's Invocation
+1 Vindictive Vampire
+1 Wake the Reflections
+1 Waylaying Pirates
+1 Vitality Hunter
+1 Vampirism
+1 Tempting Contract
+1 Tyrannical Pitlord
+1 Wreck Hunter
+1 Weeping Angel
+1 Veteran Armorer
+1 Voice of Truth
+1 Thorn of the Black Rose
+1 Mind Stone
+1 Tribute to Horobi // Echo of Death's Wail
+1 Thalia's Geistcaller
+1 Watcher of the Spheres
+1 Thornwatch Scarecrow
+1 Thraben Watcher
+1 Voice of Duty
+1 Wanderlight Spirit
+1 Wayward Angel
+1 Thermal Glider
+1 Warchanter Skald
+1 Tuinvale Guide
+1 Zephyr Sentinel
+1 Untethered Express
+1 Undying Malice
+1 Voracious Greatshark
+1 Youthful Scholar
+1 Welkin Guide
+1 Urborg Shambler
+1 Talrand, Sky Summoner
+1 Path to Exile
+1 Windbrisk Raptor
+1 Swords to Plowshares
+1 Trostani's Judgment
+{'overall': 4.074074074074074, 'cmc': 3.4838709677419355, 'ramp': '5', 'draw': '8', 'interaction': 5, 'folder': 'gpt', 'commander': 'MarneusCalgar.txt'}

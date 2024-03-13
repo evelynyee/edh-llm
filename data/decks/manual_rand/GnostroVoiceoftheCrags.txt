@@ -1,0 +1,69 @@
+1 Gnostro, Voice of the Crags
+1 Vadrok, Apex of Thunder
+1 Whetwheel
+1 Wizard's Spellbook
+1 Trench Gorger
+1 Vulshok Sorcerer
+1 Whim of Volrath
+1 Éowyn, Fearless Knight
+1 War Cadence
+1 Witch's Oven
+1 Zethi, Arcane Blademaster
+1 Vex
+1 Vulpine Harvester
+1 Wyll, Blade of Frontiers
+1 Traverse Eternity
+1 Swirling Sandstorm
+1 Wild Swing
+1 Zabaz, the Glimmerwasp
+1 _____ Balls of Fire
+1 Trap Digger
+1 Touch of the Eternal
+1 Themberchaud
+1 Triumphant Chomp
+1 Zenith Flare
+1 Twice Upon a Time // Unlikely Meeting
+1 Welcoming Vampire
+1 Temper
+1 Voyager Drake
+1 Synchronized Spellcraft
+1 Wildfire
+1 Wyll's Reversal
+1 Unlicensed Hearse
+1 Thundering Sparkmage
+1 Wedding Ring
+1 Worldly Counsel
+1 The Eleventh Doctor
+1 Vedalken Shackles
+1 Zoanthrope
+1 Torch the Tower
+1 Wizard's Lightning
+1 Wilfred Mott
+1 Valakut Awakening // Valakut Stoneforge
+1 The Moment
+1 Éomer, King of Rohan
+1 Vengeful Archon
+1 Terashi's Grasp
+1 You See a Guard Approach
+1 Wayward Guide-Beast
+1 Twinshot Sniper
+1 Weatherlight
+1 Zenith Chronicler
+1 Walking Bulwark
+1 Titan's Revenge
+1 Toymaker
+1 Zahid, Djinn of the Lamp
+1 Worldslayer
+1 Warden of Evos Isle
+1 Swords to Plowshares
+1 Urza Assembles the Titans
+1 Windrider Patrol
+1 Wind-Kin Raiders
+1 Valiant Endeavor
+1 Unquenchable Fury
+1 Sword of War and Peace
+1 Timecrafting
+1 The Indomitable
+1 Street Spasm
+1 Zap
+{'overall': 6.319037656903766, 'cmc': 3.514705882352941, 'ramp': '4', 'draw': '14', 'interaction': 25, 'folder': 'manual_rand', 'commander': 'GnostroVoiceoftheCrags.txt'}

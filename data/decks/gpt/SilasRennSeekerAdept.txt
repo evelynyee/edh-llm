@@ -1,0 +1,64 @@
+1 Silas Renn, Seeker Adept
+1 Vacuumelt
+1 Tombstalker
+1 Wretched Gryff
+1 Wretched Camel
+1 Counterspell
+1 Sol Ring
+1 Vampiric Tutor
+1 Treasure Cruise
+1 Vendilion Clique
+1 Ulamog, the Ceaseless Hunger
+1 Zndrsplt, Eye of Wisdom
+1 Wistful Thinking
+1 Virulent Swipe
+1 Struggle for Sanity
+1 Thieving Sprite
+1 Tormod's Crypt
+1 Thran Foundry
+1 Ugin, the Spirit Dragon
+1 Tezzeret, Master of Metal
+1 Tolarian Kraken
+1 Vraska's Contempt
+1 Mana Drain
+1 Ugin's Mastery
+1 Tezzeret, Agent of Bolas
+1 Sphinx Ambassador
+1 Traumatize
+1 Tribute Mage
+1 Torment of Hailfire
+1 Vivisection
+1 Weeping Angel
+1 Ulamog, the Infinite Gyre
+1 Verity Circle
+1 The Haunt of Hightower
+1 Venser's Journal
+1 Well of Ideas
+1 Vedalken Archmage
+1 Volrath's Dungeon
+1 Worst Fears
+1 Thoughtseize
+1 Volrath the Fallen
+1 Void Shatter
+1 Vessel of Malignity
+1 Vodalian Hypnotist
+1 Tormod's Cryptkeeper
+1 Think Tank
+1 Ulamog's Reclaimer
+1 Thought-Knot Seer
+1 Whispering Specter
+1 Vengeful Pharaoh
+1 Venser's Diffusion
+1 Whispers of Emrakul
+1 Wretched Confluence
+1 Tragic Lesson
+1 Well of Lost Dreams
+1 Voda Sea Scavenger
+1 Wash Away
+1 Troll of Khazad-dum
+1 Yawgmoth's Agenda
+1 Thought Collapse
+1 Unmask
+1 Varragoth, Bloodsky Sire
+1 Veinwitch Coven
+{'overall': 5.9, 'cmc': 4, 'ramp': '2', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'SilasRennSeekerAdept.txt'}

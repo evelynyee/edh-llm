@@ -1,0 +1,65 @@
+1 Callaphe, Beloved of the Sea
+1 Wheel and Deal
+1 Treasure Cruise
+1 Sphinx of the Final Word
+1 Soratami Rainshaper
+1 Mana Vault
+1 Zephyr Scribe
+1 Wandering Archaic // Explore the Vastlands
+1 Veiled Apparition
+1 Sleight of Mind
+1 Stormscape Familiar
+1 Zephyr Singer
+1 Tidespout Tyrant
+1 Thassa's Emissary
+1 Vodalian Arcanist
+1 Tamiyo, the Moon Sage
+1 Zoetic Glyph
+1 Tide Drifter
+1 Web of Inertia
+1 Whirlwind Denial
+1 Stream of Thought
+1 Wing Commando
+1 Trail of Evidence
+1 Unified Will
+1 War Room
+1 Teferi's Talent
+1 Swarm Intelligence
+1 Mulldrifter
+1 Cyclonic Rift
+1 Sol Ring
+1 Whelming Wave
+1 Vedalken Archmage
+1 Teferi, Mage of Zhalfir
+1 Sudden Insight
+1 Thassa's Oracle
+1 Whirler Rogue
+1 Swan Song
+1 Teferi's Response
+1 Voidmage Prodigy
+1 Spell Swindle
+1 Whirlwind Adept
+1 Vantress Paladin
+1 Tezzeret, Betrayer of Flesh
+1 Ugin, the Spirit Dragon
+1 Swashbuckler's Whip
+1 Whalebone Glider
+1 Welcome to the Fold
+1 Surtland Elementalist
+1 Zellix, Sanity Flayer
+1 Vedalken Blademaster
+1 Whirling Catapult
+1 Turn Aside
+1 Winter's Chill
+1 Steelfin Whale
+1 The Magic Mirror
+1 Thassa, God of the Sea
+1 Volo, Itinerant Scholar
+1 Teferi, Master of Time
+1 Mana Drain
+1 Wall of Tears
+1 Synod Artificer
+1 Vedalken Aethermage
+1 Thran Lens
+1 Tolaria
+{'overall': 6.873991031390134, 'cmc': 3.484375, 'ramp': '4', 'draw': '19', 'interaction': 11, 'folder': 'gpt', 'commander': 'CallapheBelovedoftheSea.txt'}

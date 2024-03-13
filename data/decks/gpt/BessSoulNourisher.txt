@@ -1,0 +1,68 @@
+1 Bess, Soul Nourisher
+1 Strength of the Pack
+1 Whalebone Glider
+1 Sunfall
+1 Takeno, Samurai General
+1 Vengeant Earth
+1 Wurmcoil Engine
+1 Woodfall Primus
+1 Ugin's Conjurant
+1 Stonecoil Serpent
+1 Vorinclex // The Grand Evolution
+1 Wren's Run Packmaster
+1 Warrior's Honor
+1 Umezawa's Jitte
+1 Path to Exile
+1 Wilt-Leaf Liege
+1 Sylvan Anthem
+1 Zendikar's Roil
+1 Venerated Rotpriest
+1 Trostani Discordant
+1 Sword of Hours
+1 Victory's Envoy
+1 Wingsteed Rider
+1 Vrestin, Menoptra Leader
+1 Sunbringer's Touch
+1 Tel-Jilad Fallen
+1 Titanic Brawl
+1 Yew Spirit
+1 Viridian Corrupter
+1 White Plume Adventurer
+1 Smothering Tithe
+1 Wingmate Roc
+1 Tendershoot Dryad
+1 Wayfaring Temple
+1 Viridian Betrayers
+1 Wildgrowth Walker
+1 Wild Onslaught
+1 Venomous Brutalizer
+1 Wirewood Hivemaster
+1 Towashi Guide-Bot
+1 Warping Wail
+1 Topple
+1 Taranika, Akroan Veteran
+1 Treefolk Mystic
+1 Stampeding Elk Herd
+1 Wirewood Pride
+1 Vivify
+1 Webspinner Cuff
+1 Tolsimir Wolfblood
+1 Veteran Armorsmith
+1 Tarmogoyf
+1 Turntimber Basilisk
+1 Terashi's Verdict
+1 Tangleweave Armor
+1 Windbrisk Raptor
+1 Wax // Wane
+1 Veteran Armorer
+1 Wallop
+1 Yeva's Forcemage
+1 Wolf's Quarry
+1 Sunblade Elf
+1 Tyrranax Atrocity
+1 Xenk, Paladin Unbroken
+1 Teyo's Lightshield
+1 Toymaker
+1 Will of the All-Hunter
+1 Tribute to the World Tree
+{'overall': 3.3455555555555554, 'cmc': 3.3582089552238807, 'ramp': '3', 'draw': '5', 'interaction': 15, 'folder': 'gpt', 'commander': 'BessSoulNourisher.txt'}

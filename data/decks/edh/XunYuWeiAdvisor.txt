@@ -1,0 +1,64 @@
+1 Xun Yu, Wei Advisor
+1 Sol Ring
+1 Dark Ritual
+1 Sign in Blood
+1 Feed the Swarm
+1 Nykthos, Shrine to Nyx
+1 Cabal Stronghold
+1 Cabal Coffers
+1 Mind Stone
+1 Suq'Ata Assassin
+1 Phyrexian Digester
+1 Swamp Mosquito
+1 Phyrexian Vatmother
+1 Phyrexian Juggernaut
+1 Blackcleave Goblin
+1 Contagious Nim
+1 Corpse Cur
+1 Necropede
+1 Ichorclaw Myr
+1 Flensermite
+1 Reaper of Sheoldred
+1 Core Prowler
+1 Draugr Necromancer
+1 Blightsteel Colossus
+1 Whispering Specter
+1 Hand of the Praetors
+1 Flesh-Eater Imp
+1 Plague Stinger
+1 Skithiryx, the Blight Dragon
+1 Plague Myr
+1 Septic Rats
+1 Yawgmoth, Thran Physician
+1 Howl from Beyond
+1 Grim Affliction
+1 Grasp of Darkness
+1 Cabal Ritual
+1 Go for the Throat
+1 Defile
+1 Caress of Phyrexia
+1 Dead of Winter
+1 Diabolic Tutor
+1 Night's Whisper
+1 Read the Bones
+1 Damnation
+1 Throne of Geth
+1 Contagion Clasp
+1 Nightmare Lash
+1 Vorpal Sword
+1 Lashwrithe
+1 Whip of Erebos
+1 Lightning Greaves
+1 Intimidation
+1 Kaya's Ghostform
+1 Dictate of Erebos
+1 Black Market Connections
+1 Rogue's Passage
+1 Bojuka Bog
+1 Caged Sun
+1 Charcoal Diamond
+1 Arcane Signet
+1 Myriad Landscape
+1 Nimraiser Paladin
+1 Sheoldred's Headcleaver
+{'overall': 5.792307692307693, 'cmc': 2.888888888888889, 'ramp': '9', 'draw': '7', 'interaction': 22, 'folder': 'edh', 'commander': 'XunYuWeiAdvisor.txt'}

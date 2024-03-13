@@ -1,0 +1,69 @@
+1 Ganax, Astral Hunter
+1 Chromatic Lantern
+1 Spawnsire of Ulamog
+1 Standing Stones
+1 Sol Ring
+1 Thopter Assembly
+1 Shrine of the Forsaken Gods
+1 The Triumph of Anax
+1 Tatsumasa, the Dragon's Fang
+1 The Autonomous Furnace
+1 Spawning Bed
+1 Stuffed Bear
+1 Xanthic Statue
+1 Ugin, the Spirit Dragon
+1 Voyager Staff
+1 Viashino Heretic
+1 Transmogrifying Wand
+1 Windswept Heath
+1 Sunder from Within
+1 Tarnished Citadel
+1 Tormod's Cryptkeeper
+1 Sokenzan, Crucible of Defiance
+1 Wild Ricochet
+1 Zektar Shrine Expedition
+1 Swashbuckler's Whip
+1 Triassic Egg
+1 Volrath's Laboratory
+1 Sunken Citadel
+1 Weapon Rack
+1 The Golden Throne
+1 Voltaic Servant
+1 Ugin's Mastery
+1 Wondrous Crucible
+1 The Red Terror
+1 Tunnel of Love
+1 Spiteful Banditry
+1 Commander's Sphere
+1 Street Spasm
+1 Thunder-Thrash Elder
+1 Wildfire Cerberus
+1 Thought Vessel
+1 Yavimaya Steelcrusher
+1 Stone Retrieval Unit
+1 Torch Fiend
+1 Whiptail Moloch
+1 Vorrac Battlehorns
+1 Slumbering Tora
+1 Victorious Destruction
+1 Stalking Stones
+1 Éomer of the Riddermark
+1 Zuran Orb
+1 Wurmcoil Engine
+1 Urza's Blueprints
+1 Traxos, Scourge of Kroog
+1 Sweatworks Brawler
+1 Song of Totentanz
+1 Thriving Bluff
+1 Urabrask the Hidden
+1 Titan of Eternal Fire
+1 Turf War
+1 Volcano Hellion
+1 Spiked Pit Trap
+1 Thatcher Revolt
+1 Stadium Vendors
+1 Viridian Longbow
+1 Sword of the Meek
+1 Chaos Warp
+1 Vessel of Endless Rest
+{'overall': 5.191509433962264, 'cmc': 3.1176470588235294, 'ramp': '10', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}

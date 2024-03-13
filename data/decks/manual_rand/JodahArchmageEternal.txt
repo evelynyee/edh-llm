@@ -1,0 +1,69 @@
+1 Jodah, Archmage Eternal
+1 Zoologist
+1 Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier
+1 Wild Onslaught
+1 Woodland Stream
+1 Vigilant Martyr
+1 Unwavering Initiate
+1 Zuran Orb
+1 Wizard's Retort
+1 World-Weary
+1 Witherbloom Campus
+1 Vizier of the Menagerie
+1 Wildfield Borderpost
+1 Xander's Pact
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Urza, Lord High Artificer
+1 Wilt
+1 Walk the Aeons
+1 Urza's Blueprints
+1 Vadrok, Apex of Thunder
+1 Viashino Skeleton
+1 Woodland Acolyte // Mend the Wilds
+1 Wrath of God
+1 Whispersteel Dagger
+1 Thornscape Battlemage
+1 Yawgmoth's Will
+1 Tormenting Voice
+1 Words of Worship
+1 Young Blue Dragon // Sand Augury
+1 Yeva, Nature's Herald
+1 Zaxara, the Exemplary
+1 Yurlok of Scorch Thrash
+1 Weapon Surge
+1 Vex
+1 Veiling Oddity
+1 Walk with the Ancestors
+1 Voyager Drake
+1 Workshop Warchief
+1 Swords to Plowshares
+1 Ultramarines Honour Guard
+1 Unstable Hulk
+1 Seedborn Muse
+1 Unexpected Windfall
+1 Waterspout Elemental
+1 Visage of Bolas
+1 Volcanic Spray
+1 Whisperwood Elemental
+1 Winds of Abandon
+1 Diabolic Tutor
+1 Witchstalker Frenzy
+1 Welcome to . . . // Jurassic Park
+1 Zhentarim Bandit
+1 Windbrisk Heights
+1 Lightning Bolt
+1 Violent Eruption
+1 Tombstalker
+1 Zedruu the Greathearted
+1 Vexing Scuttler
+1 Witness of the Ages
+1 Unblinking Bleb
+1 Tolarian Geyser
+1 Veinwitch Coven
+1 Mind Stone
+1 Urborg Repossession
+1 Vineshaper Prodigy
+1 Trinisphere
+1 Wild Leotau
+{'overall': 8.122649572649573, 'cmc': 3.4925373134328357, 'ramp': '11', 'draw': '17', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}

@@ -1,0 +1,69 @@
+1 Orvar, the All-Form
+1 Tragic Lesson
+1 Thespian's Stage
+1 Train of Thought
+1 Umara Wizard // Umara Skyfalls
+1 Urza's Incubator
+1 Whetwheel
+1 The Blackstaff of Waterdeep
+1 Zahid, Djinn of the Lamp
+1 Vapor Snag
+1 Vorrac Battlehorns
+1 Thousand-Faced Shadow
+1 Undead Alchemist
+1 Storyteller Pixie
+1 Twiddle
+1 Synthesis Pod
+1 Unwind
+1 Vedalken Orrery
+1 Zoetic Glyph
+1 Wrong Turn
+1 Waterspout Weavers
+1 Turbulent Dreams
+1 Stormchaser Drake
+1 Vodalian Arcanist
+1 Transmute Artifact
+1 Ugin's Nexus
+1 Spell Shrivel
+1 Statute of Denial
+1 Staff of the Sun Magus
+1 Sigil Tracer
+1 Spyglass Siren
+1 Vhal, Candlekeep Researcher
+1 Vantress Paladin
+1 Teferi's Talent
+1 Wirefly Hive
+1 Urza, Lord High Artificer
+1 Unblinking Observer
+1 The Golden Throne
+1 Staff of the Death Magus
+1 Waylaying Pirates
+1 Trickster's Talisman
+1 Thassa, Deep-Dwelling
+1 Mana Drain
+1 Stubborn Denial
+1 Talent of the Telepath
+1 Swindler's Scheme
+1 Urza's Chalice
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Tunnel of Love
+1 Zephyr Singer
+1 Universal Solvent
+1 The Peregrine Dynamo
+1 Tezzeret, Cruel Machinist
+1 Steel Sabotage
+1 Verity Circle
+1 Stern Lesson
+1 Supplant Form
+1 Throne of Eldraine
+1 Sword of Once and Future
+1 Workshop Assistant
+1 Volrath's Shapeshifter
+1 Warden of Evos Isle
+1 Tooth of Chiss-Goria
+1 Vantress Transmuter // Croaking Curse
+1 Tolarian Kraken
+1 Twitch
+1 Summoner's Bane
+1 Tale's End
+{'overall': 5.526728110599079, 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}

@@ -1,0 +1,101 @@
+1 Autumn Willow
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Pincher Beetles
+1 Mist Leopard
+1 Kalonian Behemoth
+1 Humble Budoka
+1 Elvish Lookout
+1 Deadly Insect
+1 Hawkeater Moth
+1 Kodama of the North Tree
+1 Stonewood Invocation
+1 Plated Crusher
+1 Copper Host Crusher
+1 Blurred Mongoose
+1 Wardscale Crocodile
+1 Taoist Hermit
+1 Scaled Behemoth
+1 Sacred Wolf
+1 Rubbleback Rhino
+1 Primal Huntbeast
+1 Plated Slagwurm
+1 Gladecover Scout
+1 Conifer Strider
+1 Lightning Greaves
+1 Thrun, Breaker of Silence
+1 Shell Skulkin
+1 Skyshroud Blessing
+1 Gaea's Revenge
+1 Swiftfoot Boots
+1 Troll Ascetic
+1 Whispersilk Cloak
+1 Sylvan Safekeeper
+1 Mask of Avacyn
+1 Edifice of Authority
+1 Zuo Ci, the Mocking Sage
+1 Lurker
+1 Quagnoth
+1 Krosan Grip
+1 Steel Golem
+1 Grid Monitor
+1 Gaea's Herald
+1 Vine Mare
+1 Silhana Ledgewalker
+1 Staff of the Ages
+1 Legolas's Quick Reflexes
+1 Glaring Spotlight
+1 Cursed Totem
+1 Drill-Skimmer
+1 Canopy Cover
+1 Prowling Serpopard
+1 Carnage Tyrant
+1 Root Sliver
+1 Argothian Enchantress
+1 Null Rod
+1 Collector Ouphe
+1 Void Winnower
+1 Veilstone Amulet
+1 Vintara Snapper
+1 Woodcutter's Grit
+1 Tajuru Preserver
+1 Mobile Fort
+1 Grafdigger's Cage
+1 Hookhand Mariner // Riphook Raider
+1 Bind
+1 Suspicious Bookcase
+{'overall': 1.4303571428571429, 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '3', 'interaction': 2, 'folder': 'baseline', 'commander': 'AutumnWillow.txt'}

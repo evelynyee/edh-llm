@@ -1,0 +1,65 @@
+1 Rebbec, Architect of Ascension
+1 Mana Crypt
+1 Arcane Signet
+1 Thran Lens
+1 Sol Ring
+1 Vanish into Eternity
+1 Zhalfirin Void
+1 Silverwing Squadron
+1 War Room
+1 Wanderer's Twig
+1 Windswept Heath
+1 Verge Rangers
+1 Sun Titan
+1 Stoneforge Acolyte
+1 Wingsteed Rider
+1 White Mana Battery
+1 Traxos, Scourge of Kroog
+1 Thought-Knot Seer
+1 Sculpted Sunburst
+1 Spectral Rider
+1 Solemnity
+1 Austere Command
+1 Wand of Vertebrae
+1 Thalia, Heretic Cathar
+1 Slaughter the Strong
+1 Whirling Catapult
+1 Truce
+1 Spire of Industry
+1 Zuran Orb
+1 Seraph of the Masses
+1 Sanctum Prelate
+1 Tocasia's Welcome
+1 Zephyrim
+1 Sunfall
+1 Swashbuckler's Whip
+1 Trove Warden
+1 White Plume Adventurer
+1 Venerated Loxodon
+1 Star Compass
+1 Zuberi, Golden Feather
+1 Voidstone Gargoyle
+1 Snapsail Glider
+1 Sorcerous Spyglass
+1 Vizier of Remedies
+1 Treasure Map // Treasure Cove
+1 Sword of Hearth and Home
+1 Wayfaring Giant
+1 Winds of Abandon
+1 Vexilus Praetor
+1 Zhang Fei, Fierce Warrior
+1 Surging Sentinels
+1 War Elephant
+1 Ugin, the Spirit Dragon
+1 Ugin, the Ineffable
+1 Treasure Vault
+1 Swift Reckoning
+1 Throne of Makindi
+1 Vengeful Dreams
+1 Thran Quarry
+1 Unstable Frontier
+1 Terashi's Verdict
+1 Warping Wail
+1 Terashi's Grasp
+1 Triumph of Saint Katherine
+{'overall': 6.530851063829787, 'cmc': 2.9375, 'ramp': '10', 'draw': '11', 'interaction': 12, 'folder': 'gpt', 'commander': 'RebbecArchitectofAscension.txt'}

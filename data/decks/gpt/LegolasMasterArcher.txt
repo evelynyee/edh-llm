@@ -1,0 +1,65 @@
+1 Legolas, Master Archer
+1 Zendikar Resurgent
+1 Rampant Growth
+1 Doubling Season
+1 Seedborn Muse
+1 Wildcall
+1 Vizier of the Menagerie
+1 Yorvo, Lord of Garenbrig
+1 Vengevine
+1 Wrenn and Seven
+1 Vivien Reid
+1 Verdant Haven
+1 Bloom Tender
+1 Woodland Champion
+1 Vine Gecko
+1 Green Sun's Zenith
+1 Wild Onslaught
+1 Sylvan Yeti
+1 Weaver of Harmony
+1 Wildgrowth Walker
+1 Verdant Mastery
+1 Verdant Outrider
+1 Wildwood Mentor
+1 Vorinclex // The Grand Evolution
+1 Vedalken Orrery
+1 Threefold Signal
+1 Vivien, Champion of the Wilds
+1 Vivien's Invocation
+1 Sword of Truth and Justice
+1 Urza's Incubator
+1 Vivien, Monsters' Advocate
+1 The Great Henge
+1 Vivien, Arkbow Ranger
+1 Sol Ring
+1 Vorinclex, Monstrous Raider
+1 Vernal Bloom
+1 Ugin's Conjurant
+1 Sword of Light and Shadow
+1 Workshop Warchief
+1 Trollhide
+1 Setessan Tactics
+1 Wren's Run Vanquisher
+1 Thornbite Staff
+1 Sword of Hours
+1 Vastwood Surge
+1 Titanic Brawl
+1 Warping Wail
+1 Wild Instincts
+1 Terastodon
+1 Verdeloth the Ancient
+1 Urza's Chalice
+1 Viridian Corrupter
+1 Woodland Wanderer
+1 Thousand-Year Elixir
+1 Whalebone Glider
+1 Verdant Eidolon
+1 Spinning Wheel Kick
+1 Tropical Storm
+1 Toymaker
+1 Suncrusher
+1 Tablet of the Guilds
+1 Witchbane Orb
+1 Champion of Lambholt
+1 Thorn Lieutenant
+{'overall': 6.023991031390135, 'cmc': 3.484375, 'ramp': '12', 'draw': '8', 'interaction': 9, 'folder': 'gpt', 'commander': 'LegolasMasterArcher.txt'}

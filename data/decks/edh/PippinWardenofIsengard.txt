@@ -1,0 +1,64 @@
+1 Pippin, Warden of Isengard
+1 Rapacious Guest
+1 Savvy Hunter
+1 Revive the Shire
+1 Gilded Goose
+1 Sol Ring
+1 Command Tower
+1 Tireless Provisioner
+1 Peregrin Took
+1 Wicked Wolf
+1 Feasting Hobbit
+1 Shelob's Ambush
+1 Many Partings
+1 Jaheira, Friend of the Forest
+1 Night's Whisper
+1 Cultivate
+1 Arcane Signet
+1 Galadriel, Gift-Giver
+1 Feasting Troll King
+1 Gluttonous Troll
+1 Elanor Gardner
+1 Academy Manufactor
+1 Second Harvest
+1 Beast Within
+1 Rampant Growth
+1 Witch's Oven
+1 Trail of Crumbs
+1 Necroblossom Snarl
+1 Woodland Cemetery
+1 Motivated Pony
+1 Generous Ent
+1 Cauldron Familiar
+1 Stew the Coneys
+1 Go for the Throat
+1 Infernal Grasp
+1 Giant Opportunity
+1 Killer Service
+1 Evolving Wilds
+1 Old Flitterfang
+1 Experimental Confectioner
+1 Return from the Wilds
+1 Night of the Sweets' Revenge
+1 Restless Cottage
+1 Gempalm Polluter
+1 Risen Executioner
+1 Headless Rider
+1 Undead Augur
+1 Lord of the Accursed
+1 Cemetery Reaper
+1 Death-Priest of Myrkul
+1 Fierce Witchstalker
+1 Orchard Strider
+1 Death Baron
+1 Mushroom Watchdogs
+1 Lobelia, Defender of Bag End
+1 Meriadoc Brandybuck
+1 Brandywine Farmer
+1 Tempting Witch
+1 Shepherd of Rot
+1 Voracious Fell Beast
+1 Gyome, Master Chef
+1 Mirkwood Bats
+1 Sakura-Tribe Elder
+{'overall': 6.90391061452514, 'cmc': 2.8412698412698414, 'ramp': '15', 'draw': '9', 'interaction': 4, 'folder': 'edh', 'commander': 'PippinWardenofIsengard.txt'}

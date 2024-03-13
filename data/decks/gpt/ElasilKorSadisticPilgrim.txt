@@ -1,0 +1,67 @@
+1 Elas il-Kor, Sadistic Pilgrim
+1 Skemfar Avenger
+1 Tainted Sigil
+1 Damnation
+1 Thornbite Staff
+1 Toshiro Umezawa
+1 Stern Judge
+1 Takenuma Bleeder
+1 Stingblade Assassin
+1 Vampire Neonate
+1 Vampire Scrivener
+1 Vizkopa Guildmage
+1 Zulaport Cutthroat
+1 Vito, Thorn of the Dusk Rose
+1 Blood Artist
+1 Syr Ginger, the Meal Ender
+1 Victory's Envoy
+1 Whalebone Glider
+1 Trove Warden
+1 Take Vengeance
+1 Vampire's Bite
+1 Tormented Hero
+1 Woe Strider
+1 Vito, Fanatic of Aclazotz
+1 Wretched Anurid
+1 Vengeant Vampire
+1 Wretched Camel
+1 Tar Fiend
+1 Venomcrawler
+1 Wasteland Strangler
+1 Xathrid Demon
+1 Vona, Butcher of Magan
+1 Wingmate Roc
+1 Tithe Drinker
+1 Path to Exile
+1 Thopter Squadron
+1 Sword of the Meek
+1 Wretched Banquet
+1 Void Beckoner
+1 Whispering Snitch
+1 Teyo's Lightshield
+1 Territorial Hammerskull
+1 Tyrant's Machine
+1 Wedding Ring
+1 Treacherous Blessing
+1 Terashi's Verdict
+1 Triad of Fates
+1 Urza's Chalice
+1 Vraska's Contempt
+1 Wicked Visitor
+1 Urborg Justice
+1 Vampire Opportunist
+1 Woeleecher
+1 Vulturous Aven
+1 Will of the All-Hunter
+1 Vault Skirge
+1 Vampiric Feast
+1 Thoughtrender Lamia
+1 Spiteful Hexmage
+1 Talus Paladin
+1 Twilight Drover
+1 Withering Wisps
+1 White Plume Adventurer
+1 Umezawa's Charm
+1 Sunstrike Legionnaire
+1 Xenk, Paladin Unbroken
+{'overall': 3.2407766990291265, 'cmc': 3.121212121212121, 'ramp': '1', 'draw': '7', 'interaction': 12, 'folder': 'gpt', 'commander': 'ElasilKorSadisticPilgrim.txt'}

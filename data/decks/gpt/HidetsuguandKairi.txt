@@ -1,0 +1,64 @@
+1 Hidetsugu and Kairi
+1 Tezzeret, Agent of Bolas
+1 Wheel and Deal
+1 Whisper Agent
+1 Whispers of the Muse
+1 Wistful Thinking
+1 Unmoored Ego
+1 Stream of Thought
+1 Traumatic Visions
+1 Tolarian Winds
+1 Vampire Nocturnus
+1 Damnation
+1 Thief of Sanity
+1 Trinket Mage
+1 Tezzeret, Master of the Bridge
+1 Wizards of the _____
+1 Zhalfirin Void
+1 Well of Ideas
+1 Wake the Dead
+1 Stolen Goods
+1 Thassa's Intervention
+1 Thassa's Oracle
+1 Tolaria West
+1 Torrential Gearhulk
+1 Thoughtseize
+1 Wasteland Strangler
+1 Thought-Knot Seer
+1 Voidwielder
+1 Thought Distortion
+1 Venser, Shaper Savant
+1 Vile Entomber
+1 Tasha's Hideous Laughter
+1 Wayward Soul
+1 Vengeful Reaper
+1 Void Shatter
+1 Visions of Duplicity
+1 Surtland Elementalist
+1 Yuriko, the Tiger's Shadow
+1 Zombie Apocalypse
+1 Voidmage Husher
+1 Tourach's Canticle
+1 Thought Nibbler
+1 Welcome to the Fold
+1 The Magic Mirror
+1 Vampiric Tutor
+1 Virtus the Veiled
+1 Trinisphere
+1 Mana Vault
+1 Mana Drain
+1 Vexing Arcanix
+1 Viseling
+1 Sweet Oblivion
+1 Words of Wind
+1 Yawgmoth, Thran Physician
+1 Synchronized Eviction
+1 Tribute Mage
+1 Teferi's Wavecaster
+1 Tidespout Tyrant
+1 Ugin, the Ineffable
+1 Vex
+1 Unsubstantiate
+1 Counterspell
+1 Teferi's Tutelage
+{'overall': 6.865022421524664, 'cmc': 3.5396825396825395, 'ramp': '2', 'draw': '21', 'interaction': 11, 'folder': 'gpt', 'commander': 'HidetsuguandKairi.txt'}

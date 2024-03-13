@@ -1,0 +1,69 @@
+1 Emrakul, the Promised End
+1 Scrying Sheets
+1 Specter's Shroud
+1 Skullcage
+1 Phyrexian Grimoire
+1 Strength-Testing Hammer
+1 Vulshok Gauntlets
+1 Skullmead Cauldron
+1 Runed Arch
+1 Rhonas's Monument
+1 Skysovereign, Consul Flagship
+1 Stitcher's Graft
+1 Spire Golem
+1 Symmetry Matrix
+1 Staff of the Flame Magus
+1 Workshop Assistant
+1 Soul Separator
+1 Throne of Eldraine
+1 Rackling
+1 Tower of the Magistrate
+1 Su-Chi Cave Guard
+1 Steamclaw
+1 Ornate Kanzashi
+1 Utility Knife
+1 Sunbird Standard // Sunbird Effigy
+1 Viseling
+1 Warped Landscape
+1 The Deck of Many Things
+1 Tooth of Chiss-Goria
+1 Underdark Rift
+1 Void Winnower
+1 Patchwork Automaton
+1 TARDIS
+1 Salvaging Station
+1 Runesword
+1 Thermal Navigator
+1 The Moment
+1 Thought Dissector
+1 Urborg, Tomb of Yawgmoth
+1 Sword of Kaldra
+1 Slab Hammer
+1 Walking Skyscraper
+1 Shield of the Avatar
+1 Wolfhunter's Quiver
+1 Wedding Invitation
+1 Sorcerous Spyglass
+1 Salvager of Ruin
+1 Thundering Chariot
+1 Synod Sanctum
+1 True-Faith Censer
+1 Redemptor Dreadnought
+1 Ulamog's Crusher
+1 Thran Quarry
+1 Wooden Sphere
+1 Smuggler's Buggy
+1 Nullstone Gargoyle
+1 Well of Discovery
+1 Touchstone
+1 Trading Post
+1 Telethopter
+1 Staff of the Ages
+1 Staff of Domination
+1 Threefold Signal
+1 Verdant Catacombs
+1 Screaming Shield
+1 Reflecting Mirror
+1 Wine of Blood and Iron
+1 Thopter Assembly
+{'overall': 3.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '2', 'draw': '10', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}

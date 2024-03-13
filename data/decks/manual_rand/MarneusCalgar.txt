@@ -1,0 +1,69 @@
+1 Marneus Calgar
+1 The Council of Four
+1 Winter Eladrin
+1 Urza, Lord High Artificer
+1 Sworn Companions
+1 Umbral Juke
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Zygon Infiltrator
+1 Taste of Death
+1 Zamriel, Seraph of Steel
+1 Thalia's Geistcaller
+1 Warrior Angel
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Thraben Inspector
+1 Violet Pall
+1 Sweep the Skies
+1 Trial of Solidarity
+1 Wicked Guardian
+1 Tegwyll's Scouring
+1 Urza's Saga
+1 Twisted Sewer-Witch
+1 Visionary Augmenter
+1 Veteran's Armaments
+1 Thorn of the Black Rose
+1 Zephyr Sentinel
+1 The Cyber-Controller
+1 Windwright Mage
+1 Vindictive Vampire
+1 Mana Vault
+1 Swords to Plowshares
+1 Urza's Command
+1 Triton Waverider
+1 White Scarab
+1 The Raven Man
+1 Warren Weirding
+1 Voice of the Provinces
+1 Wanted Scoundrels
+1 Wingsteed Rider
+1 Whelming Wave
+1 Young Blue Dragon // Sand Augury
+1 Thopter Squadron
+1 Turn to Frog
+1 Will Kenrith
+1 White Sun's Zenith
+1 Wormfang Manta
+1 Thunderhawk Gunship
+1 Warrior's Honor
+1 Windstorm Drake
+1 Thieves' Tools
+1 Windgrace Acolyte
+1 Veteran Armorer
+1 Xiahou Dun, the One-Eyed
+1 Warrant // Warden
+1 Tawnos, Solemn Survivor
+1 Voice of Truth
+1 Wedding Invitation
+1 Waylaying Pirates
+1 Vampire Outcasts
+1 Teyo, Geometric Tactician
+1 Wurmcoil Engine
+1 Winged Sliver
+1 Counterspell
+1 Undercover Operative
+1 Willbreaker
+1 Toxrill, the Corrosive
+1 Thunder Totem
+1 Treasure Vault
+1 Tezzeret, Artifice Master
+{'overall': 5.000607287449393, 'cmc': 3.6323529411764706, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}

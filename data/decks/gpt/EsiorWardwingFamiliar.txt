@@ -1,0 +1,64 @@
+1 Esior, Wardwing Familiar
+1 Wheel and Deal
+1 Wandering Archaic // Explore the Vastlands
+1 Trinket Mage
+1 Sphinx's Tutelage
+1 Thought Scour
+1 Teferi's Response
+1 Whirlwind Denial
+1 Sphinx of Jwar Isle
+1 Counterspell
+1 Wistful Thinking
+1 Stream of Thought
+1 Zephyr Singer
+1 Vizier of the Anointed
+1 Windfall
+1 Teferi, Mage of Zhalfir
+1 Transmute Artifact
+1 Tolarian Kraken
+1 Thassa's Intervention
+1 Thassa, Deep-Dwelling
+1 Web of Inertia
+1 Well of Ideas
+1 Surtland Elementalist
+1 Waker of Waves
+1 War Room
+1 Wizards of the _____
+1 Thought Nibbler
+1 Unified Will
+1 Young Blue Dragon // Sand Augury
+1 Teferi's Talent
+1 Stolen Goods
+1 Tezzeret's Ambition
+1 The Magic Mirror
+1 Whirling Catapult
+1 Turn Aside
+1 Swashbuckler's Whip
+1 Synchronized Eviction
+1 Truth or Tale
+1 Thought-Knot Seer
+1 Winter's Chill
+1 Welcome to the Fold
+1 Visions of Beyond
+1 Toymaker
+1 Throne of Makindi
+1 Thassa, God of the Sea
+1 Talion's Messenger
+1 Veil of Secrecy
+1 Steelfin Whale
+1 Timesifter
+1 Tidal Barracuda
+1 Vexing Scuttler
+1 Wipe Away
+1 Tower of Fortunes
+1 Vexing Puzzlebox
+1 Voidmage Husher
+1 Urza's Rebuff
+1 Thassa's Rebuff
+1 War Tax
+1 Syncopate
+1 Tome Scour
+1 Whirlpool Whelm
+1 Winds of Rebuke
+1 Tasha's Hideous Laughter
+{'overall': 7.286046511627907, 'cmc': 3.4126984126984126, 'ramp': '2', 'draw': '23', 'interaction': 9, 'folder': 'gpt', 'commander': 'EsiorWardwingFamiliar.txt'}

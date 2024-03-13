@@ -1,0 +1,67 @@
+1 Aurelia, the Warleader
+1 Trusted Pegasus
+1 Topan Freeblade
+1 Valor
+1 Thunderstaff
+1 Thunder Strike
+1 Thorned Moloch
+1 The Chain Veil
+1 Warrior's Stand
+1 Vengeful Ancestor
+1 Void Winnower
+1 Unlikely Alliance
+1 Torrent of Lava
+1 Tuktuk Rubblefort
+1 Valduk, Keeper of the Flame
+1 Varchild, Betrayer of Kjeldor
+1 Talruum Champion
+1 Ward of Lights
+1 Viashino Spearhunter
+1 Talons of Falkenrath
+1 True Conviction
+1 Wojek Halberdiers
+1 Wings of the Cosmos
+1 Windbrisk Raptor
+1 Victory's Herald
+1 Viashino Weaponsmith
+1 Wedding Invitation
+1 Tajic, Legion's Edge
+1 Warmonger Hellkite
+1 Veteran's Voice
+1 Surge of Salvation
+1 Wingmate Roc
+1 Mind Stone
+1 Viashino Lashclaw
+1 Tah-Crop Elite
+1 Windborn Muse
+1 Twinflame
+1 Mana Vault
+1 Swords to Plowshares
+1 Wall of Swords
+1 Path to Exile
+1 Village Messenger // Moonrise Intruder
+1 Village Ironsmith // Ironfang
+1 War Elephant
+1 Thundermaw Hellkite
+1 Talon Sliver
+1 Soltari Lancer
+1 Veteran Swordsmith
+1 Teferi's Protection
+1 Zada, Hedron Grinder
+1 Veteran Armorsmith
+1 Urza's Engine
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Warmonger's Chariot
+1 Volcanic Strength
+1 Vengeful Devil
+1 Wall of Granite
+1 Wicker Warcrawler
+1 Volatile Claws
+1 Zhalfirin Knight
+1 Tectonic Rift
+1 Twinferno
+1 Weaselback Redcap
+1 Volcanic Rush
+1 Zada's Commando
+1 Warpath
+{'overall': 2.0255924170616115, 'cmc': 3.196969696969697, 'ramp': '2', 'draw': '2', 'interaction': 8, 'folder': 'gpt', 'commander': 'AureliatheWarleader.txt'}

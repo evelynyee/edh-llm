@@ -1,0 +1,101 @@
+1 Urabrask, Heretic Praetor
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Elkin Bottle
+1 Yasmin Khan
+1 Mishra's Bauble
+1 Elkin Lair
+1 Unlucky Witness
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Grinning Totem
+1 Bottled Cloister
+1 Ignorant Bliss
+1 Memory Jar
+1 Wrenn's Resolve
+1 Reckless Impulse
+1 Moonring Mirror
+1 Urza's Bauble
+1 Ring of Ma'rûf
+1 Lodestone Bauble
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Oracle's Vault
+1 Kyren Archive
+1 Commune with Lava
+1 Furious Rise
+1 Warehouse Thief
+1 Storybook Ride
+1 Ornate Kanzashi
+1 Flameskull
+1 Chaos Channeler
+1 Tuskeri Firewalker
+1 Uba Mask
+1 Wish
+1 Sensation Gorger
+1 Mangara's Tome
+1 Goblin Researcher
+1 Mishra's Research Desk
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Omen Machine
+1 Caves of Chaos Adventurer
+1 Chandra, Fire Artisan
+1 Mindstorm Crown
+1 Valakut Exploration
+1 Aladdin's Lamp
+1 Anvil of Bogardan
+1 Ignite the Future
+1 Dark-Dweller Oracle
+1 Galvanic Relay
+1 Act on Impulse
+1 Firestorm Phoenix
+1 Teferi's Puzzle Box
+1 Deceiver of Form
+1 Mudbutton Clanger
+1 Planebound Accomplice
+1 Rally the Horde
+1 Ghirapur Orrery
+1 Ardent Dustspeaker
+1 Feldon, Ronom Excavator
+1 Telim'Tor's Edict
+1 Faithless Salvaging
+1 Pyroclast Consul
+1 Ragavan, Nimble Pilferer
+1 Mercadian Atlas
+1 Cogwork Spy
+1 Surreal Memoir
+1 Underworld Breach
+1 Muse Vessel
+{'overall': 6.423065902578796, 'cmc': 3.49, 'ramp': '5', 'draw': '18', 'interaction': 2, 'folder': 'baseline', 'commander': 'UrabraskHereticPraetor.txt'}

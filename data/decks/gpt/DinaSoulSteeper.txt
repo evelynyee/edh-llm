@@ -1,0 +1,67 @@
+1 Dina, Soul Steeper
+1 Sol Ring
+1 Llanowar Elves
+1 Diabolic Tutor
+1 Mana Vault
+1 Animate Dead
+1 Whalebone Glider
+1 Warping Wail
+1 Willowdusk, Essence Seer
+1 Workshop Warchief
+1 Word of Binding
+1 Wake the Dead
+1 Thornbite Staff
+1 Urza's Chalice
+1 Tendrils of Corruption
+1 Vraska, Golgari Queen
+1 Rampant Growth
+1 Verdant Command
+1 Viridian Zealot
+1 Treetop Village
+1 Takenuma Bleeder
+1 Withering Wisps
+1 Vampire Neonate
+1 Veiled Shade
+1 Wight of Precinct Six
+1 Demonic Tutor
+1 Vengeant Earth
+1 Vraska the Unseen
+1 Triumph of Ferocity
+1 Stronghold Discipline
+1 Wretched Anurid
+1 Verdant Field
+1 Wound Reflection
+1 Vengeful Pharaoh
+1 Wasteland Strangler
+1 Unliving Psychopath
+1 Transmutation
+1 Tragic Fall
+1 Titanic Brawl
+1 Yew Spirit
+1 Tempting Licid
+1 Wildgrowth Walker
+1 Warden of the Woods
+1 Unnatural Endurance
+1 Weed Strangle
+1 Vampire's Kiss
+1 Waxing Moon
+1 Vampiric Sliver
+1 Unlikely Aid
+1 Thorn Lieutenant
+1 Wild Growth
+1 Vraska, Regal Gorgon
+1 Woodwraith Corrupter
+1 Toshiro Umezawa
+1 Vhati il-Dal
+1 Virulent Wound
+1 Undercity Uprising
+1 Vault Skirge
+1 Xathrid Demon
+1 Toymaker
+1 Tormented Hero
+1 Vraska's Contempt
+1 Thorntooth Witch
+1 Vampire's Bite
+1 Wedding Invitation
+1 Tropical Storm
+{'overall': 4.459677419354838, 'cmc': 2.8181818181818183, 'ramp': '6', 'draw': '6', 'interaction': 15, 'folder': 'gpt', 'commander': 'DinaSoulSteeper.txt'}

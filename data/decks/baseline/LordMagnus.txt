@@ -1,0 +1,101 @@
+1 Lord Magnus
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Deadfall
+1 Great Wall
+1 Kor Castigator
+1 Taoist Mystic
+1 Rolling Stones
+1 Novice Knight
+1 Bonded Construct
+1 Loyal Pegasus
+1 Wall of Swords
+1 Angelic Wall
+1 Skyscythe Engulfer
+1 Treetop Scout
+1 Wall of Wood
+1 Wall of Ice
+1 Steel Wall
+1 Guardians of Meletis
+1 Wall of Spears
+1 Song of Serenity
+1 Treetop Rangers
+1 Staff of the Ages
+1 Trusty Companion
+1 Heartwood Dryad
+1 Drowsing Tyrannodon
+1 Spire Tracer
+1 Shu Elite Companions
+1 Shu Cavalry
+1 Lady Zhurong, Warrior Queen
+1 Razorgrass Screen
+1 Trapped in the Tower
+1 Moat
+1 Magus of the Moat
+1 Zhang Fei, Fierce Warrior
+1 Shu General
+1 Animate Wall
+1 Eladamri, Lord of Leaves
+1 Canopy Cover
+1 Charging Rhino
+1 Wall of Vines
+1 Off Balance
+1 Jungle Lion
+1 Aesthir Glider
+1 Light of Day
+1 Silhana Ledgewalker
+1 Whispersilk Cloak
+1 Bristling Boar
+1 Stalking Tiger
+1 Ironhoof Ox
+1 Huang Zhong, Shu General
+1 Norwood Riders
+1 Spectral Grasp
+1 Kessig Prowler // Sinuous Predator
+1 Arrest
+1 Soltari Foot Soldier
+1 Prowler's Helm
+1 Blazing Archon
+1 Zuo Ci, the Mocking Sage
+1 Wall of Glare
+1 Juggernaut
+1 Elven Riders
+1 Wall of Light
+1 Soltari Priest
+1 Soltari Monk
+1 Orchard Spirit
+{'overall': 0.721311475409836, 'cmc': 2.772727272727273, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'LordMagnus.txt'}

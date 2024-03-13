@@ -1,0 +1,101 @@
+1 Muzzio, Visionary Architect
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Reality Heist
+1 Advice from the Fae
+1 Empty the Laboratory
+1 Merchant's Dockhand
+1 Smelting Vat
+1 Thassa's Oracle
+1 Machinate
+1 Wizards of the _____
+1 Voda Sea Scavenger
+1 Sinuous Benthisaur
+1 Worldly Counsel
+1 Forging the Anchor
+1 Heroes' Podium
+1 Invasion of Ravnica // Guildpact Paragon
+1 Interpret the Signs
+1 Ephara's Dispersal
+1 Chromescale Drake
+1 Erratic Mutation
+1 Pieces of the Puzzle
+1 Lapis Orb of Dragonkind
+1 Uncovered Clues
+1 Mass Polymorph
+1 Eye of Yawgmoth
+1 Sanity Grinding
+1 Tidal Courier
+1 Descendant of Soramaro
+1 Thran Spider
+1 Fathom Trawl
+1 Icon of Ancestry
+1 Meletis Astronomer
+1 Tezzeret's Gatebreaker
+1 Staunch Crewmate
+1 Farsight Ritual
+1 Curate
+1 Inscribed Tablet
+1 Citanul Flute
+1 See the Truth
+1 Faerie Mechanist
+1 Thought Dissector
+1 Glint-Nest Crane
+1 Augur of Bolas
+1 Unesh, Criosphinx Sovereign
+1 Spin into Myth
+1 Phyrexian Portal
+1 Condescend
+1 Horn of the Mark
+1 Peer Through Depths
+1 Glacian, Powerstone Engineer
+1 Narset, Parter of Veils
+1 Epiphany at the Drownyard
+1 Glint Raker
+1 Murmurs from Beyond
+1 Sea God's Revenge
+1 Mitotic Manipulation
+1 Scroll Rack
+1 Strategic Planning
+1 Glimpse the Future
+1 Naga Oracle
+1 Soothsaying
+1 Information Dealer
+1 Taigam's Scheming
+1 Contingency Plan
+1 Intuition
+{'overall': 11.65747663551402, 'cmc': 3.292307692307692, 'ramp': '1', 'draw': '43', 'interaction': 1, 'folder': 'baseline', 'commander': 'MuzzioVisionaryArchitect.txt'}

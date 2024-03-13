@@ -1,0 +1,101 @@
+1 Tor Wauki the Younger
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Pyromancer's Gauntlet
+1 Jaya, Venerated Firemage
+1 Sulfuric Vapors
+1 Satyr Firedancer
+1 Imodane, the Pyrohammer
+1 Torbran, Thane of Red Fell
+1 Mechanized Warfare
+1 Sulfurous Blast
+1 Embermaw Hellion
+1 Torch the Tower
+1 Flameblade Angel
+1 Searing Blaze
+1 Chandra's Incinerator
+1 Gratuitous Violence
+1 Furious Assault
+1 Angrath's Marauders
+1 Calamity Bearer
+1 Fiery Emancipation
+1 Pyromancer's Swath
+1 Lava Burst
+1 Underworld Fires
+1 Scepter of Empires
+1 Spikefield Hazard // Spikefield Cave
+1 Frost Bite
+1 Delirium
+1 Rending Flame
+1 Solphim, Mayhem Dominus
+1 Fire Servant
+1 Akki Lavarunner // Tok-Tok, Volcano Born
+1 Furnace of Rath
+1 Dictate of the Twin Gods
+1 Jeska, Thrice Reborn
+1 Arrow Storm
+1 Burning Hands
+1 Redcap Melee
+1 Unleash Shell
+1 Keral Keep Disciples
+1 Dry Spell
+1 Chandra, Awakened Inferno
+1 Guerrilla Tactics
+1 Invasion of Regatha // Disciples of the Inferno
+1 Toralf, God of Fury // Toralf's Hammer
+1 Carnival // Carnage
+1 Pillar of Flame
+1 Annihilating Fire
+1 Rankle and Torbran
+1 Serpentine Spike
+1 Weaver of Lightning
+1 Touch of the Void
+1 Tephraderm
+1 Molten Influence
+1 Incendiary Flow
+1 Gangrenous Zombies
+1 Thunderwave
+1 Sun-Crowned Hunters
+1 Pigment Storm
+1 Lava Spike
+1 Yamabushi's Flame
+1 Shower of Sparks
+1 Cuombajj Witches
+1 Frilled Deathspitter
+1 Chandra's Triumph
+1 Needle Drop
+{'overall': 3.434070796460177, 'cmc': 3.4242424242424243, 'ramp': '2', 'draw': '1', 'interaction': 42, 'folder': 'baseline', 'commander': 'TorWaukitheYounger.txt'}

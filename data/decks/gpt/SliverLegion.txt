@@ -1,0 +1,67 @@
+1 Sliver Legion
+1 Animate Dead
+1 Word of Binding
+1 Wildgrowth Walker
+1 War Mammoth
+1 Weight of Conscience
+1 Woodland Champion
+1 Woodfall Primus
+1 Vorinclex // The Grand Evolution
+1 Winged Sliver
+1 Whiptongue Hydra
+1 Volcanic Rush
+1 Venomcrawler
+1 Tide Drifter
+1 Wingspan Mentor
+1 Vrestin, Menoptra Leader
+1 Waveskimmer Aven
+1 Undercity Shade
+1 Wildfire Elemental
+1 Wingmate Roc
+1 Warlord's Fury
+1 Thundermaw Hellkite
+1 Willowdusk, Essence Seer
+1 Thrash of Raptors
+1 Voracious Dragon
+1 Vizkopa Vampire
+1 Yorvo, Lord of Garenbrig
+1 Birds of Paradise
+1 Zephyr Sprite
+1 Urban Daggertooth
+1 Tromp the Domains
+1 Valorous Charge
+1 Windbrisk Raptor
+1 Zulaport Chainmage
+1 Zurgo Helmsmasher
+1 Swords to Plowshares
+1 Veil of Assimilation
+1 Vineshaper Mystic
+1 Zephyr Sentinel
+1 Voracious Wurm
+1 Young Blue Dragon // Sand Augury
+1 Witch's Vengeance
+1 Wolverine Pack
+1 Zabaz, the Glimmerwasp
+1 Seedborn Muse
+1 Tuktuk Grunts
+1 Vedalken Humiliator
+1 Vitalize
+1 Vines of the Recluse
+1 Trostani Discordant
+1 Diabolic Tutor
+1 Zhang Fei, Fierce Warrior
+1 Zelyon Sword
+1 Warrior's Stand
+1 Yeva's Forcemage
+1 Wave-Wing Elemental
+1 Whitewater Naiads
+1 Wren's Run Packmaster
+1 Voltaic Brawler
+1 Viridian Betrayers
+1 Xenk, Paladin Unbroken
+1 Workhorse
+1 Yellow Scarves Cavalry
+1 Viridian Corrupter
+1 Vodalian Wave-Knight
+1 Veteran Armorer
+{'overall': 2.9593220338983053, 'cmc': 3.5757575757575757, 'ramp': '4', 'draw': '4', 'interaction': 8, 'folder': 'gpt', 'commander': 'SliverLegion.txt'}

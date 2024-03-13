@@ -1,0 +1,65 @@
+1 Tromokratis
+1 Thalakos Deceiver
+1 Mulldrifter
+1 Thalakos Seer
+1 Tishana's Tidebinder
+1 Unctus's Retrofitter
+1 Vhal, Candlekeep Researcher
+1 Thunder Wall
+1 Thran Weaponry
+1 Tolaria
+1 Wu Elite Cavalry
+1 Wavecrash Triton
+1 Tamiyo, the Moon Sage
+1 Trained Condor
+1 Vial of Poison
+1 Zephyr Boots
+1 Unerring Sling
+1 Well of Discovery
+1 Wall of Kelp
+1 Vronos, Masked Inquisitor
+1 Static Orb
+1 Willbreaker
+1 Thing from the Deep
+1 Vault Skyward
+1 Wanderwine Prophets
+1 Winged Words
+1 Thassa's Ire
+1 Vortex Elemental
+1 Voltaic Servant
+1 Mana Drain
+1 Counterspell
+1 Force of Will
+1 Cyclonic Rift
+1 Teferi, Master of Time
+1 Tolarian Kraken
+1 Thada Adel, Acquisitor
+1 Sun Quan, Lord of Wu
+1 Sphinx of the Final Word
+1 Time Stretch
+1 Tidal Kraken
+1 Teferi, Timeless Voyager
+1 Tempest Caller
+1 Vodalian Serpent
+1 Tandem Lookout
+1 Whelming Wave
+1 Tidal Force
+1 Vedalken Shackles
+1 Thieving Magpie
+1 Thalakos Mistfolk
+1 Stronghold Zeppelin
+1 Vedalken Mesmerist
+1 Tidal Barracuda
+1 Chrome Mox
+1 Training Grounds
+1 Wondrous Crucible
+1 Surge Mare
+1 Verity Circle
+1 Thirst
+1 Mana Vault
+1 Sol Ring
+1 Steel Golem
+1 Take into Custody
+1 Vedalken Infiltrator
+1 Time Warp
+{'overall': 5.751724137931035, 'cmc': 3.625, 'ramp': '5', 'draw': '14', 'interaction': 9, 'folder': 'gpt', 'commander': 'Tromokratis.txt'}

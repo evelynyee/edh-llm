@@ -17,7 +17,7 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
     cur_power = 0
     client = OpenAI()
     start_time = time.time()
-    with open(os.path.abspath('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt'), "a+") as file:
+    with open(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'), "a+") as file:
         file.seek(0)
         if (len(file.readlines()) == 0):
             file.write("1 " + cmdr + "\n")
@@ -39,7 +39,7 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
                 ]
                 )
             except:
-                time.sleep(60*60)
+                time.sleep(60)
                 build_deck(commander)
 
         picked = completion.choices[0].message.content.split('; ')
@@ -70,7 +70,7 @@ os.rename('data/temp_deck.txt', 'data/'+"".join(x for x in cmdr if x.isalnum())+
             file.seek(0)
             if len(file.readlines()) > 6:
                 try:
-                    cur_power = calculate_power('../data/completed/'+"".join(x for x in cmdr if x.isalnum())+'.txt')
+                    cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
                 except Exception as e:
                     print(e)
                     time.sleep(60*60)

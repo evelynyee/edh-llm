@@ -1,0 +1,65 @@
+1 Bill the Pony
+1 Wurmcoil Engine
+1 Smothering Tithe
+1 Sol Ring
+1 Arcane Signet
+1 Mana Crypt
+1 War Report
+1 Austere Command
+1 Thran Quarry
+1 Sorcerer's Wand
+1 Sword of Truth and Justice
+1 Teyo, the Shieldmage
+1 Tower of Calamities
+1 Sword of War and Peace
+1 Sword of Light and Shadow
+1 Thalia's Geistcaller
+1 Shield of Kaldra
+1 Tanglebloom
+1 Weatherlight Compleated
+1 Whirlermaker
+1 Waylay
+1 Silverwing Squadron
+1 Wingmate Roc
+1 Taranika, Akroan Veteran
+1 Warden of the Wall
+1 War Room
+1 Surestrike Trident
+1 Sunscourge Champion
+1 Skysovereign, Consul Flagship
+1 Sword of Hours
+1 Slaughter the Strong
+1 Sunfall
+1 Solitude
+1 Synod Centurion
+1 Stern Judge
+1 Whalebone Glider
+1 Take Vengeance
+1 Towashi Guide-Bot
+1 Shrine of Loyal Legions
+1 Zephyrim
+1 Surge of Salvation
+1 Terashi's Verdict
+1 Valiant Changeling
+1 Stormfront Riders
+1 White Plume Adventurer
+1 Toymaker
+1 Thornbite Staff
+1 Tempered Steel
+1 Thraben Standard Bearer
+1 Whirling Catapult
+1 Treasure Vault
+1 Treasure Map // Treasure Cove
+1 Transmogrifying Wand
+1 Ugin, the Spirit Dragon
+1 Wojek Siren
+1 Starlight
+1 Sunstrike Legionnaire
+1 Soldier Replica
+1 Skittering Invasion
+1 Spectral Procession
+1 Thraben Inspector
+1 Venerated Loxodon
+1 Topan Freeblade
+1 Seraph of the Suns
+{'overall': 4.7932160804020105, 'cmc': 3.109375, 'ramp': '7', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'BillthePony.txt'}

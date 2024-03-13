@@ -1,0 +1,101 @@
+1 Odric, Lunarch Marshal
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Concerted Effort
+1 Thunderous Orator
+1 Zetalpa, Primal Dawn
+1 Goring Ceratops
+1 Sunblade Angel
+1 True Conviction
+1 Lone Rider // It That Rides as One
+1 Lancer Sliver
+1 Baneslayer Angel
+1 Eater of Virtue
+1 Akroma's Memorial
+1 Sanctified Charge
+1 Angelic Skirmisher
+1 Knighthood
+1 Kinsbaile Cavalier
+1 Shepherd of the Lost
+1 Power Matrix
+1 Gearshift Ace
+1 Aerial Responder
+1 Sanctuary Raptor
+1 Talon Sliver
+1 Ballroom Brawlers
+1 Pilgrim of the Fires
+1 Longbow Archer
+1 Thraben Sentry // Thraben Militia
+1 Pardic Wanderer
+1 Moorish Cavalry
+1 Jhovall Rider
+1 Iron Tusk Elephant
+1 Eldrazi Devastator
+1 Ebony Rhino
+1 Chieftain en-Dal
+1 Seraph of Dawn
+1 Healer's Hawk
+1 Healer's Flock
+1 Toolcraft Exemplar
+1 Swift Justice
+1 Aerial Maneuver
+1 Nightguard Patrol
+1 Akroma, Angel of Wrath
+1 Sword of Vengeance
+1 Duelcraft Trainer
+1 Argivian Avenger
+1 Glorious Enforcer
+1 Kor Blademaster
+1 Syr Alin, the Lion's Claw
+1 Archetype of Courage
+1 Skyhunter Skirmisher
+1 Yotian Medic
+1 Story Seeker
+1 Steadfast Paladin
+1 Mesa Unicorn
+1 Golden-Tail Disciple
+1 Bishop's Soldier
+1 Ambitious Farmhand // Seasoned Cathar
+1 Alabaster Host Sanctifier
+1 Yotian Soldier
+1 Thraben Valiant
+1 Standing Troops
+1 Realm-Cloaked Giant // Cast Off
+1 Maned Serval
+1 Lonesome Unicorn // Rider in Need
+1 Jhovall Queen
+{'overall': 1.0538759689922481, 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '1', 'interaction': 1, 'folder': 'baseline', 'commander': 'OdricLunarchMarshal.txt'}

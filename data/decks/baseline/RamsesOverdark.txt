@@ -1,0 +1,101 @@
+1 Ramses Overdark
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Feast of Dreams
+1 Merfolk Assassin
+1 Cast Down
+1 Eyeblight's Ending
+1 Rend Flesh
+1 Chill to the Bone
+1 Ultimate Price
+1 Power Word Kill
+1 Victim of Night
+1 Walk the Plank
+1 Murder
+1 Impale
+1 Eviscerate
+1 Hand of Death
+1 Ghostly Visit
+1 Doom Blade
+1 Human Frailty
+1 Go for the Throat
+1 Claim the Precious
+1 Daring Demolition
+1 Asphyxiate
+1 Hero's Demise
+1 Never // Return
+1 Hero's Downfall
+1 Finishing Blow
+1 Spiteful Blow
+1 Stronghold Assassin
+1 Royal Assassin
+1 Death Stroke
+1 Assassinate
+1 Imperial Edict
+1 Kindly Stranger // Demon-Possessed Witch
+1 Stream of Acid
+1 Twisted Embrace
+1 Cradle to Grave
+1 Yoke of the Damned
+1 Octopus Umbra
+1 Dark Betrayal
+1 Liliana's Talent
+1 Ghostly Touch
+1 Rend Spirit
+1 Consign to the Pit
+1 Psionic Gift
+1 Hermetic Study
+1 Creature Bond
+1 Heavy Arbalest
+1 Charisma
+1 Spinal Graft
+1 Contaminated Bond
+1 Acidic Dagger
+1 Viscerid Drone
+1 Frozen Solid
+1 Rootwater Matriarch
+1 Disarm
+1 Defenestrate
+1 Mage Hunters' Onslaught
+1 Brink of Disaster
+1 Vraska's Finisher
+1 Mire Blight
+1 Takklemaggot
+1 Shuriken
+1 Triangle of War
+1 Necrotic Plague
+{'overall': 3.155882352941177, 'cmc': 2.8333333333333335, 'ramp': '0', 'draw': '0', 'interaction': 49, 'folder': 'baseline', 'commander': 'RamsesOverdark.txt'}

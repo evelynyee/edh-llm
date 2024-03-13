@@ -1,0 +1,65 @@
+1 The Fugitive Doctor
+1 Uncontrollable Anger
+1 Llanowar Elves
+1 Sylvan Library
+1 Sylvan Might
+1 Vessel of Nascency
+1 Traverse the Ulvenwald
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Wood Elves
+1 Yisan, the Wanderer Bard
+1 Wildfire Eternal
+1 Thunderkin Awakener
+1 Stone Calendar
+1 Wildfire Devils
+1 Vizier of the Menagerie
+1 Unnatural Moonrise
+1 Worldly Tutor
+1 Sylvan Bounty
+1 Rampant Growth
+1 Unstable Footing
+1 Thornscape Familiar
+1 Viridian Zealot
+1 Thunderscape Familiar
+1 Vexing Arcanix
+1 Unlucky Witness
+1 Vivien's Invocation
+1 Through the Breach
+1 Warcry Phoenix
+1 Vivien Reid
+1 Chaos Warp
+1 Underworld Breach
+1 Talara's Battalion
+1 Throes of Chaos
+1 Vedalken Orrery
+1 Verdant Command
+1 Urza's Incubator
+1 Volcanic Vision
+1 Vandalblast
+1 Wild Magic Surge
+1 Vulshok Morningstar
+1 Staggershock
+1 Wild Mongrel
+1 Taunting Arbormage
+1 Vivien's Arkbow
+1 Ugin, the Spirit Dragon
+1 Sylvan Hierophant
+1 Verdant Confluence
+1 Mana Vault
+1 Vine Kami
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Verdant Catacombs
+1 Wirewood Guardian
+1 Violent Impact
+1 Winding Canyons
+1 World at War
+1 Zendikar Resurgent
+1 Wandering Archaic // Explore the Vastlands
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Wreak Havoc
+1 Vorinclex // The Grand Evolution
+1 Tectonic Reformation
+1 Storm the Festival
+1 Tangle Spider
+1 Vengevine
+{'overall': 7.171428571428571, 'cmc': 3.5, 'ramp': '11', 'draw': '14', 'interaction': 7, 'folder': 'gpt', 'commander': 'TheFugitiveDoctor.txt'}

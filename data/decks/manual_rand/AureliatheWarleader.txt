@@ -1,0 +1,69 @@
+1 Aurelia, the Warleader
+1 Wildfire Elemental
+1 Valduk, Keeper of the Flame
+1 Wall of Caltrops
+1 Tenth District Veteran
+1 Zhang Fei, Fierce Warrior
+1 Taunting Kobold
+1 Viashino Spearhunter
+1 Woolly Razorback
+1 Weathered Bodyguards
+1 Yotian Medic
+1 Valor
+1 White Dragon
+1 Wall of Faith
+1 Word of Seizing
+1 Skyhunter Patrol
+1 Veteran Bodyguard
+1 Umbral Mantle
+1 Wild Griffin
+1 Vow of Duty
+1 Volcanic Strength
+1 Surge of Salvation
+1 White Ward
+1 Youthful Knight
+1 White Shield Crusader
+1 Wingbeat Warrior
+1 Éowyn, Fearless Knight
+1 Tegan Jovanka
+1 Viashino Lashclaw
+1 Wall of Fire
+1 Soltari Trooper
+1 Thundermaw Hellkite
+1 Sword of the Paruns
+1 Zealot's Conviction
+1 Zealous Inquisitor
+1 Unerring Sling
+1 Village Messenger // Moonrise Intruder
+1 Windshaper Planetar
+1 Éowyn, Lady of Rohan
+1 Wall of Diffusion
+1 Winds of Rath
+1 Towering Thunderfist
+1 Vow of Lightning
+1 Well of Life
+1 Trapped in the Tower
+1 Trailblazing Historian
+1 The Akroan War
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Zalto, Fire Giant Duke
+1 Witch Hunt
+1 Toolcraft Exemplar
+1 The Wandering Emperor
+1 Warmonger
+1 Weapon Surge
+1 Vengeful Ancestor
+1 War-Name Aspirant
+1 Unchained Berserker
+1 Veteran Dungeoneer
+1 Windseeker Centaur
+1 Talruum Piper
+1 Steadfast Guard
+1 Welkin Guide
+1 Soltari Lancer
+1 Swooping Pteranodon
+1 Veteran Armorer
+1 Walking Bulwark
+1 Warrior's Stand
+1 Warning
+{'overall': 1.3153846153846154, 'cmc': 3.25, 'ramp': '0', 'draw': '1', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AureliatheWarleader.txt'}

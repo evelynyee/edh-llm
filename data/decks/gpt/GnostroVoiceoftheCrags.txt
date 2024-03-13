@@ -1,0 +1,67 @@
+1 Gnostro, Voice of the Crags
+1 Wheel of Fate
+1 Time Warp
+1 Thassa's Intervention
+1 Thought Sponge
+1 Zurgo and Ojutai
+1 Whalebone Glider
+1 Tyrant of Valakut
+1 Tzaangor Shaman
+1 Toralf, God of Fury // Toralf's Hammer
+1 Voracious Dragon
+1 Volcanic Geyser
+1 Stormbreath Dragon
+1 Mana Drain
+1 Vanquish the Foul
+1 Tower of Murmurs
+1 Tragic Arrogance
+1 Vexing Arcanix
+1 Warstorm Surge
+1 Vanish into Eternity
+1 Welcome to the Fold
+1 Thunderbreak Regent
+1 Volcano Hellion
+1 Thunder of Hooves
+1 Wistful Thinking
+1 Wheel and Deal
+1 Viashino Heretic
+1 Zephyrim
+1 Unified Will
+1 Wandering Archaic // Explore the Vastlands
+1 Walking Skyscraper
+1 Wind-Kin Raiders
+1 Vertigo
+1 Unified Strike
+1 Wizards of the _____
+1 War Room
+1 Winter's Chill
+1 Witch Hunt
+1 Structural Assault
+1 Wayward Guide-Beast
+1 Zellix, Sanity Flayer
+1 Urza's Rebuff
+1 Wildfire Devils
+1 Whispers of the Muse
+1 Thunderclap
+1 Tezzeret's Gambit
+1 Twinning Staff
+1 Worldly Counsel
+1 Whirlpool Whelm
+1 Vitality Hunter
+1 Void Shatter
+1 Torch the Tower
+1 Zephyr Singer
+1 Whir of Invention
+1 Zabaz, the Glimmerwasp
+1 Trumpeting Carnosaur
+1 Telim'Tor's Darts
+1 Vial of Poison
+1 Whims of the Fates
+1 Weight of Spires
+1 Twinferno
+1 Vivisurgeon's Insight
+1 Sword of War and Peace
+1 Zulaport Duelist
+1 Winds of Change
+1 Swords to Plowshares
+{'overall': 5.441928251121077, 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '14', 'interaction': 22, 'folder': 'gpt', 'commander': 'GnostroVoiceoftheCrags.txt'}

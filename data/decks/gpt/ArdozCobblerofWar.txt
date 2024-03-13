@@ -1,0 +1,66 @@
+1 Ardoz, Cobbler of War
+1 Thunder Dragon
+1 Thundermaw Hellkite
+1 Thunderkin Awakener
+1 Thunderstaff
+1 Thunder Brute
+1 Toralf, God of Fury // Toralf's Hammer
+1 Thrash of Raptors
+1 Whalebone Glider
+1 Zelyon Sword
+1 Treasure Nabber
+1 Tilonalli's Crown
+1 Zealous Conscripts
+1 Warstorm Surge
+1 Vandalblast
+1 Spellbinding Soprano
+1 Wildfire Elemental
+1 Wildfire Emissary
+1 Volcanic Offering
+1 Smelt-Ward Ignus
+1 Storm-Kiln Artist
+1 Wurmcoil Engine
+1 Teeterpeak Ambusher
+1 Searing Barb
+1 Wave of Indifference
+1 Thornbite Staff
+1 Vampiric Fury
+1 Titan Forge
+1 Thundermare
+1 Sword of the Chosen
+1 Slagwurm Armor
+1 Sword of Hearth and Home
+1 Sarkhan the Masterless
+1 Sol Ring
+1 Arcane Signet
+1 Abrade
+1 Thopter Engineer
+1 Ugin, the Ineffable
+1 Sorcerer's Broom
+1 Vampires' Vengeance
+1 Storm Strike
+1 Trading Post
+1 Sai of the Shinobi
+1 Slab Hammer
+1 Trove of Temptation
+1 Twinflame
+1 Sneak Attack
+1 Young Pyromancer
+1 Vengeful Firebrand
+1 Warping Wail
+1 Warlord's Fury
+1 Whirlermaker
+1 Tyrite Sanctum
+1 Valor Singer
+1 Thunderous Might
+1 Tuktuk Rubblefort
+1 Sokenzan, Crucible of Defiance
+1 Spawning Breath
+1 Tarox Bladewing
+1 Unnatural Speed
+1 Torch Gauntlet
+1 Spontaneous Artist
+1 Song of Totentanz
+1 Thunder Strike
+1 Swashbuckling
+{'overall': 4.184210526315789, 'cmc': 2.923076923076923, 'ramp': '7', 'draw': '4', 'interaction': 15, 'folder': 'gpt', 'commander': 'ArdozCobblerofWar.txt'}

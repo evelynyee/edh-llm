@@ -1,0 +1,69 @@
+1 Yarok, the Desecrated
+1 Wedding Invitation
+1 Vodalian Serpent
+1 Sylvan Echoes
+1 Wall of Deceit
+1 Tiller Engine
+1 Woodcutter's Grit
+1 Titania's Chosen
+1 Wirewood Symbiote
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Vampire Lacerator
+1 Voracious Null
+1 Wings of Hubris
+1 Twincast
+1 Zulaport Enforcer
+1 Thassa's Rebuff
+1 Virtue of Knowledge // Vantress Visions
+1 Volo, Itinerant Scholar
+1 Withering Boon
+1 Willow Satyr
+1 Veilstone Amulet
+1 War Tax
+1 Tale's End
+1 Vedalken Archmage
+1 Virulent Swipe
+1 Waterspout Elemental
+1 Svyelun of Sea and Sky
+1 Weapon Rack
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Witherbloom Pledgemage
+1 Wizard Replica
+1 Urborg Repossession
+1 Willbender
+1 Wingfold Pteron
+1 Walker of the Grove
+1 Wandering Archaic // Explore the Vastlands
+1 Wall of Frost
+1 Thrull Parasite
+1 Zuo Ci, the Mocking Sage
+1 The Everflowing Well // The Myriad Pools
+1 Llanowar Elves
+1 Verazol, the Split Current
+1 Unblinking Observer
+1 Wild Growth
+1 Withdraw
+1 Zygon Infiltrator
+1 Toshiro Umezawa
+1 Wren's Run Vanquisher
+1 Unspeakable Symbol
+1 Zagoth Mamba
+1 Vodalian Mystic
+1 Umara Entangler
+1 Treacherous Blessing
+1 Whip of Erebos
+1 Timbermare
+1 Take Possession
+1 Wild Onslaught
+1 Teferi's Talent
+1 Treetop Ambusher
+1 Umara Wizard // Umara Skyfalls
+1 Vodalian Knights
+1 Well of Life
+1 Urborg Skeleton
+1 Wreck Hunter
+1 Villagers of Estwald // Howlpack of Estwald
+1 Vodalian Hexcatcher
+1 Zephyr Singer
+1 The Watcher in the Water
+{'overall': 4.360194174757281, 'cmc': 3.0294117647058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}

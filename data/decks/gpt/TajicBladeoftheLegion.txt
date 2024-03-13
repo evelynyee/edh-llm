@@ -1,0 +1,65 @@
+1 Tajic, Blade of the Legion
+1 Thraben Valiant
+1 Viashino Spearhunter
+1 Teeterpeak Ambusher
+1 White Plume Adventurer
+1 Xenk, Paladin Unbroken
+1 Thrash of Raptors
+1 Stoic Champion
+1 Takeno's Cavalry
+1 Zhang Fei, Fierce Warrior
+1 Wildfire Elemental
+1 Whalebone Glider
+1 Wildfire Emissary
+1 Thundermaw Hellkite
+1 Village Watch // Village Reavers
+1 Thundersong Trumpeter
+1 Zealous Strike
+1 Warlord's Fury
+1 Vengeful Firebrand
+1 Soltari Crusader
+1 Soltari Emissary
+1 Tilonalli's Knight
+1 Tectonic Rift
+1 Thopter Architect
+1 Territorial Hammerskull
+1 Wardscale Dragon
+1 Wingmate Roc
+1 Vizier of the True
+1 Valorous Charge
+1 Vedalken Shackles
+1 Umbral Mantle
+1 Swords to Plowshares
+1 Mana Vault
+1 Winds of Rath
+1 Takeno, Samurai General
+1 Weaselback Redcap
+1 Surge of Salvation
+1 Tandem Tactics
+1 Vengeful Ancestor
+1 Stone Haven Outfitter
+1 Thundersteel Colossus
+1 Unnatural Speed
+1 Talruum Champion
+1 Volcanic Rush
+1 Tuktuk Rubblefort
+1 Veteran Armorer
+1 Treasure Nabber
+1 Umezawa's Jitte
+1 Thunderstaff
+1 Thran Golem
+1 Yavimaya Steelcrusher
+1 Wildfire Cerberus
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Wall of Opposition
+1 Stone Spirit
+1 Temur Battle Rage
+1 Path to Exile
+1 Valor Singer
+1 Viridian Claw
+1 Ulamog's Crusher
+1 Thousand-Year Elixir
+1 Soltari Champion
+1 Tormentor's Trident
+1 Vow of Lightning
+{'overall': 1.8509389671361502, 'cmc': 3.328125, 'ramp': '1', 'draw': '2', 'interaction': 10, 'folder': 'gpt', 'commander': 'TajicBladeoftheLegion.txt'}

@@ -1,0 +1,69 @@
+1 Miirym, Sentinel Wyrm
+1 Zoetic Glyph
+1 Thijarian Witness
+1 Wild Defiance
+1 Zo-Zu the Punisher
+1 Swan Song
+1 Wort, the Raidmother
+1 Young Blue Dragon // Sand Augury
+1 Yellow Scarves General
+1 Titania's Song
+1 Urza's Saga
+1 Vedalken Humiliator
+1 Titania, Gaea Incarnate
+1 Ulasht, the Hate Seed
+1 Vivid Flying Fish
+1 Welkin Tern
+1 Voice of the Woods
+1 Volrath's Curse
+1 Wirefly Hive
+1 Young Red Dragon // Bathe in Gold
+1 Zephyr Singer
+1 Warping Wail
+1 Voltaic Construct
+1 Webspinner Cuff
+1 Windswift Slice
+1 Whiplash Trap
+1 The Eleventh Hour
+1 Yavimaya Dryad
+1 Thrash // Threat
+1 Twists and Turns // Mycoid Maze
+1 Tangled Skyline
+1 Traproot Kami
+1 Warcry Phoenix
+1 Wirewood Hivemaster
+1 Twincast
+1 Talrand's Invocation
+1 Undead Alchemist
+1 Wily Goblin
+1 You've Been Caught Stealing
+1 Wings of Hubris
+1 Waiting in the Weeds
+1 Triplicate Titan
+1 Wind Spirit
+1 Viashino Sandstalker
+1 Wandering Archaic // Explore the Vastlands
+1 The Hive
+1 Winged Sliver
+1 Whelming Wave
+1 Wingrattle Scarecrow
+1 Zephyr Sentinel
+1 Tidal Wave
+1 Young Blue Dragon // Sand Augury
+1 Thunderkin Awakener
+1 Wrecking Beast
+1 Tooth and Claw
+1 Thatcher Revolt
+1 Walker of the Grove
+1 Tiamat's Fanatics
+1 Varchild's Crusader
+1 Whiptail Moloch
+1 Wirewood Savage
+1 Wolf's Quarry
+1 Vigean Hydropon
+1 Zurzoth, Chaos Rider
+1 Viridian Revel
+1 Turn // Burn
+1 Swarming of Moria
+1 Wu Elite Cavalry
+{'overall': 4.196938775510204, 'cmc': 3.656716417910448, 'ramp': '7', 'draw': '6', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'MiirymSentinelWyrm.txt'}

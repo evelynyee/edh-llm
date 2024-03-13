@@ -1,0 +1,101 @@
+1 Lyra Dawnbringer
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Zetalpa, Primal Dawn
+1 Sunblade Angel
+1 True Conviction
+1 Thunderous Orator
+1 Lone Rider // It That Rides as One
+1 Baneslayer Angel
+1 Kinsbaile Cavalier
+1 Shepherd of the Lost
+1 Kor Blademaster
+1 Lancer Sliver
+1 Aerial Responder
+1 Concerted Effort
+1 Raksha Golden Cub
+1 Knighthood
+1 Kithkin Greatheart
+1 Kwende, Pride of Femeref
+1 Nightguard Patrol
+1 Pilgrim of the Fires
+1 Skyhunter Skirmisher
+1 Seraph of Dawn
+1 Healer's Hawk
+1 Healer's Flock
+1 Thraben Watcher
+1 Akroma's Memorial
+1 Yotian Soldier
+1 Thraben Valiant
+1 Standing Troops
+1 Realm-Cloaked Giant // Cast Off
+1 Maned Serval
+1 Lonesome Unicorn // Rider in Need
+1 Jhovall Queen
+1 Border Patrol
+1 Ardent Militia
+1 Alert Shu Infantry
+1 Alaborn Grenadier
+1 Affa Protector
+1 Yotian Medic
+1 Story Seeker
+1 Steadfast Paladin
+1 Mesa Unicorn
+1 Golden-Tail Disciple
+1 Bishop's Soldier
+1 Ambitious Farmhand // Seasoned Cathar
+1 Alabaster Host Sanctifier
+1 Eater of Virtue
+1 Swooping Lookout
+1 Skyshroud Falcon
+1 Serra Angel
+1 Segovian Angel
+1 Invasion of Dominaria // Serra Faithkeeper
+1 Hovermyr
+1 Ghostly Sentinel
+1 Eagle of the Watch
+1 Diving Griffin
+1 Crystal Dragon // Rob the Hoard
+1 Courier Hawk
+1 Armored Griffin
+1 Archangel
+1 Angel of Light
+1 Alabaster Kirin
+1 Abbey Griffin
+1 Dragonloft Idol
+1 Sword of Vengeance
+{'overall': 1.3371900826446281, 'cmc': 3.723076923076923, 'ramp': '1', 'draw': '2', 'interaction': 1, 'folder': 'baseline', 'commander': 'LyraDawnbringer.txt'}

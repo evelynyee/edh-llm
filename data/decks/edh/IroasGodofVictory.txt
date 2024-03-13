@@ -1,0 +1,64 @@
+1 Iroas, God of Victory
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Boros Charm
+1 Swords to Plowshares
+1 Clifftop Retreat
+1 Boros Signet
+1 Aurelia, the Warleader
+1 Assemble the Legion
+1 Path to Exile
+1 Temple of Triumph
+1 Battlefield Forge
+1 Boros Garrison
+1 Sacred Foundry
+1 Blade Historian
+1 Odric, Master Tactician
+1 Mentor of the Meek
+1 Tajic, Legion's Edge
+1 Skyknight Vanguard
+1 Hero of Bladehold
+1 Spectator Seating
+1 Gisela, Blade of Goldnight
+1 Sundown Pass
+1 Keeper of the Accord
+1 Cathars' Crusade
+1 Talisman of Conviction
+1 Tajic, Blade of the Legion
+1 Odric, Lunarch Marshal
+1 Rugged Prairie
+1 Wear // Tear
+1 Akroma's Will
+1 Sun Titan
+1 Slayers' Stronghold
+1 Esper Sentinel
+1 True Conviction
+1 Smothering Tithe
+1 Generous Gift
+1 Legion Loyalist
+1 Skullclamp
+1 Elspeth, Sun's Champion
+1 Adeline, Resplendent Cathar
+1 Brimaz, King of Oreskos
+1 Swiftblade Vindicator
+1 Sword of the Animist
+1 Needleverge Pathway
+1 Martial Coup
+1 Wind-Scarred Crag
+1 Blasphemous Act
+1 Sunhome, Fortress of the Legion
+1 Legion's Initiative
+1 Furycalm Snarl
+1 Hanweir Garrison
+1 Captain of the Watch
+1 Krenko, Tin Street Kingpin
+1 Brave the Sands
+1 Thalia, Heretic Cathar
+1 Chaos Warp
+1 Archetype of Courage
+1 Akroan Hoplite
+1 Balefire Liege
+1 Flawless Maneuver
+1 Arid Mesa
+{'overall': 3.782608695652174, 'cmc': 2.5555555555555554, 'ramp': '7', 'draw': '3', 'interaction': 10, 'folder': 'edh', 'commander': 'IroasGodofVictory.txt'}

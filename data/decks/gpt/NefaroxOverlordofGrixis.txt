@@ -1,0 +1,68 @@
+1 Nefarox, Overlord of Grixis
+1 Yuan-Ti Fang-Blade
+1 Zombie Master // Zombie Master
+1 Smogsteed Rider
+1 Splatter Goblin
+1 Sultai Runemark
+1 Damnation
+1 Thran Golem
+1 Dark Ritual
+1 Zombie Master
+1 Spinny Ride
+1 Withering Wisps
+1 Wasteland Strangler
+1 Unliving Psychopath
+1 Walking Desecration
+1 Sorin, Vampire Lord
+1 Stronghold Rats
+1 Thornbow Archer
+1 Weigh Down
+1 Sword of Body and Mind
+1 Sword of Hours
+1 Thornbite Staff
+1 Undercity Shade
+1 Teferi's Sentinel
+1 Syphon Sliver
+1 Sword of Kaldra
+1 Skyblinder Staff
+1 Silumgar Butcher
+1 Zelyon Sword
+1 Yawgmoth's Edict
+1 Vampire Nighthawk
+1 Demonic Tutor
+1 Sword of Feast and Famine
+1 Swiftfoot Boots
+1 Sol Ring
+1 Arcane Signet
+1 Diabolic Tutor
+1 Takenuma Bleeder
+1 Tower of Champions
+1 Wretched Anurid
+1 Umbral Mantle
+1 Sengir Vampire
+1 Vraska's Contempt
+1 Zulaport Cutthroat
+1 Mana Crypt
+1 Sword of Fire and Ice
+1 Vile Deacon
+1 Sickle Dancer
+1 Word of Binding
+1 Whalebone Glider
+1 Transmutation
+1 Skulking Killer
+1 Wake the Dead
+1 Stingblade Assassin
+1 Tragic Fall
+1 Whirling Catapult
+1 Unlikely Aid
+1 Go for the Throat
+1 Tooth Collector
+1 Twisted Embrace
+1 Vampire's Bite
+1 Unnatural Endurance
+1 Thorntooth Witch
+1 Toshiro Umezawa
+1 Ulamog's Crusher
+1 Vengeful Pharaoh
+1 Vraska, Scheming Gorgon
+{'overall': 2.600485436893204, 'cmc': 3.074626865671642, 'ramp': '4', 'draw': '1', 'interaction': 14, 'folder': 'gpt', 'commander': 'NefaroxOverlordofGrixis.txt'}

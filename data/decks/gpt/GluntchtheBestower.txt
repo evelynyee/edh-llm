@@ -1,0 +1,65 @@
+1 Gluntch, the Bestower
+1 Turntimber Sower
+1 Triumph of Ferocity
+1 Sylvan Library
+1 Sylvan Messenger
+1 Wildcall
+1 Workshop Warchief
+1 Vrestin, Menoptra Leader
+1 Victory's Envoy
+1 Woodfall Primus
+1 Wingsteed Rider
+1 Trove Warden
+1 Vastwood Surge
+1 Vivien's Invocation
+1 Verdant Mastery
+1 Wayfaring Temple
+1 Triumphant Reckoning
+1 Vivien, Nature's Avenger
+1 Zephyrim
+1 Whetwheel
+1 Wildgrowth Walker
+1 Verdant Eidolon
+1 Thought-Knot Seer
+1 Vitaspore Thallid
+1 Sylvan Offering
+1 Tilling Treefolk
+1 Treasure Map // Treasure Cove
+1 Yavimaya Elder
+1 Voice of Resurgence
+1 Thorn Thallid
+1 Tervigon
+1 Titania, Nature's Force
+1 Veteran Explorer
+1 Urza's Bauble
+1 Vigor
+1 Seedborn Muse
+1 Traverse the Outlands
+1 Sword of Hearth and Home
+1 Wrenn and Seven
+1 Ugin's Conjurant
+1 Sunfall
+1 Wingmate Roc
+1 Wilfred Mott
+1 Waylay
+1 Whirling Catapult
+1 White Plume Adventurer
+1 Tendershoot Dryad
+1 Ugin, the Spirit Dragon
+1 Wild Onslaught
+1 Verdeloth the Ancient
+1 Ulvenwald Hydra
+1 Vivien Reid
+1 Bloom Tender
+1 Tempt with Glory
+1 Teferi's Protection
+1 Uba Mask
+1 The Ozolith
+1 Vexing Puzzlebox
+1 Ulamog, the Ceaseless Hunger
+1 Storybook Ride
+1 Warping Wail
+1 Ulamog's Crusher
+1 Vivid Revival
+1 Vessel of Nascency
+{'overall': 8.262, 'cmc': 3.90625, 'ramp': '13', 'draw': '16', 'interaction': 10, 'folder': 'gpt', 'commander': 'GluntchtheBestower.txt'}

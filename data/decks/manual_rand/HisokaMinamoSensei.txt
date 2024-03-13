@@ -1,0 +1,69 @@
+1 Hisoka, Minamo Sensei
+1 Trinket Mage
+1 Vial of Dragonfire
+1 Treasure Keeper
+1 Surgespanner
+1 Wicker Picker
+1 Unlucky Drop
+1 Wooded Foothills
+1 Souvenir Snatcher
+1 Voda Sea Scavenger
+1 Temporal Cleansing
+1 Spell Snare
+1 Waterlogged Hulk // Watertight Gondola
+1 Wind-Kin Raiders
+1 Tymora's Invoker
+1 Wiretapping
+1 Wooden Sphere
+1 The Mirari Conjecture
+1 Whir of Invention
+1 Tazeem Roilmage
+1 Vacuumelt
+1 Time Spiral
+1 Tamiyo's Logbook
+1 Storm Elemental
+1 Veiled Serpent
+1 Transmute Artifact
+1 Weaver of Lies
+1 Vodalian Arcanist
+1 Teferi's Protege
+1 Soratami Savant
+1 Wretched Gryff
+1 Cyclonic Rift
+1 Synchronized Eviction
+1 Telemin Performance
+1 Terrain Generator
+1 Unifying Theory
+1 Whirlpool Whelm
+1 Zhulodok, Void Gorger
+1 Traveler's Amulet
+1 Venser's Diffusion
+1 Stymied Hopes
+1 Mana Vault
+1 Yanling's Harbinger
+1 Weight of Memory
+1 Urn of Godfire
+1 Zhalfirin Void
+1 Viseling
+1 Thought Dissector
+1 Snapcaster Mage
+1 Set Adrift
+1 Stolen Goods
+1 Stormkeld Prowler
+1 Surtland Elementalist
+1 Thassa's Intervention
+1 Temporal Machinations
+1 Worry Beads
+1 Stitched Drake
+1 Lightning Greaves
+1 Thryx, the Sudden Storm
+1 Zephyr Boots
+1 Storm Fleet Negotiator
+1 Wand of Ith
+1 Thirst for Meaning
+1 Ugin, the Ineffable
+1 Walk the Aeons
+1 Vexing Sphinx
+1 Watcher in the Mist
+1 Thoughtbind
+{'overall': 7.793886462882096, 'cmc': 3.3676470588235294, 'ramp': '6', 'draw': '21', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'HisokaMinamoSensei.txt'}

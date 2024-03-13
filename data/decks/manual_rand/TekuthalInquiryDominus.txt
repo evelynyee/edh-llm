@@ -1,0 +1,69 @@
+1 Tekuthal, Inquiry Dominus
+1 The Millennium Calendar
+1 Voodoo Doll
+1 The Bath Song
+1 Thrummingbird
+1 Youthful Scholar
+1 Springleaf Drum
+1 Umara Raptor
+1 Wanderwine Prophets
+1 The Prismatic Piper
+1 Visions of Duplicity
+1 Thopter Squadron
+1 Wind Sail
+1 Worldslayer
+1 Workshop Elders
+1 Unctus, Grand Metatect
+1 Urza's Mine
+1 Thoughtcast
+1 The Magic Mirror
+1 Voda Sea Scavenger
+1 Vantress Paladin
+1 Timesifter
+1 Wicked Slumber
+1 Universal Surveillance
+1 Time Warp
+1 Thieving Skydiver
+1 Ugin's Nexus
+1 The Monumental Facade
+1 Skyclave Sentinel
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Waterlogged Hulk // Watertight Gondola
+1 Whispers of the Muse
+1 Urza, Powerstone Prodigy
+1 Zanam Djinn
+1 Time and Tide
+1 Towashi Guide-Bot
+1 Throne of Geth
+1 Triskelion
+1 Vexing Sphinx
+1 Trait Doctoring
+1 Vedalken Squirrel-Whacker
+1 Suncrusher
+1 Wizard Class
+1 Treasure Vault
+1 Tendo Ice Bridge
+1 Vodalian Arcanist
+1 Toymaker
+1 The Tabernacle at Pendrell Vale
+1 Thran Weaponry
+1 Voltaic Key
+1 Tablet of Compleation
+1 Waterspout Elemental
+1 Steel Dromedary
+1 Wedding Invitation
+1 Unified Will
+1 Tome of the Guildpact
+1 The Immortal Sun
+1 Unstable Obelisk
+1 Survivor of the Unseen
+1 Transmogrifying Wand
+1 Sphere of the Suns
+1 Snaremaster Sprite
+1 Surrakar Spellblade
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Triton Tactics
+1 The Golden Throne
+1 Spell Rupture
+1 Tezzeret, Betrayer of Flesh
+{'overall': 9.029107981220658, 'cmc': 3.1791044776119404, 'ramp': '13', 'draw': '19', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TekuthalInquiryDominus.txt'}

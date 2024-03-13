@@ -1,0 +1,65 @@
+1 Torsten, Founder of Benalia
+1 Wildborn Preserver
+1 Thunderherd Migration
+1 Yorvo, Lord of Garenbrig
+1 Sylvan Library
+1 Traverse the Ulvenwald
+1 Survival of the Fittest
+1 Vizier of the Menagerie
+1 Worldly Tutor
+1 Sylvan Scrying
+1 Tithe
+1 Wildcall
+1 Wild Onslaught
+1 Wren's Run Packmaster
+1 Triumph of Ferocity
+1 Tishana's Wayfinder
+1 The Ring Goes South
+1 Vrestin, Menoptra Leader
+1 Sylvan Ranger
+1 Verdant Eidolon
+1 Sylvan Hierophant
+1 Wooded Foothills
+1 Verge Rangers
+1 Worldspine Wurm
+1 Ugin, the Spirit Dragon
+1 Birds of Paradise
+1 Woodland Champion
+1 Whisperwood Elemental
+1 Verdant Catacombs
+1 Thalia's Lancers
+1 Vivien Reid
+1 Wurmcalling
+1 Vessel of Nascency
+1 Wood Elves
+1 Temur War Shaman
+1 Seedborn Muse
+1 Swords to Plowshares
+1 Stoneforge Mystic
+1 Woodland Bellower
+1 Stoneforge Acolyte
+1 Wild Wanderer
+1 Vivien's Invocation
+1 Tarmogoyf
+1 Path to Exile
+1 Steelshaper's Gift
+1 Terastodon
+1 Woodland Sleuth
+1 Vivid Revival
+1 Vexing Arcanix
+1 Yasharn, Implacable Earth
+1 Woodfall Primus
+1 Vivien, Nature's Avenger
+1 Sylvan Messenger
+1 Winding Way
+1 World Breaker
+1 Zendikar Resurgent
+1 Wanderer's Twig
+1 Vital Surge
+1 Vessel of Endless Rest
+1 Wandering Stream
+1 Vastwood Surge
+1 Thought-Knot Seer
+1 Viridian Emissary
+1 Verdant Crescendo
+{'overall': 10.879185520361991, 'cmc': 3.453125, 'ramp': '18', 'draw': '22', 'interaction': 6, 'folder': 'gpt', 'commander': 'TorstenFounderofBenalia.txt'}

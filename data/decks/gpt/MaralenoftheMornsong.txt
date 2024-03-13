@@ -1,0 +1,65 @@
+1 Maralen of the Mornsong
+1 Animate Dead
+1 Sorcerer's Strongbox
+1 Thought-Knot Seer
+1 Tormod's Crypt
+1 Dark Ritual
+1 Yuan-Ti Fang-Blade
+1 Zombie Master // Zombie Master
+1 Spawn of Mayhem
+1 Skull Storm
+1 Scythe Specter
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Mana Vault
+1 Chrome Mox
+1 Vengeful Pharaoh
+1 Victimize
+1 Tymaret, Chosen from Death
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Thoughtseize
+1 Damnation
+1 Vraska's Contempt
+1 Underworld Connections
+1 Skull Raid
+1 Toxic Deluge
+1 Vampire Nocturnus
+1 War Room
+1 Varragoth, Bloodsky Sire
+1 Sorin Markov
+1 Verdant Catacombs
+1 Viscera Seer
+1 Zuran Orb
+1 Urborg Uprising
+1 Stronghold Discipline
+1 Urborg Syphon-Mage
+1 Vilis, Broker of Blood
+1 Yawgmoth's Will
+1 The Eldest Reborn
+1 Vengeant Vampire
+1 Vraska, Betrayal's Sting
+1 Vampire Neonate
+1 Witches' Eye
+1 Whisper Squad
+1 Zodiac Rat
+1 Storm Cauldron
+1 Zhalfirin Void
+1 Tamiyo's Journal
+1 Syr Konrad, the Grim
+1 Syphon Mind
+1 Starving Revenant
+1 Triskaidekaphobia
+1 Lightning Greaves
+1 Vraska's Finisher
+1 Vraska's Conquistador
+1 Swashbuckler's Whip
+1 Wasteland Strangler
+1 Ulamog's Crusher
+1 Withering Wisps
+1 Storybook Ride
+1 Vengeful Reaper
+1 Vengeful Warchief
+1 Strongarm Tactics
+1 Thief of Hope
+1 Wretched Confluence
+{'overall': 5.568357487922706, 'cmc': 3.234375, 'ramp': '5', 'draw': '13', 'interaction': 9, 'folder': 'gpt', 'commander': 'MaralenoftheMornsong.txt'}

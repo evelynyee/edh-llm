@@ -1,0 +1,64 @@
+1 Rakka Mar
+1 Sol Ring
+1 Incandescent Soulstoke
+1 Tilonalli's Summoner
+1 Brighthearth Banneret
+1 Smokebraider
+1 Impact Tremors
+1 Elemental Mastery
+1 Flamekin Harbinger
+1 Warstorm Surge
+1 Runaway Steam-Kin
+1 Heraldic Banner
+1 Soulbright Flamekin
+1 Arcane Signet
+1 Scampering Scorcher
+1 Chandra's Embercat
+1 Shared Animosity
+1 Chaos Warp
+1 Lavakin Brawler
+1 Skullclamp
+1 Tectonic Giant
+1 Nova Chaser
+1 War Elemental
+1 Blasphemous Act
+1 Idol of Oblivion
+1 Malignus
+1 Tempt with Vengeance
+1 Mana Geyser
+1 Thunderkin Awakener
+1 Abrade
+1 Thrill of Possibility
+1 Stigma Lasher
+1 Faithless Looting
+1 Flamekin Village
+1 Vandalblast
+1 Magmatic Force
+1 Rite of the Raging Storm
+1 Hazoret's Monument
+1 Chandra, Novice Pyromancer
+1 Battle Hymn
+1 Fire Diamond
+1 Battlemage's Bracers
+1 Chandra, Flamecaller
+1 Ingot Chewer
+1 Molten Birth
+1 Grinning Ignus
+1 Patriar's Seal
+1 Castle Embereth
+1 Caterwauling Boggart
+1 Archetype of Aggression
+1 Obsidian Fireheart
+1 Myriad Landscape
+1 Lightning Bolt
+1 Magewright's Stone
+1 Torbran, Thane of Red Fell
+1 Purphoros, God of the Forge
+1 Seething Song
+1 Rockslide Elemental
+1 Illusionist's Bracers
+1 Thousand-Year Elixir
+1 Outpost Siege
+1 Charging Cinderhorn
+1 Mind Stone
+{'overall': 6.87741935483871, 'cmc': 2.9523809523809526, 'ramp': '16', 'draw': '7', 'interaction': 9, 'folder': 'edh', 'commander': 'RakkaMar.txt'}

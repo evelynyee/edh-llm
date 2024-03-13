@@ -1,0 +1,64 @@
+1 Kalamax, the Stormsire
+1 Command Tower
+1 Sol Ring
+1 Growth Spiral
+1 Arcane Signet
+1 Harrow
+1 Twinning Staff
+1 Wilderness Reclamation
+1 Frantic Search
+1 Crop Rotation
+1 Archmage Emeritus
+1 Exotic Orchard
+1 Springleaf Drum
+1 Storm-Kiln Artist
+1 Frontier Bivouac
+1 Chaos Warp
+1 Thrill of Possibility
+1 Ral, Storm Conduit
+1 Beast Within
+1 Yavimaya Coast
+1 Cinder Glade
+1 Narset's Reversal
+1 Brainstorm
+1 Survivors' Encampment
+1 Rashmi, Eternities Crafter
+1 Opt
+1 Deflecting Swat
+1 Holdout Settlement
+1 Expansion // Explosion
+1 Reverberate
+1 Counterspell
+1 Comet Storm
+1 Wavebreak Hippocamp
+1 Goblin Electromancer
+1 Double Vision
+1 Steam Vents
+1 Stomping Ground
+1 Ketria Triome
+1 Reliquary Tower
+1 Increasing Vengeance
+1 Manamorphose
+1 Dualcaster Mage
+1 Breeding Pool
+1 Lightning Greaves
+1 Talrand, Sky Summoner
+1 Dig Through Time
+1 Veyran, Voice of Duality
+1 Kessig Wolf Run
+1 Snap
+1 Swarm Intelligence
+1 Fact or Fiction
+1 Farseek
+1 Swiftfoot Boots
+1 Big Score
+1 Natural Connection
+1 Guttersnipe
+1 Primal Amulet
+1 Unexpected Windfall
+1 Artifact Mutation
+1 Training Center
+1 Izzet Boilerworks
+1 Rampant Growth
+1 Nature's Claim
+{'overall': 8.243617021276595, 'cmc': 2.238095238095238, 'ramp': '13', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'KalamaxtheStormsire.txt'}

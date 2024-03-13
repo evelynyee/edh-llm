@@ -1,0 +1,69 @@
+1 Visara the Dreadful
+1 Warren Weirding
+1 Wall of Distortion
+1 Go for the Throat
+1 Vanguard's Shield
+1 Throttle
+1 Shuriken
+1 Sinuous Vermin
+1 Unerring Sling
+1 Wand of Orcus
+1 Weathered Runestone
+1 Umbral Juke
+1 Sword of Light and Shadow
+1 Vindictive Vampire
+1 Yahenni, Undying Partisan
+1 Zombie Trailblazer
+1 Typhoid Rats
+1 Wicked Pact
+1 Vorpal Sword
+1 Vampiric Embrace
+1 Tsabo's Web
+1 Wooden Stake
+1 Sudden Death
+1 Toymaker
+1 Tezzeret's Strider
+1 Traxos, Scourge of Kroog
+1 Scavenging Scarab
+1 Temple Thief
+1 Virtue of Persistence // Locthwain Scorn
+1 Watchwing Scarecrow
+1 Whalebone Glider
+1 Unwilling Ingredient
+1 Zombie Master // Zombie Master
+1 Wall of Spears
+1 Wake of Vultures
+1 Yawgmoth's Edict
+1 Silent Assassin
+1 Vengeful Strangler // Strangling Grasp
+1 Shriek of Dread
+1 Veldrane of Sengir
+1 Xathrid Gorgon
+1 Veteran's Armaments
+1 Spiteful Returned
+1 Withercrown
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Wine of Blood and Iron
+1 Wall of Vipers
+1 Westgate Regent
+1 Wreck Hunter
+1 Vengeant Vampire
+1 Sundial of the Infinite
+1 Wretched Confluence
+1 Sever Soul
+1 Three Bowls of Porridge
+1 Su-Chi Cave Guard
+1 Xiahou Dun, the One-Eyed
+1 Dark Ritual
+1 Urza's Engine
+1 Damnation
+1 Seal of Doom
+1 Tenza, Godo's Maul
+1 Spreading Plague
+1 Throwing Knife
+1 Withering Wisps
+1 Sleek Schooner
+1 TARDIS
+1 Slayer's Cleaver
+1 Vanquish the Weak
+{'overall': 3.2710045662100455, 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '4', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}

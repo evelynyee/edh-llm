@@ -1,0 +1,69 @@
+1 Lathiel, the Bounteous Dawn
+1 Witch's Oven
+1 Zhalfirin Decoy
+1 The Moment
+1 Trufflesnout
+1 Surrak, the Hunt Caller
+1 Veteran Armorer
+1 Verdant Command
+1 The Crowd Goes Wild
+1 Willow Geist
+1 War Report
+1 Wind Shear
+1 Wildslayer Elves
+1 Tarmogoyf
+1 Wildwood Scourge
+1 Urza's Bauble
+1 White Mana Battery
+1 Tegan Jovanka
+1 Zealot's Conviction
+1 Timberwatch Elf
+1 Éowyn, Lady of Rohan
+1 The Chain Veil
+1 Titania's Boon
+1 Wedding Ring
+1 Teferi's Protection
+1 Undergrowth Champion
+1 Woodland Champion
+1 Titania, Gaea Incarnate
+1 Unbounded Potential
+1 Vivien, Arkbow Ranger
+1 Vegetation Abomination
+1 Weapon Rack
+1 Utopia Mycon
+1 Treetop Ambusher
+1 World Queller
+1 Thrashing Mossdog
+1 Vorinclex // The Grand Evolution
+1 Twists and Turns // Mycoid Maze
+1 The Immortal Sun
+1 Voyager Staff
+1 Trostani Discordant
+1 Vexing Puzzlebox
+1 Worldsoul Colossus
+1 Tendershoot Dryad
+1 Ugin's Nexus
+1 Zhalfirin Crusader
+1 The Filigree Sylex
+1 Vitality Charm
+1 You're Ambushed on the Road
+1 Wirewood Symbiote
+1 Umezawa's Jitte
+1 Sunbathing Rootwalla
+1 Swords to Plowshares
+1 Vitalizing Cascade
+1 Wojek Apothecary
+1 Tributary Instructor
+1 Whiteout
+1 Trophy Hunter
+1 Tyrranax Rex
+1 Sunfall
+1 Viseling
+1 Whippoorwill
+1 Storybook Ride
+1 Timely Reinforcements
+1 Voodoo Doll
+1 The One Ring
+1 Terashi's Cry
+1 Spark Rupture
+{'overall': 4.604663212435233, 'cmc': 2.838235294117647, 'ramp': '5', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}

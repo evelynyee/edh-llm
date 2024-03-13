@@ -1,0 +1,65 @@
+1 Ashad, the Lone Cyberman
+1 Wizards of Thay
+1 Mulldrifter
+1 Thieves' Tools
+1 Counterspell
+1 Wing Splicer
+1 Through the Breach
+1 Volo, Itinerant Scholar
+1 Torgaar, Famine Incarnate
+1 Thunderheads
+1 Tezzeret the Schemer
+1 Whirlwind Denial
+1 Warbeast of Gorgoroth
+1 Voidmage Apprentice
+1 Vexing Scuttler
+1 Vodalian Mage
+1 Whirler Rogue
+1 Vandalblast
+1 Tolarian Kraken
+1 Tezzeret, Cruel Machinist
+1 Time Elemental
+1 Undead Alchemist
+1 Storm-Kiln Artist
+1 Wretched Gryff
+1 Ugin, the Ineffable
+1 The Eleventh Hour
+1 Vex
+1 Vizier of Many Faces
+1 Turn // Burn
+1 Mind Stone
+1 Wandering Archaic // Explore the Vastlands
+1 Viashino Heretic
+1 Wrexial, the Risen Deep
+1 Witness Protection
+1 Volcanic Vision
+1 Vedalken Blademaster
+1 Vindictive Flamestoker
+1 Zombie Boa
+1 Vodalian Mystic
+1 Vedalken Anatomist
+1 Unexpected Windfall
+1 Wandering Fumarole
+1 Warping Wail
+1 Warteye Witch
+1 Unspeakable Symbol
+1 Tombstalker
+1 Teferi, Temporal Pilgrim
+1 Talrand, Sky Summoner
+1 Tar Pit Warrior
+1 Wasteland Strangler
+1 Thousand-Year Storm
+1 Vraska's Contempt
+1 Stone Idol Trap
+1 Thraxodemon
+1 Virtue of Knowledge // Vantress Visions
+1 Thieving Amalgam
+1 Winding Canyons
+1 Vesuvan Shapeshifter
+1 Tamiyo's Logbook
+1 Waste Away
+1 Vicious Offering
+1 Veteran's Armaments
+1 Teleportal
+1 Violet Pall
+{'overall': 6.003937007874016, 'cmc': 3.96875, 'ramp': '6', 'draw': '14', 'interaction': 10, 'folder': 'gpt', 'commander': 'AshadtheLoneCyberman.txt'}

@@ -1,0 +1,69 @@
+1 Tetsuo, Imperial Champion
+1 Voltage Surge
+1 Veiling Oddity
+1 Vedalken Aethermage
+1 The Cauldron of Eternity
+1 Word of Command
+1 Wretched Camel
+1 Subtlety
+1 Vial Smasher the Fierce
+1 Ulamog's Reclaimer
+1 Undying Flames
+1 Unsubstantiate
+1 Zoyowa Lava-Tongue
+1 Ulamog, the Ceaseless Hunger
+1 Volatile Chimera
+1 Whispersteel Dagger
+1 The Rack
+1 Wildfire
+1 Stain the Mind
+1 War-Wing Siren
+1 Surging Aether
+1 Visage of Dread // Dread Osseosaur
+1 Summons of Saruman
+1 Subjugate the Hobbits
+1 Witness the End
+1 Vexing Puzzlebox
+1 Thryx, the Sudden Storm
+1 Writhing Necromass
+1 Underworld Charger
+1 Wail of the Forgotten
+1 Tidespout Tyrant
+1 Voyage's End
+1 Wyll's Reversal
+1 Virtus the Veiled
+1 Weight of Spires
+1 Tsabo's Assassin
+1 Urza's Filter
+1 Vent Sentinel
+1 Woe Strider
+1 The Everflowing Well // The Myriad Pools
+1 Walk the Aeons
+1 Wreck Hunter
+1 Wiretapping
+1 Yuriko, the Tiger's Shadow
+1 Temporal Cascade
+1 Westgate Regent
+1 Veiled Crocodile
+1 Trench Gorger
+1 Thran Temporal Gateway
+1 Threefold Signal
+1 Tasha, the Witch Queen
+1 Vex
+1 Wretched Banquet
+1 Twinning Staff
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Tomb of Horrors Adventurer
+1 Withering Boon
+1 Uba Mask
+1 Yamabushi's Flame
+1 Urza's Miter
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Volshe Tideturner
+1 Wandering Archaic // Explore the Vastlands
+1 Tezzeret, Master of the Bridge
+1 Transgress the Mind
+1 Stratadon
+1 Volcanic Awakening
+1 Triassic Egg
+{'overall': 5.5755244755244755, 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}

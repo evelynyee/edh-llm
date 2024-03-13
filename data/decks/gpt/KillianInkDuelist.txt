@@ -1,0 +1,66 @@
+1 Killian, Ink Duelist
+1 Vengeful Reaper
+1 Stronghold Confessor
+1 Sudden Spoiling
+1 Tendrils of Despair
+1 Trusted Pegasus
+1 Trailblazer's Boots
+1 Trailblazer's Torch
+1 Warlord's Axe
+1 Woebearer
+1 Slaughter
+1 Vona, Butcher of Magan
+1 Weight of Conscience
+1 Vindictive Mob
+1 Damnation
+1 Soul Sculptor
+1 Vizier of the True
+1 Teferi's Protection
+1 Teyo, the Shieldmage
+1 Wandering Archaic // Explore the Vastlands
+1 Ultimate Price
+1 Syphon Life
+1 Void Winnower
+1 Vito, Fanatic of Aclazotz
+1 Yawgmoth's Will
+1 Ward of Lights
+1 Sword of Once and Future
+1 Whispering Shade
+1 Trap Runner
+1 Vicious Offering
+1 Viper's Kiss
+1 Zephyr Boots
+1 Whip of Erebos
+1 Winding Canyons
+1 Warden of the Beyond
+1 Sunweb
+1 Wall of Light
+1 Vampire Bats
+1 Worms of the Earth
+1 Waste Away
+1 Vulshok Morningstar
+1 Ultramarines Honour Guard
+1 Zombie Master
+1 Wall of Caltrops
+1 Tiller of Flesh
+1 Wall of Corpses
+1 Tapestry of the Ages
+1 Withering Boon
+1 Sungold Sentinel
+1 Sphere of Safety
+1 Torgaar, Famine Incarnate
+1 Vanquish the Horde
+1 Thalia, Guardian of Thraben
+1 Warrior's Stand
+1 Sol Ring
+1 Vorrac Battlehorns
+1 Unholy Citadel
+1 Torii Watchward
+1 Walking Desecration
+1 Warded Battlements
+1 Wrench Mind
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Demonic Tutor
+1 Stone Calendar
+1 Mana Vault
+{'overall': 2.513207547169811, 'cmc': 3.2615384615384615, 'ramp': '3', 'draw': '3', 'interaction': 8, 'folder': 'gpt', 'commander': 'KillianInkDuelist.txt'}

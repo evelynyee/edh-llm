@@ -1,0 +1,65 @@
+1 Ghost of Ramirez DePietro
+1 Time Warp
+1 Thassa's Intervention
+1 Sphinx of Jwar Isle
+1 Teferi, Master of Time
+1 Thassa, Deep-Dwelling
+1 Zhalfirin Void
+1 Thassa's Emissary
+1 Thalakos Mistfolk
+1 Tower of Fortunes
+1 Sphinx's Tutelage
+1 Zoetic Glyph
+1 Wistful Thinking
+1 Web of Inertia
+1 Wizards of the _____
+1 Thieving Magpie
+1 Well of Ideas
+1 Trusted Advisor
+1 Windrider Wizard
+1 Surging Aether
+1 Spell Rupture
+1 Venser's Diffusion
+1 Stolen Goods
+1 Thought Nibbler
+1 Visions of Beyond
+1 Time Spiral
+1 Wheel and Deal
+1 Teferi, Timeless Voyager
+1 Whirlpool Rider
+1 Tezzeret's Ambition
+1 Thought Reflection
+1 Tribute Mage
+1 Venser's Journal
+1 Trinket Mage
+1 Talas Lookout
+1 Thada Adel, Acquisitor
+1 Vantress Gargoyle
+1 Windscouter
+1 Treasure Cruise
+1 Sphinx Ambassador
+1 Teferi's Response
+1 Urza's Bauble
+1 Mana Vault
+1 Thought Sponge
+1 Unified Will
+1 Toymaker
+1 Pongify
+1 Tolarian Winds
+1 Wall of Tears
+1 Veiled Sentry
+1 Urza's Incubator
+1 Swirling Torrent
+1 Time Stop
+1 Vex
+1 Vedalken Shackles
+1 Teferi's Puzzle Box
+1 Sword of Feast and Famine
+1 Syncopate
+1 Thieving Otter
+1 Stolen Identity
+1 Swashbuckler's Whip
+1 Whirling Catapult
+1 Storybook Ride
+1 Unesh, Criosphinx Sovereign
+{'overall': 8.745348837209303, 'cmc': 3.359375, 'ramp': '2', 'draw': '29', 'interaction': 8, 'folder': 'gpt', 'commander': 'GhostofRamirezDePietro.txt'}

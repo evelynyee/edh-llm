@@ -1,0 +1,101 @@
+1 Sosuke, Son of Seshiro
+1 Contested War Zone
+1 Sorrow's Path
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Groundshaker Sliver
+1 Aggressive Mammoth
+1 Overcome
+1 Paragon of Eternal Wilds
+1 Primal Rage
+1 Thicket Crasher
+1 Tandem Takedown
+1 Greatbow Doyen
+1 Venom Sliver
+1 Lowland Basilisk
+1 Somberwald Alpha
+1 You Look Upon the Tarrasque
+1 Enlarge
+1 Fang Skulkin
+1 Thunderstaff
+1 Ornery Dilophosaur
+1 Ghastbark Twins
+1 Might Weaver
+1 Crumbling Colossus
+1 Confidence from Strength
+1 Storm the Citadel
+1 Nature's Way
+1 Woodborn Behemoth
+1 Sword of Sinew and Steel
+1 Sagittars' Volley
+1 Blizzard Brawl
+1 Battering Ram
+1 Ruthless Predation
+1 Epic Confrontation
+1 Arachnogenesis
+1 Fell Flagship
+1 Ram Through
+1 Clear Shot
+1 Witherscale Wurm
+1 Soratami Cloud Chariot
+1 Ohran Frostfang
+1 Stone-Tongue Basilisk
+1 Yavimaya Wurm
+1 Wildwood Patrol
+1 Stampeding Rhino
+1 Spiked Baloth
+1 Rootbreaker Wurm
+1 Garruk's Companion
+1 Earthshaking Si
+1 Duskdale Wurm
+1 Colossal Dreadmaw
+1 Brambleweft Behemoth
+1 Multiclass Baldric
+1 Ebony Horse
+1 Crash Landing
+1 Dolmen Gate
+1 Juvenile Gloomwidow
+1 Wolf Strike
+1 Gruesome Slaughter
+1 Questing Beast
+1 Tail Swipe
+1 Kessig Recluse
+1 Deadly Recluse
+1 Savage Swipe
+1 Venomous Dragonfly
+1 Urza's Engine
+1 Vivien of the Arkbow
+1 Cockatrice
+{'overall': 1.4076142131979696, 'cmc': 3.94, 'ramp': '0', 'draw': '1', 'interaction': 13, 'folder': 'baseline', 'commander': 'SosukeSonofSeshiro.txt'}

@@ -1,0 +1,101 @@
+1 Rebbec, Architect of Ascension
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Sunbird Standard // Sunbird Effigy
+1 Mox Amber
+1 Reward the Faithful
+1 Prismatic Geoscope
+1 Matzalantli, the Great Door // The Core
+1 Metalwork Colossus
+1 Celestial Dawn
+1 Sanctum Prelate
+1 Mycosynth Lattice
+1 Shambling Suit
+1 Dauntless Dismantler
+1 Mox Opal
+1 Happily Ever After
+1 Favor of the Mighty
+1 Celestial Judgment
+1 Aven Trailblazer
+1 Topple
+1 Eye of Ojer Taq // Apex Observatory
+1 Tablet of the Guilds
+1 Sceptre of Eternal Glory
+1 Vulpine Harvester
+1 Cataclysm
+1 Warlord's Elite
+1 Invoke Justice
+1 Artillery Blast
+1 Desecrate Reality
+1 Custodi Peacekeeper
+1 Painter's Servant
+1 Call to Arms
+1 Needlebug
+1 Agatha's Soul Cauldron
+1 Stratadon
+1 Grindstone
+1 Karn, Legacy Reforged
+1 All Is Dust
+1 Gauntlet of Power
+1 Bounce Chamber
+1 Restore Balance
+1 Prismatic Ending
+1 Smelting Vat
+1 Culling Scales
+1 Spawnsire of Ulamog
+1 Jodah's Codex
+1 Karn, the Great Creator
+1 Daybreak Chimera
+1 Nyx Lotus
+1 Magus of the Balance
+1 Fabrication Foundry
+1 War Report
+1 Honor's Reward
+1 Cataclysmic Gearhulk
+1 Patch Up
+1 Convergence of Dominion
+1 Karn, Living Legacy
+1 Dragonscale General
+1 Surveyor's Scope
+1 Adaptive Gemguard
+1 Sword of the Ages
+1 Slaughter the Strong
+1 Lavabrink Venturer
+1 Cavernous Maw
+1 Hour of Revelation
+1 Knight-Errant of Eos
+{'overall': 5.862770562770563, 'cmc': 3.5538461538461537, 'ramp': '13', 'draw': '6', 'interaction': 11, 'folder': 'baseline', 'commander': 'RebbecArchitectofAscension.txt'}

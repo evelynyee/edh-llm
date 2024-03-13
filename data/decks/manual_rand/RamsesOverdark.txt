@@ -1,0 +1,69 @@
+1 Ramses Overdark
+1 Witch Engine
+1 Taken by Nightmares
+1 Supernatural Stamina
+1 Wu Scout
+1 Wharf Infiltrator
+1 Veldrane of Sengir
+1 Take Flight
+1 Warping Wail
+1 Welding Jar
+1 Vicious Offering
+1 Whisper of the Dross
+1 Theft of Dreams
+1 Weight of the Underworld
+1 Unholy Indenture
+1 Zombie Boa
+1 Wedding Invitation
+1 Wall of Blood
+1 Umezawa's Jitte
+1 Westgate Regent
+1 Trench Behemoth
+1 Zodiac Snake
+1 Uninvited Geist // Unimpeded Trespasser
+1 Wilhelt, the Rotcleaver
+1 Triton Tactics
+1 Zulaport Cutthroat
+1 Urza's Engine
+1 Vapor Snag
+1 Zombie Master
+1 Warp Artifact
+1 Tamiyo's Compleation
+1 Virtue of Persistence // Locthwain Scorn
+1 Triangle of War
+1 Sword of Sinew and Steel
+1 Unforgiving One
+1 Viper's Kiss
+1 Willbreaker
+1 Vicious Battlerager
+1 Waterkin Shaman
+1 Word of Binding
+1 Wand of Orcus
+1 Virtue of Persistence // Locthwain Scorn
+1 Tsabo's Assassin
+1 Wei Assassins
+1 Veiled Sentry
+1 Diabolic Tutor
+1 Veteran's Armaments
+1 Thrull Retainer
+1 Spectral Prison
+1 Zodiac Pig
+1 Volrath's Curse
+1 Wolfhunter's Quiver
+1 Wu Longbowman
+1 Zygon Infiltrator
+1 Zombie Cannibal
+1 Tradewind Rider
+1 Urborg Justice
+1 Wind Spirit
+1 Thaumatic Compass // Spires of Orazca
+1 Witch-king of Angmar
+1 Vraska's Contempt
+1 Vedalken Plotter
+1 Typhoid Rats
+1 Stasis Cell
+1 Vito, Thorn of the Dusk Rose
+1 Toymaker
+1 Takklemaggot
+1 Touch of Moonglove
+{'overall': 3.350485436893204, 'cmc': 3.074626865671642, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}

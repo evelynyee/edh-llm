@@ -1,0 +1,101 @@
+1 Gluntch, the Bestower
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Contaminant Grafter
+1 Smuggler's Share
+1 Citadel Siege
+1 Leela, Sevateem Warrior
+1 Font of Mythos
+1 Contested Game Ball
+1 The Eternal Wanderer
+1 Leinore, Autumn Sovereign
+1 Goliath Hatchery
+1 Verdant Command
+1 Vorinclex // The Grand Evolution
+1 Love Song of Night and Day
+1 Dispense Justice
+1 Black Vise
+1 Crawling Infestation
+1 Skullcage
+1 Ley Line
+1 Lae'zel, Vlaakith's Champion
+1 Titania's Command
+1 Sunset Revelry
+1 Teyo, Geometric Tactician
+1 Keeper of the Accord
+1 Paupers' Cage
+1 Topplegeist
+1 Crawling Sensation
+1 Master of Ceremonies
+1 Howling Mine
+1 Bounty of the Hunt
+1 Vorinclex, Monstrous Raider
+1 Secret Rendezvous
+1 Noble Heritage
+1 Nils, Discipline Enforcer
+1 The Rack
+1 Palantír of Orthanc
+1 Briarbridge Patrol
+1 Constable of the Realm
+1 Regna's Sanction
+1 By Invitation Only
+1 Anvil of Bogardan
+1 Wedding Announcement // Wedding Festivity
+1 Tetravus
+1 Dawnbreak Reclaimer
+1 Ace, Fearless Rebel
+1 Loxodon Peacekeeper
+1 Timesifter
+1 Sudden Salvation
+1 Investigator's Journal
+1 Animation Module
+1 Stalking Leonin
+1 Molder Slug
+1 Coveted Jewel
+1 Greener Pastures
+1 Alms Collector
+1 Scalding Tongs
+1 Tragic Arrogance
+1 Cybership
+1 Nacatl War-Pride
+1 Orzhov Advokist
+1 Ghirapur Orrery
+1 Gerrard's Hourglass Pendant
+1 Pests of Honor
+1 The Millennium Calendar
+1 Done for the Day
+{'overall': 7.828947368421053, 'cmc': 3.4545454545454546, 'ramp': '6', 'draw': '22', 'interaction': 5, 'folder': 'baseline', 'commander': 'GluntchtheBestower.txt'}

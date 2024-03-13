@@ -1,0 +1,64 @@
+1 Wasitora, Nekoru Queen
+1 Command Tower
+1 Sol Ring
+1 Cultivate
+1 Arcane Signet
+1 Atarka, World Render
+1 Savage Lands
+1 Rampant Growth
+1 Crux of Fate
+1 Kodama's Reach
+1 Dragon's Hoard
+1 Farseek
+1 Cinder Glade
+1 Swiftfoot Boots
+1 Dragon Tempest
+1 Dragonspeaker Shaman
+1 Rhythm of the Wild
+1 Crucible of Fire
+1 Terminate
+1 Dragonlord's Servant
+1 Elemental Bond
+1 Exotic Orchard
+1 Ignoble Hierarch
+1 Path of Ancestry
+1 Ziatora's Proving Ground
+1 Beast Within
+1 Savage Ventmaw
+1 Dragonmaster Outcast
+1 Bladewing the Risen
+1 Garruk's Uprising
+1 Lathliss, Dragon Queen
+1 Scourge of Valkas
+1 Stomping Ground
+1 Putrefy
+1 Dragonskull Summit
+1 Evolving Wilds
+1 Overgrown Tomb
+1 Kolaghan, the Storm's Fury
+1 Rogue's Passage
+1 Rootbound Crag
+1 Smoldering Marsh
+1 Goblin Anarchomancer
+1 Blood Crypt
+1 Lightning Greaves
+1 Haven of the Spirit Dragon
+1 Commander's Sphere
+1 Ganax, Astral Hunter
+1 Thrakkus the Butcher
+1 Utvara Hellkite
+1 Gruul Signet
+1 Woodland Cemetery
+1 Keeper of Fables
+1 Dragonborn Champion
+1 Fires of Yavimaya
+1 Rivaz of the Claw
+1 Sakura-Tribe Elder
+1 Nature's Lore
+1 Carnelian Orb of Dragonkind
+1 Heroic Intervention
+1 Feline Sovereign
+1 Thunderbreak Regent
+1 Rockfall Vale
+1 Blasphemous Act
+{'overall': 7.3826086956521735, 'cmc': 2.5555555555555554, 'ramp': '17', 'draw': '8', 'interaction': 7, 'folder': 'edh', 'commander': 'WasitoraNekoruQueen.txt'}

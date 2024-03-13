@@ -1,0 +1,101 @@
+1 Ghost of Ramirez DePietro
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Lone Revenant
+1 Scalpelexis
+1 Benthic Infiltrator
+1 Sphinx Ambassador
+1 Ulamog, the Infinite Gyre
+1 Change of Plans
+1 Thada Adel, Acquisitor
+1 Grazilaxx, Illithid Scholar
+1 The Indomitable
+1 Helm of Obedience
+1 Iymrith, Desert Doom
+1 Balshan Beguiler
+1 Artisan of Kozilek
+1 Whirling Catapult
+1 Ruination Guide
+1 Arm-Mounted Anchor
+1 Cybership
+1 Polymorph
+1 Forgotten Creation
+1 Riddlekeeper
+1 Coral Colony
+1 Cosima, God of the Voyage // The Omenkeel
+1 Relic Golem
+1 Glacial Grasp
+1 Startled Awake // Persistent Nightmare
+1 Sphinx of Clear Skies
+1 All-Seeing Arbiter
+1 Cephalid Constable
+1 Trepanation Blade
+1 Jace, Architect of Thought
+1 Laser Screwdriver
+1 Merfolk Windrobber
+1 Rise of the Eldrazi
+1 Nautiloid Ship
+1 Kozilek, Butcher of Truth
+1 Timesifter
+1 Glint Raker
+1 Drownyard Amalgam
+1 Rootwater Thief
+1 Higure, the Still Wind
+1 Psychic Battle
+1 Quiet Speculation
+1 Thought Scour
+1 Deluxe Dragster
+1 The Unspeakable
+1 Screaming Swarm
+1 Nascent Metamorph
+1 Wall of Forgotten Pharaohs
+1 Beacon of Tomorrows
+1 Mind Bomb
+1 Vexing Arcanix
+1 Timin, Youthful Geist
+1 Sword of Hearth and Home
+1 Drafna's Restoration
+1 Deceiver of Form
+1 Mist Intruder
+1 Coral Fighters
+1 Mask of the Schemer
+1 Hordewing Skaab
+1 Jeskai Infiltrator
+1 Altar of Dementia
+1 Horned Loch-Whale // Lagoon Breach
+1 Paleontologist's Pick-Axe // Dinosaur Headdress
+{'overall': 7.07970479704797, 'cmc': 4.1692307692307695, 'ramp': '5', 'draw': '20', 'interaction': 7, 'folder': 'baseline', 'commander': 'GhostofRamirezDePietro.txt'}

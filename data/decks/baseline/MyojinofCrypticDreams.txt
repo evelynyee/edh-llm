@@ -1,0 +1,101 @@
+1 Myojin of Cryptic Dreams
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Lullmage Mentor
+1 Lux Artillery
+1 The Watcher in the Water
+1 Diamond Knight
+1 Waylaying Pirates
+1 Turn Aside
+1 Spark Double
+1 Flesh Duplicate
+1 Animation Module
+1 Protocol Knight
+1 Zygon Infiltrator
+1 Transmogrifying Wand
+1 Vantress Paladin
+1 Gadwick's First Duel
+1 Phantasmal Sphere
+1 Gainsay
+1 Invasion of Kamigawa // Rooftop Saboteurs
+1 Voracious Greatshark
+1 Ceremonious Rejection
+1 Marit Lage's Slumber
+1 Undercover Operative
+1 Spinal Parasite
+1 Snaremaster Sprite
+1 Referee Squad
+1 Chimeric Egg
+1 Nardole, Resourceful Cyborg
+1 Wicked Slumber
+1 Thopter Squadron
+1 Arcbound Wanderer
+1 Mausoleum Wanderer
+1 Kenku Artificer
+1 Hydromorph Guardian
+1 Ichormoon Gauntlet
+1 Naban, Dean of Iteration
+1 Panharmonicon
+1 Naru Meha, Master Wizard
+1 Sage of Hours
+1 Siren of the Fanged Coast
+1 Elrond, Lord of Rivendell
+1 Soultether Golem
+1 Jaded Response
+1 Crush Dissent
+1 Aethersnatch
+1 Corruption of Towashi
+1 Towashi Guide-Bot
+1 Henge Walker
+1 Door of Destinies
+1 Golem Foundry
+1 Tamiyo's Immobilizer
+1 Workshop Elders
+1 Dark Depths
+1 Sawtooth Thresher
+1 Baton of Courage
+1 Shrine of Loyal Legions
+1 Defabricate
+1 Frostfist Strider
+1 Sleep-Cursed Faerie
+1 Lightning Coils
+1 Sage of Fables
+1 Glorious Gale
+1 The Moment
+1 Energy Chamber
+1 Baku Altar
+{'overall': 3.328019323671498, 'cmc': 3.1846153846153844, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'baseline', 'commander': 'MyojinofCrypticDreams.txt'}

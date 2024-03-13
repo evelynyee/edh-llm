@@ -1,0 +1,101 @@
+1 Minthara, Merciless Soul
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Bloodthirsty Ogre
+1 Call for Unity
+1 Feast of the Victorious Dead
+1 Osai Vultures
+1 Retribution of the Ancients
+1 Crescendo of War
+1 Atraxa's Skitterfang
+1 Dragonscale General
+1 Invasion of Gobakhan // Lightshield Array
+1 Junkyo Bell
+1 Clockwork Beast
+1 Exhilarating Elocution
+1 Shambling Swarm
+1 Dead of Winter
+1 Clockwork Avian
+1 Moonshaker Cavalry
+1 Foundry Hornet
+1 Pride of Conquerors
+1 Aethersphere Harvester
+1 Grasping Shadows // Shadows' Lair
+1 Stromkirk Bloodthief
+1 Drakestown Forgotten
+1 Power Plant Worker
+1 Urge to Feed
+1 Die Young
+1 Solemn Recruit
+1 Thornmantle Striker
+1 Cauldron of Souls
+1 Cauldron Haze
+1 Pests of Honor
+1 Now for Wrath, Now for Ruin!
+1 Terror Tide
+1 Ajani, Wise Counselor
+1 Khabál Ghoul
+1 Stalactite Stalker
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Throne Warden
+1 Leonin Vanguard
+1 Incisor Glider
+1 Liliana's Scrounger
+1 Unbreakable Formation
+1 Ritual of Hope
+1 Wolf in _____ Clothing
+1 Expanded Anatomy
+1 Essence Infusion
+1 Voodoo Doll
+1 Cutthroat Maneuver
+1 Olivia's Wrath
+1 Kjeldoran War Cry
+1 Golden Demise
+1 Vish Kal, Blood Arbiter
+1 Jinxed Choker
+1 Consul's Shieldguard
+1 The Black Breath
+1 Stalwart Pathlighter
+1 Sick and Tired
+1 Feeding Frenzy
+1 Steeling Stance
+1 Priest of the Haunted Edge
+1 Clockwork Steed
+1 Scavenged Brawler
+1 Pestilent Haze
+1 Zealous Persecution
+{'overall': 1.1892857142857145, 'cmc': 3.393939393939394, 'ramp': '1', 'draw': '1', 'interaction': 2, 'folder': 'baseline', 'commander': 'MintharaMercilessSoul.txt'}

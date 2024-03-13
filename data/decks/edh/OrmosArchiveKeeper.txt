@@ -1,0 +1,64 @@
+1 Ormos, Archive Keeper
+1 Sol Ring
+1 Reliquary Tower
+1 Teferi's Ageless Insight
+1 Thought Vessel
+1 Body of Knowledge
+1 Wizard Class
+1 Psychosis Crawler
+1 Arcane Signet
+1 Mystic Sanctuary
+1 Ominous Seas
+1 Chasm Skulker
+1 Counterspell
+1 Atemsis, All-Seeing
+1 Laboratory Maniac
+1 Mind Stone
+1 Triskaidekaphile
+1 Windfall
+1 Sky Diamond
+1 High Tide
+1 Thought Reflection
+1 Negate
+1 Brainstorm
+1 Swiftfoot Boots
+1 Rogue's Passage
+1 Folio of Fancies
+1 Jace, Wielder of Mysteries
+1 Decanter of Endless Water
+1 Leveler
+1 Arcane Denial
+1 Oneirophage
+1 Consecrated Sphinx
+1 Enter the Infinite
+1 Myriad Landscape
+1 The Magic Mirror
+1 Lightning Greaves
+1 Reality Shift
+1 Sea Gate Restoration
+1 Treasure Cruise
+1 Frantic Search
+1 Lonely Sandbar
+1 Opt
+1 Rhystic Study
+1 Aetherize
+1 Sapphire Medallion
+1 Pongify
+1 Castle Vantress
+1 Forgotten Creation
+1 Dreamscape Artist
+1 Jace's Archivist
+1 Rapid Hybridization
+1 Spellbook
+1 Nezahal, Primal Tide
+1 Preordain
+1 Cyclonic Rift
+1 Thassa's Oracle
+1 Alhammarret's Archive
+1 Solemn Simulacrum
+1 Ponder
+1 Curse of the Swine
+1 Flow of Knowledge
+1 Defiler of Dreams
+1 Propaganda
+{'overall': 10.609685863874345, 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '28', 'interaction': 9, 'folder': 'edh', 'commander': 'OrmosArchiveKeeper.txt'}

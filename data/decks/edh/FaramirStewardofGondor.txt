@@ -1,0 +1,64 @@
+1 Faramir, Steward of Gondor
+1 Command Tower
+1 Faramir, Prince of Ithilien
+1 Sol Ring
+1 Arcane Signet
+1 Swords to Plowshares
+1 Glacial Fortress
+1 The Council of Four
+1 Champions of Minas Tirith
+1 Path to Exile
+1 Court of Grace
+1 Azorius Signet
+1 Prince Imrahil the Fair
+1 Prairie Stream
+1 Archivist of Gondor
+1 Flowering of the White Tree
+1 Horn of Gondor
+1 Talisman of Progress
+1 Boromir, Gondor's Hope
+1 Beregond of the Guard
+1 Baird, Steward of Argive
+1 Pippin, Guard of the Citadel
+1 Palace Jailer
+1 Reliquary Tower
+1 Raff Capashen, Ship's Mage
+1 Mangara, the Diplomat
+1 Sea of Clouds
+1 Minas Tirith
+1 Generous Gift
+1 Port Town
+1 Crown of Gondor
+1 Hallowed Fountain
+1 Keeper of Keys
+1 Counterspell
+1 Fealty to the Realm
+1 Path of Ancestry
+1 Deserted Beach
+1 Archon of Coronation
+1 Thought Vessel
+1 Coppercoat Vanguard
+1 Lossarnach Captain
+1 Odric, Master Tactician
+1 Myrel, Shield of Argive
+1 Temple of Enlightenment
+1 Gold-Forged Thopteryx
+1 Oji, the Exquisite Blade
+1 Boromir, Warden of the Tower
+1 Rivendell
+1 Venser, Shaper Savant
+1 Relic of Legends
+1 Adarkar Wastes
+1 War of the Last Alliance
+1 Mass Appeal
+1 Meneldor, Swift Savior
+1 Throne of the High City
+1 Skystrike Officer
+1 Supreme Verdict
+1 Ghostly Prison
+1 Exotic Orchard
+1 Grand Arbiter Augustin IV
+1 Call the Coppercoats
+1 Unbreakable Formation
+1 Arcane Denial
+{'overall': 5.507692307692308, 'cmc': 2.4761904761904763, 'ramp': '6', 'draw': '11', 'interaction': 9, 'folder': 'edh', 'commander': 'FaramirStewardofGondor.txt'}

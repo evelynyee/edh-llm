@@ -1,0 +1,101 @@
+1 Emperor Mihail II
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Mystic Forge
+1 Riddleform
+1 Rise of Eagles
+1 Ojutai's Summons
+1 Ugin, the Ineffable
+1 Sire of the Storm
+1 Skaab Ruinator
+1 Cruel Witness
+1 Dragonlord's Prerogative
+1 One with the Multiverse
+1 Ravenform
+1 Eye of Ugin
+1 Misthollow Griffin
+1 Precognition Field
+1 Jace's Sanctum
+1 A Little Chat
+1 Conduit of Ruin
+1 Dreamcatcher
+1 Alrund's Epiphany
+1 Hazoret's Monument
+1 God-Eternal Kefnet
+1 Mind's Desire
+1 Skaab Goliath
+1 Flash of Insight
+1 Dampen Thought
+1 Unblinking Bleb
+1 Artificer's Assistant
+1 Emry, Lurker of the Loch
+1 Aquatic Alchemist // Bubble Up
+1 Sight Beyond Sight
+1 Quasiduplicate
+1 Lunar Mystic
+1 Chorus of the Tides
+1 Merfolk Secretkeeper // Venture Deeper
+1 Reality Shift
+1 Artificer Class
+1 Ugin's Mastery
+1 Thrumming Stone
+1 Dragon's Eye Savants
+1 Arcane Savant
+1 Forbid
+1 Self-Reflection
+1 Comparative Analysis
+1 Stream of Thought
+1 Prescient Chimera
+1 Harbinger of the Tides
+1 Grimoire Thief
+1 Vesuvan Drifter
+1 Sapphire Dragon // Psionic Pulse
+1 Spellweaver Helix
+1 Chill of Foreboding
+1 Vedalken Aethermage
+1 Cosmos Charger
+1 Mindreaver
+1 Skyway Robber
+1 Psychic Puppetry
+1 Mishra's Self-Replicator
+1 Sakashima's Protege
+1 Metallurgic Summonings
+1 Young Blue Dragon // Sand Augury
+1 Archive Trap
+1 Swindler's Scheme
+1 Isochron Scepter
+{'overall': 5.278455284552845, 'cmc': 3.7846153846153845, 'ramp': '2', 'draw': '16', 'interaction': 5, 'folder': 'baseline', 'commander': 'EmperorMihailII.txt'}

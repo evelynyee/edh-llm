@@ -1,0 +1,101 @@
+1 Callaphe, Beloved of the Sea
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Mycosynth Golem
+1 Blinkmoth Infusion
+1 Somber Hoverguard
+1 Qumulox
+1 Myr Enforcer
+1 Frogmite
+1 Broodstar
+1 Thassa's Rebuff
+1 Quicksilver Elemental
+1 Thoughtcast
+1 Liberator, Urza's Battlethopter
+1 Training Grounds
+1 Karn's Sylex
+1 Oxidda Golem
+1 Spire Golem
+1 Hulking Metamorph
+1 Universal Surveillance
+1 Tangle Golem
+1 Karn, Legacy Reforged
+1 Lullmage's Domination
+1 Into Thin Air
+1 Power Artifact
+1 Exert Influence
+1 Brine Giant
+1 Of One Mind
+1 Winged Words
+1 Chief Engineer
+1 Hour of Need
+1 Heartstone
+1 Razor Golem
+1 Grand Architect
+1 Bastion Inventor
+1 Geistlight Snare
+1 Thassa, God of the Sea
+1 Vhal, Candlekeep Researcher
+1 Myr Superion
+1 Jetfire, Ingenious Scientist // Jetfire, Air Guardian
+1 Reverse Engineer
+1 Walking Skyscraper
+1 Inspiring Statuary
+1 Skittering Cicada
+1 Transcendent Message
+1 Steelfin Whale
+1 Wind-Kin Raiders
+1 Foundry Assembler
+1 Jhoira's Familiar
+1 Wizard's Retort
+1 Spawnsire of Ulamog
+1 Thryx, the Sudden Storm
+1 Inventive Iteration // Living Breakthrough
+1 Baral's Expertise
+1 Metalwork Colossus
+1 Piracy
+1 Foundry Inspector
+1 Etherium Sculptor
+1 Defiler of Dreams
+1 Visions of Duplicity
+1 Convergence of Dominion
+1 Draconic Lore
+1 Whir of Invention
+1 Meeting of Minds
+1 Sea Gate Colossus
+1 Kopala, Warden of Waves
+{'overall': 4.369354838709677, 'cmc': 4.769230769230769, 'ramp': '5', 'draw': '10', 'interaction': 4, 'folder': 'baseline', 'commander': 'CallapheBelovedoftheSea.txt'}

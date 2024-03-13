@@ -1,0 +1,101 @@
+1 Jenny, Generated Anomaly
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Kinjalli's Dawnrunner
+1 Miner's Guidewing
+1 Emissary of Sunrise
+1 Brazen Buccaneers
+1 Sunrise Seeker
+1 Countryside Crusher
+1 Descendants' Fury
+1 Fire Prophecy
+1 Aspiring Champion
+1 Volcanic Spite
+1 Sin Prodder
+1 Guiding Voice
+1 Conjurer's Mantle
+1 Sarkhan's Dragonfire
+1 Astrid Peth
+1 Scouring Sands
+1 Songbirds' Blessing
+1 Heirloom Blade
+1 Fireflux Squad
+1 Relic Seeker
+1 Flame Channeler // Embodiment of Flame
+1 Skirk Drill Sergeant
+1 Dune Mover
+1 Piercing Light
+1 Jaya's Firenado
+1 Warren Instigator
+1 Shifting Shadow
+1 Seasoned Dungeoneer
+1 Remembrance
+1 Armored Skyhunter
+1 Oaken Brawler
+1 Weatherlight
+1 Adder-Staff Boggart
+1 Enduring Renewal
+1 Gideon's Battle Cry
+1 Inscribed Tablet
+1 Goblin Charbelcher
+1 Ajani's Influence
+1 Winota, Joiner of Forces
+1 Call the Gatewatch
+1 Sparring Regimen
+1 Tomakul Scrapsmith
+1 Attentive Sunscribe
+1 Spite of Mogis
+1 Audacious Reshapers
+1 Spark Jolt
+1 Industrial Advancement
+1 Sensei's Divining Top
+1 Lightning Javelin
+1 Bolt of Keranos
+1 Chandra's Outburst
+1 Basri's Aegis
+1 Madcap Experiment
+1 Canal Dredger
+1 Rohirrim Chargers
+1 Epitaph Golem
+1 Goblin Lackey
+1 Ingenious Smith
+1 Heroes' Podium
+1 Liberating Combustion
+1 Sigiled Skink
+1 Lukka, Coppercoat Outcast
+1 Sarkhan's Triumph
+{'overall': 9.86, 'cmc': 3.0303030303030303, 'ramp': '2', 'draw': '32', 'interaction': 14, 'folder': 'baseline', 'commander': 'JennyGeneratedAnomaly.txt'}

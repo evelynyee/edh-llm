@@ -1,0 +1,64 @@
+1 Iroas, God of Victory
+1 Tuinvale Guide
+1 Wojek Apothecary
+1 Tilonalli's Skinshifter
+1 Valor in Akros
+1 Thraben Doomsayer
+1 Chaos Warp
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Austere Command
+1 Sol Ring
+1 Lightning Bolt
+1 Teroh's Vanguard
+1 Vassal's Duty
+1 Valiant Knight
+1 Tears of Valakut
+1 Thundermaw Hellkite
+1 Unchained Berserker
+1 Thraben Watcher
+1 Skirk Fire Marshal
+1 Trapjaw Tyrant
+1 Zephyr Boots
+1 Sunshot Militia
+1 Wall of Caltrops
+1 Venerable Warsinger
+1 Sword of Feast and Famine
+1 Sword of Truth and Justice
+1 Vengeful Archon
+1 Sword of the Paruns
+1 Tocatli Honor Guard
+1 Veteran Swordsmith
+1 Sword of Light and Shadow
+1 Swords to Plowshares
+1 Varchild's Crusader
+1 Veteran Cavalier
+1 Wall of Light
+1 Tah-Crop Elite
+1 Tenacity
+1 Thunderous Might
+1 Voice of Reason
+1 War Screecher
+1 Unbreakable Formation
+1 Wayward Giant
+1 Sungrace Pegasus
+1 Warden of the Inner Sky
+1 Tilonalli's Summoner
+1 Varchild, Betrayer of Kjeldor
+1 Topple
+1 Valorous Charge
+1 Zealous Inquisitor
+1 Word of Blasting
+1 You Hear Something on Watch
+1 Spiteful Banditry
+1 Whipgrass Entangler
+1 Striking Sliver
+1 Unerring Sling
+1 Valorous Steed
+1 Usher of the Fallen
+1 Vengeful Devil
+1 Tiger-Tribe Hunter
+1 Surge of Righteousness
+1 Wojek Bodyguard
+1 Zhalfirin Commander
+1 Throne of Empires
+{'overall': 1.95625, 'cmc': 3.0476190476190474, 'ramp': '1', 'draw': '1', 'interaction': 16, 'folder': 'gpt', 'commander': 'IroasGodofVictory.txt'}

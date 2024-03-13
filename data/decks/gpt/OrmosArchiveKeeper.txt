@@ -1,0 +1,66 @@
+1 Ormos, Archive Keeper
+1 Wistful Thinking
+1 Well of Ideas
+1 Thassa's Intervention
+1 Sphinx of Magosi
+1 Trophy Mage
+1 Wanderwine Prophets
+1 Voidmage Husher
+1 Thassa's Bounty
+1 Whir of Invention
+1 Wizards of the _____
+1 Witches' Eye
+1 Windswept Heath
+1 Tower of Fortunes
+1 Counterspell
+1 Teferi's Tutelage
+1 Thought Lash
+1 Sphinx of Lost Truths
+1 Windfall
+1 Stream of Thought
+1 Thought Nibbler
+1 Talion's Messenger
+1 Thought Monitor
+1 Teferi's Wavecaster
+1 Sphinx of Enlightenment
+1 Urza's Incubator
+1 Sphinx of Clear Skies
+1 Arcane Signet
+1 Teferi's Puzzle Box
+1 Whirlpool Rider
+1 Vizier of Tumbling Sands
+1 Venser's Journal
+1 Withdraw
+1 Zhalfirin Void
+1 Stolen Goods
+1 Traumatic Visions
+1 Tolarian Winds
+1 Wheel and Deal
+1 Tezzeret's Ambition
+1 Trinket Mage
+1 Tolarian Sentinel
+1 Vedalken Mastermind
+1 Swashbuckler's Whip
+1 Thought Sponge
+1 Teferi's Protege
+1 Wingspan Mentor
+1 Vedalken Archmage
+1 Trinisphere
+1 Temple Bell
+1 Synod Sanctum
+1 Mana Vault
+1 The Magic Mirror
+1 Thought Reflection
+1 Trusted Advisor
+1 War Room
+1 Visions of Beyond
+1 Sphinx of Uthuun
+1 Skyclave Plunder
+1 Treasure Cruise
+1 Supreme Will
+1 Teferi's Ageless Insight
+1 Take Inventory
+1 Unexplained Disappearance
+1 Unlicensed Hearse
+1 Tezzeret, Artifice Master
+{'overall': 11.27017543859649, 'cmc': 3.5076923076923077, 'ramp': '4', 'draw': '38', 'interaction': 4, 'folder': 'gpt', 'commander': 'OrmosArchiveKeeper.txt'}

@@ -1,0 +1,69 @@
+1 Kalamax, the Stormsire
+1 Wand of Wonder
+1 Thwart
+1 Zendikar Resurgent
+1 The Peregrine Dynamo
+1 Urza's Miter
+1 Thousand-Year Storm
+1 Varis, Silverymoon Ranger
+1 Unesh, Criosphinx Sovereign
+1 Wibbly-wobbly, Timey-wimey
+1 Waterlogged Hulk // Watertight Gondola
+1 Time Beetle
+1 Withdraw
+1 Unexplained Vision
+1 Volshe Tideturner
+1 Titania's Chosen
+1 Unblinking Observer
+1 Thrumming Stone
+1 Twincast
+1 The Twelfth Doctor
+1 Ugin, the Ineffable
+1 Wrenn and Realmbreaker
+1 Wild-Magic Sorcerer
+1 Vacuumelt
+1 Vine Kami
+1 Woodland Guidance
+1 Wavesifter
+1 Voracious Greatshark
+1 Volrath's Shapeshifter
+1 Woolly Loxodon
+1 Umara Entangler
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Volcanic Torrent
+1 Two-Headed Hunter // Twice the Rage
+1 Venarian Glimmer
+1 Verazol, the Split Current
+1 Force of Negation
+1 Wanderwine Prophets
+1 Verdant Touch
+1 Yuki-Onna
+1 Talent of the Telepath
+1 Taurean Mauler
+1 Will-Forged Golem
+1 Mana Vault
+1 Varchild's War-Riders
+1 Wreck and Rebuild
+1 Virtue of Strength // Garenbrig Growth
+1 Yeva, Nature's Herald
+1 Voidmage Husher
+1 Red Elemental Blast
+1 Wand of Ith
+1 Vexing Scuttler
+1 Willow Priestess
+1 Web of Inertia
+1 World at War
+1 Teach by Example
+1 Yavimaya Sojourner
+1 Waylaying Pirates
+1 Thermo-Alchemist
+1 Voidmage Prodigy
+1 Tolarian Kraken
+1 Volo, Guide to Monsters
+1 Weaver of Lies
+1 Urza's Filter
+1 Storm King's Thunder
+1 Vesuvan Drifter
+1 Wild Onslaught
+1 The Sixth Doctor
+{'overall': 5.55936329588015, 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}

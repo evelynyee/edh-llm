@@ -1,0 +1,69 @@
+1 Garza Zol, Plague Queen
+1 Whirling Catapult
+1 Stromkirk Noble
+1 Writ of Passage
+1 Wizard's Lightning
+1 Thunderbolt
+1 Turn // Burn
+1 Toxic Iguanar
+1 Synapse Sliver
+1 Surtland Flinger
+1 Woebearer
+1 Vicious Hunger
+1 Viashino Heretic
+1 Viashino Spearhunter
+1 Toralf, God of Fury // Toralf's Hammer
+1 Touch of Moonglove
+1 Tomb Blade
+1 Zuran Enchanter
+1 Windrider Patrol
+1 Stromkirk Patrol
+1 Talon of Pain
+1 Varchild, Betrayer of Kjeldor
+1 Uncaged Fury
+1 Sword of Truth and Justice
+1 Vent Sentinel
+1 Trickster's Talisman
+1 Warped Devotion
+1 Strixhaven Stadium
+1 Uncle Istvan
+1 Toshiro Umezawa
+1 Sword of Feast and Famine
+1 Wail of the Nim
+1 Tymaret, the Murder King
+1 Tower of Calamities
+1 Walking Ballista
+1 Where Ancients Tread
+1 Witch Hunt
+1 Tar Pitcher
+1 Volcanic Eruption
+1 Time Beetle
+1 Writ of Return
+1 Zap
+1 Yuan Shao's Infantry
+1 Uglúk of the White Hand
+1 Wojek Embermage
+1 Vampire Hexmage
+1 Visions of Brutality
+1 Yotia Declares War
+1 Witty Roastmaster
+1 Wrap in Flames
+1 Turret Ogre
+1 Witch-king of Angmar
+1 Unforge
+1 Thunder Dragon
+1 Throwing Knife
+1 Words of Wind
+1 Sulfuric Vortex
+1 Zulaport Cutthroat
+1 Trepanation Blade
+1 Zagras, Thief of Heartbeats
+1 Vex
+1 Tremor
+1 Warmonger
+1 Vigilante Justice
+1 Too Greedily, Too Deep
+1 Word of Blasting
+1 Westgate Regent
+1 Windreader Sphinx
+{'overall': 3.6714285714285713, 'cmc': 3.5, 'ramp': '1', 'draw': '6', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'GarzaZolPlagueQueen.txt'}

@@ -1,0 +1,69 @@
+1 Gretchen Titchwillow
+1 Wild Pair
+1 Vivisection
+1 Turntimber Sower
+1 Timeless Witness
+1 Waterlogged Hulk // Watertight Gondola
+1 Windreader Sphinx
+1 Wondrous Crucible
+1 Tragic Lesson
+1 Watcher in the Mist
+1 Whim of Volrath
+1 Tempest Hart // Scan the Clouds
+1 Winding Way
+1 The Stone Brain
+1 Wall of Lost Thoughts
+1 Wary Thespian
+1 Voidmage Prodigy
+1 Tuinvale Treefolk // Oaken Boon
+1 Warped Landscape
+1 Thornado
+1 Urza's Incubator
+1 Zahid, Djinn of the Lamp
+1 Venser, Shaper Savant
+1 Thought Courier
+1 Vivien on the Hunt
+1 Yavimaya Elder
+1 Veil of Secrecy
+1 Watcher for Tomorrow
+1 Wormfang Newt
+1 Trash Bin
+1 Wirewood Herald
+1 Yavimaya Granger
+1 Witness of Tomorrows
+1 Vessel of Nascency
+1 Wizards of the _____
+1 Wild Dogs
+1 Sylvan Bounty
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Tidal Courier
+1 Winter Eladrin
+1 Wayfarer's Bauble
+1 Unexplained Disappearance
+1 Yavimaya, Cradle of Growth
+1 Stoic Builder
+1 Triassic Egg
+1 Wrenn and Realmbreaker
+1 Vexing Arcanix
+1 Whirling Catapult
+1 Transplant Theorist
+1 Threats Undetected
+1 Walk the Aeons
+1 Thran Foundry
+1 Waterfront Bouncer
+1 Voidwielder
+1 The Binding of the Titans
+1 Vedalken Aethermage
+1 The Great Aurora
+1 Winnower Patrol
+1 Vexing Sphinx
+1 Talion's Messenger
+1 Vivien's Grizzly
+1 Temporal Aperture
+1 Voidwalk
+1 Windswept Heath
+1 Trophy Mage
+1 Wand of Denial
+1 You Find the Villains' Lair
+1 Vedalken Entrancer
+{'overall': 10.821004566210044, 'cmc': 3.2205882352941178, 'ramp': '9', 'draw': '31', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}

@@ -1,0 +1,101 @@
+1 Masako the Humorless
+1 Seafarer's Quay
+1 Cathedral of Serra
+1 Unholy Citadel
+1 Mountain Stronghold
+1 Adventurers' Guildhouse
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Warded Battlements
+1 Sentinel Sliver
+1 Serra's Blessing
+1 Akron Legionnaire
+1 Serra's Guardian
+1 Great Wall
+1 Glaring Spotlight
+1 Azorius Justiciar
+1 Wall of Glare
+1 Zhang Fei, Fierce Warrior
+1 Shu General
+1 Skyhunter Prowler
+1 Reveille Squad
+1 Lyev Decree
+1 Rolling Stones
+1 Phyrexian Colossus
+1 Tezzeret's Strider
+1 Spiritual Asylum
+1 Shu Elite Companions
+1 Shu Cavalry
+1 Moat
+1 Magus of the Moat
+1 Hollow Warrior
+1 Amrou Seekers
+1 Light of Day
+1 Spectral Rider
+1 Breaker of Armies
+1 Arena of the Ancients
+1 Soltari Priest
+1 Soltari Monk
+1 Audacious Infiltrator
+1 Linvala, Keeper of Silence
+1 Spectral Grasp
+1 Wakestone Gargoyle
+1 Static Orb
+1 Merry-Go-Round
+1 Solemnity
+1 Silverbeak Griffin
+1 Dancing Scimitar
+1 Colorful Feiyi Sparrow
+1 Fortified Area
+1 Robaran Mercenaries
+1 Seeker
+1 Archangel of Tithes
+1 Soltari Foot Soldier
+1 War Falcon
+1 Greater Auramancy
+1 Stalwart Shield-Bearers
+1 Veteran Cavalier
+1 Sun Sentinel
+1 Steadfast Guard
+1 Knight of the Tusk
+1 Huatli's Snubhorn
+1 Guardian Lions
+1 Alpine Watchdog
+1 Leonin Abunas
+1 Graaz, Unstoppable Juggernaut
+1 Family Reunion
+1 Maze Sentinel
+1 Sunweb
+1 Peace Talks
+1 Staff of the Ages
+1 Forbidding Spirit
+{'overall': 0.6572769953051644, 'cmc': 3.0428571428571427, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'MasakotheHumorless.txt'}

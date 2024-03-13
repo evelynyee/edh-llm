@@ -1,0 +1,101 @@
+1 Iroas, God of Victory
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Surge of Salvation
+1 Gideon, the Oathsworn
+1 Bronze Horse
+1 Blazethorn Scarecrow
+1 Kirtar's Wrath
+1 Gideon of the Trials
+1 Forth Eorlingas!
+1 Fiendslayer Paladin
+1 Cliffside Rescuer
+1 Multiclass Baldric
+1 Purphoros, God of the Forge
+1 Varchild, Betrayer of Kjeldor
+1 Thornwatch Scarecrow
+1 Unchained Berserker
+1 Light of Sanction
+1 Cosmotronic Wave
+1 Hazardous Blast
+1 Huatli, Warrior Poet
+1 Eerie Interference
+1 Sentinel Sliver
+1 March of Souls
+1 Sungrace Pegasus
+1 Acolyte's Reward
+1 Serra's Blessing
+1 Orbs of Warding
+1 Knight of Glory
+1 Inquisitor's Snare
+1 Gideon, Martial Paragon
+1 Channel Harm
+1 Archetype of Aggression
+1 Paladin en-Vec
+1 Errand of Duty
+1 Archon of Absolution
+1 Divine Visitation
+1 Fall of Cair Andros
+1 Raiding Party
+1 Gideon, Ally of Zendikar
+1 Dawnstrike Paladin
+1 Gideon Jura
+1 Ember Gale
+1 Spectra Ward
+1 Goblin Piledriver
+1 Rush of Battle
+1 Loyal Unicorn
+1 Veteran Cavalier
+1 Sun Sentinel
+1 Steadfast Guard
+1 Knight of the Tusk
+1 Huatli's Snubhorn
+1 Guardian Lions
+1 Alpine Watchdog
+1 Combust
+1 Spectrum Sentinel
+1 Knight of Grace
+1 Horde of Boggarts
+1 Legion Loyalist
+1 Baeloth Barrityl, Entertainer
+1 Safe Passage
+1 Divine Light
+1 Descent of the Dragons
+1 Combat Calligrapher
+1 Endure
+1 Boros Mastiff
+{'overall': 1.2230659025787967, 'cmc': 3.49, 'ramp': '0', 'draw': '0', 'interaction': 13, 'folder': 'baseline', 'commander': 'IroasGodofVictory.txt'}

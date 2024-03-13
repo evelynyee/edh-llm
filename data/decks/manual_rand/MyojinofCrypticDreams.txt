@@ -1,0 +1,69 @@
+1 Myojin of Cryptic Dreams
+1 Umara Wizard // Umara Skyfalls
+1 Mana Vault
+1 Wanderguard Sentry
+1 The Everflowing Well // The Myriad Pools
+1 Wibbly-wobbly, Timey-wimey
+1 The Monumental Facade
+1 Wake Thrasher
+1 Vorrac Battlehorns
+1 Wavecrash Triton
+1 Vexing Scuttler
+1 Spawning Pit
+1 Sludge Monster
+1 Unesh, Criosphinx Sovereign
+1 Workshop Assistant
+1 Undiscovered Paradise
+1 Wedding Invitation
+1 Tide Shaper
+1 Wind Sail
+1 Summoner's Bane
+1 Steel Overseer
+1 Thrummingbird
+1 Force of Will
+1 Surrounded by Orcs
+1 Undead Alchemist
+1 Stonecoil Serpent
+1 Vigean Graftmage
+1 Watertrap Weaver
+1 The Seedcore
+1 Weaver of Lies
+1 Workhorse
+1 Urza, Lord High Artificer
+1 Wormfang Manta
+1 The Peregrine Dynamo
+1 Treasure Map // Treasure Cove
+1 Toothy, Imaginary Friend
+1 Treason of Isengard
+1 Soultether Golem
+1 Willbreaker
+1 The Phasing of Zhalfir
+1 Walk the Aeons
+1 Thunderhawk Gunship
+1 Thermal Flux
+1 Unstable Shapeshifter
+1 Temple of the Dragon Queen
+1 Triton Waverider
+1 Wandering Archaic // Explore the Vastlands
+1 Transmogrifying Wand
+1 Wash Away
+1 Volrath's Laboratory
+1 Time of Ice
+1 Twiddle
+1 Wicker Picker
+1 Thoughtbound Phantasm
+1 Turn into a Pumpkin
+1 Wandering Archaic // Explore the Vastlands
+1 Mind Stone
+1 Tidal Control
+1 Star Whale
+1 Thought-Knot Seer
+1 Tezzeret, Betrayer of Flesh
+1 Thopter Mechanic
+1 Tandem Lookout
+1 Toils of Night and Day
+1 Teferi, Temporal Pilgrim
+1 Vesuvan Duplimancy
+1 Tumble Magnet
+1 Vodalian Mage
+{'overall': 7.182608695652173, 'cmc': 3.4328358208955225, 'ramp': '9', 'draw': '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MyojinofCrypticDreams.txt'}

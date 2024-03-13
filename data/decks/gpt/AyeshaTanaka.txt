@@ -1,0 +1,64 @@
+1 Ayesha Tanaka
+1 Wojek Apothecary
+1 Wu Elite Cavalry
+1 Warlord's Elite
+1 Tolaria
+1 Willbreaker
+1 Thalakos Deceiver
+1 Vhal, Candlekeep Researcher
+1 Thassa's Emissary
+1 Teferi, Master of Time
+1 Counterspell
+1 Unctus's Retrofitter
+1 Vedalken Shackles
+1 Wondrous Crucible
+1 Vial of Poison
+1 Sword of Feast and Famine
+1 Vedalken Mesmerist
+1 Zephyr Boots
+1 Way of the Thief
+1 Vodalian Serpent
+1 Teferi's Protection
+1 Vedalken Infiltrator
+1 Venser, the Sojourner
+1 Zndrsplt's Judgment
+1 Sunweb
+1 Spectral Grasp
+1 Wavecrash Triton
+1 Tidal Surge
+1 Sungrace Pegasus
+1 Vaporous Djinn
+1 Teferi's Realm
+1 Vedalken Anatomist
+1 Wall of Kelp
+1 Vodalian Mage
+1 Zephyr Singer
+1 Tidal Flats
+1 Vedalken Certarch
+1 Mana Drain
+1 Teferi's Response
+1 Time Warp
+1 Thada Adel, Acquisitor
+1 Trench Behemoth
+1 Vulpine Harvester
+1 Stasis Cocoon
+1 Wall of Glare
+1 Vedalken Humiliator
+1 Unified Will
+1 Verity Circle
+1 Turnabout
+1 Mana Vault
+1 Teferi's Moat
+1 Umezawa's Jitte
+1 Supreme Verdict
+1 Teferi, Timeless Voyager
+1 Toymaker
+1 Stalwart Aven
+1 Wingfold Pteron
+1 Trap Digger
+1 Vassal's Duty
+1 Thunder Wall
+1 Wu Light Cavalry
+1 Stonybrook Banneret
+1 Unbreakable Formation
+{'overall': 3.023762376237624, 'cmc': 3.2063492063492065, 'ramp': '2', 'draw': '6', 'interaction': 8, 'folder': 'gpt', 'commander': 'AyeshaTanaka.txt'}

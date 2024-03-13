@@ -1,0 +1,65 @@
+1 Obyra, Dreaming Duelist
+1 Talas Explorer
+1 Vodalian Mage
+1 Vodalian Merchant
+1 Vodalian Serpent
+1 Vodalian Hexcatcher
+1 Vampire Envoy
+1 Volo, Itinerant Scholar
+1 Tempest Caller
+1 Victimize
+1 Wing Splicer
+1 Waterspout Djinn
+1 Throne of the Grim Captain // The Grim Captain
+1 Virtue of Knowledge // Vantress Visions
+1 Tandem Lookout
+1 Tomb Blade
+1 Torment of Hailfire
+1 Torgaar, Famine Incarnate
+1 Ugin, the Spirit Dragon
+1 Vito, Thorn of the Dusk Rose
+1 Vraska's Contempt
+1 Well of Lost Dreams
+1 Veil of Birds
+1 Thoughtcutter Agent
+1 Mana Vault
+1 Vampiric Touch
+1 Waterwhirl
+1 Whirlwind Denial
+1 Willow-Wind
+1 Vedalken Shackles
+1 Counterspell
+1 Demonic Tutor
+1 Mana Drain
+1 Wanderwine Prophets
+1 Vexing Sphinx
+1 Tidal Control
+1 Tide Shaper
+1 Tideforce Elemental
+1 Vampire Neonate
+1 Tower of Eons
+1 Tribute to Hunger
+1 Wanderguard Sentry
+1 Yarok's Wavecrasher
+1 Whisper, Blood Liturgist
+1 Triskelavus
+1 Vengeful Warchief
+1 Vraska's Finisher
+1 Triskaidekaphobia
+1 Windscouter
+1 Zareth San, the Trickster
+1 Vraska's Conquistador
+1 Veinwitch Coven
+1 Transmogrifying Wand
+1 Venser's Journal
+1 Thief of Hope
+1 Weed Strangle
+1 Vengeful Dead
+1 Thought-Knot Seer
+1 Thought Sponge
+1 Virtus's Maneuver
+1 Supreme Exemplar
+1 Warkite Marauder
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Umbris, Fear Manifest
+{'overall': 3.7993562231759657, 'cmc': 3.640625, 'ramp': '3', 'draw': '8', 'interaction': 10, 'folder': 'gpt', 'commander': 'ObyraDreamingDuelist.txt'}

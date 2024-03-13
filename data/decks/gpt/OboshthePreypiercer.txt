@@ -1,0 +1,66 @@
+1 Obosh, the Preypiercer
+1 Wheel of Fate
+1 Thoughtseize
+1 Urabrask // The Great Work
+1 Sol Ring
+1 Mana Vault
+1 Thought-Knot Seer
+1 Vampiric Tutor
+1 Dark Ritual
+1 Whispers of Emrakul
+1 Wandering Archaic // Explore the Vastlands
+1 Thunderous Wrath
+1 Tombstalker
+1 Whirling Catapult
+1 Vraska's Contempt
+1 Damnation
+1 Volcanic Offering
+1 Tormented Hero
+1 Toralf, God of Fury // Toralf's Hammer
+1 Viashino Heretic
+1 Wildfire Devils
+1 The Flame of Keld
+1 Sword of Hearth and Home
+1 Transmogrify
+1 Wishclaw Talisman
+1 Terminate
+1 Urza's Incubator
+1 Tectonic Giant
+1 Taurean Mauler
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Zealot of the God-Pharaoh
+1 Tectonic Break
+1 Zhalfirin Void
+1 Tuktuk Scrapper
+1 Soldevi Sentry
+1 Vindictive Lich
+1 Mind Stone
+1 Tourach's Canticle
+1 Withering Wisps
+1 Swashbuckler's Whip
+1 Visions of Dread
+1 Wake the Dead
+1 Spellbinder
+1 Stinging Study
+1 Visage of Dread // Dread Osseosaur
+1 Unmask
+1 Vexing Puzzlebox
+1 Wasteland Strangler
+1 Wayward Guide-Beast
+1 Storybook Ride
+1 Struggle for Sanity
+1 Go for the Throat
+1 Sycorax Commander
+1 Whisper Squad
+1 Zombie Assassin
+1 Wildfire
+1 Uba Mask
+1 Uchuulon
+1 Witches' Eye
+1 Wake to Slaughter
+1 Wrenn's Resolve
+1 Wild Magic Surge
+1 Virtus the Veiled
+1 Tomb Robber
+1 Zada, Hedron Grinder
+{'overall': 6.946766169154229, 'cmc': 3.0923076923076924, 'ramp': '9', 'draw': '13', 'interaction': 16, 'folder': 'gpt', 'commander': 'OboshthePreypiercer.txt'}

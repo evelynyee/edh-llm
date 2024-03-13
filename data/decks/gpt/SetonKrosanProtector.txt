@@ -1,0 +1,65 @@
+1 Seton, Krosan Protector
+1 Whisperer of the Wilds
+1 Avenger of Zendikar
+1 Ugin's Construct
+1 Silt Crawler
+1 Warden of the Wall
+1 Whirlermaker
+1 Weaver of Harmony
+1 Workshop Warchief
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Snow-Covered Forest
+1 Vastwood Surge
+1 Verdant Haven
+1 Woodfall Primus
+1 Wurmcoil Engine
+1 Green Sun's Zenith
+1 Sylvan Caryatid
+1 Sol Ring
+1 Urza's Tower
+1 Titanic Brawl
+1 Thundering Wurm
+1 Tangle Wire
+1 Yisan, the Wanderer Bard
+1 Verdant Eidolon
+1 Thrive
+1 Wild Growth
+1 Village Elder
+1 Llanowar Elves
+1 Tree of Tales
+1 Wren's Run Packmaster
+1 Turntimber Grove
+1 Wren's Run Hydra
+1 Sylvan Advocate
+1 Yew Spirit
+1 Vine Gecko
+1 War Room
+1 Verdeloth the Ancient
+1 Thran Dynamo
+1 Vernal Bloom
+1 Vitaspore Thallid
+1 Vines of Vastwood
+1 Thermokarst
+1 Wildgrowth Walker
+1 Suncrusher
+1 Unstable Frontier
+1 Zelyon Sword
+1 Bloom Tender
+1 Vorapede
+1 Sphere of the Suns
+1 Upwelling
+1 Suntouched Myr
+1 Vivien, Arkbow Ranger
+1 Tireless Tracker
+1 Wrenn and Seven
+1 Vastwood Hydra
+1 Symbiotic Deployment
+1 Sunken Citadel
+1 Tower of the Magistrate
+1 Tranquil Thicket
+1 Squirrel Wrangler
+1 Transmogrifying Wand
+1 Tyrite Sanctum
+1 Wirewood Channeler
+1 Triskelion
+{'overall': 6.465083798882682, 'cmc': 2.796875, 'ramp': '14', 'draw': '8', 'interaction': 5, 'folder': 'gpt', 'commander': 'SetonKrosanProtector.txt'}

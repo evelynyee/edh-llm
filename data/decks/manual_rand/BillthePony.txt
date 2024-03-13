@@ -1,0 +1,69 @@
+1 Bill the Pony
+1 War Report
+1 Slaughter the Strong
+1 Sword of the Ages
+1 Sky Skiff
+1 Union of the Third Path
+1 Land Tax
+1 Vampire Slayer
+1 White Dragon
+1 Skyshaper
+1 Wand of the Elements
+1 Sheer Drop
+1 Sunfall
+1 Tempting Contract
+1 Silent Dart
+1 Staff of the Wild Magus
+1 Sworn Companions
+1 Thraben Sentry // Thraben Militia
+1 Worthy Knight
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Spawning Bed
+1 Wizard's Rockets
+1 Wirefly Hive
+1 Ugin, the Ineffable
+1 Take Up Arms
+1 War Chariot
+1 Staff of the Flame Magus
+1 Topple
+1 Speakeasy Server
+1 Tetravus
+1 Windborn Muse
+1 Silverflame Ritual
+1 Solitude
+1 Slagstone Refinery
+1 Well of Life
+1 Surge of Salvation
+1 Stone Retrieval Unit
+1 Austere Command
+1 Voltaic Servant
+1 Trueheart Duelist
+1 Spectrum Sentinel
+1 Trusted Pegasus
+1 Team Pennant
+1 Troubled Healer
+1 Spectral Reserves
+1 Tempered Steel
+1 Wake the Reflections
+1 Windbrisk Raptor
+1 Tanglebloom
+1 Wedding Announcement // Wedding Festivity
+1 Warchanter Skald
+1 Voltaic Construct
+1 Sliversmith
+1 Spirit Link
+1 Weight of Conscience
+1 Unassuming Sage
+1 Teroh's Vanguard
+1 Westfold Rider
+1 Venerable Monk
+1 Valor in Akros
+1 Wall of Essence
+1 Vulshok Morningstar
+1 Syndic of Tithes
+1 Ugin, the Spirit Dragon
+1 Spawnsire of Ulamog
+1 Surestrike Trident
+1 Ultramarines Honour Guard
+1 Teyo, Geometric Tactician
+{'overall': 4.262612612612613, 'cmc': 3.264705882352941, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}

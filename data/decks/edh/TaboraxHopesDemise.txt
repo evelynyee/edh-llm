@@ -1,0 +1,64 @@
+1 Taborax, Hope's Demise
+1 Shadowborn Apostle
+1 Sol Ring
+1 Echoing Return
+1 Dark Ritual
+1 Feed the Swarm
+1 Thrumming Stone
+1 Cabal Coffers
+1 Vilis, Broker of Blood
+1 Arcane Signet
+1 Razaketh, the Foulblooded
+1 Skullclamp
+1 Rune-Scarred Demon
+1 Shadow-Rite Priest
+1 Harvester of Souls
+1 Westvale Abbey
+1 Liliana's Contract
+1 Village Rites
+1 Ob Nixilis, Unshackled
+1 Secret Salvage
+1 Cabal Stronghold
+1 Patriarch's Bidding
+1 Bojuka Bog
+1 Urborg, Tomb of Yawgmoth
+1 Reliquary Tower
+1 Archfiend of Depravity
+1 Crypt of Agadeem
+1 Black Market
+1 Lightning Greaves
+1 Dreadfeast Demon
+1 Sign in Blood
+1 Songs of the Damned
+1 Relic Vial
+1 Zulaport Cutthroat
+1 Rotlung Reanimator
+1 Bolas's Citadel
+1 Defile
+1 Archfiend of Despair
+1 Nykthos, Shrine to Nyx
+1 Reaper from the Abyss
+1 Priest of Forgotten Gods
+1 Shirei, Shizo's Caretaker
+1 Infernal Grasp
+1 Victimize
+1 Skirsdag High Priest
+1 Blood Artist
+1 Phyrexian Tower
+1 Crypt Ghast
+1 Demonic Tutor
+1 Bontu's Monument
+1 Witch's Cottage
+1 Doomed Necromancer
+1 Living Death
+1 Swiftfoot Boots
+1 Demon's Disciple
+1 Tragic Slip
+1 Gray Merchant of Asphodel
+1 Whisper, Blood Liturgist
+1 Lord of the Void
+1 Phyrexian Arena
+1 Charcoal Diamond
+1 Myriad Landscape
+1 Dictate of Erebos
+{'overall': 6.42741935483871, 'cmc': 2.9523809523809526, 'ramp': '8', 'draw': '14', 'interaction': 5, 'folder': 'edh', 'commander': 'TaboraxHopesDemise.txt'}

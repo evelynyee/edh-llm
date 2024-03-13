@@ -1,0 +1,68 @@
+1 Jazal Goldmane
+1 Sunseed Nurturer
+1 Sungrace Pegasus
+1 Serra Paladin
+1 Serra the Benevolent
+1 Triumph of Gerrard
+1 Tandem Tactics
+1 Thraben Watcher
+1 Warden of the Inner Sky
+1 Valor in Akros
+1 White Shield Crusader
+1 Valiant Knight
+1 Spirit of the Spires
+1 Sword of Truth and Justice
+1 Sword of Feast and Famine
+1 Tuinvale Guide
+1 Thunder Totem
+1 Teroh's Vanguard
+1 Tundra Wolves
+1 Touch of the Eternal
+1 Mana Crypt
+1 Mana Vault
+1 Arcane Signet
+1 Sol Ring
+1 Temple Elder
+1 Wojek Apothecary
+1 Vassal's Duty
+1 Steadfast Sentry
+1 Voice of Reason
+1 Taranika, Akroan Veteran
+1 Warrior's Stand
+1 Windborne Charge
+1 Zealous Strike
+1 Rush of Battle
+1 Sworn Defender
+1 Soltari Emissary
+1 Soraya the Falconer
+1 Topple
+1 Soltari Champion
+1 Wingrattle Scarecrow
+1 War Report
+1 Trenching Steed
+1 Teferi's Protection
+1 Austere Command
+1 Sword of the Paruns
+1 Warlord's Elite
+1 Well of Lost Dreams
+1 Zephyrim
+1 Syr Alin, the Lion's Claw
+1 Zephyr Boots
+1 Sentinel Sliver
+1 Spirit Weaver
+1 War Screecher
+1 Venerated Loxodon
+1 Skysovereign, Consul Flagship
+1 Territorial Roc
+1 Voice of Truth
+1 Winds of Abandon
+1 Thalia's Geistcaller
+1 Wingbeat Warrior
+1 Victory's Herald
+1 Tenth District Guard
+1 Spatial Contortion
+1 Thousand-Year Elixir
+1 Vigilance
+1 Sword of Vengeance
+1 Umezawa's Jitte
+{'overall': 3.3473429951690825, 'cmc': 3.08955223880597, 'ramp': '6', 'draw': '4', 'interaction': 4, 'folder': 'gpt', 'commander': 'JazalGoldmane.txt'}

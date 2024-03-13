@@ -1,0 +1,64 @@
+1 Ayesha Tanaka
+1 Sol Ring
+1 Command Tower
+1 Swords to Plowshares
+1 Arcane Signet
+1 Benalish Hero
+1 Pikemen
+1 Mesa Pegasus
+1 Shield Bearer
+1 Kjeldoran Warrior
+1 Counterspell
+1 Azorius Signet
+1 Icatian Skirmishers
+1 Baton of Morale
+1 Prairie Stream
+1 Kjeldoran Knight
+1 Kjeldoran Skyknight
+1 Benalish Infantry
+1 Icatian Infantry
+1 Helm of Chatzuk
+1 Glacial Fortress
+1 Kjeldoran Skycaptain
+1 Path to Exile
+1 Icatian Phalanx
+1 Urza's Engine
+1 Commander's Sphere
+1 Kjeldoran Escort
+1 Battering Ram
+1 War Elephant
+1 Stuffy Doll
+1 Irrigated Farmland
+1 Temple of Enlightenment
+1 Errand of Duty
+1 Azorius Chancery
+1 Hallowed Fountain
+1 Noble Elephant
+1 Wall of Shields
+1 Cooperation
+1 Sun Titan
+1 Port Town
+1 Formation
+1 Marble Diamond
+1 Teremko Griffin
+1 Always Watching
+1 Sky Diamond
+1 Dovin's Veto
+1 Odric, Lunarch Marshal
+1 Mind Stone
+1 Liquimetal Torque
+1 Negate
+1 Wrath of God
+1 Frontline Medic
+1 Evolving Wilds
+1 Odric, Master Tactician
+1 Bident of Thassa
+1 Rhystic Study
+1 Glorious Anthem
+1 Deserted Beach
+1 Brave the Sands
+1 Reliquary Tower
+1 Kjeldoran Phalanx
+1 Knights of Thorn
+1 Brainstorm
+{'overall': 4.908369098712446, 'cmc': 2.33, 'ramp': '8', 'draw': '7', 'interaction': 6, 'folder': 'edh', 'commander': 'AyeshaTanaka.txt'}

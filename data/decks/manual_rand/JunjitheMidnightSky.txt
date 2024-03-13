@@ -1,0 +1,69 @@
+1 Junji, the Midnight Sky
+1 Triangle of War
+1 Thrull Surgeon
+1 Whirling Catapult
+1 Wrench Mind
+1 Synod Sanctum
+1 Umbilicus
+1 Tower of Fortunes
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Tourach, Dread Cantor
+1 Vanquisher's Banner
+1 Wooded Foothills
+1 Soul Strings
+1 Volrath's Stronghold
+1 Zombie Apocalypse
+1 Yarok's Fenlurker
+1 Watchers of the Dead
+1 Thallid Soothsayer
+1 Szarekh, the Silent King
+1 Throne of the God-Pharaoh
+1 Wit's End
+1 Wheel of Torture
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Skull Raid
+1 Terror of Towashi
+1 Vraska's Conquistador
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Takenuma, Abandoned Mire
+1 Stone of Erech
+1 Whisper Squad
+1 Walking Atlas
+1 The Black Gate
+1 Thrasher Brute
+1 Volrath the Fallen
+1 Volrath's Dungeon
+1 The Stone Brain
+1 Thrilling Encore
+1 Zombie Assassin
+1 Vindictive Lich
+1 Xenic Poltergeist
+1 Witness the End
+1 Wand of Ith
+1 Wound Reflection
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Vicious Rumors
+1 Zhulodok, Void Gorger
+1 Vicious Battlerager
+1 Vengeful Strangler // Strangling Grasp
+1 Slate of Ancestry
+1 Soul Conduit
+1 Smelting Vat
+1 Tenured Inkcaster
+1 Tetzimoc, Primal Death
+1 Syr Ginger, the Meal Ender
+1 Struggle for Sanity
+1 Witches' Eye
+1 Mind Stone
+1 Scrounge
+1 Mana Crypt
+1 Whetwheel
+1 Undying Beast
+1 Ugin, the Ineffable
+1 Tablet of Epityr
+1 Skeleton Shard
+1 Wasp of the Bitter End
+1 Yawgmoth's Edict
+1 Unmake the Graves
+1 Unmask
+{'overall': 4.660224089635854, 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'JunjitheMidnightSky.txt'}

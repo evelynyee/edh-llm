@@ -1,0 +1,65 @@
+1 The Ever-Changing 'Dane
+1 Animate Dead
+1 Wurmcoil Engine
+1 Zombie Master
+1 Vampiric Sliver
+1 Dark Ritual
+1 Zephyrim
+1 Wall of Tears
+1 Warping Wail
+1 Witness Protection
+1 Yare
+1 Zephyr Charge
+1 Whirler Rogue
+1 Treacherous Blessing
+1 Tolarian Terror
+1 Smothering Tithe
+1 Zagoth Mamba
+1 Swan Song
+1 Thousand Moons Crackshot
+1 Vedalken Blademaster
+1 Zulaport Cutthroat
+1 Zahid, Djinn of the Lamp
+1 Vedalken Archmage
+1 Zephyr Singer
+1 Thran Power Suit
+1 Vodalian Mage
+1 Thalia's Geistcaller
+1 Veilstone Amulet
+1 Zephyr Boots
+1 Mana Vault
+1 Teysa Karlov
+1 Unnatural Selection
+1 Swords to Plowshares
+1 Zephid
+1 Veil of Assimilation
+1 Tezzeret the Schemer
+1 Valkyrie Harbinger
+1 Thraben Inspector
+1 Thopter Spy Network
+1 Teysa, Orzhov Scion
+1 Zoetic Glyph
+1 Whirlermaker
+1 Whirlwind Denial
+1 Undercity Shade
+1 Whitewater Naiads
+1 Zombie Master // Zombie Master
+1 Volrath's Curse
+1 Vito, Fanatic of Aclazotz
+1 Venser, the Sojourner
+1 Vizier of Many Faces
+1 Zur, Eternal Schemer
+1 Talrand, Sky Summoner
+1 Viscerid Drone
+1 Wandering Archaic // Explore the Vastlands
+1 Turn to Frog
+1 Zhang Fei, Fierce Warrior
+1 Vertigo Spawn
+1 Wing Commando
+1 Whalebone Glider
+1 Trail of Evidence
+1 Thassa's Emissary
+1 Unified Will
+1 Wingspan Mentor
+1 Turn Aside
+{'overall': 4.383663366336634, 'cmc': 3.15625, 'ramp': '5', 'draw': '8', 'interaction': 10, 'folder': 'gpt', 'commander': 'TheEverChangingDane.txt'}

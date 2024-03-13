@@ -1,0 +1,69 @@
+1 Queen Allenal of Ruadach
+1 Village Survivors
+1 Zealous Inquisitor
+1 Trueheart Duelist
+1 Thelonite Druid
+1 Wolfbriar Elemental
+1 Wolfkin Outcast // Wedding Crasher
+1 Tolsimir Wolfblood
+1 Voice of Truth
+1 Vedalken Shackles
+1 Unified Front
+1 Verdeloth the Ancient
+1 Vegetation Abomination
+1 Weight of Conscience
+1 Syndicate Messenger
+1 Ugin's Conjurant
+1 Valkyrie's Sword
+1 Thraben Doomsayer
+1 Superior Numbers
+1 Wellgabber Apothecary
+1 Welcoming Vampire
+1 Stormfront Riders
+1 Tinker's Tote
+1 Strength-Testing Hammer
+1 Windshaper Planetar
+1 Springjack Shepherd
+1 Wurm's Tooth
+1 Sunbringer's Touch
+1 Teyo, the Shieldmage
+1 Whalebone Glider
+1 Triangle of War
+1 Thallid Devourer
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wheel of Torture
+1 The Skullspore Nexus
+1 The Hive
+1 Sunfall
+1 Touch of the Eternal
+1 Volrath's Gardens
+1 Verdant Command
+1 Urbis Protector
+1 Warbriar Blessing
+1 Weaver of Harmony
+1 Wondrous Crucible
+1 Unerring Sling
+1 Whippoorwill
+1 Tatsumasa, the Dragon's Fang
+1 Zhang Fei, Fierce Warrior
+1 Treefolk Seedlings
+1 Timber Paladin
+1 Seedborn Muse
+1 Wanderer's Strike
+1 Woodcaller Automaton
+1 Thwart the Enemy
+1 Tukatongue Thallid
+1 You Look Upon the Tarrasque
+1 Whirlermaker
+1 Thijarian Witness
+1 The Crowd Goes Wild
+1 Vine Snare
+1 Venerated Rotpriest
+1 Valor Made Real
+1 Wirewood Symbiote
+1 Wolfrider's Saddle
+1 Unnatural Aggression
+1 Zealot il-Vec
+1 Yavimaya Wurm
+1 Thopter Shop
+{'overall': 2.31198347107438, 'cmc': 3.5588235294117645, 'ramp': '1', 'draw': '5', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}

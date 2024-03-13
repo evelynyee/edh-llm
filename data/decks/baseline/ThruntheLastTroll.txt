@@ -1,0 +1,101 @@
+1 Thrun, the Last Troll
+1 Detection Tower
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Troll Ascetic
+1 Blurred Mongoose
+1 Hawkeater Moth
+1 Kodama of the North Tree
+1 Pincher Beetles
+1 Mist Leopard
+1 Kalonian Behemoth
+1 Humble Budoka
+1 Elvish Lookout
+1 Deadly Insect
+1 Gaea's Revenge
+1 Edifice of Authority
+1 Plated Crusher
+1 Copper Host Crusher
+1 Carnage Tyrant
+1 Prowling Serpopard
+1 Steel Golem
+1 Grid Monitor
+1 Whispersilk Cloak
+1 Root Sliver
+1 Gaea's Herald
+1 Stonewood Invocation
+1 Wardscale Crocodile
+1 Taoist Hermit
+1 Scaled Behemoth
+1 Sacred Wolf
+1 Rubbleback Rhino
+1 Primal Huntbeast
+1 Plated Slagwurm
+1 Gladecover Scout
+1 Conifer Strider
+1 Thrun, Breaker of Silence
+1 Lightning Greaves
+1 Swiftfoot Boots
+1 Zuo Ci, the Mocking Sage
+1 Cursed Totem
+1 Vine Mare
+1 Mask of Avacyn
+1 Void Winnower
+1 Quagnoth
+1 Krosan Grip
+1 Null Rod
+1 Collector Ouphe
+1 Lurker
+1 Shell Skulkin
+1 Brown Ouphe
+1 Damping Matrix
+1 Silhana Ledgewalker
+1 Verdant Outrider
+1 Tajuru Preserver
+1 Scragnoth
+1 Skyshroud Blessing
+1 Dense Foliage
+1 Canopy Cover
+1 Drill-Skimmer
+1 Bind
+1 Argothian Enchantress
+1 Sylvan Safekeeper
+1 Grafdigger's Cage
+1 Lambholt Pacifist // Lambholt Butcher
+1 Glaring Spotlight
+1 Veilstone Amulet
+1 Jade Orb of Dragonkind
+{'overall': 1.6419282511210762, 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '3', 'interaction': 1, 'folder': 'baseline', 'commander': 'ThruntheLastTroll.txt'}

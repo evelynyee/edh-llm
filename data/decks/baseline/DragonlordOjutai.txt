@@ -1,0 +1,101 @@
+1 Dragonlord Ojutai
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Weatherlight
+1 Windrider Patrol
+1 Ransack
+1 Ashnod's Cylix
+1 Horn of the Mark
+1 Bamboozle
+1 Fated Retribution
+1 Spy Network
+1 Cruel Fate
+1 Witness the Future
+1 Anticipate
+1 Shimmer of Possibility
+1 Truth or Tale
+1 Impulse
+1 Deploy the Gatewatch
+1 Spin into Myth
+1 Tomorrow, Azami's Familiar
+1 Thieves' Fortune
+1 Drawn from Dreams
+1 Manifold Insights
+1 Sleight of Hand
+1 Forging the Anchor
+1 Narset, Parter of Veils
+1 Telling Time
+1 Wandering Archaic // Explore the Vastlands
+1 Psychic Surgery
+1 Crystal Ball
+1 Mitotic Manipulation
+1 Curate
+1 Fathom Trawl
+1 Taigam's Scheming
+1 Contingency Plan
+1 Goblin Charbelcher
+1 Visions
+1 See the Truth
+1 Board the Weatherlight
+1 Guiding Bolt
+1 Phyrexian Portal
+1 Machinate
+1 Enlistment Officer
+1 Citywatch Sphinx
+1 Moment of Truth
+1 Overwhelmed Apprentice
+1 Uncovered Clues
+1 Strategic Planning
+1 Glimpse the Future
+1 Index
+1 Silundi Vision // Silundi Isle
+1 Epiphany at the Drownyard
+1 Invasion of Ravnica // Guildpact Paragon
+1 Boromir, Gondor's Hope
+1 Arcane Investigator
+1 Harper Recruiter
+1 Tunnel Vision
+1 Murmurs from Beyond
+1 Peer Through Depths
+1 Automatic Librarian
+1 Prophet of the Peak
+1 Omenspeaker
+1 Octoprophet
+1 Condescend
+1 Screaming Swarm
+1 Scroll Rack
+{'overall': 9.793902439024391, 'cmc': 3.106060606060606, 'ramp': '1', 'draw': '35', 'interaction': 3, 'folder': 'baseline', 'commander': 'DragonlordOjutai.txt'}

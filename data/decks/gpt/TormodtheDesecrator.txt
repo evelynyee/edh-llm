@@ -1,0 +1,65 @@
+1 Tormod, the Desecrator
+1 Trepanation Blade
+1 Sword of the Animist
+1 Vessel of Malignity
+1 Sorcerer's Broom
+1 Virtus the Veiled
+1 Chromatic Lantern
+1 Urborg Justice
+1 Dark Ritual
+1 Mind Stone
+1 Arcane Signet
+1 Zhalfirin Void
+1 Viscera Seer
+1 Tainted Pact
+1 Whirlermaker
+1 Warping Wail
+1 Timesifter
+1 Vampiric Tutor
+1 Warden of the Wall
+1 Wurmcoil Engine
+1 Thought-Knot Seer
+1 Ugin, the Spirit Dragon
+1 Vampire Nocturnus
+1 Shatter the Oath
+1 Vengeful Strangler // Strangling Grasp
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Shamble Back
+1 Skyclave Shade
+1 Sarpadian Empires, Vol. VII
+1 Wake the Dead
+1 Visions of Dread
+1 Damnation
+1 Wasteland Strangler
+1 Go for the Throat
+1 Toshiro Umezawa
+1 Skirsdag High Priest
+1 Treasure Vault
+1 Vito's Inquisitor
+1 Wretched Banquet
+1 Thopter Assembly
+1 Treacherous Vampire
+1 Vanquisher's Banner
+1 Veinwitch Coven
+1 Vile Entomber
+1 Treacherous Pit-Dweller
+1 Tainted Adversary
+1 Tomb Tyrant
+1 Terisiare's Devastation
+1 Stronghold Confessor
+1 Whispers of Emrakul
+1 Slagstone Refinery
+1 Trazyn the Infinite
+1 Thaumatic Compass // Spires of Orazca
+1 Vraska's Scorn
+1 Whirling Catapult
+1 Yarok's Fenlurker
+1 Victimize
+1 Vengeful Dead
+1 Sorin the Mirthless
+1 Uchuulon
+1 Whisper Squad
+1 Varragoth, Bloodsky Sire
+1 Szat's Will
+1 Spiteful Hexmage
+{'overall': 5.716666666666667, 'cmc': 3.0, 'ramp': '11', 'draw': '7', 'interaction': 11, 'folder': 'gpt', 'commander': 'TormodtheDesecrator.txt'}

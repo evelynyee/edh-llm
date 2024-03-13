@@ -1,0 +1,64 @@
+1 Temmet, Vizier of Naktamun
+1 Teferi, Time Raveler
+1 Twincast
+1 Thopter Assembly
+1 Thopter Mechanic
+1 Counterspell
+1 Wizard Replica
+1 Wellgabber Apothecary
+1 Zhuge Jin, Wu Strategist
+1 Wharf Infiltrator
+1 Supplant Form
+1 Unsubstantiate
+1 Thassa, God of the Sea
+1 Talrand, Sky Summoner
+1 Teferi, Timeless Voyager
+1 Swan Song
+1 Timely Ward
+1 Winged Shepherd
+1 Winged Boots
+1 Wings of Velis Vel
+1 Wandering Archaic // Explore the Vastlands
+1 Tolarian Geyser
+1 Twinning Staff
+1 Wayward Angel
+1 Warmonger's Chariot
+1 Path to Exile
+1 Mana Vault
+1 Mana Drain
+1 Vizier of Tumbling Sands
+1 Turn to Mist
+1 Sol Ring
+1 Warden of Evos Isle
+1 Vantress Transmuter // Croaking Curse
+1 Windcaller Aven
+1 Thalakos Scout
+1 Wings of Hubris
+1 Wing Shards
+1 Wingmate Roc
+1 Valor Made Real
+1 Winds of Abandon
+1 Vedalken Anatomist
+1 Ward of Lights
+1 Warchanter Skald
+1 Walker of Secret Ways
+1 Wormhole Serpent
+1 Waterlogged Hulk // Watertight Gondola
+1 Temporal Machinations
+1 Thassa's Emissary
+1 Talrand's Invocation
+1 Thassa, Deep-Dwelling
+1 Winter's Chill
+1 War Behemoth
+1 Zhalfirin Decoy
+1 Word of Undoing
+1 Wall of Tears
+1 Wojek Apothecary
+1 Thunder Totem
+1 Teferi, Master of Time
+1 Teferi's Protection
+1 Tolarian Geyser
+1 Ugin, the Ineffable
+1 Venser, the Sojourner
+1 Thopter Spy Network
+{'overall': 4.966915422885572, 'cmc': 3.2419354838709675, 'ramp': '3', 'draw': '13', 'interaction': 7, 'folder': 'gpt', 'commander': 'TemmetVizierofNaktamun.txt'}

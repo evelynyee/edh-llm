@@ -1,0 +1,101 @@
+1 Raff, Weatherlight Stalwart
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Bold Defense
+1 Dauntless Unity
+1 Soulblade Djinn
+1 Aerial Formation
+1 Esquire of the King
+1 Strongarm Monk
+1 Leonin Lightscribe
+1 Hero of the Pride
+1 Hero of the Winds
+1 Plated Onslaught
+1 Merrow Reejerey
+1 Ramosian Rally
+1 TARDIS
+1 Polymorphous Rush
+1 Kytheon's Tactics
+1 Silverflame Ritual
+1 Gerrard's Battle Cry
+1 Sea Gate Banneret
+1 Cliffside Lookout
+1 Charismatic Vanguard
+1 Kabira Vindicator
+1 Selfless Cathar
+1 Leonin Sun Standard
+1 Unbreakable Formation
+1 Boromir, Warden of the Tower
+1 Paladin Class
+1 Roar of the Kha
+1 War Screecher
+1 Welcoming Vampire
+1 Goldmaw Champion
+1 Shell Shield
+1 Tooth of Chiss-Goria
+1 Crookclaw Elder
+1 Battershield Warrior
+1 Colossal Plow
+1 Marshal of Zhalfir
+1 Nomad Decoy
+1 Scale of Chiss-Goria
+1 Steadfast Unicorn
+1 Ixidor, Reality Sculptor
+1 Surge of Thoughtweft
+1 Borrowed Grace
+1 Long-Forgotten Gohei
+1 Lethargy Trap
+1 Rhystic Shield
+1 Daru Warchief
+1 Leonin Battlemage
+1 In the Trenches
+1 Steel Seraph
+1 Supernatural Rescue
+1 Ghost Tactician
+1 Ajani, Inspiring Leader
+1 Unctus, Grand Metatect
+1 Sanctum of Tranquil Light
+1 Dwarven Lightsmith
+1 Heart of Kiran
+1 Celestial Enforcer
+1 Show of Confidence
+1 Sea Hag // Aquatic Ingress
+1 Symmetry Sage
+1 Tandem Tactics
+1 Encircling Fissure
+1 Stir the Pride
+{'overall': 2.4375, 'cmc': 2.909090909090909, 'ramp': '1', 'draw': '5', 'interaction': 5, 'folder': 'baseline', 'commander': 'RaffWeatherlightStalwart.txt'}

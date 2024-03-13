@@ -1,0 +1,101 @@
+1 Ziatora, the Incinerator
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Purphoros's Intervention
+1 Minsc & Boo, Timeless Heroes
+1 Stensia Uprising
+1 Feed the Pack
+1 Raphael, Fiendish Savior
+1 Bucknard's Everfull Purse
+1 Uchuulon
+1 Ghired's Belligerence
+1 Red Sun's Twilight
+1 The Mycotyrant
+1 Broken Visage
+1 Elephant Resurgence
+1 Urabrask's Forge
+1 Court of Embereth
+1 Master of the Wild Hunt
+1 Burn Down the House
+1 Briarbridge Patrol
+1 Doomgape
+1 Stew the Coneys
+1 Myr Battlesphere
+1 Exuberant Firestoker
+1 Stampeding Wildebeests
+1 Freyalise Supplicant
+1 Elemental Mastery
+1 Gremlin Infestation
+1 Gutter Grime
+1 Skeletal Swarming
+1 Gemini Engine
+1 Garruk Relentless // Garruk, the Veil-Cursed
+1 Goblin Kaboomist
+1 Warren Weirding
+1 Gyome, Master Chef
+1 Gyrus, Waker of Corpses
+1 Cloakwood Hermit
+1 Fathom Fleet Swordjack
+1 Windswift Slice
+1 RMS Titanic
+1 Delina, Wild Mage
+1 Pugnacious Pugilist
+1 Nacatl War-Pride
+1 Chandra, Flamecaller
+1 Witch's Oven
+1 Emrakul's Evangel
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Timothar, Baron of Bats
+1 Yotia Declares War
+1 Acorn Catapult
+1 Riders of the Mark
+1 Syrix, Carrier of the Flame
+1 Devils' Playground
+1 Gargantuan Gorilla
+1 Mirror March
+1 Killer Service
+1 Apocalypse Demon
+1 Promise of Aclazotz // Foul Rebirth
+1 Vraska the Unseen
+1 Dance with Devils
+1 Raka Sanctuary
+1 Cinder Cloud
+1 Concord with the Kami
+1 Grim Feast
+1 Kinzu of the Bleak Coven
+1 Beledros Witherbloom
+{'overall': 4.20187265917603, 'cmc': 3.985074626865672, 'ramp': '3', 'draw': '7', 'interaction': 24, 'folder': 'baseline', 'commander': 'ZiatoratheIncinerator.txt'}

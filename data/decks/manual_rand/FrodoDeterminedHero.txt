@@ -1,0 +1,69 @@
+1 Frodo, Determined Hero
+1 Swooping Talon
+1 Spinny Ride
+1 Silverstrike
+1 Samurai of the Pale Curtain
+1 Sword of Light and Shadow
+1 Thought Prison
+1 Vassal's Duty
+1 Split-Tail Miko
+1 Steadfast Armasaur
+1 When We Were Young
+1 Warhorn Blast
+1 Sword of Once and Future
+1 Visions of Glory
+1 Vorrac Battlehorns
+1 True-Faith Censer
+1 Thopter Architect
+1 Soul's Grace
+1 Weathered Bodyguards
+1 Towashi Guide-Bot
+1 Saving Grace
+1 Takeno's Cavalry
+1 Workshop Assistant
+1 Wojek Apothecary
+1 You Cannot Pass!
+1 Yomiji, Who Bars the Way
+1 Wingbeat Warrior
+1 Veil of Assimilation
+1 Surge of Salvation
+1 Wingmate Roc
+1 Selfless Exorcist
+1 Austere Command
+1 Warmonger's Chariot
+1 Wedding Ring
+1 Wall of Resurgence
+1 Ward of Piety
+1 Stalking Leonin
+1 Sungold Barrage
+1 Werefox Bodyguard
+1 Sol Ring
+1 Vengeful Archon
+1 Sword of Forge and Frontier
+1 Sword of the Meek
+1 Supernatural Rescue
+1 The Girl in the Fireplace
+1 Soratami Cloud Chariot
+1 Sphere of Grace
+1 Shieldmage Elder
+1 Urza's Engine
+1 Umbra Mystic
+1 Topple
+1 Sylvia Brightspear
+1 Together Forever
+1 Tiller Engine
+1 Chrome Mox
+1 Valiant Endeavor
+1 Wyrm's Crossing Patrol
+1 Tethmos High Priest
+1 Zephyrim
+1 Unbreakable Formation
+1 Éowyn, Lady of Rohan
+1 Wings of Hubris
+1 Zealots en-Dal
+1 Wall of Junk
+1 Take Up the Shield
+1 Whetwheel
+1 Street Sweeper
+1 Vesperlark
+{'overall': 2.552486187845304, 'cmc': 3.62, 'ramp': '2', 'draw': '4', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoDeterminedHero.txt'}

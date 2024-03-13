@@ -1,0 +1,101 @@
+1 Hansk, Slayer Zealot
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Mogg Infestation
+1 Verdant Command
+1 Zurzoth, Chaos Rider
+1 Stensia Uprising
+1 Greener Pastures
+1 Dowsing Dagger // Lost Vale
+1 Acorn Catapult
+1 The Sea Devils
+1 Black Market Tycoon
+1 Raka Sanctuary
+1 Fade from History
+1 Chandra, Flamecaller
+1 Markov Enforcer
+1 Scion of Calamity
+1 Pain Distributor
+1 Court of Embereth
+1 Afflicted Deserter // Werewolf Ransacker
+1 Serpent Generator
+1 Kazuul, Tyrant of the Cliffs
+1 Kibo, Uktabi Prince
+1 Briarbridge Patrol
+1 Dance with Devils
+1 Fungal Rebirth
+1 Nissa's Defeat
+1 Saproling Cluster
+1 Tibalt, Rakish Instigator
+1 Goblin Kaboomist
+1 Splintering Wind
+1 Gnoll War Band
+1 Seasoned Pyromancer
+1 Hungry Lynx
+1 Minsc & Boo, Timeless Heroes
+1 Mad Ratter
+1 Devils' Playground
+1 Contested Game Ball
+1 Cybermen Squadron
+1 Blade of Selves
+1 Warchief Giant
+1 Tiamat's Fanatics
+1 Caller of the Pack
+1 Siege-Gang Commander
+1 Hoard Hauler
+1 Viral Spawning
+1 Death by Dragons
+1 Metrognome
+1 Predatory Advantage
+1 Gremlin Infestation
+1 Redcap Gutter-Dweller
+1 Keeper of the Beasts
+1 Peregrin Took
+1 Brood Sliver
+1 Fathom Fleet Swordjack
+1 Grothama, All-Devouring
+1 Nacatl War-Pride
+1 Jolene, the Plunder Queen
+1 Pia and Kiran Nalaar
+1 Gilt-Leaf Ambush
+1 Belligerent Guest
+1 Canoptek Scarab Swarm
+1 Tana, the Bloodsower
+1 Killer Service
+1 Phyrexian Triniform
+1 Giant Opportunity
+{'overall': 5.615625, 'cmc': 3.878787878787879, 'ramp': '3', 'draw': '13', 'interaction': 22, 'folder': 'baseline', 'commander': 'HanskSlayerZealot.txt'}

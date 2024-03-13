@@ -1,0 +1,69 @@
+1 Lier, Disciple of the Drowned
+1 Surging Aether
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Void Mirror
+1 Talas Researcher
+1 Thran Tome
+1 Tidal Barracuda
+1 Urza's Blueprints
+1 Trenzalore Clocktower
+1 Wizard Replica
+1 Thrumming Stone
+1 Skyway Robber
+1 Urza's Bauble
+1 Wheel of Torture
+1 Timetwister
+1 Vanishment
+1 Withdraw
+1 Turtleshell Changeling
+1 Trait Doctoring
+1 Universal Automaton
+1 Take Possession
+1 Unclaimed Territory
+1 Witches' Eye
+1 Watcher in the Mist
+1 Vizier of the Anointed
+1 Spire Monitor
+1 Turbulent Dreams
+1 Syncopate
+1 Winds of Rebuke
+1 Tidepool Turtle
+1 Swindler's Scheme
+1 Tah-Crop Skirmisher
+1 Witness the Future
+1 Torrential Gearhulk
+1 Void Snare
+1 Verity Circle
+1 Tolarian Terror
+1 Umara Wizard // Umara Skyfalls
+1 Tomb of Horrors Adventurer
+1 Tormod's Crypt
+1 Tidal Courier
+1 Warden of Evos Isle
+1 Thassa's Rebuff
+1 Witchbane Orb
+1 Twinning Staff
+1 Wall of Runes
+1 Vexing Scuttler
+1 Vantress Paladin
+1 Veiling Oddity
+1 Veiled Sentry
+1 Urza's Chalice
+1 Storm Elemental
+1 Zndrsplt's Judgment
+1 Triton Cavalry
+1 Taigam's Strike
+1 Shell of the Last Kappa
+1 Venarian Glimmer
+1 Twice Upon a Time // Unlikely Meeting
+1 Wu Scout
+1 Tragic Lesson
+1 Treasure Trove
+1 Transcendent Message
+1 Vodalian Serpent
+1 Mind Stone
+1 Temporal Cascade
+1 Wheel and Deal
+1 Submerge
+1 Tangle Golem
+{'overall': 5.850607287449392, 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}

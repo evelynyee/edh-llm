@@ -1,0 +1,101 @@
+1 Niv-Mizzet, Supreme
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Chemister's Insight
+1 Radical Idea
+1 Mnemonic Deluge
+1 Helbrute
+1 Deeproot Historian
+1 Wizard's Spellbook
+1 Arcane Savant
+1 Spelltwine
+1 Arcane Bombardment
+1 Demilich
+1 Oona's Grace
+1 Raven's Crime
+1 Gorex, the Tombshell
+1 Throes of Chaos
+1 Direct Current
+1 Sloppity Bilepiper
+1 Beseech the Mirror
+1 Isochron Scepter
+1 Jadzi, Oracle of Arcavios // Journey to the Oracle
+1 Codie, Vociferous Codex
+1 Semblance Anvil
+1 Rona, Sheoldred's Faithful
+1 Decaying Time Loop
+1 Quasiduplicate
+1 Capricious Hellraiser
+1 Elite Arcanist
+1 Memory Plunder
+1 Wild-Magic Sorcerer
+1 Maestros Ascendancy
+1 Ignite the Future
+1 Mind's Desire
+1 Saruman of Many Colors
+1 Rain of Riches
+1 Kethis, the Hidden Hand
+1 Sakashima's Protege
+1 Dark Apostle
+1 Into the Time Vortex
+1 Stormcaller's Boon
+1 Dread Return
+1 Gale, Waterdeep Prodigy
+1 Ingenuity Engine
+1 Maelstrom Nexus
+1 Natural Reclamation
+1 Spellweaver Volute
+1 Aurora Phoenix
+1 Sins of the Past
+1 Wrenn and Six
+1 Beacon Bolt
+1 Ethersworn Sphinx
+1 Cemetery Prowler
+1 Nahiri, Forged in Fury
+1 Spitting Image
+1 Spellweaver Helix
+1 Skyway Robber
+1 Scholar of the Lost Trove
+1 Etherium-Horn Sorcerer
+1 Surreal Memoir
+1 Chandra, Flame's Catalyst
+1 Return the Past
+1 Demonic Dread
+1 Monstrify
+1 Izzet Chemister
+1 Vexing Scuttler
+{'overall': 4.455445544554456, 'cmc': 4.391304347826087, 'ramp': '8', 'draw': '7', 'interaction': 5, 'folder': 'baseline', 'commander': 'NivMizzetSupreme.txt'}

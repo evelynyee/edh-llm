@@ -1,0 +1,69 @@
+1 Teferi, Temporal Archmage
+1 Vedalken Entrancer
+1 Winter Eladrin
+1 Voidmage Apprentice
+1 Wall of Lost Thoughts
+1 Vortex Elemental
+1 Sweet Oblivion
+1 Titan of Littjara
+1 Wheel and Deal
+1 Unwind
+1 Wavebreak Hippocamp
+1 Vessel of Paramnesia
+1 Vanguard Suppressor
+1 Thought Scour
+1 Waterlogged Hulk // Watertight Gondola
+1 Wormfang Crab
+1 Timin, Youthful Geist
+1 Unsubstantiate
+1 Standstill
+1 Surtland Elementalist
+1 Temporal Aperture
+1 Willbender
+1 Trap the Trespassers
+1 Stream of Thought
+1 Thran Foundry
+1 Vanishment
+1 Wave Goodbye
+1 The Immortal Sun
+1 Tamiyo, the Moon Sage
+1 Walker of Secret Ways
+1 Twinning Glass
+1 Well of Knowledge
+1 Chrome Mox
+1 Trash Bin
+1 Voda Sea Scavenger
+1 Stymied Hopes
+1 Transplant Theorist
+1 Vivisurgeon's Insight
+1 Wiretapping
+1 Warden of Evos Isle
+1 Unlucky Drop
+1 Vedalken Archmage
+1 Thought Eater
+1 Teferi's Tutelage
+1 Sweep Away
+1 Windrider Patrol
+1 Vision Charm
+1 Walking Skyscraper
+1 Zephyr Scribe
+1 Sphinx of Clear Skies
+1 Staunch Crewmate
+1 Sword of Once and Future
+1 Tradewind Rider
+1 Treasure Hunt
+1 Young Blue Dragon // Sand Augury
+1 Wanderguard Sentry
+1 _____ _____ Rocketship
+1 Voidmage Prodigy
+1 Winding Canyons
+1 Zenith Chronicler
+1 Venser's Diffusion
+1 Teferi, Mage of Zhalfir
+1 Vizier of the Anointed
+1 Workshop Assistant
+1 Talas Researcher
+1 Cyclonic Rift
+1 Tidings
+1 Thumbscrews
+{'overall': 7.759865470852018, 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'TeferiTemporalArchmage.txt'}

@@ -1,0 +1,101 @@
+1 Sophina, Spearsage Deserter
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Search the Premises
+1 Sanguine Statuette
+1 Expose Evil
+1 Thraben Inspector
+1 Blood Petal Celebrant
+1 Fateful Absence
+1 Angelic Sleuth
+1 Arterial Alchemy
+1 Humble the Brute
+1 Blood Servitor
+1 Concession Stand
+1 Bartered Cow
+1 Vampires' Vengeance
+1 Rosie Cotton of South Lane
+1 Sarah Jane Smith
+1 Sunder the Gateway
+1 Markov Enforcer
+1 Voldaren Epicure
+1 Thopter Shop
+1 Hoarding Ogre
+1 Sliversmith
+1 Sticky Fingers
+1 Thorough Investigation
+1 Late to Dinner
+1 Witch's Oven
+1 Cartographer's Companion
+1 Food Coma
+1 Belligerent Guest
+1 Digsite Engineer
+1 Captain Lannery Storm
+1 Fortifying Provisions
+1 Hammer of Purphoros
+1 Infected Defector
+1 Metrognome
+1 Toggo, Goblin Weaponsmith
+1 Eastfarthing Farmer
+1 Marching Duodrone
+1 Discerning Financier
+1 Curse of Opulence
+1 Swarming of Moria
+1 Gilded Pinions
+1 Swashbuckler Extraordinaire
+1 Retrofitter Foundry
+1 Flick a Coin
+1 Impulsive Pilferer
+1 Idol of Oblivion
+1 Nuisance Engine
+1 Gleaming Barrier
+1 Collector's Vault
+1 Essence of Orthodoxy
+1 Vault Robber
+1 Extricator of Sin // Extricator of Flesh
+1 The Underworld Cookbook
+1 Pia and Kiran Nalaar
+1 Tiller of Flesh
+1 Dungeoneer's Pack
+1 Second Breakfast
+1 Halo Scarab
+1 Minion Reflector
+1 Magnifying Glass
+1 Diamond Pick-Axe
+1 Flamewright
+1 The Battle of Bywater
+{'overall': 12.0, 'cmc': 2.6666666666666665, 'ramp': '18', 'draw': '25', 'interaction': 10, 'folder': 'baseline', 'commander': 'SophinaSpearsageDeserter.txt'}

@@ -1,0 +1,65 @@
+1 Tegwyll, Duke of Splendor
+1 Wing Splicer
+1 Veteran's Armaments
+1 Thopter Squadron
+1 Vengeful Vampire
+1 Trading Post
+1 Tezzeret the Schemer
+1 Vorpal Sword
+1 Volo, Itinerant Scholar
+1 Umezawa's Jitte
+1 Sword of Light and Shadow
+1 Vile Deacon
+1 Unlawful Entry
+1 Vito, Thorn of the Dusk Rose
+1 Vengeful Rebel
+1 Vindictive Lich
+1 Vampiric Rites
+1 Whisper, Blood Liturgist
+1 Undead Augur
+1 Stronghold Discipline
+1 Unbreakable Bond
+1 Vampiric Touch
+1 Sygg, River Cutthroat
+1 Vengeful Warchief
+1 Vengeant Vampire
+1 Wingfold Pteron
+1 Syr Konrad, the Grim
+1 Will Kenrith
+1 Vedalken Shackles
+1 Staff of the Death Magus
+1 Viscera Dragger
+1 Tanglebloom
+1 Venser, Corpse Puppet
+1 Unforgiving One
+1 Vraska's Contempt
+1 Mana Drain
+1 Venser's Journal
+1 Waterwhirl
+1 Virulent Plague
+1 Vengeful Strangler // Strangling Grasp
+1 Urza, Lord High Artificer
+1 Tainted Adversary
+1 Vampire Sovereign
+1 Veinwitch Coven
+1 Vicious Conquistador
+1 Vermin Gorger
+1 Vraska's Conquistador
+1 Supernatural Stamina
+1 War Horn
+1 Underworld Connections
+1 Dark Ritual
+1 Zulaport Enforcer
+1 Triskelavus
+1 Topaz Dragon // Entropic Cloud
+1 Vilis, Broker of Blood
+1 Tamiyo, the Moon Sage
+1 Vampiric Feast
+1 Whispering Snitch
+1 Triumph of Cruelty
+1 Well of Lost Dreams
+1 Yarok's Wavecrasher
+1 Throne of the Grim Captain // The Grim Captain
+1 Tivash, Gloom Summoner
+1 Tomb Blade
+{'overall': 4.558951965065502, 'cmc': 3.578125, 'ramp': '3', 'draw': '12', 'interaction': 5, 'folder': 'gpt', 'commander': 'TegwyllDukeofSplendor.txt'}

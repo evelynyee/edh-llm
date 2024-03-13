@@ -1,0 +1,67 @@
+1 Shorikai, Genesis Engine
+1 Zephyr Charge
+1 Tezzeret, Artifice Master
+1 Wayward Angel
+1 Path to Exile
+1 Thran Power Suit
+1 Whirler Rogue
+1 Transmogrifying Licid
+1 Mind Stone
+1 Wurmcoil Engine
+1 Thassa's Emissary
+1 Zephyr Singer
+1 Whirlwind Adept
+1 Veilstone Amulet
+1 Whispersilk Cloak
+1 Sunbond
+1 Zephyr Boots
+1 Mana Vault
+1 Vedalken Archmage
+1 Swan Song
+1 Swords to Plowshares
+1 Zephyrim
+1 Trail of Evidence
+1 Triton Tactics
+1 Teferi, Timebender
+1 Valiant Rescuer
+1 Zoetic Glyph
+1 Thopter Spy Network
+1 Verity Circle
+1 Trostani's Judgment
+1 Teferi, Temporal Pilgrim
+1 Whirlermaker
+1 Tide Drifter
+1 Web of Inertia
+1 Vanguard of Brimaz
+1 Valorous Steed
+1 Austere Command
+1 Wandering Champion
+1 Tidal Wave
+1 Unified Will
+1 Waylay
+1 Whitewater Naiads
+1 Wing Commando
+1 Warping Wail
+1 Whalebone Glider
+1 Treasure Map // Treasure Cove
+1 Syr Ginger, the Meal Ender
+1 Mana Drain
+1 Venser, the Sojourner
+1 Spirit Bonds
+1 Zellix, Sanity Flayer
+1 Vanquisher's Axe
+1 Witness Protection
+1 Zahid, Djinn of the Lamp
+1 Talrand's Invocation
+1 Winds of Abandon
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Supreme Verdict
+1 Taranika, Akroan Veteran
+1 Thieving Magpie
+1 Umezawa's Jitte
+1 Zhang Fei, Fierce Warrior
+1 Vertigo Spawn
+1 Vedalken Blademaster
+1 Wall of Tears
+1 Winter's Chill
+{'overall': 6.5285714285714285, 'cmc': 3.1818181818181817, 'ramp': '5', 'draw': '16', 'interaction': 13, 'folder': 'gpt', 'commander': 'ShorikaiGenesisEngine.txt'}

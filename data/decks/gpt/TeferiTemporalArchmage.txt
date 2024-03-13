@@ -1,0 +1,64 @@
+1 Teferi, Temporal Archmage
+1 Tidal Barracuda
+1 Sphinx of Jwar Isle
+1 Time Stop
+1 Tezzeret the Seeker
+1 Ugin, the Spirit Dragon
+1 Counterspell
+1 Windfall
+1 Unsubstantiate
+1 Thirst for Knowledge
+1 Ulamog, the Ceaseless Hunger
+1 Tidespout Tyrant
+1 Ugin's Nexus
+1 Mulldrifter
+1 Wash Away
+1 Vodalian Mystic
+1 Void Shatter
+1 Tezzeret, Artifice Master
+1 Venser's Diffusion
+1 Tamiyo, the Moon Sage
+1 Urza's Incubator
+1 Ugin's Mastery
+1 Thassa, Deep-Dwelling
+1 Wizened Snitches
+1 Stitcher Geralf
+1 Thought Reflection
+1 Zndrsplt, Eye of Wisdom
+1 Vhal, Candlekeep Researcher
+1 Vanguard Suppressor
+1 Urza, Lord High Artificer
+1 Treason of Isengard
+1 Teferi, Mage of Zhalfir
+1 Ugin, the Ineffable
+1 Trinket Mage
+1 Time Warp
+1 Think Twice
+1 Mana Vault
+1 Ulamog, the Infinite Gyre
+1 Zndrsplt's Judgment
+1 Volrath's Shapeshifter
+1 Think Tank
+1 Ugin's Insight
+1 Vizier of Many Faces
+1 Whispers of the Muse
+1 Storm Elemental
+1 Sphinx of the Chimes
+1 Wistful Thinking
+1 Traumatic Visions
+1 Teferi, Temporal Pilgrim
+1 Unwind
+1 Tormod's Crypt
+1 Thought Collapse
+1 Well of Discovery
+1 Voidmage Prodigy
+1 Wavecrash Triton
+1 Skyscribing
+1 Test of Talents
+1 Vexing Arcanix
+1 Viscerid Deepwalker
+1 Trench Gorger
+1 Vedalken Engineer
+1 Sudden Insight
+1 Vronos, Masked Inquisitor
+{'overall': 7.918401486988848, 'cmc': 4.26984126984127, 'ramp': '6', 'draw': '22', 'interaction': 9, 'folder': 'gpt', 'commander': 'TeferiTemporalArchmage.txt'}

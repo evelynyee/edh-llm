@@ -1,0 +1,69 @@
+1 Thrasta, Tempest's Roar
+1 Wand of Denial
+1 Sundering Vitae
+1 Talons of Wildwood
+1 Woolly Loxodon
+1 Whisperwood Elemental
+1 Venerable Kumo
+1 Wooden Stake
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Wrap in Vigor
+1 Sol Ring
+1 Vulshok Morningstar
+1 Zodiac Tiger
+1 Wallop
+1 Willow Satyr
+1 Vulshok Gauntlets
+1 Mind Stone
+1 Wing Puncture
+1 Sorrow's Path
+1 Skeleton Key
+1 Unnatural Aggression
+1 Vivien of the Arkbow
+1 Terra Stomper
+1 Weathered Runestone
+1 Surrak, the Hunt Caller
+1 Thundering Chariot
+1 Zelyon Sword
+1 Treetop Bracers
+1 Viridian Scout
+1 Ugin's Nexus
+1 Vial of Dragonfire
+1 Yavimaya Sojourner
+1 Verdant Outrider
+1 Tower Above
+1 Vanguard's Shield
+1 Unerring Sling
+1 Tormod's Cryptkeeper
+1 Volrath's Gardens
+1 Zenith Chronicler
+1 Wear Away
+1 War Barge
+1 Welcome to . . . // Jurassic Park
+1 Undercity Troll
+1 Warden of the Woods
+1 Tribal Forcemage
+1 Ulamog, the Infinite Gyre
+1 Triangle of War
+1 Skyshroud Cutter
+1 Timber Wolves
+1 Whippoorwill
+1 Warmonger's Chariot
+1 Tlincalli Hunter // Retrieve Prey
+1 Vintara Snapper
+1 Thelon's Chant
+1 Wurmcalling
+1 Skarrgan Pit-Skulk
+1 Wild Beastmaster
+1 Transmogrifying Licid
+1 Threefold Signal
+1 Wolf Strike
+1 Welcome to . . . // Jurassic Park
+1 Sword of the Ages
+1 Thorn Elemental
+1 Waxing Moon
+1 Treasure Keeper
+1 Woodborn Behemoth
+1 Squee's Toy
+1 You Look Upon the Tarrasque
+{'overall': 3.6429203539823005, 'cmc': 3.373134328358209, 'ramp': '4', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}

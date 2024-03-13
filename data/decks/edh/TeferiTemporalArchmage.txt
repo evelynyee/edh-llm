@@ -1,0 +1,64 @@
+1 Teferi, Temporal Archmage
+1 Sol Ring
+1 Thran Dynamo
+1 Cyclonic Rift
+1 The Chain Veil
+1 Counterspell
+1 Basalt Monolith
+1 Sapphire Medallion
+1 Tezzeret the Seeker
+1 Arcane Signet
+1 Rhystic Study
+1 Gilded Lotus
+1 Brainstorm
+1 Fabricate
+1 Mystic Sanctuary
+1 High Tide
+1 Narset, Parter of Veils
+1 Mystical Tutor
+1 Mana Drain
+1 Mystic Remora
+1 Mana Vault
+1 Whir of Invention
+1 Reliquary Tower
+1 Ponder
+1 Force of Will
+1 Swan Song
+1 Preordain
+1 Ugin, the Spirit Dragon
+1 Mind Stone
+1 Rings of Brighthearth
+1 Mana Crypt
+1 Trinket Mage
+1 Inventors' Fair
+1 Pact of Negation
+1 Sensei's Divining Top
+1 Pongify
+1 Academy Ruins
+1 Everflowing Chalice
+1 Teferi, Master of Time
+1 Force of Negation
+1 Ancient Tomb
+1 Phyrexian Metamorph
+1 Urza's Saga
+1 Myriad Landscape
+1 Negate
+1 Windfall
+1 Otawara, Soaring City
+1 Fierce Guardianship
+1 Muddle the Mixture
+1 Jace, Wielder of Mysteries
+1 Worn Powerstone
+1 Thought Vessel
+1 Back to Basics
+1 Grim Monolith
+1 Fellwar Stone
+1 Blue Sun's Zenith
+1 Hullbreaker Horror
+1 Chrome Mox
+1 Jeweled Lotus
+1 Dig Through Time
+1 Reshape
+1 Misty Rainforest
+1 Flusterstorm
+{'overall': 10.106474820143884, 'cmc': 2.2063492063492065, 'ramp': '17', 'draw': '17', 'interaction': 14, 'folder': 'edh', 'commander': 'TeferiTemporalArchmage.txt'}

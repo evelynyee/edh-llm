@@ -1,0 +1,66 @@
+1 Kathril, Aspect Warper
+1 Wintermoor Commander
+1 Wolfir Silverheart
+1 Valor in Akros
+1 Triumph of Gerrard
+1 Zealous Persecution
+1 Village Cannibals
+1 Wild Growth
+1 Tarkir Duneshaper // Burnished Dunestomper
+1 Umezawa's Jitte
+1 Virulent Plague
+1 Vastwood Fortification // Vastwood Thicket
+1 Vastwood Animist
+1 Wren's Run Packmaster
+1 Birds of Paradise
+1 Wingmate Roc
+1 White Shield Crusader
+1 Venerable Lammasu
+1 Veteran Warleader
+1 Tragic Slip
+1 Swords to Plowshares
+1 Tuinvale Guide
+1 Tusk and Whiskers
+1 Thraben Watcher
+1 Viridian Lorebearers
+1 Vicious Offering
+1 Vashta Nerada
+1 Wildgrowth Walker
+1 Vizier of Remedies
+1 Taranika, Akroan Veteran
+1 Vorinclex // The Grand Evolution
+1 Seedborn Muse
+1 Mana Vault
+1 Animate Dead
+1 Vraska, Regal Gorgon
+1 Trophy Hunter
+1 Timber Protector
+1 Vengeful Warchief
+1 Willowdusk, Essence Seer
+1 Willow Faerie
+1 Vivien's Stampede
+1 Vivien of the Arkbow
+1 Twinblade Paladin
+1 Vastwood Hydra
+1 Voice of the Vermin
+1 Woodlurker Mimic
+1 Vengeful Vampire
+1 Valiant Knight
+1 Warden of the Inner Sky
+1 Thornweald Archer
+1 Wirewood Pride
+1 Tower Above
+1 Vishgraz, the Doomhive
+1 Warrior's Stand
+1 Trusted Forcemage
+1 Wilt-Leaf Liege
+1 Tangle Mantis
+1 Thunderwolf Cavalry
+1 Tyrite Sanctum
+1 Woolly Mammoths
+1 Wren's Run Hydra
+1 Teething Wurmlet
+1 Vrestin, Menoptra Leader
+1 Yavimaya Ancients
+1 Timbermaw Larva
+{'overall': 3.1310679611650487, 'cmc': 3.169230769230769, 'ramp': '6', 'draw': '3', 'interaction': 5, 'folder': 'gpt', 'commander': 'KathrilAspectWarper.txt'}

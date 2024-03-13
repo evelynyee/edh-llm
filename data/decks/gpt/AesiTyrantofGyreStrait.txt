@@ -1,0 +1,66 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Wildcall
+1 Green Sun's Zenith
+1 Vizier of the Menagerie
+1 Vernal Bloom
+1 Ugin, the Ineffable
+1 Survival of the Fittest
+1 Sylvan Library
+1 Thrasios, Triton Hero
+1 Temur War Shaman
+1 Seedborn Muse
+1 Wistful Thinking
+1 Unexpected Results
+1 Visions of Beyond
+1 Vexing Puzzlebox
+1 Tatyova, Benthic Druid
+1 The Ring Goes South
+1 Zhalfirin Void
+1 Well of Ideas
+1 Wandering Stream
+1 Wandering Archaic // Explore the Vastlands
+1 Wizards of the _____
+1 Zimone, Quandrix Prodigy
+1 Sylvan Ranger
+1 Thought-Knot Seer
+1 Trophy Mage
+1 Teferi's Tutelage
+1 Tishana's Wayfinder
+1 Waterlogged Hulk // Watertight Gondola
+1 World Breaker
+1 Thirst for Knowledge
+1 Vedalken Dismisser
+1 Spirit of the Aldergard
+1 Thassa's Devourer
+1 The Antiquities War
+1 Vivien, Champion of the Wilds
+1 Verdant Haven
+1 Vizier of Tumbling Sands
+1 Urban Evolution
+1 Wolf-Skull Shaman
+1 Winds of Rebuke
+1 Wheel and Deal
+1 Thought Nibbler
+1 Tezzeret's Ambition
+1 Thundering Wurm
+1 Wren's Run Packmaster
+1 Vedalken Plotter
+1 Vizier of the Anointed
+1 Traverse the Ulvenwald
+1 Trial of Knowledge
+1 Vivien Reid
+1 Verdant Confluence
+1 Waker of Waves
+1 Vivien's Invocation
+1 Verdant Eidolon
+1 Vineglimmer Snarl
+1 Vastwood Surge
+1 Vivien, Nature's Avenger
+1 Voidmage Husher
+1 Whisperwood Elemental
+1 Traumatic Visions
+1 Welcome to the Fold
+1 Wren's Run Vanquisher
+1 Viridian Emissary
+1 Zendikar Resurgent
+{'overall': 12.184979423868313, 'cmc': 3.7384615384615385, 'ramp': '17', 'draw': '29', 'interaction': 3, 'folder': 'gpt', 'commander': 'AesiTyrantofGyreStrait.txt'}

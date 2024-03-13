@@ -1,0 +1,69 @@
+1 Skanos Dragonheart
+1 Uba Mask
+1 Verdurous Gearhulk
+1 Weatherseed Elf
+1 Tyvar's Stand
+1 Witchstalker
+1 Verdant Outrider
+1 Wildslayer Elves
+1 Mana Vault
+1 Telethopter
+1 Treetop Ambusher
+1 Viridian Claw
+1 Twists and Turns // Mycoid Maze
+1 Sudden Strength
+1 Ulamog's Crusher
+1 Wose Pathfinder
+1 Thran Forge
+1 Sylvan Advocate
+1 Weird Harvest
+1 Wicker Warcrawler
+1 The Tarrasque
+1 Vibrating Sphere
+1 Vexing Beetle
+1 Vial of Poison
+1 Soul's Majesty
+1 Transmogrifying Licid
+1 Staggering Size
+1 Wolf Pack
+1 Surrak, the Hunt Caller
+1 Witch's Web
+1 Verdant Rebirth
+1 Vintara Elephant
+1 Territorial Boar
+1 Sylvan Awakening
+1 Sword of Feast and Famine
+1 Thorn Lieutenant
+1 Doubling Season
+1 Typhoon
+1 Wirewood Pride
+1 Venomous Dragonfly
+1 Waxing Moon
+1 Woolly Spider
+1 Vine Gecko
+1 Ugin's Mastery
+1 Vulpine Goliath
+1 Wild Nacatl
+1 Soul's Might
+1 Trail of Mystery
+1 Whirling Dervish
+1 Zephyr Boots
+1 Tel-Jilad Defiance
+1 You Look Upon the Tarrasque
+1 Ursapine
+1 Yisan, the Wanderer Bard
+1 Territorial Baloth
+1 Llanowar Elves
+1 Walking Skyscraper
+1 Vigorspore Wurm
+1 Zodiac Horse
+1 Wurm's Tooth
+1 Ulvenwald Observer
+1 Twigwalker
+1 Unholy Citadel
+1 Xanthic Statue
+1 Verdeloth the Ancient
+1 Tributary Instructor
+1 Sword of Hearth and Home
+1 Smuggler's Copter
+{'overall': 4.676271186440678, 'cmc': 3.4705882352941178, 'ramp': '6', 'draw': '10', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'SkanosDragonheart.txt'}

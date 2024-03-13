@@ -1,0 +1,69 @@
+1 Deathleaper, Terror Weapon
+1 Tower of Champions
+1 Vivien's Crocodile
+1 Warriors' Lesson
+1 Stolen Vitality
+1 Whip Vine
+1 Whiteout
+1 Xenagos, God of Revels
+1 Urza's Avenger
+1 Thundering Giant
+1 Vitalizing Wind
+1 Well of Life
+1 Timber Wolves
+1 Viashino Lashclaw
+1 Vitaspore Thallid
+1 Wrenn and Realmbreaker
+1 Underdark Basilisk
+1 Valduk, Keeper of the Flame
+1 Wildgrowth Walker
+1 Two-Headed Dragon
+1 Yeva's Forcemage
+1 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge
+1 You Come to the Gnoll Camp
+1 Tajuru Beastmaster
+1 Tendershoot Dryad
+1 Windseeker Centaur
+1 Yavimaya Wurm
+1 Sword of Truth and Justice
+1 Warchief Giant
+1 Tyrant Guard
+1 Yuan Shao's Infantry
+1 Volcanic Offering
+1 Utvara Scalper
+1 Whalebone Glider
+1 Vibrating Sphere
+1 Viashino Bladescout
+1 Temur Battle Rage
+1 Wolverine Pack
+1 Volatile Claws
+1 Wolverine Riders
+1 Winter Orb
+1 Viashino Shanktail
+1 Stonebrow, Krosan Hero
+1 Waxing Moon
+1 Viridian Claw
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Wind Shear
+1 Wild Mammoth
+1 Vial of Poison
+1 Verdant Sun's Avatar
+1 Thunderfoot Baloth
+1 Veteran's Voice
+1 Vulshok Morningstar
+1 Voice of the Woods
+1 Weatherseed Elf
+1 Vitalize
+1 Wilderness Elemental
+1 Venerated Rotpriest
+1 Wooden Stake
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Territorial Baloth
+1 Tower Above
+1 Tilonalli's Knight
+1 Taunting Challenge
+1 Traproot Kami
+1 Umezawa's Jitte
+1 Welcome to . . . // Jurassic Park
+1 Whirling Dervish
+{'overall': 2.526728110599078, 'cmc': 3.1911764705882355, 'ramp': '2', 'draw': '5', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DeathleaperTerrorWeapon.txt'}

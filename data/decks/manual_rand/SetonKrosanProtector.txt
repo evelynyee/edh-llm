@@ -1,0 +1,69 @@
+1 Seton, Krosan Protector
+1 Steel Exemplar
+1 Silt Crawler
+1 Well of Discovery
+1 Symbiotic Deployment
+1 Timberland Ruins
+1 Uktabi Faerie
+1 Treasure Map // Treasure Cove
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Warping Wail
+1 Vine Trellis
+1 Synod Centurion
+1 Xanthic Statue
+1 Visions of Dominance
+1 Spawning Bed
+1 Untamed Kavu
+1 Wilson, Refined Grizzly
+1 Viridian Zealot
+1 Veilstone Amulet
+1 Wrenn and Realmbreaker
+1 Transmogrifying Wand
+1 Volrath's Gardens
+1 Titan Forge
+1 Urza's Workshop
+1 The Grey Havens
+1 Trigon of Infestation
+1 Wolverine Riders
+1 Sunset Pyramid
+1 Steelbane Hydra
+1 Wall of Pine Needles
+1 Tribute to the World Tree
+1 Verdant Mastery
+1 The Weatherseed Treaty
+1 Voyaging Satyr
+1 Woodweaver's Puzzleknot
+1 Tangleclaw Werewolf // Fibrous Entangler
+1 Vineshaper Mystic
+1 Thundering Tanadon
+1 Towashi Guide-Bot
+1 Winter Orb
+1 Tree of Tales
+1 Verdant Outrider
+1 Urza's Factory
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Webweaver Changeling
+1 The Filigree Sylex
+1 Vitaspore Thallid
+1 Unyaro Bees
+1 Sphere of the Suns
+1 Zendikar Resurgent
+1 Su-Chi
+1 Toxicrene
+1 Silhana Starfletcher
+1 Study Hall
+1 Stone-Seeder Hierophant
+1 Throne of Makindi
+1 Thriving Rhino
+1 Vineweft
+1 Voracious Typhon
+1 Warden of the Woods
+1 Twists and Turns // Mycoid Maze
+1 The Hunter Maze
+1 Void Attendant
+1 Weapon Rack
+1 Wingrattle Scarecrow
+1 Wolf's Quarry
+1 Yorvo, Lord of Garenbrig
+1 Wiitigo
+{'overall': 7.966666666666667, 'cmc': 3.0, 'ramp': '15', 'draw': '13', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}

@@ -1,0 +1,101 @@
+1 Hidetsugu and Kairi
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Swamp
+1 Island
+1 Digsite Conservator
+1 Treasure Keeper
+1 Runo Stromkirk // Krothuss, Lord of the Deep
+1 Demonlord Belzenlok
+1 Primordial Gnawer
+1 Ingenuity Engine
+1 Ephara's Dispersal
+1 Chaos Wand
+1 Test of Talents
+1 Ad Nauseam
+1 Discover the Impossible
+1 Deny Reality
+1 Fading Hope
+1 Monstrous War-Leech
+1 Increasing Ambition
+1 Unesh, Criosphinx Sovereign
+1 Chromescale Drake
+1 Hurl into History
+1 Buried Treasure
+1 Surging Aether
+1 Game Plan
+1 Protection Racket
+1 Sakashima's Protege
+1 A Little Chat
+1 Forceful Denial
+1 Price of Fame
+1 Memory Deluge
+1 Sword-Point Diplomacy
+1 Zhulodok, Void Gorger
+1 Start the TARDIS
+1 Muse Vortex
+1 The Stone Brain
+1 Oblivion Sower
+1 Invasive Surgery
+1 Rona, Disciple of Gix
+1 Forbidden Alchemy
+1 Heralds of Tzeentch
+1 Maelstrom Colossus
+1 Insidious Dreams
+1 Kaho, Minamo Historian
+1 Synthesis Pod
+1 Smuggler's Buggy
+1 Reality Heist
+1 Cabal Therapy
+1 The End
+1 Dimir Machinations
+1 Flash of Insight
+1 Surging Dementia
+1 Demonic Collusion
+1 Nymris, Oona's Trickster
+1 Gyruda, Doom of Depths
+1 Dark Tutelage
+1 Dark Confidant
+1 Kotose, the Silent Spider
+1 Pain Seer
+1 Rowan's Grim Search
+1 Commit // Memory
+1 Kathari Remnant
+1 Lobelia, Defender of Bag End
+1 Psychotic Episode
+1 Advice from the Fae
+1 Dig Up the Body
+1 Nashi, Moon Sage's Scion
+{'overall': 10.066666666666666, 'cmc': 3, 'ramp': '2', 'draw': '35', 'interaction': 3, 'folder': 'baseline', 'commander': 'HidetsuguandKairi.txt'}

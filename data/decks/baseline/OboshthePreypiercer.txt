@@ -1,0 +1,101 @@
+1 Obosh, the Preypiercer
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Scythe Specter
+1 Soulfire Eruption
+1 Thought Prison
+1 Toil // Trouble
+1 Heretic's Punishment
+1 Riddle of Lightning
+1 Blood Oath
+1 Ensnared by the Mara
+1 Lash Out
+1 Thought Hemorrhage
+1 Ugin, the Spirit Dragon
+1 Cerebral Eruption
+1 Kaboom!
+1 Mindblaze
+1 Hellcarver Demon
+1 Planeswalker's Fury
+1 Explosion of Riches
+1 Chandra Ablaze
+1 Inquisition of Kozilek
+1 Timesifter
+1 Friendly Fire
+1 Chandra, Pyromaster
+1 Vial Smasher the Fierce
+1 The End
+1 Devour Intellect
+1 Khorvath's Fury
+1 Combustible Gearhulk
+1 Erratic Explosion
+1 Into the Fire
+1 Kindle the Carnage
+1 Release the Ants
+1 Goblin Charbelcher
+1 Weed Strangle
+1 Shimian Specter
+1 Titan's Revenge
+1 Nahiri's Warcrafting
+1 Virtue of Courage // Embereth Blaze
+1 Vexing Arcanix
+1 Explosive Revelation
+1 Hellhole Rats
+1 Stronghold Gambit
+1 Fire Juggler
+1 Guff Rewrites History
+1 Sin Prodder
+1 Last Rites
+1 Pelakka Predation // Pelakka Caverns
+1 Keen Duelist
+1 Molten Psyche
+1 Nashi, Moon Sage's Scion
+1 Imposing Grandeur
+1 Sycorax Commander
+1 Lord of the Void
+1 Noggin Whack
+1 Knowledge Pool
+1 Memory Worm
+1 Efreet Flamepainter
+1 Legion's End
+1 Inquisition
+1 Gibbering Fiend
+1 Overblaze
+1 Unholy Heat
+1 Indomitable Creativity
+1 Molten Collapse
+{'overall': 6.393827160493828, 'cmc': 4.05, 'ramp': '4', 'draw': '15', 'interaction': 23, 'folder': 'baseline', 'commander': 'OboshthePreypiercer.txt'}

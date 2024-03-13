@@ -1,0 +1,69 @@
+1 Galadriel of Lothlórien
+1 Young Blue Dragon // Sand Augury
+1 Strategic Planning
+1 Tome Scour
+1 Traverse the Outlands
+1 Urban Evolution
+1 Up the Beanstalk
+1 Timetwister
+1 Tempt with Discovery
+1 Wild-Field Scarecrow
+1 Windreader Sphinx
+1 Tamiyo, Collector of Tales
+1 Trail of Mystery
+1 Wear Away
+1 Wild Wanderer
+1 Winged Words
+1 Thought Prison
+1 Uproot
+1 Venser, Shaper Savant
+1 Youthful Scholar
+1 Timestream Navigator
+1 Witness of the Ages
+1 Viseling
+1 Verdant Mastery
+1 Viridian Harvest
+1 Volatile Fault
+1 Wizards of Thay
+1 Wall of Forgotten Pharaohs
+1 Unlicensed Hearse
+1 World Breaker
+1 The Deck of Many Things
+1 Wistful Selkie
+1 Vorinclex, Monstrous Raider
+1 Workshop Assistant
+1 Time Reversal
+1 Weatherseed Totem
+1 Vivien, Monsters' Advocate
+1 Trusted Advisor
+1 The Fourth Doctor
+1 Tidings
+1 Zahid, Djinn of the Lamp
+1 Vexing Scuttler
+1 Whirling Catapult
+1 Subterranean Schooner
+1 Warm Welcome
+1 Urza's Miter
+1 Withdraw
+1 Void Shatter
+1 Wurm's Tooth
+1 Zoologist
+1 Wild Endeavor
+1 Windscouter
+1 Trophy Mage
+1 Yavimaya Dryad
+1 Vessel of Endless Rest
+1 Winter Eladrin
+1 Zellix, Sanity Flayer
+1 Waterlogged Hulk // Watertight Gondola
+1 Uba Mask
+1 Teferi's Puzzle Box
+1 Torrential Gearhulk
+1 Wizards of the _____
+1 Urza's Bauble
+1 Whispergear Sneak
+1 Zndrsplt's Judgment
+1 Yanling's Harbinger
+1 Wurmquake
+1 Time Ebb
+{'overall': 9.596184738955824, 'cmc': 3.661764705882353, 'ramp': '13', 'draw': '23', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'GaladrielofLothlórien.txt'}

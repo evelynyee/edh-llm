@@ -1,0 +1,69 @@
+1 Azusa, Lost but Seeking
+1 Vivien's Jaguar
+1 Waker of the Wilds
+1 Terramorph
+1 Traxos, Scourge of Kroog
+1 Zhalfirin Void
+1 Voice of Many
+1 Verdant Catacombs
+1 Witches' Eye
+1 Terramorphic Expanse
+1 Terrain Generator
+1 Woodland Guidance
+1 Soul Swallower
+1 Woodland Changeling
+1 Thaumatic Compass // Spires of Orazca
+1 Winding Way
+1 Twinning Glass
+1 Utopia Sprawl
+1 Villagers of Estwald // Howlpack of Estwald
+1 Wolfbriar Elemental
+1 Wild Endeavor
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Temporal Aperture
+1 Wild Growth
+1 Vessel of Endless Rest
+1 Wild Leotau
+1 Wild Pair
+1 Time of Need
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Track Down
+1 Wiitigo
+1 Yavimaya Sojourner
+1 Splinter
+1 Verdant Crescendo
+1 The Mending of Dominaria
+1 Sol Ring
+1 Verdant Eidolon
+1 Wirewood Symbiote
+1 Wreath of Geists
+1 Thaumatic Compass // Spires of Orazca
+1 Wand of Denial
+1 Wolfkin Outcast // Wedding Crasher
+1 Wild Dogs
+1 Shimmer Myr
+1 Wand of Vertebrae
+1 Wrenn and Seven
+1 Wildest Dreams
+1 Twists and Turns // Mycoid Maze
+1 Verdeloth the Ancient
+1 Stone Calendar
+1 Sol Talisman
+1 Vivid Revival
+1 Xantid Swarm
+1 Witchstalker
+1 Tilling Treefolk
+1 Tower of Fortunes
+1 Titania's Chosen
+1 Search for Tomorrow
+1 Sonic Screwdriver
+1 Zodiac Monkey
+1 Timberland Ancient
+1 Timeless Witness
+1 Wildcall
+1 Sylvan Messenger
+1 Thicket Elemental
+1 Zhulodok, Void Gorger
+1 The Foretold Soldier
+1 Wolfbitten Captive // Krallenhorde Killer
+{'overall': 8.193902439024392, 'cmc': 3.106060606060606, 'ramp': '16', 'draw': '14', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'AzusaLostbutSeeking.txt'}

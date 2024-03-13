@@ -1,0 +1,64 @@
+1 Samwise the Stouthearted
+1 Chromatic Lantern
+1 Sol Ring
+1 Land Tax
+1 Sword of the Animist
+1 Austere Command
+1 Thought-Knot Seer
+1 Shield-Wall Sentinel
+1 Wing Shards
+1 Sun Titan
+1 Vanquisher's Banner
+1 Teshar, Ancestor's Apostle
+1 Winds of Abandon
+1 Sword of Hearth and Home
+1 War Room
+1 Tormod's Crypt
+1 Tocasia's Onulet
+1 Vanish into Eternity
+1 Victory's Envoy
+1 Swashbuckler's Whip
+1 Verdant Catacombs
+1 Star Compass
+1 Warden of the Wall
+1 Trove Warden
+1 Swiftgear Drake
+1 Traveler's Amulet
+1 White Mana Battery
+1 Suncrusher
+1 Volrath's Laboratory
+1 Venerated Loxodon
+1 Vessel of Endless Rest
+1 Wingsteed Rider
+1 Zhalfirin Void
+1 Zephyrim
+1 Traxos, Scourge of Kroog
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Arcane Signet
+1 Mind Stone
+1 Wandering Archaic // Explore the Vastlands
+1 Smuggler's Buggy
+1 Sword of Kaldra
+1 Topplegeist
+1 Swift Reckoning
+1 Tragic Poet
+1 White Plume Adventurer
+1 Solitude
+1 Universal Solvent
+1 Vengeful Dreams
+1 Vexing Puzzlebox
+1 Whirling Catapult
+1 Warping Wail
+1 Stonecloaker
+1 Yosei, the Morning Star
+1 Tome of Legends
+1 Sword of the Meek
+1 Windshaper Planetar
+1 Wingbeat Warrior
+1 Shrine Steward
+1 Unstable Frontier
+1 Wooded Foothills
+1 Terrain Generator
+1 Thawing Glaciers
+1 Thran Tome
+{'overall': 8.216666666666667, 'cmc': 3.0, 'ramp': '16', 'draw': '12', 'interaction': 11, 'folder': 'gpt', 'commander': 'SamwisetheStouthearted.txt'}

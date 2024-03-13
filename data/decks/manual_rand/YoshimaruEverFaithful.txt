@@ -1,0 +1,69 @@
+1 Yoshimaru, Ever Faithful
+1 Wakening Sun's Avatar
+1 Warping Wail
+1 Topan Freeblade
+1 Terrain Generator
+1 Tablet of Epityr
+1 Weight of Conscience
+1 Windshaper Planetar
+1 Staff of the Storyteller
+1 Vulpine Harvester
+1 Triskelavus
+1 Sunspring Expedition
+1 The Moment
+1 World Queller
+1 Surprise Deployment
+1 Thopter Squadron
+1 Summoning Station
+1 Thran Spider
+1 Urza's Miter
+1 Urborg, Tomb of Yawgmoth
+1 Wild-Field Scarecrow
+1 Void Mirror
+1 Zelyon Sword
+1 Serum Tank
+1 Urbis Protector
+1 Tempt with Glory
+1 Volrath's Laboratory
+1 Vigil for the Lost
+1 Spellbook Vendor
+1 Talus Paladin
+1 Tatterkite
+1 Veteran Armorsmith
+1 That Which Was Taken
+1 Sanguine Glorifier
+1 Warlord's Elite
+1 Torture Chamber
+1 Vizier of Remedies
+1 Tocasia's Welcome
+1 Zealots en-Dal
+1 Virtuous Charge
+1 Terrarion
+1 Silverblade Paladin
+1 Zhalfirin Void
+1 Traxos, Scourge of Kroog
+1 Steel Exemplar
+1 White Plume Adventurer
+1 Serra Redeemer
+1 Space Marine Devastator
+1 Suntouched Myr
+1 Urza's Ruinous Blast
+1 Swallow Whole
+1 Tethered Griffin
+1 Skyboon Evangelist
+1 Supply-Line Cranes
+1 Veteran of the Depths
+1 Trusty Retriever
+1 Warden of the Wall
+1 Unyaro Griffin
+1 Vedalken Shackles
+1 Subjugator Angel
+1 Touch of the Eternal
+1 Sunbond
+1 Tome of Legends
+1 Spine of Ish Sah
+1 Torii Watchward
+1 Chromatic Lantern
+1 Trial of a Time Lord
+1 Weatherlight Compleated
+{'overall': 4.526271186440678, 'cmc': 3.4705882352941178, 'ramp': '5', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'YoshimaruEverFaithful.txt'}

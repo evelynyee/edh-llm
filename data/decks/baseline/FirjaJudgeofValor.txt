@@ -1,0 +1,101 @@
+1 Firja, Judge of Valor
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Swamp
+1 Plains
+1 Invasion of Ravnica // Guildpact Paragon
+1 Cemetery Tampering
+1 Price of Fame
+1 Gonti, Lord of Luxury
+1 Hostile Negotiations
+1 Dogged Detective
+1 Scroll Rack
+1 Ransack the Lab
+1 Recruitment Officer
+1 Fated Return
+1 Rowan's Grim Search
+1 Triumph of Saint Katherine
+1 Horn of the Mark
+1 Wilfred Mott
+1 Testament Bearer
+1 Surging Dementia
+1 Misinformation
+1 Reinforcements
+1 Board the Weatherlight
+1 Aladdin's Lamp
+1 Insidious Dreams
+1 Doom Whisperer
+1 Nefarious Imp
+1 Oblivion Sower
+1 Chaos Wand
+1 Liliana's Spoils
+1 Storybook Ride
+1 Deadly Visit
+1 Surging Sentinels
+1 Fated Retribution
+1 Harper Recruiter
+1 Heroes' Podium
+1 Stoneforge Acolyte
+1 Ingenious Smith
+1 Glimpse the Sun God
+1 Militia Bugler
+1 Ajani's Influence
+1 Phyrexian Portal
+1 Mirror of Fate
+1 Stand Firm
+1 Kayla's Reconstruction
+1 Wandering Archaic // Explore the Vastlands
+1 Weatherlight
+1 Colfenor's Plans
+1 Bitter Revelation
+1 Flitting Guerrilla
+1 Fill with Fright
+1 Clone Shell
+1 Oracle's Vault
+1 Putrid Cyclops
+1 Sensei's Divining Top
+1 Smuggler's Buggy
+1 Ashnod's Cylix
+1 Demonic Consultation
+1 Maelstrom Colossus
+1 Ravenous Gigamole
+1 Treasure Keeper
+1 Soldevi Digger
+1 Inscribed Tablet
+1 Crystal Ball
+1 Temporal Aperture
+1 Thrumming Stone
+1 Thran Tome
+{'overall': 7.989285714285715, 'cmc': 3.393939393939394, 'ramp': '0', 'draw': '29', 'interaction': 3, 'folder': 'baseline', 'commander': 'FirjaJudgeofValor.txt'}

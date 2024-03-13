@@ -1,0 +1,64 @@
+1 Butterbur, Bree Innkeeper
+1 Whirlermaker
+1 Warden of the Wall
+1 Weaver of Harmony
+1 Workshop Warchief
+1 Wurmcoil Engine
+1 Rampant Growth
+1 Wall of Mulch
+1 Vastwood Zendikon
+1 Warden of Geometries
+1 Wood Elemental
+1 Verdant Haven
+1 Verdant Rebirth
+1 Bloom Tender
+1 Seedborn Muse
+1 Waylay
+1 Wirewood Hivemaster
+1 War Room
+1 Wildgrowth Walker
+1 Voltaic Servant
+1 Sporeweb Weaver
+1 Thornbite Staff
+1 Sporoloth Ancient
+1 Wirewood Symbiote
+1 Wolfbriar Elemental
+1 Whalebone Glider
+1 Sunfall
+1 Will of the All-Hunter
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Treasure Vault
+1 Vengeant Earth
+1 Zephyrim
+1 Wren's Run Packmaster
+1 Sunscourge Champion
+1 Trollhide
+1 Squirrel Nest
+1 Tolsimir, Friend to Wolves
+1 Swords to Plowshares
+1 Titan of Industry
+1 Thalia's Geistcaller
+1 Zendikar Resurgent
+1 Worldspine Wurm
+1 Vitu-Ghazi, the City-Tree
+1 White Plume Adventurer
+1 Squirrel Wrangler
+1 Wayfaring Temple
+1 Whipgrass Entangler
+1 Vigorous Charge
+1 Wallop
+1 Toymaker
+1 Warping Wail
+1 Whip Silk
+1 Urza's Mine
+1 Wingmate Roc
+1 Terashi's Grasp
+1 Urza's Chalice
+1 The Hive
+1 Static Net
+1 The Huntsman's Redemption
+1 Tyrite Sanctum
+1 Wanderlust
+1 Wedding Invitation
+1 Universal Solvent
+{'overall': 5.816666666666667, 'cmc': 3.0, 'ramp': '10', 'draw': '9', 'interaction': 8, 'folder': 'gpt', 'commander': 'ButterburBreeInnkeeper.txt'}

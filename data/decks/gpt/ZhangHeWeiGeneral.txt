@@ -1,0 +1,67 @@
+1 Zhang He, Wei General
+1 Dark Ritual
+1 Sol Ring
+1 Mana Vault
+1 Mind Stone
+1 Sorin, Vampire Lord
+1 Vampire Bats
+1 Vampiric Embrace
+1 Vampiric Sliver
+1 Vampire Nighthawk
+1 Vorpal Sword
+1 Worms of the Earth
+1 Waste Away
+1 Violet Pall
+1 Vengeful Pharaoh
+1 Umezawa's Jitte
+1 Vindictive Mob
+1 Vindictive Vampire
+1 Void Winnower
+1 Vraska's Contempt
+1 Arcane Signet
+1 Wurmcoil Engine
+1 Sword of Feast and Famine
+1 Vengeful Rebel
+1 Vito, Thorn of the Dusk Rose
+1 Vicious Offering
+1 Diabolic Tutor
+1 Tainted Strike
+1 Vengeant Vampire
+1 Xathrid Slyblade
+1 Urborg
+1 Vampirism
+1 Vampire Aristocrat
+1 Demonic Tutor
+1 Thran Golem
+1 Yawgmoth's Will
+1 Whisper, Blood Liturgist
+1 Throatseeker
+1 Vile Deacon
+1 Zephyr Boots
+1 Vampiric Link
+1 Treacherous Vampire
+1 Vona's Hunger
+1 Wall of Shields
+1 Vile Requiem
+1 Whispering Shade
+1 Unlikely Aid
+1 Urborg Justice
+1 Vampire Champion
+1 Well of Life
+1 Whip of Erebos
+1 Zulaport Enforcer
+1 Vengeful Strangler // Strangling Grasp
+1 Tragic Slip
+1 Thornbite Staff
+1 Toxic Deluge
+1 Volrath the Fallen
+1 Virtue's Ruin
+1 Veilstone Amulet
+1 Vicious Betrayal
+1 Toshiro Umezawa
+1 Vedalken Shackles
+1 Thundersteel Colossus
+1 Vraska, Scheming Gorgon
+1 Teferi's Sentinel
+1 Vraska's Conquistador
+{'overall': 3.0945945945945947, 'cmc': 3.3636363636363638, 'ramp': '5', 'draw': '3', 'interaction': 10, 'folder': 'gpt', 'commander': 'ZhangHeWeiGeneral.txt'}

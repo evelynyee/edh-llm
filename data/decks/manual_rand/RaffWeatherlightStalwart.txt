@@ -1,0 +1,69 @@
+1 Raff, Weatherlight Stalwart
+1 Vengeful Dreams
+1 Wicker Picker
+1 Tawnos's Wand
+1 Wall of Reverence
+1 Terashi's Cry
+1 Undead Slayer
+1 Utility Knife
+1 Winter's Chill
+1 Whalebone Glider
+1 Unlawful Entry
+1 Wurm's Tooth
+1 Éowyn, Lady of Rohan
+1 Veiling Oddity
+1 Whiptongue Frog
+1 Waxmane Baku
+1 Wanderer's Strike
+1 Vexing Scuttler
+1 Tegan Jovanka
+1 Victory's Herald
+1 Wings of the Guard
+1 Untethered Express
+1 Zephyr Scribe
+1 Tah-Crop Elite
+1 Sunstrike Legionnaire
+1 Zahid, Djinn of the Lamp
+1 Xanthic Statue
+1 Thundersteel Colossus
+1 Thassa, Deep-Dwelling
+1 Taigam's Strike
+1 Unexplained Vision
+1 Veil of Assimilation
+1 Force of Negation
+1 Synchronized Eviction
+1 The Reality Chip
+1 Stonybrook Angler
+1 Unctus, Grand Metatect
+1 War Screecher
+1 Worship
+1 Twice Upon a Time // Unlikely Meeting
+1 Vesperlark
+1 Teferi, Timebender
+1 Temporal Trespass
+1 Warded Battlements
+1 Thundercloud Elemental
+1 Warrior's Stand
+1 Spoils of Adventure
+1 Tower of the Magistrate
+1 Voltaic Construct
+1 The Circle of Loyalty
+1 Stirring Address
+1 Will of the Naga
+1 Thran Forge
+1 Words of Worship
+1 Switcheroo
+1 Surge of Salvation
+1 Zhuge Jin, Wu Strategist
+1 Tortoise Formation
+1 Trickster Mage
+1 Winged Words
+1 Turbulent Dreams
+1 Wingbeat Warrior
+1 Time Beetle
+1 Toils of Night and Day
+1 Well of Life
+1 Wash Away
+1 Voidwalk
+1 Vanquish the Horde
+{'overall': 3.7896825396825395, 'cmc': 3.7058823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'RaffWeatherlightStalwart.txt'}

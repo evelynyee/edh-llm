@@ -1,0 +1,101 @@
+1 Elrond of the White Council
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Unctus's Retrofitter
+1 Stern Mentor
+1 Imperious Mindbreaker
+1 Gauntlets of Chaos
+1 Duel for Dominance
+1 Tawnos's Tinkering
+1 Crown of Empires
+1 Tandem Lookout
+1 Curse of the Werefox
+1 Hungry Lynx
+1 Primal Empathy
+1 Mirror Box
+1 Malamet Battle Glyph
+1 Boxing Ring
+1 Workshop Elders
+1 Rangers of Ithilien
+1 Thorn Mammoth
+1 Mesmerizing Benthid
+1 Legerdemain
+1 Syr Ginger, the Meal Ender
+1 Sakashima of a Thousand Faces
+1 Outmuscle
+1 Twists and Turns // Mycoid Maze
+1 Gala Greeters
+1 Chasm Skulker
+1 Lumberknot
+1 Arcbound Fiend
+1 Vronos, Masked Inquisitor
+1 Midnight Crusader Shuttle
+1 Thundering Mightmare
+1 Ravenous Slime
+1 Spectrum Sentinel
+1 Jinxed Ring
+1 Historian's Wisdom
+1 Marchesa's Emissary
+1 Stealth Mission
+1 Marit Lage's Slumber
+1 Kogla, the Titan Ape
+1 Nissa's Judgment
+1 Concord with the Kami
+1 Ruxa, Patient Professor
+1 Legolas Greenleaf
+1 Arm with Aether
+1 Howlgeist
+1 The Phasing of Zhalfir
+1 Shrewd Negotiation
+1 Eon Frolicker
+1 Juxtapose
+1 Modify Memory
+1 Nimble Trapfinder
+1 Lazotep Plating
+1 Minn, Wily Illusionist
+1 Champion of Lambholt
+1 Elusive Krasis
+1 Andúril, Narsil Reforged
+1 Willbreaker
+1 Profaner of the Dead
+1 Helm of Possession
+1 Merchant Raiders
+1 Pinion Feast
+1 Foe-Razer Regent
+1 Vedalken Shackles
+1 Unnatural Aggression
+{'overall': 4.416523605150214, 'cmc': 3.5303030303030303, 'ramp': '3', 'draw': '11', 'interaction': 7, 'folder': 'baseline', 'commander': 'ElrondoftheWhiteCouncil.txt'}

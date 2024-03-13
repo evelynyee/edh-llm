@@ -1,0 +1,69 @@
+1 Jenny, Generated Anomaly
+1 Whirling Catapult
+1 Spite of Mogis
+1 Welding Sparks
+1 Thawing Glaciers
+1 Volley of Boulders
+1 Welkin Hawk
+1 Stalwarts of Osgiliath
+1 Stonebound Mentor
+1 Sudden Salvation
+1 Sword of the Animist
+1 Zealot of the God-Pharaoh
+1 Worthy Cause
+1 Vessel of Endless Rest
+1 Volcanic Torrent
+1 Valakut Exploration
+1 Underworld Fires
+1 Trove Warden
+1 War of the Last Alliance
+1 Unlucky Witness
+1 Wand of Denial
+1 Victory's Envoy
+1 Weathered Bodyguards
+1 Ugin's Conjurant
+1 Whetstone
+1 Weatherlight
+1 Wayward Guide-Beast
+1 Trustworthy Scout
+1 Veteran of the Depths
+1 Sweltering Suns
+1 Thought Prison
+1 Urabrask // The Great Work
+1 Tuskeri Firewalker
+1 Tablet of Epityr
+1 Squadron Hawk
+1 Wildfire Devils
+1 Touch of the Void
+1 War Elemental
+1 Voldaren Ambusher
+1 Wheel of Misfortune
+1 Thran Temporal Gateway
+1 Viashino Heretic
+1 Visions of Phyrexia
+1 Unruly Mob
+1 Tethmos High Priest
+1 Wyll, Blade of Frontiers
+1 Witty Roastmaster
+1 Voyager Staff
+1 Wee Champion
+1 Terrain Generator
+1 Zoyowa's Justice
+1 Wear // Tear
+1 Timeless Dragon
+1 Warfire Javelineer
+1 Steelshaper's Gift
+1 Young Red Dragon // Bathe in Gold
+1 Volatile Fault
+1 Urza's Tome
+1 Wildfire Cerberus
+1 Starfield Mystic
+1 Voodoo Doll
+1 Tunneling Geopede
+1 Stensia Masquerade
+1 Underdark Rift
+1 Torch the Tower
+1 Trap Digger
+1 Soul-Strike Technique
+1 Tower of Fortunes
+{'overall': 7.026616915422885, 'cmc': 2.9558823529411766, 'ramp': '7', 'draw': '16', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'JennyGeneratedAnomaly.txt'}

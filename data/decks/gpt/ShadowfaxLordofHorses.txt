@@ -1,0 +1,66 @@
+1 Shadowfax, Lord of Horses
+1 Sword of Hearth and Home
+1 Sword of Kaldra
+1 Chaos Warp
+1 Mentor of the Meek
+1 Toralf, God of Fury // Toralf's Hammer
+1 Victory's Envoy
+1 Transmogrify
+1 Wildfire Devils
+1 Thundermaw Hellkite
+1 Sneak Attack
+1 Smothering Tithe
+1 Ugin, the Spirit Dragon
+1 Sol Ring
+1 Sword of the Animist
+1 Vikya, Scorching Stalwart
+1 Sokenzan Renegade
+1 Titan's Presence
+1 Winds of Abandon
+1 Sun Titan
+1 Thalia, Heretic Cathar
+1 Thunderkin Awakener
+1 Taurean Mauler
+1 Trove Warden
+1 Wrenn's Resolve
+1 Stonecloaker
+1 Weathered Wayfarer
+1 Take Vengeance
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Stensia Masquerade
+1 Wayward Guide-Beast
+1 Wild Celebrants
+1 White Plume Adventurer
+1 Terashi's Verdict
+1 Xenk, Paladin Unbroken
+1 Solitude
+1 Wingmate Roc
+1 Wishmonger
+1 Thundermare
+1 Red Elemental Blast
+1 Waves of Aggression
+1 Swords to Plowshares
+1 Witch Hunt
+1 Tectonic Instability
+1 Thundering Raiju
+1 Thunder Brute
+1 Voldaren Thrillseeker
+1 Zabaz, the Glimmerwasp
+1 Mana Vault
+1 Dockside Extortionist
+1 Zurzoth, Chaos Rider
+1 Stonehewer Giant
+1 Thran Temporal Gateway
+1 Windborn Muse
+1 Stonebinder's Familiar
+1 Ulamog's Crusher
+1 Valakut Exploration
+1 Thunderblust
+1 Thoughtweft Trio
+1 Worldfire
+1 Zelyon Sword
+1 Teyo's Lightshield
+1 Toymaker
+1 Will of the All-Hunter
+1 Eowyn, Fearless Knight
+{'overall': 5.493478260869566, 'cmc': 3.68, 'ramp': '10', 'draw': '6', 'interaction': 19, 'folder': 'gpt', 'commander': 'ShadowfaxLordofHorses.txt'}

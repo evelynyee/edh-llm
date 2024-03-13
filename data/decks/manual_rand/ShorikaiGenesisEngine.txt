@@ -1,0 +1,69 @@
+1 Shorikai, Genesis Engine
+1 Force of Negation
+1 The Mycosynth Gardens
+1 Strength-Testing Hammer
+1 Thassa's Rebuff
+1 Tidal Flats
+1 Westfold Rider
+1 Wedding Invitation
+1 TARDIS
+1 Mana Drain
+1 Universal Surveillance
+1 Mana Vault
+1 Xanthic Statue
+1 Unified Strike
+1 Vanquish
+1 Titan's Presence
+1 Werefox Bodyguard
+1 Wings of Hubris
+1 Valorous Steed
+1 Wings of Velis Vel
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Three Blind Mice
+1 Uninvited Geist // Unimpeded Trespasser
+1 Sword of Light and Shadow
+1 Surrounded by Orcs
+1 Tetsuko Umezawa, Fugitive
+1 Volrath's Shapeshifter
+1 Treasure Map // Treasure Cove
+1 Vedalken Certarch
+1 War Elephant
+1 Welcome to the Fold
+1 Waterlogged Hulk // Watertight Gondola
+1 Water Wings
+1 Vanguard of the Rose
+1 Twilight Drover
+1 Unerring Sling
+1 Urn of Godfire
+1 Wall of Nets
+1 Voltaic Construct
+1 Valiant Rescuer
+1 Vesuvan Duplimancy
+1 Tolarian Entrancer
+1 Valorous Stance
+1 Wedding Ring
+1 Warmonger's Chariot
+1 Venerated Loxodon
+1 Waylay
+1 Zephyr Charge
+1 Storm Fleet Negotiator
+1 Team Pennant
+1 Walking Skyscraper
+1 Tatsumasa, the Dragon's Fang
+1 Warped Researcher
+1 Wooden Stake
+1 Tezzeret, Betrayer of Flesh
+1 Watcher of the Spheres
+1 Stern Scolding
+1 Winter's Chill
+1 Urza's Command
+1 Warping Wail
+1 Trove Tracker
+1 The Everflowing Well // The Myriad Pools
+1 Viscerid Drone
+1 Whirlwind Adept
+1 Time to Reflect
+1 Tobias, Doomed Conqueror
+1 Weight of Conscience
+1 Tezzeret, Cruel Machinist
+{'overall': 6.404663212435233, 'cmc': 2.838235294117647, 'ramp': '6', 'draw': '14', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ShorikaiGenesisEngine.txt'}

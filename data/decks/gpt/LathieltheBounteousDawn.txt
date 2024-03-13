@@ -1,0 +1,68 @@
+1 Lathiel, the Bounteous Dawn
+1 Vizier of Remedies
+1 Seedborn Muse
+1 Sylvan Paradise
+1 Traverse the Outlands
+1 Strength of the Pack
+1 Workshop Warchief
+1 Vrestin, Menoptra Leader
+1 Victory's Envoy
+1 Whalebone Glider
+1 Woodfall Primus
+1 Ugin's Conjurant
+1 Wildgrowth Walker
+1 Tendershoot Dryad
+1 Vivien Reid
+1 Suncleanser
+1 Syr Alin, the Lion's Claw
+1 Syr Faren, the Hengehammer
+1 White Mana Battery
+1 Timesifter
+1 Wayfaring Temple
+1 Valorous Charge
+1 Thundersteel Colossus
+1 War of the Last Alliance
+1 Vigilant Sentry
+1 Vivien, Monsters' Advocate
+1 Ugin, the Spirit Dragon
+1 Verdurous Gearhulk
+1 Teferi's Protection
+1 Venser's Journal
+1 Vastwood Fortification // Vastwood Thicket
+1 Triumph of the Hordes
+1 Swords to Plowshares
+1 War Dance
+1 Vedalken Shackles
+1 Vitalize
+1 Waker of the Wilds
+1 Wilderness Reclamation
+1 War Screecher
+1 Bloom Tender
+1 Trophy Hunter
+1 Vivien, Nature's Avenger
+1 Thran Quarry
+1 Unnatural Growth
+1 Titanic Brawl
+1 Sunfall
+1 Viridian Betrayers
+1 Stampeding Elk Herd
+1 Wild Onslaught
+1 Sylvan Yeti
+1 Tetravus
+1 Thunderstaff
+1 Tunnel of Love
+1 Wrenn and Realmbreaker
+1 Vengeful Archon
+1 Windbrisk Raptor
+1 Tandem Tactics
+1 Waylay
+1 Tel-Jilad Fallen
+1 Yew Spirit
+1 Whirling Catapult
+1 Storybook Ride
+1 Sunbathing Rootwalla
+1 Wirewood Channeler
+1 Sol Ring
+1 Umezawa's Jitte
+1 Tribute to the World Tree
+{'overall': 5.113025210084033, 'cmc': 3.5522388059701493, 'ramp': '9', 'draw': '7', 'interaction': 11, 'folder': 'gpt', 'commander': 'LathieltheBounteousDawn.txt'}

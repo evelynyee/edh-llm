@@ -1,0 +1,64 @@
+1 Frodo, Determined Hero
+1 Mana Vault
+1 Chrome Mox
+1 Sword of Feast and Famine
+1 Ugin, the Spirit Dragon
+1 Mind Stone
+1 Sword of Fire and Ice
+1 Umezawa's Jitte
+1 Sword of War and Peace
+1 Vanish into Eternity
+1 Sword of Hours
+1 Seasoned Marshal
+1 Xenk, Paladin Unbroken
+1 Will of the All-Hunter
+1 Spinny Ride
+1 Siege Striker
+1 Takeno's Cavalry
+1 Swashbuckler's Whip
+1 Trove Warden
+1 Wingmate Roc
+1 Smothering Tithe
+1 Sun Titan
+1 Stormrider Rig
+1 Wing Shards
+1 Sunstrike Legionnaire
+1 Surestrike Trident
+1 Sword of Hearth and Home
+1 Swift Response
+1 Sol Ring
+1 Staff of the Sun Magus
+1 Path to Exile
+1 Winds of Abandon
+1 Sram, Senior Edificer
+1 Wingsteed Rider
+1 Zephyrim
+1 Soul Snare
+1 Whipcorder
+1 Venerated Loxodon
+1 Vizier of the True
+1 Trepanation Blade
+1 Whipgrass Entangler
+1 Teferi's Protection
+1 Thopter Architect
+1 Songstitcher
+1 Whirling Catapult
+1 Strongarm Monk
+1 Task Force
+1 Thousand-Year Elixir
+1 Skull Catapult
+1 Thornbite Staff
+1 Soldier Replica
+1 Shieldmage Advocate
+1 Shining Shoal
+1 Whalebone Glider
+1 Ugin's Conjurant
+1 Take Vengeance
+1 White Plume Adventurer
+1 Temple Altisaur
+1 Spellbinder
+1 Solitude
+1 Terashi's Verdict
+1 Surge of Salvation
+1 Towashi Guide-Bot
+{'overall': 5.157865168539326, 'cmc': 2.8253968253968256, 'ramp': '7', 'draw': '8', 'interaction': 14, 'folder': 'gpt', 'commander': 'FrodoDeterminedHero.txt'}

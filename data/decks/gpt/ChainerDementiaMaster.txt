@@ -1,0 +1,64 @@
+1 Chainer, Dementia Master
+1 War Room
+1 Thoughtpicker Witch
+1 Vampiric Tutor
+1 Sorin, Imperious Bloodlord
+1 Wasteland Strangler
+1 Thought-Knot Seer
+1 Thought Gorger
+1 Toymaker
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Damnation
+1 Dark Ritual
+1 Animate Dead
+1 Vampire Nocturnus
+1 Visions of Dread
+1 Tetzimoc, Primal Death
+1 Urza's Bauble
+1 Warden of the Wall
+1 Zhalfirin Void
+1 Shamble Back
+1 Skyclave Shade
+1 Wake the Dead
+1 Vengeful Strangler // Strangling Grasp
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Viscera Seer
+1 Wretched Confluence
+1 Soul of Innistrad
+1 Treacherous Blessing
+1 Vengeful Reaper
+1 Undying Malice
+1 Szarekh, the Silent King
+1 Torgaar, Famine Incarnate
+1 Swashbuckler's Whip
+1 Whalebone Glider
+1 Withering Wisps
+1 Unliving Psychopath
+1 Whirling Catapult
+1 Go for the Throat
+1 Xathrid Demon
+1 Toshiro Umezawa
+1 Varragoth, Bloodsky Sire
+1 Vito's Inquisitor
+1 Uchuulon
+1 Warping Wail
+1 Witches' Eye
+1 Vraska's Contempt
+1 Urborg Justice
+1 Treacherous Vampire
+1 Treacherous Pit-Dweller
+1 Weapon Rack
+1 Trial of Ambition
+1 Spine of Ish Sah
+1 The Torment of Gollum
+1 Whisper Squad
+1 Tombstalker
+1 Wicked Visitor
+1 Vengeant Vampire
+1 Zuran Orb
+1 Blood Artist
+1 Sword of the Animist
+1 Victimize
+1 Verdant Catacombs
+{'overall': 4.066666666666666, 'cmc': 3.0, 'ramp': '4', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'ChainerDementiaMaster.txt'}

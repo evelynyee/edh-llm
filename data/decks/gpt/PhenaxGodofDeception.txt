@@ -1,0 +1,64 @@
+1 Phenax, God of Deception
+1 Tezzeret, Master of the Bridge
+1 Unctus's Retrofitter
+1 Tegwyll's Scouring
+1 Volrath the Fallen
+1 Wrexial, the Risen Deep
+1 Ugin, the Spirit Dragon
+1 Wistful Thinking
+1 Vizier of Many Faces
+1 Thopter Spy Network
+1 Toymaker
+1 Sol Ring
+1 Wu Elite Cavalry
+1 Wavecrash Triton
+1 Stern Scolding
+1 Willbreaker
+1 Tidal Surge
+1 Mana Drain
+1 Demonic Tutor
+1 Force of Negation
+1 Counterspell
+1 Venser, Corpse Puppet
+1 The Torment of Gollum
+1 Vhal, Candlekeep Researcher
+1 Tempted by the Oriq
+1 Turn into a Pumpkin
+1 Vedalken Shackles
+1 Tormod's Crypt
+1 Tormod's Cryptkeeper
+1 Mana Vault
+1 Unliving Psychopath
+1 Vengeful Strangler // Strangling Grasp
+1 Vona's Hunger
+1 Vraska's Finisher
+1 Trench Stalker
+1 Spontaneous Mutation
+1 Wall of Kelp
+1 Walk the Plank
+1 Virtus's Maneuver
+1 Victimize
+1 Warped Physique
+1 Toxic Stench
+1 Vicious Offering
+1 Tymaret, Chosen from Death
+1 Tomb Blade
+1 Urza, Lord High Artificer
+1 Tezzeret, Artifice Master
+1 Thought Dissector
+1 Diabolic Tutor
+1 Whirler Rogue
+1 Unerring Sling
+1 Vronos, Masked Inquisitor
+1 Vraan, Executioner Thane
+1 Thieving Skydiver
+1 Tivash, Gloom Summoner
+1 Transmute Artifact
+1 Vizier of the Scorpion
+1 Startling Development
+1 Will of the Naga
+1 Witch of the Moors
+1 To the Slaughter
+1 Voracious Vermin
+1 Whispersteel Dagger
+{'overall': 3.5500000000000003, 'cmc': 3.3333333333333335, 'ramp': '3', 'draw': '7', 'interaction': 9, 'folder': 'gpt', 'commander': 'PhenaxGodofDeception.txt'}

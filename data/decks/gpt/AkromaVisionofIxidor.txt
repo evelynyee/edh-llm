@@ -1,0 +1,66 @@
+1 Akroma, Vision of Ixidor
+1 Chromatic Lantern
+1 Mana Crypt
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Swords to Plowshares
+1 Wurmcoil Engine
+1 Sword of Truth and Justice
+1 Spirit of the Spires
+1 Skyshroud Falcon
+1 Soratami Cloud Chariot
+1 Soltari Champion
+1 Skyhunter Prowler
+1 Zelyon Sword
+1 Veteran Armorer
+1 Wingmate Roc
+1 Warden of the Wall
+1 Victory's Envoy
+1 Shield Wall
+1 Sentinel's Mark
+1 Steadfast Paladin
+1 Whispersilk Cloak
+1 Swiftfoot Boots
+1 Sword of the Chosen
+1 Mana Vault
+1 Wings of the Guard
+1 Sylvok Lifestaff
+1 Winds of Rath
+1 Spectra Ward
+1 Worldslayer
+1 True Conviction
+1 Whirlermaker
+1 Siege Striker
+1 Sword of Hours
+1 Stoic Champion
+1 Zhang Fei, Fierce Warrior
+1 Soltari Monk
+1 Takeno's Cavalry
+1 Waylay
+1 Whalebone Glider
+1 Wardscale Dragon
+1 Takeno, Samurai General
+1 Thornbite Staff
+1 Austere Command
+1 Stoneforge Masterwork
+1 Vial of Poison
+1 Squad Commander
+1 Triumph of Gerrard
+1 Vanquisher's Axe
+1 Territorial Roc
+1 Soul of New Phyrexia
+1 Starlight Spectacular
+1 Starlit Angel
+1 Surge of Salvation
+1 Swooping Talon
+1 Thousand-Year Elixir
+1 Unlikely Alliance
+1 Windbrisk Raptor
+1 Steel-Plume Marshal
+1 Taranika, Akroan Veteran
+1 Vedalken Shackles
+1 Windborn Muse
+1 Sublime Archangel
+1 Vanquish
+1 Unruly Mob
+{'overall': 2.454651162790698, 'cmc': 3.3076923076923075, 'ramp': '4', 'draw': '2', 'interaction': 7, 'folder': 'gpt', 'commander': 'AkromaVisionofIxidor.txt'}

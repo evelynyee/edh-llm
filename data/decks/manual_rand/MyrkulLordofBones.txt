@@ -1,0 +1,69 @@
+1 Myrkul, Lord of Bones
+1 Visions of Dominance
+1 Webweaver Changeling
+1 The Wandering Emperor
+1 Veinwitch Coven
+1 Timeless Witness
+1 Wingmate Roc
+1 Tranquil Frillback
+1 The Skullspore Nexus
+1 Vengeful Dead
+1 Woodvine Elemental
+1 Wondrous Crucible
+1 Tend the Pests
+1 Unravel the Aether
+1 Unified Strike
+1 Twilight Prophet
+1 Tethmos High Priest
+1 Trespasser's Curse
+1 Trail of Crumbs
+1 Tithing Blade // Consuming Sepulcher
+1 Whiteout
+1 Wurmquake
+1 Zombie Apocalypse
+1 The End
+1 Suspension Field
+1 Yahenni's Expertise
+1 Warlock Class
+1 Warped Devotion
+1 Topography Tracker
+1 Whack
+1 Well of Lost Dreams
+1 Yenna, Redtooth Regent
+1 _____ Bird Gets the Worm
+1 Torment of Venom
+1 Workshop Assistant
+1 Séance
+1 Warren Pilferers
+1 Woodwraith Strangler
+1 Wandering Champion
+1 Voice of Resurgence
+1 Treasury Thrull
+1 Unforgiving One
+1 Surge of Righteousness
+1 Diabolic Tutor
+1 Voracious Vermin
+1 Torii Watchward
+1 Woe Strider
+1 Vislor Turlough
+1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Witherbloom Command
+1 Throne of the Grim Captain // The Grim Captain
+1 Unmake the Graves
+1 Wing Puncture
+1 White Sun's Zenith
+1 Wildwood Mentor
+1 _____ _____ Rocketship
+1 Wayfaring Temple
+1 This Is How It Ends
+1 Wall of Limbs
+1 Touch the Spirit Realm
+1 Whirlermaker
+1 The Mycotyrant
+1 Wake the Reflections
+1 Waste Not
+1 Tariff
+1 Tivash, Gloom Summoner
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+{'overall': 4.117796610169491, 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '10', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'MyrkulLordofBones.txt'}

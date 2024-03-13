@@ -1,0 +1,69 @@
+1 Inniaz, the Gale Force
+1 Tezzeret's Strider
+1 Venerated Loxodon
+1 Will Kenrith
+1 Wavecrash Triton
+1 Sun Sentinel
+1 Tandem Tactics
+1 You Hear Something on Watch
+1 Steam Catapult
+1 Woeleecher
+1 Vodalian Illusionist
+1 Steel-Plume Marshal
+1 Ward of Lights
+1 Wanderer's Intervention
+1 Vectis Gloves
+1 Wild Aesthir
+1 Valiant Knight
+1 Yuan-Ti Malison
+1 Vedalken Shackles
+1 Sygg, River Guide
+1 Urza, Planeswalker
+1 Wall of Air
+1 Trap Runner
+1 Warning
+1 War Tax
+1 Yare
+1 Worldslayer
+1 Walking Dream
+1 War Screecher
+1 Path to Exile
+1 Wingfold Pteron
+1 Tah-Crop Elite
+1 Warlord's Elite
+1 Yotian Soldier
+1 Thistledown Liege
+1 War Barge
+1 Zephid's Embrace
+1 Éowyn, Lady of Rohan
+1 Veteran's Powerblade
+1 Zephid
+1 Well of Discovery
+1 The Eternal Wanderer
+1 Zhalfirin Decoy
+1 Wonder
+1 Tolarian Entrancer
+1 Veiled Serpent
+1 Water Servant
+1 Wanderlight Spirit
+1 Waterwhirl
+1 Uninvited Geist // Unimpeded Trespasser
+1 Vow of Duty
+1 Veteran Armorsmith
+1 Unconventional Tactics
+1 Teferi, Master of Time
+1 Vortex Elemental
+1 Trench Behemoth
+1 Veteran's Reflexes
+1 Sol Ring
+1 Supreme Verdict
+1 Watcher of the Spheres
+1 Wizards of Thay
+1 Swiftfoot Boots
+1 Wilderness Hypnotist
+1 Triumph of Gerrard
+1 The Stasis Coffin
+1 Wedding Announcement // Wedding Festivity
+1 Warped Researcher
+1 Virtue of Loyalty // Ardenvale Fealty
+{'overall': 2.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '1', 'draw': '7', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'}

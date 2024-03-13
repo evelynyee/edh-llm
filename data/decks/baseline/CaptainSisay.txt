@@ -1,0 +1,101 @@
+1 Captain Sisay
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Steelshaper's Gift
+1 Eladamri's Call
+1 Idyllic Tutor
+1 Journey for the Elixir
+1 Assembly Hall
+1 Time of Need
+1 Open the Gates
+1 Sylvan Scrying
+1 Planar Portal
+1 Nissa's Encouragement
+1 Call the Gatewatch
+1 Wirewood Herald
+1 Safewright Quest
+1 Worldly Tutor
+1 Sylvan Tutor
+1 Open the Armory
+1 Braidwood Sextant
+1 Welkin Hawk
+1 Shard Convergence
+1 Enlightened Tutor
+1 Lay of the Land
+1 Traverse the Ulvenwald
+1 Journeyer's Kite
+1 Gem of Becoming
+1 Compass Gnome
+1 Draconic Muralists
+1 Expedition Map
+1 Flower // Flourish
+1 Field Trip
+1 Greenseeker
+1 Nature's Lore
+1 Verdant Crescendo
+1 Plea for Guidance
+1 Wanderer's Twig
+1 Loam Larva
+1 Gatecreeper Vine
+1 District Guide
+1 Traveler's Amulet
+1 Peregrination
+1 Kithkin Harbinger
+1 Campus Guide
+1 Elspeth's Devotee
+1 Untamed Wilds
+1 Treefolk Harbinger
+1 Giant Ladybug
+1 Self-Assembler
+1 Garruk's Warsteed
+1 Hermit Druid
+1 Ethereal Elk
+1 Ignite the Beacon
+1 Trustworthy Scout
+1 Three Dreams
+1 Shield-Wall Sentinel
+1 Caravan Vigil
+1 Goldmane Griffin
+1 Ruin in Their Wake
+1 Noble Templar
+1 Gaea's Bounty
+1 Thalia's Lancers
+1 Wirewood Guardian
+1 Myr Kinsmith
+1 Shared Summons
+1 Totem-Guide Hartebeest
+{'overall': 21.43041237113402, 'cmc': 2.9393939393939394, 'ramp': '31', 'draw': '52', 'interaction': 0, 'folder': 'baseline', 'commander': 'CaptainSisay.txt'}

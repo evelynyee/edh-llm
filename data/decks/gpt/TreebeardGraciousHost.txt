@@ -1,0 +1,67 @@
+1 Treebeard, Gracious Host
+1 Vitu-Ghazi Guildmage
+1 Vivien, Monsters' Advocate
+1 Tolsimir, Friend to Wolves
+1 Titania, Protector of Argoth
+1 Strength of the Pack
+1 Wildcall
+1 Verdant Confluence
+1 Vorinclex // The Grand Evolution
+1 Terrarion
+1 Whirlermaker
+1 Wingsteed Rider
+1 Workshop Warchief
+1 Vrestin, Menoptra Leader
+1 Victory's Envoy
+1 Bloom Tender
+1 Verdant Sun's Avatar
+1 Seedborn Muse
+1 Ugin's Construct
+1 Voice of Many
+1 Woodfall Primus
+1 Verdurous Gearhulk
+1 Worldspine Wurm
+1 Ulvenwald Hydra
+1 Zendikar's Roil
+1 Waylay
+1 White Mana Battery
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Vastwood Surge
+1 Ugin's Conjurant
+1 Turntimber Ascetic
+1 Wurmcoil Engine
+1 Wildgrowth Walker
+1 Verdant Mastery
+1 Wooded Foothills
+1 Zephyrim
+1 Wren's Run Packmaster
+1 Sunfall
+1 Wirewood Hivemaster
+1 Treasure Vault
+1 Spike Feeder
+1 Sword-Swallowing Seraph
+1 Took Reaper
+1 Triassic Egg
+1 Spike Breeder
+1 Yorvo, Lord of Garenbrig
+1 Triskelion
+1 Tangleweave Armor
+1 Tireless Tracker
+1 Suncrusher
+1 Turntimber Sower
+1 Vivien Reid
+1 Viridian Zealot
+1 Trostani, Selesnya's Voice
+1 Viridian Shaman
+1 Wood Elves
+1 Sporeback Troll
+1 Ugin, the Spirit Dragon
+1 Venerated Loxodon
+1 Throne of Geth
+1 Wrenn and Seven
+1 Vitality Charm
+1 Tranquil Frillback
+1 Thraben Inspector
+1 Triumph of Gerrard
+1 Sweet-Gum Recluse
+{'overall': 6.592537313432835, 'cmc': 4.0606060606060606, 'ramp': '10', 'draw': '13', 'interaction': 7, 'folder': 'gpt', 'commander': 'TreebeardGraciousHost.txt'}

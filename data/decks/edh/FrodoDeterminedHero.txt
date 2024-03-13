@@ -1,0 +1,64 @@
+1 Frodo, Determined Hero
+1 Sram, Senior Edificer
+1 Sol Ring
+1 Swords to Plowshares
+1 Puresteel Paladin
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Forge Anew
+1 Blackblade Reforged
+1 Path to Exile
+1 Open the Armory
+1 Sword of Vengeance
+1 Bilbo's Ring
+1 Sigarda's Aid
+1 Mithril Coat
+1 Thran Power Suit
+1 Arcane Signet
+1 Steelshaper's Gift
+1 Loxodon Warhammer
+1 Ardenn, Intrepid Archaeologist
+1 Sting, the Glinting Dagger
+1 Sword of Feast and Famine
+1 Danitha Capashen, Paragon
+1 Sword of Hearth and Home
+1 Sword of Fire and Ice
+1 Sword of Forge and Frontier
+1 Stoneforge Mystic
+1 Fireshrieker
+1 Generous Gift
+1 Robe of Stars
+1 Cloudsteel Kirin
+1 Nettlecyst
+1 Rogue's Passage
+1 Single Combat
+1 Lion Sash
+1 Andúril, Flame of the West
+1 Reprieve
+1 Armored Skyhunter
+1 Mother of Runes
+1 Mask of Memory
+1 Halvar, God of Battle
+1 Dispatch
+1 Masterwork of Ingenuity
+1 Maul of the Skyclaves
+1 Sword of War and Peace
+1 Stonehewer Giant
+1 Sword of Sinew and Steel
+1 Shadowspear
+1 Esper Sentinel
+1 Enlightened Tutor
+1 Trailblazer's Boots
+1 Divine Reckoning
+1 Lightning Greaves
+1 All That Glitters
+1 Sword of Body and Mind
+1 Mantle of the Ancients
+1 Rogue's Gloves
+1 Whispersilk Cloak
+1 Buried Ruin
+1 Foundry Inspector
+1 Darksteel Plate
+1 Bitterthorn, Nissa's Animus
+1 Sun Titan
+{'overall': 4.907692307692307, 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'FrodoDeterminedHero.txt'}

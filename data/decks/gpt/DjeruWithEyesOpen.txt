@@ -1,0 +1,68 @@
+1 Djeru, With Eyes Open
+1 Scroll Rack
+1 Timesifter
+1 Arcane Signet
+1 Weatherlight
+1 Thought-Knot Seer
+1 Sol Ring
+1 Land Tax
+1 Swords to Plowshares
+1 Sphinx-Bone Wand
+1 Scepter of Empires
+1 Teferi's Puzzle Box
+1 Tower of Fortunes
+1 Vanquisher's Banner
+1 Steel Hellkite
+1 Sword of the Animist
+1 Sunscorch Regent
+1 Surveyor's Scope
+1 Ugin's Conjurant
+1 War Room
+1 Skittering Surveyor
+1 Sun Titan
+1 Vanish into Eternity
+1 Wingsteed Rider
+1 White Mana Battery
+1 Zhalfirin Void
+1 Sword of Hours
+1 Swashbuckler's Whip
+1 Trove Warden
+1 Zephyrim
+1 Solitude
+1 Whirling Catapult
+1 Storybook Ride
+1 Temple Altisaur
+1 Spellbinder
+1 Swift Reckoning
+1 Teshar, Ancestor's Apostle
+1 Stoneforge Mystic
+1 Trepanation Blade
+1 Ugin, the Spirit Dragon
+1 Urza's Incubator
+1 Vulpikeet
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Uba Mask
+1 Will of the All-Hunter
+1 Ulamog's Crusher
+1 Wooded Foothills
+1 Shield-Wall Sentinel
+1 Verdant Catacombs
+1 Towashi Guide-Bot
+1 Witches' Eye
+1 Terashi's Grasp
+1 Urza's Chalice
+1 The Biblioplex
+1 Settle the Wreckage
+1 Swiftgear Drake
+1 Universal Solvent
+1 Triumphant Reckoning
+1 Yotian Frontliner
+1 Soul-Strike Technique
+1 Scour
+1 Sphere of Law
+1 Sword of Light and Shadow
+1 Sword of War and Peace
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Stonehewer Giant
+{'overall': 8.029107981220656, 'cmc': 3.1791044776119404, 'ramp': '10', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'DjeruWithEyesOpen.txt'}

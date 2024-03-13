@@ -1,0 +1,65 @@
+1 Jasmine Boreal of the Seven
+1 Treetop Rangers
+1 Weaver of Harmony
+1 Whalebone Glider
+1 Vengeant Earth
+1 War Room
+1 Vanish into Eternity
+1 Warden of the Wall
+1 Tadeas, Juniper Ascendant
+1 Vine Mare
+1 Verdant Haven
+1 Wall of Mulch
+1 Vernal Bloom
+1 Sylvan Caryatid
+1 Birds of Paradise
+1 Verdant Eidolon
+1 Woodland Changeling
+1 Vizier of the Menagerie
+1 Wren's Run Vanquisher
+1 Whisperer of the Wilds
+1 Traxos, Scourge of Kroog
+1 Vedalken Shackles
+1 Swords to Plowshares
+1 Thalia, Guardian of Thraben
+1 Zephyrim
+1 Wild Growth
+1 Titanic Brawl
+1 Vines of Vastwood
+1 Vitalize
+1 Supernatural Rescue
+1 Valor Made Real
+1 Warden of the Woods
+1 Witness of the Ages
+1 Vine Trellis
+1 Spectral Rider
+1 Sunstrike Legionnaire
+1 Wild Onslaught
+1 Venomspout Brackus
+1 Woodland Wanderer
+1 Wolfbriar Elemental
+1 Throne of Eldraine
+1 Smothering Tithe
+1 Sundial of the Infinite
+1 Vizier of the True
+1 The Immortal Sun
+1 Yavimaya Hollow
+1 Veilstone Amulet
+1 Tangle Golem
+1 Vine Gecko
+1 Wardscale Dragon
+1 Warrior's Stand
+1 Unwavering Initiate
+1 Workshop Warchief
+1 Yew Spirit
+1 Unstable Frontier
+1 Warping Wail
+1 Zodiac Tiger
+1 Winter Orb
+1 Verdant Outrider
+1 Utopia Sprawl
+1 Zelyon Sword
+1 The Chain Veil
+1 Windbrisk Raptor
+1 Venerated Loxodon
+{'overall': 6.246464646464646, 'cmc': 3.09375, 'ramp': '13', 'draw': '8', 'interaction': 7, 'folder': 'gpt', 'commander': 'JasmineBorealoftheSeven.txt'}

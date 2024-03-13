@@ -1,0 +1,65 @@
+1 Wasitora, Nekoru Queen
+1 Thunder Dragon
+1 Rampant Growth
+1 Tangled Colony
+1 Wilson, Refined Grizzly
+1 Xira, the Golden Sting
+1 Vengeful Ancestor
+1 Thopter Assembly
+1 Voldaren Ambusher
+1 Demonic Tutor
+1 Verdant Force
+1 Sword of Light and Shadow
+1 Sol Ring
+1 Vraska, Relic Seeker
+1 Toll of the Invasion
+1 Xiahou Dun, the One-Eyed
+1 Throne of Empires
+1 Wedding Invitation
+1 Zodiac Ox
+1 Tempting Contract
+1 Vicious Shadows
+1 Tegwyll's Scouring
+1 Zariel, Archduke of Avernus
+1 Waiting in the Weeds
+1 Wasp of the Bitter End
+1 Wall of Shadows
+1 Vindictive Vampire
+1 Wurmquake
+1 Wort, the Raidmother
+1 Tuktuk the Explorer
+1 Time to Feed
+1 Wren's Run Packmaster
+1 Wormwood Dryad
+1 Vexing Devil
+1 Zendikar Farguide
+1 Thopter Engineer
+1 Vampire Outcasts
+1 Tukatongue Thallid
+1 Weatherseed Elf
+1 Wolfkin Outcast // Wedding Crasher
+1 Wreak Havoc
+1 Urabrask's Forge
+1 Vrondiss, Rage of Ancients
+1 Sword of Sinew and Steel
+1 Viridian Scout
+1 Wreck Hunter
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Tatsumasa, the Dragon's Fang
+1 Trove of Temptation
+1 Warren Weirding
+1 Wurmcoil Engine
+1 Vampiric Link
+1 Mind Stone
+1 Traumatic Revelation
+1 Vampiric Dragon
+1 Vertigo
+1 Utvara Hellkite
+1 Virulent Sliver
+1 Yavimaya Steelcrusher
+1 Thunderbreak Regent
+1 Tornado Elemental
+1 Venomous Dragonfly
+1 Tooth and Claw
+1 Verdant Embrace
+{'overall': 3.9245901639344263, 'cmc': 3.8125, 'ramp': '7', 'draw': '4', 'interaction': 13, 'folder': 'gpt', 'commander': 'WasitoraNekoruQueen.txt'}

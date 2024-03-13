@@ -1,0 +1,101 @@
+1 Firesong and Sunspeaker
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Weaver of Lightning
+1 Sentinel Tower
+1 Guttersnipe
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Smoldering Egg // Ashmouth Dragon
+1 Imodane, the Pyrohammer
+1 Refraction Trap
+1 Rockslide Sorcerer
+1 Knockout Blow
+1 Lorehold Apprentice
+1 Squash
+1 Torch Breath
+1 Jaya's Immolating Inferno
+1 Rebel Salvo
+1 Goblin Barrage
+1 Chandra, the Firebrand
+1 Pyromancer's Assault
+1 Task Mage Assembly
+1 Pyromancer's Gauntlet
+1 Glamdring
+1 Keeper of Secrets
+1 Witchstalker Frenzy
+1 Wizard's Lightning
+1 Thermo-Alchemist
+1 Unruly Catapult
+1 Aetherflux Reservoir
+1 Dreamstalker Manticore
+1 Sword of Once and Future
+1 Torch the Tower
+1 Blasphemous Act
+1 Mirrorwing Dragon
+1 Satyr Firedancer
+1 Neonate's Rush
+1 Insult // Injury
+1 Lens Flare
+1 Invasion of Karsus // Refraction Elemental
+1 Burning Vengeance
+1 Light 'Em Up
+1 Soul of Magma
+1 Passionate Archaeologist
+1 Chandra's Phoenix
+1 Eidolon of the Great Revel
+1 Stonesplitter Bolt
+1 Cinder Pyromancer
+1 Furious Assault
+1 Pyrostatic Pillar
+1 Bloodpyre Elemental
+1 Rumbling Aftershocks
+1 Indulge // Excess
+1 Jaya's Phoenix
+1 Kor Firewalker
+1 Searing Barrage
+1 Aegis of Honor
+1 Pyroconvergence
+1 Marauding Raptor
+1 Molten Influence
+1 Mask of Memory
+1 Fiery Inscription
+1 Draconic Intervention
+1 Moonrager's Slash
+1 Firebrand Archer
+1 Rug of Smothering
+{'overall': 3.263953488372093, 'cmc': 3.257575757575758, 'ramp': '1', 'draw': '2', 'interaction': 38, 'folder': 'baseline', 'commander': 'FiresongandSunspeaker.txt'}

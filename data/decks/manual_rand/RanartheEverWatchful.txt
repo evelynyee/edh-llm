@@ -1,0 +1,69 @@
+1 Ranar the Ever-Watchful
+1 Wu Scout
+1 Wirefly Hive
+1 Will of the All-Hunter
+1 Valiant Endeavor
+1 Thalia's Geistcaller
+1 Waterwind Scout
+1 Twice Upon a Time // Unlikely Meeting
+1 True Love's Kiss
+1 Timely Reinforcements
+1 Temporal Trespass
+1 Thunderclap Wyvern
+1 Welcome to the Fold
+1 Wandering Archaic // Explore the Vastlands
+1 Thunderhawk Gunship
+1 Tariff
+1 Thought Prison
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Will Kenrith
+1 Zethi, Arcane Blademaster
+1 The Raven's Warning
+1 The Reality Chip
+1 Swords to Plowshares
+1 Tezzeret the Seeker
+1 Undercellar Sweep
+1 Wing Splicer
+1 Workshop Elders
+1 Urza's Incubator
+1 Visionary Augmenter
+1 Whim of Volrath
+1 Tidespout Tyrant
+1 Triton Cavalry
+1 Triumphant Reckoning
+1 Windrider Wizard
+1 Spiritual Visit
+1 Wizard Mentor
+1 Zoetic Cavern
+1 Tezzeret, Cruel Machinist
+1 Tabaxi Toucaneers
+1 White Plume Adventurer
+1 Wavecrash Triton
+1 Workshop Assistant
+1 Yarok's Wavecrasher
+1 Visions of Glory
+1 Zhulodok, Void Gorger
+1 Trostani's Judgment
+1 Whispering Wizard
+1 Stunt Double
+1 Willbender
+1 Tenacious Tomeseeker
+1 Tawnos's Coffin
+1 Voidmage Husher
+1 Tunnel of Love
+1 Twilight Drover
+1 Verity Circle
+1 Waterlogged Hulk // Watertight Gondola
+1 Storm of Souls
+1 Wharf Infiltrator
+1 Zellix, Sanity Flayer
+1 Submerge
+1 Whirlwind Adept
+1 Turn Aside
+1 Waterlogged Hulk // Watertight Gondola
+1 Test of Talents
+1 Whir of Invention
+1 Vanquish the Horde
+1 The Underworld Cookbook
+1 Wicker Picker
+{'overall': 4.603759398496241, 'cmc': 3.970149253731343, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}

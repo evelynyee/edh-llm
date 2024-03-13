@@ -1,0 +1,101 @@
+1 Dromar, the Banisher
+1 Rhystic Cave
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Plains
+1 Swamp
+1 Island
+1 Wail of the Nim
+1 Arrow Volley Trap
+1 Temporal Cascade
+1 Dream's Grip
+1 Soul Read
+1 Spectral Searchlight
+1 Blinding Beam
+1 Solar Tide
+1 Artistic Refusal
+1 Addle
+1 Three Bowls of Porridge
+1 Covenant of Blood
+1 Blessed Alliance
+1 Memory Sluice
+1 Betrayal of Flesh
+1 Persecute
+1 Angel of Salvation
+1 Ashes to Ashes
+1 Abuna's Chant
+1 Stain the Mind
+1 Drown in Dreams
+1 Tariff
+1 Circle of Affliction
+1 Daxos of Meletis
+1 Trait Doctoring
+1 Jeweled Torque
+1 Dead Drop
+1 Enigma Thief
+1 Cut Your Losses
+1 Noggin Whack
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Deepfathom Skulker
+1 Goremand
+1 Aethertow
+1 Infernal Harvest
+1 Paranoid Delusions
+1 Soundwave, Sonic Spy // Soundwave, Superior Captain
+1 Mental Vapors
+1 Hollow Specter
+1 Shambling Attendants
+1 Master of Predicaments
+1 Chain of Smog
+1 Temporal Cleansing
+1 Undercity Plague
+1 Mystic Confluence
+1 Gix's Caress
+1 Whispering Madness
+1 Dread Fugue
+1 Deft Dismissal
+1 Ruination Guide
+1 Thought Prison
+1 Scrying Glass
+1 Spirit Flare
+1 Refraction Trap
+1 Shadow Slice
+1 Hidden Strings
+1 Chant of Vitu-Ghazi
+1 Unmake the Graves
+1 Cabal Paladin
+1 Demonic Pact
+1 Deluxe Dragster
+1 Grisly Sigil
+1 Doom Cannon
+{'overall': 4.467110266159696, 'cmc': 3.8676470588235294, 'ramp': '3', 'draw': '10', 'interaction': 14, 'folder': 'baseline', 'commander': 'DromartheBanisher.txt'}

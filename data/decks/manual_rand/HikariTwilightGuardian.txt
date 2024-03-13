@@ -1,0 +1,69 @@
+1 Hikari, Twilight Guardian
+1 Sword of Once and Future
+1 Welcoming Vampire
+1 Volrath's Laboratory
+1 Well of Life
+1 Unbreakable Formation
+1 Voltaic Construct
+1 War Behemoth
+1 Vizier of Deferment
+1 Unexpectedly Absent
+1 Twinblade Geist // Twinblade Invocation
+1 The Night of the Doctor
+1 Urza's Sylex
+1 Spine of Ish Sah
+1 Venerated Loxodon
+1 Unified Front
+1 Wedding Announcement // Wedding Festivity
+1 Wandering Archaic // Explore the Vastlands
+1 Stonebinder's Familiar
+1 Yare
+1 Stone of Erech
+1 Vexing Arcanix
+1 Scarab of the Unseen
+1 Stalwart Valkyrie
+1 Whispergear Sneak
+1 Witch's Oven
+1 Sol Ring
+1 War Priest of Thune
+1 Mana Crypt
+1 Sword-Swallowing Seraph
+1 The Biblioplex
+1 Thalia's Geistcaller
+1 Umbilicus
+1 Trade Caravan
+1 Soul Foundry
+1 Soul Partition
+1 Treasure Hunter
+1 Zhulodok, Void Gorger
+1 Whirling Catapult
+1 Steel Dromedary
+1 Visions of Glory
+1 Sorcerer's Broom
+1 Tiller Engine
+1 Vanquish the Horde
+1 Tablet of Epityr
+1 Vanguard of the Rose
+1 Thran Temporal Gateway
+1 Wakening Sun's Avatar
+1 Sudden Disappearance
+1 Wingrattle Scarecrow
+1 Tazeem Raptor
+1 Towashi Guide-Bot
+1 Vorrac Battlehorns
+1 Soaring Hope
+1 Summon the School
+1 Summoner's Egg
+1 The Stasis Coffin
+1 Traxos, Scourge of Kroog
+1 Shepherd of the Cosmos
+1 Vigil for the Lost
+1 Wheel of Torture
+1 Steamclaw
+1 Skyclave Apparition
+1 The Moment
+1 Sunseed Nurturer
+1 Welkin Hawk
+1 Wall of Resurgence
+1 Mind Stone
+{'overall': 4.786206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'}

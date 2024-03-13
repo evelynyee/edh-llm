@@ -1,0 +1,64 @@
+1 Captain Sisay
+1 Sol Ring
+1 Command Tower
+1 Swords to Plowshares
+1 Temple Garden
+1 Shalai, Voice of Plenty
+1 Elesh Norn, Grand Cenobite
+1 Urza's Ruinous Blast
+1 Path to Exile
+1 Yasharn, Implacable Earth
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Windswept Heath
+1 Lightning Greaves
+1 Linvala, Keeper of Silence
+1 Llanowar Elves
+1 Bountiful Promenade
+1 Eladamri's Call
+1 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Eiganjo, Seat of the Empire
+1 Thousand-Year Elixir
+1 Sunpetal Grove
+1 Canopy Vista
+1 Reki, the History of Kamigawa
+1 Elvish Mystic
+1 Brushland
+1 Eiganjo Castle
+1 Enlightened Tutor
+1 Sylvan Library
+1 Fyndhorn Elves
+1 Worldly Tutor
+1 Eternal Witness
+1 Nykthos, Shrine to Nyx
+1 Kogla, the Titan Ape
+1 Selvala, Heart of the Wilds
+1 Thalia, Guardian of Thraben
+1 Esper Sentinel
+1 Arcane Signet
+1 Yisan, the Wanderer Bard
+1 Avacyn, Angel of Hope
+1 Savannah
+1 Ashaya, Soul of the Wild
+1 Beast Within
+1 Green Sun's Zenith
+1 Gaea's Cradle
+1 Kamahl, Fist of Krosa
+1 Thalia, Heretic Cathar
+1 Karametra, God of Harvests
+1 Ancient Tomb
+1 Mana Crypt
+1 Heroic Intervention
+1 Drannith Magistrate
+1 Quirion Ranger
+1 Dragonlord Dromoka
+1 Sigarda, Host of Herons
+1 Horizon Canopy
+1 Seedborn Muse
+1 Kamahl's Druidic Vow
+1 Wild Growth
+1 Okina, Temple to the Grandfathers
+1 Saryth, the Viper's Fang
+1 Finale of Devastation
+{'overall': 7.061832061068702, 'cmc': 2.0793650793650795, 'ramp': '15', 'draw': '8', 'interaction': 7, 'folder': 'edh', 'commander': 'CaptainSisay.txt'}

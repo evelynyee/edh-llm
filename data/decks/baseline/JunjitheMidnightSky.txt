@@ -1,0 +1,101 @@
+1 Junji, the Midnight Sky
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Liliana, the Necromancer
+1 Diregraf Scavenger
+1 Fell Stinger
+1 Carrion Locust
+1 Disciple of Perdition
+1 Reckoner Shakedown
+1 Nikara, Lair Scavenger
+1 Misery Charm
+1 Wretched Camel
+1 Visage of Dread // Dread Osseosaur
+1 Organ Grinder
+1 Liliana's Indignation
+1 Courier Bat
+1 Professor Onyx
+1 Garza's Assassin
+1 Starving Revenant
+1 Torment of Venom
+1 Geth's Summons
+1 Liliana, Death Mage
+1 Entomber Exarch
+1 Disciple of the Vault
+1 Gixian Puppeteer
+1 Life's Finale
+1 Diplomacy of the Wastes
+1 Cry of Contrition
+1 Archon of Cruelty
+1 Bala Ged Thief
+1 Shelob, Dread Weaver
+1 Kothophed, Soul Hoarder
+1 Infernal Offering
+1 Necron Deathmark
+1 The Deck of Many Things
+1 The Cruelty of Gix
+1 Mind Drain
+1 Dominator Drone
+1 Wicked Visitor
+1 Bag of Devouring
+1 Wretched Confluence
+1 Liability
+1 Helm of Obedience
+1 Carrion Imp
+1 Scrounge
+1 Okiba-Gang Shinobi
+1 Dreadhound
+1 Victimize
+1 He Who Hungers
+1 Psychomancer
+1 Stinging Cave Crawler
+1 Rotfeaster Maggot
+1 Soul Strings
+1 Suffer the Past
+1 Sivriss, Nightmare Speaker
+1 Corpse Traders
+1 Gelatinous Cube
+1 Kamber, the Plunderer
+1 March of the Drowned
+1 Deception
+1 Deadbridge Shaman
+1 Thieving Sprite
+1 Ghoulcaller's Chant
+1 Talara's Bane
+1 Virtus's Maneuver
+1 Locthwain Lancer
+{'overall': 5.180357142857142, 'cmc': 3.4461538461538463, 'ramp': '0', 'draw': '17', 'interaction': 7, 'folder': 'baseline', 'commander': 'JunjitheMidnightSky.txt'}

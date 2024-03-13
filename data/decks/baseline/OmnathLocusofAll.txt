@@ -1,0 +1,101 @@
+1 Omnath, Locus of All
+1 Path of Ancestry
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Swamp
+1 Forest
+1 Mountain
+1 Island
+1 Plains
+1 Titans' Nest
+1 Orb of Dragonkind
+1 Frost Augur
+1 Oath of Nissa
+1 Svella, Ice Shaper
+1 Buried Treasure
+1 Scrying Sheets
+1 Siphon Insight
+1 Search for Glory
+1 Pelargir Survivor
+1 Treasure Keeper
+1 Patron of the Moon
+1 Urza Assembles the Titans
+1 Plargg, Dean of Chaos // Augusta, Dean of Order
+1 Sarevok's Tome
+1 Zhulodok, Void Gorger
+1 Ingenuity Engine
+1 Haldan, Avid Arcanist
+1 Sight Beyond Sight
+1 Memory Deluge
+1 Discover the Impossible
+1 Renowned Weaponsmith
+1 Apex of Power
+1 Terramorph
+1 Serum Powder
+1 The Mana Rig
+1 Rain of Riches
+1 The Ruinous Powers
+1 Emergency Powers
+1 Hidden Nursery
+1 Matter Reshaper
+1 Aether Searcher
+1 Hit the Mother Lode
+1 Uvilda, Dean of Perfection // Nassari, Dean of Expression
+1 Lapis Orb of Dragonkind
+1 Zoyowa's Justice
+1 Share the Spoils
+1 Land Grant
+1 Emergent Ultimatum
+1 Runeforge Champion
+1 Glimpse the Cosmos
+1 Ethersworn Sphinx
+1 Hurl into History
+1 Kinnan, Bonder Prodigy
+1 Altar of Bone
+1 Storm the Festival
+1 Bolas's Citadel
+1 Evelyn, the Covetous
+1 Invasion of Alara // Awaken the Maelstrom
+1 Firemind's Foresight
+1 Hidden Cataract
+1 Neera, Wild Mage
+1 Beseech the Queen
+1 Herald's Horn
+1 Leaf-Crowned Elder
+1 Djinn of Wishes
+1 Kotose, the Silent Spider
+1 Surging Aether
+1 Hidden Courtyard
+1 Ellie and Alan, Paleontologists
+1 Scattering Stroke
+1 Hidden Volcano
+1 Temporal Aperture
+{'overall': 13.762248995983935, 'cmc': 3.557142857142857, 'ramp': '20', 'draw': '32', 'interaction': 4, 'folder': 'baseline', 'commander': 'OmnathLocusofAll.txt'}

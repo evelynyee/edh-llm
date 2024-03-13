@@ -1,0 +1,69 @@
+1 Butterbur, Bree Innkeeper
+1 Vanguard of Brimaz
+1 Mentor of the Meek
+1 Wayward Angel
+1 Tiller of Flesh
+1 Vanguard of the Rose
+1 Sunset Revelry
+1 Sundial of the Infinite
+1 Wolfhunter's Quiver
+1 Vial of Dragonfire
+1 Whip Vine
+1 Wandering Champion
+1 Thundersteel Colossus
+1 Valorous Steed
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Whipgrass Entangler
+1 The Wandering Emperor
+1 Weatherseed Totem
+1 Urbis Protector
+1 The Princess Takes Flight
+1 Troublemaker Ouphe
+1 Triumphant Surge
+1 Wild Growth
+1 Sunscourge Champion
+1 Wall of Junk
+1 Wedding Announcement // Wedding Festivity
+1 Sunseed Nurturer
+1 Wolfbriar Elemental
+1 Zealots en-Dal
+1 Vigil for the Lost
+1 Vegetation Abomination
+1 Vigilant Martyr
+1 Urban Utopia
+1 Wilson, Refined Grizzly
+1 Tower Above
+1 Triangle of War
+1 Tsabo's Web
+1 Tormod's Crypt
+1 Zarichi Tiger
+1 Wayfaring Temple
+1 Zendikar's Roil
+1 Wild Dogs
+1 Spider Food
+1 Thunderhawk Gunship
+1 Trolls of Tel-Jilad
+1 You Find a Cursed Idol
+1 Thermal Navigator
+1 Threefold Thunderhulk
+1 Sporeweb Weaver
+1 Warriors' Lesson
+1 Voyager Staff
+1 Unnatural Aggression
+1 Viridian Longbow
+1 Vorinclex // The Grand Evolution
+1 Vulshok Gauntlets
+1 Urza's Bauble
+1 The Shire
+1 The Tabernacle at Pendrell Vale
+1 Tukatongue Thallid
+1 Veteran Soldier
+1 Umbilicus
+1 Worldspine Wurm
+1 Warbriar Blessing
+1 Undiscovered Paradise
+1 Wolfkin Outcast // Wedding Crasher
+1 Throne of Empires
+1 Toil to Renown
+1 Touch of Vitae
+{'overall': 5.763414634146341, 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}

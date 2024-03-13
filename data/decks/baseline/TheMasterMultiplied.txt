@@ -1,0 +1,101 @@
+1 The Master, Multiplied
+1 Unholy Citadel
+1 Cathedral of Serra
+1 Adventurers' Guildhouse
+1 Mountain Stronghold
+1 Seafarer's Quay
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Mountain
+1 Swamp
+1 Song of Totentanz
+1 Renegade's Getaway
+1 Blood Hypnotist
+1 Painwracker Oni
+1 Tangled Colony
+1 Rat Out
+1 Darksteel Forge
+1 Gnawing Crescendo
+1 Raging River
+1 Edgewall Pack
+1 Heroes of the Revel
+1 Synapse Necromage
+1 Reign of Terror
+1 Incite Hysteria
+1 Lord Skitter's Butcher
+1 Ogre Chitterlord
+1 Warehouse Tabby
+1 Totentanz, Swarm Piper
+1 Hired Muscle // Scarmaker
+1 Criminal Past
+1 Marsh Lurker
+1 Aphotic Wisps
+1 Rime Transfusion
+1 Shriek of Dread
+1 Sibling Rivalry
+1 Harried Spearguard
+1 Xathrid Gorgon
+1 Terisiare's Devastation
+1 Fire of Orthanc
+1 Searing Barb
+1 Desecration Elemental
+1 Kozilek's Pathfinder
+1 Sticky Fingers
+1 Gadrak, the Crown-Scourge
+1 Mirror Gallery
+1 Execute
+1 Shadow Alley Denizen
+1 Flesh Carver
+1 Krark-Clan Ogre
+1 Slay
+1 Avatar of Woe
+1 Anax, Hardened in the Forge
+1 Lord Skitter, Sewer King
+1 Myr Matrix
+1 Kami of the Waning Moon
+1 Broodrage Mycoid
+1 Spiderwig Boggart
+1 Mogis's Marauder
+1 Perish
+1 Gut, True Soul Zealot
+1 Swiftfoot Boots
+1 Goblin Smuggler
+1 Cyclops Tyrant
+1 Dread Charge
+1 Basalt Golem
+1 Hostile Realm
+1 Villainous Ogre
+1 Darksteel Brute
+1 Biotransference
+1 Thieves' Tools
+1 Warchanter of Mogis
+1 Hooded Kavu
+1 Eldrazi Monument
+{'overall': 3.4839285714285717, 'cmc': 3.1549295774647885, 'ramp': '5', 'draw': '5', 'interaction': 7, 'folder': 'baseline', 'commander': 'TheMasterMultiplied.txt'}

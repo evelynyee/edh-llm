@@ -1,0 +1,67 @@
+1 Saheeli, the Sun's Brilliance
+1 Vandalblast
+1 Sol Ring
+1 Mana Vault
+1 Windcaller Aven
+1 Brainstorm
+1 Toralf, God of Fury // Toralf's Hammer
+1 Young Pyromancer
+1 Thopter Spy Network
+1 Mulldrifter
+1 Cyclonic Rift
+1 Viashino Heretic
+1 Thassa, God of the Sea
+1 Zoetic Glyph
+1 Trail of Evidence
+1 Thassa's Emissary
+1 Warping Wail
+1 Windreader Sphinx
+1 Wurmcoil Engine
+1 Surly Badgersaur
+1 Tempt with Reflections
+1 Wings of Velis Vel
+1 Ugin, the Ineffable
+1 Warden of the Wall
+1 Trusted Advisor
+1 Wall of Tears
+1 Teferi, Timeless Voyager
+1 Volrath's Curse
+1 Whirler Rogue
+1 Teferi's Veil
+1 Yavimaya Steelcrusher
+1 Swan Song
+1 Vedalken Shackles
+1 Whip Sergeant
+1 Winding Canyons
+1 Volo, Itinerant Scholar
+1 Trade Routes
+1 Thassa, Deep-Dwelling
+1 Whalebone Glider
+1 Vithian Stinger
+1 Words of Wind
+1 The Tabernacle at Pendrell Vale
+1 Whirlermaker
+1 Wild Celebrants
+1 Unified Will
+1 Warlord's Fury
+1 Varchild's Crusader
+1 Tidal Warrior
+1 Thopter Assembly
+1 Chaos Warp
+1 Void Shatter
+1 Mana Drain
+1 Web of Inertia
+1 Troublesome Spirit
+1 Whitewater Naiads
+1 Village Watch // Village Reavers
+1 Welcome to the Fold
+1 Vertigo Spawn
+1 Zelyon Sword
+1 Water Wings
+1 Zara, Renegade Recruiter
+1 Starke of Rath
+1 Unstable Frontier
+1 Wizard's Spellbook
+1 Toymaker
+1 Telim'Tor's Edict
+{'overall': 5.86, 'cmc': 3.0303030303030303, 'ramp': '5', 'draw': '13', 'interaction': 14, 'folder': 'gpt', 'commander': 'SaheelitheSunsBrilliance.txt'}

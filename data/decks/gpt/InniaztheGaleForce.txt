@@ -1,0 +1,66 @@
+1 Inniaz, the Gale Force
+1 Time Warp
+1 Thran Forge
+1 Mana Vault
+1 Swords to Plowshares
+1 Mana Drain
+1 Web of Inertia
+1 Troublesome Spirit
+1 Whirlwind Denial
+1 Time and Tide
+1 Takeno's Cavalry
+1 Zephyr Singer
+1 Vedalken Humiliator
+1 Winds of Abandon
+1 Verity Circle
+1 Uncomfortable Chill
+1 Zephyr Charge
+1 Windbrisk Raptor
+1 Thassa, God of the Sea
+1 Vortex Elemental
+1 Venser, the Sojourner
+1 Zelyon Sword
+1 Well of Discovery
+1 Teroh's Vanguard
+1 Tocasia's Welcome
+1 Thundersteel Colossus
+1 Zephyr Boots
+1 Winged Words
+1 Tetsuko Umezawa, Fugitive
+1 Vivid Flying Fish
+1 Vedalken Mesmerist
+1 Wrath of God
+1 Taranika, Akroan Veteran
+1 Vizier of the True
+1 Veteran Cavalier
+1 Zhang Fei, Fierce Warrior
+1 Whitewater Naiads
+1 Vertigo Spawn
+1 Wing Commando
+1 Whalebone Glider
+1 Vedalken Blademaster
+1 Wall of One Thousand Cuts
+1 Unified Will
+1 Wingspan Mentor
+1 White Plume Adventurer
+1 Teferi, Timeless Voyager
+1 Thousand-Year Elixir
+1 Veil of Secrecy
+1 Veilstone Amulet
+1 Valorous Charge
+1 Surge of Salvation
+1 Volrath's Curse
+1 Wingmate Roc
+1 Yotian Frontliner
+1 Tandem Tactics
+1 Wingrattle Scarecrow
+1 Way of the Thief
+1 Unsettled Mariner
+1 Will of the Naga
+1 Tocatli Honor Guard
+1 Wall of Tears
+1 Winter's Chill
+1 Strongarm Monk
+1 Wardscale Dragon
+1 Will of the All-Hunter
+{'overall': 3.525, 'cmc': 3.2, 'ramp': '2', 'draw': '8', 'interaction': 8, 'folder': 'gpt', 'commander': 'InniaztheGaleForce.txt'}

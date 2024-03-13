@@ -1,0 +1,69 @@
+1 Inti, Seneschal of the Sun
+1 Thaumatic Compass // Spires of Orazca
+1 Turn Against
+1 Skull of Orm
+1 Through the Breach
+1 You Find Some Prisoners
+1 Twinferno
+1 The Immortal Sun
+1 Seething Anger
+1 Scorn Effigy
+1 Tormod's Cryptkeeper
+1 Sigiled Skink
+1 Yasmin Khan
+1 Chrome Mox
+1 Umezawa's Jitte
+1 Urza's Incubator
+1 Traveler's Amulet
+1 Worldfire
+1 Titan's Revenge
+1 Transmogrifying Licid
+1 Sentinel Totem
+1 Tocasia's Dig Site
+1 Voldaren Thrillseeker
+1 Sokenzan Renegade
+1 Valakut Exploration
+1 Whetstone
+1 Vorrac Battlehorns
+1 Thunderblade Charge
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Soldevi Digger
+1 Tiamat's Fanatics
+1 Yavimaya, Cradle of Growth
+1 Storm Cauldron
+1 Éomer, Marshal of Rohan
+1 Sword of the Animist
+1 Whetwheel
+1 Skirk Drill Sergeant
+1 Surly Badgersaur
+1 Wand of Ith
+1 Staggershock
+1 Scarab of the Unseen
+1 Void Mirror
+1 Shreds of Sanity
+1 Viashino Sandswimmer
+1 Solfatara
+1 Surveyor's Scope
+1 Tormented Pariah // Rampaging Werewolf
+1 Mind Stone
+1 Thrill of Possibility
+1 Umbilicus
+1 Volcanic Offering
+1 Tunnel of Love
+1 Senseless Rage
+1 Thaumatic Compass // Spires of Orazca
+1 Thumbscrews
+1 Screamreach Brawler
+1 Viashino Shanktail
+1 Vanquisher's Banner
+1 Trash for Treasure
+1 Tarox Bladewing
+1 Seize the Day
+1 Skyship Weatherlight
+1 Sunbird's Invocation
+1 Shenanigans
+1 Viseling
+1 The Deck of Many Things
+1 Weapon Surge
+1 Warchief Giant
+{'overall': 5.650485436893204, 'cmc': 3.074626865671642, 'ramp': '9', 'draw': '10', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IntiSeneschaloftheSun.txt'}

@@ -1,0 +1,101 @@
+1 Gollum, Obsessed Stalker
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Delif's Cone
+1 Vampire Cutthroat
+1 Farbog Revenant
+1 Archfiend of Despair
+1 Abattoir Ghoul
+1 Devour in Shadow
+1 Xathrid Demon
+1 Vendetta
+1 Fell Flagship
+1 Angel's Trumpet
+1 Titan Hunter
+1 Sever Soul
+1 Walking Bulwark
+1 Gaze of Pain
+1 Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant
+1 Scuttling Doom Engine
+1 Flayer of Loyalties
+1 Blood Burglar
+1 Deadly Tempest
+1 Calculating Lich
+1 Catapult Fodder // Catapult Captain
+1 Rush of Vitality
+1 Lolth, Spider Queen
+1 Final Punishment
+1 Rain of Daggers
+1 Vraska, Scheming Gorgon
+1 Cybermat
+1 Keeper of Tresserhorn
+1 Gruesome Slaughter
+1 Wound Reflection
+1 Withering Wisps
+1 Throne of the God-Pharaoh
+1 Xathrid Slyblade
+1 Rancid Rats
+1 Simulacrum
+1 Spectrum Sentinel
+1 Drain Life
+1 Hellish Rebuke
+1 Devour Flesh
+1 Hope of Ghirapur
+1 Skeleton Key
+1 Reign of Terror
+1 Sorin Markov
+1 Grotesque Mutation
+1 Mage Hunters' Onslaught
+1 Wall of Limbs
+1 Wall of Tombstones
+1 Runesword
+1 Fatal Blow
+1 Mighty Servant of Leuk-o
+1 Tribute to Hunger
+1 Neko-Te
+1 Witch-king of Angmar
+1 Touch of Moonglove
+1 Syphon Sliver
+1 Cruel Feeding
+1 Loyal Subordinate
+1 Demolition Stomper
+1 Keldon Battlewagon
+1 Sewers of Estark
+1 Phage the Untouchable
+1 Assault Suit
+1 Hooded Blightfang
+{'overall': 2.212770562770563, 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '3', 'interaction': 18, 'folder': 'baseline', 'commander': 'GollumObsessedStalker.txt'}

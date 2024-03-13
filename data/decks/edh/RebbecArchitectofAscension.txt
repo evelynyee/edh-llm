@@ -1,0 +1,64 @@
+1 Rebbec, Architect of Ascension
+1 Foundry Inspector
+1 Sol Ring
+1 Liquimetal Torque
+1 Darksteel Citadel
+1 Ancient Den
+1 Swords to Plowshares
+1 Metalwork Colossus
+1 Cloud Key
+1 Ugin, the Ineffable
+1 Dispatch
+1 Esper Sentinel
+1 Forsaken Monument
+1 Jhoira's Familiar
+1 Ethersworn Canonist
+1 Digsite Engineer
+1 Teshar, Ancestor's Apostle
+1 Mind Stone
+1 Steel Hellkite
+1 Bronze Guardian
+1 Generous Gift
+1 Endless Atlas
+1 Urza's Tower
+1 Urza's Power Plant
+1 Urza's Mine
+1 Oswald Fiddlebender
+1 Solemn Simulacrum
+1 Arcbound Crusher
+1 Steel Overseer
+1 Shimmer Myr
+1 Scrap Trawler
+1 Path to Exile
+1 Ashnod's Transmogrant
+1 Mystic Forge
+1 Smothering Tithe
+1 Inventors' Fair
+1 Buried Ruin
+1 Hedron Archive
+1 Everflowing Chalice
+1 Organic Extinction
+1 Refurbish
+1 Shambling Suit
+1 Stonecoil Serpent
+1 Platinum Angel
+1 Gold Myr
+1 Return to Dust
+1 Darksteel Forge
+1 Arcane Signet
+1 All Is Dust
+1 Board the Weatherlight
+1 Losheel, Clockwork Scholar
+1 Starnheim Courser
+1 Mishra's Self-Replicator
+1 Myriad Construct
+1 Myr Retriever
+1 Unbreakable Formation
+1 Enlightened Tutor
+1 Austere Command
+1 Ancient Tomb
+1 Emeria, the Sky Ruin
+1 Fellwar Stone
+1 Marble Diamond
+1 Myriad Landscape
+{'overall': 6.4423076923076925, 'cmc': 2.888888888888889, 'ramp': '12', 'draw': '9', 'interaction': 10, 'folder': 'edh', 'commander': 'RebbecArchitectofAscension.txt'}

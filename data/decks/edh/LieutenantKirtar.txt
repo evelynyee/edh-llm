@@ -1,0 +1,64 @@
+1 Lieutenant Kirtar
+1 Swords to Plowshares
+1 Path to Exile
+1 Sol Ring
+1 Sun Titan
+1 Knight of the White Orchid
+1 Brought Back
+1 Sevinne's Reclamation
+1 Emeria Shepherd
+1 Generous Gift
+1 Emeria, the Sky Ruin
+1 Myriad Landscape
+1 War Room
+1 Karmic Guide
+1 Weathered Wayfarer
+1 Archivist of Oghma
+1 Kirtar's Wrath
+1 Gift of Immortality
+1 Mana Tithe
+1 Solemn Simulacrum
+1 Mother of Runes
+1 Wayfarer's Bauble
+1 Sword of the Animist
+1 Tome of Legends
+1 Command Beacon
+1 Mind Stone
+1 Adarkar Valkyrie
+1 Teshar, Ancestor's Apostle
+1 Land Tax
+1 Windbrisk Heights
+1 Arcane Lighthouse
+1 Arcane Signet
+1 Lion Sash
+1 Mangara, the Diplomat
+1 Order of Whiteclay
+1 Reveillark
+1 Burnished Hart
+1 Aven Mindcensor
+1 Mentor of the Meek
+1 Lapse of Certainty
+1 Enlightened Tutor
+1 Teferi's Protection
+1 Open the Armory
+1 Mask of Memory
+1 Welcoming Vampire
+1 Rebuff the Wicked
+1 Winds of Abandon
+1 Bloodthirsty Blade
+1 Endless Atlas
+1 Skullclamp
+1 Marshal's Anthem
+1 Smothering Tithe
+1 Recommission
+1 Cathar Commando
+1 Halvar, God of Battle
+1 Keeper of the Accord
+1 Cosmic Intervention
+1 Shadowspear
+1 Dusk // Dawn
+1 Wrath of God
+1 Lightning Greaves
+1 Pearl Medallion
+1 Sigil of the New Dawn
+{'overall': 8.363636363636363, 'cmc': 2.619047619047619, 'ramp': '13', 'draw': '15', 'interaction': 12, 'folder': 'edh', 'commander': 'LieutenantKirtar.txt'}

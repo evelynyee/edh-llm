@@ -1,0 +1,64 @@
+1 Go-Shintai of Boundless Vigor
+1 Strength of the Pack
+1 Wildcall
+1 Woodfall Primus
+1 Verdant Eidolon
+1 Wild Growth
+1 Workshop Warchief
+1 Whalebone Glider
+1 Vastwood Surge
+1 Wren's Run Packmaster
+1 Vastwood Zendikon
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wolfir Avenger
+1 Temur Charger
+1 Venser's Journal
+1 Sylvan Library
+1 Mana Vault
+1 Sol Ring
+1 Ugin's Nexus
+1 Vivien, Nature's Avenger
+1 Thelon's Chant
+1 Titania, Protector of Argoth
+1 Triskelion
+1 Vengevine
+1 Wyluli Wolf
+1 Trail of Crumbs
+1 Wellwisher
+1 Hardened Scales
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Green Sun's Zenith
+1 Wildgrowth Walker
+1 Bloom Tender
+1 Tangle Wire
+1 Ugin's Conjurant
+1 Verdant Haven
+1 Titanic Brawl
+1 Verdant Mastery
+1 Zelyon Sword
+1 Wild Pair
+1 Seedborn Muse
+1 Eternal Witness
+1 Weatherseed Treefolk
+1 Suncrusher
+1 Soulblade Renewer
+1 Sproutback Trudge
+1 Woodland Wanderer
+1 Trollhide
+1 Vine Gecko
+1 Stand Together
+1 Soul Swallower
+1 Shape of the Wiitigo
+1 Squirrel Wrangler
+1 Witches' Eye
+1 Wirewood Symbiote
+1 Willow Geist
+1 Woodripper
+1 Vines of Vastwood
+1 Thelonite Druid
+1 Crop Rotation
+1 Workhorse
+1 Wooded Foothills
+1 Thriving Rhino
+1 Turntimber Sower
+{'overall': 5.170135746606334, 'cmc': 3.507936507936508, 'ramp': '11', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'GoShintaiofBoundlessVigor.txt'}

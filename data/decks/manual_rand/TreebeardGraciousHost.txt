@@ -1,0 +1,69 @@
+1 Treebeard, Gracious Host
+1 Wiitigo
+1 Verdurous Gearhulk
+1 Winds of Abandon
+1 Wanderer's Strike
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Well of Lost Dreams
+1 Whiptongue Hydra
+1 Twin-Silk Spider
+1 Tetravus
+1 Witch's Oven
+1 Wood Elves
+1 Twilight Drover
+1 Welcome to . . . // Jurassic Park
+1 Touch the Spirit Realm
+1 Yavimaya Granger
+1 War Report
+1 Spike Drone
+1 Undercellar Sweep
+1 Yavimaya Elder
+1 White Sun's Twilight
+1 Storyweave
+1 Wren's Run Hydra
+1 The War Games
+1 Thriving Ibex
+1 The Night of the Doctor
+1 Tranquil Frillback
+1 Titania's Chosen
+1 Viridian Longbow
+1 Wrath of God
+1 Vile Redeemer
+1 Sunder the Gateway
+1 Thraben Sentry // Thraben Militia
+1 Verdant Confluence
+1 Sunbond
+1 The Binding of the Titans
+1 Vegetation Abomination
+1 Wedding Announcement // Wedding Festivity
+1 Workshop Warchief
+1 War Dance
+1 Turntimber Grove
+1 Weatherlight Compleated
+1 The Filigree Sylex
+1 Throne of Geth
+1 Waxmane Baku
+1 Welcoming Vampire
+1 Tendril of the Mycotyrant
+1 Voice of Many
+1 Took Reaper
+1 Wurmcoil Engine
+1 Thraben Doomsayer
+1 The Wandering Emperor
+1 Wurm's Tooth
+1 The Caves of Androzani
+1 Wildwood Scourge
+1 Syr Ginger, the Meal Ender
+1 Unstoppable Ash
+1 Tempered Veteran
+1 Treasure Hunter
+1 The Crowd Goes Wild
+1 Victory's Envoy
+1 Untamed Kavu
+1 Wildwood Mentor
+1 Ventifact Bottle
+1 Ulvenwald Mysteries
+1 Wrenn and Seven
+1 The Millennium Calendar
+1 Tributary Instructor
+{'overall': 7.3267281105990785, 'cmc': 3.1911764705882355, 'ramp': '8', 'draw': '16', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'TreebeardGraciousHost.txt'}

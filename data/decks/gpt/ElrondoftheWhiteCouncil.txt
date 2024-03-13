@@ -1,0 +1,64 @@
+1 Elrond of the White Council
+1 Zoetic Glyph
+1 Web of Inertia
+1 Weaver of Harmony
+1 Workshop Warchief
+1 Woodfall Primus
+1 Whitewater Naiads
+1 Vengeant Earth
+1 Vine Mare
+1 Green Sun's Zenith
+1 Vivien Reid
+1 Vertigo Spawn
+1 Tatyova, Steward of Tides
+1 Thopter Spy Network
+1 Verdant Haven
+1 Titanic Brawl
+1 Bloom Tender
+1 Seedborn Muse
+1 Sol Ring
+1 Llanowar Elves
+1 Mana Vault
+1 Wildgrowth Walker
+1 Viridian Corrupter
+1 Wildborn Preserver
+1 Yavimaya Dryad
+1 Volo, Guide to Monsters
+1 Zendikar Resurgent
+1 Whisperwood Elemental
+1 Whirler Rogue
+1 Vitalize
+1 Mind Stone
+1 World Shaper
+1 Verdurous Gearhulk
+1 Vivien's Stampede
+1 Vorel of the Hull Clade
+1 Thornwatch Scarecrow
+1 Thalakos Dreamsower
+1 Vodalian Knights
+1 Willow Dryad
+1 Whirlwind Adept
+1 Strength of Solidarity
+1 Vexing Beetle
+1 Venerated Rotpriest
+1 Voice of Many
+1 Vodalian War Machine
+1 Well of Discovery
+1 Wings of Velis Vel
+1 Wave Elemental
+1 Wrenn and Seven
+1 Zegana, Utopian Speaker
+1 Vedalken Anatomist
+1 Whalebone Glider
+1 Unified Will
+1 Wingspan Mentor
+1 Veiled Apparition
+1 Vine Dryad
+1 Vedalken Certarch
+1 Tolarian Entrancer
+1 Thassa, Deep-Dwelling
+1 Turntimber Basilisk
+1 Turntimber Sower
+1 Teferi's Response
+1 Vivien, Monsters' Advocate
+{'overall': 6.308695652173913, 'cmc': 3.2857142857142856, 'ramp': '10', 'draw': '11', 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondoftheWhiteCouncil.txt'}

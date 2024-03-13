@@ -1,0 +1,101 @@
+1 Gwaihir, Greatest of the Eagles
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Blessed Defiance
+1 Jawbone Skulkin
+1 Phyrexian Pegasus
+1 Archon's Glory
+1 Kinsbaile Balloonist
+1 Golem Artisan
+1 Inquisitorial Rosette
+1 Pegasus Courser
+1 Oteclan Landmark // Oteclan Levitator
+1 Blessed Hippogriff // Tyr's Blessing
+1 Roc Charger
+1 Valkyrie Harbinger
+1 Garrison Griffin
+1 Flying Carpet
+1 Xanthic Statue
+1 Rammas Echor, Ancient Shield
+1 Rootborn Defenses
+1 Victory's Herald
+1 Thermal Navigator
+1 Resplendent Angel
+1 Taranika, Akroan Veteran
+1 Cavalry Pegasus
+1 Selfless Samurai
+1 Hero of Bladehold
+1 Flaming Fist
+1 Mogg Cannon
+1 Veteran's Armaments
+1 Chimeric Sphere
+1 Loran's Escape
+1 Kjeldoran Elite Guard
+1 Righteous Indignation
+1 Seraphic Greatsword
+1 Chariot of the Sun
+1 Angelic Accord
+1 Might of the Ancestors
+1 Kytheon, Hero of Akros // Gideon, Battle-Forged
+1 Thopter Architect
+1 Take Heart
+1 Kaldra Compleat
+1 Drop Tower
+1 Spirit Weaver
+1 War Chariot
+1 Combat Professor
+1 Attended Healer
+1 Balloon Stand
+1 Launch the Fleet
+1 Gideon Blackblade
+1 Dragon Throne of Tarkir
+1 Majestic Heliopterus
+1 Blacksmith's Skill
+1 Elspeth's Talent
+1 Battlegrace Angel
+1 Kangee's Lieutenant
+1 Kelsinko Ranger
+1 Crimson Acolyte
+1 Echo Chamber
+1 Avarice Amulet
+1 Thirsting Axe
+1 Built to Last
+1 Strength of Arms
+1 Flayer of Loyalties
+1 Aegis of the Meek
+1 Crested Sunmare
+{'overall': 1.2999999999999998, 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '2', 'interaction': 3, 'folder': 'baseline', 'commander': 'GwaihirGreatestoftheEagles.txt'}
