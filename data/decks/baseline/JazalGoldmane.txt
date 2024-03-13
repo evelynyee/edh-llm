@@ -98,4 +98,4 @@
 1 Crashing Drawbridge
 1 Bond of Discipline
 1 Tenacity
-{'overall': '1', 'cmc': 2.9846153846153847, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.6701030927835051, 'cmc': 2.9846153846153847, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'JazalGoldmane.txt'}

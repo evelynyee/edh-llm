@@ -98,4 +98,4 @@
 1 Glaring Spotlight
 1 Veilstone Amulet
 1 Jade Orb of Dragonkind
-{'overall': '3', 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '3', 'interaction': 1}
+{'overall': 1.6419282511210762, 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '3', 'interaction': 1, 'folder': 'baseline', 'commander': 'ThruntheLastTroll.txt'}

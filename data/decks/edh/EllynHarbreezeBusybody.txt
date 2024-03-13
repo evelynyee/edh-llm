@@ -61,4 +61,4 @@
 1 Pearl Medallion
 1 Cathars' Crusade
 1 Elspeth, Sun's Champion
-{'overall': '8', 'cmc': 3.0317460317460316, 'ramp': '11', 'draw': '13', 'interaction': 9}
+{'overall': 7.109685863874346, 'cmc': 3.0317460317460316, 'ramp': '11', 'draw': '13', 'interaction': 9, 'folder': 'edh', 'commander': 'EllynHarbreezeBusybody.txt'}

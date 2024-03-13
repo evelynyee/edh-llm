@@ -98,4 +98,4 @@
 1 Gravelighter
 1 Scrap Trawler
 1 Harvester of Souls
-{'overall': '5', 'cmc': 3.9846153846153847, 'ramp': '5', 'draw': '26', 'interaction': 3}
+{'overall': 8.401930501930503, 'cmc': 3.9846153846153847, 'ramp': '5', 'draw': '26', 'interaction': 3, 'folder': 'baseline', 'commander': 'TeveshSzatDoomofFools.txt'}

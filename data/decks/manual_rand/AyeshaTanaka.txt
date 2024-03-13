@@ -62,8 +62,4 @@
 1 Winter's Chill
 1 Tezzeret's Strider
 1 Tamiyo's Compleation
-1 Time Warp
-1 White Dragon
-1 Twitch
-1 Wall of Swords
-{'overall': '4', 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5}
+{'overall': 3.828723404255319, 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'AyeshaTanaka.txt'}'folder': 'manual_rand', 'commander': 'AyeshaTanaka.txt'}

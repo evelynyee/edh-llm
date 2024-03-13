@@ -98,4 +98,4 @@
 1 Ob Nixilis of the Black Oath
 1 Blood Reckoning
 1 Beacon Behemoth
-{'overall': '1', 'cmc': 3.303030303030303, 'ramp': '0', 'draw': '5', 'interaction': 8}
+{'overall': 2.255504587155963, 'cmc': 3.303030303030303, 'ramp': '0', 'draw': '5', 'interaction': 8, 'folder': 'baseline', 'commander': 'DinaSoulSteeper.txt'}

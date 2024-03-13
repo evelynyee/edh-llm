@@ -98,4 +98,4 @@
 1 Warfire Javelineer
 1 Latulla, Keldon Overseer
 1 Slight Malfunction
-{'overall': '2', 'cmc': 3.208955223880597, 'ramp': '2', 'draw': '4', 'interaction': 43}
+{'overall': 4.273255813953488, 'cmc': 3.208955223880597, 'ramp': '2', 'draw': '4', 'interaction': 43, 'folder': 'baseline', 'commander': 'GnostroVoiceoftheCrags.txt'}

@@ -98,4 +98,4 @@
 1 Invigorate
 1 Subdue
 1 Spellbinder
-{'overall': '2', 'cmc': 3.5384615384615383, 'ramp': '3', 'draw': '7', 'interaction': 12}
+{'overall': 3.6652173913043478, 'cmc': 3.5384615384615383, 'ramp': '3', 'draw': '7', 'interaction': 12, 'folder': 'baseline', 'commander': 'ThrastaTempestsRoar.txt'}

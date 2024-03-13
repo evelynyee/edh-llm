@@ -62,8 +62,4 @@
 1 Veil of Birds
 1 Wicked Reward
 1 Symmetry Sage
-1 Trading Post
-1 Veteran's Sidearm
-1 The Enigma Jewel // Locus of Enlightenment
-1 Virtue of Knowledge // Vantress Visions
-{'overall': '4', 'cmc': 3.0, 'ramp': '3', 'draw': '6', 'interaction': 9}
+{'overall': 3.3666666666666667, 'cmc': 3.0, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TheEverChangingDane.txt'}6667, 'cmc': 3.0, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TheEverChangingDane.txt'}

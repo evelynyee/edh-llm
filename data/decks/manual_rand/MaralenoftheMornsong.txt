@@ -62,8 +62,4 @@
 1 Torment of Scarabs
 1 Witch's Oven
 1 Seizan, Perverter of Truth
-1 Storm Cauldron
-1 Well of Discovery
-1 Viconia, Drow Apostate
-1 War Room
-{'overall': '6', 'cmc': 3.208955223880597, 'ramp': '5', 'draw': '16', 'interaction': 6}
+{'overall': 6.173255813953488, 'cmc': 3.208955223880597, 'ramp': '5', 'draw': '16', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'MaralenoftheMornsong.txt'}action': 6, 'folder': 'manual_rand', 'commander': 'MaralenoftheMornsong.txt'}

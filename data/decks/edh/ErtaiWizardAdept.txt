@@ -61,4 +61,4 @@
 1 Sky Diamond
 1 Bane's Contingency
 1 Wavebreak Hippocamp
-{'overall': '7', 'cmc': 2.8253968253968256, 'ramp': '6', 'draw': '21', 'interaction': 25}
+{'overall': 8.707865168539325, 'cmc': 2.8253968253968256, 'ramp': '6', 'draw': '21', 'interaction': 25, 'folder': 'edh', 'commander': 'ErtaiWizardAdept.txt'}

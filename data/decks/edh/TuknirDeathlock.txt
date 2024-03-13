@@ -61,4 +61,4 @@
 1 Scale Up
 1 Tormenting Voice
 1 Grafted Exoskeleton
-{'overall': '7', 'cmc': 2.4285714285714284, 'ramp': '20', 'draw': '11', 'interaction': 9}
+{'overall': 9.023529411764706, 'cmc': 2.4285714285714284, 'ramp': '20', 'draw': '11', 'interaction': 9, 'folder': 'edh', 'commander': 'TuknirDeathlock.txt'}

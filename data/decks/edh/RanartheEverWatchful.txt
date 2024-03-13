@@ -61,4 +61,4 @@
 1 Felidar Guardian
 1 Sea Gate Oracle
 1 Sky Diamond
-{'overall': '6', 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '14', 'interaction': 9}
+{'overall': 6.863157894736842, 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '14', 'interaction': 9, 'folder': 'edh', 'commander': 'RanartheEverWatchful.txt'}

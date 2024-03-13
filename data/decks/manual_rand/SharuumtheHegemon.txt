@@ -62,8 +62,4 @@
 1 Tameshi, Reality Architect
 1 Ulamog's Despoiler
 1 Yukora, the Prisoner
-1 Whisper Squad
-1 Venser's Diffusion
-1 Urborg Emissary
-1 Threadbind Clique // Rip the Seams
-{'overall': '4', 'cmc': 3.764705882352941, 'ramp': '2', 'draw': '17', 'interaction': 4}
+{'overall': 5.48125, 'cmc': 3.764705882352941, 'ramp': '2', 'draw': '17', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'SharuumtheHegemon.txt'}, 'draw': '17', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'SharuumtheHegemon.txt'}

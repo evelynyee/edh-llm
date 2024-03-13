@@ -61,4 +61,4 @@
 1 Lightning Greaves
 1 Ghostly Touch
 1 Hullbreaker Horror
-{'overall': '7', 'cmc': 3.0, 'ramp': '15', 'draw': '11', 'interaction': 8}
+{'overall': 7.566666666666667, 'cmc': 3.0, 'ramp': '15', 'draw': '11', 'interaction': 8, 'folder': 'edh', 'commander': 'Tromokratis.txt'}

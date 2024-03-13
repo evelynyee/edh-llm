@@ -62,8 +62,4 @@
 1 Spring-Loaded Sawblades // Bladewheel Chariot
 1 Thought-Knot Seer
 1 The War Games
-1 Throne of the God-Pharaoh
-1 Zhalfirin Void
-1 Wintermoon Mesa
-1 Triangle of War
-{'overall': '5', 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '10', 'interaction': 8}
+{'overall': 4.851030927835052, 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '10', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'RebbecArchitectofAscension.txt'}eraction': 8, 'folder': 'manual_rand', 'commander': 'RebbecArchitectofAscension.txt'}

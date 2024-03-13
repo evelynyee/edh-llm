@@ -61,4 +61,4 @@
 1 Venerable Lammasu
 1 Tenacity
 1 Windshaper Planetar
-{'overall': '5', 'cmc': 3.0634920634920637, 'ramp': '6', 'draw': '3', 'interaction': 8}
+{'overall': 3.3028497409326425, 'cmc': 3.0634920634920637, 'ramp': '6', 'draw': '3', 'interaction': 8, 'folder': 'gpt', 'commander': 'GwaihirGreatestoftheEagles.txt'}{'overall': 3.3028497409326425, 'cmc': 3.0634920634920637, 'ramp': '6', 'draw': '3', 'interaction': 8, 'folder': 'gpt', 'commander': 'GwaihirGreatestoftheEagles.txt'}

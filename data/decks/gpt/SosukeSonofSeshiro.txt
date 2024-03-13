@@ -62,4 +62,4 @@
 1 Wild Growth
 1 Tornado Elemental
 1 Venerated Rotpriest
-{'overall': '5', 'cmc': 3.3174603174603177, 'ramp': '8', 'draw': '3', 'interaction': 7}
+{'overall': 3.702870813397129, 'cmc': 3.3174603174603177, 'ramp': '8', 'draw': '3', 'interaction': 7, 'folder': 'gpt', 'commander': 'SosukeSonofSeshiro.txt'}

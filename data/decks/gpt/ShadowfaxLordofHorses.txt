@@ -62,5 +62,4 @@
 1 Teyo's Lightshield
 1 Toymaker
 1 Will of the All-Hunter
-1 Eowyn, Fearless Knight
-{'overall': '5', 'cmc': 3.68, 'ramp': '10', 'draw': '6', 'interaction': 19}
+{'overall': 5.493478260869566, 'cmc': 3.68, 'ramp': '10', 'draw': '6', 'interaction': 19, 'folder': 'gpt', 'commander': 'ShadowfaxLordofHorses.txt'}hadowfaxLordofHorses.txt'}

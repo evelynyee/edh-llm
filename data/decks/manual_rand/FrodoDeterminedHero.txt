@@ -62,8 +62,4 @@
 1 Wings of Hubris
 1 Zealots en-Dal
 1 Wall of Junk
-1 Take Up the Shield
-1 Whetwheel
-1 Street Sweeper
-1 Vesperlark
-{'overall': '3', 'cmc': 3.62, 'ramp': '2', 'draw': '4', 'interaction': 10}
+{'overall': 2.552486187845304, 'cmc': 3.62, 'ramp': '2', 'draw': '4', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoDeterminedHero.txt'}0, 'folder': 'manual_rand', 'commander': 'FrodoDeterminedHero.txt'}

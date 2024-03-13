@@ -98,4 +98,4 @@
 1 Baird, Steward of Argive
 1 Arctic Foxes
 1 Infiltrate
-{'overall': '3', 'cmc': 2.7916666666666665, 'ramp': '0', 'draw': '3', 'interaction': 3}
+{'overall': 1.6164179104477612, 'cmc': 2.7916666666666665, 'ramp': '0', 'draw': '3', 'interaction': 3, 'folder': 'baseline', 'commander': 'AyeshaTanaka.txt'}

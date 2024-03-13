@@ -61,4 +61,4 @@
 1 Wedding Ring
 1 Lightning Greaves
 1 Grasp of Fate
-{'overall': '5', 'cmc': 2.9047619047619047, 'ramp': '7', 'draw': '6', 'interaction': 6}
+{'overall': 4.238524590163935, 'cmc': 2.9047619047619047, 'ramp': '7', 'draw': '6', 'interaction': 6, 'folder': 'edh', 'commander': 'RoseTyler.txt'}

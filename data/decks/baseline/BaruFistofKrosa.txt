@@ -98,4 +98,4 @@
 1 Staff of Titania
 1 Crash the Party
 1 Squirrel Wrangler
-{'overall': '2', 'cmc': 4.1692307692307695, 'ramp': '0', 'draw': '2', 'interaction': 3}
+{'overall': 1.1297047970479703, 'cmc': 4.1692307692307695, 'ramp': '0', 'draw': '2', 'interaction': 3, 'folder': 'baseline', 'commander': 'BaruFistofKrosa.txt'}

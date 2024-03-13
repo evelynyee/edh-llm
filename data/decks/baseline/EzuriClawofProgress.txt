@@ -98,4 +98,4 @@
 1 Outmuscle
 1 Wildwood Mentor
 1 Strength of the Pack
-{'overall': '2', 'cmc': 3.4545454545454546, 'ramp': '2', 'draw': '4', 'interaction': 2}
+{'overall': 2.1789473684210527, 'cmc': 3.4545454545454546, 'ramp': '2', 'draw': '4', 'interaction': 2, 'folder': 'baseline', 'commander': 'EzuriClawofProgress.txt'}

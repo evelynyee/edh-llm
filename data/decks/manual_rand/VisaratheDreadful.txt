@@ -62,8 +62,4 @@
 1 Spreading Plague
 1 Throwing Knife
 1 Withering Wisps
-1 Sleek Schooner
-1 TARDIS
-1 Slayer's Cleaver
-1 Vanquish the Weak
-{'overall': '4', 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '4', 'interaction': 13}
+{'overall': 3.2710045662100455, 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '4', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}': 13, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}

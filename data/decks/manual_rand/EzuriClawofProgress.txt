@@ -62,8 +62,4 @@
 1 Ventifact Bottle
 1 Teachings of the Kirin // Kirin-Touched Orochi
 1 Verdeloth the Ancient
-1 Webspinner Cuff
-1 Tree of Redemption
-1 Viridian Betrayers
-1 Vivien Reid
-{'overall': '4', 'cmc': 3.5223880597014925, 'ramp': '4', 'draw': '9', 'interaction': 12}
+{'overall': 4.417796610169491, 'cmc': 3.5223880597014925, 'ramp': '4', 'draw': '9', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}raction': 12, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}

@@ -98,4 +98,4 @@
 1 Goblin Dark-Dwellers
 1 Minor Misstep
 1 Glamdring
-{'overall': '1', 'cmc': 4.104477611940299, 'ramp': '0', 'draw': '8', 'interaction': 21}
+{'overall': 3.537272727272727, 'cmc': 4.104477611940299, 'ramp': '0', 'draw': '8', 'interaction': 21, 'folder': 'baseline', 'commander': 'TetsuoImperialChampion.txt'}

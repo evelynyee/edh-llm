@@ -98,4 +98,4 @@
 1 Hatchery Spider
 1 Selvala's Stampede
 1 Phyrexian Portal
-{'overall': '6', 'cmc': 3.712121212121212, 'ramp': '10', 'draw': '44', 'interaction': 0}
+{'overall': 14.038775510204081, 'cmc': 3.712121212121212, 'ramp': '10', 'draw': '44', 'interaction': 0, 'folder': 'baseline', 'commander': 'TorstenFounderofBenalia.txt'}

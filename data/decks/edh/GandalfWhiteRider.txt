@@ -61,4 +61,4 @@
 1 Martial Coup
 1 Staff of the Storyteller
 1 Serra Ascendant
-{'overall': '9', 'cmc': 1.873015873015873, 'ramp': '12', 'draw': '20', 'interaction': 5}
+{'overall': 9.317796610169491, 'cmc': 1.873015873015873, 'ramp': '12', 'draw': '20', 'interaction': 5, 'folder': 'edh', 'commander': 'GandalfWhiteRider.txt'}

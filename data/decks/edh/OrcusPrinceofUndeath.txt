@@ -61,4 +61,4 @@
 1 Stitcher's Supplier
 1 Rakdos, Lord of Riots
 1 Bloodfell Caves
-{'overall': '7', 'cmc': 1.9682539682539681, 'ramp': '18', 'draw': '8', 'interaction': 8}
+{'overall': 7.916129032258064, 'cmc': 1.9682539682539681, 'ramp': '18', 'draw': '8', 'interaction': 8, 'folder': 'edh', 'commander': 'OrcusPrinceofUndeath.txt'}

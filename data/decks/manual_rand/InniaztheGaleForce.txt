@@ -62,8 +62,4 @@
 1 Swiftfoot Boots
 1 Wilderness Hypnotist
 1 Triumph of Gerrard
-1 The Stasis Coffin
-1 Wedding Announcement // Wedding Festivity
-1 Warped Researcher
-1 Virtue of Loyalty // Ardenvale Fealty
-{'overall': '3', 'cmc': 3.3823529411764706, 'ramp': '1', 'draw': '7', 'interaction': 7}
+{'overall': 2.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '1', 'draw': '7', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'} 3.3823529411764706, 'ramp': '1', 'draw': '7', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'}

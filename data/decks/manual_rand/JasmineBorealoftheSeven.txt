@@ -62,8 +62,4 @@
 1 Sunweb
 1 Worthy Cause
 1 Tithe Taker
-1 White Knight
-1 Wooden Stake
-1 Weatherseed Totem
-1 Vines of Vastwood
-{'overall': '5', 'cmc': 2.8181818181818183, 'ramp': '9', 'draw': '7', 'interaction': 4}
+{'overall': 4.909677419354839, 'cmc': 2.8181818181818183, 'ramp': '9', 'draw': '7', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'JasmineBorealoftheSeven.txt'}': 4, 'folder': 'manual_rand', 'commander': 'JasmineBorealoftheSeven.txt'}

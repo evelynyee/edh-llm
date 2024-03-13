@@ -98,4 +98,4 @@
 1 Damping Sphere
 1 Coastal Breach
 1 Souvenir Snatcher
-{'overall': '2', 'cmc': 4.140625, 'ramp': '4', 'draw': '22', 'interaction': 4}
+{'overall': 7.183018867924528, 'cmc': 4.140625, 'ramp': '4', 'draw': '22', 'interaction': 4, 'folder': 'baseline', 'commander': 'EsiorWardwingFamiliar.txt'}

@@ -62,8 +62,4 @@
 1 Symmetry Matrix
 1 Ward of Bones
 1 Vulpine Harvester
-1 Sword-Swallowing Seraph
-1 Stoic Farmer
-1 Second Sunrise
-1 Tocasia's Welcome
-{'overall': '5', 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '16', 'interaction': 7}
+{'overall': 5.976728110599078, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AotheDawnSky.txt'} '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AotheDawnSky.txt'}

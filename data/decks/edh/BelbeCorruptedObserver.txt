@@ -61,4 +61,4 @@
 1 Wurmcoil Engine
 1 Llanowar Elves
 1 Kozilek, Butcher of Truth
-{'overall': '6', 'cmc': 3.2063492063492065, 'ramp': '10', 'draw': '9', 'interaction': 12}
+{'overall': 5.973762376237623, 'cmc': 3.2063492063492065, 'ramp': '10', 'draw': '9', 'interaction': 12, 'folder': 'edh', 'commander': 'BelbeCorruptedObserver.txt'}

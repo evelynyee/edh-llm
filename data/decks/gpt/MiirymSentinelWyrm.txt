@@ -62,4 +62,4 @@
 1 Verdant Embrace
 1 Mana Drain
 1 Ugin, the Ineffable
-{'overall': '5', 'cmc': 3.75, 'ramp': '6', 'draw': '8', 'interaction': 6}
+{'overall': 4.333333333333333, 'cmc': 3.75, 'ramp': '6', 'draw': '8', 'interaction': 6, 'folder': 'gpt', 'commander': 'MiirymSentinelWyrm.txt'}

@@ -98,4 +98,4 @@
 1 Sengir, the Dark Baron
 1 Cabal Shrine
 1 Keening Stone
-{'overall': '3', 'cmc': 3.621212121212121, 'ramp': '0', 'draw': '19', 'interaction': 4}
+{'overall': 5.502301255230126, 'cmc': 3.621212121212121, 'ramp': '0', 'draw': '19', 'interaction': 4, 'folder': 'baseline', 'commander': 'WernogRidersChaplain.txt'}

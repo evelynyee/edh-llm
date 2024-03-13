@@ -61,4 +61,4 @@
 1 Rimewood Falls
 1 Temple of the False God
 1 Sakura-Tribe Elder
-{'overall': '7', 'cmc': 1.9206349206349207, 'ramp': '25', 'draw': '10', 'interaction': 8}
+{'overall': 10.191322314049588, 'cmc': 1.9206349206349207, 'ramp': '25', 'draw': '10', 'interaction': 8, 'folder': 'edh', 'commander': 'GretchenTitchwillow.txt'}

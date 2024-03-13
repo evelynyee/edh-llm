@@ -61,4 +61,4 @@
 1 Shivan Reef
 1 Argentum Armor
 1 Sunken Hollow
-{'overall': '7', 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '9', 'interaction': 8}
+{'overall': 5.840298507462687, 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'TetsuoImperialChampion.txt'}

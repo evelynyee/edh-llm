@@ -62,8 +62,4 @@
 1 Trial of Solidarity
 1 Vulshok Battlegear
 1 Three Blind Mice
-1 Tergrid, God of Fright // Tergrid's Lantern
-1 Transmogrifying Wand
-1 The Wedding of River Song
-1 Unbreathing Horde
-{'overall': '4', 'cmc': 3.5970149253731343, 'ramp': '1', 'draw': '14', 'interaction': 9}
+{'overall': 4.756016597510373, 'cmc': 3.5970149253731343, 'ramp': '1', 'draw': '14', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AthreosShroudVeiled.txt'}9253731343, 'ramp': '1', 'draw': '14', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AthreosShroudVeiled.txt'}

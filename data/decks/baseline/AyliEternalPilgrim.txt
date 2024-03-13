@@ -98,4 +98,4 @@
 1 Dark Offering
 1 Zulaport Cutthroat
 1 Blight Keeper
-{'overall': '1', 'cmc': 3.079, 'ramp': '1', 'draw': '4', 'interaction': 16}
+{'overall': 2.6995615459564792, 'cmc': 3.079, 'ramp': '1', 'draw': '4', 'interaction': 16, 'folder': 'baseline', 'commander': 'AyliEternalPilgrim.txt'}

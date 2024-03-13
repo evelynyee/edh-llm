@@ -61,4 +61,4 @@
 1 Draconic Muralists
 1 Breeding Pool
 1 Rhythm of the Wild
-{'overall': '7', 'cmc': 3.5555555555555554, 'ramp': '20', 'draw': '11', 'interaction': 9}
+{'overall': 8.7625, 'cmc': 3.5555555555555554, 'ramp': '20', 'draw': '11', 'interaction': 9, 'folder': 'edh', 'commander': 'MiirymSentinelWyrm.txt'}

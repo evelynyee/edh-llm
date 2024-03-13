@@ -98,4 +98,4 @@
 1 From the Rubble
 1 Gruesome Encore
 1 Flickerwisp
-{'overall': '1', 'cmc': 4.111, 'ramp': '0', 'draw': '3', 'interaction': 2}
+{'overall': 1.3364996351252738, 'cmc': 4.111, 'ramp': '0', 'draw': '3', 'interaction': 2, 'folder': 'baseline', 'commander': 'AthreosShroudVeiled.txt'}

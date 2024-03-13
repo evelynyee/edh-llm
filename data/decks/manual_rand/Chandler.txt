@@ -62,8 +62,4 @@
 1 Whip Sergeant
 1 Steamclaw
 1 Team Pennant
-1 Wildfire Eternal
-1 Slingshot Goblin
-1 Swashbuckler's Whip
-1 Specter's Shroud
-{'overall': '6', 'cmc': 2.8823529411764706, 'ramp': '11', 'draw': '8', 'interaction': 26}
+{'overall': 6.743877551020408, 'cmc': 2.8823529411764706, 'ramp': '11', 'draw': '8', 'interaction': 26, 'folder': 'manual_rand', 'commander': 'Chandler.txt'}raw': '8', 'interaction': 26, 'folder': 'manual_rand', 'commander': 'Chandler.txt'}

@@ -62,8 +62,4 @@
 1 Wilfred Mott
 1 Ulvenwald Bear
 1 Standard Bearer
-1 Vegetation Abomination
-1 Wild-Field Scarecrow
-1 Valiant Rescuer
-1 You're Ambushed on the Road
-{'overall': '6', 'cmc': 3.417910447761194, 'ramp': '7', 'draw': '20', 'interaction': 9}
+{'overall': 7.785152838427948, 'cmc': 3.417910447761194, 'ramp': '7', 'draw': '20', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GluntchtheBestower.txt'}'7', 'draw': '20', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GluntchtheBestower.txt'}

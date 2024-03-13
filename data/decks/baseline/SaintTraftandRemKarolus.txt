@@ -98,4 +98,4 @@
 1 Haunted Library
 1 Wand of the Elements
 1 Satyr Nyx-Smith
-{'overall': '2', 'cmc': 3.742424242424242, 'ramp': '2', 'draw': '1', 'interaction': 4}
+{'overall': 1.4844129554655872, 'cmc': 3.742424242424242, 'ramp': '2', 'draw': '1', 'interaction': 4, 'folder': 'baseline', 'commander': 'SaintTraftandRemKarolus.txt'}

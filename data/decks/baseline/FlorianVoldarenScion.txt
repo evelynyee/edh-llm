@@ -98,4 +98,4 @@
 1 Orcish Librarian
 1 Decadent Dragon // Expensive Taste
 1 Gonti, Lord of Luxury
-{'overall': '3', 'cmc': 3.787878787878788, 'ramp': '3', 'draw': '18', 'interaction': 7}
+{'overall': 6.128, 'cmc': 3.787878787878788, 'ramp': '3', 'draw': '18', 'interaction': 7, 'folder': 'baseline', 'commander': 'FlorianVoldarenScion.txt'}

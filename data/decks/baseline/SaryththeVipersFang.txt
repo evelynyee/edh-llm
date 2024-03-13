@@ -98,4 +98,4 @@
 1 Seeker of Skybreak
 1 Somberwald Stag
 1 Champion of Lambholt
-{'overall': '2', 'cmc': 3.0153846153846153, 'ramp': '3', 'draw': '3', 'interaction': 3}
+{'overall': 2.313265306122449, 'cmc': 3.0153846153846153, 'ramp': '3', 'draw': '3', 'interaction': 3, 'folder': 'baseline', 'commander': 'SaryththeVipersFang.txt'}

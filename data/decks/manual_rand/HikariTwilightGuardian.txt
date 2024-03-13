@@ -62,8 +62,4 @@
 1 Steamclaw
 1 Skyclave Apparition
 1 The Moment
-1 Sunseed Nurturer
-1 Welkin Hawk
-1 Wall of Resurgence
-1 Mind Stone
-{'overall': '6', 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '10', 'interaction': 9}
+{'overall': 4.786206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'} 9, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'}

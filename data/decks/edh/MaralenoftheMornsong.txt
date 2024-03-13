@@ -61,4 +61,4 @@
 1 Imperial Seal
 1 Baleful Mastery
 1 Diabolic Tutor
-{'overall': '10', 'cmc': 1.9841269841269842, 'ramp': '14', 'draw': '7', 'interaction': 9}
+{'overall': 6.708, 'cmc': 1.9841269841269842, 'ramp': '14', 'draw': '7', 'interaction': 9, 'folder': 'edh', 'commander': 'MaralenoftheMornsong.txt'}

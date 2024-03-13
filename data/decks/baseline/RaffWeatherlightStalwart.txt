@@ -98,4 +98,4 @@
 1 Tandem Tactics
 1 Encircling Fissure
 1 Stir the Pride
-{'overall': '1', 'cmc': 2.909090909090909, 'ramp': '1', 'draw': '5', 'interaction': 5}
+{'overall': 2.4375, 'cmc': 2.909090909090909, 'ramp': '1', 'draw': '5', 'interaction': 5, 'folder': 'baseline', 'commander': 'RaffWeatherlightStalwart.txt'}

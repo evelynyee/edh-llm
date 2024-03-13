@@ -62,8 +62,4 @@
 1 Tunnel of Love
 1 Yedora, Grave Gardener
 1 Utopia Mycon
-1 Underdark Rift
-1 Wurmcoil Engine
-1 Vineshaper Mystic
-1 Willow Satyr
-{'overall': '7', 'cmc': 3.582089552238806, 'ramp': '15', 'draw': '16', 'interaction': 2}
+{'overall': 8.408333333333333, 'cmc': 3.582089552238806, 'ramp': '15', 'draw': '16', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'OldOneEye.txt'}, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'OldOneEye.txt'}

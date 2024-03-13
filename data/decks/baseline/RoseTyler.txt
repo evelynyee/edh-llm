@@ -98,4 +98,4 @@
 1 Clockwork Condor
 1 Ichorplate Golem
 1 Inspiring Roar
-{'overall': '3', 'cmc': 3.046153846153846, 'ramp': '1', 'draw': '7', 'interaction': 2}
+{'overall': 2.7565656565656567, 'cmc': 3.046153846153846, 'ramp': '1', 'draw': '7', 'interaction': 2, 'folder': 'baseline', 'commander': 'RoseTyler.txt'}

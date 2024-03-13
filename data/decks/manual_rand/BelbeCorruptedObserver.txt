@@ -62,8 +62,4 @@
 1 War Barge
 1 Tombstone Stairwell
 1 Vial of Poison
-1 Wall of Tombstones
-1 Vampire Envoy
-1 Tavern Swindler
-1 Zombie Ogre
-{'overall': '5', 'cmc': 3.0441176470588234, 'ramp': '8', 'draw': '9', 'interaction': 9}
+{'overall': 5.357004830917875, 'cmc': 3.0441176470588234, 'ramp': '8', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'BelbeCorruptedObserver.txt'}': 9, 'folder': 'manual_rand', 'commander': 'BelbeCorruptedObserver.txt'}

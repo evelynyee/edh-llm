@@ -61,4 +61,4 @@
 1 Beastmaster Ascension
 1 Tranquil Thicket
 1 Wilson, Refined Grizzly
-{'overall': '5', 'cmc': 3.1587301587301586, 'ramp': '10', 'draw': '11', 'interaction': 12}
+{'overall': 6.483165829145729, 'cmc': 3.1587301587301586, 'ramp': '10', 'draw': '11', 'interaction': 12, 'folder': 'edh', 'commander': 'SosukeSonofSeshiro.txt'}

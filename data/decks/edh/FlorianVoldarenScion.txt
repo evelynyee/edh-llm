@@ -61,4 +61,4 @@
 1 Wayfarer's Bauble
 1 Descent into Avernus
 1 Pyromancer Ascension
-{'overall': '7', 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '10', 'interaction': 9}
+{'overall': 7.716129032258064, 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '10', 'interaction': 9, 'folder': 'edh', 'commander': 'FlorianVoldarenScion.txt'}

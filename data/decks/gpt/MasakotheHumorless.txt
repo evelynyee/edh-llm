@@ -61,4 +61,4 @@
 1 Silent Arbiter
 1 Wayward Angel
 1 Taranika, Akroan Veteran
-{'overall': '4', 'cmc': 3.0952380952380953, 'ramp': '7', 'draw': '4', 'interaction': 5}
+{'overall': 3.646153846153846, 'cmc': 3.0952380952380953, 'ramp': '7', 'draw': '4', 'interaction': 5, 'folder': 'gpt', 'commander': 'MasakotheHumorless.txt'}{'overall': 3.646153846153846, 'cmc': 3.0952380952380953, 'ramp': '7', 'draw': '4', 'interaction': 5, 'folder': 'gpt', 'commander': 'MasakotheHumorless.txt'}

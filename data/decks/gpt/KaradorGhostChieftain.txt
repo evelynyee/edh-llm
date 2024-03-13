@@ -62,6 +62,4 @@
 1 Verdant Eidolon
 1 Winding Canyons
 1 Wandering Archaic // Explore the Vastlands
-1 Mind Stone
-1 Visage of Dread // Dread Osseosaur
-{'overall': '6', 'cmc': 3.621212121212121, 'ramp': '8', 'draw': '15', 'interaction': 3}
+{'overall': 6.452301255230126, 'cmc': 3.621212121212121, 'ramp': '8', 'draw': '15', 'interaction': 3, 'folder': 'gpt', 'commander': 'KaradorGhostChieftain.txt'}r': 'gpt', 'commander': 'KaradorGhostChieftain.txt'}

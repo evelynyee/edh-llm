@@ -98,4 +98,4 @@
 1 Mizzix's Mastery
 1 Increasing Vengeance
 1 Shattering Pulse
-{'overall': '1', 'cmc': 3.0757575757575757, 'ramp': '1', 'draw': '13', 'interaction': 7}
+{'overall': 4.5002463054187185, 'cmc': 3.0757575757575757, 'ramp': '1', 'draw': '13', 'interaction': 7, 'folder': 'baseline', 'commander': 'TheFugitiveDoctor.txt'}

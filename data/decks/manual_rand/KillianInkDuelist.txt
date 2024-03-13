@@ -62,8 +62,4 @@
 1 Trueheart Duelist
 1 Twinning Glass
 1 Tiller of Flesh
-1 Wasp of the Bitter End
-1 Trusted Pegasus
-1 Trinisphere
-1 Unliving Psychopath
-{'overall': '4', 'cmc': 3.161764705882353, 'ramp': '2', 'draw': '4', 'interaction': 16}
+{'overall': 2.9325581395348834, 'cmc': 3.161764705882353, 'ramp': '2', 'draw': '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'KillianInkDuelist.txt'}, 'interaction': 16, 'folder': 'manual_rand', 'commander': 'KillianInkDuelist.txt'}

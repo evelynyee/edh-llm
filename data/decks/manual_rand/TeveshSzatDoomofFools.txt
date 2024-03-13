@@ -62,8 +62,4 @@
 1 Zuran Orb
 1 Mind Stone
 1 Witness the End
-1 Underhanded Designs
-1 Unhallowed Pact
-1 Thrilling Encore
-1 Unspeakable Symbol
-{'overall': '5', 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '22', 'interaction': 6}
+{'overall': 7.636206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '22', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TeveshSzatDoomofFools.txt'}'interaction': 6, 'folder': 'manual_rand', 'commander': 'TeveshSzatDoomofFools.txt'}

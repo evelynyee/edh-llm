@@ -62,5 +62,4 @@
 1 Terashi's Grasp
 1 Teachings of the Kirin // Kirin-Touched Orochi
 1 Vivify
-1 Wolfkin Outcast // Wedding Crasher
-{'overall': '7', 'cmc': 3.646153846153846, 'ramp': '8', 'draw': '14', 'interaction': 12}
+{'overall': 6.6485232067510545, 'cmc': 3.646153846153846, 'ramp': '8', 'draw': '14', 'interaction': 12, 'folder': 'gpt', 'commander': 'MyrkulLordofBones.txt'} 'commander': 'MyrkulLordofBones.txt'}

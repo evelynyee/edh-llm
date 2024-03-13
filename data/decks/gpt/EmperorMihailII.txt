@@ -62,6 +62,4 @@
 1 Voyager Staff
 1 Throne of Bone
 1 Windcaller Aven
-1 Telemin Performance
-1 The Reality Chip
-{'overall': '5', 'cmc': 3.772727272727273, 'ramp': '5', 'draw': '29', 'interaction': 8}
+{'overall': 9.43012048192771, 'cmc': 3.772727272727273, 'ramp': '5', 'draw': '29', 'interaction': 8, 'folder': 'gpt', 'commander': 'EmperorMihailII.txt'} 'gpt', 'commander': 'EmperorMihailII.txt'}

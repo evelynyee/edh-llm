@@ -62,8 +62,4 @@
 1 You Hear Something on Watch
 1 Vikya, Scorching Stalwart
 1 Weldfast Monitor
-1 Unwilling Recruit
-1 Thornbite Staff
-1 Zabaz, the Glimmerwasp
-1 Thorncaster Sliver
-{'overall': '2', 'cmc': 3.2686567164179103, 'ramp': '0', 'draw': '1', 'interaction': 13}
+{'overall': 1.5118721461187214, 'cmc': 3.2686567164179103, 'ramp': '0', 'draw': '1', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}'interaction': 13, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}

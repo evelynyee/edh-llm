@@ -61,4 +61,4 @@
 1 Cultivate
 1 Karn's Bastion
 1 Forerunner of the Heralds
-{'overall': '7', 'cmc': 1.9841269841269842, 'ramp': '7', 'draw': '26', 'interaction': 3}
+{'overall': 9.408, 'cmc': 1.9841269841269842, 'ramp': '7', 'draw': '26', 'interaction': 3, 'folder': 'edh', 'commander': 'NicanzilCurrentConductor.txt'}

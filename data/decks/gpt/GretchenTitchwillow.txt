@@ -62,6 +62,4 @@
 1 Treasure Mage
 1 Venser's Diffusion
 1 Vexing Arcanix
-1 Worldspine Wurm
-1 Tolaria West
-{'overall': '7', 'cmc': 3.6515151515151514, 'ramp': '18', 'draw': '30', 'interaction': 2}
+{'overall': 12.647717842323651, 'cmc': 3.6515151515151514, 'ramp': '18', 'draw': '30', 'interaction': 2, 'folder': 'gpt', 'commander': 'GretchenTitchwillow.txt'}mander': 'GretchenTitchwillow.txt'}

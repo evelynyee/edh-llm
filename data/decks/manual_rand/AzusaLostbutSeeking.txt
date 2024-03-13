@@ -62,8 +62,4 @@
 1 Timeless Witness
 1 Wildcall
 1 Sylvan Messenger
-1 Thicket Elemental
-1 Zhulodok, Void Gorger
-1 The Foretold Soldier
-1 Wolfbitten Captive // Krallenhorde Killer
-{'overall': '7', 'cmc': 3.106060606060606, 'ramp': '16', 'draw': '14', 'interaction': 1}
+{'overall': 8.193902439024392, 'cmc': 3.106060606060606, 'ramp': '16', 'draw': '14', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'AzusaLostbutSeeking.txt'}606, 'ramp': '16', 'draw': '14', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'AzusaLostbutSeeking.txt'}

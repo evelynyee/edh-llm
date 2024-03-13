@@ -98,4 +98,4 @@
 1 Myr Kinsmith
 1 Shared Summons
 1 Totem-Guide Hartebeest
-{'overall': '7', 'cmc': 2.9393939393939394, 'ramp': '31', 'draw': '52', 'interaction': 0}
+{'overall': 21.43041237113402, 'cmc': 2.9393939393939394, 'ramp': '31', 'draw': '52', 'interaction': 0, 'folder': 'baseline', 'commander': 'CaptainSisay.txt'}

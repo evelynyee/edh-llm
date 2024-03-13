@@ -98,4 +98,4 @@
 1 Fierce Invocation
 1 Quest for Ula's Temple
 1 Flame Channeler // Embodiment of Flame
-{'overall': '5', 'cmc': 3.287878787878788, 'ramp': '11', 'draw': '19', 'interaction': 5}
+{'overall': 8.358294930875577, 'cmc': 3.287878787878788, 'ramp': '11', 'draw': '19', 'interaction': 5, 'folder': 'baseline', 'commander': 'TheTenthDoctor.txt'}

@@ -98,4 +98,4 @@
 1 Jade Seedstones // Jadeheart Attendant
 1 Wasteland Strangler
 1 Savage Order
-{'overall': '3', 'cmc': 3.696969696969697, 'ramp': '6', 'draw': '12', 'interaction': 5}
+{'overall': 5.290983606557377, 'cmc': 3.696969696969697, 'ramp': '6', 'draw': '12', 'interaction': 5, 'folder': 'baseline', 'commander': 'PippinWardenofIsengard.txt'}

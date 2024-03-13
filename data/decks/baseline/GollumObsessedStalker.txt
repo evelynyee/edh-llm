@@ -98,4 +98,4 @@
 1 Phage the Untouchable
 1 Assault Suit
 1 Hooded Blightfang
-{'overall': '1', 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '3', 'interaction': 18}
+{'overall': 2.212770562770563, 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '3', 'interaction': 18, 'folder': 'baseline', 'commander': 'GollumObsessedStalker.txt'}

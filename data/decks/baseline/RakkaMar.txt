@@ -98,4 +98,4 @@
 1 Raptor Hatchling
 1 Avacyn's Collar
 1 Valduk, Keeper of the Flame
-{'overall': '4', 'cmc': 3.287878787878788, 'ramp': '1', 'draw': '1', 'interaction': 1}
+{'overall': 1.1582949308755761, 'cmc': 3.287878787878788, 'ramp': '1', 'draw': '1', 'interaction': 1, 'folder': 'baseline', 'commander': 'RakkaMar.txt'}

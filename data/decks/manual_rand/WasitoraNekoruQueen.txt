@@ -62,8 +62,4 @@
 1 Woebringer Demon
 1 Xathrid Slyblade
 1 Vitaspore Thallid
-1 Time to Feed
-1 Éomer, Marshal of Rohan
-1 Valduk, Keeper of the Flame
-1 Varchild, Betrayer of Kjeldor
-{'overall': '5', 'cmc': 3.393939393939394, 'ramp': '3', 'draw': '4', 'interaction': 12}
+{'overall': 2.9392857142857145, 'cmc': 3.393939393939394, 'ramp': '3', 'draw': '4', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'WasitoraNekoruQueen.txt'}ramp': '3', 'draw': '4', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'WasitoraNekoruQueen.txt'}

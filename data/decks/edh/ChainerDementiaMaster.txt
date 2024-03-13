@@ -61,4 +61,4 @@
 1 Vampiric Tutor
 1 Necropotence
 1 Razaketh, the Foulblooded
-{'overall': '9', 'cmc': 3.0793650793650795, 'ramp': '13', 'draw': '12', 'interaction': 10}
+{'overall': 7.399484536082474, 'cmc': 3.0793650793650795, 'ramp': '13', 'draw': '12', 'interaction': 10, 'folder': 'edh', 'commander': 'ChainerDementiaMaster.txt'}

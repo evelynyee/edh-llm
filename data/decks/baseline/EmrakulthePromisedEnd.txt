@@ -98,4 +98,4 @@
 1 Metalwork Colossus
 1 Chimil, the Inner Sun
 1 Hewed Stone Retainers
-{'overall': '2', 'cmc': 4.384615384615385, 'ramp': '2', 'draw': '9', 'interaction': 7}
+{'overall': 3.556140350877193, 'cmc': 4.384615384615385, 'ramp': '2', 'draw': '9', 'interaction': 7, 'folder': 'baseline', 'commander': 'EmrakulthePromisedEnd.txt'}

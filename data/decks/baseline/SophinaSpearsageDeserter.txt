@@ -98,4 +98,4 @@
 1 Diamond Pick-Axe
 1 Flamewright
 1 The Battle of Bywater
-{'overall': '6', 'cmc': 2.6666666666666665, 'ramp': '18', 'draw': '25', 'interaction': 10}
+{'overall': 12.0, 'cmc': 2.6666666666666665, 'ramp': '18', 'draw': '25', 'interaction': 10, 'folder': 'baseline', 'commander': 'SophinaSpearsageDeserter.txt'}

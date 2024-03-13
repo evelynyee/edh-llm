@@ -61,4 +61,4 @@
 1 Vedalken Engineer
 1 Sudden Insight
 1 Vronos, Masked Inquisitor
-{'overall': '5', 'cmc': 4.26984126984127, 'ramp': '6', 'draw': '22', 'interaction': 9}
+{'overall': 7.918401486988848, 'cmc': 4.26984126984127, 'ramp': '6', 'draw': '22', 'interaction': 9, 'folder': 'gpt', 'commander': 'TeferiTemporalArchmage.txt'}{'overall': 7.918401486988848, 'cmc': 4.26984126984127, 'ramp': '6', 'draw': '22', 'interaction': 9, 'folder': 'gpt', 'commander': 'TeferiTemporalArchmage.txt'}

@@ -62,8 +62,4 @@
 1 Syphon Life
 1 Woe Strider
 1 Weatherlight
-1 Wayward Soul
-1 Vodalian Merchant
-1 Yawgmoth's Vile Offering
-1 Words of Wisdom
-{'overall': '4', 'cmc': 3.514705882352941, 'ramp': '4', 'draw': '27', 'interaction': 7}
+{'overall': 8.669037656903765, 'cmc': 3.514705882352941, 'ramp': '4', 'draw': '27', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HidetsuguandKairi.txt'}7', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HidetsuguandKairi.txt'}

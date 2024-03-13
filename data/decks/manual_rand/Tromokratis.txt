@@ -62,8 +62,4 @@
 1 Stonybrook Banneret
 1 Wu Admiral
 1 Wormfang Crab
-1 Wall of Shields
-1 Force of Will
-1 Teferi's Sentinel
-1 Steel Wall
-{'overall': '3', 'cmc': 3.6176470588235294, 'ramp': '3', 'draw': '11', 'interaction': 7}
+{'overall': 4.402845528455284, 'cmc': 3.6176470588235294, 'ramp': '3', 'draw': '11', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'Tromokratis.txt'}teraction': 7, 'folder': 'manual_rand', 'commander': 'Tromokratis.txt'}

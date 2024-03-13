@@ -98,4 +98,4 @@
 1 Ministrant of Obligation
 1 Debtors' Transport
 1 Knight of Doves
-{'overall': '2', 'cmc': 3.4328358208955225, 'ramp': '0', 'draw': '1', 'interaction': 2}
+{'overall': 0.9326086956521739, 'cmc': 3.4328358208955225, 'ramp': '0', 'draw': '1', 'interaction': 2, 'folder': 'baseline', 'commander': 'MarneusCalgar.txt'}

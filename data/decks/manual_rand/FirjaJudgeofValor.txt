@@ -62,8 +62,4 @@
 1 Wandering Archaic // Explore the Vastlands
 1 Voldaren Pariah // Abolisher of Bloodlines
 1 Zombie Assassin
-1 Virtus the Veiled
-1 Wishclaw Talisman
-1 Thaumatic Compass // Spires of Orazca
-1 Treasure Keeper
-{'overall': '5', 'cmc': 3.1176470588235294, 'ramp': '4', 'draw': '17', 'interaction': 6}
+{'overall': 6.191509433962264, 'cmc': 3.1176470588235294, 'ramp': '4', 'draw': '17', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'FirjaJudgeofValor.txt'}': '4', 'draw': '17', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'FirjaJudgeofValor.txt'}

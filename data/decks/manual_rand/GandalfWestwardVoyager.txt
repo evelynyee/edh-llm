@@ -62,8 +62,4 @@
 1 Visions of Dominance
 1 Transplant Theorist
 1 Unravel the Aether
-1 Thassa's Intervention
-1 Verduran Enchantress
-1 Wrenn and Seven
-1 Mana Drain
-{'overall': '6', 'cmc': 3.2388059701492535, 'ramp': '12', 'draw': '25', 'interaction': 3}
+{'overall': 10.017511520737328, 'cmc': 3.2388059701492535, 'ramp': '12', 'draw': '25', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'GandalfWestwardVoyager.txt'}teraction': 3, 'folder': 'manual_rand', 'commander': 'GandalfWestwardVoyager.txt'}

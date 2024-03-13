@@ -98,4 +98,4 @@
 1 Flowstone Mauler
 1 Rubblebelt Maaka
 1 Pyre Charger
-{'overall': '1', 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.6315789473684211, 'cmc': 3.1666666666666665, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'baseline', 'commander': 'TuknirDeathlock.txt'}

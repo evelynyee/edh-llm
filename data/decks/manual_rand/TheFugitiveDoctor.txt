@@ -62,8 +62,4 @@
 1 Warp World
 1 Tome of the Guildpact
 1 Young Red Dragon // Bathe in Gold
-1 Thunderclap
-1 Vines of Vastwood
-1 Vine Kami
-1 Wirewood Savage
-{'overall': '4', 'cmc': 3.985294117647059, 'ramp': '11', 'draw': '12', 'interaction': 10}
+{'overall': 6.751845018450185, 'cmc': 3.985294117647059, 'ramp': '11', 'draw': '12', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'TheFugitiveDoctor.txt'}: 10, 'folder': 'manual_rand', 'commander': 'TheFugitiveDoctor.txt'}

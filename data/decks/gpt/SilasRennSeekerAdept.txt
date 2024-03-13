@@ -61,4 +61,4 @@
 1 Unmask
 1 Varragoth, Bloodsky Sire
 1 Veinwitch Coven
-{'overall': '4', 'cmc': 4, 'ramp': '2', 'draw': '18', 'interaction': 8}
+{'overall': 5.9, 'cmc': 4, 'ramp': '2', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'SilasRennSeekerAdept.txt'}{'overall': 5.9, 'cmc': 4, 'ramp': '2', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'SilasRennSeekerAdept.txt'}

@@ -61,4 +61,4 @@
 1 Empowered Autogenerator
 1 Rapid Hybridization
 1 Nykthos, Shrine to Nyx
-{'overall': '7', 'cmc': 2.9206349206349205, 'ramp': '14', 'draw': '21', 'interaction': 11}
+{'overall': 9.984782608695653, 'cmc': 2.9206349206349205, 'ramp': '14', 'draw': '21', 'interaction': 11, 'folder': 'edh', 'commander': 'TekuthalInquiryDominus.txt'}

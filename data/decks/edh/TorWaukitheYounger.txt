@@ -61,4 +61,4 @@
 1 Bedevil
 1 Lightning Greaves
 1 Shivan Gorge
-{'overall': '6', 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '13', 'interaction': 14}
+{'overall': 8.508823529411764, 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '13', 'interaction': 14, 'folder': 'edh', 'commander': 'TorWaukitheYounger.txt'}

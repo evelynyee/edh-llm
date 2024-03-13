@@ -98,4 +98,4 @@
 1 Flayer of Loyalties
 1 Aegis of the Meek
 1 Crested Sunmare
-{'overall': '2', 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '2', 'interaction': 3}
+{'overall': 1.2999999999999998, 'cmc': 3.076923076923077, 'ramp': '0', 'draw': '2', 'interaction': 3, 'folder': 'baseline', 'commander': 'GwaihirGreatestoftheEagles.txt'}

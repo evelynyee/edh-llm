@@ -62,6 +62,4 @@
 1 Treasure Hunter
 1 Taranika, Akroan Veteran
 1 Vexilus Praetor
-1 Thousand-Faced Shadow
-1 Thunder Totem
-{'overall': '6', 'cmc': 3.4393939393939394, 'ramp': '8', 'draw': '11', 'interaction': 9}
+{'overall': 5.7814977973568284, 'cmc': 3.4393939393939394, 'ramp': '8', 'draw': '11', 'interaction': 9, 'folder': 'gpt', 'commander': 'FaramirStewardofGondor.txt'}'commander': 'FaramirStewardofGondor.txt'}

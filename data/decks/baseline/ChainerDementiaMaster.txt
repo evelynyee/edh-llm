@@ -98,4 +98,4 @@
 1 Grave Robbers
 1 Crawl from the Cellar
 1 Pus Kami
-{'overall': '3', 'cmc': 3.3692307692307693, 'ramp': '0', 'draw': '4', 'interaction': 9}
+{'overall': 2.043607305936073, 'cmc': 3.3692307692307693, 'ramp': '0', 'draw': '4', 'interaction': 9, 'folder': 'baseline', 'commander': 'ChainerDementiaMaster.txt'}

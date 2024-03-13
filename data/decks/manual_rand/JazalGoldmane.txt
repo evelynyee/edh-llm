@@ -62,8 +62,4 @@
 1 Veil of Assimilation
 1 Strongarm Monk
 1 Sword of War and Peace
-1 Zhalfirin Lancer
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Valorous Stance
-1 Syr Alin, the Lion's Claw
-{'overall': '3', 'cmc': 3.176470588235294, 'ramp': '4', 'draw': '4', 'interaction': 8}
+{'overall': 3.0296296296296297, 'cmc': 3.176470588235294, 'ramp': '4', 'draw': '4', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'JazalGoldmane.txt'}35294, 'ramp': '4', 'draw': '4', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'JazalGoldmane.txt'}

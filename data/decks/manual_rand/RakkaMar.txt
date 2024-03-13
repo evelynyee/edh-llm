@@ -62,8 +62,4 @@
 1 Volcanic Dragon
 1 Springjack Pasture
 1 Viashino Heretic
-1 Trailblazer's Torch
-1 Sword of Feast and Famine
-1 Spawning Bed
-1 Shiny Impetus
-{'overall': '5', 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '5', 'interaction': 14}
+{'overall': 3.901030927835052, 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '5', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'RakkaMar.txt'}'draw': '5', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'RakkaMar.txt'}

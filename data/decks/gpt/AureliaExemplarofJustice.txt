@@ -62,5 +62,4 @@
 1 Thornbite Staff
 1 Skyhunter Strike Force
 1 War Horn
-1 Warstorm Surge
-{'overall': '3', 'cmc': 2.923076923076923, 'ramp': '2', 'draw': '1', 'interaction': 9}
+{'overall': 1.8842105263157893, 'cmc': 2.923076923076923, 'ramp': '2', 'draw': '1', 'interaction': 9, 'folder': 'gpt', 'commander': 'AureliaExemplarofJustice.txt'}larofJustice.txt'}

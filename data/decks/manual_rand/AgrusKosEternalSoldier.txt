@@ -62,8 +62,4 @@
 1 Thousand Moons Smithy // Barracks of the Thousand
 1 Tapestry of the Ages
 1 Sword-Swallowing Seraph
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Vulpine Harvester
-1 Thran Turbine
-1 Tithe Taker
-{'overall': '4', 'cmc': 3.4242424242424243, 'ramp': '6', 'draw': '6', 'interaction': 13}
+{'overall': 4.234070796460177, 'cmc': 3.4242424242424243, 'ramp': '6', 'draw': '6', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}', 'draw': '6', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}

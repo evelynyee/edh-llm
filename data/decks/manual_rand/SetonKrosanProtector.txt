@@ -62,8 +62,4 @@
 1 The Hunter Maze
 1 Void Attendant
 1 Weapon Rack
-1 Wingrattle Scarecrow
-1 Wolf's Quarry
-1 Yorvo, Lord of Garenbrig
-1 Wiitigo
-{'overall': '7', 'cmc': 3.0, 'ramp': '15', 'draw': '13', 'interaction': 6}
+{'overall': 7.966666666666667, 'cmc': 3.0, 'ramp': '15', 'draw': '13', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}teraction': 6, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}

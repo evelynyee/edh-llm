@@ -98,4 +98,4 @@
 1 Tenth District Veteran
 1 Nemesis Mask
 1 Light the Way
-{'overall': '1', 'cmc': 3.523076923076923, 'ramp': '1', 'draw': '0', 'interaction': 23}
+{'overall': 1.9676855895196506, 'cmc': 3.523076923076923, 'ramp': '1', 'draw': '0', 'interaction': 23, 'folder': 'baseline', 'commander': 'SigridGodFavored.txt'}

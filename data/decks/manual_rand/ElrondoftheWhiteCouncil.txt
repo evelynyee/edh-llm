@@ -62,8 +62,4 @@
 1 Thornwatch Scarecrow
 1 Venomous Breath
 1 Xenograft
-1 Tunnel of Love
-1 Tsabo's Web
-1 Touchstone
-1 Yorvo, Lord of Garenbrig
-{'overall': '4', 'cmc': 3.2941176470588234, 'ramp': '5', 'draw': '11', 'interaction': 9}
+{'overall': 5.057142857142858, 'cmc': 3.2941176470588234, 'ramp': '5', 'draw': '11', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ElrondoftheWhiteCouncil.txt'}n': 9, 'folder': 'manual_rand', 'commander': 'ElrondoftheWhiteCouncil.txt'}

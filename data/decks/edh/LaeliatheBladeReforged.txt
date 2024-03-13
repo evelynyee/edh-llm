@@ -61,4 +61,4 @@
 1 Scavenger Grounds
 1 Shadowspear
 1 Wayfarer's Bauble
-{'overall': '7', 'cmc': 2.6031746031746033, 'ramp': '14', 'draw': '8', 'interaction': 10}
+{'overall': 6.7682926829268295, 'cmc': 2.6031746031746033, 'ramp': '14', 'draw': '8', 'interaction': 10, 'folder': 'edh', 'commander': 'LaeliatheBladeReforged.txt'}

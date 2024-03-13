@@ -62,8 +62,4 @@
 1 Triton Tactics
 1 Thing from the Deep
 1 Witches' Eye
-1 Tunnel of Love
-1 Walking Bulwark
-1 Weatherlight Compleated
-1 Thirst for Knowledge
-{'overall': '4', 'cmc': 3.735294117647059, 'ramp': '2', 'draw': '24', 'interaction': 6}
+{'overall': 7.3354330708661415, 'cmc': 3.735294117647059, 'ramp': '2', 'draw': '24', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'ImoenMysticTrickster.txt'}24', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'ImoenMysticTrickster.txt'}

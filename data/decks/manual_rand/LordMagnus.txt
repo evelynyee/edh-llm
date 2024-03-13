@@ -62,8 +62,4 @@
 1 Vitalizing Wind
 1 Weaver of Blossoms // Blossom-Clad Werewolf
 1 Woodcaller Automaton
-1 Soltari Monk
-1 Yotian Medic
-1 Thornweald Archer
-1 Vanquish
-{'overall': '3', 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 6}
+{'overall': 2.9098654708520177, 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'LordMagnus.txt'}tion': 6, 'folder': 'manual_rand', 'commander': 'LordMagnus.txt'}

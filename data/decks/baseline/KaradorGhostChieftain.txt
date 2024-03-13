@@ -98,4 +98,4 @@
 1 Sanguine Indulgence
 1 Merciless Resolve
 1 Knight of the Stampede
-{'overall': '1', 'cmc': 4.358208955223881, 'ramp': '2', 'draw': '6', 'interaction': 18}
+{'overall': 3.358904109589041, 'cmc': 4.358208955223881, 'ramp': '2', 'draw': '6', 'interaction': 18, 'folder': 'baseline', 'commander': 'KaradorGhostChieftain.txt'}

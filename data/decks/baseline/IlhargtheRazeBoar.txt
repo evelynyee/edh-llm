@@ -98,4 +98,4 @@
 1 Guild Feud
 1 Skyship Weatherlight
 1 Cragsmasher Yeti
-{'overall': '2', 'cmc': 4.43, 'ramp': '6', 'draw': '10', 'interaction': 3}
+{'overall': 4.601467268623026, 'cmc': 4.43, 'ramp': '6', 'draw': '10', 'interaction': 3, 'folder': 'baseline', 'commander': 'IlhargtheRazeBoar.txt'}

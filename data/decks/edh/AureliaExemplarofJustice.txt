@@ -61,4 +61,4 @@
 1 Venerable Warsinger
 1 Boros Reckoner
 1 Chance for Glory
-{'overall': '5', 'cmc': 2.6825396825396823, 'ramp': '9', 'draw': '3', 'interaction': 14}
+{'overall': 4.445562130177515, 'cmc': 2.6825396825396823, 'ramp': '9', 'draw': '3', 'interaction': 14, 'folder': 'edh', 'commander': 'AureliaExemplarofJustice.txt'}

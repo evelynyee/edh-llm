@@ -98,4 +98,4 @@
 1 Ironclad Revolutionary
 1 Staff of the Mind Magus
 1 Falkenrath Noble
-{'overall': '1', 'cmc': 3.287878787878788, 'ramp': '0', 'draw': '5', 'interaction': 1}
+{'overall': 1.9082949308755761, 'cmc': 3.287878787878788, 'ramp': '0', 'draw': '5', 'interaction': 1, 'folder': 'baseline', 'commander': 'ObyraDreamingDuelist.txt'}

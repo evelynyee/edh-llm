@@ -61,4 +61,4 @@
 1 Worldly Tutor
 1 Vorinclex, Voice of Hunger
 1 Selvala, Heart of the Wilds
-{'overall': '7', 'cmc': 3.1587301587301586, 'ramp': '14', 'draw': '5', 'interaction': 5}
+{'overall': 5.633165829145729, 'cmc': 3.1587301587301586, 'ramp': '14', 'draw': '5', 'interaction': 5, 'folder': 'edh', 'commander': 'MayaeltheAnima.txt'}

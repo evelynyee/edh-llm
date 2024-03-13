@@ -62,8 +62,4 @@
 1 Triad of Fates
 1 Valentin, Dean of the Vein // Lisette, Dean of the Root
 1 Treasure Hunter
-1 Tymaret, Chosen from Death
-1 Vivien, Nature's Avenger
-1 Vastwood Zendikon
-1 Wand of Denial
-{'overall': '4', 'cmc': 3.6176470588235294, 'ramp': '5', 'draw': '8', 'interaction': 9}
+{'overall': 4.252845528455285, 'cmc': 3.6176470588235294, 'ramp': '5', 'draw': '8', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ColfenortheLastYew.txt'}', 'draw': '8', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ColfenortheLastYew.txt'}

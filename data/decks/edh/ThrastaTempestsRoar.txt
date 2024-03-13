@@ -61,4 +61,4 @@
 1 Savage Summoning
 1 Circle of Dreams Druid
 1 Concordant Crossroads
-{'overall': '9', 'cmc': 2.1904761904761907, 'ramp': '22', 'draw': '17', 'interaction': 6}
+{'overall': 10.96304347826087, 'cmc': 2.1904761904761907, 'ramp': '22', 'draw': '17', 'interaction': 6, 'folder': 'edh', 'commander': 'ThrastaTempestsRoar.txt'}

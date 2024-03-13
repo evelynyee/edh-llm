@@ -61,4 +61,4 @@
 1 Zulaport Cutthroat
 1 Flameshadow Conjuring
 1 Village Rites
-{'overall': '7', 'cmc': 2.6031746031746033, 'ramp': '9', 'draw': '12', 'interaction': 8}
+{'overall': 6.41829268292683, 'cmc': 2.6031746031746033, 'ramp': '9', 'draw': '12', 'interaction': 8, 'folder': 'edh', 'commander': 'KethekCrucibleGoliath.txt'}

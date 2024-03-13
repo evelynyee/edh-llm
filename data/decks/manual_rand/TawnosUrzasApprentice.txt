@@ -62,8 +62,4 @@
 1 Task Mage Assembly
 1 Vaultbreaker
 1 Zurgo Bellstriker
-1 Thunderbreak Regent
-1 Volo, Itinerant Scholar
-1 The Blackstaff of Waterdeep
-1 Voltaic Key
-{'overall': '4', 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9}
+{'overall': 4.299118942731278, 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}raw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}

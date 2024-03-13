@@ -61,4 +61,4 @@
 1 Parallel Lives
 1 Beast Whisperer
 1 Windswept Heath
-{'overall': '8', 'cmc': 1.9841269841269842, 'ramp': '18', 'draw': '6', 'interaction': 4}
+{'overall': 7.208, 'cmc': 1.9841269841269842, 'ramp': '18', 'draw': '6', 'interaction': 4, 'folder': 'edh', 'commander': 'MyrkulLordofBones.txt'}

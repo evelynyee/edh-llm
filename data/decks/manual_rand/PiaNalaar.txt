@@ -62,8 +62,4 @@
 1 Warchief Giant
 1 Thunderhawk Gunship
 1 Volatile Arsonist // Dire-Strain Anarchist
-1 Wurmcoil Engine
-1 Wildfire Cerberus
-1 Welding Sparks
-1 Weight of Spires
-{'overall': '5', 'cmc': 3.34, 'ramp': '9', 'draw': '7', 'interaction': 15}
+{'overall': 5.348802395209581, 'cmc': 3.34, 'ramp': '9', 'draw': '7', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'PiaNalaar.txt'}'7', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'PiaNalaar.txt'}

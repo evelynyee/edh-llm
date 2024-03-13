@@ -62,8 +62,4 @@
 1 Damnation
 1 Torrent of Stone
 1 Witches' Eye
-1 Zap
-1 Wojek Embermage
-1 Verdant Catacombs
-1 Surging Flame
-{'overall': '4', 'cmc': 3.8823529411764706, 'ramp': '8', 'draw': '12', 'interaction': 23}
+{'overall': 6.665151515151516, 'cmc': 3.8823529411764706, 'ramp': '8', 'draw': '12', 'interaction': 23, 'folder': 'manual_rand', 'commander': 'OboshthePreypiercer.txt'}'folder': 'manual_rand', 'commander': 'OboshthePreypiercer.txt'}

@@ -62,4 +62,4 @@
 1 Whirling Catapult
 1 Storybook Ride
 1 Unesh, Criosphinx Sovereign
-{'overall': '5', 'cmc': 3.359375, 'ramp': '2', 'draw': '29', 'interaction': 8}
+{'overall': 8.745348837209303, 'cmc': 3.359375, 'ramp': '2', 'draw': '29', 'interaction': 8, 'folder': 'gpt', 'commander': 'GhostofRamirezDePietro.txt'}

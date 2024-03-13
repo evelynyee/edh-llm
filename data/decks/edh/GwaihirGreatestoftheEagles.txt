@@ -61,4 +61,4 @@
 1 Sigarda's Splendor
 1 Emeria, the Sky Ruin
 1 Ambitious Farmhand
-{'overall': '7', 'cmc': 2.9523809523809526, 'ramp': '7', 'draw': '12', 'interaction': 7}
+{'overall': 5.77741935483871, 'cmc': 2.9523809523809526, 'ramp': '7', 'draw': '12', 'interaction': 7, 'folder': 'edh', 'commander': 'GwaihirGreatestoftheEagles.txt'}

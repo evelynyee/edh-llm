@@ -62,8 +62,4 @@
 1 Ugin, the Ineffable
 1 Tablet of Epityr
 1 Skeleton Shard
-1 Wasp of the Bitter End
-1 Yawgmoth's Edict
-1 Unmake the Graves
-1 Unmask
-{'overall': '4', 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7}
+{'overall': 4.660224089635854, 'cmc': 3.57, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'JunjitheMidnightSky.txt'}raction': 7, 'folder': 'manual_rand', 'commander': 'JunjitheMidnightSky.txt'}

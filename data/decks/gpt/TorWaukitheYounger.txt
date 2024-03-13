@@ -62,4 +62,4 @@
 1 Ugin's Conjurant
 1 Tibalt, the Fiend-Blooded
 1 Viashino Pyromancer
-{'overall': '3', 'cmc': 3.6875, 'ramp': '4', 'draw': '5', 'interaction': 28}
+{'overall': 4.192372881355932, 'cmc': 3.6875, 'ramp': '4', 'draw': '5', 'interaction': 28, 'folder': 'gpt', 'commander': 'TorWaukitheYounger.txt'}

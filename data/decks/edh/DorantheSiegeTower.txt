@@ -61,4 +61,4 @@
 1 Reach of Branches
 1 Oathsworn Giant
 1 Path to Exile
-{'overall': '5', 'cmc': 2.6825396825396823, 'ramp': '9', 'draw': '6', 'interaction': 8}
+{'overall': 4.895562130177515, 'cmc': 2.6825396825396823, 'ramp': '9', 'draw': '6', 'interaction': 8, 'folder': 'edh', 'commander': 'DorantheSiegeTower.txt'}

@@ -61,4 +61,4 @@
 1 Temple of Plenty
 1 Cliffhaven Sell-Sword
 1 Toski, Bearer of Secrets
-{'overall': '4', 'cmc': 2.9047619047619047, 'ramp': '8', 'draw': '7', 'interaction': 6}
+{'overall': 4.738524590163935, 'cmc': 2.9047619047619047, 'ramp': '8', 'draw': '7', 'interaction': 6, 'folder': 'edh', 'commander': 'JasmineBorealoftheSeven.txt'}

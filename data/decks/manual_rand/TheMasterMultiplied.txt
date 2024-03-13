@@ -62,8 +62,4 @@
 1 Vandalblast
 1 Wall of Spears
 1 Twisted Fealty
-1 Two-Headed Sliver
-1 Wurmcoil Engine
-1 Thirsting Axe
-1 Tooth and Claw
-{'overall': '5', 'cmc': 3.1911764705882355, 'ramp': '3', 'draw': '1', 'interaction': 10}
+{'overall': 2.1267281105990783, 'cmc': 3.1911764705882355, 'ramp': '3', 'draw': '1', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'TheMasterMultiplied.txt'}tion': 10, 'folder': 'manual_rand', 'commander': 'TheMasterMultiplied.txt'}

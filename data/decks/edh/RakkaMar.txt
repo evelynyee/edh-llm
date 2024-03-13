@@ -61,4 +61,4 @@
 1 Outpost Siege
 1 Charging Cinderhorn
 1 Mind Stone
-{'overall': '8', 'cmc': 2.9523809523809526, 'ramp': '16', 'draw': '7', 'interaction': 9}
+{'overall': 6.87741935483871, 'cmc': 2.9523809523809526, 'ramp': '16', 'draw': '7', 'interaction': 9, 'folder': 'edh', 'commander': 'RakkaMar.txt'}

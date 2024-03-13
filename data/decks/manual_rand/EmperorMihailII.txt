@@ -62,8 +62,4 @@
 1 Wu Scout
 1 Trade Routes
 1 Workshop Elders
-1 Swan Song
-1 Vodalian Mystic
-1 Vesuvan Duplimancy
-1 Thaumatic Compass // Spires of Orazca
-{'overall': '5', 'cmc': 3.537313432835821, 'ramp': '5', 'draw': '26', 'interaction': 6}
+{'overall': 8.615400843881858, 'cmc': 3.537313432835821, 'ramp': '5', 'draw': '26', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'EmperorMihailII.txt'}', 'draw': '26', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'EmperorMihailII.txt'}

@@ -61,4 +61,4 @@
 1 Furycalm Snarl
 1 Terramorphic Expanse
 1 Valiant Veteran
-{'overall': '7', 'cmc': 2.1904761904761907, 'ramp': '7', 'draw': '3', 'interaction': 8}
+{'overall': 3.8130434782608695, 'cmc': 2.1904761904761907, 'ramp': '7', 'draw': '3', 'interaction': 8, 'folder': 'edh', 'commander': 'TajicBladeoftheLegion.txt'}

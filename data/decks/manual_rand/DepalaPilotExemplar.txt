@@ -62,8 +62,4 @@
 1 Two-Handed Axe // Sweeping Cleave
 1 Temporary Lockdown
 1 Vulpikeet
-1 Zabaz, the Glimmerwasp
-1 Stratadon
-1 Vindictive Flamestoker
-1 Virtue of Courage // Embereth Blaze
-{'overall': '6', 'cmc': 3.338235294117647, 'ramp': '8', 'draw': '23', 'interaction': 10}
+{'overall': 8.849118942731277, 'cmc': 3.338235294117647, 'ramp': '8', 'draw': '23', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DepalaPilotExemplar.txt'}: '8', 'draw': '23', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DepalaPilotExemplar.txt'}

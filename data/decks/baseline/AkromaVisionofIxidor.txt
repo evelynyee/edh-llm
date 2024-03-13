@@ -98,4 +98,4 @@
 1 Thraben Valiant
 1 Standing Troops
 1 Realm-Cloaked Giant // Cast Off
-{'overall': '1', 'cmc': 3.953846153846154, 'ramp': '1', 'draw': '2', 'interaction': 1}
+{'overall': 1.3058365758754864, 'cmc': 3.953846153846154, 'ramp': '1', 'draw': '2', 'interaction': 1, 'folder': 'baseline', 'commander': 'AkromaVisionofIxidor.txt'}

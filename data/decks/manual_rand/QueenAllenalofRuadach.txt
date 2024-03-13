@@ -62,8 +62,4 @@
 1 Valor Made Real
 1 Wirewood Symbiote
 1 Wolfrider's Saddle
-1 Unnatural Aggression
-1 Zealot il-Vec
-1 Yavimaya Wurm
-1 Thopter Shop
-{'overall': '4', 'cmc': 3.5588235294117645, 'ramp': '1', 'draw': '5', 'interaction': 5}
+{'overall': 2.31198347107438, 'cmc': 3.5588235294117645, 'ramp': '1', 'draw': '5', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}on': 5, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}

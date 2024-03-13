@@ -62,8 +62,4 @@
 1 Vexing Arcanix
 1 Sunset Revelry
 1 Vulpikeet
-1 Vedalken Shackles
-1 Universal Solvent
-1 War Room
-1 Urza's Miter
-{'overall': '6', 'cmc': 2.8823529411764706, 'ramp': '4', 'draw': '19', 'interaction': 12}
+{'overall': 7.043877551020408, 'cmc': 2.8823529411764706, 'ramp': '4', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'DjeruWithEyesOpen.txt'}n': 12, 'folder': 'manual_rand', 'commander': 'DjeruWithEyesOpen.txt'}

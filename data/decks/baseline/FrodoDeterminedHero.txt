@@ -98,4 +98,4 @@
 1 Paladin of Prahv
 1 Shuriken
 1 Bronze Horse
-{'overall': '3', 'cmc': 2.6818181818181817, 'ramp': '0', 'draw': '4', 'interaction': 19}
+{'overall': 2.6957627118644067, 'cmc': 2.6818181818181817, 'ramp': '0', 'draw': '4', 'interaction': 19, 'folder': 'baseline', 'commander': 'FrodoDeterminedHero.txt'}

@@ -98,4 +98,4 @@
 1 Emry, Lurker of the Loch
 1 Oona's Grace
 1 Arcane Savant
-{'overall': '2', 'cmc': 4.409090909090909, 'ramp': '4', 'draw': '14', 'interaction': 10}
+{'overall': 5.453608247422681, 'cmc': 4.409090909090909, 'ramp': '4', 'draw': '14', 'interaction': 10, 'folder': 'baseline', 'commander': 'GandalfWestwardVoyager.txt'}

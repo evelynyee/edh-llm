@@ -62,8 +62,4 @@
 1 Treacherous Blessing
 1 Voldaren Estate
 1 War Room
-1 Triassic Egg
-1 Stitch Together
-1 Weirding Shaman
-1 Urn of Godfire
-{'overall': '5', 'cmc': 3.2794117647058822, 'ramp': '9', 'draw': '10', 'interaction': 9}
+{'overall': 5.809865470852018, 'cmc': 3.2794117647058822, 'ramp': '9', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ChainerDementiaMaster.txt'}': 9, 'folder': 'manual_rand', 'commander': 'ChainerDementiaMaster.txt'}

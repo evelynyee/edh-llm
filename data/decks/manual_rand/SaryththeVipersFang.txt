@@ -62,8 +62,4 @@
 1 Viridian Longbow
 1 Workshop Warchief
 1 Walker of the Wastes
-1 Sustenance
-1 Thundersteel Colossus
-1 Tel-Jilad Defiance
-1 Territorial Maro
-{'overall': '4', 'cmc': 3.074626865671642, 'ramp': '6', 'draw': '7', 'interaction': 10}
+{'overall': 4.400485436893204, 'cmc': 3.074626865671642, 'ramp': '6', 'draw': '7', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}nteraction': 10, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}

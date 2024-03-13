@@ -61,4 +61,4 @@
 1 Irrigated Farmland
 1 Nine Lives
 1 Pendant of Prosperity
-{'overall': '7', 'cmc': 2.4126984126984126, 'ramp': '8', 'draw': '13', 'interaction': 7}
+{'overall': 6.428947368421053, 'cmc': 2.4126984126984126, 'ramp': '8', 'draw': '13', 'interaction': 7, 'folder': 'edh', 'commander': 'InniaztheGaleForce.txt'}

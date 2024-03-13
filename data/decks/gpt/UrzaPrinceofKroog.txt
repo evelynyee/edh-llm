@@ -61,4 +61,4 @@
 1 Wurmcoil Engine
 1 Tolarian Entrancer
 1 Tezzeret, Betrayer of Flesh
-{'overall': '6', 'cmc': 3.6507936507936507, 'ramp': '5', 'draw': '10', 'interaction': 9}
+{'overall': 4.747826086956522, 'cmc': 3.6507936507936507, 'ramp': '5', 'draw': '10', 'interaction': 9, 'folder': 'gpt', 'commander': 'UrzaPrinceofKroog.txt'}{'overall': 4.747826086956522, 'cmc': 3.6507936507936507, 'ramp': '5', 'draw': '10', 'interaction': 9, 'folder': 'gpt', 'commander': 'UrzaPrinceofKroog.txt'}

@@ -61,4 +61,4 @@
 1 Temple of Triumph
 1 Rugged Prairie
 1 Flawless Maneuver
-{'overall': '5', 'cmc': 3.507936507936508, 'ramp': '10', 'draw': '4', 'interaction': 10}
+{'overall': 4.570135746606335, 'cmc': 3.507936507936508, 'ramp': '10', 'draw': '4', 'interaction': 10, 'folder': 'edh', 'commander': 'DjeruandHazoret.txt'}

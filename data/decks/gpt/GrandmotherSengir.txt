@@ -61,4 +61,4 @@
 1 Shadowspear
 1 Demonic Tutor
 1 Vengeful Strangler // Strangling Grasp
-{'overall': '5', 'cmc': 3.253968253968254, 'ramp': '2', 'draw': '6', 'interaction': 11}
+{'overall': 3.164634146341464, 'cmc': 3.253968253968254, 'ramp': '2', 'draw': '6', 'interaction': 11, 'folder': 'gpt', 'commander': 'GrandmotherSengir.txt'}{'overall': 3.164634146341464, 'cmc': 3.253968253968254, 'ramp': '2', 'draw': '6', 'interaction': 11, 'folder': 'gpt', 'commander': 'GrandmotherSengir.txt'}

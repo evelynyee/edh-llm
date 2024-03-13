@@ -61,4 +61,4 @@
 1 Steel Overseer
 1 Lightning Greaves
 1 Polluted Delta
-{'overall': '9', 'cmc': 2.5238095238095237, 'ramp': '8', 'draw': '15', 'interaction': 6}
+{'overall': 6.842452830188679, 'cmc': 2.5238095238095237, 'ramp': '8', 'draw': '15', 'interaction': 6, 'folder': 'edh', 'commander': 'SilasRennSeekerAdept.txt'}

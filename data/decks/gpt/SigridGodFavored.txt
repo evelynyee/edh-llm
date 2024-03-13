@@ -62,5 +62,4 @@
 1 Thornbite Staff
 1 Teyo's Lightshield
 1 Tawnos's Coffin
-1 War Screecher
-{'overall': '5', 'cmc': 3.1846153846153844, 'ramp': '7', 'draw': '5', 'interaction': 8}
+{'overall': 4.028019323671498, 'cmc': 3.1846153846153844, 'ramp': '7', 'draw': '5', 'interaction': 8, 'folder': 'gpt', 'commander': 'SigridGodFavored.txt'}dGodFavored.txt'}

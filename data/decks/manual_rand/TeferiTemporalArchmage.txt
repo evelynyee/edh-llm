@@ -62,8 +62,4 @@
 1 Teferi, Mage of Zhalfir
 1 Vizier of the Anointed
 1 Workshop Assistant
-1 Talas Researcher
-1 Cyclonic Rift
-1 Tidings
-1 Thumbscrews
-{'overall': '4', 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '27', 'interaction': 3}
+{'overall': 7.759865470852018, 'cmc': 3.2794117647058822, 'ramp': '1', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'TeferiTemporalArchmage.txt'}der': 'manual_rand', 'commander': 'TeferiTemporalArchmage.txt'}

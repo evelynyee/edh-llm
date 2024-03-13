@@ -61,4 +61,4 @@
 1 Great Furnace
 1 Conqueror's Galleon
 1 Path of Ancestry
-{'overall': '6', 'cmc': 2.4285714285714284, 'ramp': '9', 'draw': '10', 'interaction': 7}
+{'overall': 5.923529411764705, 'cmc': 2.4285714285714284, 'ramp': '9', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'DepalaPilotExemplar.txt'}

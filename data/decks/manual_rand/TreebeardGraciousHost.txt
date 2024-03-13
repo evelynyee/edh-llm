@@ -62,8 +62,4 @@
 1 Untamed Kavu
 1 Wildwood Mentor
 1 Ventifact Bottle
-1 Ulvenwald Mysteries
-1 Wrenn and Seven
-1 The Millennium Calendar
-1 Tributary Instructor
-{'overall': '5', 'cmc': 3.1911764705882355, 'ramp': '8', 'draw': '16', 'interaction': 14}
+{'overall': 7.3267281105990785, 'cmc': 3.1911764705882355, 'ramp': '8', 'draw': '16', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'TreebeardGraciousHost.txt'}: '16', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'TreebeardGraciousHost.txt'}

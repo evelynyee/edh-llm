@@ -98,4 +98,4 @@
 1 Resurrection
 1 False Defeat
 1 Breath of Life
-{'overall': '1', 'cmc': 3.769230769230769, 'ramp': '3', 'draw': '3', 'interaction': 4}
+{'overall': 2.2306122448979595, 'cmc': 3.769230769230769, 'ramp': '3', 'draw': '3', 'interaction': 4, 'folder': 'baseline', 'commander': 'SamwisetheStouthearted.txt'}

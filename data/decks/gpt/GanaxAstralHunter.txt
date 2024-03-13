@@ -62,5 +62,4 @@
 1 Spinal Parasite
 1 Street Urchin
 1 Throne of Makindi
-1 Tablet of the Guilds
-{'overall': '7', 'cmc': 2.9692307692307693, 'ramp': '16', 'draw': '6', 'interaction': 17}
+{'overall': 7.023575129533678, 'cmc': 2.9692307692307693, 'ramp': '16', 'draw': '6', 'interaction': 17, 'folder': 'gpt', 'commander': 'GanaxAstralHunter.txt'}'GanaxAstralHunter.txt'}

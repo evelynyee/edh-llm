@@ -62,8 +62,4 @@
 1 Tezzeret, Artifice Master
 1 Tetravus
 1 Veil of Secrecy
-1 Zulaport Cutthroat
-1 Whalebone Glider
-1 Weeping Angel
-1 Stromgald Cabal
-{'overall': '6', 'cmc': 3.4411764705882355, 'ramp': '2', 'draw': '22', 'interaction': 10}
+{'overall': 7.081196581196581, 'cmc': 3.4411764705882355, 'ramp': '2', 'draw': '22', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ElendaandAzor.txt'} 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ElendaandAzor.txt'}

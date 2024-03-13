@@ -62,8 +62,4 @@
 1 Spiked Pit Trap
 1 Thatcher Revolt
 1 Stadium Vendors
-1 Viridian Longbow
-1 Sword of the Meek
-1 Chaos Warp
-1 Vessel of Endless Rest
-{'overall': '6', 'cmc': 3.1176470588235294, 'ramp': '10', 'draw': '6', 'interaction': 11}
+{'overall': 5.191509433962264, 'cmc': 3.1176470588235294, 'ramp': '10', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}'interaction': 11, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}

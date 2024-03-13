@@ -98,4 +98,4 @@
 1 Tetravus
 1 Ugin, the Ineffable
 1 Gideon's Phalanx
-{'overall': '3', 'cmc': 4.184615384615385, 'ramp': '3', 'draw': '11', 'interaction': 9}
+{'overall': 4.427941176470588, 'cmc': 4.184615384615385, 'ramp': '3', 'draw': '11', 'interaction': 9, 'folder': 'baseline', 'commander': 'RegnatheRedeemer.txt'}

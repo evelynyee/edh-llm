@@ -62,8 +62,4 @@
 1 Withercrown
 1 Yarok's Fenlurker
 1 Whispering Snitch
-1 Woe Strider
-1 Visage of Dread // Dread Osseosaur
-1 Uchuulon
-1 Tributary Instructor
-{'overall': '4', 'cmc': 3.338235294117647, 'ramp': '2', 'draw': '7', 'interaction': 9}
+{'overall': 3.299118942731278, 'cmc': 3.338235294117647, 'ramp': '2', 'draw': '7', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ChevillBaneofMonsters.txt'}'7', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ChevillBaneofMonsters.txt'}

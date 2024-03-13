@@ -62,8 +62,4 @@
 1 Vithian Stinger
 1 Thraben Doomsayer
 1 Three Blind Mice
-1 Whipflare
-1 Mentor of the Meek
-1 Warbeast of Gorgoroth
-1 Sorcerer's Broom
-{'overall': '6', 'cmc': 3.0588235294117645, 'ramp': '4', 'draw': '13', 'interaction': 17}
+{'overall': 5.753846153846154, 'cmc': 3.0588235294117645, 'ramp': '4', 'draw': '13', 'interaction': 17, 'folder': 'manual_rand', 'commander': 'SophinaSpearsageDeserter.txt'}tion': 17, 'folder': 'manual_rand', 'commander': 'SophinaSpearsageDeserter.txt'}

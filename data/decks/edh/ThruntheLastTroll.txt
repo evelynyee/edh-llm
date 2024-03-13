@@ -61,4 +61,4 @@
 1 Garruk, Primal Hunter
 1 Setessan Champion
 1 Ring of Kalonia
-{'overall': '6', 'cmc': 2.6825396825396823, 'ramp': '13', 'draw': '14', 'interaction': 6}
+{'overall': 7.795562130177514, 'cmc': 2.6825396825396823, 'ramp': '13', 'draw': '14', 'interaction': 6, 'folder': 'edh', 'commander': 'ThruntheLastTroll.txt'}

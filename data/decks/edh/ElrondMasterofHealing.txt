@@ -61,4 +61,4 @@
 1 Cryptic Annelid
 1 Council's Deliberation
 1 Rishkar, Peema Renegade
-{'overall': '7', 'cmc': 2.2063492063492065, 'ramp': '11', 'draw': '16', 'interaction': 2}
+{'overall': 7.756474820143884, 'cmc': 2.2063492063492065, 'ramp': '11', 'draw': '16', 'interaction': 2, 'folder': 'edh', 'commander': 'ElrondMasterofHealing.txt'}

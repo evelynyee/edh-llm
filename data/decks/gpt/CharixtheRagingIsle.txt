@@ -61,4 +61,4 @@
 1 Thassa's Emissary
 1 War Room
 1 Turn Aside
-{'overall': '5', 'cmc': 3.3773584905660377, 'ramp': '3', 'draw': '14', 'interaction': 13}
+{'overall': 5.492178770949721, 'cmc': 3.3773584905660377, 'ramp': '3', 'draw': '14', 'interaction': 13, 'folder': 'gpt', 'commander': 'CharixtheRagingIsle.txt'}{'overall': 5.492178770949721, 'cmc': 3.3773584905660377, 'ramp': '3', 'draw': '14', 'interaction': 13, 'folder': 'gpt', 'commander': 'CharixtheRagingIsle.txt'}

@@ -62,8 +62,4 @@
 1 Wirewood Guardian
 1 Trove Warden
 1 Wall of Runes
-1 Tezzeret's Gatebreaker
-1 Warden of Evos Isle
-1 Zhulodok, Void Gorger
-1 Vorinclex // The Grand Evolution
-{'overall': '5', 'cmc': 3.676470588235294, 'ramp': '14', 'draw': '20', 'interaction': 5}
+{'overall': 9.294, 'cmc': 3.676470588235294, 'ramp': '14', 'draw': '20', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IsutheAbominable.txt'}4, 'ramp': '14', 'draw': '20', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IsutheAbominable.txt'}

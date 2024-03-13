@@ -62,7 +62,4 @@
 1 Thunderwolf Cavalry
 1 War Priest of Thune
 1 Tragic Arrogance
-1 Thraben Doomsayer
-1 Tawnos's Coffin
-1 Temple of the Dragon Queen
-{'overall': '6', 'cmc': 3.08955223880597, 'ramp': '11', 'draw': '10', 'interaction': 8}
+{'overall': 6.297342995169083, 'cmc': 3.08955223880597, 'ramp': '11', 'draw': '10', 'interaction': 8, 'folder': 'gpt', 'commander': 'YoshimaruEverFaithful.txt'}action': 8, 'folder': 'gpt', 'commander': 'YoshimaruEverFaithful.txt'}

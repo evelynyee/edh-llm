@@ -61,4 +61,4 @@
 1 Treasonous Ogre
 1 Aurelia's Fury
 1 Reverberate
-{'overall': '6', 'cmc': 2.9523809523809526, 'ramp': '11', 'draw': '5', 'interaction': 22}
+{'overall': 5.77741935483871, 'cmc': 2.9523809523809526, 'ramp': '11', 'draw': '5', 'interaction': 22, 'folder': 'edh', 'commander': 'FiresongandSunspeaker.txt'}

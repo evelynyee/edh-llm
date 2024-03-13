@@ -98,4 +98,4 @@
 1 Nobilis of War
 1 Veteran Armorer
 1 Blessed Orator
-{'overall': '3', 'cmc': 3.1159420289855073, 'ramp': '0', 'draw': '1', 'interaction': 0}
+{'overall': 0.891860465116279, 'cmc': 3.1159420289855073, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'baseline', 'commander': 'SliverLegion.txt'}

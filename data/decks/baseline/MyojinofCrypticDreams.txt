@@ -98,4 +98,4 @@
 1 The Moment
 1 Energy Chamber
 1 Baku Altar
-{'overall': '5', 'cmc': 3.1846153846153844, 'ramp': '3', 'draw': '6', 'interaction': 9}
+{'overall': 3.328019323671498, 'cmc': 3.1846153846153844, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'baseline', 'commander': 'MyojinofCrypticDreams.txt'}

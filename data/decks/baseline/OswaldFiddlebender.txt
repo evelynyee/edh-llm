@@ -98,4 +98,4 @@
 1 Ranger-Captain of Eos
 1 Soul Foundry
 1 Eye of Yawgmoth
-{'overall': '8', 'cmc': 3.1940298507462686, 'ramp': '7', 'draw': '20', 'interaction': 4}
+{'overall': 7.576168224299066, 'cmc': 3.1940298507462686, 'ramp': '7', 'draw': '20', 'interaction': 4, 'folder': 'baseline', 'commander': 'OswaldFiddlebender.txt'}

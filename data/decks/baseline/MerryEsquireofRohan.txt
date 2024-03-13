@@ -98,4 +98,4 @@
 1 Urza's Avenger
 1 Vow of Lightning
 1 Grand Master of Flowers
-{'overall': '1', 'cmc': 3.196969696969697, 'ramp': '0', 'draw': '5', 'interaction': 1}
+{'overall': 1.9255924170616114, 'cmc': 3.196969696969697, 'ramp': '0', 'draw': '5', 'interaction': 1, 'folder': 'baseline', 'commander': 'MerryEsquireofRohan.txt'}

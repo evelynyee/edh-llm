@@ -98,4 +98,4 @@
 1 Ashnod's Intervention
 1 Protective Parents
 1 Crime // Punishment
-{'overall': '2', 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '7', 'interaction': 9}
+{'overall': 3.2677966101694915, 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '7', 'interaction': 9, 'folder': 'baseline', 'commander': 'ColfenortheLastYew.txt'}

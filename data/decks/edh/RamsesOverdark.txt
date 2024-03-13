@@ -61,4 +61,4 @@
 1 Aura Finesse
 1 Solemn Simulacrum
 1 Thoughtrender Lamia
-{'overall': '6', 'cmc': 2.142857142857143, 'ramp': '6', 'draw': '11', 'interaction': 4}
+{'overall': 5.383333333333334, 'cmc': 2.142857142857143, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'edh', 'commander': 'RamsesOverdark.txt'}

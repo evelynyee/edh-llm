@@ -61,4 +61,4 @@
 1 Bloodfell Caves
 1 Vandalblast
 1 Foreboding Ruins
-{'overall': '5', 'cmc': 2.5873015873015874, 'ramp': '8', 'draw': '7', 'interaction': 8}
+{'overall': 4.9230061349693255, 'cmc': 2.5873015873015874, 'ramp': '8', 'draw': '7', 'interaction': 8, 'folder': 'edh', 'commander': 'NehebtheWorthy.txt'}

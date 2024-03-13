@@ -61,4 +61,4 @@
 1 Sign in Blood
 1 Exotic Orchard
 1 Druid Class
-{'overall': '7', 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '6', 'interaction': 3}
+{'overall': 5.26896551724138, 'cmc': 2.3015873015873014, 'ramp': '11', 'draw': '6', 'interaction': 3, 'folder': 'edh', 'commander': 'DinaSoulSteeper.txt'}

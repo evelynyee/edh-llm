@@ -62,8 +62,4 @@
 1 Zof Consumption // Zof Bloodbog
 1 Unforgiving One
 1 Warren Weirding
-1 Whitesun's Passage
-1 Supply Drop
-1 Sunstrike Legionnaire
-1 Thunderhawk Gunship
-{'overall': '4', 'cmc': 3.323529411764706, 'ramp': '0', 'draw': '9', 'interaction': 14}
+{'overall': 3.551769911504425, 'cmc': 3.323529411764706, 'ramp': '0', 'draw': '9', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ElasilKorSadisticPilgrim.txt'}teraction': 14, 'folder': 'manual_rand', 'commander': 'ElasilKorSadisticPilgrim.txt'}

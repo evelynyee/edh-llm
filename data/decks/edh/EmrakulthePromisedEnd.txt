@@ -61,4 +61,4 @@
 1 Reality Smasher
 1 Ugin's Nexus
 1 Spawning Bed
-{'overall': '6', 'cmc': 4.476190476190476, 'ramp': '16', 'draw': '14', 'interaction': 15}
+{'overall': 8.696808510638299, 'cmc': 4.476190476190476, 'ramp': '16', 'draw': '14', 'interaction': 15, 'folder': 'edh', 'commander': 'EmrakulthePromisedEnd.txt'}

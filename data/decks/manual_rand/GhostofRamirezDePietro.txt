@@ -62,8 +62,4 @@
 1 Tormod's Crypt
 1 Syr Elenora, the Discerning
 1 Wizened Snitches
-1 Tezzeret, Cruel Machinist
-1 Whim of Volrath
-1 Thieving Magpie
-1 Tidal Bore
-{'overall': '4', 'cmc': 3.6323529411764706, 'ramp': '8', 'draw': '25', 'interaction': 7}
+{'overall': 9.150607287449393, 'cmc': 3.6323529411764706, 'ramp': '8', 'draw': '25', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GhostofRamirezDePietro.txt'}eraction': 7, 'folder': 'manual_rand', 'commander': 'GhostofRamirezDePietro.txt'}

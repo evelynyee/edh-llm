@@ -98,4 +98,4 @@
 1 High Sentinels of Arashin
 1 Hexavus
 1 Moriok Rigger
-{'overall': '1', 'cmc': 3.0303030303030303, 'ramp': '0', 'draw': '3', 'interaction': 1}
+{'overall': 1.4600000000000002, 'cmc': 3.0303030303030303, 'ramp': '0', 'draw': '3', 'interaction': 1, 'folder': 'baseline', 'commander': 'BartolomédelPresidio.txt'}

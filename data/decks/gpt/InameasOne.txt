@@ -44,7 +44,7 @@
 1 Voice of Many
 1 Up the Beanstalk
 1 Throne of the Grim Captain // The Grim Captain
-1 Troll of Khazad-dûm
+1 Troll of Khazad-dm
 1 Whisper, Blood Liturgist
 1 Thran Foundry
 1 Zendikar Resurgent
@@ -61,4 +61,4 @@
 1 Sylvan Scrying
 1 Sorin's Guide
 1 Birds of Paradise
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'InameasOne.txt'}{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'InameasOne.txt'}

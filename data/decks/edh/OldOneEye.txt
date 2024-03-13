@@ -61,4 +61,4 @@
 1 Gigantosaurus
 1 War Room
 1 Selvala, Heart of the Wilds
-{'overall': '7', 'cmc': 3.365079365079365, 'ramp': '21', 'draw': '22', 'interaction': 6}
+{'overall': 11.64433962264151, 'cmc': 3.365079365079365, 'ramp': '21', 'draw': '22', 'interaction': 6, 'folder': 'edh', 'commander': 'OldOneEye.txt'}

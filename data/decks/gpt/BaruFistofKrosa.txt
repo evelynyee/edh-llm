@@ -62,6 +62,4 @@
 1 Wallop
 1 Zelyon Sword
 1 Toymaker
-1 Tyrite Sanctum
-1 Venomous Brutalizer
-{'overall': '6', 'cmc': 3.8484848484848486, 'ramp': '9', 'draw': '7', 'interaction': 10}
+{'overall': 5.019685039370079, 'cmc': 3.8484848484848486, 'ramp': '9', 'draw': '7', 'interaction': 10, 'folder': 'gpt', 'commander': 'BaruFistofKrosa.txt'}gpt', 'commander': 'BaruFistofKrosa.txt'}

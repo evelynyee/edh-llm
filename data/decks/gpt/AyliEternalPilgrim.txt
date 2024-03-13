@@ -62,4 +62,4 @@
 1 Triskaidekaphobia
 1 Wretched Anurid
 1 Wretched Camel
-{'overall': '5', 'cmc': 3.078125, 'ramp': '6', 'draw': '10', 'interaction': 17}
+{'overall': 5.499746192893401, 'cmc': 3.078125, 'ramp': '6', 'draw': '10', 'interaction': 17, 'folder': 'gpt', 'commander': 'AyliEternalPilgrim.txt'}

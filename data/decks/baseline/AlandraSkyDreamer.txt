@@ -98,4 +98,4 @@
 1 Commence the Endgame
 1 Fraying Sanity
 1 Obyra's Attendants // Desperate Parry
-{'overall': '4', 'cmc': 3.769230769230769, 'ramp': '2', 'draw': '26', 'interaction': 7}
+{'overall': 7.880612244897959, 'cmc': 3.769230769230769, 'ramp': '2', 'draw': '26', 'interaction': 7, 'folder': 'baseline', 'commander': 'AlandraSkyDreamer.txt'}

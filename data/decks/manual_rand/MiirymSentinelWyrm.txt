@@ -62,8 +62,4 @@
 1 Wolf's Quarry
 1 Vigean Hydropon
 1 Zurzoth, Chaos Rider
-1 Viridian Revel
-1 Turn // Burn
-1 Swarming of Moria
-1 Wu Elite Cavalry
-{'overall': '5', 'cmc': 3.656716417910448, 'ramp': '7', 'draw': '6', 'interaction': 8}
+{'overall': 4.196938775510204, 'cmc': 3.656716417910448, 'ramp': '7', 'draw': '6', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'MiirymSentinelWyrm.txt'}action': 8, 'folder': 'manual_rand', 'commander': 'MiirymSentinelWyrm.txt'}
