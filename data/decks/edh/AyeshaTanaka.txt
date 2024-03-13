@@ -61,4 +61,4 @@
 1 Kjeldoran Phalanx
 1 Knights of Thorn
 1 Brainstorm
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '4', 'cmc': 2.33, 'ramp': '8', 'draw': '7', 'interaction': 6}

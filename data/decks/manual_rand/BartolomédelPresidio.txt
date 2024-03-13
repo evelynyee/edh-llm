@@ -66,4 +66,4 @@
 1 Warped Landscape
 1 Vat of Rebirth
 1 Take Up the Shield
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '6', 'cmc': 3.08, 'ramp': '5', 'draw': '11', 'interaction': 12}

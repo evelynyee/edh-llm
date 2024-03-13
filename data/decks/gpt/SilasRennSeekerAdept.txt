@@ -55,10 +55,10 @@
 1 Well of Lost Dreams
 1 Voda Sea Scavenger
 1 Wash Away
-1 Troll of Khazad-dûm
+1 Troll of Khazad-dum
 1 Yawgmoth's Agenda
 1 Thought Collapse
 1 Unmask
 1 Varragoth, Bloodsky Sire
 1 Veinwitch Coven
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '4', 'cmc': 4, 'ramp': '2', 'draw': '18', 'interaction': 8}

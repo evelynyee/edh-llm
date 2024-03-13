@@ -98,4 +98,4 @@
 1 Urza's Engine
 1 Vivien of the Arkbow
 1 Cockatrice
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '1', 'cmc': 3.94, 'ramp': '0', 'draw': '1', 'interaction': 13}

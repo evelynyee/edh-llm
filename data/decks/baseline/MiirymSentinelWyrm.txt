@@ -98,4 +98,4 @@
 1 Loot Dispute
 1 Conscripted Infantry
 1 Feywild Trickster
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.98, 'ramp': '0', 'draw': '1', 'interaction': 2}

@@ -98,4 +98,4 @@
 1 Scroll Thief
 1 Embermaw Hellion
 1 Nine-Tail White Fox
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.55, 'ramp': '0', 'draw': '16', 'interaction': 22}

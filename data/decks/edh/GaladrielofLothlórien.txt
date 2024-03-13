@@ -61,4 +61,4 @@
 1 Legolas, Counter of Kills
 1 Swan Song
 1 Sigiled Starfish
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '6', 'cmc': 1.95, 'ramp': '9', 'draw': '15', 'interaction': 5}

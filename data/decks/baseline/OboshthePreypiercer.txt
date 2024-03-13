@@ -98,4 +98,4 @@
 1 Unholy Heat
 1 Indomitable Creativity
 1 Molten Collapse
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '2', 'cmc': 4.05, 'ramp': '4', 'draw': '15', 'interaction': 23}

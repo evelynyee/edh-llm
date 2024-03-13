@@ -66,4 +66,4 @@
 1 Wildfire Cerberus
 1 Welding Sparks
 1 Weight of Spires
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '5', 'cmc': 3.34, 'ramp': '9', 'draw': '7', 'interaction': 15}

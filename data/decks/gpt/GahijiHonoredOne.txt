@@ -25,7 +25,7 @@
 1 Wrangle
 1 Wicker Warcrawler
 1 Vintara Elephant
-1 Théoden, King of Rohan
+1 Theoden, King of Rohan
 1 Yosei, the Morning Star
 1 Trapjaw Tyrant
 1 Valorous Charge
@@ -61,4 +61,4 @@
 1 Warden of the Woods
 1 Warrior's Stand
 1 Territorial Witchstalker
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '4', 'cmc': 3.08, 'ramp': '6', 'draw': '4', 'interaction': 7}

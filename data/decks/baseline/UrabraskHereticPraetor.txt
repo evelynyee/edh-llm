@@ -98,4 +98,4 @@
 1 Surreal Memoir
 1 Underworld Breach
 1 Muse Vessel
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.49, 'ramp': '5', 'draw': '18', 'interaction': 2}

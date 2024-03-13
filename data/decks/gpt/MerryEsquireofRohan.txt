@@ -37,7 +37,7 @@
 1 Sword of Vengeance
 1 Tectonic Rift
 1 Stoneforge Masterwork
-1 Éowyn, Fearless Knight
+1 Eowyn, Fearless Knight
 1 Tormentor's Trident
 1 Warlord's Fury
 1 Wedding Invitation
@@ -65,4 +65,4 @@
 1 Wayward Angel
 1 Vanquisher's Banner
 1 Viashino Weaponsmith
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '3', 'cmc': 3.71, 'ramp': '1', 'draw': '9', 'interaction': 11}

@@ -98,4 +98,4 @@
 1 Jousting Dummy
 1 Belbe's Armor
 1 Puffer Extract
-{'overall': '1', 'cmc': 0, 'ramp': '0', 'draw': '0', 'interaction': 0}
+{'overall': '1', 'cmc': 2.67, 'ramp': '0', 'draw': '0', 'interaction': 2}
