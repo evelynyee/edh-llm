@@ -62,8 +62,4 @@
 1 Sliversmith
 1 Ulvenwald Oddity // Ulvenwald Behemoth
 1 Unholy Citadel
-1 Thrashing Mossdog
-1 Wolf's Quarry
-1 Welding Jar
-1 Vitaspore Thallid
-{'overall': 3.2875494071146245, 'cmc': 3.7205882352941178, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}
+{'overall': 3.2875494071146245, 'cmc': 3.7205882352941178, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}eraction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}

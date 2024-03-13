@@ -62,8 +62,4 @@
 1 Workshop Warchief
 1 Tribal Forcemage
 1 Wrenn and Realmbreaker
-1 Warmonger's Chariot
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Triumph of the Hordes
-1 Vivien, Nature's Avenger
-{'overall': 3.478723404255319, 'cmc': 3.4558823529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}
+{'overall': 3.478723404255319, 'cmc': 3.4558823529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}23529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}

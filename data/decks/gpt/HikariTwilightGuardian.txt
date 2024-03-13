@@ -62,5 +62,4 @@
 1 Sword of Once and Future
 1 Teshar, Ancestor's Apostle
 1 Venerated Loxodon
-1 Wayfarer's Bauble
-{'overall': 5.4200483091787435, 'cmc': 3.5084745762711864, 'ramp': '8', 'draw': '10', 'interaction': 7, 'folder': 'gpt', 'commander': 'HikariTwilightGuardian.txt'}
+{'overall': 5.4200483091787435, 'cmc': 3.5084745762711864, 'ramp': '8', 'draw': '10', 'interaction': 7, 'folder': 'gpt', 'commander': 'HikariTwilightGuardian.txt'}wilightGuardian.txt'}

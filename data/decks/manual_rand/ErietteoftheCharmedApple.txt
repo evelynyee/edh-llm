@@ -62,8 +62,4 @@
 1 Spring-Loaded Sawblades // Bladewheel Chariot
 1 You Hear Something on Watch
 1 Touch of the Eternal
-1 The Battle of Bywater
-1 Wretched Confluence
-1 Vizier of the True
-1 Veteran Cavalier
-{'overall': 4.571004566210045, 'cmc': 3.2205882352941178, 'ramp': '2', 'draw': '11', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ErietteoftheCharmedApple.txt'}
+{'overall': 4.571004566210045, 'cmc': 3.2205882352941178, 'ramp': '2', 'draw': '11', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ErietteoftheCharmedApple.txt'}, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ErietteoftheCharmedApple.txt'}

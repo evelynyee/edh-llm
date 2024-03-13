@@ -62,8 +62,4 @@
 1 Whippoorwill
 1 Storybook Ride
 1 Timely Reinforcements
-1 Voodoo Doll
-1 The One Ring
-1 Terashi's Cry
-1 Spark Rupture
-{'overall': 4.604663212435233, 'cmc': 2.838235294117647, 'ramp': '5', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}
+{'overall': 4.604663212435233, 'cmc': 2.838235294117647, 'ramp': '5', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}lder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}

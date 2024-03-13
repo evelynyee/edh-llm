@@ -61,4 +61,4 @@
 1 Thornbite Staff
 1 Zodiac Tiger
 1 The Chain Veil
-{'overall': 5.8175675675675675, 'cmc': 3.5238095238095237, 'ramp': '9', 'draw': '10', 'interaction': 10, 'folder': 'gpt', 'commander': 'ThrastaTempestsRoar.txt'}
+{'overall': 5.8175675675675675, 'cmc': 3.5238095238095237, 'ramp': '9', 'draw': '10', 'interaction': 10, 'folder': 'gpt', 'commander': 'ThrastaTempestsRoar.txt'}{'overall': 5.8175675675675675, 'cmc': 3.5238095238095237, 'ramp': '9', 'draw': '10', 'interaction': 10, 'folder': 'gpt', 'commander': 'ThrastaTempestsRoar.txt'}

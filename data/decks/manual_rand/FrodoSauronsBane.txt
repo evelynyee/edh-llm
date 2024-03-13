@@ -62,8 +62,4 @@
 1 Unwilling Ingredient
 1 Warp Artifact
 1 Wingmate Roc
-1 The Torment of Gollum
-1 Dark Ritual
-1 Topan Freeblade
-1 Witch Engine
-{'overall': 3.3767281105990783, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}
+{'overall': 3.3767281105990783, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}raction': 10, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}

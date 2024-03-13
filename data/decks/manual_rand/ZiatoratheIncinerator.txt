@@ -62,8 +62,4 @@
 1 Welcome to . . . // Jurassic Park
 1 Throne of Empires
 1 Whisper, Blood Liturgist
-1 Zopandrel, Hunger Dominus
-1 Thornbite Staff
-1 Windswift Slice
-1 Unforgiving One
-{'overall': 5.396938775510204, 'cmc': 3.656716417910448, 'ramp': '5', 'draw': '10', 'interaction': 22, 'folder': 'manual_rand', 'commander': 'ZiatoratheIncinerator.txt'}
+{'overall': 5.396938775510204, 'cmc': 3.656716417910448, 'ramp': '5', 'draw': '10', 'interaction': 22, 'folder': 'manual_rand', 'commander': 'ZiatoratheIncinerator.txt'} 'interaction': 22, 'folder': 'manual_rand', 'commander': 'ZiatoratheIncinerator.txt'}

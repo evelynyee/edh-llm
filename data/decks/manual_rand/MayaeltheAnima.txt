@@ -62,8 +62,4 @@
 1 Wear // Tear
 1 Travel Through Caradhras
 1 Xenagos, the Reveler
-1 Voracious Typhon
-1 Wandering Champion
-1 Storm the Festival
-1 Sylvan Scrying
-{'overall': 7.799180327868853, 'cmc': 3.6417910447761193, 'ramp': '11', 'draw': '16', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}
+{'overall': 7.799180327868853, 'cmc': 3.6417910447761193, 'ramp': '11', 'draw': '16', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}6', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}

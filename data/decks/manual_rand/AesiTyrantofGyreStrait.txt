@@ -62,8 +62,4 @@
 1 Voidmage Husher
 1 Trail of Crumbs
 1 Thought Prison
-1 Sol Ring
-1 Wood Elves
-1 Wear Away
-1 Vizier of Tumbling Sands
-{'overall': 10.13968253968254, 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}
+{'overall': 10.13968253968254, 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}

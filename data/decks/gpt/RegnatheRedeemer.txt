@@ -62,6 +62,4 @@
 1 Zephyrim
 1 Unassuming Sage
 1 Tamiyo's Journal
-1 Watcher of the Roost
-1 Vexing Puzzlebox
-{'overall': 6.114138817480719, 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7, 'folder': 'gpt', 'commander': 'RegnatheRedeemer.txt'}
+{'overall': 6.114138817480719, 'cmc': 3.89, 'ramp': '7', 'draw': '14', 'interaction': 7, 'folder': 'gpt', 'commander': 'RegnatheRedeemer.txt'} 'gpt', 'commander': 'RegnatheRedeemer.txt'}

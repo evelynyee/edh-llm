@@ -62,8 +62,4 @@
 1 Skeleton Key
 1 Ulcerate
 1 Wurm's Tooth
-1 Tithing Blade // Consuming Sepulcher
-1 Tsabo's Decree
-1 Whirling Catapult
-1 Damnation
-{'overall': 2.918181818181818, 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}
+{'overall': 2.918181818181818, 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}: '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}

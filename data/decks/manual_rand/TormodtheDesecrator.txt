@@ -62,8 +62,4 @@
 1 Writ of Return
 1 Volrath's Laboratory
 1 Wondrous Crucible
-1 Wirefly Hive
-1 Wurmcoil Engine
-1 Synapse Necromage
-1 Worry Beads
-{'overall': 4.746184738955823, 'cmc': 3.661764705882353, 'ramp': '7', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}
+{'overall': 4.746184738955823, 'cmc': 3.661764705882353, 'ramp': '7', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}n': 4, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}

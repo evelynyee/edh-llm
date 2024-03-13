@@ -62,8 +62,4 @@
 1 Vital Surge
 1 Well of Lost Dreams
 1 Vernal Equinox
-1 Tuinvale Treefolk // Oaken Boon
-1 Treefolk Umbra
-1 Soul's Might
-1 Squallmonger
-{'overall': 4.188744588744589, 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}
+{'overall': 4.188744588744589, 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}

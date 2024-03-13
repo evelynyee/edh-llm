@@ -62,6 +62,4 @@
 1 Vedalken Shackles
 1 Thundersteel Colossus
 1 Vraska, Scheming Gorgon
-1 Teferi's Sentinel
-1 Vraska's Conquistador
-{'overall': 3.0945945945945947, 'cmc': 3.3636363636363638, 'ramp': '5', 'draw': '3', 'interaction': 10, 'folder': 'gpt', 'commander': 'ZhangHeWeiGeneral.txt'}
+{'overall': 3.0945945945945947, 'cmc': 3.3636363636363638, 'ramp': '5', 'draw': '3', 'interaction': 10, 'folder': 'gpt', 'commander': 'ZhangHeWeiGeneral.txt'}: 'gpt', 'commander': 'ZhangHeWeiGeneral.txt'}

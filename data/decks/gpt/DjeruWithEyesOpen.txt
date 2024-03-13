@@ -62,7 +62,4 @@
 1 Sphere of Law
 1 Sword of Light and Shadow
 1 Sword of War and Peace
-1 Sword of Feast and Famine
-1 Sword of Fire and Ice
-1 Stonehewer Giant
-{'overall': 8.029107981220656, 'cmc': 3.1791044776119404, 'ramp': '10', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'DjeruWithEyesOpen.txt'}
+{'overall': 8.029107981220656, 'cmc': 3.1791044776119404, 'ramp': '10', 'draw': '18', 'interaction': 8, 'folder': 'gpt', 'commander': 'DjeruWithEyesOpen.txt'}, 'interaction': 8, 'folder': 'gpt', 'commander': 'DjeruWithEyesOpen.txt'}

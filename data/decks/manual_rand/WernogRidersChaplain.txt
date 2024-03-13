@@ -62,8 +62,4 @@
 1 Virtus's Maneuver
 1 Undead Augur
 1 Triumphant Surge
-1 Thrull Parasite
-1 Treasure Chest
-1 Warped Devotion
-1 Wedding Ring
-{'overall': 4.900717703349282, 'cmc': 3.073529411764706, 'ramp': '2', 'draw': '13', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}
+{'overall': 4.900717703349282, 'cmc': 3.073529411764706, 'ramp': '2', 'draw': '13', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}': 10, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}

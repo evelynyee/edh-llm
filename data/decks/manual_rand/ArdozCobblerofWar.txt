@@ -62,8 +62,4 @@
 1 Yotia Declares War
 1 Wall of Fire
 1 Thunderkin Awakener
-1 Well of Life
-1 Warpath
-1 Scytheclaw
-1 Tibalt, the Fiend-Blooded
-{'overall': 3.3884976525821595, 'cmc': 3.1323529411764706, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}
+{'overall': 3.3884976525821595, 'cmc': 3.1323529411764706, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}n': 10, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}

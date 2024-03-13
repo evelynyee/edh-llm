@@ -62,8 +62,4 @@
 1 Venerable Monk
 1 Volrath's Laboratory
 1 Steelshaper's Gift
-1 Voyager Staff
-1 Spectral Steel
-1 Thraben Sentry // Thraben Militia
-1 Vanquisher's Banner
-{'overall': 7.855555555555555, 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}
+{'overall': 7.855555555555555, 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}

@@ -62,8 +62,4 @@
 1 Turn Aside
 1 Waterlogged Hulk // Watertight Gondola
 1 Test of Talents
-1 Whir of Invention
-1 Vanquish the Horde
-1 The Underworld Cookbook
-1 Wicker Picker
-{'overall': 4.603759398496241, 'cmc': 3.970149253731343, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}
+{'overall': 4.603759398496241, 'cmc': 3.970149253731343, 'ramp': '3', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}2', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}

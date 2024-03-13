@@ -62,8 +62,4 @@
 1 Tolarian Geyser
 1 Veinwitch Coven
 1 Mind Stone
-1 Urborg Repossession
-1 Vineshaper Prodigy
-1 Trinisphere
-1 Wild Leotau
-{'overall': 8.122649572649573, 'cmc': 3.4925373134328357, 'ramp': '11', 'draw': '17', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}
+{'overall': 8.122649572649573, 'cmc': 3.4925373134328357, 'ramp': '11', 'draw': '17', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}ion': 11, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}

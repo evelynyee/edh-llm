@@ -62,7 +62,4 @@
 1 Verduran Enchantress
 1 Whitewater Naiads
 1 Voidmage Husher
-1 Toymaker
-1 Verdant Mastery
-1 Wandering Archaic // Explore the Vastlands
-{'overall': 9.731746031746031, 'cmc': 3.7611940298507465, 'ramp': '9', 'draw': '26', 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondMasterofHealing.txt'}
+{'overall': 9.731746031746031, 'cmc': 3.7611940298507465, 'ramp': '9', 'draw': '26', 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondMasterofHealing.txt'} 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondMasterofHealing.txt'}

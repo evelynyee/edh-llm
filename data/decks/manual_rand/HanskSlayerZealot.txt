@@ -62,8 +62,4 @@
 1 Straw Golem
 1 Urza's Rage
 1 Ugin's Nexus
-1 Wrathful Raptors
-1 Thorn Lieutenant
-1 Vexing Devil
-1 Tibalt, the Fiend-Blooded
-{'overall': 8.323853211009174, 'cmc': 3.2058823529411766, 'ramp': '12', 'draw': '14', 'interaction': 24, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}
+{'overall': 8.323853211009174, 'cmc': 3.2058823529411766, 'ramp': '12', 'draw': '14', 'interaction': 24, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}4', 'interaction': 24, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}

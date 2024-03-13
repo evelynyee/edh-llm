@@ -62,8 +62,4 @@
 1 Silver Scrutiny
 1 Tamiyo's Logbook
 1 Ward of Bones
-1 Sol Ring
-1 Wave Elemental
-1 Well of Knowledge
-1 Timesifter
-{'overall': 8.095555555555556, 'cmc': 3.3582089552238807, 'ramp': '7', 'draw': '22', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}
+{'overall': 8.095555555555556, 'cmc': 3.3582089552238807, 'ramp': '7', 'draw': '22', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}

@@ -62,8 +62,4 @@
 1 Vithian Stinger
 1 Viridian Longbow
 1 Warbeast of Gorgoroth
-1 Stitcher's Apprentice
-1 Thing in the Ice // Awoken Horror
-1 Transmogrifying Licid
-1 Whirlermaker
-{'overall': 5.183690987124463, 'cmc': 3.426470588235294, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaheelitheSunsBrilliance.txt'}
+{'overall': 5.183690987124463, 'cmc': 3.426470588235294, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaheelitheSunsBrilliance.txt'}, 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaheelitheSunsBrilliance.txt'}

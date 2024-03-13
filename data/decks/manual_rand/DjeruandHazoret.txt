@@ -62,8 +62,4 @@
 1 Vithian Stinger
 1 Surging Sentinels
 1 The Moment
-1 Temporary Truce
-1 Weapon Rack
-1 Words of Worship
-1 _____ Goblin
-{'overall': 6.532558139534884, 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}
+{'overall': 6.532558139534884, 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}tion': 8, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}

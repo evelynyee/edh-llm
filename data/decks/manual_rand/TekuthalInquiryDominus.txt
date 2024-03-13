@@ -62,8 +62,4 @@
 1 Snaremaster Sprite
 1 Surrakar Spellblade
 1 Thraben Gargoyle // Stonewing Antagonizer
-1 Triton Tactics
-1 The Golden Throne
-1 Spell Rupture
-1 Tezzeret, Betrayer of Flesh
-{'overall': 9.029107981220658, 'cmc': 3.1791044776119404, 'ramp': '13', 'draw': '19', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TekuthalInquiryDominus.txt'}
+{'overall': 9.029107981220658, 'cmc': 3.1791044776119404, 'ramp': '13', 'draw': '19', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TekuthalInquiryDominus.txt'}, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TekuthalInquiryDominus.txt'}

@@ -62,7 +62,4 @@
 1 Voldaren Pariah // Abolisher of Bloodlines
 1 Triarch Praetorian
 1 Writ of Return
-1 You Find the Villains' Lair
-1 Whispers of Emrakul
-1 Ugin, the Ineffable
-{'overall': 7.042920353982301, 'cmc': 3.373134328358209, 'ramp': '3', 'draw': '21', 'interaction': 9, 'folder': 'gpt', 'commander': 'SharuumtheHegemon.txt'}
+{'overall': 7.042920353982301, 'cmc': 3.373134328358209, 'ramp': '3', 'draw': '21', 'interaction': 9, 'folder': 'gpt', 'commander': 'SharuumtheHegemon.txt'}21', 'interaction': 9, 'folder': 'gpt', 'commander': 'SharuumtheHegemon.txt'}

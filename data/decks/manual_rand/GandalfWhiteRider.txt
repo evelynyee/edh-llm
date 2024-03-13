@@ -62,8 +62,4 @@
 1 Spire Golem
 1 Vulshok Gauntlets
 1 Wedding Ring
-1 Silent Sentinel
-1 Wandering Champion
-1 Witch Hunter
-1 You Hear Something on Watch
-{'overall': 5.636206896551724, 'cmc': 3.411764705882353, 'ramp': '6', 'draw': '12', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}
+{'overall': 5.636206896551724, 'cmc': 3.411764705882353, 'ramp': '6', 'draw': '12', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'} '12', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}

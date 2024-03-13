@@ -62,8 +62,4 @@
 1 Scuttling Butler
 1 Taranika, Akroan Veteran
 1 Warmonger's Chariot
-1 Tuinvale Guide
-1 Soltari Lancer
-1 Zhang Fei, Fierce Warrior
-1 Veteran's Reflexes
-{'overall': 1.9296296296296298, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}
+{'overall': 1.9296296296296298, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}

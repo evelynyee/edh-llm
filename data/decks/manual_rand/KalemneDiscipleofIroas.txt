@@ -62,8 +62,4 @@
 1 Timely Ward
 1 Triumph of Gerrard
 1 Subterranean Spirit
-1 Sword of Once and Future
-1 Whipcorder
-1 Warmonger's Chariot
-1 Street Spasm
-{'overall': 3.400717703349282, 'cmc': 3.073529411764706, 'ramp': '3', 'draw': '4', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'KalemneDiscipleofIroas.txt'}
+{'overall': 3.400717703349282, 'cmc': 3.073529411764706, 'ramp': '3', 'draw': '4', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'KalemneDiscipleofIroas.txt'}raction': 20, 'folder': 'manual_rand', 'commander': 'KalemneDiscipleofIroas.txt'}

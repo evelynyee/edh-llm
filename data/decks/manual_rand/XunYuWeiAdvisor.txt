@@ -62,8 +62,4 @@
 1 Walk the Plank
 1 Triangle of War
 1 Vraska's Conquistador
-1 Witch-king, Bringer of Ruin
-1 Xathrid Demon
-1 Whispering Shade
-1 Stalking Bloodsucker
-{'overall': 1.0942307692307691, 'cmc': 3.1044776119402986, 'ramp': '1', 'draw': '0', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'XunYuWeiAdvisor.txt'}
+{'overall': 1.0942307692307691, 'cmc': 3.1044776119402986, 'ramp': '1', 'draw': '0', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'XunYuWeiAdvisor.txt'} 'draw': '0', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'XunYuWeiAdvisor.txt'}

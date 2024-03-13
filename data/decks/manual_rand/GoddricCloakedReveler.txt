@@ -62,8 +62,4 @@
 1 Volcanic Wind
 1 Yavimaya Steelcrusher
 1 Viashino Shanktail
-1 Blasphemous Act
-1 Tawnos's Wand
-1 Wandering Goblins
-1 The Hive
-{'overall': 3.443886462882096, 'cmc': 3.3676470588235294, 'ramp': '5', 'draw': '4', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'GoddricCloakedReveler.txt'}
+{'overall': 3.443886462882096, 'cmc': 3.3676470588235294, 'ramp': '5', 'draw': '4', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'GoddricCloakedReveler.txt'}2, 'folder': 'manual_rand', 'commander': 'GoddricCloakedReveler.txt'}

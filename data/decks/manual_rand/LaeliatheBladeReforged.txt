@@ -62,8 +62,4 @@
 1 Walking Skyscraper
 1 Storm Cauldron
 1 Tavern Brawler
-1 Smuggler's Buggy
-1 Spellgorger Barbarian
-1 Weary Prisoner // Wrathful Jailbreaker
-1 The Prismatic Piper
-{'overall': 7.904444444444445, 'cmc': 3.3088235294117645, 'ramp': '12', 'draw': '15', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}
+{'overall': 7.904444444444445, 'cmc': 3.3088235294117645, 'ramp': '12', 'draw': '15', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}p': '12', 'draw': '15', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}

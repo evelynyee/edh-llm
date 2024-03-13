@@ -62,8 +62,4 @@
 1 Wingbeat Warrior
 1 Time Beetle
 1 Toils of Night and Day
-1 Well of Life
-1 Wash Away
-1 Voidwalk
-1 Vanquish the Horde
-{'overall': 3.7896825396825395, 'cmc': 3.7058823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'RaffWeatherlightStalwart.txt'}
+{'overall': 3.7896825396825395, 'cmc': 3.7058823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'RaffWeatherlightStalwart.txt'}r': 'manual_rand', 'commander': 'RaffWeatherlightStalwart.txt'}

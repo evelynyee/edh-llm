@@ -62,8 +62,4 @@
 1 Wear // Tear
 1 Volcanic Vision
 1 Waterfront Bouncer
-1 Visage of Bolas
-1 Unbound Flourishing
-1 Trumpeting Herd
-1 Lightning Bolt
-{'overall': 6.079644268774703, 'cmc': 3.7761194029850746, 'ramp': '4', 'draw': '17', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}
+{'overall': 6.079644268774703, 'cmc': 3.7761194029850746, 'ramp': '4', 'draw': '17', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}'interaction': 6, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}

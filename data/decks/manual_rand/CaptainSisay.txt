@@ -62,8 +62,4 @@
 1 Vexing Puzzlebox
 1 Weird Harvest
 1 Vine Dryad
-1 Wingsteed Rider
-1 Woodland Changeling
-1 Vine Gecko
-1 Waxmane Baku
-{'overall': 7.748387096774194, 'cmc': 3.6470588235294117, 'ramp': '9', 'draw': '19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'CaptainSisay.txt'}
+{'overall': 7.748387096774194, 'cmc': 3.6470588235294117, 'ramp': '9', 'draw': '19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'CaptainSisay.txt'}teraction': 4, 'folder': 'manual_rand', 'commander': 'CaptainSisay.txt'}

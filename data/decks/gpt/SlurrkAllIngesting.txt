@@ -62,7 +62,4 @@
 1 Wildgrowth Walker
 1 Woodland Champion
 1 Verdant Mastery
-1 Wandering Stream
-1 Thriving Rhino
-1 Vine Gecko
-{'overall': 7.9372727272727275, 'cmc': 4.104477611940299, 'ramp': '13', 'draw': '15', 'interaction': 9, 'folder': 'gpt', 'commander': 'SlurrkAllIngesting.txt'}
+{'overall': 7.9372727272727275, 'cmc': 4.104477611940299, 'ramp': '13', 'draw': '15', 'interaction': 9, 'folder': 'gpt', 'commander': 'SlurrkAllIngesting.txt'}lder': 'gpt', 'commander': 'SlurrkAllIngesting.txt'}

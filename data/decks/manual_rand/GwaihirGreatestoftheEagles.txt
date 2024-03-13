@@ -62,8 +62,4 @@
 1 Zealous Inquisitor
 1 White Knight
 1 Sting, the Glinting Dagger
-1 Trenching Steed
-1 Wedding Announcement // Wedding Festivity
-1 Take Up the Shield
-1 Troubled Healer
-{'overall': 2.7733668341708544, 'cmc': 2.970149253731343, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}
+{'overall': 2.7733668341708544, 'cmc': 2.970149253731343, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}

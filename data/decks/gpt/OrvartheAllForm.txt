@@ -62,5 +62,4 @@
 1 Thassa, God of the Sea
 1 Spell Swindle
 1 Venser, Shaper Savant
-1 Vedalken Archmage
-{'overall': 6.072687224669604, 'cmc': 3.4923076923076923, 'ramp': '3', 'draw': '17', 'interaction': 10, 'folder': 'gpt', 'commander': 'OrvartheAllForm.txt'}
+{'overall': 6.072687224669604, 'cmc': 3.4923076923076923, 'ramp': '3', 'draw': '17', 'interaction': 10, 'folder': 'gpt', 'commander': 'OrvartheAllForm.txt'}OrvartheAllForm.txt'}

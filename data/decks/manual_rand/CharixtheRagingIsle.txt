@@ -62,8 +62,4 @@
 1 The Stasis Coffin
 1 Synod Artificer
 1 Teller of Tales
-1 Voltaic Construct
-1 Tezzeret, Cruel Machinist
-1 Transmogrifying Licid
-1 Skittering Cicada
-{'overall': 2.843886462882096, 'cmc': 3.3676470588235294, 'ramp': '0', 'draw': '8', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'CharixtheRagingIsle.txt'}
+{'overall': 2.843886462882096, 'cmc': 3.3676470588235294, 'ramp': '0', 'draw': '8', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'CharixtheRagingIsle.txt'} 'draw': '8', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'CharixtheRagingIsle.txt'}

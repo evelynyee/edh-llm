@@ -62,5 +62,4 @@
 1 Strangle
 1 Scab-Clan Berserker
 1 Witch Hunt
-1 Trip Noose
-{'overall': 2.532959641255605, 'cmc': 3.4307692307692306, 'ramp': '2', 'draw': '0', 'interaction': 29, 'folder': 'gpt', 'commander': 'GimliCounterofKills.txt'}
+{'overall': 2.532959641255605, 'cmc': 3.4307692307692306, 'ramp': '2', 'draw': '0', 'interaction': 29, 'folder': 'gpt', 'commander': 'GimliCounterofKills.txt'}rofKills.txt'}

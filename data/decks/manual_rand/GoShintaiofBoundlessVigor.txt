@@ -62,8 +62,4 @@
 1 Turntimber Sower
 1 Yisan, the Wanderer Bard
 1 Woodland Wanderer
-1 Wheel of Torture
-1 Thundering Mightmare
-1 Voldaren Estate
-1 Tunnel of Love
-{'overall': 5.823853211009174, 'cmc': 3.2058823529411766, 'ramp': '8', 'draw': '12', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GoShintaiofBoundlessVigor.txt'}
+{'overall': 5.823853211009174, 'cmc': 3.2058823529411766, 'ramp': '8', 'draw': '12', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GoShintaiofBoundlessVigor.txt'}ction': 4, 'folder': 'manual_rand', 'commander': 'GoShintaiofBoundlessVigor.txt'}

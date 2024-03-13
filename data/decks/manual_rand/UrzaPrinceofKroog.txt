@@ -62,8 +62,4 @@
 1 Zephyr Sprite
 1 Summoning Station
 1 Wall of Kelp
-1 Valkyrie's Sword
-1 Venser, the Sojourner
-1 Yarok's Wavecrasher
-1 Wormfang Drake
-{'overall': 3.7618721461187214, 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}
+{'overall': 3.7618721461187214, 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}'5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}

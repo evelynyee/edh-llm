@@ -62,8 +62,4 @@
 1 Witness Protection
 1 Wand of the Elements
 1 Voidmage Prodigy
-1 Waterkin Shaman
-1 Urza, Powerstone Prodigy
-1 Spellweaver Eternal
-1 Synchronized Eviction
-{'overall': 8.073853211009174, 'cmc': 3.2058823529411766, 'ramp': '5', 'draw': '24', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'}
+{'overall': 8.073853211009174, 'cmc': 3.2058823529411766, 'ramp': '5', 'draw': '24', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'} 'draw': '24', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'}

@@ -62,7 +62,4 @@
 1 Tyrranax Atrocity
 1 Xenk, Paladin Unbroken
 1 Teyo's Lightshield
-1 Toymaker
-1 Will of the All-Hunter
-1 Tribute to the World Tree
-{'overall': 3.3455555555555554, 'cmc': 3.3582089552238807, 'ramp': '3', 'draw': '5', 'interaction': 15, 'folder': 'gpt', 'commander': 'BessSoulNourisher.txt'}
+{'overall': 3.3455555555555554, 'cmc': 3.3582089552238807, 'ramp': '3', 'draw': '5', 'interaction': 15, 'folder': 'gpt', 'commander': 'BessSoulNourisher.txt'}action': 15, 'folder': 'gpt', 'commander': 'BessSoulNourisher.txt'}

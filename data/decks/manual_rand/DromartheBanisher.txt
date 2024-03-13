@@ -62,8 +62,4 @@
 1 Windrider Wizard
 1 Uninvited Geist // Unimpeded Trespasser
 1 Tourach's Canticle
-1 Treasure Cruise
-1 Whispers of Emrakul
-1 Whirlwind Denial
-1 Zephyr Scribe
-{'overall': 8.600896860986547, 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}
+{'overall': 8.600896860986547, 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}nteraction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}

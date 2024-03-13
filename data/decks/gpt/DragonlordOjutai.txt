@@ -62,5 +62,4 @@
 1 Wandering Champion
 1 Thada Adel, Acquisitor
 1 Vex
-1 Warden of the Inner Sky
-{'overall': 12.072687224669604, 'cmc': 3.4923076923076923, 'ramp': '8', 'draw': '37', 'interaction': 5, 'folder': 'gpt', 'commander': 'DragonlordOjutai.txt'}
+{'overall': 12.072687224669604, 'cmc': 3.4923076923076923, 'ramp': '8', 'draw': '37', 'interaction': 5, 'folder': 'gpt', 'commander': 'DragonlordOjutai.txt'}r': 'DragonlordOjutai.txt'}

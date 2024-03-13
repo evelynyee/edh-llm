@@ -62,5 +62,4 @@
 1 Traveling Minister
 1 Wildfire Cerberus
 1 Vial of Poison
-1 Twinblade Paladin
-{'overall': 4.310328638497652, 'cmc': 3.276923076923077, 'ramp': '4', 'draw': '8', 'interaction': 14, 'folder': 'gpt', 'commander': 'KalemneDiscipleofIroas.txt'}
+{'overall': 4.310328638497652, 'cmc': 3.276923076923077, 'ramp': '4', 'draw': '8', 'interaction': 14, 'folder': 'gpt', 'commander': 'KalemneDiscipleofIroas.txt'}DiscipleofIroas.txt'}

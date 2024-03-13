@@ -62,8 +62,4 @@
 1 Wallop
 1 Wilderness Reclamation
 1 Titanic Brawl
-1 Wild Mammoth
-1 Sorrow's Path
-1 Spiked Ripsaw
-1 Strength in Numbers
-{'overall': 2.5738532110091743, 'cmc': 3.2058823529411766, 'ramp': '2', 'draw': '3', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}
+{'overall': 2.5738532110091743, 'cmc': 3.2058823529411766, 'ramp': '2', 'draw': '3', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}ion': 14, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}

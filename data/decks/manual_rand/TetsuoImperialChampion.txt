@@ -62,8 +62,4 @@
 1 Volshe Tideturner
 1 Wandering Archaic // Explore the Vastlands
 1 Tezzeret, Master of the Bridge
-1 Transgress the Mind
-1 Stratadon
-1 Volcanic Awakening
-1 Triassic Egg
-{'overall': 5.5755244755244755, 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}
+{'overall': 5.5755244755244755, 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}

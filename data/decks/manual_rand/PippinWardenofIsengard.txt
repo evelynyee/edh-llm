@@ -62,8 +62,4 @@
 1 Tributary Instructor
 1 Zopandrel, Hunger Dominus
 1 _____ _____ Rocketship
-1 Vastwood Surge
-1 Vicious Offering
-1 Wildborn Preserver
-1 Tawnos's Coffin
-{'overall': 6.421428571428571, 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}
+{'overall': 6.421428571428571, 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}action': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}

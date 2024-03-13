@@ -62,8 +62,4 @@
 1 Warden of Evos Isle
 1 Tooth of Chiss-Goria
 1 Vantress Transmuter // Croaking Curse
-1 Tolarian Kraken
-1 Twitch
-1 Summoner's Bane
-1 Tale's End
-{'overall': 5.526728110599079, 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}
+{'overall': 5.526728110599079, 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}

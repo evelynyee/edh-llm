@@ -62,8 +62,4 @@
 1 Vraska's Stoneglare
 1 Watcher of the Roost
 1 Words of Waste
-1 Vile Manifestation
-1 Titanic Bulvox
-1 Wren's Run Hydra
-1 Torgaar, Famine Incarnate
-{'overall': 6.05936329588015, 'cmc': 3.926470588235294, 'ramp': '2', 'draw': '19', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}
+{'overall': 6.05936329588015, 'cmc': 3.926470588235294, 'ramp': '2', 'draw': '19', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}19', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}

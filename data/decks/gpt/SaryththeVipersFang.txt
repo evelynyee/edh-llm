@@ -62,7 +62,4 @@
 1 Vial of Poison
 1 Sustenance
 1 Wandering Troubadour
-1 Wildwood Mentor
-1 Thicket Basilisk
-1 Vine Dryad
-{'overall': 4.429107981220657, 'cmc': 3.1791044776119404, 'ramp': '8', 'draw': '5', 'interaction': 11, 'folder': 'gpt', 'commander': 'SaryththeVipersFang.txt'}
+{'overall': 4.429107981220657, 'cmc': 3.1791044776119404, 'ramp': '8', 'draw': '5', 'interaction': 11, 'folder': 'gpt', 'commander': 'SaryththeVipersFang.txt'}lder': 'gpt', 'commander': 'SaryththeVipersFang.txt'}

@@ -62,8 +62,4 @@
 1 Vine Dryad
 1 Wild Wanderer
 1 Zombie Apocalypse
-1 Undertaker
-1 Zoetic Cavern
-1 Visions of Dread
-1 Titania, Nature's Force
-{'overall': 8.499180327868851, 'cmc': 3.6417910447761193, 'ramp': '12', 'draw': '19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'InameasOne.txt'}
+{'overall': 8.499180327868851, 'cmc': 3.6417910447761193, 'ramp': '12', 'draw': '19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'InameasOne.txt'}19', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'InameasOne.txt'}

@@ -62,7 +62,4 @@
 1 Swords to Plowshares
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
 1 Urabrask's Forge
-1 Tilonalli's Skinshifter
-1 Worthy Cause
-1 Warcry Phoenix
-{'overall': 6.736510263929619, 'cmc': 3.41, 'ramp': '6', 'draw': '16', 'interaction': 13, 'folder': 'gpt', 'commander': 'SophinaSpearsageDeserter.txt'}
+{'overall': 6.736510263929619, 'cmc': 3.41, 'ramp': '6', 'draw': '16', 'interaction': 13, 'folder': 'gpt', 'commander': 'SophinaSpearsageDeserter.txt'}'folder': 'gpt', 'commander': 'SophinaSpearsageDeserter.txt'}

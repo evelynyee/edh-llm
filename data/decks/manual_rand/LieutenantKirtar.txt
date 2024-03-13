@@ -62,8 +62,4 @@
 1 Vengeance
 1 Torch Gauntlet
 1 Twinblade Geist // Twinblade Invocation
-1 Skyline Scout
-1 Warrior en-Kor
-1 Tormod's Crypt
-1 Sephara, Sky's Blade
-{'overall': 4.265789473684211, 'cmc': 2.7941176470588234, 'ramp': '4', 'draw': '8', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LieutenantKirtar.txt'}
+{'overall': 4.265789473684211, 'cmc': 2.7941176470588234, 'ramp': '4', 'draw': '8', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LieutenantKirtar.txt'}teraction': 11, 'folder': 'manual_rand', 'commander': 'LieutenantKirtar.txt'}

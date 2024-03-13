@@ -62,8 +62,4 @@
 1 You're Ambushed on the Road
 1 Toralf, God of Fury // Toralf's Hammer
 1 Takeno's Cavalry
-1 War Flare
-1 Mind Stone
-1 Sunspear Shikari
-1 Starlight Spectacular
-{'overall': 3.4302030456852792, 'cmc': 2.9402985074626864, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MerryEsquireofRohan.txt'}
+{'overall': 3.4302030456852792, 'cmc': 2.9402985074626864, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MerryEsquireofRohan.txt'}on': 5, 'folder': 'manual_rand', 'commander': 'MerryEsquireofRohan.txt'}

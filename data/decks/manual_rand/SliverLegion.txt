@@ -62,8 +62,4 @@
 1 Zephyr Sprite
 1 Vulshok Heartstoker
 1 Vastwood Hydra
-1 Vastwood Fortification // Vastwood Thicket
-1 Wee Champion
-1 White Sun's Twilight
-1 Tromp the Domains
-{'overall': 2.194549763033175, 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}
+{'overall': 2.194549763033175, 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}5883, 'ramp': '1', 'draw': '4', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}

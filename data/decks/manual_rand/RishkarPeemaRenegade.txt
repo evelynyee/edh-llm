@@ -62,8 +62,4 @@
 1 Sporesower Thallid
 1 Timbermare
 1 The Tabernacle at Pendrell Vale
-1 Sphere of the Suns
-1 Thallid
-1 Thundering Mightmare
-1 Strip Mine
-{'overall': 6.847435897435898, 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}
+{'overall': 6.847435897435898, 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}

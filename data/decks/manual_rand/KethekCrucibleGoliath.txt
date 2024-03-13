@@ -62,8 +62,4 @@
 1 Sojourner's Companion
 1 Uba Mask
 1 Throat Slitter
-1 Undying Flames
-1 _____ Balls of Fire
-1 Stolen Strategy
-1 Thresher Lizard
-{'overall': 5.959670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}
+{'overall': 5.959670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}raction': 8, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}

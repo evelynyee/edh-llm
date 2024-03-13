@@ -62,8 +62,4 @@
 1 Tower Defense
 1 Tel-Jilad Defiance
 1 Urza's Incubator
-1 Warden of the Woods
-1 Webspinner Cuff
-1 Thran Power Suit
-1 Thunderstaff
-{'overall': 4.278723404255319, 'cmc': 3.4558823529411766, 'ramp': '6', 'draw': '8', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}
+{'overall': 4.278723404255319, 'cmc': 3.4558823529411766, 'ramp': '6', 'draw': '8', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}nteraction': 4, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}
