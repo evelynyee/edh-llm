@@ -2,5 +2,6 @@ title: EDH-LLM
 description: Using NLP techniques to build card game decks
 layout: default
 remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: true
 plugins:
 - jekyll-remote-theme

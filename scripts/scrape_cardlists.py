@@ -14,26 +14,44 @@ from unidecode import unidecode
 DATA_PATH = os.path.abspath(os.path.join('..','data'))
 CARDLISTS_PATH = os.path.join(DATA_PATH,'edhreclists.pkl')
 
-def format_card_name(commander_name:str):
+def format_card_name(card_name:str):
+    """
+    Formats a card name to be used in a URL for querying from EDHREC.
+    """
+    first_card = card_name.split("//")[0].strip() # If the card is a split card, only use the first card
     non_alphas_regex = "[^\w\s-]" # Remove everything that's not alphanumeric or space or hyphen
-    formatted_name = re.sub(non_alphas_regex, "", commander_name)
+    formatted_name = unidecode(first_card) # remove diacritics
+    formatted_name = re.sub(non_alphas_regex, "", formatted_name)
     formatted_name = formatted_name.lower() # Make lowercase
     formatted_name = formatted_name.replace(" ", "-")  # Replace spaces with hyphens
     formatted_name = re.sub(r"-+", "-", formatted_name) # do not have multiple hyphens
-    formatted_name = unidecode(formatted_name) # remove diacritics
     # print(f"In format_commander_name and formatted name is {formatted_name}")
     return formatted_name
 
-def request_json(name:str, is_commander):
+def request_json(name:str, is_commander, redirect=''):
+    """
+    Request JSON data from EDHREC for a card.
+
+    Parameters:
+    - name: card name
+    - is_commander: boolean indicating whether the card is a commander
+    - redirect: string indicating a redirect URL (optional)
+    """
     formatted_name = format_card_name(name)
-    json_url = f"https://json.edhrec.com/pages/{'commanders' if is_commander else 'cards'}/{formatted_name}.json"
+    if redirect:
+        print(f"Redirected to {redirect}")
+        json_url = f"https://json.edhrec.com/pages{redirect}.json"
+    else:
+        json_url = f"https://json.edhrec.com/pages/{'commanders' if is_commander else 'cards'}/{formatted_name}.json"
     response = requests.get(json_url)
     if response.status_code == 200:
         json_data = response.json()
+        if 'redirect' in json_data:
+            return request_json(name, is_commander,redirect=json_data['redirect'])
         # print(f"JSON request successful!")
         return json_data
     else:
-        print(f"JSON request for {name} failed! Try different card name")
+        print(f"JSON request for \"{name}\" ({formatted_name}) failed! Try different card name")
 
 def main():
     lists = {}

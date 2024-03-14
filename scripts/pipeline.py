@@ -23,16 +23,35 @@ BUILT_PATH = os.path.join(DATA_PATH, "decks",'gpt')
 POWER_PATH = os.path.join(BUILT_PATH, "power")
 
 def load_data(fp):
+    """
+    Reads in data.
+
+    :param fp: filepath of data stored in pickle
+    :returns: data stored in pickle
+    """
     with open(fp, "rb") as f:
         data = pickle.load(f)
     return data
 
 def tokenize(text):
+    """
+    Tokenizes text.
+
+    :param text: text to tokenize
+    :returns: tokenized text
+    """
     to_remove = stopwords.words("english")+list(punctuation)
     return [x for x in word_tokenize(text.lower()) if x not in to_remove]
 
 def clean_data(cards, commanders):
-    #filtering out non-legal cards in commander
+    """
+    Performs multiple transformations on data, such as filtering, tokenizing text, and extracting keywords.
+    
+    :param cards: DataFrame containing information of each non-commander card, such as name, text, and color
+    :param commanders: DataFrame containing information of each commander card, such as name, text, and color
+    :returns: tuple containing all cleaned data, cleaned non-commander card data, and cleaned commander data
+    """
+    # filtering out non-legal cards in commander
     legal = pd.read_csv('../data/cardLegalities.csv').loc[:,['commander', 'uuid']]
     cards = cards.merge(legal,on='uuid')
     cards = cards[cards['commander'] == 'Legal']
@@ -53,9 +72,21 @@ def clean_data(cards, commanders):
     return cards_clean, commander_texts, card_texts
 
 def train_model(cards_clean):
+    """
+    Trains Word2Vec model on card text.
+    
+    :param cards_clean: cleaned DataFrame containing information on all cards
+    :returns: trained Word2Vec model
+    """
     return Word2Vec(sentences=cards_clean["tokenized"])
 
 def save_decks(results_df, fp):
+    """
+    Saves decks to pickles.
+    
+    :param results_df: decks to save
+    :param fp: filepath to save decks to
+    """
     pd.DataFrame(results_df).to_pickle(fp)
     #pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
     #results_df.to_pickle(fp)
@@ -71,16 +102,29 @@ def save_decks(results_df, fp):
         
 
 def build_decks(commander_texts):
+    """
+    Builds deck for each commander
+    
+    :param commander_texts: cleaned DataFrame containing information of each commander, such as name, text, and color
+    """
     for commander in commander_texts["name"]:
         build_deck(commander)
 
 def evaluate_decks(commander_texts):
+    """
+    Evaluates deck for each commander
+    
+    :param commander_texts: cleaned DataFrame containing information of each commander, such as name, text, and color
+    """
     for commander in commander_texts["name"]:
         cmdr_f = "".join(x for x in commander if x.isalnum()) + ".txt"
         pickle.dump(calculate_power(os.path.join(BUILT_PATH, cmdr_f)), os.path.join(POWER_PATH, cmdr_f))
 
 
 def main():
+    """
+    Builds and evaluates baseline and manually created decks.
+    """
     cards = load_data(CARDS_PATH)
     commanders = load_data(COMMANDERS_PATH)
 
