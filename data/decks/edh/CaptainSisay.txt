@@ -62,4 +62,4 @@
 1 Saryth, the Viper's Fang
 1 Finale of Devastation
 1 Aven Mindcensor
-{'overall': 7.055223880597015, 'cmc': 2.09375, 'ramp': 15, 'draw': 8, 'interaction': 7}
+{'overall': 7.055223880597015, 'cmc': 2.09375, 'ramp': 15, 'draw': 8, 'interaction': 7, 'folder': 'edh', 'commander': 'CaptainSisay.txt'}

@@ -62,4 +62,4 @@
 1 Lotus Field
 1 Nesting Dragon
 1 Emeria Angel
-{'overall': 8.488888888888889, 'cmc': 2.25, 'ramp': 14, 'draw': 15, 'interaction': 7}
+{'overall': 8.488888888888889, 'cmc': 2.25, 'ramp': 14, 'draw': 15, 'interaction': 7, 'folder': 'edh', 'commander': 'JennyGeneratedAnomaly.txt'}

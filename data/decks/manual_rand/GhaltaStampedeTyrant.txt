@@ -62,4 +62,4 @@
 1 Trigon of Infestation
 1 Wild Wanderer
 1 Wheel of Torture
-{'overall': 7.190084388185654, 'cmc': 3.703125, 'ramp': 9, 'draw': 17, 'interaction': 3}
+{'overall': 7.190084388185654, 'cmc': 3.703125, 'ramp': 9, 'draw': 17, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'GhaltaStampedeTyrant.txt'}

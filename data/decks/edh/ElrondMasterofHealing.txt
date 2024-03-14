@@ -62,4 +62,4 @@
 1 Council's Deliberation
 1 Rishkar, Peema Renegade
 1 Windswift Slice
-{'overall': 7.751408450704225, 'cmc': 2.21875, 'ramp': 11, 'draw': 16, 'interaction': 2}
+{'overall': 7.751408450704225, 'cmc': 2.21875, 'ramp': 11, 'draw': 16, 'interaction': 2, 'folder': 'edh', 'commander': 'ElrondMasterofHealing.txt'}

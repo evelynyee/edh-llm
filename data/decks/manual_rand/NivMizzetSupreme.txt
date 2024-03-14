@@ -1,0 +1,65 @@
+1 Niv-Mizzet, Supreme
+1 Weird Harvest
+1 Zurgo Bellstriker
+1 Wizards of Thay
+1 Vanquish the Foul
+1 Tizerus Charger
+1 Urban Evolution
+1 Verdant Touch
+1 Unexplained Disappearance
+1 Voidwalk
+1 Wrench Mind
+1 Volcanic Spite
+1 Urza, Planeswalker
+1 Veil of Secrecy
+1 Wild Evocation
+1 Young Red Dragon // Bathe in Gold
+1 Yahenni's Expertise
+1 Whirlwind of Thought
+1 Visage of Dread // Dread Osseosaur
+1 Waves of Aggression
+1 Zoyowa's Justice
+1 Witch's Cottage
+1 Urza, Lord Protector // Urza, Planeswalker
+1 Whip-Spine Drake
+1 Vega, the Watcher
+1 Watchful Automaton
+1 Umori, the Collector
+1 Yuki-Onna
+1 Throes of Chaos
+1 Mind Stone
+1 Yomiji, Who Bars the Way
+1 Write into Being
+1 Thrill of the Hunt
+1 Yisan, the Wanderer Bard
+1 Zirilan of the Claw
+1 Treasure Cruise
+1 Counterspell
+1 Venerable Kumo
+1 Wasteful Harvest
+1 Unblinking Bleb
+1 Vampire Charmseeker
+1 Wrath of God
+1 Urborg Lhurgoyf
+1 Witness the Future
+1 Volatile Wanderglyph
+1 Wandering Mind
+1 Wandering Archaic // Explore the Vastlands
+1 Thrill of Possibility
+1 Yawgmoth's Vile Offering
+1 Wild Guess
+1 Uba Mask
+1 Wretched Throng
+1 Wildfire Devils
+1 Winterthorn Blessing
+1 Warm Welcome
+1 Varragoth, Bloodsky Sire
+1 Winged Coatl
+1 Woodland Acolyte // Mend the Wilds
+1 Threadbind Clique // Rip the Seams
+1 Young Red Dragon // Bathe in Gold
+1 Unwavering Initiate
+1 Vivien, Nature's Avenger
+1 Vengeful Dreams
+1 Walk with the Ancestors
+{'overall': 7.659999999999999, 'cmc': 3.5714285714285716, 'ramp': 6, 'draw': 21, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}

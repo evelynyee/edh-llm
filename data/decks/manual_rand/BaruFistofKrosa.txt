@@ -62,4 +62,4 @@
 1 Wary Okapi
 1 The Weatherseed Treaty
 1 Staff of the Death Magus
-{'overall': 5.8624401913875595, 'cmc': 3.265625, 'ramp': 10, 'draw': 10, 'interaction': 5}
+{'overall': 5.8624401913875595, 'cmc': 3.265625, 'ramp': 10, 'draw': 10, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}

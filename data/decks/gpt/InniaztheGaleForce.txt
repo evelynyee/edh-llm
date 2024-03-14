@@ -62,4 +62,4 @@
 1 Winter's Chill
 1 Strongarm Monk
 1 Wardscale Dragon
-{'overall': 3.525, 'cmc': 3.2, 'ramp': '2', 'draw': '8', 'interaction': 8, 'folder': 'gpt', 'commander': 'InniaztheGaleForce.txt'} 'InniaztheGaleForce.txt'}
+{'overall': 3.2713592233009705, 'cmc': 3.21875, 'ramp': 2, 'draw': 7, 'interaction': 8}

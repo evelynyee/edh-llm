@@ -62,4 +62,4 @@
 1 Vine Dryad
 1 Vernal Equinox
 1 Swords to Plowshares
-{'overall': 4.848130841121495, 'cmc': 3.34375, 'ramp': 8, 'draw': 7, 'interaction': 10}
+{'overall': 4.848130841121495, 'cmc': 3.34375, 'ramp': 8, 'draw': 7, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'JasmineBorealoftheSeven.txt'}

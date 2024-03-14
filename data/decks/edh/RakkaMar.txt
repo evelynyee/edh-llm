@@ -62,4 +62,4 @@
 1 Charging Cinderhorn
 1 Mind Stone
 1 Chandra, Acolyte of Flame
-{'overall': 6.877248677248677, 'cmc': 2.953125, 'ramp': 16, 'draw': 7, 'interaction': 9}
+{'overall': 6.877248677248677, 'cmc': 2.953125, 'ramp': 16, 'draw': 7, 'interaction': 9, 'folder': 'edh', 'commander': 'RakkaMar.txt'}

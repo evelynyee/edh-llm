@@ -62,4 +62,4 @@
 1 Rakdos, Lord of Riots
 1 Bloodfell Caves
 1 Deadly Dispute
-{'overall': 8.415873015873016, 'cmc': 1.96875, 'ramp': 19, 'draw': 9, 'interaction': 8}
+{'overall': 8.415873015873016, 'cmc': 1.96875, 'ramp': 19, 'draw': 9, 'interaction': 8, 'folder': 'edh', 'commander': 'OrcusPrinceofUndeath.txt'}

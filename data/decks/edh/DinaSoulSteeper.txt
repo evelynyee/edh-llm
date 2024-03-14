@@ -62,4 +62,4 @@
 1 Exotic Orchard
 1 Druid Class
 1 Talisman of Resilience
-{'overall': 5.520748299319728, 'cmc': 2.296875, 'ramp': 12, 'draw': 6, 'interaction': 3}
+{'overall': 5.520748299319728, 'cmc': 2.296875, 'ramp': 12, 'draw': 6, 'interaction': 3, 'folder': 'edh', 'commander': 'DinaSoulSteeper.txt'}

@@ -62,4 +62,4 @@
 1 Wicked Slumber
 1 Vryn Wingmare
 1 You Find the Villains' Lair
-{'overall': 9.768357487922705, 'cmc': 3.234375, 'ramp': 9, 'draw': 27, 'interaction': 3}
+{'overall': 9.768357487922705, 'cmc': 3.234375, 'ramp': 9, 'draw': 27, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'IsutheAbominable.txt'}

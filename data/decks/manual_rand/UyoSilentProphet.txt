@@ -62,4 +62,4 @@
 1 Soratami Mirror-Mage
 1 Wizard's Spellbook
 1 Turbulent Dreams
-{'overall': 5.970325203252033, 'cmc': 3.84375, 'ramp': 1, 'draw': 19, 'interaction': 9}
+{'overall': 5.970325203252033, 'cmc': 3.84375, 'ramp': 1, 'draw': 19, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'UyoSilentProphet.txt'}

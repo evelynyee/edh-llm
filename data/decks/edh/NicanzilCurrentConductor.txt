@@ -62,4 +62,4 @@
 1 Karn's Bastion
 1 Forerunner of the Heralds
 1 Master of the Pearl Trident
-{'overall': 9.407874015748032, 'cmc': 1.984375, 'ramp': 7, 'draw': 26, 'interaction': 3}
+{'overall': 9.407874015748032, 'cmc': 1.984375, 'ramp': 7, 'draw': 26, 'interaction': 3, 'folder': 'edh', 'commander': 'NicanzilCurrentConductor.txt'}

@@ -62,4 +62,4 @@
 1 Aurelia's Fury
 1 Reverberate
 1 Rugged Prairie
-{'overall': 5.7881720430107535, 'cmc': 2.90625, 'ramp': 11, 'draw': 5, 'interaction': 22}
+{'overall': 5.7881720430107535, 'cmc': 2.90625, 'ramp': 11, 'draw': 5, 'interaction': 22, 'folder': 'edh', 'commander': 'FiresongandSunspeaker.txt'}

@@ -1,0 +1,65 @@
+1 Maralen of the Mornsong
+1 Smothering Abomination
+1 Westgate Regent
+1 Zombie Assassin
+1 Tombfire
+1 Vislor Turlough
+1 Zombie Cutthroat
+1 Spellbook
+1 Well of Life
+1 Viscera Seer
+1 Zombie Brute
+1 Triumph of Cruelty
+1 Urborg Justice
+1 The Grim Captain's Locker
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Thallid Soothsayer
+1 Takenuma, Abandoned Mire
+1 The Cruelty of Gix
+1 Whisper Squad
+1 Skirsdag Supplicant
+1 Thought Dissector
+1 Wandering Archaic // Explore the Vastlands
+1 Unmask
+1 Vampire Nocturnus
+1 Withered Wretch
+1 Sivriss, Nightmare Speaker
+1 Underworld Sentinel
+1 Tormented Hero
+1 Thrull Parasite
+1 Well of Discovery
+1 Wretched Camel
+1 Weed Strangle
+1 The Torment of Gollum
+1 Twins of Maurer Estate
+1 The War in Heaven
+1 Tsabo's Decree
+1 Wizard's Rockets
+1 Stunning Reversal
+1 Underworld Dreams
+1 Undiscovered Paradise
+1 Wave of Rats
+1 The Chain Veil
+1 Scalding Tongs
+1 Vampiric Rites
+1 The Deck of Many Things
+1 Vengeful Strangler // Strangling Grasp
+1 Yixlid Jailer
+1 The Raven Man
+1 Vile Requiem
+1 Virtus's Maneuver
+1 Uchuulon
+1 Wasp of the Bitter End
+1 You Are Already Dead
+1 Treacherous Vampire
+1 Surging Dementia
+1 Stronghold Discipline
+1 Vraska's Scorn
+1 Tavern Swindler
+1 Windswept Heath
+1 Scythe Specter
+1 Warlock Class
+1 Vile Entomber
+1 The Rack
+1 Wild-Field Scarecrow
+{'overall': 4.662440191387559, 'cmc': 3.265625, 'ramp': 1, 'draw': 14, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'MaralenoftheMornsong.txt'}

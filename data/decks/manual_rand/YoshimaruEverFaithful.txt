@@ -1,65 +1,65 @@
 1 Yoshimaru, Ever Faithful
-1 Wakening Sun's Avatar
-1 Warping Wail
-1 Topan Freeblade
-1 Terrain Generator
-1 Tablet of Epityr
-1 Weight of Conscience
-1 Windshaper Planetar
-1 Staff of the Storyteller
-1 Vulpine Harvester
-1 Triskelavus
-1 Sunspring Expedition
-1 The Moment
-1 World Queller
-1 Surprise Deployment
-1 Thopter Squadron
-1 Summoning Station
-1 Thran Spider
-1 Urza's Miter
-1 Urborg, Tomb of Yawgmoth
-1 Wild-Field Scarecrow
-1 Void Mirror
-1 Zelyon Sword
-1 Serum Tank
-1 Urbis Protector
-1 Tempt with Glory
-1 Volrath's Laboratory
-1 Vigil for the Lost
-1 Spellbook Vendor
-1 Talus Paladin
-1 Tatterkite
-1 Veteran Armorsmith
-1 That Which Was Taken
-1 Sanguine Glorifier
-1 Warlord's Elite
-1 Torture Chamber
-1 Vizier of Remedies
-1 Tocasia's Welcome
-1 Zealots en-Dal
-1 Virtuous Charge
-1 Terrarion
-1 Silverblade Paladin
-1 Zhalfirin Void
-1 Traxos, Scourge of Kroog
-1 Steel Exemplar
-1 White Plume Adventurer
-1 Serra Redeemer
+1 Wurmcoil Engine
 1 Space Marine Devastator
-1 Suntouched Myr
-1 Urza's Ruinous Blast
-1 Swallow Whole
-1 Tethered Griffin
-1 Skyboon Evangelist
-1 Supply-Line Cranes
-1 Veteran of the Depths
-1 Trusty Retriever
-1 Warden of the Wall
-1 Unyaro Griffin
-1 Vedalken Shackles
-1 Subjugator Angel
+1 Vulpine Harvester
+1 Umbra Mystic
+1 Squadron Hawk
+1 Steppe Lynx
+1 Vizier of Remedies
+1 Seedpod Caretaker
+1 Welkin Hawk
 1 Touch of the Eternal
-1 Sunbond
-1 Tome of Legends
-1 Spine of Ish Sah
-{'overall': 4.526271186440678, 'cmc': 3.4705882352941178, 'ramp': '5', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'YoshimaruEverFaithful.txt'}: '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'YoshimaruEverFaithful.txt'}
+1 Unsanctioned Ancient Juggler
+1 Urza's Workshop
+1 Shire Shirriff
+1 You Hear Something on Watch
+1 Werefox Bodyguard
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Village Bell-Ringer
+1 Wedding Announcement // Wedding Festivity
+1 Storm of Souls
+1 Vengeance
+1 Wall of Resurgence
+1 Tragic Poet
+1 Vulshok Gauntlets
+1 Chromatic Lantern
+1 Wrath of God
+1 Topple
+1 Utility Knife
+1 Warden of the Inner Sky
+1 Vesuva
+1 Witchbane Orb
+1 The One Ring
+1 Trynn, Champion of Freedom
+1 Unruly Mob
+1 Serrated Arrows
+1 Wayward Angel
+1 Sun Titan
+1 Tumble Magnet
+1 Thriving Heath
+1 Supply Drop
+1 Twilight Shepherd
+1 Swooping Protector
+1 Sandcrafter Mage
+1 Sparring Regimen
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Sigiled Sentinel
+1 Mana Vault
+1 Yotian Frontliner
+1 Tin-Wing Chimera
+1 Urza's Incubator
+1 Swallow Whole
+1 Tablet of the Guilds
+1 Savior of Ollenbock
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Sparring Construct
+1 Vexing Puzzlebox
+1 Urborg, Tomb of Yawgmoth
+1 Soulcatcher
+1 You're Confronted by Robbers
+1 Swords to Plowshares
+1 Terrain Generator
+1 Twilight Drover
+1 Werewolf Lightning Mage
+1 Thousand Moons Smithy // Barracks of the Thousand
+{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': 0, 'draw': 0, 'interaction': 0, 'folder': 'manual_rand', 'commander': 'YoshimaruEverFaithful.txt'}

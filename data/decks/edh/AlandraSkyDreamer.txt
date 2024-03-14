@@ -62,4 +62,4 @@
 1 Swiftfoot Boots
 1 Behold the Multiverse
 1 Treasure Cruise
-{'overall': 13.698538011695906, 'cmc': 2.671875, 'ramp': 10, 'draw': 40, 'interaction': 9}
+{'overall': 13.698538011695906, 'cmc': 2.671875, 'ramp': 10, 'draw': 40, 'interaction': 9, 'folder': 'edh', 'commander': 'AlandraSkyDreamer.txt'}

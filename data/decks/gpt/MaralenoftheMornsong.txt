@@ -62,4 +62,4 @@
 1 Strongarm Tactics
 1 Thief of Hope
 1 Wretched Confluence
-{'overall': 5.568357487922706, 'cmc': 3.234375, 'ramp': '5', 'draw': '13', 'interaction': 9, 'folder': 'gpt', 'commander': 'MaralenoftheMornsong.txt'}
+{'overall': 5.568357487922706, 'cmc': 3.234375, 'ramp': 5, 'draw': 13, 'interaction': 9}

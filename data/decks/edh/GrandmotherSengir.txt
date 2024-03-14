@@ -62,4 +62,4 @@
 1 Sadistic Obsession
 1 Nest of Scarabs
 1 Mortuary Mire
-{'overall': 7.610126582278481, 'cmc': 2.46875, 'ramp': 11, 'draw': 15, 'interaction': 6}
+{'overall': 7.610126582278481, 'cmc': 2.46875, 'ramp': 11, 'draw': 15, 'interaction': 6, 'folder': 'edh', 'commander': 'GrandmotherSengir.txt'}

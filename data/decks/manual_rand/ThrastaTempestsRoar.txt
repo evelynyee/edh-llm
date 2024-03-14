@@ -1,65 +1,65 @@
 1 Thrasta, Tempest's Roar
-1 Wand of Denial
-1 Sundering Vitae
-1 Talons of Wildwood
-1 Woolly Loxodon
-1 Whisperwood Elemental
-1 Venerable Kumo
-1 Wooden Stake
-1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Wrap in Vigor
-1 Sol Ring
-1 Vulshok Morningstar
-1 Zodiac Tiger
-1 Wallop
-1 Willow Satyr
+1 Tropical Storm
+1 Hardened Scales
+1 Woodcutter's Grit
+1 Llanowar Elves
 1 Vulshok Gauntlets
-1 Mind Stone
-1 Wing Puncture
-1 Sorrow's Path
-1 Skeleton Key
-1 Unnatural Aggression
-1 Vivien of the Arkbow
-1 Terra Stomper
-1 Weathered Runestone
-1 Surrak, the Hunt Caller
-1 Thundering Chariot
-1 Zelyon Sword
-1 Treetop Bracers
-1 Viridian Scout
-1 Ugin's Nexus
-1 Vial of Dragonfire
-1 Yavimaya Sojourner
-1 Verdant Outrider
-1 Tower Above
-1 Vanguard's Shield
-1 Unerring Sling
-1 Tormod's Cryptkeeper
-1 Volrath's Gardens
-1 Zenith Chronicler
-1 Wear Away
-1 War Barge
-1 Welcome to . . . // Jurassic Park
-1 Undercity Troll
-1 Warden of the Woods
-1 Tribal Forcemage
-1 Ulamog, the Infinite Gyre
-1 Triangle of War
-1 Skyshroud Cutter
-1 Timber Wolves
-1 Whippoorwill
-1 Warmonger's Chariot
-1 Tlincalli Hunter // Retrieve Prey
-1 Vintara Snapper
-1 Thelon's Chant
-1 Wurmcalling
-1 Skarrgan Pit-Skulk
-1 Wild Beastmaster
-1 Transmogrifying Licid
-1 Threefold Signal
+1 Twinning Glass
+1 Green Sun's Zenith
+1 Wing Storm
+1 Wild Growth
+1 Umbilicus
+1 Zodiac Rabbit
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Turntimber Basilisk
+1 Zuo Ci, the Mocking Sage
+1 Champion of Lambholt
+1 Taunting Arbormage
+1 Wolfkin Outcast // Wedding Crasher
+1 Siege Wurm
+1 Thundersteel Colossus
+1 Slingbow Trap
+1 Vorrac Battlehorns
+1 Unnatural Growth
+1 Storm Seeker
+1 Utility Knife
+1 Xanthic Statue
+1 Spectrum Sentinel
+1 Spellbinder
+1 TARDIS
+1 Whisperwood Elemental
 1 Wolf Strike
-1 Welcome to . . . // Jurassic Park
-1 Sword of the Ages
-1 Thorn Elemental
-1 Waxing Moon
-{'overall': 3.6429203539823005, 'cmc': 3.373134328358209, 'ramp': '4', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Spawnsire of Ulamog
+1 Verdant Succession
+1 Woodborn Behemoth
+1 Thousand-legged Kami
+1 Vengeant Earth
+1 Wild Shape
+1 Vernal Bloom
+1 Vine Dryad
+1 Tornado Elemental
+1 Wirewood Symbiote
+1 Sword of Sinew and Steel
+1 Walking Wall
+1 Trip Noose
+1 Unlicensed Hearse
+1 Venerable Kumo
+1 Strength-Testing Hammer
+1 Vivien, Monsters' Advocate
+1 Thicket Crasher
+1 Zendikar Farguide
+1 Stampeding Wildebeests
+1 Whirling Catapult
+1 Wand of Ith
+1 Sword of Hearth and Home
+1 Treetop Village
+1 Yavimaya Sojourner
+1 Storm the Citadel
+1 Wine of Blood and Iron
+1 Treefolk Umbra
+1 Wildcall
+1 Sword of Light and Shadow
+1 Smuggler's Copter
+1 Thought Prison
+{'overall': 2.9446808510638296, 'cmc': 3.671875, 'ramp': 5, 'draw': 3, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'ThrastaTempestsRoar.txt'}

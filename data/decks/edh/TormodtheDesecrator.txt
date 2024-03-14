@@ -62,4 +62,4 @@
 1 Gempalm Polluter
 1 Unbreathing Horde
 1 Corpse Churn
-{'overall': 4.789884393063583, 'cmc': 2.703125, 'ramp': 6, 'draw': 9, 'interaction': 6}
+{'overall': 4.789884393063583, 'cmc': 2.703125, 'ramp': 6, 'draw': 9, 'interaction': 6, 'folder': 'edh', 'commander': 'TormodtheDesecrator.txt'}

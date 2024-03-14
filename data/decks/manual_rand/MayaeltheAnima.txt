@@ -62,4 +62,4 @@
 1 Volley of Boulders
 1 Woodcloaker
 1 Wild Evocation
-{'overall': 8.46888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 20, 'interaction': 8}
+{'overall': 8.46888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 20, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}

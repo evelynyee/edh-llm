@@ -62,4 +62,4 @@
 1 Steel Hellkite
 1 Goblin Welder
 1 Saheeli's Directive
-{'overall': 7.684491978609626, 'cmc': 2.921875, 'ramp': 12, 'draw': 14, 'interaction': 10}
+{'overall': 7.684491978609626, 'cmc': 2.921875, 'ramp': 12, 'draw': 14, 'interaction': 10, 'folder': 'edh', 'commander': 'PiaNalaar.txt'}

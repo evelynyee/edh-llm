@@ -62,4 +62,4 @@
 1 Veinwitch Coven
 1 Mind Stone
 1 Malakir Rebirth
-{'overall': 6.07316384180791, 'cmc': 2.765625, 'ramp': 8, 'draw': 11, 'interaction': 12}
+{'overall': 6.07316384180791, 'cmc': 2.765625, 'ramp': 8, 'draw': 11, 'interaction': 12, 'folder': 'edh', 'commander': 'GollumObsessedStalker.txt'}

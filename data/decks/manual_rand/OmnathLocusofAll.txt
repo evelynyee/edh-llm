@@ -1,0 +1,65 @@
+1 Omnath, Locus of All
+1 Vessel of Nascency
+1 Woolly Loxodon
+1 Thought Harvester
+1 Wilfred Mott
+1 Zoyowa's Justice
+1 Valakut Exploration
+1 Wail of the Forgotten
+1 Voidmage Husher
+1 Welcome to . . . // Jurassic Park
+1 Village Rites
+1 Unblinking Bleb
+1 Word of Command
+1 Virtue of Courage // Embereth Blaze
+1 Rampant Growth
+1 Voda Sea Scavenger
+1 Violent Outburst
+1 Webweaver Changeling
+1 Verdant Eidolon
+1 Visions of Ruin
+1 Young Necromancer
+1 Whisperwood Elemental
+1 Wondrous Crucible
+1 Venarian Glimmer
+1 Vessel of Paramnesia
+1 Zndrsplt, Eye of Wisdom
+1 Urabrask // The Great Work
+1 Zendikar Resurgent
+1 Vadrok, Apex of Thunder
+1 Wreck Hunter
+1 Time Spiral
+1 Ugin, the Ineffable
+1 The Ur-Dragon
+1 Yavimaya Sojourner
+1 Tocasia's Dig Site
+1 Venture Forth
+1 Visage of Dread // Dread Osseosaur
+1 Volcanic Torrent
+1 Tunnel Vision
+1 Wishclaw Talisman
+1 Unexplained Disappearance
+1 Traveler's Amulet
+1 Watcher of the Roost
+1 Zask, Skittering Swarmlord
+1 Verge Rangers
+1 Visions of Glory
+1 Wizened Snitches
+1 Varolz, the Scar-Striped
+1 Turn the Earth
+1 Vivid Revival
+1 Whiplash Trap
+1 Veinfire Borderpost
+1 Wolfir Avenger
+1 Yomiji, Who Bars the Way
+1 Urza's Tome
+1 Worthy Cause
+1 Volcanic Spite
+1 The Wedding of River Song
+1 Counterspell
+1 Thran Temporal Gateway
+1 Wheel of Fortune
+1 Zombie Scavengers
+1 Wandering Mind
+1 Windrider Wizard
+{'overall': 8.844680851063831, 'cmc': 3.671875, 'ramp': 11, 'draw': 21, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'OmnathLocusofAll.txt'}

@@ -62,4 +62,4 @@
 1 Solemn Simulacrum
 1 Devouring Light
 1 Teferi's Protection
-{'overall': 6.773684210526316, 'cmc': 2.96875, 'ramp': 12, 'draw': 10, 'interaction': 12}
+{'overall': 6.773684210526316, 'cmc': 2.96875, 'ramp': 12, 'draw': 10, 'interaction': 12, 'folder': 'edh', 'commander': 'MasakotheHumorless.txt'}

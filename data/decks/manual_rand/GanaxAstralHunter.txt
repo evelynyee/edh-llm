@@ -62,4 +62,4 @@
 1 Witch's Clinic
 1 Vulshok War Boar
 1 Treasure Vault
-{'overall': 5.961904761904762, 'cmc': 2.625, 'ramp': 13, 'draw': 6, 'interaction': 9}
+{'overall': 5.961904761904762, 'cmc': 2.625, 'ramp': 13, 'draw': 6, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}

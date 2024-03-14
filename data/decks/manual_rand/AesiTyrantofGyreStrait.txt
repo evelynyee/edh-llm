@@ -62,4 +62,4 @@
 1 Wand of Ith
 1 Wu Spy
 1 Zndrsplt's Judgment
-{'overall': 11.08781512605042, 'cmc': 3.71875, 'ramp': 11, 'draw': 30, 'interaction': 6}
+{'overall': 11.08781512605042, 'cmc': 3.71875, 'ramp': 11, 'draw': 30, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}

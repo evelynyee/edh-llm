@@ -62,4 +62,4 @@
 1 Volt Charge
 1 Walking Ballista
 1 Wake the Past
-{'overall': 5.95093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 15, 'interaction': 12}
+{'overall': 5.95093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 15, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'DepalaPilotExemplar.txt'}

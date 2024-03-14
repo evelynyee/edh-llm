@@ -62,4 +62,4 @@
 1 Birds of Paradise
 1 Swan Song
 1 Simic Signet
-{'overall': 9.892592592592592, 'cmc': 3.375, 'ramp': 23, 'draw': 13, 'interaction': 6}
+{'overall': 9.892592592592592, 'cmc': 3.375, 'ramp': 23, 'draw': 13, 'interaction': 6, 'folder': 'edh', 'commander': 'GandalfWestwardVoyager.txt'}

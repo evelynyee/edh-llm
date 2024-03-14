@@ -62,4 +62,4 @@
 1 The Phasing of Zhalfir
 1 Thopter Architect
 1 Virtue of Knowledge // Vantress Visions
-{'overall': 3.727450980392157, 'cmc': 3.1875, 'ramp': 2, 'draw': 9, 'interaction': 7}
+{'overall': 3.727450980392157, 'cmc': 3.1875, 'ramp': 2, 'draw': 9, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}

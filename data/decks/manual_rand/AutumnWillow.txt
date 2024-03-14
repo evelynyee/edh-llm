@@ -62,4 +62,4 @@
 1 Welcome to . . . // Jurassic Park
 1 Vengeant Earth
 1 Well of Life
-{'overall': 3.197156398104265, 'cmc': 3.3492063492063493, 'ramp': 4, 'draw': 5, 'interaction': 7}
+{'overall': 3.197156398104265, 'cmc': 3.3492063492063493, 'ramp': 4, 'draw': 5, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AutumnWillow.txt'}

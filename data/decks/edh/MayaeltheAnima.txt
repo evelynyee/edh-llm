@@ -62,4 +62,4 @@
 1 Vorinclex, Voice of Hunger
 1 Selvala, Heart of the Wilds
 1 Quicksilver Amulet
-{'overall': 5.630541871921182, 'cmc': 3.171875, 'ramp': 14, 'draw': 5, 'interaction': 5}
+{'overall': 5.630541871921182, 'cmc': 3.171875, 'ramp': 14, 'draw': 5, 'interaction': 5, 'folder': 'edh', 'commander': 'MayaeltheAnima.txt'}

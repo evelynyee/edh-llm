@@ -62,4 +62,4 @@
 1 Smell Fear
 1 Tree Monkey
 1 Victory Chimes
-{'overall': 4.248130841121496, 'cmc': 3.34375, 'ramp': 6, 'draw': 7, 'interaction': 8}
+{'overall': 4.248130841121496, 'cmc': 3.34375, 'ramp': 6, 'draw': 7, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}

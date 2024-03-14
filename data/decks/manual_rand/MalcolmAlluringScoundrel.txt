@@ -62,4 +62,4 @@
 1 Time Reversal
 1 Thassa's Oracle
 1 Trade Routes
-{'overall': 8.70093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 28, 'interaction': 2}
+{'overall': 8.70093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 28, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'MalcolmAlluringScoundrel.txt'}

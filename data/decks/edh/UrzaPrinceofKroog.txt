@@ -62,4 +62,4 @@
 1 Whir of Invention
 1 Lightning Greaves
 1 Shimmer Myr
-{'overall': 7.140123456790123, 'cmc': 2.53125, 'ramp': 11, 'draw': 13, 'interaction': 7}
+{'overall': 7.140123456790123, 'cmc': 2.53125, 'ramp': 11, 'draw': 13, 'interaction': 7, 'folder': 'edh', 'commander': 'UrzaPrinceofKroog.txt'}

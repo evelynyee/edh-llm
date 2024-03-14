@@ -62,4 +62,4 @@
 1 Voracious Hydra
 1 Timely Reinforcements
 1 Welding Jar
-{'overall': 4.949999999999999, 'cmc': 3.3333333333333335, 'ramp': 8, 'draw': 9, 'interaction': 2}
+{'overall': 4.949999999999999, 'cmc': 3.3333333333333335, 'ramp': 8, 'draw': 9, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'TreebeardGraciousHost.txt'}

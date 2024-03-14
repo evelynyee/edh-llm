@@ -62,4 +62,4 @@
 1 Vessel of Nascency
 1 Witch's Clinic
 1 Zopandrel, Hunger Dominus
-{'overall': 6.873684210526316, 'cmc': 2.96875, 'ramp': 16, 'draw': 7, 'interaction': 9}
+{'overall': 6.873684210526316, 'cmc': 2.96875, 'ramp': 16, 'draw': 7, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}

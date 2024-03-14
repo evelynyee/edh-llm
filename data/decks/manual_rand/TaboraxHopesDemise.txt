@@ -62,4 +62,4 @@
 1 Thieving Amalgam
 1 Zombie Mob
 1 Stitcher's Supplier
-{'overall': 4.623684210526315, 'cmc': 2.96875, 'ramp': 1, 'draw': 12, 'interaction': 14}
+{'overall': 4.623684210526315, 'cmc': 2.96875, 'ramp': 1, 'draw': 12, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'TaboraxHopesDemise.txt'}

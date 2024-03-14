@@ -62,4 +62,4 @@
 1 Sanguine Bond
 1 The Meathook Massacre
 1 Phyrexian Tower
-{'overall': 6.261702127659575, 'cmc': 1.46875, 'ramp': 9, 'draw': 9, 'interaction': 8}
+{'overall': 6.261702127659575, 'cmc': 1.46875, 'ramp': 9, 'draw': 9, 'interaction': 8, 'folder': 'edh', 'commander': 'ElasilKorSadisticPilgrim.txt'}

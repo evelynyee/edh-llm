@@ -62,4 +62,4 @@
 1 Weaponcraft Enthusiast
 1 Trostani, Selesnya's Voice
 1 Vraska's Scorn
-{'overall': 5.017567567567568, 'cmc': 3.5238095238095237, 'ramp': 6, 'draw': 10, 'interaction': 9}
+{'overall': 5.017567567567568, 'cmc': 3.5238095238095237, 'ramp': 6, 'draw': 10, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'MyrkulLordofBones.txt'}

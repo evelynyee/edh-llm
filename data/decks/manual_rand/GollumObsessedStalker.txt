@@ -62,4 +62,4 @@
 1 Vampire Spawn
 1 Wings of Hubris
 1 Wall of Corpses
-{'overall': 3.263876651982379, 'cmc': 3.546875, 'ramp': 3, 'draw': 6, 'interaction': 9}
+{'overall': 3.263876651982379, 'cmc': 3.546875, 'ramp': 3, 'draw': 6, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}

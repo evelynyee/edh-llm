@@ -62,4 +62,4 @@
 1 Argentum Armor
 1 Sunken Hollow
 1 Frantic Search
-{'overall': 6.084306569343066, 'cmc': 2.140625, 'ramp': 9, 'draw': 10, 'interaction': 8}
+{'overall': 6.084306569343066, 'cmc': 2.140625, 'ramp': 9, 'draw': 10, 'interaction': 8, 'folder': 'edh', 'commander': 'TetsuoImperialChampion.txt'}

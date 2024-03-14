@@ -62,4 +62,4 @@
 1 Ashiok, Dream Render
 1 Mind Stone
 1 Cyclonic Rift
-{'overall': 3.910126582278481, 'cmc': 2.46875, 'ramp': 5, 'draw': 6, 'interaction': 7}
+{'overall': 3.910126582278481, 'cmc': 2.46875, 'ramp': 5, 'draw': 6, 'interaction': 7, 'folder': 'edh', 'commander': 'PhenaxGodofDeception.txt'}

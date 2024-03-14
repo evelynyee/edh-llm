@@ -62,4 +62,4 @@
 1 Starscream, Power Hungry // Starscream, Seeker Leader
 1 Whirling Catapult
 1 Wall of Forgotten Pharaohs
-{'overall': 3.431818181818182, 'cmc': 3.4375, 'ramp': 5, 'draw': 5, 'interaction': 7}
+{'overall': 3.431818181818182, 'cmc': 3.4375, 'ramp': 5, 'draw': 5, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'BelbeCorruptedObserver.txt'}

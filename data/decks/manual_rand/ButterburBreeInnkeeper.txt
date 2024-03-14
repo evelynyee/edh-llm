@@ -1,0 +1,65 @@
+1 Butterbur, Bree Innkeeper
+1 Synod Centurion
+1 Varis, Silverymoon Ranger
+1 Tetravus
+1 Whip Silk
+1 Torii Watchward
+1 Voice of the Woods
+1 Sunscourge Champion
+1 Wall of Resurgence
+1 Viridian Shaman
+1 Treasure Map // Treasure Cove
+1 Static Net
+1 Whippoorwill
+1 Wurm's Tooth
+1 Wolf Strike
+1 Unbridled Growth
+1 Wurmcoil Engine
+1 Tocasia's Onulet
+1 Troublemaker Ouphe
+1 The Stasis Coffin
+1 Vivify
+1 Wall of Resistance
+1 Vastwood Zendikon
+1 Wingmate Roc
+1 Urza's Mine
+1 Umbral Mantle
+1 Trueheart Duelist
+1 Vitaspore Thallid
+1 Wicked Wolf
+1 Vitality Charm
+1 Sporeweb Weaver
+1 Thopter Squadron
+1 Threefold Thunderhulk
+1 Warbriar Blessing
+1 Voltaic Construct
+1 Toil to Renown
+1 The Huntsman's Redemption
+1 Worship
+1 Welcome to . . . // Jurassic Park
+1 Troubled Healer
+1 Syr Ginger, the Meal Ender
+1 Thelonite Monk
+1 Wild Instincts
+1 Wedding Invitation
+1 Thraben Standard Bearer
+1 Yedora, Grave Gardener
+1 Yavimaya Sapherd
+1 Warriors' Lesson
+1 Verdant Force
+1 Whiteout
+1 Viridian Scout
+1 Teleportation Circle
+1 Winds of Abandon
+1 Thalia's Geistcaller
+1 Unnatural Aggression
+1 Tablet of Epityr
+1 White Plume Adventurer
+1 Vizier of Deferment
+1 Yotian Dissident
+1 Su-Chi Cave Guard
+1 Valkyrie's Sword
+1 Tangled Skyline
+1 Trail of Crumbs
+1 Vivien on the Hunt
+{'overall': 4.01244019138756, 'cmc': 3.265625, 'ramp': 5, 'draw': 8, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}

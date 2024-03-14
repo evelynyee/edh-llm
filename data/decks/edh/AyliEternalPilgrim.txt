@@ -62,4 +62,4 @@
 1 Utter End
 1 Priest of Forgotten Gods
 1 Demonic Tutor
-{'overall': 5.12280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 6, 'interaction': 10}
+{'overall': 5.12280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 6, 'interaction': 10, 'folder': 'edh', 'commander': 'AyliEternalPilgrim.txt'}

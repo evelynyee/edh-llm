@@ -1,0 +1,65 @@
+1 Jenny, Generated Anomaly
+1 Welding Sparks
+1 Wilfred Mott
+1 Wrenn's Resolve
+1 Whispergear Sneak
+1 Tibalt, the Fiend-Blooded
+1 Tocasia's Welcome
+1 Urabrask // The Great Work
+1 Mana Vault
+1 Temple Bell
+1 Tower of Murmurs
+1 Vulshok Replica
+1 Viashino Sandsprinter
+1 Thrumming Stone
+1 Thrilling Discovery
+1 _____ Balls of Fire
+1 Yomiji, Who Bars the Way
+1 Virtue of Courage // Embereth Blaze
+1 Synod Sanctum
+1 Stoneforge Acolyte
+1 Trial of Zeal
+1 Uba Mask
+1 Wand of Vertebrae
+1 Thieves' Auction
+1 Sunblade Samurai
+1 Wispweaver Angel
+1 True Love's Kiss
+1 Vexing Arcanix
+1 Timesifter
+1 Thrill of Possibility
+1 Wall of Resurgence
+1 Surging Sentinels
+1 Summoner's Egg
+1 Tome Shredder
+1 Thought Prison
+1 Path to Exile
+1 Red Elemental Blast
+1 Undying Rage
+1 Void Mirror
+1 Trusty Packbeast
+1 Wild-Magic Sorcerer
+1 Wildfire Eternal
+1 Thunderous Wrath
+1 Volcanic Torrent
+1 Voracious Dragon
+1 Thaumatic Compass // Spires of Orazca
+1 Whirling Catapult
+1 Weatherlight
+1 Trap Digger
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Tiana, Ship's Caretaker
+1 Unholy Heat
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Young Red Dragon // Bathe in Gold
+1 World Queller
+1 Steelshaper Apprentice
+1 Young Red Dragon // Bathe in Gold
+1 Zephyrim
+1 Winged Shepherd
+1 Syr Carah, the Bold
+1 Venerable Knight
+1 Trade Caravan
+1 Swirling Sandstorm
+1 Zoyowa's Justice
+{'overall': 7.217567567567568, 'cmc': 3.5238095238095237, 'ramp': 6, 'draw': 18, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'JennyGeneratedAnomaly.txt'}

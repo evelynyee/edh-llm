@@ -61,4 +61,4 @@
 1 Smogsteed Rider
 1 Weed-Pruner Poplar
 1 Tawnos's Weaponry
-{'overall': 3.4176470588235297, 'cmc': 3.238095238095238, 'ramp': '5', 'draw': '4', 'interaction': 11, 'folder': 'gpt', 'commander': 'XunYuWeiAdvisor.txt'}{'overall': 3.4176470588235297, 'cmc': 3.238095238095238, 'ramp': '5', 'draw': '4', 'interaction': 11, 'folder': 'gpt', 'commander': 'XunYuWeiAdvisor.txt'}
+{'overall': 3.4176470588235297, 'cmc': 3.238095238095238, 'ramp': 5, 'draw': 4, 'interaction': 11}

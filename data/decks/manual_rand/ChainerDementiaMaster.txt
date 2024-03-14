@@ -62,4 +62,4 @@
 1 Zombie Boa
 1 Vengeful Dead
 1 Tombfire
-{'overall': 4.9344748858447485, 'cmc': 3.421875, 'ramp': 4, 'draw': 12, 'interaction': 7}
+{'overall': 4.9344748858447485, 'cmc': 3.421875, 'ramp': 4, 'draw': 12, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ChainerDementiaMaster.txt'}

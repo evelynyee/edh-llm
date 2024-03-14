@@ -62,4 +62,4 @@
 1 Necropotence
 1 Razaketh, the Foulblooded
 1 Exsanguinate
-{'overall': 7.403061224489796, 'cmc': 3.0625, 'ramp': 13, 'draw': 12, 'interaction': 10}
+{'overall': 7.403061224489796, 'cmc': 3.0625, 'ramp': 13, 'draw': 12, 'interaction': 10, 'folder': 'edh', 'commander': 'ChainerDementiaMaster.txt'}

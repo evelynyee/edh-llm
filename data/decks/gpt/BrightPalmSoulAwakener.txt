@@ -62,4 +62,4 @@
 1 Thousand-Year Elixir
 1 Wax // Wane
 1 Wingrattle Scarecrow
-{'overall': 2.83681592039801, 'cmc': 3.140625, 'ramp': '2', 'draw': '4', 'interaction': 14, 'folder': 'gpt', 'commander': 'BrightPalmSoulAwakener.txt'}
+{'overall': 2.83681592039801, 'cmc': 3.140625, 'ramp': 2, 'draw': 4, 'interaction': 14}

@@ -62,4 +62,4 @@
 1 Liquimetal Torque
 1 Wand of Wonder
 1 Unexpected Windfall
-{'overall': 9.5997461928934, 'cmc': 3.078125, 'ramp': 23, 'draw': 10, 'interaction': 14}
+{'overall': 9.5997461928934, 'cmc': 3.078125, 'ramp': 23, 'draw': 10, 'interaction': 14, 'folder': 'edh', 'commander': 'UrabraskHereticPraetor.txt'}

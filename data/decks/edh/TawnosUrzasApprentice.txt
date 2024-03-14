@@ -62,4 +62,4 @@
 1 Thirst for Knowledge
 1 Saheeli, Sublime Artificer
 1 Duplicant
-{'overall': 7.066467065868263, 'cmc': 2.609375, 'ramp': 11, 'draw': 13, 'interaction': 6}
+{'overall': 7.066467065868263, 'cmc': 2.609375, 'ramp': 11, 'draw': 13, 'interaction': 6, 'folder': 'edh', 'commander': 'TawnosUrzasApprentice.txt'}

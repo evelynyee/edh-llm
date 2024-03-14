@@ -62,4 +62,4 @@
 1 Cathars' Crusade
 1 Elspeth, Sun's Champion
 1 Field of Ruin
-{'overall': '1', 'cmc': 0, 'ramp': 0, 'draw': 0, 'interaction': 0}
+{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': 0, 'draw': 0, 'interaction': 0, 'folder': 'edh', 'commander': 'EllynHarbreezeBusybody.txt'}

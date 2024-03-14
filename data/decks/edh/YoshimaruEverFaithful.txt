@@ -62,4 +62,4 @@
 1 Flowering of the White Tree
 1 Umezawa's Jitte
 1 Spirited Companion
-{'overall': 4.770748299319728, 'cmc': 2.296875, 'ramp': 7, 'draw': 7, 'interaction': 8}
+{'overall': 4.770748299319728, 'cmc': 2.296875, 'ramp': 7, 'draw': 7, 'interaction': 8, 'folder': 'edh', 'commander': 'YoshimaruEverFaithful.txt'}

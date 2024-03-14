@@ -1,65 +1,65 @@
 1 The Fugitive Doctor
-1 Survival of the Fittest
-1 Stormkeld Vanguard // Bear Down
-1 Seedborn Muse
-1 Tuinvale Treefolk // Oaken Boon
-1 Titan's Presence
-1 Yedora, Grave Gardener
-1 Venerable Kumo
-1 War Room
-1 Volcanic Torrent
-1 Yavimaya Sojourner
-1 Yasmin Khan
-1 Vulshok Splitter
-1 Wicker Picker
-1 Zada, Hedron Grinder
-1 _____ Balls of Fire
-1 Sylvan Bounty
-1 Underworld Rage-Hound
-1 Wary Thespian
-1 Territorial Allosaurus
-1 Syr Carah, the Bold
+1 Viridian Longbow
+1 Treespring Lorian
+1 Winding Canyons
+1 Yavimaya Granger
 1 Sprouting Vines
+1 Wall of Forgotten Pharaohs
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Wolfkin Outcast // Wedding Crasher
+1 Thunderous Wrath
 1 Terramorph
-1 Widespread Panic
-1 Tlincalli Hunter // Retrieve Prey
-1 Bloom Tender
-1 Wand of Wonder
-1 Wear Away
 1 Vulshok Morningstar
-1 Universal Automaton
-1 Vivien, Nature's Avenger
-1 Towashi Guide-Bot
-1 Viral Spawning
-1 Surging Might
-1 Whirling Catapult
-1 Summoner's Egg
-1 Volatile Fault
-1 Sol Ring
-1 Lightning Bolt
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Wildest Dreams
-1 Wolfrider's Saddle
-1 Warm Welcome
-1 Wooded Foothills
-1 Worldspine Wurm
-1 Eternal Witness
-1 Two-Headed Hunter // Twice the Rage
-1 Wren's Run Vanquisher
-1 Ugin, the Spirit Dragon
-1 Twinning Staff
-1 Verdant Confluence
-1 Sudden Reclamation
-1 Vessel of Volatility
-1 Vedalken Orrery
-1 Warren Instigator
-1 Two-Handed Axe // Sweeping Cleave
-1 Thought-Knot Seer
-1 Warbreak Trumpeter
-1 Verduran Emissary
-1 Thornado
-1 Volatile Wanderglyph
-1 Warp World
-1 Tome of the Guildpact
-1 Young Red Dragon // Bathe in Gold
-{'overall': 6.751845018450185, 'cmc': 3.985294117647059, 'ramp': '11', 'draw': '12', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'TheFugitiveDoctor.txt'}: 10, 'folder': 'manual_rand', 'commander': 'TheFugitiveDoctor.txt'}
+1 Transmogrify
+1 Troublemaker Ouphe
+1 Vivien Reid
+1 Vanquisher's Banner
+1 Thought Prison
+1 Words of War
+1 Winding Wurm
+1 Towering Baloth
+1 Track Down
+1 Wild Celebrants
+1 Vivien on the Hunt
+1 Wild Dogs
+1 Swashbuckler's Whip
+1 Virtue of Strength // Garenbrig Growth
+1 Vindictive Flamestoker
+1 Tranquil Thicket
+1 Urza's Blueprints
+1 Uncage the Menagerie
+1 Verdant Eidolon
+1 Verdant Crescendo
+1 World at War
+1 Temporal Aperture
+1 Whisperwood Elemental
+1 Uba Mask
+1 Wreak Havoc
+1 Whetwheel
+1 Twinning Glass
+1 Stormcrag Elemental
+1 Tishana's Wayfinder
+1 Vivien's Arkbow
+1 Surge to Victory
+1 Tel-Jilad Exile
+1 Yuki-Onna
+1 Twists and Turns // Mycoid Maze
+1 Vorrac Battlehorns
+1 Weatherseed Totem
+1 Hardened Scales
+1 Titan's Strength
+1 Bloom Tender
+1 Workshop Warchief
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Tibalt's Trickery
+1 Squee, Dubious Monarch
+1 Wild Ricochet
+1 Thornscape Familiar
+1 War Room
+1 Visions of Dominance
+1 Tlincalli Hunter // Retrieve Prey
+1 Wreck and Rebuild
+1 Talons of Falkenrath
+1 Wish
+1 Wurmcalling
+{'overall': 8.237155963302753, 'cmc': 3.40625, 'ramp': 8, 'draw': 21, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TheFugitiveDoctor.txt'}

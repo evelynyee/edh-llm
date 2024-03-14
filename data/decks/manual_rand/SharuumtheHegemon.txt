@@ -62,4 +62,4 @@
 1 Trusty Retriever
 1 Triad of Fates
 1 Thassa's Devourer
-{'overall': 6.420135746606334, 'cmc': 3.507936507936508, 'ramp': 3, 'draw': 19, 'interaction': 7}
+{'overall': 6.420135746606334, 'cmc': 3.507936507936508, 'ramp': 3, 'draw': 19, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SharuumtheHegemon.txt'}

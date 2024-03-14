@@ -62,4 +62,4 @@
 1 Urgoros, the Empty One
 1 Words of Waste
 1 Ugin's Nexus
-{'overall': 2.78781512605042, 'cmc': 3.71875, 'ramp': 2, 'draw': 3, 'interaction': 20}
+{'overall': 2.78781512605042, 'cmc': 3.71875, 'ramp': 2, 'draw': 3, 'interaction': 20, 'folder': 'manual_rand', 'commander': 'TorWaukitheYounger.txt'}

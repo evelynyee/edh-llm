@@ -62,4 +62,4 @@
 1 Worthy Knight
 1 Thalia's Geistcaller
 1 Wand of Ith
-{'overall': 4.48781512605042, 'cmc': 3.71875, 'ramp': 5, 'draw': 9, 'interaction': 9}
+{'overall': 4.48781512605042, 'cmc': 3.71875, 'ramp': 5, 'draw': 9, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'RegnatheRedeemer.txt'}

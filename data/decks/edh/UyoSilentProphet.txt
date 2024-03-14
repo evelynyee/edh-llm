@@ -62,4 +62,4 @@
 1 Twincast
 1 Opt
 1 Arcane Denial
-{'overall': 9.356410256410255, 'cmc': 3.046875, 'ramp': 16, 'draw': 17, 'interaction': 9}
+{'overall': 9.356410256410255, 'cmc': 3.046875, 'ramp': 16, 'draw': 17, 'interaction': 9, 'folder': 'edh', 'commander': 'UyoSilentProphet.txt'}

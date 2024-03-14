@@ -62,4 +62,4 @@
 1 Warmth
 1 Thran Lens
 1 Unquestioned Authority
-{'overall': 3.827450980392157, 'cmc': 3.1875, 'ramp': 1, 'draw': 11, 'interaction': 4}
+{'overall': 3.827450980392157, 'cmc': 3.1875, 'ramp': 1, 'draw': 11, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}

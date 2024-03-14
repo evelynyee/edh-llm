@@ -62,4 +62,4 @@
 1 Zada, Hedron Grinder
 1 Waterlogged Hulk // Watertight Gondola
 1 Veteran Adventurer
-{'overall': 4.951724137931035, 'cmc': 3.625, 'ramp': 8, 'draw': 9, 'interaction': 3}
+{'overall': 4.951724137931035, 'cmc': 3.625, 'ramp': 8, 'draw': 9, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'MiirymSentinelWyrm.txt'}

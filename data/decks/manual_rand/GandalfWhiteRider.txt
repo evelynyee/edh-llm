@@ -1,0 +1,65 @@
+1 Gandalf, White Rider
+1 Mind Stone
+1 The Circle of Loyalty
+1 Thousand Moons Crackshot
+1 Weathered Wayfarer
+1 Whitemane Lion
+1 _____ Bird Gets the Worm
+1 Thran Foundry
+1 Vanquisher's Banner
+1 Vulshok Battlegear
+1 Sun's Bounty
+1 World Queller
+1 Surveyor's Scope
+1 Survival Cache
+1 Vizier of Deferment
+1 Whalebone Glider
+1 Trynn, Champion of Freedom
+1 Wedding Invitation
+1 Stonebinder's Familiar
+1 Torii Watchward
+1 Valor Made Real
+1 Sonic Screwdriver
+1 Zelyon Sword
+1 Starfield of Nyx
+1 Warlord's Axe
+1 Swift Reckoning
+1 Wingmate Roc
+1 Supernatural Rescue
+1 Sudden Salvation
+1 Zhalfirin Decoy
+1 Together Forever
+1 Waxmane Baku
+1 The Eternal Wanderer
+1 Wayward Angel
+1 Tawnos's Weaponry
+1 Veteran's Armaments
+1 War of the Last Alliance
+1 Syr Alin, the Lion's Claw
+1 Strength of Isolation
+1 Tower of Champions
+1 Sentry Oak
+1 Vizier of Remedies
+1 Urza's Sylex
+1 Vizier of the True
+1 Wojek Apothecary
+1 Soaring Hope
+1 Steel Seraph
+1 Valor in Akros
+1 The Stasis Coffin
+1 Walking Atlas
+1 Shepherd of the Cosmos
+1 Sword of the Meek
+1 Sword of Once and Future
+1 Mana Crypt
+1 Vanish into Eternity
+1 Suspension Field
+1 Steelshaper Apprentice
+1 Tireless Tribe
+1 Sunbird Standard // Sunbird Effigy
+1 The Wandering Emperor
+1 Austere Command
+1 Seasoned Dungeoneer
+1 Thaumatic Compass // Spires of Orazca
+1 Smelting Vat
+{'overall': 5.609523809523809, 'cmc': 3.28125, 'ramp': 8, 'draw': 11, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}

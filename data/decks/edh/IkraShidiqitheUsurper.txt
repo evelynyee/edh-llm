@@ -62,4 +62,4 @@
 1 Night's Whisper
 1 Three Visits
 1 Demonic Tutor
-{'overall': 6.625806451612903, 'cmc': 2.421875, 'ramp': 14, 'draw': 8, 'interaction': 6}
+{'overall': 6.625806451612903, 'cmc': 2.421875, 'ramp': 14, 'draw': 8, 'interaction': 6, 'folder': 'edh', 'commander': 'IkraShidiqitheUsurper.txt'}

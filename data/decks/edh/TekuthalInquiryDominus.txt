@@ -62,4 +62,4 @@
 1 Rapid Hybridization
 1 Nykthos, Shrine to Nyx
 1 Ugin, the Spirit Dragon
-{'overall': 10.266666666666666, 'cmc': 3.0, 'ramp': 14, 'draw': 22, 'interaction': 12}
+{'overall': 10.266666666666666, 'cmc': 3.0, 'ramp': 14, 'draw': 22, 'interaction': 12, 'folder': 'edh', 'commander': 'TekuthalInquiryDominus.txt'}

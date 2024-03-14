@@ -62,4 +62,4 @@
 1 Ulamog, the Infinite Gyre
 1 Aminatou's Augury
 1 Timebender
-{'overall': 6.3236842105263165, 'cmc': 2.96875, 'ramp': 11, 'draw': 10, 'interaction': 8}
+{'overall': 6.3236842105263165, 'cmc': 2.96875, 'ramp': 11, 'draw': 10, 'interaction': 8, 'folder': 'edh', 'commander': 'TheTenthDoctor.txt'}

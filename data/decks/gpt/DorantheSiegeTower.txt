@@ -62,4 +62,4 @@
 1 Vraska the Unseen
 1 Terashi's Grasp
 1 Westgate Regent
-{'overall': 3.7265765765765764, 'cmc': 3.46875, 'ramp': '4', 'draw': '6', 'interaction': 13, 'folder': 'gpt', 'commander': 'DorantheSiegeTower.txt'}
+{'overall': 3.7265765765765764, 'cmc': 3.46875, 'ramp': 4, 'draw': 6, 'interaction': 13}

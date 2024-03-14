@@ -62,4 +62,4 @@
 1 Marsh Flats
 1 Bojuka Bog
 1 Giver of Runes
-{'overall': 6.37280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 11, 'interaction': 10}
+{'overall': 6.37280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 11, 'interaction': 10, 'folder': 'edh', 'commander': 'FrodoSauronsBane.txt'}

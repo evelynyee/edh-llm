@@ -62,4 +62,4 @@
 1 Oathsworn Giant
 1 Path to Exile
 1 Tree of Redemption
-{'overall': 4.889884393063584, 'cmc': 2.703125, 'ramp': 9, 'draw': 6, 'interaction': 8}
+{'overall': 4.889884393063584, 'cmc': 2.703125, 'ramp': 9, 'draw': 6, 'interaction': 8, 'folder': 'edh', 'commander': 'DorantheSiegeTower.txt'}

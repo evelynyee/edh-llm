@@ -62,4 +62,4 @@
 1 Thunder-Thrash Elder
 1 Wildfire
 1 Winds of Change
-{'overall': 7.237179487179487, 'cmc': 2.91044776119403, 'ramp': '10', 'draw': '14', 'interaction': 11, 'folder': 'gpt', 'commander': 'DepalaPilotExemplar.txt'}raction': 11, 'folder': 'gpt', 'commander': 'DepalaPilotExemplar.txt'}
+{'overall': 6.966666666666667, 'cmc': 3.0, 'ramp': 9, 'draw': 14, 'interaction': 11}

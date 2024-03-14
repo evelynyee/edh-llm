@@ -62,4 +62,4 @@
 1 Majestic Myriarch
 1 Overgrown Tomb
 1 Farseek
-{'overall': 5.695652173913043, 'cmc': 2.875, 'ramp': 10, 'draw': 9, 'interaction': 5}
+{'overall': 5.695652173913043, 'cmc': 2.875, 'ramp': 10, 'draw': 9, 'interaction': 5, 'folder': 'edh', 'commander': 'KathrilAspectWarper.txt'}

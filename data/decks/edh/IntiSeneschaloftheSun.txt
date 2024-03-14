@@ -62,4 +62,4 @@
 1 War Room
 1 Cursed Mirror
 1 Magus of the Wheel
-{'overall': 13.685632183908044, 'cmc': 2.71875, 'ramp': 16, 'draw': 34, 'interaction': 9}
+{'overall': 13.685632183908044, 'cmc': 2.71875, 'ramp': 16, 'draw': 34, 'interaction': 9, 'folder': 'edh', 'commander': 'IntiSeneschaloftheSun.txt'}

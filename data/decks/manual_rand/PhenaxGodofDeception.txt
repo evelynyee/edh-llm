@@ -62,4 +62,4 @@
 1 Wu Elite Cavalry
 1 Visions of Dread
 1 Wei Night Raiders
-{'overall': 3.28781512605042, 'cmc': 3.71875, 'ramp': 3, 'draw': 6, 'interaction': 10}
+{'overall': 3.28781512605042, 'cmc': 3.71875, 'ramp': 3, 'draw': 6, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}

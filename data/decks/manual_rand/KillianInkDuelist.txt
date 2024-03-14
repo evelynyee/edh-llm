@@ -1,0 +1,65 @@
+1 Killian, Ink Duelist
+1 Witness of the Ages
+1 Tocatli Honor Guard
+1 The Peregrine Dynamo
+1 Sphinx's Decree
+1 Twinblade Geist // Twinblade Invocation
+1 Thran Power Suit
+1 Urza's Miter
+1 Valiant Changeling
+1 Vengeful Dreams
+1 Zombie Scavengers
+1 Timely Ward
+1 Witch Engine
+1 Start // Finish
+1 Wing Shards
+1 Westfold Rider
+1 Weathered Bodyguards
+1 Unforgiving One
+1 Temple Thief
+1 Stinkdrinker Bandit
+1 Thran Turbine
+1 Tomik, Distinguished Advokist
+1 Triplicate Spirits
+1 Tainted Adversary
+1 Tawnos's Wand
+1 Undercity Necrolisk
+1 Yahenni's Expertise
+1 Zhalfirin Commander
+1 Viscid Lemures
+1 Soulless Jailer
+1 Vampire Bats
+1 Wooden Stake
+1 Vizier of the True
+1 Damnation
+1 Soul Sculptor
+1 Trueheart Duelist
+1 The Chain Veil
+1 Vengeance
+1 Urza's Chalice
+1 Withering Boon
+1 Whisper, Blood Liturgist
+1 The Abyss
+1 Wojek Siren
+1 Wall of Tombstones
+1 Twinning Staff
+1 Zhang Fei, Fierce Warrior
+1 Yawgmoth's Vile Offering
+1 Writ of Return
+1 Wall of Limbs
+1 Terror of Towashi
+1 White Knight
+1 Wei Strike Force
+1 Tithe Taker
+1 Weirded Vampire
+1 Wyrm's Crossing Patrol
+1 Warlord's Axe
+1 Topaz Dragon // Entropic Cloud
+1 Voidstone Gargoyle
+1 Woe Strider
+1 Spiteful Returned
+1 The Circle of Loyalty
+1 Wishmonger
+1 Warhorn Blast
+1 Suq'Ata Assassin
+{'overall': 1.5898617511520738, 'cmc': 3.390625, 'ramp': 2, 'draw': 1, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'KillianInkDuelist.txt'}

@@ -62,4 +62,4 @@
 1 Wayfarer's Bauble
 1 Ponder
 1 Myriad Landscape
-{'overall': 7.853448275862069, 'cmc': 1.8125, 'ramp': 10, 'draw': 15, 'interaction': 10}
+{'overall': 7.853448275862069, 'cmc': 1.8125, 'ramp': 10, 'draw': 15, 'interaction': 10, 'folder': 'edh', 'commander': 'DragonlordOjutai.txt'}

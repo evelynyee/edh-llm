@@ -62,4 +62,4 @@
 1 Vraska's Contempt
 1 Thorntooth Witch
 1 Vampire's Bite
-{'overall': 4.459677419354838, 'cmc': 2.8181818181818183, 'ramp': '6', 'draw': '6', 'interaction': 15, 'folder': 'gpt', 'commander': 'DinaSoulSteeper.txt'}pt', 'commander': 'DinaSoulSteeper.txt'}
+{'overall': 4.149453551912568, 'cmc': 2.859375, 'ramp': 6, 'draw': 5, 'interaction': 14}

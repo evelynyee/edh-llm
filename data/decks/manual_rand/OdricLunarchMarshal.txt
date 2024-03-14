@@ -62,4 +62,4 @@
 1 Mentor of the Meek
 1 Warhorn Blast
 1 Windshaper Planetar
-{'overall': 1.1132124352331607, 'cmc': 3.015625, 'ramp': 0, 'draw': 1, 'interaction': 4}
+{'overall': 1.1132124352331607, 'cmc': 3.015625, 'ramp': 0, 'draw': 1, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}

@@ -62,4 +62,4 @@
 1 Unlikely Alliance
 1 Visions of Duplicity
 1 Stinging Lionfish
-{'overall': 4.465384615384615, 'cmc': 3.25, 'ramp': 5, 'draw': 10, 'interaction': 2}
+{'overall': 4.465384615384615, 'cmc': 3.25, 'ramp': 5, 'draw': 10, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'RaffWeatherlightStalwart.txt'}

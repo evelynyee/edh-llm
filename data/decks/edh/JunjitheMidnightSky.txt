@@ -62,4 +62,4 @@
 1 Thought Vessel
 1 Phyrexian Altar
 1 Dread Return
-{'overall': 7.120748299319728, 'cmc': 2.296875, 'ramp': 14, 'draw': 10, 'interaction': 5}
+{'overall': 7.120748299319728, 'cmc': 2.296875, 'ramp': 14, 'draw': 10, 'interaction': 5, 'folder': 'edh', 'commander': 'JunjitheMidnightSky.txt'}

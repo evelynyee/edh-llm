@@ -62,4 +62,4 @@
 1 Defiler of Dreams
 1 Propaganda
 1 Remote Isle
-{'overall': 10.870157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 29, 'interaction': 9}
+{'overall': 10.870157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 29, 'interaction': 9, 'folder': 'edh', 'commander': 'OrmosArchiveKeeper.txt'}

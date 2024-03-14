@@ -1,0 +1,65 @@
+1 Frodo, Determined Hero
+1 Westfold Rider
+1 Stasis Snare
+1 Sword of Once and Future
+1 Wooden Stake
+1 Sword of War and Peace
+1 Unruly Mob
+1 Sunstone
+1 Sword of the Ages
+1 Thundersteel Colossus
+1 Spiked Pit Trap
+1 Veteran Bodyguard
+1 Valkyrie's Sword
+1 Terashi's Verdict
+1 Stalking Leonin
+1 Timely Hordemate
+1 Weathered Bodyguards
+1 Vigilant Sentry
+1 Veteran's Sidearm
+1 War Barge
+1 Sword of the Meek
+1 Sword of Kaldra
+1 Spirit Loop
+1 Solitary Sanctuary
+1 Soldier Replica
+1 The Pandorica
+1 Urza Assembles the Titans
+1 Wispmare
+1 Starlight
+1 The Wandering Emperor
+1 Trained Caracal
+1 Woeleecher
+1 Whalebone Glider
+1 Tariff
+1 Tiller Engine
+1 Thraben Exorcism
+1 Tawnos's Weaponry
+1 Wandering Champion
+1 Sunstrike Legionnaire
+1 Wall of Essence
+1 Wall of Junk
+1 Springjaw Trap
+1 Ugin, the Spirit Dragon
+1 Umbilicus
+1 Sunset Revelry
+1 The Golden Throne
+1 Warmonger's Chariot
+1 Spiritualize
+1 Worldslayer
+1 Tragic Arrogance
+1 Wojek Siren
+1 Sivvi's Valor
+1 Vanish into Eternity
+1 Thopter Architect
+1 Scepter of Empires
+1 Trained Pronghorn
+1 Umbra Mystic
+1 Sword of Body and Mind
+1 Talus Paladin
+1 Trepanation Blade
+1 Shining Shoal
+1 Symmetry Matrix
+1 Umezawa's Jitte
+1 Veilstone Amulet
+{'overall': 3.106410256410256, 'cmc': 3.046875, 'ramp': 1, 'draw': 6, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'FrodoDeterminedHero.txt'}

@@ -62,4 +62,4 @@
 1 Winds of Change
 1 Spellbinder
 1 Tundra Kavu
-{'overall': 6.00093896713615, 'cmc': 3.328125, 'ramp': 5, 'draw': 15, 'interaction': 8}
+{'overall': 6.00093896713615, 'cmc': 3.328125, 'ramp': 5, 'draw': 15, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'IntiSeneschaloftheSun.txt'}

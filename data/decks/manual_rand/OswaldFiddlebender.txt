@@ -62,4 +62,4 @@
 1 Vessel of Endless Rest
 1 Witness of the Ages
 1 Séance
-{'overall': 6.83681592039801, 'cmc': 3.140625, 'ramp': 9, 'draw': 14, 'interaction': 9}
+{'overall': 6.83681592039801, 'cmc': 3.140625, 'ramp': 9, 'draw': 14, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'OswaldFiddlebender.txt'}

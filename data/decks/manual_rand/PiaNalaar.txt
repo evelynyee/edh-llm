@@ -62,4 +62,4 @@
 1 Vanquisher's Axe
 1 Tentative Connection
 1 Young Red Dragon // Bathe in Gold
-{'overall': 3.776865671641791, 'cmc': 3.1904761904761907, 'ramp': 6, 'draw': 4, 'interaction': 13}
+{'overall': 3.776865671641791, 'cmc': 3.1904761904761907, 'ramp': 6, 'draw': 4, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'PiaNalaar.txt'}

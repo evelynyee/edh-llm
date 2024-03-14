@@ -62,4 +62,4 @@
 1 Wildfire Eternal
 1 Steam Blast
 1 Thirsting Axe
-{'overall': 3.625, 'cmc': 3.8095238095238093, 'ramp': 1, 'draw': 8, 'interaction': 17}
+{'overall': 3.625, 'cmc': 3.8095238095238093, 'ramp': 1, 'draw': 8, 'interaction': 17, 'folder': 'manual_rand', 'commander': 'GarzaZolPlagueQueen.txt'}

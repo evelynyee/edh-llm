@@ -62,4 +62,4 @@
 1 Tormod's Crypt
 1 Commander's Sphere
 1 Vex
-{'overall': 4.779185520361991, 'cmc': 3.453125, 'ramp': 4, 'draw': 10, 'interaction': 14}
+{'overall': 4.779185520361991, 'cmc': 3.453125, 'ramp': 4, 'draw': 10, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}

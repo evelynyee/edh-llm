@@ -62,4 +62,4 @@
 1 Mind Stone
 1 Undercity Shade
 1 Whalebone Glider
-{'overall': 4.4100985221674875, 'cmc': 3.029850746268657, 'ramp': '9', 'draw': '3', 'interaction': 15, 'folder': 'gpt', 'commander': 'VisaratheDreadful.txt'}: 'gpt', 'commander': 'VisaratheDreadful.txt'}
+{'overall': 4.413212435233161, 'cmc': 3.015625, 'ramp': 9, 'draw': 3, 'interaction': 15}

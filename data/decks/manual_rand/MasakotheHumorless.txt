@@ -62,4 +62,4 @@
 1 Wild Griffin
 1 Serra's Blessing
 1 Sheltering Prayers
-{'overall': 3.2497461928934013, 'cmc': 3.078125, 'ramp': 2, 'draw': 7, 'interaction': 7}
+{'overall': 3.2497461928934013, 'cmc': 3.078125, 'ramp': 2, 'draw': 7, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MasakotheHumorless.txt'}

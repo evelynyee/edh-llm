@@ -62,4 +62,4 @@
 1 Talisman of Impulse
 1 Arcane Signet
 1 Sol Ring
-{'overall': 12.38447488584475, 'cmc': 3.421875, 'ramp': 23, 'draw': 22, 'interaction': 11}
+{'overall': 12.38447488584475, 'cmc': 3.421875, 'ramp': 23, 'draw': 22, 'interaction': 11, 'folder': 'edh', 'commander': 'TheFugitiveDoctor.txt'}

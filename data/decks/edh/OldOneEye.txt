@@ -62,4 +62,4 @@
 1 War Room
 1 Selvala, Heart of the Wilds
 1 Full Flowering
-{'overall': 11.65093896713615, 'cmc': 3.328125, 'ramp': 21, 'draw': 22, 'interaction': 6}
+{'overall': 11.65093896713615, 'cmc': 3.328125, 'ramp': 21, 'draw': 22, 'interaction': 6, 'folder': 'edh', 'commander': 'OldOneEye.txt'}

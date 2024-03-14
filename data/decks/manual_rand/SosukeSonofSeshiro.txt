@@ -62,4 +62,4 @@
 1 Xantid Swarm
 1 Urban Daggertooth
 1 Trained Cheetah
-{'overall': 3.7032967032967035, 'cmc': 2.84375, 'ramp': 5, 'draw': 6, 'interaction': 5}
+{'overall': 3.7032967032967035, 'cmc': 2.84375, 'ramp': 5, 'draw': 6, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}

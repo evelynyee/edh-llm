@@ -62,4 +62,4 @@
 1 Minion's Return
 1 Read the Bones
 1 Sun Titan
-{'overall': 6.332758620689655, 'cmc': 2.265625, 'ramp': 4, 'draw': 16, 'interaction': 9}
+{'overall': 6.332758620689655, 'cmc': 2.265625, 'ramp': 4, 'draw': 16, 'interaction': 9, 'folder': 'edh', 'commander': 'KillianInkDuelist.txt'}
