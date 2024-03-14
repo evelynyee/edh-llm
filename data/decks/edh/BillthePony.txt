@@ -61,4 +61,5 @@
 1 Gilraen, Dúnedain Protector
 1 Cathar's Shield
 1 Hobbit's Sting
-{'overall': 5.4283236994219655, 'cmc': 2.746031746031746, 'ramp': '8', 'draw': '9', 'interaction': 9, 'folder': 'edh', 'commander': 'BillthePony.txt'}
+1 Cut a Deal
+{'overall': 5.427272727272728, 'cmc': 2.75, 'ramp': 8, 'draw': 9, 'interaction': 9}

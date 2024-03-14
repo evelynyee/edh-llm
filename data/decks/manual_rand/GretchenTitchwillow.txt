@@ -1,65 +1,65 @@
 1 Gretchen Titchwillow
-1 Wild Pair
-1 Vivisection
-1 Turntimber Sower
-1 Timeless Witness
-1 Waterlogged Hulk // Watertight Gondola
-1 Windreader Sphinx
-1 Wondrous Crucible
-1 Tragic Lesson
-1 Watcher in the Mist
-1 Whim of Volrath
-1 Tempest Hart // Scan the Clouds
-1 Winding Way
-1 The Stone Brain
-1 Wall of Lost Thoughts
-1 Wary Thespian
-1 Voidmage Prodigy
-1 Tuinvale Treefolk // Oaken Boon
-1 Warped Landscape
-1 Thornado
-1 Urza's Incubator
-1 Zahid, Djinn of the Lamp
-1 Venser, Shaper Savant
-1 Thought Courier
+1 Wirewood Savage
+1 Troyan, Gutsy Explorer
+1 Tilling Treefolk
+1 Wren's Run Packmaster
+1 Sylvan Scrying
+1 Tishana's Wayfinder
+1 Tunneler Wurm
+1 Stitched Assistant
 1 Vivien on the Hunt
-1 Yavimaya Elder
-1 Veil of Secrecy
-1 Watcher for Tomorrow
-1 Wormfang Newt
-1 Trash Bin
-1 Wirewood Herald
-1 Yavimaya Granger
-1 Witness of Tomorrows
-1 Vessel of Nascency
-1 Wizards of the _____
-1 Wild Dogs
-1 Sylvan Bounty
-1 Titania, Voice of Gaea // Titania, Gaea Incarnate
-1 Tidal Courier
-1 Winter Eladrin
-1 Wayfarer's Bauble
-1 Unexplained Disappearance
-1 Yavimaya, Cradle of Growth
-1 Stoic Builder
-1 Triassic Egg
-1 Wrenn and Realmbreaker
-1 Vexing Arcanix
+1 Wurmquake
+1 _____ _____ Rocketship
+1 Twists and Turns // Mycoid Maze
+1 Timetwister
 1 Whirling Catapult
-1 Transplant Theorist
-1 Threats Undetected
-1 Walk the Aeons
-1 Thran Foundry
+1 Worldly Counsel
+1 Vedalken Archmage
+1 Tooth and Nail
 1 Waterfront Bouncer
-1 Voidwielder
-1 The Binding of the Titans
-1 Vedalken Aethermage
-1 The Great Aurora
-1 Winnower Patrol
-1 Vexing Sphinx
-1 Talion's Messenger
-1 Vivien's Grizzly
-1 Temporal Aperture
-1 Voidwalk
+1 Triskaidekaphile
+1 Yavimaya Ants
+1 Vengevine
 1 Windswept Heath
-{'overall': 10.821004566210044, 'cmc': 3.2205882352941178, 'ramp': '9', 'draw': '31', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}1', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}
+1 Whim of Volrath
+1 Weaver of Lies
+1 Vex
+1 Wirewood Herald
+1 Time Reversal
+1 World Shaper
+1 Whiplash Trap
+1 Talion's Messenger
+1 Whirlpool Whelm
+1 Unlucky Drop
+1 Wormfang Drake
+1 Tidings
+1 Temporal Eddy
+1 Woodland Bellower
+1 Wild Onslaught
+1 Wildwood Rebirth
+1 Well of Knowledge
+1 Winter Eladrin
+1 Wanderer's Twig
+1 Venser, Shaper Savant
+1 Vorinclex // The Grand Evolution
+1 Timeless Witness
+1 Verdant Confluence
+1 Sol Ring
+1 Wavesifter
+1 Whetwheel
+1 Whispers of the Muse
+1 Transmute Artifact
+1 Venerable Kumo
+1 Counterspell
+1 You Meet in a Tavern
+1 Untamed Wilds
+1 Traverse the Outlands
+1 Wall of Lost Thoughts
+1 The Antiquities War
+1 Urza's Miter
+1 Zendikar Resurgent
+1 Wanderguard Sentry
+1 Unesh, Criosphinx Sovereign
+1 Zndrsplt, Eye of Wisdom
+1 Wary Thespian
+{'overall': 11.501724137931033, 'cmc': 3.625, 'ramp': 13, 'draw': 30, 'interaction': 4}

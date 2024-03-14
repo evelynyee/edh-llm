@@ -1,65 +1,65 @@
 1 Queen Allenal of Ruadach
-1 Village Survivors
-1 Zealous Inquisitor
-1 Trueheart Duelist
-1 Thelonite Druid
-1 Wolfbriar Elemental
-1 Wolfkin Outcast // Wedding Crasher
-1 Tolsimir Wolfblood
+1 Topography Tracker
+1 Workshop Warchief
+1 Sprout
+1 Yedora, Grave Gardener
 1 Voice of Truth
-1 Vedalken Shackles
-1 Unified Front
-1 Verdeloth the Ancient
-1 Vegetation Abomination
-1 Weight of Conscience
-1 Syndicate Messenger
-1 Ugin's Conjurant
-1 Valkyrie's Sword
-1 Thraben Doomsayer
-1 Superior Numbers
-1 Wellgabber Apothecary
-1 Welcoming Vampire
-1 Stormfront Riders
-1 Tinker's Tote
-1 Strength-Testing Hammer
-1 Windshaper Planetar
-1 Springjack Shepherd
-1 Wurm's Tooth
-1 Sunbringer's Touch
-1 Teyo, the Shieldmage
-1 Whalebone Glider
-1 Triangle of War
-1 Thallid Devourer
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Wheel of Torture
-1 The Skullspore Nexus
-1 The Hive
-1 Sunfall
-1 Touch of the Eternal
-1 Volrath's Gardens
-1 Verdant Command
-1 Urbis Protector
-1 Warbriar Blessing
-1 Weaver of Harmony
-1 Wondrous Crucible
-1 Unerring Sling
-1 Whippoorwill
-1 Tatsumasa, the Dragon's Fang
-1 Zhang Fei, Fierce Warrior
-1 Treefolk Seedlings
-1 Timber Paladin
-1 Seedborn Muse
-1 Wanderer's Strike
-1 Woodcaller Automaton
-1 Thwart the Enemy
-1 Tukatongue Thallid
-1 You Look Upon the Tarrasque
-1 Whirlermaker
-1 Thijarian Witness
-1 The Crowd Goes Wild
-1 Vine Snare
-1 Venerated Rotpriest
-1 Valor Made Real
-1 Wirewood Symbiote
+1 Sol Ring
+1 Tyranid Invasion
+1 Three Blind Mice
+1 You're Confronted by Robbers
+1 Vessel of Ephemera
 1 Wolfrider's Saddle
-{'overall': 2.31198347107438, 'cmc': 3.5588235294117645, 'ramp': '1', 'draw': '5', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}on': 5, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}
+1 Venerable Kumo
+1 Uktabi Wildcats
+1 Viridian Longbow
+1 Zar Ojanen, Scion of Efrava
+1 Welcome to Sweettooth
+1 Umbra Mystic
+1 War Elephant
+1 Vengeful Archon
+1 Vagrant Plowbeasts
+1 Urza's Engine
+1 Witchstalker
+1 Wall of Reverence
+1 Thran Lens
+1 Wolf's Quarry
+1 Vivien on the Hunt
+1 Wing Puncture
+1 Strength of Arms
+1 The First Iroan Games
+1 Wurmcoil Engine
+1 Vitaspore Thallid
+1 Wedding Announcement // Wedding Festivity
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Verdant Command
+1 Unlicensed Hearse
+1 Walking Skyscraper
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Tawnos's Tinkering
+1 Throne of Empires
+1 Tolsimir Wolfblood
+1 Welcoming Vampire
+1 Wake the Reflections
+1 Mentor of the Meek
+1 Tarmogoyf
+1 The Curse of Fenric
+1 Whippoorwill
+1 The Battle of Bywater
+1 Vastwood Animist
+1 Thopter Assembly
+1 Wingrattle Scarecrow
+1 Zendikar's Roil
+1 Sunspire Gatekeepers
+1 Tatsumasa, the Dragon's Fang
+1 Sunbringer's Touch
+1 White Ward
+1 Voodoo Doll
+1 Urza's Factory
+1 Sprouting Renewal
+1 Tandem Takedown
+1 War Dance
+1 Teyo, the Shieldmage
+1 Undercity Upheaval
+{'overall': 4.106521739130435, 'cmc': 3.59375, 'ramp': 4, 'draw': 9, 'interaction': 6}

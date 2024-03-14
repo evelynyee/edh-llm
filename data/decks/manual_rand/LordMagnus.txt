@@ -1,65 +1,65 @@
 1 Lord Magnus
 1 Thran Golem
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Werewolf Pack Leader
-1 Valorous Charge
-1 Thundersteel Colossus
-1 Ursine Champion
-1 Urban Burgeoning
-1 White Knight
-1 Wild Nacatl
-1 Zuberi, Golden Feather
-1 Voice of Truth
-1 Withstand
-1 Summit Apes
-1 Stasis Cocoon
-1 Vernadi Shieldmate
-1 Web
-1 Stonewood Invocation
-1 Triplicate Spirits
-1 Wayfaring Temple
-1 Unnatural Growth
-1 Voiceless Spirit
-1 Thunderous Orator
-1 Treetop Scout
-1 Yeva, Nature's Herald
-1 Windshaper Planetar
-1 Winter Blast
-1 Viridian Claw
-1 Vines of the Recluse
-1 Sungrace Pegasus
-1 Treeshaker Chimera
-1 Unflinching Courage
-1 Tower Above
-1 Tribal Unity
-1 Wall of Shields
-1 Watchdog
-1 Eternal Witness
-1 Touch of Vitae
-1 Zodiac Tiger
-1 True Believer
-1 Zhao Zilong, Tiger General
-1 Ulvenwald Mystics // Ulvenwald Primordials
-1 Mentor of the Meek
-1 Town Sentry
-1 Yavimaya Dryad
-1 Treefolk Mystic
-1 Vedalken Shackles
-1 Taoist Mystic
-1 Éowyn, Lady of Rohan
-1 Wall of Brambles
-1 Topan Freeblade
+1 You Look Upon the Tarrasque
+1 Unerring Sling
+1 Takeno, Samurai General
+1 Terrifying Presence
+1 Trusty Companion
+1 Vigilance
 1 Spire Tracer
+1 Wildsize
+1 Wedding Announcement // Wedding Festivity
+1 Wildwood Patrol
+1 Wandermare
+1 White Dragon
+1 Tireless Hauler // Dire-Strain Brawler
+1 Tegan Jovanka
+1 Voiceless Spirit
+1 Vorrac Battlehorns
+1 Ward of Piety
+1 Tocatli Honor Guard
+1 Veteran Cavalier
+1 Turntimber Basilisk
+1 Zodiac Rooster
+1 Zodiac Tiger
+1 Summit Apes
+1 Wolfkin Outcast // Wedding Crasher
+1 Walking Bulwark
+1 Tanglewalker
+1 Vizier of the True
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Soltari Monk
+1 Whalebone Glider
+1 Wind Shear
+1 True Believer
+1 Vigilant Baloth
+1 Veteran's Armaments
+1 Willow Faerie
+1 Wildwood Tracker
+1 Vernal Equinox
+1 Tireless Hauler // Dire-Strain Brawler
+1 Zealot il-Vec
+1 The Chain Veil
+1 Vedalken Shackles
+1 Wooden Stake
+1 Zodiac Rabbit
+1 Swinging Ship
+1 Sword of the Paruns
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Warden of the Woods
+1 Taoist Mystic
+1 Zeriam, Golden Wind
+1 Stormkeld Vanguard // Bear Down
+1 Woolly Mammoths
+1 Wall of Hope
+1 Wanderlust
+1 Wild Griffin
+1 Zealot's Conviction
+1 Unholy Citadel
+1 Tempting Licid
+1 Tanglesap
+1 Sun Sentinel
+1 Zodiac Ox
+1 The Peregrine Dynamo
 1 War Chariot
-1 Soltari Priest
-1 The Pandorica
-1 Trained Cheetah
-1 Syr Alin, the Lion's Claw
-1 Vow of Duty
-1 Toski, Bearer of Secrets
-1 Zodiac Monkey
-1 Path to Exile
-1 Vitalizing Wind
-1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Woodcaller Automaton
-{'overall': 2.9098654708520177, 'cmc': 3.2794117647058822, 'ramp': '2', 'draw': '6', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'LordMagnus.txt'}tion': 6, 'folder': 'manual_rand', 'commander': 'LordMagnus.txt'}
+{'overall': 1.8096858638743454, 'cmc': 3.0317460317460316, 'ramp': 0, 'draw': 4, 'interaction': 3}

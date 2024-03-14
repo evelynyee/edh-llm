@@ -61,4 +61,5 @@
 1 Swiftfoot Boots
 1 Ulamog, the Infinite Gyre
 1 Aminatou's Augury
-{'overall': 6.316666666666667, 'cmc': 3.0, 'ramp': '11', 'draw': '10', 'interaction': 8, 'folder': 'edh', 'commander': 'TheTenthDoctor.txt'}
+1 Timebender
+{'overall': 6.3236842105263165, 'cmc': 2.96875, 'ramp': 11, 'draw': 10, 'interaction': 8}

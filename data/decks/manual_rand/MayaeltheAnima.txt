@@ -1,65 +1,65 @@
 1 Mayael the Anima
-1 War Dance
-1 The Great Aurora
-1 World Breaker
-1 Up the Beanstalk
-1 Mentor of the Meek
-1 Thieves' Auction
-1 Wasteful Harvest
-1 Wren's Run Hydra
-1 Wear // Tear
-1 Thalia's Lancers
-1 Zephyrim
-1 Triumphant Reckoning
-1 Wondrous Crucible
-1 Winding Way
-1 Weathered Wayfarer
-1 Vivid Revival
-1 Weapon Rack
+1 Trusty Packbeast
+1 Undying Flames
+1 Tusk and Whiskers
+1 Unnatural Restoration
+1 Whitemane Lion
+1 Viashino Racketeer
+1 Wandering Archaic // Explore the Vastlands
+1 Wild Dogs
+1 Viral Spawning
+1 Swords to Plowshares
+1 Yomiji, Who Bars the Way
+1 Whispergear Sneak
+1 War of the Last Alliance
+1 Vigor
+1 Wrenn and Six
+1 Weird Harvest
+1 You Meet in a Tavern
+1 Tragic Poet
+1 Yidaro, Wandering Monster
+1 The Wedding of River Song
+1 Ulamog, the Ceaseless Hunger
+1 Wurmcalling
+1 Thunderherd Migration
+1 Warp World
+1 Will of the All-Hunter
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Venture Forth
-1 Thicket Elemental
-1 Surging Sentinels
-1 Swiftgear Drake
-1 Wild Magic Surge
-1 Waxmane Baku
-1 Thran Temporal Gateway
-1 Virtue of Courage // Embereth Blaze
-1 Yavimaya Dryad
-1 Universal Automaton
-1 Whirling Catapult
-1 The Mana Rig
-1 Terminal Moraine
-1 Winds of Abandon
-1 Warfire Javelineer
-1 Titan's Presence
-1 Wakening Sun's Avatar
-1 Trustworthy Scout
-1 Llanowar Elves
-1 Mind Stone
-1 Willow Geist
-1 Yasmin Khan
-1 Wolfir Avenger
-1 Yisan, the Wanderer Bard
-1 Wall of Blossoms
-1 Wish
-1 Weathered Bodyguards
-1 Warcry Phoenix
-1 Vine Gecko
-1 Verdant Touch
-1 Witch Hunter
-1 Wave of Vitriol
-1 Unexpectedly Absent
-1 Wall of Resurgence
-1 Webweaver Changeling
-1 Valakut Awakening // Valakut Stoneforge
-1 Welding Sparks
-1 Verdant Automaton
-1 Violent Eruption
+1 White Sun's Zenith
+1 Rampant Growth
+1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Thieves' Auction
+1 Titan's Strength
+1 Weathered Wayfarer
+1 Whetwheel
+1 Wurmskin Forger
 1 Thought Dissector
-1 _____-o-saurus
-1 Wooded Foothills
-1 Wear // Tear
-1 Travel Through Caradhras
-1 Xenagos, the Reveler
-{'overall': 7.799180327868853, 'cmc': 3.6417910447761193, 'ramp': '11', 'draw': '16', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}6', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'MayaeltheAnima.txt'}
+1 Zirda, the Dawnwaker
+1 Viridian Emissary
+1 Tahngarth's Glare
+1 Tel-Jilad Stylus
+1 Tranquil Frillback
+1 Ugin, the Spirit Dragon
+1 Venerable Kumo
+1 Wheel of Fate
+1 Vivien, Arkbow Ranger
+1 Treasure Keeper
+1 Zhalfirin Void
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Thaumatic Compass // Spires of Orazca
+1 Tribute to the World Tree
+1 Warren Instigator
+1 Vindictive Flamestoker
+1 Verdant Mastery
+1 Universal Automaton
+1 Thran Foundry
+1 Underdark Rift
+1 Trumpeting Herd
+1 Yorvo, Lord of Garenbrig
+1 Verdant Crescendo
+1 Sylvan Messenger
+1 Wand of Wonder
+1 Volley of Boulders
+1 Woodcloaker
+1 Wild Evocation
+{'overall': 8.46888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 20, 'interaction': 8}

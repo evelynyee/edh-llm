@@ -61,4 +61,5 @@
 1 Kodama of the West Tree
 1 Tezzeret's Gambit
 1 Invisible Stalker
-{'overall': 7.476744186046512, 'cmc': 2.0476190476190474, 'ramp': '16', 'draw': '9', 'interaction': 5, 'folder': 'edh', 'commander': 'EzuriClawofProgress.txt'}
+1 Avenger of Zendikar
+{'overall': 7.4411764705882355, 'cmc': 2.125, 'ramp': 16, 'draw': 9, 'interaction': 5}

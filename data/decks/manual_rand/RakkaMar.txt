@@ -1,65 +1,65 @@
 1 Rakka Mar
-1 Sparkspitter
-1 You See a Pair of Goblins
-1 Yamabushi's Storm
-1 Tibalt, Rakish Instigator
-1 Torch Gauntlet
-1 Sword of the Meek
-1 Imperial Recruiter
-1 Staff of the Flame Magus
-1 Toxic Iguanar
-1 Undying Rage
-1 Wayward Guide-Beast
-1 Snare Thopter
-1 The Triumph of Anax
-1 Uncanny Speed
-1 Viashino Slasher
-1 Tormod's Cryptkeeper
-1 Thermal Navigator
-1 Treasure Vault
-1 Smoke Spirits' Aid
-1 Urza's Factory
-1 Treasure Nabber
-1 Titan's Presence
-1 Wolf of Devil's Breach
-1 Unchained Berserker
-1 Searing Barb
-1 Searchlight Companion
-1 Tilonalli's Skinshifter
-1 Tremor
-1 Ugin, the Ineffable
-1 Soul Separator
-1 Volcanic Rush
-1 Telethopter
-1 Wandering Archaic // Explore the Vastlands
-1 Thundermaw Hellkite
-1 The Reaver Cleaver
-1 Wily Goblin
-1 Temporary Insanity
-1 Soul Foundry
-1 Scampering Scorcher
+1 Throwing Knife
+1 Torch Breath
+1 Varchild's War-Riders
 1 Sticky Fingers
-1 Thorned Moloch
-1 Spare Dagger
-1 Zariel, Archduke of Avernus
-1 Talons of Falkenrath
-1 Stolen Vitality
-1 Veteran's Sidearm
-1 Where Ancients Tread
-1 Tilonalli's Crown
-1 Swashbuckling
-1 Witch's Clinic
-1 Wrecking Crew
-1 There and Back Again
-1 Sylvok Lifestaff
-1 The Underworld Cookbook
-1 Volatile Fault
-1 Thran Forge
-1 Tenza, Godo's Maul
-1 Skitterbeam Battalion
-1 Whirlermaker
-1 Smelt-Ward Ignus
-1 Volcanic Dragon
-1 Springjack Pasture
+1 Tundra Fumarole
+1 Wurm's Tooth
+1 Shrine of Loyal Legions
+1 Scytheclaw
+1 Sorcerer's Broom
+1 Spreading Insurrection
+1 Thopter Engineer
+1 Sword of the Chosen
+1 Veteran's Armaments
 1 Viashino Heretic
-{'overall': 3.901030927835052, 'cmc': 2.8529411764705883, 'ramp': '5', 'draw': '5', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'RakkaMar.txt'}'draw': '5', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'RakkaMar.txt'}
+1 Sliversmith
+1 Smashing Success
+1 The Stasis Coffin
+1 Tilonalli's Summoner
+1 Wojek Bodyguard
+1 Yellow Scarves Cavalry
+1 Unexpected Windfall
+1 Windseeker Centaur
+1 Toxic Iguanar
+1 Splinter Twin
+1 Wings of Hubris
+1 Tooth and Claw
+1 Tempt with Vengeance
+1 Tundra Kavu
+1 Teeka's Dragon
+1 Warden of the Wall
+1 Thopter Assembly
+1 Arcane Signet
+1 War Chariot
+1 Swarming of Moria
+1 Torrent of Lava
+1 Soul Separator
+1 Singe
+1 Witch's Mark
+1 Volcanic Dragon
+1 Wingrattle Scarecrow
+1 Spy Kit
+1 Vulshok Factory
+1 Untethered Express
+1 Well of Life
+1 Thunderclap
+1 Whirling Strike
+1 Sarkhan the Masterless
+1 Mana Crypt
+1 Wall of Shields
+1 Volatile Wanderglyph
+1 Verix Bladewing
+1 Sigiled Sword of Valeron
+1 Vulshok Berserker
+1 Vanguard's Shield
+1 Siren Song Lyre
+1 Urza's Miter
+1 Varchild, Betrayer of Kjeldor
+1 Uncaged Fury
+1 Chromatic Lantern
+1 Wandering Archaic // Explore the Vastlands
+1 Thermopod
+1 Vengeful Ancestor
+1 Sylvok Lifestaff
+{'overall': 5.21321243523316, 'cmc': 3.015625, 'ramp': 11, 'draw': 5, 'interaction': 11}

@@ -61,4 +61,5 @@
 1 Cultivator's Caravan
 1 Myriad Landscape
 1 Teshar, Ancestor's Apostle
-{'overall': 7.828323699421965, 'cmc': 2.746031746031746, 'ramp': '12', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'LitaMechanicalEngineer.txt'}
+1 Lion Sash
+{'overall': 7.881428571428572, 'cmc': 2.734375, 'ramp': 12, 'draw': 15, 'interaction': 8}

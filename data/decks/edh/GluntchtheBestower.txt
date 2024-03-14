@@ -61,4 +61,5 @@
 1 Sylvan Offering
 1 Loran of the Third Path
 1 Baird, Steward of Argive
-{'overall': 9.118181818181819, 'cmc': 2.4444444444444446, 'ramp': '14', 'draw': '18', 'interaction': 6, 'folder': 'edh', 'commander': 'GluntchtheBestower.txt'}
+1 Wandering Archaic
+{'overall': 9.090123456790124, 'cmc': 2.53125, 'ramp': 14, 'draw': 18, 'interaction': 6}

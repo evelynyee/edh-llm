@@ -61,4 +61,5 @@
 1 Urborg, Tomb of Yawgmoth
 1 Marsh Flats
 1 Bojuka Bog
-{'overall': 6.36504424778761, 'cmc': 1.7936507936507937, 'ramp': '8', 'draw': '11', 'interaction': 10, 'folder': 'edh', 'commander': 'FrodoSauronsBane.txt'}
+1 Giver of Runes
+{'overall': 6.37280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 11, 'interaction': 10}

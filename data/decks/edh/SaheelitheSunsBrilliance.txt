@@ -61,4 +61,5 @@
 1 Foundry Inspector
 1 Temple of Epiphany
 1 Arcane Denial
-{'overall': 6.682608695652174, 'cmc': 2.5555555555555554, 'ramp': '11', 'draw': '11', 'interaction': 8, 'folder': 'edh', 'commander': 'SaheelitheSunsBrilliance.txt'}
+1 Fabricate
+{'overall': 6.930487804878049, 'cmc': 2.5625, 'ramp': 11, 'draw': 12, 'interaction': 8}

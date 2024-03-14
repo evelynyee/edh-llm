@@ -61,4 +61,5 @@
 1 Myriad Landscape
 1 Nimraiser Paladin
 1 Sheoldred's Headcleaver
-{'overall': 5.792307692307693, 'cmc': 2.888888888888889, 'ramp': '9', 'draw': '7', 'interaction': 22, 'folder': 'edh', 'commander': 'XunYuWeiAdvisor.txt'}
+1 Pestilent Syphoner
+{'overall': 5.795652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 7, 'interaction': 22}

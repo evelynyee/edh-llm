@@ -61,4 +61,5 @@
 1 Horn of Valhalla
 1 Elspeth, Sun's Champion
 1 Overgrown Farmland
-{'overall': 4.984437086092716, 'cmc': 2.3968253968253967, 'ramp': '8', 'draw': '7', 'interaction': 8, 'folder': 'edh', 'commander': 'QueenAllenalofRuadach.txt'}
+1 Parallel Lives
+{'overall': 4.975806451612904, 'cmc': 2.421875, 'ramp': 8, 'draw': 7, 'interaction': 8}

@@ -1,65 +1,65 @@
 1 Lathiel, the Bounteous Dawn
-1 Witch's Oven
-1 Zhalfirin Decoy
-1 The Moment
-1 Trufflesnout
-1 Surrak, the Hunt Caller
-1 Veteran Armorer
-1 Verdant Command
-1 The Crowd Goes Wild
-1 Willow Geist
-1 War Report
-1 Wind Shear
-1 Wildslayer Elves
-1 Tarmogoyf
 1 Wildwood Scourge
-1 Urza's Bauble
-1 White Mana Battery
-1 Tegan Jovanka
-1 Zealot's Conviction
-1 Timberwatch Elf
-1 Éowyn, Lady of Rohan
-1 The Chain Veil
-1 Titania's Boon
-1 Wedding Ring
-1 Teferi's Protection
-1 Undergrowth Champion
-1 Woodland Champion
-1 Titania, Gaea Incarnate
-1 Unbounded Potential
-1 Vivien, Arkbow Ranger
-1 Vegetation Abomination
-1 Weapon Rack
-1 Utopia Mycon
-1 Treetop Ambusher
-1 World Queller
-1 Thrashing Mossdog
-1 Vorinclex // The Grand Evolution
-1 Twists and Turns // Mycoid Maze
-1 The Immortal Sun
-1 Voyager Staff
-1 Trostani Discordant
-1 Vexing Puzzlebox
-1 Worldsoul Colossus
-1 Tendershoot Dryad
-1 Ugin's Nexus
+1 Ugin, the Spirit Dragon
+1 Your Temple Is Under Attack
+1 Tangle Wire
+1 Wood Elemental
+1 Volunteer Reserves
+1 Tromp the Domains
+1 Strength of Cedars
+1 Webweaver Changeling
+1 Werewolf Pack Leader
+1 Yew Spirit
+1 Yeva's Forcemage
+1 Steeling Stance
+1 Storm the Seedcore
+1 Vintara Elephant
+1 Wild Endeavor
+1 Wild Instincts
+1 Tower of Murmurs
+1 Wolfkin Outcast // Wedding Crasher
+1 Winter Blast
+1 Wayfaring Giant
+1 Whisperwood Elemental
+1 Thallid Germinator
+1 Vigorspore Wurm
+1 Vengeful Archon
+1 Mentor of the Meek
+1 Vivien's Stampede
 1 Zhalfirin Crusader
-1 The Filigree Sylex
+1 Wall of Caltrops
+1 Wildwood Mentor
+1 Strength from the Fallen
+1 Triumph of Ferocity
+1 Windbrisk Raptor
+1 Ursapine
+1 Venerable Knight
+1 Welcome to Sweettooth
+1 Trostani Discordant
+1 Verdurous Gearhulk
+1 Twinblade Slasher
+1 Wilfred Mott
+1 Eternal Witness
+1 Whirling Dervish
+1 You Look Upon the Tarrasque
+1 Thwart the Enemy
+1 Windborne Charge
+1 Walking Bulwark
+1 White Mana Battery
+1 Vivien, Monsters' Advocate
+1 Ulvenwald Observer
+1 The Wedding of River Song
+1 Touch of Vitae
+1 Splinterfright
+1 Wine of Blood and Iron
+1 Venomous Brutalizer
+1 Waylay
+1 Yisan, the Wanderer Bard
+1 TARDIS
 1 Vitality Charm
-1 You're Ambushed on the Road
-1 Wirewood Symbiote
-1 Umezawa's Jitte
-1 Sunbathing Rootwalla
-1 Swords to Plowshares
-1 Vitalizing Cascade
-1 Wojek Apothecary
-1 Tributary Instructor
-1 Whiteout
-1 Trophy Hunter
-1 Tyrranax Rex
-1 Sunfall
-1 Viseling
-1 Whippoorwill
-1 Storybook Ride
-1 Timely Reinforcements
-{'overall': 4.604663212435233, 'cmc': 2.838235294117647, 'ramp': '5', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}lder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}
+1 Woodcaller Automaton
+1 Starlight Spectacular
+1 Woodripper
+1 Wayfaring Temple
+1 Triumph of the Hordes
+{'overall': 3.9682186234817816, 'cmc': 3.859375, 'ramp': 2, 'draw': 11, 'interaction': 4}

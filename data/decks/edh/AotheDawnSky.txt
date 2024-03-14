@@ -61,4 +61,5 @@
 1 Moonsilver Key
 1 Bounty Agent
 1 Sanctifier en-Vec
-{'overall': 7.025, 'cmc': 1.7777777777777777, 'ramp': '12', 'draw': '10', 'interaction': 8, 'folder': 'edh', 'commander': 'AotheDawnSky.txt'}
+1 Ethersworn Canonist
+{'overall': 7.02280701754386, 'cmc': 1.78125, 'ramp': 12, 'draw': 10, 'interaction': 8}

@@ -61,4 +61,5 @@
 1 Aspect of Wolf
 1 Fertile Ground
 1 Nessian Wanderer
-{'overall': 8.778323699421966, 'cmc': 2.746031746031746, 'ramp': '14', 'draw': '17', 'interaction': 6, 'folder': 'edh', 'commander': 'AutumnWillow.txt'}
+1 Hunter's Prowess
+{'overall': 9.019101123595506, 'cmc': 2.78125, 'ramp': 14, 'draw': 18, 'interaction': 6}

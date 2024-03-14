@@ -61,4 +61,5 @@
 1 Glyph Keeper
 1 Myriad Landscape
 1 Sea of Clouds
-{'overall': 5.588524590163935, 'cmc': 2.9047619047619047, 'ramp': '7', 'draw': '11', 'interaction': 8, 'folder': 'edh', 'commander': 'TemmetVizierofNaktamun.txt'}
+1 Perplexing Test
+{'overall': 5.6308510638297875, 'cmc': 2.9375, 'ramp': 7, 'draw': 11, 'interaction': 9}

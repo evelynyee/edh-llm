@@ -61,4 +61,5 @@
 1 Davros, Dalek Creator
 1 Vault of Whispers
 1 Death in Heaven
-{'overall': 5.959036144578313, 'cmc': 2.634920634920635, 'ramp': '8', 'draw': '11', 'interaction': 9, 'folder': 'edh', 'commander': 'AshadtheLoneCyberman.txt'}
+1 Phyrexian Metamorph
+{'overall': 5.952941176470588, 'cmc': 2.65625, 'ramp': 8, 'draw': 11, 'interaction': 9}

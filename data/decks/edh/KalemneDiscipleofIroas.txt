@@ -61,4 +61,5 @@
 1 Oathsworn Giant
 1 Wear // Tear
 1 Boros Cluestone
-{'overall': 4.823762376237624, 'cmc': 3.2063492063492065, 'ramp': '10', 'draw': '5', 'interaction': 9, 'folder': 'edh', 'commander': 'KalemneDiscipleofIroas.txt'}
+1 Disaster Radius
+{'overall': 4.8624401913875595, 'cmc': 3.265625, 'ramp': 10, 'draw': 5, 'interaction': 10}

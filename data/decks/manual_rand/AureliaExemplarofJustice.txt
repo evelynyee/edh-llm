@@ -1,65 +1,65 @@
 1 Aurelia, Exemplar of Justice
-1 Zhao Zilong, Tiger General
-1 Stolen Vitality
-1 Watchdog
-1 Stave Off
-1 War Oracle
-1 Zeriam, Golden Wind
-1 Zhalfirin Lancer
-1 Vectis Gloves
-1 Traveling Minister
-1 Weathered Sentinels
-1 Windbrisk Raptor
-1 Éomer of the Riddermark
-1 Wooden Stake
-1 Song-Mad Treachery // Song-Mad Ruins
-1 Lightning Bolt
-1 Toralf, God of Fury // Toralf's Hammer
-1 Topple
-1 Woeleecher
-1 Temur Battle Rage
-1 Starlight Spectacular
-1 Éowyn, Lady of Rohan
-1 Thermal Navigator
-1 Whalebone Glider
-1 Sword of Feast and Famine
-1 Swords to Plowshares
-1 Veteran's Armaments
-1 Triangle of War
-1 Tilonalli's Knight
-1 Teferi's Sentinel
-1 Swift Kick
-1 Viashino Weaponsmith
-1 Teferi's Protection
-1 Volatile Arsonist // Dire-Strain Anarchist
-1 Red Elemental Blast
+1 Valiant Knight
+1 Trusty Machete
+1 Zealot il-Vec
+1 Stonewright
+1 White Scarab
+1 Sunfire Torch
+1 Untethered Express
+1 True Conviction
+1 Tajic, Legion's Edge
+1 Valor Made Real
+1 Uncivil Unrest
+1 Wojek Bodyguard
+1 Zuberi, Golden Feather
+1 Town Sentry
 1 Austere Command
-1 Zerapa Minotaur
-1 Thraben Watcher
-1 You're Ambushed on the Road
-1 Thirsting Axe
-1 Tibalt's Rager
-1 Strength of Arms
 1 Warstorm Surge
-1 Time of Heroes
-1 Tail Slash
-1 Weapons Trainer
-1 Warpath
-1 Volcanic Rush
-1 Warmind Infantry
+1 Warrior's Honor
+1 The Wandering Emperor
+1 Swift Justice
 1 Valor in Akros
-1 Valor of the Worthy
-1 Unquenchable Fury
-1 Street Riot
+1 Thundering Giant
 1 TARDIS
-1 Wake the Past
-1 Urza's Engine
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Vizier of the True
-1 Yare
-1 Veteran's Voice
-1 Virtue of Loyalty // Ardenvale Fealty
-1 You Hear Something on Watch
+1 Surestrike Trident
+1 Steppe Glider
+1 Telethopter
+1 Thermal Navigator
+1 Zeriam, Golden Wind
+1 Vow of Lightning
+1 Wizened Cenn
+1 Weight of Spires
+1 Weathered Sentinels
+1 Skyhunter Strike Force
+1 Yotia Declares War
 1 Vikya, Scorching Stalwart
-1 Weldfast Monitor
-{'overall': 1.5118721461187214, 'cmc': 3.2686567164179103, 'ramp': '0', 'draw': '1', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}'interaction': 13, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}
+1 Sparring Golem
+1 Sword of Sinew and Steel
+1 Wooden Stake
+1 Stuffed Bear
+1 Throwing Knife
+1 Zealot's Conviction
+1 War Barge
+1 Sword of the Chosen
+1 Takeno's Cavalry
+1 Yamabushi's Storm
+1 War Chariot
+1 Unquenchable Fury
+1 Viashino Sandscout
+1 Telim'Tor
+1 Tentative Connection
+1 War-Trained Slasher
+1 Warclamp Mastiff
+1 Tattered Ratter
+1 Venerable Knight
+1 Warbeast of Gorgoroth
+1 Twisted Fealty
+1 Topple
+1 Stalwart Pathlighter
+1 Time of Heroes
+1 Wee Champion
+1 Smelt-Ward Gatekeepers
+1 Village Watch // Village Reavers
+1 Thundering Raiju
+1 Two-Headed Dragon
+{'overall': 1.649746192893401, 'cmc': 3.078125, 'ramp': 0, 'draw': 2, 'interaction': 10}

@@ -61,4 +61,5 @@
 1 Okina, Temple to the Grandfathers
 1 Saryth, the Viper's Fang
 1 Finale of Devastation
-{'overall': 7.061832061068702, 'cmc': 2.0793650793650795, 'ramp': '15', 'draw': '8', 'interaction': 7, 'folder': 'edh', 'commander': 'CaptainSisay.txt'}
+1 Aven Mindcensor
+{'overall': 7.055223880597015, 'cmc': 2.09375, 'ramp': 15, 'draw': 8, 'interaction': 7}

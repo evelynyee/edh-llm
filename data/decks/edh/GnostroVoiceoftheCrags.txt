@@ -61,4 +61,5 @@
 1 Swiftfoot Boots
 1 Spectator Seating
 1 Commander's Sphere
-{'overall': 9.442125984251968, 'cmc': 2.015873015873016, 'ramp': '13', 'draw': '19', 'interaction': 9, 'folder': 'edh', 'commander': 'GnostroVoiceoftheCrags.txt'}
+1 Terramorphic Expanse
+{'overall': 9.45787401574803, 'cmc': 1.984375, 'ramp': 13, 'draw': 19, 'interaction': 9}

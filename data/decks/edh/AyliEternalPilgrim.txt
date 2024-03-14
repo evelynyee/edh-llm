@@ -61,4 +61,5 @@
 1 Speaker of the Heavens
 1 Utter End
 1 Priest of Forgotten Gods
-{'overall': 5.125, 'cmc': 1.7777777777777777, 'ramp': '8', 'draw': '6', 'interaction': 10, 'folder': 'edh', 'commander': 'AyliEternalPilgrim.txt'}
+1 Demonic Tutor
+{'overall': 5.12280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 6, 'interaction': 10}

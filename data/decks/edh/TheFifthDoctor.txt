@@ -61,4 +61,5 @@
 1 Agatha's Soul Cauldron
 1 Helm of the Host
 1 Historian's Boon
-{'overall': 7.0625, 'cmc': 3.5555555555555554, 'ramp': '7', 'draw': '17', 'interaction': 10, 'folder': 'edh', 'commander': 'TheFifthDoctor.txt'}
+1 Day of Destiny
+{'overall': 7.06140350877193, 'cmc': 3.5625, 'ramp': 7, 'draw': 17, 'interaction': 10}

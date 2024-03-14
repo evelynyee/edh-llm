@@ -1,65 +1,65 @@
 1 Oswald Fiddlebender
-1 White Sun's Zenith
-1 Staff of the Mind Magus
-1 Sram's Expertise
-1 Tithe
-1 Thespian's Stage
-1 Sword of Hearth and Home
-1 Serra Paragon
-1 Terashi's Grasp
-1 Sunscour
-1 Treasure Chest
-1 Sonic Screwdriver
-1 Wall of Shards
-1 Stonespeaker Crystal
-1 Witness of the Ages
-1 Wall of Reverence
-1 Wand of Vertebrae
-1 Wandering Graybeard
-1 Vanquish the Foul
-1 Staff of Compleation
-1 Unconventional Tactics
-1 Urza's Mine
-1 Treasure Map // Treasure Cove
-1 Well of Knowledge
-1 Tormod's Cryptkeeper
-1 Urza's Factory
-1 Wand of Ith
-1 Suture Priest
-1 Valiant Veteran
-1 Tocasia's Welcome
-1 Tariff
-1 Sun Titan
-1 Worry Beads
-1 Serra Avatar
-1 Wall of Resurgence
-1 Soaring Sandwing
-1 Thawing Glaciers
-1 Zealots en-Dal
-1 Steelshaper Apprentice
-1 Warping Wail
-1 Universal Automaton
-1 Sylvia Brightspear
-1 Trap Digger
-1 Trusty Retriever
-1 Wintermoon Mesa
-1 Welding Jar
-1 Wasteland
-1 Tethmos High Priest
-1 Ugin's Mastery
-1 Tormod's Crypt
-1 Trusty Packbeast
-1 Serene Offering
-1 Wand of the Worldsoul
-1 Thaumatic Compass // Spires of Orazca
-1 Voltaic Construct
-1 Ward of Lights
-1 Treasure Vault
-1 Wanderer's Twig
-1 Together Forever
+1 Steamclaw
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Watchers of the Dead
+1 Wispmare
+1 Windbrisk Heights
+1 Vexing Puzzlebox
+1 Urza's Workshop
 1 Wandering Archaic // Explore the Vastlands
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Triumphant Surge
+1 Viridian Longbow
+1 Wirefly Hive
+1 Thawing Glaciers
+1 Summoner's Egg
+1 Trial of a Time Lord
+1 Terminus
+1 Throne of Eldraine
+1 Stratadon
+1 Survival Cache
+1 Universal Automaton
+1 Welcoming Vampire
+1 Treasure Vault
+1 Witches' Eye
+1 You're Confronted by Robbers
+1 Wand of the Worldsoul
+1 Whipcorder
+1 Voltaic Construct
+1 Vesperlark
+1 Viseling
+1 Temple of the Dragon Queen
+1 Wheel of Torture
+1 The Restoration of Eiganjo // Architect of Restoration
 1 Urza's Saga
-1 Squadron Hawk
-1 Treasure Map // Treasure Cove
-1 Stalwart Valkyrie
-{'overall': 7.29109947643979, 'cmc': 2.893939393939394, 'ramp': '13', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'OswaldFiddlebender.txt'}': 2.893939393939394, 'ramp': '13', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'OswaldFiddlebender.txt'}
+1 Truce
+1 Visionary Augmenter
+1 Vanquisher's Banner
+1 Serra Paragon
+1 Steel Exemplar
+1 Venerable Monk
+1 Staff of the Death Magus
+1 Thought Vessel
+1 Wall of Mourning
+1 The Underworld Cookbook
+1 Vanquish the Foul
+1 Wispweaver Angel
+1 Sunken Citadel
+1 Mentor of the Meek
+1 Towashi Guide-Bot
+1 Sol Ring
+1 Steelshaper's Gift
+1 Star Compass
+1 Trap Digger
+1 Tawnos's Coffin
+1 Sparring Regimen
+1 Urza's Incubator
+1 Wall of Shards
+1 Sunrise Seeker
+1 Thran Spider
+1 Stone Retrieval Unit
+1 Soul Separator
+1 Vessel of Endless Rest
+1 Witness of the Ages
+1 Séance
+{'overall': 6.83681592039801, 'cmc': 3.140625, 'ramp': 9, 'draw': 14, 'interaction': 9}

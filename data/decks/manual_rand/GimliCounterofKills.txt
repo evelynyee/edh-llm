@@ -1,65 +1,65 @@
 1 Gimli, Counter of Kills
-1 Sulfuric Vapors
-1 Weight of Spires
-1 Telim'Tor's Darts
-1 Will-Forged Golem
-1 Witch's Oven
-1 Torture Chamber
-1 Seismic Wave
-1 Turn to Slag
-1 Star of Extinction
-1 Two-Handed Axe // Sweeping Cleave
-1 Voldaren Epicure
-1 Word of Blasting
-1 Slith Firewalker
-1 Vertigo
-1 Titan of Eternal Fire
-1 Torch the Tower
-1 Stormscale Anarch
-1 Wild Slash
-1 Throne of the God-Pharaoh
-1 Warstorm Surge
-1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
-1 Treasure Nabber
-1 Stalking Vengeance
-1 Workshop Assistant
-1 Stromkirk Noble
-1 Stormblood Berserker
-1 Sword of Sinew and Steel
-1 Spiked Pit Trap
-1 Volcanic Vision
-1 Tyrant's Machine
-1 Vectis Gloves
-1 Vengeful Devil
-1 Mana Crypt
-1 Voldaren Thrillseeker
-1 Thorncaster Sliver
-1 Tunnel Ignus
-1 Xanthic Statue
-1 Wild Evocation
-1 Tibalt, the Fiend-Blooded
-1 Wildfire Eternal
 1 Tawnos's Wand
-1 Uncivil Unrest
-1 Spear Spewer
-1 Warping Wail
-1 Zenith Chronicler
-1 Triangle of War
-1 Thundering Rebuke
-1 Thornbite Staff
-1 Storm Fleet Pyromancer
-1 Voracious Dragon
-1 Spikefield Hazard // Spikefield Cave
-1 Subterranean Spirit
-1 Terror of the Peaks
-1 Tower of Calamities
-1 Wizard's Lightning
-1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
-1 Arcane Signet
-1 Sulfurous Blast
-1 Ugin's Conjurant
-1 Stone of Erech
-1 Zealot of the God-Pharaoh
+1 Ulamog, the Infinite Gyre
+1 Shock
+1 Thundermaw Hellkite
 1 Worldfire
+1 Void Mirror
+1 Thirsting Axe
+1 Yuan Shao's Infantry
+1 Siege Dragon
+1 Urza's Avenger
+1 Unholy Heat
+1 Street Sweeper
+1 War-Name Aspirant
+1 Unforge
+1 Éomer, Marshal of Rohan
+1 Vexing Arcanix
+1 Torrent of Lava
+1 Staff of Nin
+1 Thunderbreak Regent
+1 War-Torch Goblin
+1 Serpentine Spike
+1 Where Ancients Tread
+1 Volcanic Spite
+1 Strixhaven Stadium
+1 Wildfire Elemental
+1 Sword of War and Peace
+1 Tectonic Giant
+1 Surestrike Trident
+1 Unruly Catapult
+1 Wand of Denial
+1 Twin Bolt
+1 Stensia Banquet
+1 Voltaic Key
+1 Spireside Infiltrator
+1 Urza's Bauble
+1 Two-Headed Cerberus
+1 Mana Vault
+1 Tiger-Tribe Hunter
+1 War-Trained Slasher
+1 Spare Dagger
+1 Vampires' Vengeance
+1 Wrathful Red Dragon
+1 Slicer, Hired Muscle // Slicer, High-Speed Antagonist
+1 Voltaic Construct
+1 Strangle
 1 Stigma Lasher
-{'overall': 4.3929203539823005, 'cmc': 3.373134328358209, 'ramp': '5', 'draw': '4', 'interaction': 31, 'folder': 'manual_rand', 'commander': 'GimliCounterofKills.txt'}w': '4', 'interaction': 31, 'folder': 'manual_rand', 'commander': 'GimliCounterofKills.txt'}
+1 Voodoo Doll
+1 Throwing Knife
+1 Abrade
+1 Wurm's Tooth
+1 Veteran's Voice
+1 Soul Sear
+1 Star of Extinction
+1 Storm Caller
+1 Transmogrifying Licid
+1 Warmonger
+1 Wingrattle Scarecrow
+1 Spikeshot Goblin
+1 Walking Ballista
+1 Tephraderm
+1 Structural Assault
+1 Witch Hunt
+1 Smoldering Efreet
+{'overall': 3.7239910313901343, 'cmc': 3.484375, 'ramp': 2, 'draw': 5, 'interaction': 28}

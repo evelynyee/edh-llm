@@ -61,4 +61,5 @@
 1 Faerie Mastermind
 1 Frantic Search
 1 Talion, the Kindly Lord
-{'overall': 6.574137931034483, 'cmc': 2.761904761904762, 'ramp': '8', 'draw': '14', 'interaction': 7, 'folder': 'edh', 'commander': 'TegwyllDukeofSplendor.txt'}
+1 Opt
+{'overall': 6.831428571428571, 'cmc': 2.734375, 'ramp': 8, 'draw': 15, 'interaction': 7}

@@ -1,65 +1,65 @@
 1 Orcus, Prince of Undeath
-1 The Mana Rig
-1 The End
-1 Weapon Surge
-1 The Toymaker's Trap
-1 Well of Lost Dreams
-1 Tuktuk Scrapper
-1 The Ruinous Powers
-1 Tower of Champions
-1 Where Ancients Tread
-1 Toshiro Umezawa
-1 Sunbird Standard // Sunbird Effigy
-1 Thwart the Grave
-1 Void Maw
-1 Spoils of War
-1 Throne of the God-Pharaoh
-1 Vedalken Shackles
-1 Workshop Assistant
-1 Volrath's Dungeon
-1 Voodoo Doll
-1 Whiptail Moloch
-1 Traitorous Instinct
-1 The Deck of Many Things
-1 Zhulodok, Void Gorger
-1 Steel Hellkite
-1 Soul Shatter
-1 Witch's Mark
-1 Unnatural Speed
-1 Theater of Horrors
-1 Vorrac Battlehorns
-1 Volatile Arsonist // Dire-Strain Anarchist
-1 Yavimaya Steelcrusher
-1 Tibalt, the Fiend-Blooded
-1 Weaver of Lightning
-1 Wheel of Torture
-1 Sorin, Imperious Bloodlord
-1 Tundra Fumarole
-1 Uncanny Speed
-1 Unlicensed Disintegration
-1 Umezawa's Jitte
-1 Sunbird Standard // Sunbird Effigy
-1 Witch's Mist
-1 Urabrask's Forge
-1 Ugin, the Spirit Dragon
-1 Utility Knife
-1 Dark Ritual
-1 Zariel, Archduke of Avernus
-1 Tentative Connection
-1 Vampire's Bite
 1 Vulshok Battlegear
-1 Syrix, Carrier of the Flame
-1 Towashi Guide-Bot
-1 Waste Management
-1 Swift Kick
-1 Chaos Warp
-1 Wound Reflection
-1 Tormented Hero
+1 Wicked Pact
+1 Umbra Stalker
+1 Symmetry Matrix
+1 Twinflame
+1 Vat Emergence
+1 Threaten
+1 Subterranean Tremors
+1 Wasp of the Bitter End
+1 Synod Sanctum
+1 Torgaar, Famine Incarnate
+1 Urborg Uprising
+1 Mind Stone
+1 Themberchaud
+1 Wicked Visitor
+1 Yahenni's Expertise
+1 Unspeakable Symbol
+1 Stallion of Ashmouth
+1 Vial Smasher the Fierce
+1 Temur Battle Rage
+1 Yavimaya Steelcrusher
+1 Wail of the Nim
+1 Young Necromancer
+1 Visions of Ruin
+1 Triangle of War
 1 Trip Noose
-1 Vanquisher's Banner
-1 Witch-king, Sky Scourge
-1 Underworld Sentinel
-1 Warlord's Fury
-1 Vrock
-1 Terminate
-{'overall': 5.195555555555555, 'cmc': 3.3582089552238807, 'ramp': '4', 'draw': '11', 'interaction': 17, 'folder': 'manual_rand', 'commander': 'OrcusPrinceofUndeath.txt'} 'folder': 'manual_rand', 'commander': 'OrcusPrinceofUndeath.txt'}
+1 Varragoth, Bloodsky Sire
+1 Volrath the Fallen
+1 Vein Drinker
+1 Stormbreath Dragon
+1 Unholy Heat
+1 Titan Hunter
+1 TARDIS
+1 Yahenni, Undying Partisan
+1 The Cauldron of Eternity
+1 Wild Slash
+1 Urza's Miter
+1 To the Slaughter
+1 Sword of Kaldra
+1 Two-Headed Hunter // Twice the Rage
+1 Vendetta
+1 Unmake the Graves
+1 The Elderspell
+1 Zulaport Cutthroat
+1 Touch of Moonglove
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Whalebone Glider
+1 Uchuulon
+1 Ugin's Mastery
+1 Word of Seizing
+1 Waste Management
+1 Wall of Limbs
+1 Sword of Light and Shadow
+1 Tymaret, Chosen from Death
+1 Wild Swing
+1 The Toymaker's Trap
+1 Swallowing Plague
+1 Two-Handed Axe // Sweeping Cleave
+1 Soul Shatter
+1 Workshop Assistant
+1 Torrent of Fire
+1 Vicious Battlerager
+1 Unerring Sling
+{'overall': 3.221428571428571, 'cmc': 3.5, 'ramp': 2, 'draw': 6, 'interaction': 13}

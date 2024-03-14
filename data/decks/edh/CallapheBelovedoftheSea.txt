@@ -61,4 +61,5 @@
 1 Sword Coast Sailor
 1 Swiftfoot Boots
 1 Spectral Flight
-{'overall': 7.7013513513513505, 'cmc': 2.3492063492063493, 'ramp': '9', 'draw': '17', 'interaction': 7, 'folder': 'edh', 'commander': 'CallapheBelovedoftheSea.txt'}
+1 Slip Out the Back
+{'overall': 7.709060402684563, 'cmc': 2.328125, 'ramp': 9, 'draw': 17, 'interaction': 7}

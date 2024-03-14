@@ -1,65 +1,65 @@
 1 Pippin, Warden of Isengard
-1 Toshiro Umezawa
-1 Wreck Hunter
-1 Tragic Fall
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Mind Stone
-1 Welcome to . . . // Jurassic Park
-1 Tranquil Frillback
-1 Wave of Rats
-1 Vine Kami
-1 Warteye Witch
-1 Throne of the Grim Captain // The Grim Captain
-1 Treacherous Pit-Dweller
-1 Sylvan Hierophant
-1 Vivien's Jaguar
-1 Vengeful Rebel
-1 Underrealm Lich
+1 Wretched Camel
+1 Visions of Dominance
+1 Vivien's Invocation
 1 Ulvenwald Hydra
-1 Witch's Cottage
-1 Wild Pair
-1 Tivash, Gloom Summoner
-1 Virulent Swipe
-1 Zendikar Resurgent
-1 Wight
-1 Ugin, the Ineffable
-1 Ugin's Mastery
-1 Swell of Growth
-1 Wild Endeavor
-1 Sword of the Animist
-1 Vorrac Battlehorns
-1 Tomb Tyrant
-1 Twilight Prophet
-1 Tawnos's Tinkering
-1 Wrap in Vigor
-1 Terror of Towashi
-1 Viscera Dragger
-1 Wicked Wolf
-1 Wirewood Symbiote
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Unearth
-1 Tlincalli Hunter // Retrieve Prey
-1 Triassic Egg
-1 Thran Temporal Gateway
-1 Wake the Dead
+1 Zombie Scavengers
+1 Toshiro Umezawa
+1 Symmetry Matrix
+1 Volrath's Gardens
+1 Treasured Find
+1 Vulturous Aven
+1 Vivien, Arkbow Ranger
+1 Woodwraith Corrupter
+1 Wild Might
+1 Topaz Dragon // Entropic Cloud
+1 Withered Wretch
+1 Warg Rider
+1 TARDIS
+1 Without Weakness
+1 Wren's Run Packmaster
+1 Stalactite Stalker
+1 Wildwood Rebirth
+1 Toil to Renown
+1 Sword of the Meek
+1 Vorinclex // The Grand Evolution
+1 Tooth of Chiss-Goria
+1 Whack
+1 Void Maw
 1 Wei Assassins
-1 Underworld Charger
-1 Undercity Scavenger
-1 Wicked Visitor
-1 Whirling Catapult
-1 Voracious Null
-1 Writ of Return
-1 Vat of Rebirth
-1 Wildwood Mentor
-1 Verdant Rebirth
-1 Wave of Vitriol
-1 Zombify
+1 Throat Slitter
+1 Their Number Is Legion
+1 Temur Sabertooth
+1 Unnatural Aggression
+1 Urborg Mindsucker
+1 Wolfwillow Haven
+1 Tyrite Sanctum
+1 Tizerus Charger
+1 Trail of Mystery
+1 Whip of Erebos
+1 Wand of Denial
+1 Zombie Mob
+1 Witch's Cottage
+1 Witherbloom Command
+1 Vivien's Arkbow
+1 Urza's Miter
+1 Whiteout
+1 Veteran Explorer
+1 Vivien's Grizzly
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Ugin, the Ineffable
+1 Ubul Sar Gatekeepers
+1 Vulshok Gauntlets
+1 Wreck Hunter
+1 Vivien Reid
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Venerable Kumo
+1 Treetop Ambusher
 1 Volrath's Stronghold
-1 Vivien's Talent
-1 Vislor Turlough
-1 World Shaper
-1 Spring-Leaf Avenger
-1 Tributary Instructor
-1 Zopandrel, Hunger Dominus
-1 _____ _____ Rocketship
-{'overall': 6.421428571428571, 'cmc': 3.5, 'ramp': '9', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}action': 7, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Wurmquake
+1 Verdant Confluence
+1 Zombie Boa
+1 Treacherous Pit-Dweller
+1 Vicious Betrayal
+{'overall': 5.35093896713615, 'cmc': 3.328125, 'ramp': 8, 'draw': 10, 'interaction': 5}

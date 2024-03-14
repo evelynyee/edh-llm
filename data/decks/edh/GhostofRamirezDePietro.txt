@@ -61,4 +61,5 @@
 1 Striped Riverwinder
 1 Omenspeaker
 1 Constricting Tendrils
-{'overall': 13.213157894736844, 'cmc': 3.015873015873016, 'ramp': '9', 'draw': '40', 'interaction': 6, 'folder': 'edh', 'commander': 'GhostofRamirezDePietro.txt'}
+1 Hampering Snare
+{'overall': 13.466666666666667, 'cmc': 3.0, 'ramp': 9, 'draw': 41, 'interaction': 6}

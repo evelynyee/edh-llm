@@ -1,65 +1,65 @@
 1 Bill the Pony
-1 War Report
-1 Slaughter the Strong
-1 Sword of the Ages
-1 Sky Skiff
-1 Union of the Third Path
-1 Land Tax
-1 Vampire Slayer
-1 White Dragon
-1 Skyshaper
-1 Wand of the Elements
-1 Sheer Drop
-1 Sunfall
-1 Tempting Contract
-1 Silent Dart
-1 Staff of the Wild Magus
-1 Sworn Companions
-1 Thraben Sentry // Thraben Militia
-1 Worthy Knight
-1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 Spawning Bed
-1 Wizard's Rockets
-1 Wirefly Hive
-1 Ugin, the Ineffable
-1 Take Up Arms
-1 War Chariot
-1 Staff of the Flame Magus
-1 Topple
-1 Speakeasy Server
-1 Tetravus
-1 Windborn Muse
-1 Silverflame Ritual
-1 Solitude
-1 Slagstone Refinery
-1 Well of Life
-1 Surge of Salvation
-1 Stone Retrieval Unit
-1 Austere Command
-1 Voltaic Servant
-1 Trueheart Duelist
-1 Spectrum Sentinel
-1 Trusted Pegasus
+1 Sword of War and Peace
+1 Topplegeist
+1 Valor Made Real
+1 Wrath of God
+1 Surestrike Trident
+1 Tyrant's Machine
+1 White Plume Adventurer
 1 Team Pennant
-1 Troubled Healer
-1 Spectral Reserves
-1 Tempered Steel
-1 Wake the Reflections
-1 Windbrisk Raptor
-1 Tanglebloom
-1 Wedding Announcement // Wedding Festivity
-1 Warchanter Skald
-1 Voltaic Construct
-1 Sliversmith
-1 Spirit Link
+1 Thundering Chariot
 1 Weight of Conscience
-1 Unassuming Sage
-1 Teroh's Vanguard
-1 Westfold Rider
-1 Venerable Monk
-1 Valor in Akros
-1 Wall of Essence
-1 Vulshok Morningstar
-1 Syndic of Tithes
-1 Ugin, the Spirit Dragon
-{'overall': 4.262612612612613, 'cmc': 3.264705882352941, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}, 'ramp': '5', 'draw': '7', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}
+1 Touch of the Eternal
+1 Wall of Shields
+1 When We Were Young
+1 Yotian Frontliner
+1 Wings of Hubris
+1 You Hear Something on Watch
+1 Starnheim Unleashed
+1 Yosei, the Morning Star
+1 Unlicensed Hearse
+1 Xenk, Paladin Unbroken
+1 Syndicate Messenger
+1 White Dragon
+1 Soul Net
+1 Twilight Drover
+1 Wingmantle Chaplain
+1 Swell of Courage
+1 The Wandering Emperor
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Vanquisher's Axe
+1 Solitude
+1 Smite the Monstrous
+1 Weatherlight Compleated
+1 Sword of Hearth and Home
+1 The Eternal Wanderer
+1 Springjack Pasture
+1 Veteran Cavalier
+1 Terashi's Verdict
+1 Soul Charmer
+1 Valor of the Worthy
+1 Volrath's Laboratory
+1 Wand of the Elements
+1 Valorous Steed
+1 Venerated Loxodon
+1 Sunlance
+1 Servo Exhibition
+1 Thaumatic Compass // Spires of Orazca
+1 Solar Tide
+1 Triangle of War
+1 Wondrous Crucible
+1 Spirit Cairn
+1 Victory's Herald
+1 Vampire Slayer
+1 Tiller of Flesh
+1 The Hive
+1 Wall of Reverence
+1 Mind Stone
+1 Zeriam, Golden Wind
+1 Wurm's Tooth
+1 Veteran's Powerblade
+1 Universal Solvent
+1 Sheer Drop
+1 The Moment
+1 Solemn Offering
+{'overall': 2.977450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 3, 'interaction': 12}

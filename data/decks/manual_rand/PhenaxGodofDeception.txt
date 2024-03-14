@@ -1,65 +1,65 @@
 1 Phenax, God of Deception
-1 Tezzeret the Schemer
-1 Zanikev Locust
-1 Varragoth, Bloodsky Sire
-1 Wormhole Serpent
-1 Toll of the Invasion
-1 Tainted Adversary
-1 Windfall
-1 Twisted Sewer-Witch
-1 Whir of Invention
-1 Unerring Sling
-1 Xathrid Slyblade
-1 Tangled Colony
-1 Veilstone Amulet
-1 Mind Stone
-1 Touch of Darkness
-1 Western Paladin
-1 Ugin, the Ineffable
-1 Volcanic Eruption
-1 Wingfold Pteron
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Tower of Murmurs
-1 Wall of Distortion
-1 Wall of Kelp
-1 Vampire's Kiss
-1 To the Slaughter
-1 Suq'Ata Firewalker
-1 Yixlid Jailer
-1 Warehouse Tabby
-1 Voltaic Construct
-1 Sudden Spoiling
-1 Venarian Glimmer
-1 Undercity Scrounger
-1 Wanderbrine Rootcutters
-1 True Polymorph
-1 Vendetta
-1 Talion, the Kindly Lord
-1 Urborg Uprising
-1 Timothar, Baron of Bats
-1 Zombie Trailblazer
-1 Worldslayer
-1 Untethered Express
-1 Treacherous Vampire
-1 Turtleshell Changeling
-1 Xanathar, Guild Kingpin
-1 Worldly Counsel
-1 Blood Artist
-1 Warkite Marauder
-1 Verity Circle
 1 Uninvited Geist // Unimpeded Trespasser
-1 Wall of Stolen Identity
-1 Wizard Mentor
-1 Weirding Shaman
-1 Tsabo's Assassin
+1 Wight
+1 Triumph of Cruelty
+1 Veiled Apparition
+1 The Long Reach of Night // Animus of Night's Reach
+1 Workshop Elders
+1 Undead Alchemist
+1 Subjugate the Hobbits
+1 Tomb Tyrant
+1 Yawgmoth's Vile Offering
 1 Trespasser's Curse
+1 Vraska's Contempt
+1 Wave Elemental
+1 Tsabo's Decree
+1 Thassa's Rebuff
+1 Undercity's Embrace
+1 Vesuvan Doppelganger
+1 Volrath the Fallen
+1 Time Stop
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Trench Stalker
+1 Zephid
+1 Yawgmoth Demon
+1 Tooth Collector
+1 Veil of Secrecy
+1 Urza's Command
+1 Xathrid Slyblade
+1 Wreck Hunter
+1 Thopter Assembly
+1 Worst Fears
 1 Wizards of Thay
-1 Touchstone
-1 Topaz Dragon // Entropic Cloud
-1 Vedalken Humiliator
-1 _____ _____ _____ Trespasser
-1 Tower of Coireall
-1 Warchanter of Mogis
-1 Undo
-1 Veiled Sentry
-{'overall': 3.981196581196581, 'cmc': 3.4411764705882355, 'ramp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}amp': '3', 'draw': '9', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'PhenaxGodofDeception.txt'}
+1 Thassa, Deep-Dwelling
+1 Wicked Pact
+1 The Scarab God
+1 Synapse Necromage
+1 Zagoth Mamba
+1 War Barge
+1 Voracious Fell Beast
+1 Vortex Elemental
+1 Unwilling Ingredient
+1 Stolen by the Fae
+1 Virtue's Ruin
+1 Wanderbrine Rootcutters
+1 Underworld Hermit
+1 Transmutation
+1 Volrath's Curse
+1 Zombie Trailblazer
+1 Wand of Ith
+1 Whim of Volrath
+1 Trickbind
+1 Tishana's Tidebinder
+1 Umbral Juke
+1 Vapor Snag
+1 Tymaret Calls the Dead
+1 Warren Weirding
+1 Xathrid Gorgon
+1 Undercity Plague
+1 Wistful Thinking
+1 Underdark Rift
+1 The Hive
+1 Wu Elite Cavalry
+1 Visions of Dread
+1 Wei Night Raiders
+{'overall': 3.28781512605042, 'cmc': 3.71875, 'ramp': 3, 'draw': 6, 'interaction': 10}

@@ -61,4 +61,5 @@
 1 Return to Dust
 1 Swiftfoot Boots
 1 Intangible Virtue
-{'overall': 5.809685863874346, 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'JazalGoldmane.txt'}
+1 Nykthos, Shrine to Nyx
+{'overall': 5.820157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 9, 'interaction': 8}

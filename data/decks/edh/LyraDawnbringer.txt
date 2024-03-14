@@ -61,4 +61,5 @@
 1 Battle Angels of Tyr
 1 Marble Diamond
 1 Thraben Watcher
-{'overall': 5.888785046728972, 'cmc': 3.3968253968253967, 'ramp': '10', 'draw': '10', 'interaction': 6, 'folder': 'edh', 'commander': 'LyraDawnbringer.txt'}
+1 Akroma, Vision of Ixidor
+{'overall': 5.8791855203619905, 'cmc': 3.453125, 'ramp': 10, 'draw': 10, 'interaction': 6}

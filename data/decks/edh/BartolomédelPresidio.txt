@@ -61,4 +61,5 @@
 1 Hunted Witness
 1 Charismatic Conqueror
 1 Esper Sentinel
-{'overall': 6.634615384615385, 'cmc': 1.4444444444444444, 'ramp': '10', 'draw': '10', 'interaction': 5, 'folder': 'edh', 'commander': 'BartolomédelPresidio.txt'}
+1 Blade of the Bloodchief
+{'overall': 6.641304347826087, 'cmc': 1.4375, 'ramp': 10, 'draw': 10, 'interaction': 5}

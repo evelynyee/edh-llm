@@ -61,4 +61,5 @@
 1 Kjeldoran Phalanx
 1 Knights of Thorn
 1 Brainstorm
-{'overall': 4.908369098712446, 'cmc': 2.33, 'ramp': '8', 'draw': '7', 'interaction': 6, 'folder': 'edh', 'commander': 'AyeshaTanaka.txt'}
+1 Mystic Remora
+{'overall': 5.164864864864865, 'cmc': 2.3125, 'ramp': 8, 'draw': 8, 'interaction': 6}

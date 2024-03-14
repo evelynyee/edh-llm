@@ -61,4 +61,5 @@
 1 Throne of Eldraine
 1 Boseiju, Who Endures
 1 Vorinclex, Voice of Hunger
-{'overall': 11.175471698113206, 'cmc': 4.2063492063492065, 'ramp': '26', 'draw': '16', 'interaction': 4, 'folder': 'edh', 'commander': 'GhaltaStampedeTyrant.txt'}
+1 Up the Beanstalk
+{'overall': 11.429400749063669, 'cmc': 4.171875, 'ramp': 26, 'draw': 17, 'interaction': 4}

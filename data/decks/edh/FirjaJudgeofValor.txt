@@ -61,4 +61,5 @@
 1 Lyra Dawnbringer
 1 Buried Alive
 1 Charcoal Diamond
-{'overall': 6.0181818181818185, 'cmc': 2.4444444444444446, 'ramp': '11', 'draw': '8', 'interaction': 9, 'folder': 'edh', 'commander': 'FirjaJudgeofValor.txt'}
+1 Austere Command
+{'overall': 6.05, 'cmc': 2.5, 'ramp': 11, 'draw': 8, 'interaction': 10}

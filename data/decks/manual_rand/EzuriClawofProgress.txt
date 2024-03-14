@@ -1,65 +1,65 @@
 1 Ezuri, Claw of Progress
-1 Towashi Guide-Bot
-1 Virulent Sliver
-1 Windrider Eel
-1 Vibrating Sphere
-1 Wicked Slumber
-1 Triangle of War
-1 Whirling Dervish
-1 Tishana, Voice of Thunder
-1 Twinblade Slasher
-1 Bloom Tender
-1 Tervigon
-1 Tanazir Quandrix
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Winter's Chill
-1 Turn to Frog
-1 Wing Snare
-1 Thopter Squadron
-1 Vivien's Invocation
-1 The Watcher in the Water
-1 Withstand Death
-1 World Shaper
-1 Vexing Puzzlebox
-1 Triskelion
-1 Turn Aside
-1 Vivien's Crocodile
-1 The Filigree Sylex
-1 Triumph of the Hordes
-1 Ulvenwald Observer
-1 Toxic Scorpion
-1 Viridian Lorebearers
-1 Venom Sliver
-1 Tolarian Contempt
-1 Sword of Truth and Justice
-1 Tandem Takedown
-1 Waker of the Wilds
+1 Windswift Slice
+1 Mulldrifter
+1 Waterlogged Hulk // Watertight Gondola
+1 Vigorspore Wurm
+1 Seedborn Muse
+1 Ulamog's Despoiler
+1 Viral Spawning
+1 Wildgrowth Walker
+1 Tracker
 1 Venerable Kumo
-1 Trollbred Guardian
-1 Unnatural Growth
-1 War Chariot
-1 Stand Together
-1 Wren's Run Hydra
-1 Zephyr Boots
-1 Vastwood Animist
+1 Wiitigo
+1 Traverse the Outlands
+1 Tyrite Sanctum
+1 Viridian Lorebearers
+1 Trophy Hunter
+1 Yavimaya Enchantress
+1 Synod Artificer
+1 Unity of Purpose
+1 Strength from the Fallen
+1 Tooth of Chiss-Goria
+1 Vulshok Gauntlets
+1 Winged Words
+1 Winter's Chill
+1 Tamiyo's Immobilizer
+1 Wildwood Scourge
+1 Wedding Invitation
+1 Wicked Wolf
+1 Throne of Geth
+1 Urban Daggertooth
+1 Whirler Rogue
+1 Vivien's Jaguar
+1 Zellix, Sanity Flayer
+1 Wildborn Preserver
+1 Vedalken Humiliator
+1 Waterkin Shaman
+1 Viseling
+1 Warden of the Woods
+1 Zndrsplt's Judgment
+1 Verdant Sun's Avatar
+1 Wrenn and Seven
+1 Wilderness Hypnotist
+1 Vastwood Hydra
+1 Transmogrifying Wand
+1 Treetop Village
+1 Titan Forge
+1 Walking Ballista
+1 Turntimber Ranger
+1 Wicked Slumber
 1 Walker of Secret Ways
-1 You Look Upon the Tarrasque
-1 Voodoo Doll
-1 Surrounded by Orcs
-1 Superior Numbers
-1 Tidal Surge
-1 Zephyr Sentinel
-1 Tarrian's Soulcleaver
-1 Stumpsquall Hydra
-1 Ursapine
-1 Vivien's Talent
+1 The Skullspore Nexus
+1 Tezzeret, Cruel Machinist
+1 Ugin, the Spirit Dragon
+1 Sweet-Gum Recluse
+1 Wake Thrasher
+1 Werewolf Pack Leader
+1 Wurmquake
+1 Tandem Takedown
+1 Triskelion
+1 Trollbred Guardian
+1 Watchful Blisterzoa
+1 Wildwood Tracker
 1 Unnatural Aggression
-1 Titania's Song
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Trawler Drake
-1 Whisperwood Elemental
-1 Walking Skyscraper
-1 Ventifact Bottle
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Verdeloth the Ancient
-{'overall': 4.417796610169491, 'cmc': 3.5223880597014925, 'ramp': '4', 'draw': '9', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}raction': 12, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}
+1 The Moment
+{'overall': 3.6493562231759658, 'cmc': 3.640625, 'ramp': 2, 'draw': 9, 'interaction': 7}

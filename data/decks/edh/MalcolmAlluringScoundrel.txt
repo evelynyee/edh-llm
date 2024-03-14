@@ -61,4 +61,5 @@
 1 War Room
 1 Aqueous Form
 1 Everflowing Chalice
-{'overall': 8.386046511627907, 'cmc': 3.4126984126984126, 'ramp': '11', 'draw': '17', 'interaction': 16, 'folder': 'edh', 'commander': 'MalcolmAlluringScoundrel.txt'}
+1 Consecrated Sphinx
+{'overall': 8.379185520361991, 'cmc': 3.453125, 'ramp': 11, 'draw': 17, 'interaction': 16}

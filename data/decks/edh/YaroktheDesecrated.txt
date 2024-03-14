@@ -61,4 +61,5 @@
 1 Muldrotha, the Gravetide
 1 Undergrowth Stadium
 1 Three Visits
-{'overall': 7.418181818181818, 'cmc': 2.4444444444444446, 'ramp': '14', 'draw': '11', 'interaction': 7, 'folder': 'edh', 'commander': 'YaroktheDesecrated.txt'}
+1 Zendikar's Roil
+{'overall': 7.40503144654088, 'cmc': 2.484375, 'ramp': 14, 'draw': 11, 'interaction': 7}

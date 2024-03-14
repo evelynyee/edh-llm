@@ -61,4 +61,5 @@
 1 Agent of Treachery
 1 Mizzium Skin
 1 Twitch
-{'overall': 10.895637583892618, 'cmc': 2.365079365079365, 'ramp': '14', 'draw': '25', 'interaction': 6, 'folder': 'edh', 'commander': 'OrvartheAllForm.txt'}
+1 Mirror Box
+{'overall': 10.892105263157895, 'cmc': 2.375, 'ramp': 14, 'draw': 25, 'interaction': 6}

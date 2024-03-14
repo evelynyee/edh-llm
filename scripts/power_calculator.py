@@ -9,6 +9,20 @@ from selenium.webdriver.chrome.options import Options
 
 
 def calculate_power(filepath):
+    """
+    Reads deck text files and returns power level of deck
+
+    Parameters:
+        -filepath: path to deck file
+    Returns:
+        -dictionary with the following attributes:
+            -overall: power score, refer to documentation for formula
+            -cmc: average converted mana cost
+            -ramp: amount of mana ramp cards
+            -draw: amount of cards that draw more cards
+            -interaction: amount of cards that remove/counter other cards
+    """
+
     # Path to your webdriver
     PATH = os.path.abspath("chromedriver.exe")
 
@@ -32,7 +46,7 @@ def calculate_power(filepath):
 
         # Send the file path to the input element
         #file_input.send_keys('C:/Users/theod/edh-llm/data/test_deck.txt')
-        file_input.send_keys(os.path.abspath(filepath)) #TO BE REPLACED BY FILEPATH
+        file_input.send_keys(os.path.abspath(filepath))
         #print('sent file!')
 
         # necessary to wait for site to generate power level, pending more intelligent fix (detecting js update on site)
@@ -47,14 +61,15 @@ def calculate_power(filepath):
         overall = driver.find_element(By.ID, 'power_level').text
         #print(overall)
         #Ramp
-        ramp = driver.find_element(By.ID, "total_ramp").get_attribute("value")
+        ramp = int(driver.find_element(By.ID, "total_ramp").get_attribute("value"))
 
         
-        draw = driver.find_element(By.ID, "total_draw").get_attribute("value")
+        draw = int(driver.find_element(By.ID, "total_draw").get_attribute("value"))
 
-        tutor = driver.find_element(By.ID, "total_tutor").get_attribute("value")
+        tutor = int(driver.find_element(By.ID, "total_tutor").get_attribute("value"))
 
         interaction = int(driver.find_element(By.ID, "total_removal").get_attribute("value")) + int(driver.find_element(By.ID, "total_counterspell").get_attribute("value"))
+        overall = 2 / avg_cmc + ( draw/2 + ramp/2) / 2 + interaction/20
     except Exception as e:
         # Close the browser after a delay or after certain actions
         print(e)

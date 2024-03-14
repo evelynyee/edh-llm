@@ -61,4 +61,5 @@
 1 Dimir Aqueduct
 1 Rhystic Study
 1 Void Rend
-{'overall': 5.658823529411764, 'cmc': 1.8888888888888888, 'ramp': '10', 'draw': '7', 'interaction': 7, 'folder': 'edh', 'commander': 'DromartheBanisher.txt'}
+1 Western Paladin
+{'overall': 5.690650406504066, 'cmc': 1.921875, 'ramp': 10, 'draw': 7, 'interaction': 8}

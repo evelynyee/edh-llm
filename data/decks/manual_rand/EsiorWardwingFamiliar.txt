@@ -1,65 +1,65 @@
 1 Esior, Wardwing Familiar
-1 The Millennium Calendar
-1 Slithermuse
-1 Trickery Charm
-1 Vizier of Many Faces
-1 Sleep of the Dead
+1 Wheel of Torture
+1 The Biblioplex
+1 Urza's Filter
+1 Vedalken Certarch
+1 Young Blue Dragon // Sand Augury
 1 Zephyr Sentinel
-1 Unctus, Grand Metatect
-1 Towashi Guide-Bot
-1 Vedalken Entrancer
-1 Spell Rupture
-1 Time Spiral
-1 Spectral Sailor
-1 Time Lord Regeneration
-1 The Prismatic Piper
-1 Star Whale
-1 Wall of Runes
-1 The Filigree Sylex
-1 Thunder Drake
-1 Timestream Navigator
-1 Volo, Itinerant Scholar
-1 Void Stalker
-1 Young Blue Dragon // Sand Augury
-1 The Mana Rig
-1 Teller of Tales
-1 Urza's Chalice
-1 Tapestry of the Ages
-1 Vexing Arcanix
-1 The Mightstone and Weakstone // Urza, Planeswalker
-1 Sorcerous Spyglass
-1 Tidal Surge
+1 Thieves' Fortune
+1 Zellix, Sanity Flayer
+1 Trinisphere
+1 Wicked Slumber
+1 Vodalian Mage
 1 Wall of Deceit
+1 Unblinking Bleb
+1 Wavecrash Triton
+1 Vedalken Anatomist
+1 Weight of Memory
 1 Transplant Theorist
-1 Switcheroo
-1 Test of Talents
-1 Wandering Archaic // Explore the Vastlands
-1 Uba Mask
-1 Spellweaver Helix
-1 Wall of Forgotten Pharaohs
-1 Throne of Geth
-1 Void Winnower
+1 Teferi's Tutelage
+1 Tasha's Hideous Laughter
+1 Spectral Arcanist
+1 Subjugate the Hobbits
+1 Vanishment
+1 Zndrsplt's Judgment
+1 Walking Skyscraper
+1 Sorcerous Squall
+1 Weatherlight
+1 Swashbuckler's Whip
+1 Spectral Sailor
+1 You Come to a River
+1 Towashi Guide-Bot
+1 Swindler's Scheme
+1 Thought Harvester
+1 Voidwalk
+1 Wipe Away
+1 Tidal Surge
+1 Time Beetle
+1 Teller of Tales
+1 Sphinx of Jwar Isle
+1 Ulamog, the Ceaseless Hunger
+1 Trickster Mage
+1 Willbender
+1 Wanderwine Prophets
+1 The Millennium Calendar
+1 TARDIS
+1 Teachings of the Archaics
+1 Urza's Miter
+1 Sigil Tracer
 1 Tymora's Invoker
-1 Syr Elenora, the Discerning
-1 Unexplained Vision
-1 Whirlwind Denial
-1 Treasure Keeper
-1 Spectral Shift
-1 Wheel and Deal
-1 Tempted by the Oriq
-1 Voidmage Prodigy
+1 Whir of Invention
+1 Surtland Elementalist
+1 Thryx, the Sudden Storm
+1 Spectral Adversary
 1 Young Blue Dragon // Sand Augury
-1 Twice Upon a Time // Unlikely Meeting
-1 Volshe Tideturner
-1 Synod Sanctum
-1 Ugin's Mastery
-1 Throne of Makindi
-1 Thran Portal
-1 Spectral Deluge
-1 Wind Sail
-1 Statute of Denial
-1 Tezzeret's Ambition
-1 Silver Scrutiny
-1 Tamiyo's Logbook
-1 Ward of Bones
-{'overall': 8.095555555555556, 'cmc': 3.3582089552238807, 'ramp': '7', 'draw': '22', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}
+1 Force of Will
+1 Surrakar Spellblade
+1 Weathered Runestone
+1 Whirler Rogue
+1 Treasure Keeper
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Thassa's Oracle
+1 Three Bowls of Porridge
+1 Void Winnower
+1 Zhulodok, Void Gorger
+{'overall': 5.490772532188841, 'cmc': 3.6984126984126986, 'ramp': 2, 'draw': 17, 'interaction': 4}

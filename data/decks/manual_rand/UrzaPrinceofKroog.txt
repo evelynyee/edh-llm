@@ -1,65 +1,65 @@
 1 Urza, Prince of Kroog
-1 Viridian Longbow
-1 Wingfold Pteron
-1 Syphon Essence
-1 Whirlwind Adept
-1 Tide Drifter
-1 Wu Scout
-1 Vedalken Outlander
-1 The Book of Exalted Deeds
-1 Tooth of Chiss-Goria
-1 Talrand's Invocation
+1 Triton Waverider
 1 Startle
-1 Veteran Soldier
-1 Tomb of Horrors Adventurer
-1 The Hive
-1 Vedalken Squirrel-Whacker
-1 Swan Song
-1 Waterlogged Hulk // Watertight Gondola
-1 Venerated Loxodon
-1 Wings of Hubris
-1 Weight of Conscience
-1 Storm of Souls
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Urn of Godfire
-1 Tatsumasa, the Dragon's Fang
-1 Time Wipe
-1 Sunder the Gateway
-1 Zenith Seeker
-1 Thraben Sentry // Thraben Militia
-1 You're Ambushed on the Road
-1 Zhuge Jin, Wu Strategist
-1 Tidal Wave
-1 Well of Life
-1 White Scarab
-1 Teyo, Geometric Tactician
-1 Veil of Birds
-1 Vessel of Ephemera
-1 Warden of the Wall
-1 Unified Strike
-1 War Barge
-1 White Ward
-1 Valor Made Real
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Urza's Ruinous Blast
-1 Storm Herd
-1 Thunder Totem
-1 Vizier of Many Faces
-1 Thraben Exorcism
-1 Valorous Stance
-1 Wizened Cenn
-1 Whipgrass Entangler
-1 Mind Stone
-1 Wirefly Hive
-1 Urza, Planeswalker
-1 Valkyrie Harbinger
-1 Urza's Engine
-1 Zephyr Spirit
-1 Whispering Wizard
-1 Tradewind Rider
-1 Victory's Herald
-1 Teferi's Protection
-1 Zephyr Sprite
-1 Summoning Station
+1 Triskelavus
 1 Wall of Kelp
-{'overall': 3.7618721461187214, 'cmc': 3.2686567164179103, 'ramp': '5', 'draw': '5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}'5', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'UrzaPrinceofKroog.txt'}
+1 Witch's Oven
+1 Tempting Contract
+1 Writ of Passage
+1 You See a Guard Approach
+1 Tolarian Entrancer
+1 Xenk, Paladin Unbroken
+1 Triumphant Reckoning
+1 Tidal Visionary
+1 Turn into a Pumpkin
+1 Voice of Grace
+1 Swords to Plowshares
+1 Wall of Resurgence
+1 Wind Sail
+1 Teyo, Geometric Tactician
+1 Tocasia's Welcome
+1 Watcher of the Spheres
+1 Wishmonger
+1 Zephyr Spirit
+1 Tithe Taker
+1 Thermal Glider
+1 Threads of Disloyalty
+1 Tezzeret, Artifice Master
+1 Mana Vault
+1 Thraben Exorcism
+1 Thopter Arrest
+1 Vanguard of Brimaz
+1 Vectis Gloves
+1 Weatherseed Faeries
+1 Wall of Junk
+1 Zephyr Singer
+1 Mana Drain
+1 Volrath's Laboratory
+1 Sun Ce, Young Conquerer
+1 Voldaren Estate
+1 Unnatural Selection
+1 Thistledown Duo
+1 Titan's Presence
+1 Vantress Transmuter // Croaking Curse
+1 Thopter Shop
+1 Thalia's Geistcaller
+1 Whipgrass Entangler
+1 Treetop Sentinel
+1 Take Up Arms
+1 Vedalken Squirrel-Whacker
+1 Squad Commander
+1 Vertigo Spawn
+1 White Scarab
+1 Urza, Lord Protector // Urza, Planeswalker
+1 Twiddle
+1 Urbis Protector
+1 Thopter Mechanic
+1 True Polymorph
+1 Treason of Isengard
+1 Turn to Frog
+1 Undead Slayer
+1 Spirit Bonds
+1 The Phasing of Zhalfir
+1 Thopter Architect
+1 Virtue of Knowledge // Vantress Visions
+{'overall': 3.727450980392157, 'cmc': 3.1875, 'ramp': 2, 'draw': 9, 'interaction': 7}

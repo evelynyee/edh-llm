@@ -61,4 +61,5 @@
 1 Bloodfell Caves
 1 Vandalblast
 1 Foreboding Ruins
-{'overall': 4.9230061349693255, 'cmc': 2.5873015873015874, 'ramp': '8', 'draw': '7', 'interaction': 8, 'folder': 'edh', 'commander': 'NehebtheWorthy.txt'}
+1 Frontline Devastator
+{'overall': 4.916467065868264, 'cmc': 2.609375, 'ramp': 8, 'draw': 7, 'interaction': 8}

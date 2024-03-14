@@ -61,4 +61,5 @@
 1 Llanowar Elves
 1 Birds of Paradise
 1 Swan Song
-{'overall': 9.638785046728973, 'cmc': 3.3968253968253967, 'ramp': '22', 'draw': '13', 'interaction': 6, 'folder': 'edh', 'commander': 'GandalfWestwardVoyager.txt'}
+1 Simic Signet
+{'overall': 9.892592592592592, 'cmc': 3.375, 'ramp': 23, 'draw': 13, 'interaction': 6}

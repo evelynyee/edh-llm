@@ -1,65 +1,65 @@
 1 Legolas, Master Archer
-1 Willow Priestess
-1 Shrine of Burning Rage
-1 Unlicensed Hearse
-1 Vivien, Champion of the Wilds
-1 Toymaker
-1 Talara's Battalion
-1 Wurmcalling
-1 Terravore
-1 Unnatural Restoration
-1 Sol Ring
+1 Walking Bulwark
+1 Woodland Guidance
+1 Vulshok Morningstar
+1 Trollhide
+1 Triassic Egg
+1 Venomous Breath
+1 Winds of Qal Sisma
+1 Tyrranax Atrocity
+1 Shield of the Avatar
+1 Tropical Storm
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Wood Elemental
+1 Urza's Miter
+1 Sunfrill Imitator
+1 Wild Defiance
+1 Undercity Upheaval
 1 The Peregrine Dynamo
-1 Titania's Song
-1 Vorinclex, Monstrous Raider
-1 Wolfcaller's Howl
-1 Touchstone
-1 Subdue
-1 Vastwood Surge
-1 Smell Fear
-1 Rampant Growth
-1 Titan of Industry
-1 Thornbite Staff
-1 Tapestry of the Ages
-1 Steel Hellkite
-1 Venerated Rotpriest
-1 Troublemaker Ouphe
-1 Tuskguard Captain
-1 Winding Canyons
-1 Staff of the Mind Magus
-1 Tree of Redemption
-1 Urza's Engine
-1 Telim'Tor's Darts
 1 Terrifying Presence
-1 Wolfkin Outcast // Wedding Crasher
-1 Triskelavus
-1 Visions of Dominance
-1 Ugin's Nexus
-1 Thran Power Suit
-1 The Great Henge
-1 The Immortal Sun
-1 Tomakul Honor Guard
-1 Trollbred Guardian
-1 Unerring Sling
-1 Tandem Takedown
-1 Thrive
-1 Sentinel Tower
-1 Zendikar Resurgent
-1 Verdant Outrider
-1 Vivien's Jaguar
-1 Wing Puncture
-1 Virulent Sliver
-1 Vivien on the Hunt
-1 Unbound Flourishing
-1 Tangletrap
-1 Weathered Runestone
-1 Wandering Wolf
-1 Slingbow Trap
-1 Webweaver Changeling
-1 Treefolk Seedlings
-1 Twinning Staff
-1 Thundering Chariot
-1 Vital Surge
-1 Well of Lost Dreams
-1 Vernal Equinox
-{'overall': 4.188744588744589, 'cmc': 3.3970588235294117, 'ramp': '5', 'draw': '8', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}
+1 Tree of Redemption
+1 Trufflesnout
+1 Zoetic Cavern
+1 Winter Blast
+1 Wild Pair
+1 Veilstone Amulet
+1 Tooth of Chiss-Goria
+1 Zephyr Boots
+1 Xanthic Statue
+1 Voracious Typhon
+1 Summoning Trap
+1 Titania's Command
+1 Wren's Run Vanquisher
+1 Voodoo Doll
+1 Towering Gibbon
+1 Untethered Express
+1 Smuggler's Copter
+1 Vernal Bloom
+1 Vulshok Battlegear
+1 Tracker
+1 Tornado Elemental
+1 Spellwild Ouphe
+1 Soul's Majesty
+1 Wand of Ith
+1 Vedalken Shackles
+1 Shell of the Last Kappa
+1 Snag
+1 Suncrusher
+1 The Golden Throne
+1 Witness of the Ages
+1 Sultai Flayer
+1 Vine Snare
+1 Symmetry Matrix
+1 Strength-Testing Hammer
+1 Welcome to . . . // Jurassic Park
+1 Whippoorwill
+1 Skarrgan Pit-Skulk
+1 Unholy Citadel
+1 Tunnel of Love
+1 Willow Priestess
+1 Vastwood Surge
+1 Woodland Bellower
+1 Utopia Sprawl
+1 Tawnos's Tinkering
+1 Vines of Vastwood
+{'overall': 4.31244019138756, 'cmc': 3.265625, 'ramp': 6, 'draw': 7, 'interaction': 9}

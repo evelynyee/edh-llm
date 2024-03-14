@@ -61,4 +61,5 @@
 1 Wedding Invitation
 1 Mycosynth Wellspring
 1 Akki Battle Squad
-{'overall': 10.46304347826087, 'cmc': 2.1904761904761907, 'ramp': '16', 'draw': '21', 'interaction': 6, 'folder': 'edh', 'commander': 'HeikoYamazakitheGeneral.txt'}
+1 Soul-Guide Lantern
+{'overall': 10.720863309352518, 'cmc': 2.171875, 'ramp': 16, 'draw': 22, 'interaction': 6}
