@@ -87,7 +87,6 @@ def save_decks(results_df, fp):
     :param results_df: decks to save
     :param fp: filepath to save decks to
     """
-
     pd.DataFrame(results_df).to_pickle(fp)
     #pickle.dump(results_df, fp, pickle.HIGHEST_PROTOCOL)
     #results_df.to_pickle(fp)
