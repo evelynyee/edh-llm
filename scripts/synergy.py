@@ -3,6 +3,10 @@ import math
 import os
 import pickle
 from scrape_cardlists import request_json, CARDLISTS_PATH
+import signal
+import sys
+import time
+from tqdm import tqdm
 DECK_PATH = os.path.abspath(os.path.join('..', 'data','decks'))
 
 def synergy(a,b, lists, a_is_commander=False):
@@ -39,9 +43,13 @@ def synergy(a,b, lists, a_is_commander=False):
             a_data = request_json(a,a_is_commander)
             if a_data is not None:
                 break
-            print(repr(a))
+        if a_data is None:
+            raise ValueError('Failed to get data for card:',a)
         a_freq = a_data['container']['json_dict']['card']['num_decks']
         a_cards = {card['name']:card['num_decks'] for card in a_data['cardlist']}
+        a_split = 'test' if a_is_commander else 'non_commander'
+        lists[a_split][a] = {'cards':a_cards, 'total':a_freq} # save the data for later use
+        print(f'Adding card to {a_split} list: {a}')
 
     # get a and b co-fequency
     if b in a_cards:
@@ -52,7 +60,7 @@ def synergy(a,b, lists, a_is_commander=False):
     # get b-card fequency
     b_set = False
     b_freq = 0
-    if b in lists['non_commander']: # there can't be 2 commanders generally
+    if b in lists['non_commander']: # there can't be 2 commanders
         b_freq = lists['non_commander'][b]['total']
         b_set = True
     if not b_set: # need to query the API for a data
@@ -62,10 +70,15 @@ def synergy(a,b, lists, a_is_commander=False):
             if b_data is not None:
                 break
             print(repr(b))
+        if b_data is None:
+            raise ValueError('Failed to get data for card:',b)
+        b_cards = {card['name']:card['num_decks'] for card in b_data['cardlist']}
         b_freq = b_data['container']['json_dict']['card']['num_decks']
+        lists['non_commander'][b] = {'cards':b_cards, 'total':b_freq} # save the data for later use
+        print(f'Adding card to non_commander list: {b}')
 
     ratio = ab_freq**2/(a_freq*b_freq) # squaring the numerator gives better spread
-    return math.log(ratio)
+    return math.log(ratio), lists
 
 def mean (l):
     return sum(l)/len(l)
@@ -73,17 +86,33 @@ def mean (l):
 def evaluate_deck(commander, deck, lists):
     commander_sim = []
     co_card_sim = []
-    for i in range(len(deck)):
+    print(f'evaluating deck: {commander}')
+    failed = set()
+    for i in tqdm(range(len(deck))):
         card = deck[i]
-        commander_sim.append(synergy(commander,card,lists, a_is_commander=True))
-        card_sim = []
-        for j in range(len(deck)):
-            if i == j: # ignore synergy with itself
-                continue
-            b = deck[j]
-            card_sim.append(synergy(card, b, lists))
-        co_card_sim.append(mean(card_sim))
-    return mean(commander_sim), mean(co_card_sim)
+        if card in failed:
+            continue
+        try:
+            sim, lists = synergy(commander,card,lists, a_is_commander=True)
+            commander_sim.append(sim)
+            card_sim = []
+            for j in range(len(deck)):
+                b = deck[j]
+                if i == j or b in failed: # ignore synergy with itself, ignore failed cards
+                    continue
+                try:
+                    sim, lists = synergy(card, b, lists)
+                    card_sim.append(sim)
+                except ValueError as e: # b card not found
+                    print(e)
+                    failed.add(b)
+                    continue
+            co_card_sim.append(mean(card_sim))
+        except ValueError as e:  # a card not found
+            print(e)
+            failed.add(a)
+            continue
+    return mean(commander_sim), mean(co_card_sim), lists
 
 # Set up command-line arguments parser
 parser = argparse.ArgumentParser()
@@ -98,22 +127,54 @@ lists = pickle.load(open(CARDLISTS_PATH, 'rb')) # synergy data
 decklists = {}
 deck_path = os.path.join(DECK_PATH, args.path)
 print(deck_path)
+synergy_path = os.path.join(deck_path, 'synergy.pkl')
+syn_dict = {}
+if os.path.isfile(synergy_path):
+    with open(synergy_path, 'rb') as f:
+        syn_dict = pickle.load(f)
 deckfiles = os.listdir(deck_path)
+
+def cleanup (signum, frame):
+    """
+    Clean up and close lists file.
+    """
+    if signum:
+        print(f'Process killed on {time.asctime(time.localtime())}, with signal number {signum}.')
+    pre_lists = pickle.load(open(CARDLISTS_PATH, 'rb'))
+    if pre_lists != lists: # new cards were added, so save the updated lists
+        print('Saving updated cardlists.')
+        with open(CARDLISTS_PATH, 'wb') as f:
+            pickle.dump(lists, f)
+    if (not os.path.isfile(synergy_path)) or (pickle.load(open(synergy_path, 'rb'))!= syn_dict):
+        print('Saving updated synergy scores.')
+        with open(synergy_path, 'wb') as f:
+            pickle.dump(syn_dict, f)
+    sys.exit()
+signal.signal(signal.SIGTERM, cleanup)
+signal.signal(signal.SIGINT, cleanup)
+
 for f in deckfiles:
-    print(f"Processing {deck_path} - {f}")
     deck = []
-    with open(os.path.join(deck_path, f), 'r', encoding='utf-8') as file:
-        deck = file.readlines()
-        if 'commander_synergy' in deck[-1]: # already processed
-            continue
-        deck = [card.split(' ', 1)[1].strip() for card in deck if '{' not in card] # ignore power metrics
-        print(deck)
     try:
-        mean_commander, mean_co_card = evaluate_deck(deck[0], deck[1:], lists)
-        record = {'commander_synergy':{mean_commander}, 'card_synergy':{mean_co_card}}
+        deck = []
+        with open(os.path.join(deck_path, f), 'r', encoding='utf-8') as file:
+            deck = file.readlines()
+        deck = [card.split(' ', 1)[1].strip() for card in deck
+                if '{' not in card and len(card.strip()) > 0] # ignore previous metrics and empty lines
+        if deck[0] in syn_dict: # already processed
+            # print('Already processed:',syn_dict[deck[0]])
+            continue
+        else:
+            print(f"Processing {deck_path} - {f}")
+        print(deck)
+        mean_commander, mean_co_card, lists = evaluate_deck(deck[0], deck[1:], lists)
+        record = {'commander_synergy':mean_commander, 'card_synergy':mean_co_card}
+        syn_dict[deck[0]] = record
         print(record)
-        with open(os.path.join(deck_path, f), 'a', encoding='utf-8') as file:
-            file.write('\n'+str(record)+'\n')
+        print('Total decks evaluated:',len(syn_dict))
+        # with open(os.path.join(deck_path, f), 'a', encoding='utf-8') as file:
+        #     file.write('\n'+str(record)+'\n')
     except Exception as e:
         print(e)
         continue
+cleanup(False, None)
