@@ -1,0 +1,101 @@
+1 Shadowfax, Lord of Horses
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Minion of the Mighty
+1 Savior of Ollenbock
+1 Cryptic Gateway
+1 Arni Metalbrow
+1 Impetuous Protege
+1 Khorvath Brightflame
+1 Rhoda, Geist Avenger
+1 Luminous Broodmoth
+1 Thunderkin Awakener
+1 Laurine, the Diversion
+1 Bereaved Survivor // Dauntless Avenger
+1 Ironsoul Enforcer
+1 Tawnos's Coffin
+1 Duplicant
+1 Charge Across the Araba
+1 Plow Through Reito
+1 Promise of Tomorrow
+1 Raiders' Karve
+1 Deep Gnome Terramancer
+1 Embodiment of Fury
+1 Purphoros, Bronze-Blooded
+1 Kami of Celebration
+1 Suspension Field
+1 Seraph
+1 Nomad Mythmaker
+1 Seasoned Dungeoneer
+1 Eagle of Deliverance
+1 Graceful Reprieve
+1 Tunnel Ignus
+1 Keeper of the Accord
+1 Resplendent Marshal
+1 Breathkeeper Seraph
+1 Portal to Phyrexia
+1 Gilraen, Dúnedain Protector
+1 Lifeline
+1 Slab Hammer
+1 Adarkar Valkyrie
+1 Vizier of Deferment
+1 Wall of Resurgence
+1 Semester's End
+1 Mirror-Style Master
+1 Constricting Sliver
+1 Tiana, Ship's Caretaker
+1 Colfenor's Urn
+1 Dead // Gone
+1 Mysterious Limousine
+1 Cloudshift
+1 Banisher Priest
+1 Gerrard's Hourglass Pendant
+1 Gideon's Avenger
+1 Golden Argosy
+1 Portcullis
+1 Hithlain Rope
+1 It That Betrays
+1 Hofri Ghostforge
+1 Preeminent Captain
+1 Flamewake Phoenix
+1 Loyal Gryff
+1 Firbolg Flutist
+1 Rundvelt Hordemaster
+1 Scaretiller
+1 Archon of Redemption
+1 Burning Sands
+{'overall': 2.6176470588235294, 'cmc': 3.8636363636363638, 'ramp': '4', 'draw': '3', 'interaction': 7, 'folder': 'cos_sim', 'commander': 'ShadowfaxLordofHorses.txt'}}

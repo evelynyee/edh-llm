@@ -1,0 +1,101 @@
+1 Deathleaper, Terror Weapon
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Forest
+1 Mountain
+1 Rage Reflection
+1 Terror of Mount Velus
+1 Berserkers' Onslaught
+1 Highland Berserker
+1 Bloodmark Mentor
+1 Vampiric Fury
+1 Roller Coaster
+1 Nylea's Forerunner
+1 Khenra Charioteer
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+1 Maze Behemoth
+1 Kiddie Coaster
+1 Atarka, World Render
+1 Bloodcrusher of Khorne
+1 Fury Sliver
+1 Bellowing Elk
+1 Sabertooth Outrider
+1 Kobold Overlord
+1 Ondu Champion
+1 Pheres-Band Warchief
+1 Riot Ringleader
+1 Motivated Pony
+1 End-Raze Forerunners
+1 Tajuru Warcaller
+1 Chaos Terminator Lord
+1 Erkenbrand, Lord of Westfold
+1 Goblin General
+1 Scuttling Butler
+1 Sunrise Sovereign
+1 Sanctuary Raptor
+1 Dormant Grove // Gnarled Grovestrider
+1 Earthshaker Giant
+1 Rageblood Shaman
+1 Venom Connoisseur
+1 Spiraling Duelist
+1 Akoum Battlesinger
+1 Bolt Hound
+1 Thundering Ceratok
+1 Street Riot
+1 Bloodsworn Steward
+1 Goblin Chieftain
+1 Majestic Myriarch
+1 Tajuru Beastmaster
+1 Kobold Drill Sergeant
+1 Belligerent Whiptail
+1 Faerie Noble
+1 Chasm Guide
+1 Timber Protector
+1 Predatory Rampage
+1 Candlelit Cavalry
+1 Path of Anger's Flame
+1 Burn Bright
+1 Ferocity of the Wilds
+1 Headlong Rush
+1 Rally the Forces
+1 Lavafume Invoker
+1 Thunderfoot Baloth
+1 Coordinated Assault
+1 Warlord's Fury
+1 Crystalline Giant
+1 Overrun
+1 Hamlet Captain
+1 Thrakkus the Butcher
+{'overall': 0.7887755102040817, 'cmc': 3.712121212121212, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'DeathleaperTerrorWeapon.txt'}}

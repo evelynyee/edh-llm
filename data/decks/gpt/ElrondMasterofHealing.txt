@@ -62,4 +62,4 @@
 1 Verduran Enchantress
 1 Whitewater Naiads
 1 Voidmage Husher
-{'overall': 9.242372881355932, 'cmc': 3.6875, 'ramp': 8, 'draw': 25, 'interaction': 9}
+{'overall': 9.242372881355932, 'cmc': 3.6875, 'ramp': 8, 'draw': 25, 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondMasterofHealing.txt'}

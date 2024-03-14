@@ -62,4 +62,4 @@
 1 Vessel of Endless Rest
 1 Wayfarer's Bauble
 1 Wandering Graybeard
-{'overall': 13.25093896713615, 'cmc': 3.328125, 'ramp': 20, 'draw': 30, 'interaction': 3}
+{'overall': 13.25093896713615, 'cmc': 3.328125, 'ramp': 20, 'draw': 30, 'interaction': 3, 'folder': 'gpt', 'commander': 'OmnathLocusofAll.txt'}

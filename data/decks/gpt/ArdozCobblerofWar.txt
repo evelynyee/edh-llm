@@ -62,4 +62,4 @@
 1 Spontaneous Artist
 1 Song of Totentanz
 1 Thunder Strike
-{'overall': 4.180851063829787, 'cmc': 2.9375, 'ramp': 7, 'draw': 4, 'interaction': 15}
+{'overall': 4.180851063829787, 'cmc': 2.9375, 'ramp': 7, 'draw': 4, 'interaction': 15, 'folder': 'gpt', 'commander': 'ArdozCobblerofWar.txt'}

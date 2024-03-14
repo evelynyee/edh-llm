@@ -61,4 +61,4 @@
 1 The Chain Veil
 1 Tezzeret, Cruel Machinist
 1 Storm of Saruman
-{'overall': 7.620135746606334, 'cmc': 3.507936507936508, 'ramp': 3, 'draw': 23, 'interaction': 11}
+{'overall': 7.620135746606334, 'cmc': 3.507936507936508, 'ramp': 3, 'draw': 23, 'interaction': 11, 'folder': 'gpt', 'commander': 'ImoenMysticTrickster.txt'}

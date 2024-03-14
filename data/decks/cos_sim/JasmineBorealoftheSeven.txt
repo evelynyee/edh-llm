@@ -1,0 +1,101 @@
+1 Jasmine Boreal of the Seven
+1 Detection Tower
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Void Winnower
+1 Privileged Position
+1 Sunscape Familiar
+1 Troll Ascetic
+1 Paradise Druid
+1 Celestial Crusader
+1 Krosan Grip
+1 Grand Abolisher
+1 Angel of Jubilation
+1 Damping Matrix
+1 Steel Golem
+1 Grid Monitor
+1 Jade Orb of Dragonkind
+1 Arboretum Elemental
+1 Inspiring Statuary
+1 Fountain Watch
+1 Dross Golem
+1 Stonewood Invocation
+1 Hanna's Custody
+1 Dragonlord Dromoka
+1 Heartstone
+1 Gaddock Teeg
+1 Pincher Beetles
+1 Mist Leopard
+1 Kalonian Behemoth
+1 Humble Budoka
+1 Elvish Lookout
+1 Deadly Insect
+1 Hawkeater Moth
+1 Kodama of the North Tree
+1 Blurred Mongoose
+1 Silence
+1 Plated Crusher
+1 Copper Host Crusher
+1 Gaea's Revenge
+1 Organic Extinction
+1 Fallaji Wayfarer
+1 Staff of the Ages
+1 Brown Ouphe
+1 Spellbane Centaur
+1 Tajuru Preserver
+1 True Believer
+1 Ivory Mask
+1 Wardscale Crocodile
+1 Taoist Hermit
+1 Scaled Behemoth
+1 Sacred Wolf
+1 Rubbleback Rhino
+1 Primal Huntbeast
+1 Plated Slagwurm
+1 Gladecover Scout
+1 Conifer Strider
+1 Veilstone Amulet
+1 Drannith Magistrate
+1 Quagnoth
+1 Spirit of the Hearth
+1 Leonin Abunas
+1 Aegis of the Gods
+1 Greater Auramancy
+1 Brisela, Voice of Nightmares
+1 Walking Skyscraper
+1 Robaran Mercenaries
+1 Cursed Totem
+{'overall': 1.3838645418326694, 'cmc': 3.746268656716418, 'ramp': '3', 'draw': '0', 'interaction': 2, 'folder': 'cos_sim', 'commander': 'JasmineBorealoftheSeven.txt'}}

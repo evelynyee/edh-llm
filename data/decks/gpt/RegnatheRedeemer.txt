@@ -62,4 +62,4 @@
 1 Zephyrim
 1 Unassuming Sage
 1 Tamiyo's Journal
-{'overall': 6.885564853556485, 'cmc': 3.734375, 'ramp': 6, 'draw': 18, 'interaction': 7}
+{'overall': 6.885564853556485, 'cmc': 3.734375, 'ramp': 6, 'draw': 18, 'interaction': 7, 'folder': 'gpt', 'commander': 'RegnatheRedeemer.txt'}

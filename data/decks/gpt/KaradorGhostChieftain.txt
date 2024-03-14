@@ -62,4 +62,4 @@
 1 Verdant Eidolon
 1 Winding Canyons
 1 Wandering Archaic // Explore the Vastlands
-{'overall': 5.94468085106383, 'cmc': 3.671875, 'ramp': 7, 'draw': 14, 'interaction': 3}
+{'overall': 5.94468085106383, 'cmc': 3.671875, 'ramp': 7, 'draw': 14, 'interaction': 3, 'folder': 'gpt', 'commander': 'KaradorGhostChieftain.txt'}

@@ -62,4 +62,4 @@
 1 Treasure Vault
 1 Staff of Domination
 1 Thornbite Staff
-{'overall': 5.703061224489796, 'cmc': 3.0625, 'ramp': 6, 'draw': 9, 'interaction': 26}
+{'overall': 5.703061224489796, 'cmc': 3.0625, 'ramp': 6, 'draw': 9, 'interaction': 26, 'folder': 'gpt', 'commander': 'Chandler.txt'}

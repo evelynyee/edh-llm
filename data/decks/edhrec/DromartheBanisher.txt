@@ -1,0 +1,65 @@
+1 Dromar, the Banisher
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Sway of Illusion
+1 Distorting Lens
+1 Scuttlemutt
+1 Shifting Sky
+1 Blind Seer
+1 Azorius Signet
+1 Arcane Sanctum
+1 Tidal Visionary
+1 Wash Out
+1 Warped Devotion
+1 Llawan, Cephalid Empress
+1 Stormscape Familiar
+1 Dimir Signet
+1 Hibernation
+1 Swords to Plowshares
+1 Alter Reality
+1 Insight
+1 Orzhov Signet
+1 Deathgrip
+1 Counterspell
+1 Caves of Koilos
+1 Perish
+1 Order of the Sacred Torch
+1 Eight-and-a-Half-Tails
+1 Hallowed Fountain
+1 Sleight of Mind
+1 Exotic Orchard
+1 Godless Shrine
+1 Mind Bend
+1 Watery Grave
+1 Northern Paladin
+1 Teferi's Moat
+1 Raffine's Tower
+1 Dromar's Cavern
+1 Bojuka Bog
+1 Talisman of Hierarchy
+1 Dromar's Charm
+1 Vodalian Mystic
+1 Prairie Stream
+1 Glamerdye
+1 Stromgald Cabal
+1 Sunken Hollow
+1 Darkest Hour
+1 Painter's Servant
+1 Eastern Paladin
+1 Whim of Volrath
+1 Douse
+1 Reliquary Tower
+1 Evolving Wilds
+1 Talisman of Progress
+1 Baleful Strix
+1 Lightning Greaves
+1 Azorius Chancery
+1 Swiftfoot Boots
+1 Flooded Woodlands
+1 Barrin, Tolarian Archmage
+1 Dimir Aqueduct
+1 Rhystic Study
+1 Void Rend
+1 Western Paladin
+{'overall': 5.690650406504066, 'cmc': 1.921875, 'ramp': 10, 'draw': 7, 'interaction': 8, 'folder': 'edhrec', 'commander': 'DromartheBanisher.txt'}

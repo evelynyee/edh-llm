@@ -62,4 +62,4 @@
 1 Vial of Poison
 1 Vraska's Contempt
 1 Volcanic Fallout
-{'overall': 2.6064102564102565, 'cmc': 3.046875, 'ramp': 3, 'draw': 3, 'interaction': 9}
+{'overall': 2.6064102564102565, 'cmc': 3.046875, 'ramp': 3, 'draw': 3, 'interaction': 9, 'folder': 'gpt', 'commander': 'TheMasterMultiplied.txt'}

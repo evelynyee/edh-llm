@@ -62,4 +62,4 @@
 1 Storm the Festival
 1 Tangle Spider
 1 Vengevine
-{'overall': 7.171428571428571, 'cmc': 3.5, 'ramp': 11, 'draw': 14, 'interaction': 7}
+{'overall': 7.171428571428571, 'cmc': 3.5, 'ramp': 11, 'draw': 14, 'interaction': 7, 'folder': 'gpt', 'commander': 'TheFugitiveDoctor.txt'}

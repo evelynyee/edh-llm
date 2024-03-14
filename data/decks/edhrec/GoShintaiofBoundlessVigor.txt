@@ -1,0 +1,65 @@
+1 Go-Shintai of Boundless Vigor
+1 Sanctum of Fruitful Harvest
+1 Honden of Life's Web
+1 Kenrith's Transformation
+1 Beast Within
+1 Weaver of Harmony
+1 Wild Growth
+1 Harmonize
+1 Sanctum Weaver
+1 Eidolon of Blossoms
+1 Renata, Called to the Hunt
+1 Hydra's Growth
+1 Eternal Witness
+1 Cultivate
+1 Sol Ring
+1 Seal of Primordium
+1 Setessan Champion
+1 Jugan Defends the Temple
+1 Herald of the Pantheon
+1 Arasta of the Endless Web
+1 Overgrowth
+1 Destiny Spinner
+1 Nature's Lore
+1 Rampant Growth
+1 Hardened Scales
+1 Rancor
+1 Sylvan Library
+1 Kami of Transience
+1 Shigeki, Jukai Visionary
+1 Boseiju, Who Endures
+1 Argothian Enchantress
+1 Enchantress's Presence
+1 War Room
+1 Timeless Witness
+1 Dormant Grove
+1 Verduran Enchantress
+1 Nylea, God of the Hunt
+1 Courser of Kruphix
+1 Return to Nature
+1 Nature's Claim
+1 Emerald Medallion
+1 Fertile Ground
+1 Retreat to Kazandu
+1 Lignify
+1 Song of the Dryads
+1 Nykthos, Shrine to Nyx
+1 Blighted Woodland
+1 Generous Visitor
+1 Exponential Growth
+1 Yavimaya Enchantress
+1 Dryad of the Ilysian Grove
+1 Archetype of Endurance
+1 Vigor
+1 Invigorating Surge
+1 Return of the Wildspeaker
+1 Three Visits
+1 Kodama's Reach
+1 Abundant Growth
+1 Wolfwillow Haven
+1 Snake Umbra
+1 Blanchwood Armor
+1 Utopia Sprawl
+1 Tranquil Thicket
+1 Nessian Wanderer
+{'overall': 9.15503144654088, 'cmc': 2.484375, 'ramp': 16, 'draw': 16, 'interaction': 7, 'folder': 'edhrec', 'commander': 'GoShintaiofBoundlessVigor.txt'}

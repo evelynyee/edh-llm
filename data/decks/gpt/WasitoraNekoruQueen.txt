@@ -62,4 +62,4 @@
 1 Venomous Dragonfly
 1 Tooth and Claw
 1 Verdant Embrace
-{'overall': 3.9245901639344263, 'cmc': 3.8125, 'ramp': 7, 'draw': 4, 'interaction': 13}
+{'overall': 3.9245901639344263, 'cmc': 3.8125, 'ramp': 7, 'draw': 4, 'interaction': 13, 'folder': 'gpt', 'commander': 'WasitoraNekoruQueen.txt'}

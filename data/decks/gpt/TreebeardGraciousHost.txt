@@ -62,4 +62,4 @@
 1 Vitality Charm
 1 Tranquil Frillback
 1 Thraben Inspector
-{'overall': 6.342307692307692, 'cmc': 4.0625, 'ramp': 10, 'draw': 12, 'interaction': 7}
+{'overall': 6.342307692307692, 'cmc': 4.0625, 'ramp': 10, 'draw': 12, 'interaction': 7, 'folder': 'gpt', 'commander': 'TreebeardGraciousHost.txt'}

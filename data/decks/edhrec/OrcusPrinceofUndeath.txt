@@ -1,0 +1,65 @@
+1 Orcus, Prince of Undeath
+1 Sol Ring
+1 Command Tower
+1 Arcane Signet
+1 Rakdos Signet
+1 Smoldering Marsh
+1 Dark Ritual
+1 Bedevil
+1 Terminate
+1 Blood Crypt
+1 Faithless Looting
+1 Feed the Swarm
+1 Blasphemous Act
+1 Talisman of Indulgence
+1 Dragonskull Summit
+1 Rakdos Carnarium
+1 Black Market
+1 Kardur, Doomscourge
+1 Myriad Landscape
+1 Urborg, Tomb of Yawgmoth
+1 Village Rites
+1 Temple of Malice
+1 Zulaport Cutthroat
+1 Gray Merchant of Asphodel
+1 Victimize
+1 Bojuka Bog
+1 Rakdos Charm
+1 Solemn Simulacrum
+1 Chaos Warp
+1 Ashnod's Altar
+1 Haunted Ridge
+1 Songs of the Damned
+1 Blood Artist
+1 Luxury Suite
+1 Thrill of Possibility
+1 Mind Stone
+1 Shambling Ghast
+1 Viscera Seer
+1 Impulsive Pilferer
+1 Evolving Wilds
+1 Foreboding Ruins
+1 Carrion Feeder
+1 Demonic Tutor
+1 Mayhem Devil
+1 Impact Tremors
+1 Cabal Coffers
+1 Commander's Sphere
+1 Vandalblast
+1 Chainer, Nightmare Adept
+1 Anger
+1 Dockside Extortionist
+1 Mana Geyser
+1 Tainted Peak
+1 Reanimate
+1 Grim Haruspex
+1 Wand of Orcus
+1 Pitiless Plunderer
+1 Blightstep Pathway
+1 Unexpected Windfall
+1 Flayer of the Hatebound
+1 Stitcher's Supplier
+1 Rakdos, Lord of Riots
+1 Bloodfell Caves
+1 Deadly Dispute
+{'overall': 8.415873015873016, 'cmc': 1.96875, 'ramp': 19, 'draw': 9, 'interaction': 8, 'folder': 'edhrec', 'commander': 'OrcusPrinceofUndeath.txt'}

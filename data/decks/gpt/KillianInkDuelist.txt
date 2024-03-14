@@ -62,4 +62,4 @@
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
 1 Demonic Tutor
 1 Stone Calendar
-{'overall': 2.2566350710900474, 'cmc': 3.296875, 'ramp': 2, 'draw': 3, 'interaction': 8}
+{'overall': 2.2566350710900474, 'cmc': 3.296875, 'ramp': 2, 'draw': 3, 'interaction': 8, 'folder': 'gpt', 'commander': 'KillianInkDuelist.txt'}

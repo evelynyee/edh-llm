@@ -1,0 +1,101 @@
+1 Kathril, Aspect Warper
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Swamp
+1 Forest
+1 Plains
+1 Urborg Scavengers
+1 Boon-Bringer Valkyrie
+1 Scavenged Brawler
+1 Karvanista, Loyal Lupari // Lupari Shield
+1 Shaile, Dean of Radiance // Embrose, Dean of Shadow
+1 Crystalline Giant
+1 Tin-Wing Chimera
+1 Lead-Belly Chimera
+1 Ingenious Leonin
+1 Now for Wrath, Now for Ruin!
+1 Sigardian Paladin
+1 Flowstone Sculpture
+1 Falkenrath Torturer
+1 Crowned Ceratok
+1 Iron-Heart Chimera
+1 Grasping Shadows // Shadows' Lair
+1 Avenging Huntbonder
+1 Brass-Talon Chimera
+1 Basri, Devoted Paladin
+1 Foam Weapons Kiosk
+1 Skyboon Evangelist
+1 Knighted Myr
+1 Snakeskin Veil
+1 Surrak and Goreclaw
+1 Yahenni, Undying Partisan
+1 Arcus Acolyte
+1 Hornbash Mentor
+1 Arwen, Mortal Queen
+1 Arbor Armament
+1 Gruul Beastmaster
+1 Flensing Raptor
+1 Assure // Assemble
+1 Expanded Anatomy
+1 Essence Infusion
+1 Ollenbock Escort
+1 Keensight Mentor
+1 Silumgar Scavenger
+1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
+1 Tenacious Hunter
+1 Soulcatcher
+1 Overwhelming Encounter
+1 Eater of Virtue
+1 Battlefield Promotion
+1 Shadewing Laureate
+1 Atraxa's Skitterfang
+1 Frostweb Spider
+1 Orcish Medicine
+1 Big Play
+1 Wicked Wolf
+1 Duskfang Mentor
+1 Radiant, Archangel
+1 Abzan Battle Priest
+1 Arashin Foremost
+1 Bramblewood Paragon
+1 Abzan Falconer
+1 Ainok Bond-Kin
+1 Spontaneous Flight
+1 Unexpected Fangs
+1 Tuskguard Captain
+1 Knight of New Alara
+1 Fearless Fledgling
+1 Clamavus
+1 Korozda Gorgon
+{'overall': 1.6351528384279477, 'cmc': 3.417910447761194, 'ramp': '1', 'draw': '3', 'interaction': 1, 'folder': 'cos_sim', 'commander': 'KathrilAspectWarper.txt'}}

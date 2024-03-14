@@ -62,4 +62,4 @@
 1 Wrath of God
 1 Warrior's Honor
 1 Weapons Trainer
-{'overall': 3.3844748858447486, 'cmc': 3.421875, 'ramp': 1, 'draw': 8, 'interaction': 11}
+{'overall': 3.3844748858447486, 'cmc': 3.421875, 'ramp': 1, 'draw': 8, 'interaction': 11, 'folder': 'gpt', 'commander': 'MerryEsquireofRohan.txt'}

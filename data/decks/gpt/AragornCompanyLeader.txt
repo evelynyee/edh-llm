@@ -62,4 +62,4 @@
 1 Vivid Grove
 1 Soulcatcher
 1 Warden of the Inner Sky
-{'overall': 4.4265765765765765, 'cmc': 3.46875, 'ramp': 6, 'draw': 7, 'interaction': 12}
+{'overall': 4.4265765765765765, 'cmc': 3.46875, 'ramp': 6, 'draw': 7, 'interaction': 12, 'folder': 'gpt', 'commander': 'AragornCompanyLeader.txt'}

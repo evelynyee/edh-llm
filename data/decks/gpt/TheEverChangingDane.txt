@@ -62,4 +62,4 @@
 1 Unified Will
 1 Wingspan Mentor
 1 Turn Aside
-{'overall': 4.383663366336634, 'cmc': 3.15625, 'ramp': 5, 'draw': 8, 'interaction': 10}
+{'overall': 4.383663366336634, 'cmc': 3.15625, 'ramp': 5, 'draw': 8, 'interaction': 10, 'folder': 'gpt', 'commander': 'TheEverChangingDane.txt'}

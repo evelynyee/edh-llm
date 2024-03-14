@@ -62,4 +62,4 @@
 1 Twinferno
 1 Weaselback Redcap
 1 Volcanic Rush
-{'overall': 1.9743902439024392, 'cmc': 3.203125, 'ramp': 2, 'draw': 2, 'interaction': 7}
+{'overall': 1.9743902439024392, 'cmc': 3.203125, 'ramp': 2, 'draw': 2, 'interaction': 7, 'folder': 'gpt', 'commander': 'AureliatheWarleader.txt'}

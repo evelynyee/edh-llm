@@ -1,0 +1,65 @@
+1 The Master, Multiplied
+1 Sol Ring
+1 Arcane Signet
+1 Command Tower
+1 Blade of Selves
+1 Orthion, Hero of Lavabrink
+1 Lightning Greaves
+1 Feldon of the Third Path
+1 Flameshadow Conjuring
+1 Talisman of Indulgence
+1 Delina, Wild Mage
+1 Determined Iteration
+1 Rakdos Signet
+1 Dragonskull Summit
+1 Firbolg Flutist
+1 Jaxis, the Troublemaker
+1 Smoldering Marsh
+1 Elturel Survivors
+1 Dalek Squadron
+1 Twinflame
+1 Swiftfoot Boots
+1 Dark Ritual
+1 Hate Mirage
+1 Kiki-Jiki, Mirror Breaker
+1 Chaos Warp
+1 Blasphemous Act
+1 Mirage Phalanx
+1 Haunted Ridge
+1 Luxury Suite
+1 Solemn Simulacrum
+1 Urabrask's Forge
+1 Blood Crypt
+1 Mirror March
+1 Feed the Swarm
+1 Mimic Vat
+1 Combat Celebrant
+1 Foreboding Ruins
+1 Heat Shimmer
+1 Mirkwood Bats
+1 Rising of the Day
+1 Karlach, Fury of Avernus
+1 Terminate
+1 Sulfurous Springs
+1 Rionya, Fire Dancer
+1 Banshee of the Dread Choir
+1 Impact Tremors
+1 Genasi Enforcers
+1 Fellwar Stone
+1 Mind Stone
+1 Exotic Orchard
+1 Flamerush Rider
+1 Jeska's Will
+1 Grim Hireling
+1 Warchief Giant
+1 Splinter Twin
+1 Bojuka Bog
+1 Gnoll War Band
+1 Mirror Box
+1 Bedevil
+1 Myriad Landscape
+1 Rogue's Passage
+1 Anger
+1 Helm of the Host
+1 Purphoros, God of the Forge
+{'overall': 4.245652173913044, 'cmc': 2.875, 'ramp': 10, 'draw': 3, 'interaction': 6, 'folder': 'edhrec', 'commander': 'TheMasterMultiplied.txt'}

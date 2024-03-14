@@ -62,4 +62,4 @@
 1 Red Elemental Blast
 1 Wandering Archaic // Explore the Vastlands
 1 Yamabushi's Storm
-{'overall': 7.749746192893401, 'cmc': 3.078125, 'ramp': 11, 'draw': 15, 'interaction': 12}
+{'overall': 7.749746192893401, 'cmc': 3.078125, 'ramp': 11, 'draw': 15, 'interaction': 12, 'folder': 'gpt', 'commander': 'IlhargtheRazeBoar.txt'}

@@ -1,0 +1,101 @@
+1 Imoen, Mystic Trickster
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Rayne, Academy Chancellor
+1 Horn of Plenty
+1 Force Void
+1 Ghostly Pilferer
+1 Waterfall Aerialist
+1 Rhystic Study
+1 Patchwork Automaton
+1 Sage's Dousing
+1 Mirrorshell Crab
+1 Sand Golem
+1 Rimeshield Frost Giant
+1 Su-Chi Cave Guard
+1 Jace, Unraveler of Secrets
+1 Diffusion Sliver
+1 Aether Barrier
+1 Amulet of Safekeeping
+1 Well of Knowledge
+1 Arcane Denial
+1 Frost Titan
+1 Wavebreak Hippocamp
+1 Crystalline Resonance
+1 Hoverstone Pilgrim
+1 Nazgûl Battle-Mace
+1 Frightful Delusion
+1 Onyx Talisman
+1 Excavation
+1 Lapis Lazuli Talisman
+1 Dream Fracture
+1 Dismal Failure
+1 Dreadlight Monstrosity
+1 Vex
+1 Tolarian Terror
+1 Possessed Portal
+1 Archive Dragon
+1 Hematite Talisman
+1 Svyelun of Sea and Sky
+1 Quiet Contemplation
+1 Nacre Talisman
+1 Power Taint
+1 Malachite Talisman
+1 Isolation Cell
+1 Mystic Remora
+1 Stormchaser Drake
+1 Anticognition
+1 Veiled Serpent
+1 Golem's Heart
+1 Hand of Emrakul
+1 Ledger Shredder
+1 Imaginary Threats
+1 Eternal Scourge
+1 Teferi's Response
+1 Telekinetic Bonds
+1 Stinging Lionfish
+1 Reality Smasher
+1 Sailors' Bane
+1 Dreams of the Dead
+1 Veiled Apparition
+1 Tamiyo, the Moon Sage
+1 Rakshasa's Disdain
+1 Howling Mine
+1 Oppressive Will
+1 Straw Golem
+1 Runeboggle
+{'overall': 7.562770562770563, 'cmc': 3.5538461538461537, 'ramp': '0', 'draw': '25', 'interaction': 15, 'folder': 'cos_sim', 'commander': 'ImoenMysticTrickster.txt'}}

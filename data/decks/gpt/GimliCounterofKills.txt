@@ -62,4 +62,4 @@
 1 Strangle
 1 Scab-Clan Berserker
 1 Witch Hunt
-{'overall': 2.529185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 0, 'interaction': 29}
+{'overall': 2.529185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 0, 'interaction': 29, 'folder': 'gpt', 'commander': 'GimliCounterofKills.txt'}

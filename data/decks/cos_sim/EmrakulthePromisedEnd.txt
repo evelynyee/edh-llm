@@ -1,0 +1,101 @@
+1 Emrakul, the Promised End
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Wastes
+1 Embalmer's Tools
+1 Damping Sphere
+1 Defense Grid
+1 Redemptor Dreadnought
+1 Damping Engine
+1 Rise of the Eldrazi
+1 Kefnet's Monument
+1 Sword of Once and Future
+1 Ruin Processor
+1 Karn, the Great Creator
+1 Wondrous Crucible
+1 Rug of Smothering
+1 Convergence of Dominion
+1 Titan's Presence
+1 Tapestry of the Ages
+1 Shell of the Last Kappa
+1 Agatha's Soul Cauldron
+1 Sentinel Tower
+1 Spire Golem
+1 Uba Mask
+1 Mycosynth Golem
+1 Conduit of Ruin
+1 Artisan of Kozilek
+1 Bösium Strip
+1 Arcum's Whistle
+1 Karn's Sylex
+1 Oxidda Golem
+1 Tangle Golem
+1 Skittering Cicada
+1 Scale of Chiss-Goria
+1 Twinning Glass
+1 Argentum Masticore
+1 Razor Golem
+1 Hazoret's Monument
+1 Myr Enforcer
+1 Frogmite
+1 Reflecting Mirror
+1 Swashbuckler's Whip
+1 Darksteel Sentinel
+1 Myr Welder
+1 Bontu's Monument
+1 TARDIS
+1 Mindslaver
+1 Muse Vessel
+1 Not of This World
+1 Locket of Yesterdays
+1 Slumbering Tora
+1 Mirror of Galadriel
+1 River Song's Diary
+1 Eternal Scourge
+1 Glamdring
+1 Confession Dial
+1 Tooth of Chiss-Goria
+1 Hylda's Crown of Winter
+1 Disrupting Scepter
+1 Spellweaver Helix
+1 Calamity of the Titans
+1 Ugin's Mastery
+1 Jodah's Codex
+1 Knowledge Pool
+1 Metalwork Colossus
+1 Chimil, the Inner Sun
+1 Hewed Stone Retainers
+{'overall': 3.556140350877193, 'cmc': 4.384615384615385, 'ramp': '2', 'draw': '9', 'interaction': 7, 'folder': 'cos_sim', 'commander': 'EmrakulthePromisedEnd.txt'}}

@@ -1,0 +1,101 @@
+1 Oswald Fiddlebender
+1 Sanctum of Ugin
+1 Underdark Rift
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Pyre of Heroes
+1 Ramosian Sergeant
+1 Ramosian Lieutenant
+1 Amrou Scout
+1 Defiant Falcon
+1 Leonin Squire
+1 Smelting Vat
+1 Matter Reshaper
+1 Ramosian Commander
+1 Ramosian Sky Marshal
+1 Ramosian Captain
+1 Razor Hippogriff
+1 Lagonna-Band Storyteller
+1 Lin Sivvi, Defiant Hero
+1 Citanul Flute
+1 Auriok Salvagers
+1 Ranger of Eos
+1 Taj-Nar Swordsmith
+1 Proclamation of Rebirth
+1 Eye of Ugin
+1 Phyrexian Devourer
+1 Disciple of the Sun
+1 Scrap Trawler
+1 Fabrication Foundry
+1 Helping Hand
+1 Search for Glory
+1 Pillardrop Rescuer
+1 Metalworker
+1 Calamity of the Titans
+1 Ramosian Revivalist
+1 Ugin, the Spirit Dragon
+1 Serra Paragon
+1 Hundred-Talon Kami
+1 Moonsilver Key
+1 Swashbuckler's Whip
+1 Copper Gnomes
+1 Light-Paws, Emperor's Voice
+1 Treasure Chest
+1 Patch Up
+1 Kozilek, the Great Distortion
+1 Recommission
+1 Ascend from Avernus
+1 Salvaging Station
+1 Teshar, Ancestor's Apostle
+1 Prototype Portal
+1 The Mana Rig
+1 Buried Treasure
+1 Bishop of Rebirth
+1 Sigardian Savior
+1 Gate to the Afterlife
+1 Skyclave Apparition
+1 Clay-Fired Bricks // Cosmium Kiln
+1 Faith Healer
+1 Conduit of Ruin
+1 Reaping the Rewards
+1 Winds of Abandon
+1 Planeswalker's Mirth
+1 Hidden Courtyard
+1 Recruiter of the Guard
+1 Urza's Sylex
+1 Ranger-Captain of Eos
+1 Soul Foundry
+1 Eye of Yawgmoth
+{'overall': 7.576168224299066, 'cmc': 3.1940298507462686, 'ramp': '7', 'draw': '20', 'interaction': 4, 'folder': 'cos_sim', 'commander': 'OswaldFiddlebender.txt'}}

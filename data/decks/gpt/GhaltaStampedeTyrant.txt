@@ -62,4 +62,4 @@
 1 Soulblade Renewer
 1 Witches' Eye
 1 Teachings of the Kirin // Kirin-Touched Orochi
-{'overall': 8.677450980392157, 'cmc': 3.1875, 'ramp': 18, 'draw': 13, 'interaction': 6}
+{'overall': 8.677450980392157, 'cmc': 3.1875, 'ramp': 18, 'draw': 13, 'interaction': 6, 'folder': 'gpt', 'commander': 'GhaltaStampedeTyrant.txt'}

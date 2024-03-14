@@ -61,4 +61,4 @@
 1 Vernal Equinox
 1 Wild Pair
 1 Worldly Tutor
-{'overall': 9.015022421524662, 'cmc': 3.5396825396825395, 'ramp': 16, 'draw': 17, 'interaction': 4}
+{'overall': 9.015022421524662, 'cmc': 3.5396825396825395, 'ramp': 16, 'draw': 17, 'interaction': 4, 'folder': 'gpt', 'commander': 'AzusaLostbutSeeking.txt'}

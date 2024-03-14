@@ -61,4 +61,4 @@
 1 Tormod's Crypt
 1 Scroll of Origins
 1 Winds of Abandon
-{'overall': 5.65625, 'cmc': 3.0476190476190474, 'ramp': 6, 'draw': 12, 'interaction': 10}
+{'overall': 5.65625, 'cmc': 3.0476190476190474, 'ramp': 6, 'draw': 12, 'interaction': 10, 'folder': 'gpt', 'commander': 'EllynHarbreezeBusybody.txt'}

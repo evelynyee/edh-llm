@@ -1,0 +1,101 @@
+1 Maralen of the Mornsong
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Anvil of Bogardan
+1 Seizan, Perverter of Truth
+1 Shrieking Affliction
+1 Nezumi Shortfang // Stabwhisker the Odious
+1 Hollowborn Barghest
+1 Omen Machine
+1 Font of Mythos
+1 Memory Jar
+1 Possessed Portal
+1 Invasion of Eldraine // Prickle Faeries
+1 Bottomless Pit
+1 Davriel, Rogue Shadowmage
+1 Skullcage
+1 Teferi's Puzzle Box
+1 Necrogen Mists
+1 Death of a Thousand Stings
+1 Howling Mine
+1 Creeping Dread
+1 Worry Beads
+1 Bloodgift Demon
+1 Paupers' Cage
+1 Strongarm Tactics
+1 Ghirapur Orrery
+1 Thoughtseize
+1 Fraying Omnipotence
+1 Urza's Bauble
+1 Lodestone Bauble
+1 Mishra's Bauble
+1 Mindstorm Crown
+1 Mind Drain
+1 Wand of Ith
+1 Misers' Cage
+1 Ebony Owl Netsuke
+1 Cabal Therapist
+1 Atrocious Experiment
+1 Brain Pry
+1 Pillar Tombs of Aku
+1 Suppress
+1 Torment of Scarabs
+1 Hoarder's Greed
+1 Cunning Lethemancer
+1 Chains of Mephistopheles
+1 Oath of Ghouls
+1 Demogorgon's Clutches
+1 Jester's Cap
+1 Ivory Crane Netsuke
+1 Bad Deal
+1 Go Blank
+1 Court of Ambition
+1 Brink of Madness
+1 Smallpox
+1 Nightsnare
+1 Diplomacy of the Wastes
+1 Quest for the Nihil Stone
+1 Gravestorm
+1 Baneful Omen
+1 Remorseless Punishment
+1 Crushing Disappointment
+1 Pox
+1 Price of Knowledge
+1 Relic Golem
+1 Warped Devotion
+1 Timesifter
+{'overall': 6.349078341013825, 'cmc': 3.3384615384615386, 'ramp': '4', 'draw': '19', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'MaralenoftheMornsong.txt'}}

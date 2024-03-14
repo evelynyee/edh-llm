@@ -62,4 +62,4 @@
 1 Well of Knowledge
 1 Taurean Mauler
 1 Worldly Counsel
-{'overall': 8.96140350877193, 'cmc': 3.5625, 'ramp': 4, 'draw': 27, 'interaction': 13}
+{'overall': 8.96140350877193, 'cmc': 3.5625, 'ramp': 4, 'draw': 27, 'interaction': 13, 'folder': 'gpt', 'commander': 'TheTenthDoctor.txt'}

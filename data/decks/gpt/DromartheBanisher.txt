@@ -62,4 +62,4 @@
 1 Starscream, Power Hungry // Starscream, Seeker Leader
 1 Wizard's Spellbook
 1 Urza's Rebuff
-{'overall': 5.99468085106383, 'cmc': 3.671875, 'ramp': 1, 'draw': 18, 'interaction': 14}
+{'overall': 5.99468085106383, 'cmc': 3.671875, 'ramp': 1, 'draw': 18, 'interaction': 14, 'folder': 'gpt', 'commander': 'DromartheBanisher.txt'}

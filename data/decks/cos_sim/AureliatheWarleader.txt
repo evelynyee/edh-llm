@@ -1,0 +1,101 @@
+1 Aurelia, the Warleader
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Raiyuu, Storm's Edge
+1 Karlach, Fury of Avernus
+1 Response // Resurgence
+1 Swinging Ship
+1 Éomer, Marshal of Rohan
+1 Combat Celebrant
+1 Angelic Skirmisher
+1 Akki Battle Squad
+1 Relentless Assault
+1 Moraug, Fury of Akoum
+1 Hellraiser Goblin
+1 Reckless Brute
+1 Lairwatch Giant
+1 Trueheart Twins
+1 Candlegrove Witch
+1 Duelcraft Trainer
+1 Tah-Crop Elite
+1 Sanctified Charge
+1 Loyal Unicorn
+1 Rhet-Crop Spearmaster
+1 Melee
+1 Markov Waltzer
+1 Avatar of Slaughter
+1 Altac Bloodseeker
+1 Disrupt Decorum
+1 Taunt from the Rampart
+1 Scuttling Butler
+1 Ritual Guardian
+1 Wojek Halberdiers
+1 Inner-Flame Igniter
+1 Night Market Guard
+1 Kick in the Door
+1 Chieftain en-Dal
+1 Weathered Sentinels
+1 Nalathni Dragon
+1 Coronation of Chaos
+1 Syr Alin, the Lion's Claw
+1 Warmonger Hellkite
+1 Bolt Hound
+1 Besmirch
+1 Odric, Master Tactician
+1 Hellkite Charger
+1 Savage Beating
+1 Duelist's Heritage
+1 Starlight Spectacular
+1 Legion Loyalist
+1 Concerted Effort
+1 Gust Walker
+1 Headlong Rush
+1 Ordruun Veteran
+1 Stalwart Pathlighter
+1 Mantis Engine
+1 Striking Sliver
+1 Toolcraft Exemplar
+1 Khenra Scrapper
+1 Reckless Stormseeker // Storm-Charged Slasher
+1 Oketra's Avenger
+1 Emberhorn Minotaur
+1 Valor Singer
+1 Landroval, Horizon Witness
+1 Akki Coalflinger
+1 Victory's Herald
+1 Battle-Rattle Shaman
+{'overall': 0.8477178423236515, 'cmc': 3.6515151515151514, 'ramp': '1', 'draw': '0', 'interaction': 1, 'folder': 'cos_sim', 'commander': 'AureliatheWarleader.txt'}}

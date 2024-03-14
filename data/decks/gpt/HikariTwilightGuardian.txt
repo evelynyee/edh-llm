@@ -62,4 +62,4 @@
 1 Sword of Once and Future
 1 Teshar, Ancestor's Apostle
 1 Venerated Loxodon
-{'overall': 5.163106796116504, 'cmc': 3.5517241379310347, 'ramp': 7, 'draw': 10, 'interaction': 7}
+{'overall': 5.163106796116504, 'cmc': 3.5517241379310347, 'ramp': 7, 'draw': 10, 'interaction': 7, 'folder': 'gpt', 'commander': 'HikariTwilightGuardian.txt'}

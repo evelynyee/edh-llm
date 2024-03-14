@@ -62,4 +62,4 @@
 1 Thassa, God of the Sea
 1 Spell Swindle
 1 Venser, Shaper Savant
-{'overall': 5.823991031390134, 'cmc': 3.484375, 'ramp': 3, 'draw': 16, 'interaction': 10}
+{'overall': 5.823991031390134, 'cmc': 3.484375, 'ramp': 3, 'draw': 16, 'interaction': 10, 'folder': 'gpt', 'commander': 'OrvartheAllForm.txt'}
