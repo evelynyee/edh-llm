@@ -62,4 +62,4 @@
 1 The Cruelty of Gix
 1 Venomous Hierophant
 1 Thieving Amalgam
-{'overall': 4.1765765765765765, 'cmc': 3.46875, 'ramp': 2, 'draw': 10, 'interaction': 12}
+{'overall': 4.1765765765765765, 'cmc': 3.46875, 'ramp': 2, 'draw': 10, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'FlorianVoldarenScion.txt'}

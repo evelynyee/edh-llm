@@ -62,4 +62,4 @@
 1 Skrelv, Defector Mite
 1 Assemble the Legion
 1 Exotic Orchard
-{'overall': 5.192105263157894, 'cmc': 2.375, 'ramp': 10, 'draw': 6, 'interaction': 7}
+{'overall': 5.192105263157894, 'cmc': 2.375, 'ramp': 10, 'draw': 6, 'interaction': 7, 'folder': 'edh', 'commander': 'AgrusKosEternalSoldier.txt'}

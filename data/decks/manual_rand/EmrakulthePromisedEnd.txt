@@ -62,4 +62,4 @@
 1 The Rack
 1 Thorn of Amethyst
 1 Witch's Oven
-{'overall': 4.459523809523809, 'cmc': 3.28125, 'ramp': 4, 'draw': 10, 'interaction': 7}
+{'overall': 4.459523809523809, 'cmc': 3.28125, 'ramp': 4, 'draw': 10, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}

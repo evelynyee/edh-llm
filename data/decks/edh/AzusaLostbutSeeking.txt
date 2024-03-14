@@ -62,4 +62,4 @@
 1 Ulvenwald Hydra
 1 Return of the Wildspeaker
 1 Vorinclex, Voice of Hunger
-{'overall': 8.748538011695906, 'cmc': 2.671875, 'ramp': 18, 'draw': 13, 'interaction': 5}
+{'overall': 8.748538011695906, 'cmc': 2.671875, 'ramp': 18, 'draw': 13, 'interaction': 5, 'folder': 'edh', 'commander': 'AzusaLostbutSeeking.txt'}

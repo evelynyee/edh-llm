@@ -62,4 +62,4 @@
 1 Veteran's Powerblade
 1 Yotian Frontliner
 1 Solitude
-{'overall': 2.73681592039801, 'cmc': 3.140625, 'ramp': 1, 'draw': 5, 'interaction': 12}
+{'overall': 2.73681592039801, 'cmc': 3.140625, 'ramp': 1, 'draw': 5, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SigridGodFavored.txt'}

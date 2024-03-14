@@ -62,4 +62,4 @@
 1 Volunteer Reserves
 1 Stick Together
 1 Sword-Swallowing Seraph
-{'overall': 6.708951965065502, 'cmc': 3.578125, 'ramp': 8, 'draw': 15, 'interaction': 8}
+{'overall': 6.708951965065502, 'cmc': 3.578125, 'ramp': 8, 'draw': 15, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'EllynHarbreezeBusybody.txt'}

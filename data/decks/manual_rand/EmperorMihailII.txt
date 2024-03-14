@@ -62,4 +62,4 @@
 1 Tymora's Invoker
 1 Vessel of Paramnesia
 1 Spectral Sailor
-{'overall': 6.771428571428571, 'cmc': 3.5, 'ramp': 6, 'draw': 18, 'interaction': 4}
+{'overall': 6.771428571428571, 'cmc': 3.5, 'ramp': 6, 'draw': 18, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'EmperorMihailII.txt'}

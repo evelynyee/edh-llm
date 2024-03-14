@@ -62,4 +62,4 @@
 1 Thermopod
 1 Vengeful Ancestor
 1 Sylvok Lifestaff
-{'overall': 5.21321243523316, 'cmc': 3.015625, 'ramp': 11, 'draw': 5, 'interaction': 11}
+{'overall': 5.21321243523316, 'cmc': 3.015625, 'ramp': 11, 'draw': 5, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'RakkaMar.txt'}

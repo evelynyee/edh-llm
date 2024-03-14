@@ -62,4 +62,4 @@
 1 Umezawa's Charm
 1 Warlord's Elite
 1 Vampire Hexmage
-{'overall': 3.411650485436893, 'cmc': 3.2698412698412698, 'ramp': 4, 'draw': 7, 'interaction': 1}
+{'overall': 3.411650485436893, 'cmc': 3.2698412698412698, 'ramp': 4, 'draw': 7, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'MintharaMercilessSoul.txt'}

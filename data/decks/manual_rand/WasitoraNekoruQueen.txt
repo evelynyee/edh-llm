@@ -62,4 +62,4 @@
 1 Viral Spawning
 1 Vampire Cutthroat
 1 Sylvan Offering
-{'overall': 3.684474885844749, 'cmc': 3.421875, 'ramp': 4, 'draw': 4, 'interaction': 22}
+{'overall': 3.684474885844749, 'cmc': 3.421875, 'ramp': 4, 'draw': 4, 'interaction': 22, 'folder': 'manual_rand', 'commander': 'WasitoraNekoruQueen.txt'}

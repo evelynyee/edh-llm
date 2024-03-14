@@ -62,4 +62,4 @@
 1 Nimraiser Paladin
 1 Sheoldred's Headcleaver
 1 Pestilent Syphoner
-{'overall': 5.795652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 7, 'interaction': 22}
+{'overall': 5.795652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 7, 'interaction': 22, 'folder': 'edh', 'commander': 'XunYuWeiAdvisor.txt'}

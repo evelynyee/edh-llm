@@ -61,4 +61,4 @@
 1 Sylvan Scrying
 1 Sorin's Guide
 1 Birds of Paradise
-{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'InameasOne.txt'}{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'InameasOne.txt'}
+{'overall': '1', 'cmc': 0, 'ramp': 0, 'draw': 0, 'interaction': 0}

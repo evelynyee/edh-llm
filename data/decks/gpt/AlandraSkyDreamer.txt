@@ -62,4 +62,4 @@
 1 Welcome to the Fold
 1 Teferi's Talent
 1 Shark Typhoon
-{'overall': 9.784412955465587, 'cmc': 3.742424242424242, 'ramp': '4', 'draw': '32', 'interaction': 5, 'folder': 'gpt', 'commander': 'AlandraSkyDreamer.txt'}gpt', 'commander': 'AlandraSkyDreamer.txt'}
+{'overall': 9.54468085106383, 'cmc': 3.671875, 'ramp': 4, 'draw': 31, 'interaction': 5}

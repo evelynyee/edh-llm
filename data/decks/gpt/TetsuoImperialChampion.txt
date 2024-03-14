@@ -62,4 +62,4 @@
 1 Synchronized Eviction
 1 Thieving Sprite
 1 Tasha, the Witch Queen
-{'overall': 6.737190082644628, 'cmc': 3.723076923076923, 'ramp': '3', 'draw': '19', 'interaction': 14, 'folder': 'gpt', 'commander': 'TetsuoImperialChampion.txt'}hampion.txt'}
+{'overall': 6.740084388185654, 'cmc': 3.703125, 'ramp': 3, 'draw': 19, 'interaction': 14}

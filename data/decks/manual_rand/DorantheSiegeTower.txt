@@ -62,4 +62,4 @@
 1 Streetwise Negotiator
 1 Undergrowth Scavenger
 1 Verdant Outrider
-{'overall': 2.2566350710900474, 'cmc': 3.296875, 'ramp': 2, 'draw': 2, 'interaction': 13}
+{'overall': 2.2566350710900474, 'cmc': 3.296875, 'ramp': 2, 'draw': 2, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'DorantheSiegeTower.txt'}

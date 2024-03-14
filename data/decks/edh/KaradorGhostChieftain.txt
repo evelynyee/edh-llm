@@ -62,4 +62,4 @@
 1 Syr Konrad, the Grim
 1 Vault of Champions
 1 World Shaper
-{'overall': 5.2406504065040656, 'cmc': 1.921875, 'ramp': 10, 'draw': 6, 'interaction': 4}
+{'overall': 5.2406504065040656, 'cmc': 1.921875, 'ramp': 10, 'draw': 6, 'interaction': 4, 'folder': 'edh', 'commander': 'KaradorGhostChieftain.txt'}

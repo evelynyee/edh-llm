@@ -62,4 +62,4 @@
 1 Reliquary Tower
 1 Dungeon Map
 1 Alora, Merry Thief
-{'overall': 8.82316384180791, 'cmc': 2.765625, 'ramp': 10, 'draw': 20, 'interaction': 12}
+{'overall': 8.82316384180791, 'cmc': 2.765625, 'ramp': 10, 'draw': 20, 'interaction': 12, 'folder': 'edh', 'commander': 'ImoenMysticTrickster.txt'}

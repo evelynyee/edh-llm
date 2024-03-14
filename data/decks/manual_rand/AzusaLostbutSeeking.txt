@@ -62,4 +62,4 @@
 1 Werebear
 1 Turn the Earth
 1 Well of Life
-{'overall': 7.71140350877193, 'cmc': 3.5625, 'ramp': 17, 'draw': 11, 'interaction': 3}
+{'overall': 7.71140350877193, 'cmc': 3.5625, 'ramp': 17, 'draw': 11, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'AzusaLostbutSeeking.txt'}

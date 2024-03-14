@@ -62,4 +62,4 @@
 1 Uncovered Clues
 1 Waste Management
 1 Surrakar Spellblade
-{'overall': 8.423991031390134, 'cmc': 3.484375, 'ramp': 4, 'draw': 27, 'interaction': 2}
+{'overall': 8.423991031390134, 'cmc': 3.484375, 'ramp': 4, 'draw': 27, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}

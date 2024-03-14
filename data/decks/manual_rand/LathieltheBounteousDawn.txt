@@ -62,4 +62,4 @@
 1 Woodripper
 1 Wayfaring Temple
 1 Triumph of the Hordes
-{'overall': 3.9682186234817816, 'cmc': 3.859375, 'ramp': 2, 'draw': 11, 'interaction': 4}
+{'overall': 3.9682186234817816, 'cmc': 3.859375, 'ramp': 2, 'draw': 11, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'LathieltheBounteousDawn.txt'}

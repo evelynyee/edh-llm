@@ -62,4 +62,4 @@
 1 Misty Rainforest
 1 Flusterstorm
 1 Merchant Scroll
-{'overall': 10.357801418439715, 'cmc': 2.203125, 'ramp': 17, 'draw': 18, 'interaction': 14}
+{'overall': 10.357801418439715, 'cmc': 2.203125, 'ramp': 17, 'draw': 18, 'interaction': 14, 'folder': 'edh', 'commander': 'TeferiTemporalArchmage.txt'}

@@ -62,4 +62,4 @@
 1 Welder Automaton
 1 Tabaxi Toucaneers
 1 Slaying Fire
-{'overall': 4.40952380952381, 'cmc': 3.28125, 'ramp': '6', 'draw': '5', 'interaction': 21, 'folder': 'gpt', 'commander': 'FiresongandSunspeaker.txt'}
+{'overall': 4.40952380952381, 'cmc': 3.28125, 'ramp': 6, 'draw': 5, 'interaction': 21}

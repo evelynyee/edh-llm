@@ -62,4 +62,4 @@
 1 Undergrowth Stadium
 1 Three Visits
 1 Zendikar's Roil
-{'overall': 7.40503144654088, 'cmc': 2.484375, 'ramp': 14, 'draw': 11, 'interaction': 7}
+{'overall': 7.40503144654088, 'cmc': 2.484375, 'ramp': 14, 'draw': 11, 'interaction': 7, 'folder': 'edh', 'commander': 'YaroktheDesecrated.txt'}

@@ -62,4 +62,4 @@
 1 Yorvo, Lord of Garenbrig
 1 Wrenn and Seven
 1 Vastwood Fortification // Vastwood Thicket
-{'overall': 10.998130841121496, 'cmc': 3.34375, 'ramp': 12, 'draw': 29, 'interaction': 3}
+{'overall': 10.998130841121496, 'cmc': 3.34375, 'ramp': 12, 'draw': 29, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}

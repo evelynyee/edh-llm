@@ -62,4 +62,4 @@
 1 Nine Lives
 1 Pendant of Prosperity
 1 Myriad Landscape
-{'overall': 6.442105263157894, 'cmc': 2.375, 'ramp': 8, 'draw': 13, 'interaction': 7}
+{'overall': 6.442105263157894, 'cmc': 2.375, 'ramp': 8, 'draw': 13, 'interaction': 7, 'folder': 'edh', 'commander': 'InniaztheGaleForce.txt'}

@@ -61,4 +61,4 @@
 1 Whirlpool Whelm
 1 Winds of Rebuke
 1 Tasha's Hideous Laughter
-{'overall': 7.286046511627907, 'cmc': 3.4126984126984126, 'ramp': '2', 'draw': '23', 'interaction': 9, 'folder': 'gpt', 'commander': 'EsiorWardwingFamiliar.txt'}{'overall': 7.286046511627907, 'cmc': 3.4126984126984126, 'ramp': '2', 'draw': '23', 'interaction': 9, 'folder': 'gpt', 'commander': 'EsiorWardwingFamiliar.txt'}
+{'overall': 7.286046511627907, 'cmc': 3.4126984126984126, 'ramp': 2, 'draw': 23, 'interaction': 9}

@@ -62,4 +62,4 @@
 1 Vault of Whispers
 1 Death in Heaven
 1 Phyrexian Metamorph
-{'overall': 5.952941176470588, 'cmc': 2.65625, 'ramp': 8, 'draw': 11, 'interaction': 9}
+{'overall': 5.952941176470588, 'cmc': 2.65625, 'ramp': 8, 'draw': 11, 'interaction': 9, 'folder': 'edh', 'commander': 'AshadtheLoneCyberman.txt'}

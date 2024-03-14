@@ -62,4 +62,4 @@
 1 Rhystic Study
 1 Void Rend
 1 Western Paladin
-{'overall': 5.690650406504066, 'cmc': 1.921875, 'ramp': 10, 'draw': 7, 'interaction': 8}
+{'overall': 5.690650406504066, 'cmc': 1.921875, 'ramp': 10, 'draw': 7, 'interaction': 8, 'folder': 'edh', 'commander': 'DromartheBanisher.txt'}

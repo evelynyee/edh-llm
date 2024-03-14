@@ -1,0 +1,65 @@
+1 Hansk, Slayer Zealot
+1 Worldspine Wurm
+1 The Rack
+1 Turntimber Sower
+1 Warbeast of Gorgoroth
+1 The Sea Devils
+1 Viridian Revel
+1 War Elemental
+1 Stormbreath Dragon
+1 Triumph of Ferocity
+1 Titan of Industry
+1 Stangg, Echo Warrior
+1 Wildwood Patrol
+1 Wolfkin Outcast // Wedding Crasher
+1 Urabrask // The Great Work
+1 Voracious Dragon
+1 Vrondiss, Rage of Ancients
+1 Zendikar Resurgent
+1 Tervigon
+1 Yuan Shao's Infantry
+1 Staff of Nin
+1 Tangled Skyline
+1 Telim'Tor's Darts
+1 Waiting in the Weeds
+1 Umbilicus
+1 Voyager Staff
+1 Survey the Wreckage
+1 Trading Post
+1 Verix Bladewing
+1 Wolverine Riders
+1 Wren's Run Vanquisher
+1 Wilson, Refined Grizzly
+1 Xenagos, God of Revels
+1 Woodland Guidance
+1 Swarming Goblins
+1 Workshop Assistant
+1 Viashino Pyromancer
+1 You Find a Cursed Idol
+1 Turret Ogre
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Mana Vault
+1 Winds of Change
+1 Unexpected Windfall
+1 Toil to Renown
+1 Thunderhawk Gunship
+1 Xorn
+1 Winter Sky
+1 Unnatural Moonrise
+1 Vivien, Arkbow Ranger
+1 Trail of Crumbs
+1 Wolf of Devil's Breach
+1 Well of Life
+1 Swashbuckler Extraordinaire
+1 Wing Storm
+1 War Barge
+1 Titania, Protector of Argoth
+1 Wrack with Madness
+1 Sparkcaster
+1 Spider Food
+1 Wort, the Raidmother
+1 Wirefly Hive
+1 Unlicensed Hearse
+1 Whetwheel
+1 Vile Redeemer
+{'overall': 6.93781512605042, 'cmc': 3.71875, 'ramp': 6, 'draw': 17, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}

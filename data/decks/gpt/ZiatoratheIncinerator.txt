@@ -61,4 +61,4 @@
 1 Vengeant Vampire
 1 Voldaren Pariah // Abolisher of Bloodlines
 1 Vrondiss, Rage of Ancients
-{'overall': 6.7384615384615385, 'cmc': 3.7142857142857144, 'ramp': '10', 'draw': '12', 'interaction': 14, 'folder': 'gpt', 'commander': 'ZiatoratheIncinerator.txt'}{'overall': 6.7384615384615385, 'cmc': 3.7142857142857144, 'ramp': '10', 'draw': '12', 'interaction': 14, 'folder': 'gpt', 'commander': 'ZiatoratheIncinerator.txt'}
+{'overall': 6.7384615384615385, 'cmc': 3.7142857142857144, 'ramp': 10, 'draw': 12, 'interaction': 14}

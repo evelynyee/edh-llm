@@ -62,4 +62,4 @@
 1 Dramatist's Puppet
 1 Myojin of Seeing Winds
 1 Fuel for the Cause
-{'overall': 8.493216080402009, 'cmc': 3.109375, 'ramp': 16, 'draw': 14, 'interaction': 7}
+{'overall': 8.493216080402009, 'cmc': 3.109375, 'ramp': 16, 'draw': 14, 'interaction': 7, 'folder': 'edh', 'commander': 'MyojinofCrypticDreams.txt'}

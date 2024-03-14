@@ -62,4 +62,4 @@
 1 Urza's Rebuff
 1 Tablet of the Guilds
 1 Thassa, God of the Sea
-{'overall': 4.565217391304348, 'cmc': 3.5384615384615383, 'ramp': '4', 'draw': '10', 'interaction': 10, 'folder': 'gpt', 'commander': 'MyojinofCrypticDreams.txt'}MyojinofCrypticDreams.txt'}
+{'overall': 4.56140350877193, 'cmc': 3.5625, 'ramp': 4, 'draw': 10, 'interaction': 10}

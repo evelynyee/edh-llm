@@ -62,4 +62,4 @@
 1 Boros Reckoner
 1 Chance for Glory
 1 Aurelia's Fury
-{'overall': 4.448538011695907, 'cmc': 2.671875, 'ramp': 9, 'draw': 3, 'interaction': 14}
+{'overall': 4.448538011695907, 'cmc': 2.671875, 'ramp': 9, 'draw': 3, 'interaction': 14, 'folder': 'edh', 'commander': 'AureliaExemplarofJustice.txt'}

@@ -62,4 +62,4 @@
 1 Warping Wail
 1 Terashi's Grasp
 1 Triumph of Saint Katherine
-{'overall': 6.530851063829787, 'cmc': 2.9375, 'ramp': '10', 'draw': '11', 'interaction': 12, 'folder': 'gpt', 'commander': 'RebbecArchitectofAscension.txt'}
+{'overall': 6.530851063829787, 'cmc': 2.9375, 'ramp': 10, 'draw': 11, 'interaction': 12}

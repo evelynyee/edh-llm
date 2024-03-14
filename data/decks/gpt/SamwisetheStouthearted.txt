@@ -61,4 +61,4 @@
 1 Terrain Generator
 1 Thawing Glaciers
 1 Thran Tome
-{'overall': 8.216666666666667, 'cmc': 3.0, 'ramp': '16', 'draw': '12', 'interaction': 11, 'folder': 'gpt', 'commander': 'SamwisetheStouthearted.txt'}{'overall': 8.216666666666667, 'cmc': 3.0, 'ramp': '16', 'draw': '12', 'interaction': 11, 'folder': 'gpt', 'commander': 'SamwisetheStouthearted.txt'}
+{'overall': 8.216666666666667, 'cmc': 3.0, 'ramp': 16, 'draw': 12, 'interaction': 11}

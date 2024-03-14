@@ -62,4 +62,4 @@
 1 The Chain Veil
 1 Windbrisk Raptor
 1 Venerated Loxodon
-{'overall': 6.246464646464646, 'cmc': 3.09375, 'ramp': '13', 'draw': '8', 'interaction': 7, 'folder': 'gpt', 'commander': 'JasmineBorealoftheSeven.txt'}
+{'overall': 6.246464646464646, 'cmc': 3.09375, 'ramp': 13, 'draw': 8, 'interaction': 7}

@@ -62,4 +62,4 @@
 1 Victory Chimes
 1 Summon the School
 1 Your Temple Is Under Attack
-{'overall': 6.474390243902438, 'cmc': 3.203125, 'ramp': 9, 'draw': 13, 'interaction': 7}
+{'overall': 6.474390243902438, 'cmc': 3.203125, 'ramp': 9, 'draw': 13, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GluntchtheBestower.txt'}

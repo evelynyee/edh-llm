@@ -62,4 +62,4 @@
 1 Resourceful Defense
 1 Aragorn and Arwen, Wed
 1 Together Forever
-{'overall': 5.171084337349398, 'cmc': 2.59375, 'ramp': 7, 'draw': 9, 'interaction': 8}
+{'overall': 5.171084337349398, 'cmc': 2.59375, 'ramp': 7, 'draw': 9, 'interaction': 8, 'folder': 'edh', 'commander': 'AragornCompanyLeader.txt'}

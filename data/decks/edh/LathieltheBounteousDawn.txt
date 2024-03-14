@@ -62,4 +62,4 @@
 1 Champion of Lambholt
 1 Avacyn's Pilgrim
 1 The Ozolith
-{'overall': 4.55, 'cmc': 2.5, 'ramp': 9, 'draw': 5, 'interaction': 5}
+{'overall': 4.55, 'cmc': 2.5, 'ramp': 9, 'draw': 5, 'interaction': 5, 'folder': 'edh', 'commander': 'LathieltheBounteousDawn.txt'}

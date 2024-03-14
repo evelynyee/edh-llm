@@ -62,4 +62,4 @@
 1 Selesnya Sanctuary
 1 Rumor Gatherer
 1 Selfless Savior
-{'overall': 5.515873015873016, 'cmc': 1.96875, 'ramp': 10, 'draw': 7, 'interaction': 5}
+{'overall': 5.515873015873016, 'cmc': 1.96875, 'ramp': 10, 'draw': 7, 'interaction': 5, 'folder': 'edh', 'commander': 'BessSoulNourisher.txt'}

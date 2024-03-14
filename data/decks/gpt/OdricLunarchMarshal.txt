@@ -62,4 +62,4 @@
 1 Turn the Tables
 1 Vassal's Duty
 1 Unerring Sling
-{'overall': 3.2365102639296186, 'cmc': 3.41, 'ramp': '5', 'draw': '5', 'interaction': 3, 'folder': 'gpt', 'commander': 'OdricLunarchMarshal.txt'}tion': 3, 'folder': 'gpt', 'commander': 'OdricLunarchMarshal.txt'}
+{'overall': 3.2595238095238095, 'cmc': 3.28125, 'ramp': 5, 'draw': 5, 'interaction': 3}

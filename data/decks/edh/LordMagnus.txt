@@ -62,4 +62,4 @@
 1 Unbreakable Formation
 1 Ezuri's Predation
 1 Elixir of Immortality
-{'overall': 8.626712328767123, 'cmc': 2.28125, 'ramp': 17, 'draw': 12, 'interaction': 10}
+{'overall': 8.626712328767123, 'cmc': 2.28125, 'ramp': 17, 'draw': 12, 'interaction': 10, 'folder': 'edh', 'commander': 'LordMagnus.txt'}

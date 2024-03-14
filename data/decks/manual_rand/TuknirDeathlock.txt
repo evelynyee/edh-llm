@@ -62,4 +62,4 @@
 1 Wine of Blood and Iron
 1 You Look Upon the Tarrasque
 1 Tentative Connection
-{'overall': 1.9336633663366338, 'cmc': 3.15625, 'ramp': 3, 'draw': 1, 'interaction': 6}
+{'overall': 1.9336633663366338, 'cmc': 3.15625, 'ramp': 3, 'draw': 1, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TuknirDeathlock.txt'}

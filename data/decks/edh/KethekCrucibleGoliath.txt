@@ -62,4 +62,4 @@
 1 Flameshadow Conjuring
 1 Village Rites
 1 Nightmare Shepherd
-{'overall': 6.411904761904762, 'cmc': 2.625, 'ramp': 9, 'draw': 12, 'interaction': 8}
+{'overall': 6.411904761904762, 'cmc': 2.625, 'ramp': 9, 'draw': 12, 'interaction': 8, 'folder': 'edh', 'commander': 'KethekCrucibleGoliath.txt'}

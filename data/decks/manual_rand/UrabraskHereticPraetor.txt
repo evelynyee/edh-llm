@@ -1,65 +1,65 @@
 1 Urabrask, Heretic Praetor
-1 Chromatic Lantern
-1 Terminal Moraine
-1 The Golden Throne
-1 Yasmin Khan
-1 Share the Spoils
-1 Thumbscrews
-1 Umbilicus
-1 Strange Inversion
-1 Unquenchable Fury
-1 Word of Seizing
-1 Volcanic Awakening
-1 War-Spike Changeling
-1 Tome Shredder
-1 Tempered in Solitude
-1 Tectonic Fiend
-1 Storybook Ride
-1 Twinning Glass
-1 The Stasis Coffin
-1 Zhulodok, Void Gorger
-1 Urabrask's Forge
-1 Wayfarer's Bauble
-1 Tyrant of Valakut
-1 Slate of Ancestry
-1 Tormenting Voice
-1 Yavimaya, Cradle of Growth
-1 Valakut Exploration
-1 Skirk Alarmist
-1 Volcanic Spray
-1 Wildfire Eternal
-1 Visions of Phyrexia
-1 Synod Sanctum
-1 Tectonic Giant
-1 Sword of the Animist
-1 Skirk Drill Sergeant
-1 Ward of Bones
-1 Screamreach Brawler
-1 Tocasia's Dig Site
-1 Weight of Spires
-1 Threefold Signal
-1 Wandering Archaic // Explore the Vastlands
-1 Ulamog, the Ceaseless Hunger
-1 Thresher Lizard
-1 Tuskeri Firewalker
-1 Well of Lost Dreams
-1 Thieves' Auction
-1 Tomakul Scrapsmith
-1 Storage Matrix
-1 Tel-Jilad Stylus
-1 Scorn Effigy
-1 Viashino Sandscout
-1 War's Toll
-1 Sunbird Standard // Sunbird Effigy
-1 Touch of the Void
-1 Storm King's Thunder
-1 Sowing Salt
-1 Wall of Junk
-1 Unlucky Witness
-1 Sorcerer's Strongbox
-1 Spellbinder
-1 Sensation Gorger
+1 Skirk Commando
+1 Urza's Incubator
+1 Sonic Screwdriver
+1 Victory Chimes
+1 Wandering Goblins
 1 Thran War Machine
-1 Wheel of Fate
-1 Thoughtbound Primoc
-{'overall': 5.32962962962963, 'cmc': 3.176470588235294, 'ramp': '9', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}ction': 4, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}
+1 Warfire Javelineer
+1 Vandalblast
+1 Warehouse Thief
+1 Tyrant of Valakut
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Skittish Valesk
+1 Ugin, the Spirit Dragon
+1 Squee, Dubious Monarch
+1 Scouring Sands
+1 Terminal Moraine
+1 Wake of Destruction
+1 Zektar Shrine Expedition
+1 Territorial Dispute
+1 Trash for Treasure
+1 Urabrask // The Great Work
+1 Watchers of the Dead
+1 Xorn
+1 Spinerock Knoll
+1 Thran Foundry
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Words of War
+1 Telim'Tor's Edict
+1 Zephyr Boots
+1 Vindictive Flamestoker
+1 Surging Flame
+1 Zada, Hedron Grinder
+1 Scrabbling Claws
+1 Soldevi Digger
+1 Vestige of Emrakul
+1 Thran Weaponry
+1 Village Watch // Village Reavers
+1 Wooden Sphere
+1 Zerapa Minotaur
+1 Stingscourger
+1 Wildfire Devils
+1 Vexing Devil
+1 Tuskeri Firewalker
+1 Underdark Rift
+1 Voltaic Servant
+1 Sunbird Standard // Sunbird Effigy
+1 Tormod's Crypt
+1 Mind Stone
+1 Sentinel Totem
+1 Timesifter
+1 Unpredictable Cyclone
+1 Verdant Catacombs
+1 Wondrous Crucible
+1 Wall of Junk
+1 Wild Evocation
+1 Tin Street Market
+1 Witch Hunt
+1 Spite of Mogis
+1 Staggershock
+1 Winds of Change
+1 Thrill of Possibility
+1 Sword of the Animist
+1 Violent Impact
+{'overall': 5.84, 'cmc': 3.125, 'ramp': 7, 'draw': 12, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'UrabraskHereticPraetor.txt'}

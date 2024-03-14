@@ -62,4 +62,4 @@
 1 Torch the Tower
 1 Waylaying Pirates
 1 Welcome to . . . // Jurassic Park
-{'overall': 5.46, 'cmc': 3.5714285714285716, 'ramp': 5, 'draw': 12, 'interaction': 13}
+{'overall': 5.46, 'cmc': 3.5714285714285716, 'ramp': 5, 'draw': 12, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}

@@ -62,4 +62,4 @@
 1 Whir of Invention
 1 Threnody Singer
 1 Torch Breath
-{'overall': 4.937155963302752, 'cmc': 3.40625, 'ramp': 6, 'draw': 9, 'interaction': 12}
+{'overall': 4.937155963302752, 'cmc': 3.40625, 'ramp': 6, 'draw': 9, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}

@@ -62,4 +62,4 @@
 1 Dimir Aqueduct
 1 Bloodline Keeper
 1 Mirri the Cursed
-{'overall': 5.042857142857143, 'cmc': 1.75, 'ramp': 9, 'draw': 5, 'interaction': 8}
+{'overall': 5.042857142857143, 'cmc': 1.75, 'ramp': 9, 'draw': 5, 'interaction': 8, 'folder': 'edh', 'commander': 'GarzaZolPlagueQueen.txt'}

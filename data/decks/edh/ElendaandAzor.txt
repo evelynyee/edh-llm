@@ -62,4 +62,4 @@
 1 Reconnaissance Mission
 1 Sheoldred, the Apocalypse
 1 Anointed Procession
-{'overall': 8.582758620689654, 'cmc': 2.265625, 'ramp': 13, 'draw': 16, 'interaction': 9}
+{'overall': 8.582758620689654, 'cmc': 2.265625, 'ramp': 13, 'draw': 16, 'interaction': 9, 'folder': 'edh', 'commander': 'ElendaandAzor.txt'}

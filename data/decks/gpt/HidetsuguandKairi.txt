@@ -61,4 +61,4 @@
 1 Unsubstantiate
 1 Counterspell
 1 Teferi's Tutelage
-{'overall': 6.865022421524664, 'cmc': 3.5396825396825395, 'ramp': '2', 'draw': '21', 'interaction': 11, 'folder': 'gpt', 'commander': 'HidetsuguandKairi.txt'}{'overall': 6.865022421524664, 'cmc': 3.5396825396825395, 'ramp': '2', 'draw': '21', 'interaction': 11, 'folder': 'gpt', 'commander': 'HidetsuguandKairi.txt'}
+{'overall': 6.865022421524664, 'cmc': 3.5396825396825395, 'ramp': 2, 'draw': 21, 'interaction': 11}

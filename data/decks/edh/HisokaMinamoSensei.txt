@@ -62,4 +62,4 @@
 1 Snap
 1 Dig Through Time
 1 Force of Will
-{'overall': 10.553333333333333, 'cmc': 2.34375, 'ramp': 11, 'draw': 26, 'interaction': 9}
+{'overall': 10.553333333333333, 'cmc': 2.34375, 'ramp': 11, 'draw': 26, 'interaction': 9, 'folder': 'edh', 'commander': 'HisokaMinamoSensei.txt'}

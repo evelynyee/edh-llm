@@ -62,4 +62,4 @@
 1 Whipcorder
 1 Counterspell
 1 Tormod's Cryptkeeper
-{'overall': 4.187155963302752, 'cmc': 3.40625, 'ramp': 2, 'draw': 11, 'interaction': 7}
+{'overall': 4.187155963302752, 'cmc': 3.40625, 'ramp': 2, 'draw': 11, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'TemmetVizierofNaktamun.txt'}

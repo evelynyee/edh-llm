@@ -62,4 +62,4 @@
 1 Smothering Tithe
 1 Ghost Quarter
 1 Beckoning Will-o'-Wisp
-{'overall': 4.3152866242038215, 'cmc': 2.453125, 'ramp': 6, 'draw': 7, 'interaction': 5}
+{'overall': 4.3152866242038215, 'cmc': 2.453125, 'ramp': 6, 'draw': 7, 'interaction': 5, 'folder': 'edh', 'commander': 'HikariTwilightGuardian.txt'}

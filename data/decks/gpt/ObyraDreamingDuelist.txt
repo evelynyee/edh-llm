@@ -62,4 +62,4 @@
 1 Warkite Marauder
 1 Voldaren Pariah // Abolisher of Bloodlines
 1 Umbris, Fear Manifest
-{'overall': 3.7993562231759657, 'cmc': 3.640625, 'ramp': '3', 'draw': '8', 'interaction': 10, 'folder': 'gpt', 'commander': 'ObyraDreamingDuelist.txt'}
+{'overall': 3.7993562231759657, 'cmc': 3.640625, 'ramp': 3, 'draw': 8, 'interaction': 10}

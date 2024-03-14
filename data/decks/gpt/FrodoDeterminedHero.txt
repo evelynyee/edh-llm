@@ -61,4 +61,4 @@
 1 Terashi's Verdict
 1 Surge of Salvation
 1 Towashi Guide-Bot
-{'overall': 5.157865168539326, 'cmc': 2.8253968253968256, 'ramp': '7', 'draw': '8', 'interaction': 14, 'folder': 'gpt', 'commander': 'FrodoDeterminedHero.txt'}{'overall': 5.157865168539326, 'cmc': 2.8253968253968256, 'ramp': '7', 'draw': '8', 'interaction': 14, 'folder': 'gpt', 'commander': 'FrodoDeterminedHero.txt'}
+{'overall': 5.157865168539326, 'cmc': 2.8253968253968256, 'ramp': 7, 'draw': 8, 'interaction': 14}

@@ -62,4 +62,4 @@
 1 Neheb, the Eternal
 1 Terminate
 1 Court of Ire
-{'overall': 7.165083798882682, 'cmc': 2.796875, 'ramp': 13, 'draw': 10, 'interaction': 14}
+{'overall': 7.165083798882682, 'cmc': 2.796875, 'ramp': 13, 'draw': 10, 'interaction': 14, 'folder': 'edh', 'commander': 'OboshthePreypiercer.txt'}

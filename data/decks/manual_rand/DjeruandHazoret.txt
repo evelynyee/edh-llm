@@ -1,0 +1,65 @@
+1 Djeru and Hazoret
+1 Underworld Breach
+1 Vicious Shadows
+1 Wooded Foothills
+1 Urza's Ruinous Blast
+1 _____ Bird Gets the Worm
+1 Winds of Change
+1 Vulpikeet
+1 Volcanic Wind
+1 Village Messenger // Moonrise Intruder
+1 Workshop Assistant
+1 Stoneforge Mystic
+1 Zhulodok, Void Gorger
+1 Wake the Past
+1 Spark of Creativity
+1 Vessel of Endless Rest
+1 Wild Ricochet
+1 Thawing Glaciers
+1 Red Elemental Blast
+1 Thunderscape Familiar
+1 War Behemoth
+1 Thrilling Discovery
+1 Unfinished Business
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Wild Swing
+1 Sword-Swallowing Seraph
+1 Vryn Wingmare
+1 Wrath of God
+1 Zoetic Cavern
+1 Wee Champion
+1 Wandering Graybeard
+1 Wall of Mourning
+1 Treasure Keeper
+1 Weaver of Lightning
+1 Torrent of Fire
+1 Swirling Sandstorm
+1 Torrent of Stone
+1 Survival Cache
+1 Winding Canyons
+1 Turf War
+1 Tethmos High Priest
+1 Sword of Once and Future
+1 Warfire Javelineer
+1 Squee, Dubious Monarch
+1 Wyll, Blade of Frontiers
+1 Violent Eruption
+1 Venerated Loxodon
+1 Thorn of Amethyst
+1 Valakut Awakening // Valakut Stoneforge
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Wand of Ith
+1 Walking Skyscraper
+1 Storybook Ride
+1 Torii Watchward
+1 Uba Mask
+1 Wing Shards
+1 Terramorphic Expanse
+1 Urza's Sylex
+1 Wayfaring Giant
+1 Tormenting Voice
+1 Vigil for the Lost
+1 Tariff
+1 Wildfire Devils
+1 Welcoming Vampire
+{'overall': 3.7953488372093025, 'cmc': 3.359375, 'ramp': 4, 'draw': 7, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}

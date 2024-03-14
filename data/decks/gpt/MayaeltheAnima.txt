@@ -62,4 +62,4 @@
 1 Traverse the Outlands
 1 Tajuru Paragon
 1 Yavimaya Dryad
-{'overall': 13.717796610169492, 'cmc': 3.5223880597014925, 'ramp': '23', 'draw': '29', 'interaction': 3, 'folder': 'gpt', 'commander': 'MayaeltheAnima.txt'}ction': 3, 'folder': 'gpt', 'commander': 'MayaeltheAnima.txt'}
+{'overall': 12.96888888888889, 'cmc': 3.515625, 'ramp': 22, 'draw': 27, 'interaction': 3}

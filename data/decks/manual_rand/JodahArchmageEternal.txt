@@ -62,4 +62,4 @@
 1 Waste Away
 1 Weaver of Lies
 1 Unbound Flourishing
-{'overall': 5.780541871921183, 'cmc': 3.171875, 'ramp': 8, 'draw': 11, 'interaction': 8}
+{'overall': 5.780541871921183, 'cmc': 3.171875, 'ramp': 8, 'draw': 11, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}

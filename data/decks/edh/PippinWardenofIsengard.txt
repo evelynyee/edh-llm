@@ -62,4 +62,4 @@
 1 Mirkwood Bats
 1 Sakura-Tribe Elder
 1 Ultimate Price
-{'overall': 6.957182320441989, 'cmc': 2.828125, 'ramp': 15, 'draw': 9, 'interaction': 5}
+{'overall': 6.957182320441989, 'cmc': 2.828125, 'ramp': 15, 'draw': 9, 'interaction': 5, 'folder': 'edh', 'commander': 'PippinWardenofIsengard.txt'}

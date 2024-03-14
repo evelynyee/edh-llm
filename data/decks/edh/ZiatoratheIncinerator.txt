@@ -62,4 +62,4 @@
 1 Old Gnawbone
 1 Luxury Suite
 1 Bojuka Bog
-{'overall': 7.069101123595505, 'cmc': 2.78125, 'ramp': 17, 'draw': 7, 'interaction': 7}
+{'overall': 7.069101123595505, 'cmc': 2.78125, 'ramp': 17, 'draw': 7, 'interaction': 7, 'folder': 'edh', 'commander': 'ZiatoratheIncinerator.txt'}

@@ -62,4 +62,4 @@
 1 Vow of Malice
 1 Infernal Grasp
 1 Necrosynthesis
-{'overall': 6.465286624203822, 'cmc': 2.453125, 'ramp': 10, 'draw': 11, 'interaction': 8}
+{'overall': 6.465286624203822, 'cmc': 2.453125, 'ramp': 10, 'draw': 11, 'interaction': 8, 'folder': 'edh', 'commander': 'NefaroxOverlordofGrixis.txt'}

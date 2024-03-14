@@ -62,4 +62,4 @@
 1 Volcanic Vision
 1 Thornwind Faeries
 1 Topple
-{'overall': 5.63781512605042, 'cmc': 3.71875, 'ramp': 1, 'draw': 14, 'interaction': 27}
+{'overall': 5.63781512605042, 'cmc': 3.71875, 'ramp': 1, 'draw': 14, 'interaction': 27, 'folder': 'manual_rand', 'commander': 'GnostroVoiceoftheCrags.txt'}

@@ -62,4 +62,4 @@
 1 Well of Life
 1 Thaumatic Compass // Spires of Orazca
 1 Ulamog, the Infinite Gyre
-{'overall': 6.920325203252033, 'cmc': 3.84375, 'ramp': 3, 'draw': 22, 'interaction': 3}
+{'overall': 6.920325203252033, 'cmc': 3.84375, 'ramp': 3, 'draw': 22, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'}

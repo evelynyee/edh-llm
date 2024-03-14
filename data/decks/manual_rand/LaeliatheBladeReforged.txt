@@ -62,4 +62,4 @@
 1 Wand of Wonder
 1 Wingrattle Scarecrow
 1 Stromkirk Occultist
-{'overall': 5.64047619047619, 'cmc': 3.3870967741935485, 'ramp': 7, 'draw': 12, 'interaction': 6}
+{'overall': 5.64047619047619, 'cmc': 3.3870967741935485, 'ramp': 7, 'draw': 12, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}

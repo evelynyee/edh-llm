@@ -62,4 +62,4 @@
 1 Tangleclaw Werewolf // Fibrous Entangler
 1 Yedora, Grave Gardener
 1 Werebear
-{'overall': 1.8274509803921568, 'cmc': 3.1875, 'ramp': 2, 'draw': 2, 'interaction': 4}
+{'overall': 1.8274509803921568, 'cmc': 3.1875, 'ramp': 2, 'draw': 2, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}

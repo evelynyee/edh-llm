@@ -62,4 +62,4 @@
 1 Wall of Spears
 1 Warrior's Honor
 1 The Book of Exalted Deeds
-{'overall': 2.479185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 3, 'interaction': 13}
+{'overall': 2.479185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 3, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'IroasGodofVictory.txt'}

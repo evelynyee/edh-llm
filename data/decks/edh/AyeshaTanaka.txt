@@ -62,4 +62,4 @@
 1 Knights of Thorn
 1 Brainstorm
 1 Mystic Remora
-{'overall': 5.164864864864865, 'cmc': 2.3125, 'ramp': 8, 'draw': 8, 'interaction': 6}
+{'overall': 5.164864864864865, 'cmc': 2.3125, 'ramp': 8, 'draw': 8, 'interaction': 6, 'folder': 'edh', 'commander': 'AyeshaTanaka.txt'}

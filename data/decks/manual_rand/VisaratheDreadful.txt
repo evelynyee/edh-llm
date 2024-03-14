@@ -62,4 +62,4 @@
 1 Whisper of the Dross
 1 Shuriken
 1 Vampire of the Dire Moon
-{'overall': 2.091891891891892, 'cmc': 2.890625, 'ramp': 1, 'draw': 3, 'interaction': 8}
+{'overall': 2.091891891891892, 'cmc': 2.890625, 'ramp': 1, 'draw': 3, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}

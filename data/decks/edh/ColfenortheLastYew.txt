@@ -62,4 +62,4 @@
 1 Ulvenwald Observer
 1 Hangarback Walker
 1 Llanowar Wastes
-{'overall': 7.232258064516129, 'cmc': 1.9375, 'ramp': 15, 'draw': 9, 'interaction': 4}
+{'overall': 7.232258064516129, 'cmc': 1.9375, 'ramp': 15, 'draw': 9, 'interaction': 4, 'folder': 'edh', 'commander': 'ColfenortheLastYew.txt'}

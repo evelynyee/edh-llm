@@ -1,0 +1,65 @@
+1 Dina, Soul Steeper
+1 Wreath of Geists
+1 Triangle of War
+1 Zopandrel, Hunger Dominus
+1 Animate Dead
+1 Wily Bandar
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Tivash, Gloom Summoner
+1 Zephyr Boots
+1 Territorial Boar
+1 Vampirism
+1 Touch of Vitae
+1 Sol Ring
+1 Wildwood Mentor
+1 Throne of Bone
+1 Well of Lost Dreams
+1 Wildwood Tracker
+1 Tymaret, Chosen from Death
+1 Steel Hellkite
+1 Unerring Sling
+1 Tormented Hero
+1 Venom Connoisseur
+1 Treacherous Werewolf
+1 Viral Spawning
+1 Veteran's Sidearm
+1 Tanuki Transplanter
+1 Village Survivors
+1 Trolls of Tel-Jilad
+1 Waxing Moon
+1 Tooth Collector
+1 Vicious Betrayal
+1 Tribute to Hunger
+1 Tree of Perdition
+1 Wild Shape
+1 Verdant Command
+1 Viridian Longbow
+1 Waker of the Wilds
+1 The Meathook Massacre
+1 Warden of the Woods
+1 Titania's Song
+1 Sultai Flayer
+1 Umezawa's Jitte
+1 Vermiculos
+1 Tyrant's Choice
+1 Wurmquake
+1 Woodcutter's Grit
+1 Vrock
+1 Spoils of the Hunt
+1 Tomakul Honor Guard
+1 Strength in Numbers
+1 Vivien's Stampede
+1 Tablet of Epityr
+1 Wolf in _____ Clothing
+1 Yawgmoth, Thran Physician
+1 Virtue of Persistence // Locthwain Scorn
+1 Vampire's Kiss
+1 Vampiric Rites
+1 Sword of War and Peace
+1 Wretched Banquet
+1 Umbral Mantle
+1 Tomb Blade
+1 Wicked Pact
+1 Wings of Hubris
+1 Warping Wail
+{'overall': 4.0432160804020105, 'cmc': 3.109375, 'ramp': 3, 'draw': 9, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'DinaSoulSteeper.txt'}

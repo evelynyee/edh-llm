@@ -62,4 +62,4 @@
 1 Omenspeaker
 1 Constricting Tendrils
 1 Hampering Snare
-{'overall': 13.466666666666667, 'cmc': 3.0, 'ramp': 9, 'draw': 41, 'interaction': 6}
+{'overall': 13.466666666666667, 'cmc': 3.0, 'ramp': 9, 'draw': 41, 'interaction': 6, 'folder': 'edh', 'commander': 'GhostofRamirezDePietro.txt'}

@@ -62,4 +62,4 @@
 1 Elspeth, Sun's Champion
 1 Overgrown Farmland
 1 Parallel Lives
-{'overall': 4.975806451612904, 'cmc': 2.421875, 'ramp': 8, 'draw': 7, 'interaction': 8}
+{'overall': 4.975806451612904, 'cmc': 2.421875, 'ramp': 8, 'draw': 7, 'interaction': 8, 'folder': 'edh', 'commander': 'QueenAllenalofRuadach.txt'}

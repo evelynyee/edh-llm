@@ -1,0 +1,65 @@
+1 Go-Shintai of Boundless Vigor
+1 Thelon's Chant
+1 Wellwisher
+1 Thran Temporal Gateway
+1 Winding Wurm
+1 Verdant Command
+1 Unnatural Restoration
+1 Voyaging Satyr
+1 _____-o-saurus
+1 Hardened Scales
+1 Voyager Staff
+1 Venerable Kumo
+1 Vastwood Animist
+1 Doubling Season
+1 Warriors' Lesson
+1 Yisan, the Wanderer Bard
+1 Tooth of Chiss-Goria
+1 Woolly Loxodon
+1 Sustenance
+1 Topography Tracker
+1 Thran Weaponry
+1 Windswept Heath
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 The Stasis Coffin
+1 Weather the Storm
+1 Transmogrifying Licid
+1 Thallid
+1 Su-Chi Cave Guard
+1 Workhorse
+1 Spike Hatcher
+1 Vastwood Fortification // Vastwood Thicket
+1 Rampant Growth
+1 Tunnel of Love
+1 Seedborn Muse
+1 Wings of Hubris
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Territorial Scythecat
+1 Volatile Fault
+1 Whippoorwill
+1 Wolfir Avenger
+1 Wall of Forgotten Pharaohs
+1 Trigon of Infestation
+1 Spring-Leaf Avenger
+1 Yavimaya Dryad
+1 Simian Simulacrum
+1 Titan of Industry
+1 Yedora, Grave Gardener
+1 Vitaspore Thallid
+1 The First Iroan Games
+1 Vorinclex, Monstrous Raider
+1 The Crowd Goes Wild
+1 Trophy Hunter
+1 Wolfkin Outcast // Wedding Crasher
+1 Wose Pathfinder
+1 Uktabi Efreet
+1 Verdant Haven
+1 Wild Defiance
+1 Sweet-Gum Recluse
+1 Territorial Allosaurus
+1 Wild Dogs
+1 Thaumatic Compass // Spires of Orazca
+1 Urza's Miter
+1 Tuskguard Captain
+1 Titania's Boon
+{'overall': 5.077450980392157, 'cmc': 3.1875, 'ramp': 11, 'draw': 6, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GoShintaiofBoundlessVigor.txt'}

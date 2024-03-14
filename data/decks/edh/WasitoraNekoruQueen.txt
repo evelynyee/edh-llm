@@ -62,4 +62,4 @@
 1 Rockfall Vale
 1 Blasphemous Act
 1 Rakdos Signet
-{'overall': 7.6352760736196315, 'cmc': 2.546875, 'ramp': 18, 'draw': 8, 'interaction': 7}
+{'overall': 7.6352760736196315, 'cmc': 2.546875, 'ramp': 18, 'draw': 8, 'interaction': 7, 'folder': 'edh', 'commander': 'WasitoraNekoruQueen.txt'}

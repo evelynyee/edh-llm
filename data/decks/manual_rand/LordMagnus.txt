@@ -62,4 +62,4 @@
 1 Zodiac Ox
 1 The Peregrine Dynamo
 1 War Chariot
-{'overall': 1.8096858638743454, 'cmc': 3.0317460317460316, 'ramp': 0, 'draw': 4, 'interaction': 3}
+{'overall': 1.8096858638743454, 'cmc': 3.0317460317460316, 'ramp': 0, 'draw': 4, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'LordMagnus.txt'}

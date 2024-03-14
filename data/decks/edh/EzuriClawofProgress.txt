@@ -62,4 +62,4 @@
 1 Tezzeret's Gambit
 1 Invisible Stalker
 1 Avenger of Zendikar
-{'overall': 7.4411764705882355, 'cmc': 2.125, 'ramp': 16, 'draw': 9, 'interaction': 5}
+{'overall': 7.4411764705882355, 'cmc': 2.125, 'ramp': 16, 'draw': 9, 'interaction': 5, 'folder': 'edh', 'commander': 'EzuriClawofProgress.txt'}

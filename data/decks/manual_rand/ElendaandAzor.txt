@@ -1,0 +1,65 @@
+1 Elenda and Azor
+1 Underdark Rift
+1 Unholy Hunger
+1 Wingmate Roc
+1 Will Kenrith
+1 Titan Hunter
+1 Twice Upon a Time // Unlikely Meeting
+1 Sword of the Ages
+1 Wasteland Strangler
+1 Vitality Hunter
+1 White Sun's Twilight
+1 Windcaller Aven
+1 Toxic Deluge
+1 Vizkopa Confessor
+1 Voodoo Doll
+1 Void Beckoner
+1 Winged Words
+1 Warped Physique
+1 Tribute to Horobi // Echo of Death's Wail
+1 Worthy Knight
+1 Szat's Will
+1 Zndrsplt's Judgment
+1 Tribute to Hunger
+1 Voidmage Prodigy
+1 Wicked Guardian
+1 Warg Rider
+1 Vampire's Bite
+1 Warehouse Tabby
+1 The Raven's Warning
+1 Tergrid's Shadow
+1 Twilight Prophet
+1 War Report
+1 Sunfall
+1 Virulent Swipe
+1 Vulpine Harvester
+1 Whim of Volrath
+1 Timeless Dragon
+1 Whir of Invention
+1 Vanguard of Brimaz
+1 Whitesun's Passage
+1 Unlicensed Hearse
+1 Mana Vault
+1 Village Rites
+1 Wheel of Torture
+1 Tomb Tyrant
+1 Wash Away
+1 Undercity Plague
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Ugin, the Spirit Dragon
+1 The Eleventh Hour
+1 Valiant Endeavor
+1 Welcoming Vampire
+1 Triumph of Cruelty
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Tolarian Geyser
+1 Visions of Dread
+1 Stolen by the Fae
+1 Zoetic Cavern
+1 Wound Reflection
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Trading Post
+1 Whack
+1 Trail of Evidence
+1 Tormented Thoughts
+{'overall': 7.105066079295154, 'cmc': 3.6031746031746033, 'ramp': 5, 'draw': 19, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ElendaandAzor.txt'}
