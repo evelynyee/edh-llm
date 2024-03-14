@@ -62,4 +62,4 @@
 1 Wasteland
 1 Train of Thought
 1 The Blackstaff of Waterdeep
-{'overall': 6.707182320441989, 'cmc': 2.828125, 'ramp': 6, 'draw': 16, 'interaction': 10}
+{'overall': 6.707182320441989, 'cmc': 2.828125, 'ramp': 6, 'draw': 16, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}

@@ -62,4 +62,4 @@
 1 Baleful Mastery
 1 Diabolic Tutor
 1 Withering Boon
-{'overall': 6.7578740157480315, 'cmc': 1.984375, 'ramp': 14, 'draw': 7, 'interaction': 10}
+{'overall': 6.7578740157480315, 'cmc': 1.984375, 'ramp': 14, 'draw': 7, 'interaction': 10, 'folder': 'edh', 'commander': 'MaralenoftheMornsong.txt'}

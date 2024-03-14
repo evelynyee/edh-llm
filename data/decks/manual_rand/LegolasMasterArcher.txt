@@ -62,4 +62,4 @@
 1 Utopia Sprawl
 1 Tawnos's Tinkering
 1 Vines of Vastwood
-{'overall': 4.31244019138756, 'cmc': 3.265625, 'ramp': 6, 'draw': 7, 'interaction': 9}
+{'overall': 4.31244019138756, 'cmc': 3.265625, 'ramp': 6, 'draw': 7, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'LegolasMasterArcher.txt'}

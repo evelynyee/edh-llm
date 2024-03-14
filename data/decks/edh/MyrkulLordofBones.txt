@@ -62,4 +62,4 @@
 1 Beast Whisperer
 1 Windswept Heath
 1 Llanowar Wastes
-{'overall': 7.224, 'cmc': 1.953125, 'ramp': 18, 'draw': 6, 'interaction': 4}
+{'overall': 7.224, 'cmc': 1.953125, 'ramp': 18, 'draw': 6, 'interaction': 4, 'folder': 'edh', 'commander': 'MyrkulLordofBones.txt'}

@@ -62,4 +62,4 @@
 1 Ugin's Nexus
 1 Spawning Bed
 1 Swiftfoot Boots
-{'overall': 8.700704225352112, 'cmc': 4.4375, 'ramp': 16, 'draw': 14, 'interaction': 15}
+{'overall': 8.700704225352112, 'cmc': 4.4375, 'ramp': 16, 'draw': 14, 'interaction': 15, 'folder': 'edh', 'commander': 'EmrakulthePromisedEnd.txt'}

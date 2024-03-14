@@ -62,4 +62,4 @@
 1 Marble Diamond
 1 Myriad Landscape
 1 Arcbound Reclaimer
-{'overall': 6.438172043010753, 'cmc': 2.90625, 'ramp': 12, 'draw': 9, 'interaction': 10}
+{'overall': 6.438172043010753, 'cmc': 2.90625, 'ramp': 12, 'draw': 9, 'interaction': 10, 'folder': 'edh', 'commander': 'RebbecArchitectofAscension.txt'}

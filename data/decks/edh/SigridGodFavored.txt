@@ -62,4 +62,4 @@
 1 Ghostly Prison
 1 Smothering Tithe
 1 Your Temple Is Under Attack
-{'overall': 7.991891891891892, 'cmc': 2.890625, 'ramp': 14, 'draw': 13, 'interaction': 11}
+{'overall': 7.991891891891892, 'cmc': 2.890625, 'ramp': 14, 'draw': 13, 'interaction': 11, 'folder': 'edh', 'commander': 'SigridGodFavored.txt'}

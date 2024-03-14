@@ -62,4 +62,4 @@
 1 Helm of the Host
 1 Historian's Boon
 1 Day of Destiny
-{'overall': 7.06140350877193, 'cmc': 3.5625, 'ramp': 7, 'draw': 17, 'interaction': 10}
+{'overall': 7.06140350877193, 'cmc': 3.5625, 'ramp': 7, 'draw': 17, 'interaction': 10, 'folder': 'edh', 'commander': 'TheFifthDoctor.txt'}

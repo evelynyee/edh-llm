@@ -62,4 +62,4 @@
 1 Viseling
 1 Thunderscape Familiar
 1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-{'overall': 4.446124031007752, 'cmc': 4.03125, 'ramp': 3, 'draw': 11, 'interaction': 9}
+{'overall': 4.446124031007752, 'cmc': 4.03125, 'ramp': 3, 'draw': 11, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}

@@ -1,65 +1,65 @@
 1 Seton, Krosan Protector
-1 Steel Exemplar
-1 Silt Crawler
-1 Well of Discovery
-1 Symbiotic Deployment
-1 Timberland Ruins
-1 Uktabi Faerie
-1 Treasure Map // Treasure Cove
-1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Warping Wail
-1 Vine Trellis
-1 Synod Centurion
-1 Xanthic Statue
-1 Visions of Dominance
-1 Spawning Bed
-1 Untamed Kavu
-1 Wilson, Refined Grizzly
-1 Viridian Zealot
-1 Veilstone Amulet
-1 Wrenn and Realmbreaker
-1 Transmogrifying Wand
-1 Volrath's Gardens
-1 Titan Forge
-1 Urza's Workshop
-1 The Grey Havens
-1 Trigon of Infestation
-1 Wolverine Riders
-1 Sunset Pyramid
-1 Steelbane Hydra
+1 Thran Dynamo
+1 Zoetic Cavern
+1 Tajuru Beastmaster
+1 Trufflesnout
+1 Terrarion
+1 Undermountain Adventurer
+1 Wose Pathfinder
 1 Wall of Pine Needles
-1 Tribute to the World Tree
-1 Verdant Mastery
-1 The Weatherseed Treaty
-1 Voyaging Satyr
-1 Woodweaver's Puzzleknot
-1 Tangleclaw Werewolf // Fibrous Entangler
-1 Vineshaper Mystic
-1 Thundering Tanadon
-1 Towashi Guide-Bot
-1 Winter Orb
-1 Tree of Tales
-1 Verdant Outrider
-1 Urza's Factory
-1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Sword of the Paruns
+1 Tendo Ice Bridge
+1 Vorapede
+1 Turn to Dust
+1 Wilson, Refined Grizzly
+1 The Shire
+1 Tower of the Magistrate
+1 Stonework Packbeast
+1 Welcome to . . . // Jurassic Park
+1 Treasure Map // Treasure Cove
+1 Yavimaya Gnats
+1 Thought Vessel
 1 Webweaver Changeling
-1 The Filigree Sylex
-1 Vitaspore Thallid
-1 Unyaro Bees
-1 Sphere of the Suns
-1 Zendikar Resurgent
+1 Vastwood Animist
+1 Verdeloth the Ancient
+1 Wintermoon Mesa
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 War Room
+1 Wasteland
+1 Tranquil Grove
+1 Tectonic Edge
+1 Springmantle Cleric
+1 Tangleclaw Werewolf // Fibrous Entangler
+1 Wall of Roots
+1 Waker of the Wilds
+1 Walker of the Grove
 1 Su-Chi
-1 Toxicrene
-1 Silhana Starfletcher
-1 Study Hall
-1 Stone-Seeder Hierophant
-1 Throne of Makindi
-1 Thriving Rhino
-1 Vineweft
-1 Voracious Typhon
-1 Warden of the Woods
-1 Twists and Turns // Mycoid Maze
-1 The Hunter Maze
-1 Void Attendant
-1 Weapon Rack
-{'overall': 7.966666666666667, 'cmc': 3.0, 'ramp': '15', 'draw': '13', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}teraction': 6, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}
+1 Unstable Obelisk
+1 Woodripper
+1 Winter's Grasp
+1 Wall of Mulch
+1 Warden of Geometries
+1 Witch's Oven
+1 Unstoppable Ash
+1 Trip Noose
+1 Tome of the Guildpact
+1 Turntimber Ranger
+1 Urza's Power Plant
+1 Winding Wurm
+1 Welcome to Sweettooth
+1 Wolfrider's Saddle
+1 Thermokarst
+1 Veteran Adventurer
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Throne of the High City
+1 Sylvok Replica
+1 Wild Onslaught
+1 Voracious Wurm
+1 Tyrant Guard
+1 Unnatural Restoration
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Transguild Promenade
+1 Tawnos's Coffin
+1 Thran Portal
+1 Viridian Scout
+{'overall': 7.399453551912568, 'cmc': 2.859375, 'ramp': 17, 'draw': 9, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'SetonKrosanProtector.txt'}

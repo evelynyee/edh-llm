@@ -62,4 +62,4 @@
 1 Thundercloud Elemental
 1 Valkyrie's Sword
 1 Triskelavus
-{'overall': 5.812770562770563, 'cmc': 3.5538461538461537, 'ramp': '1', 'draw': '18', 'interaction': 10, 'folder': 'gpt', 'commander': 'ElendaandAzor.txt'} 'ElendaandAzor.txt'}
+{'overall': 5.813876651982379, 'cmc': 3.546875, 'ramp': 1, 'draw': 18, 'interaction': 10}

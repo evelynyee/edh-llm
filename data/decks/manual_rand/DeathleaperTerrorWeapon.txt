@@ -62,4 +62,4 @@
 1 Tromp the Domains
 1 Tilonalli's Knight
 1 Viridian Claw
-{'overall': 2.0517241379310347, 'cmc': 3.625, 'ramp': 2, 'draw': 4, 'interaction': 0}
+{'overall': 2.0517241379310347, 'cmc': 3.625, 'ramp': 2, 'draw': 4, 'interaction': 0, 'folder': 'manual_rand', 'commander': 'DeathleaperTerrorWeapon.txt'}

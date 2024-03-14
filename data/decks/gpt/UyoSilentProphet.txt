@@ -62,4 +62,4 @@
 1 Synod Sanctum
 1 Venser's Diffusion
 1 Winter Eladrin
-{'overall': 6.39056603773585, 'cmc': 4.076923076923077, 'ramp': '3', 'draw': '19', 'interaction': 8, 'folder': 'gpt', 'commander': 'UyoSilentProphet.txt'}lentProphet.txt'}
+{'overall': 6.138549618320611, 'cmc': 4.09375, 'ramp': 3, 'draw': 18, 'interaction': 8}

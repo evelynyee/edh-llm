@@ -62,4 +62,4 @@
 1 Wild Growth
 1 Rampant Growth
 1 Utopia Vow
-{'overall': 6.584491978609626, 'cmc': 2.921875, 'ramp': '13', 'draw': '10', 'interaction': 3, 'folder': 'gpt', 'commander': 'ThruntheLastTroll.txt'}
+{'overall': 6.584491978609626, 'cmc': 2.921875, 'ramp': 13, 'draw': 10, 'interaction': 3}

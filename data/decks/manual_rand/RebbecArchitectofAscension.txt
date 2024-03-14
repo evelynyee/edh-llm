@@ -62,4 +62,4 @@
 1 Tinker's Tote
 1 _____ _____ Rocketship
 1 Seal of the Guildpact
-{'overall': 6.511650485436894, 'cmc': 3.2698412698412698, 'ramp': 10, 'draw': 12, 'interaction': 8}
+{'overall': 6.511650485436894, 'cmc': 3.2698412698412698, 'ramp': 10, 'draw': 12, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'RebbecArchitectofAscension.txt'}

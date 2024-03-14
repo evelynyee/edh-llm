@@ -62,4 +62,4 @@
 1 Weight of Spires
 1 Soldevi Steam Beast
 1 Traitorous Greed
-{'overall': 4.7441860465116275, 'cmc': 2.6875, 'ramp': 6, 'draw': 5, 'interaction': 25}
+{'overall': 4.7441860465116275, 'cmc': 2.6875, 'ramp': 6, 'draw': 5, 'interaction': 25, 'folder': 'manual_rand', 'commander': 'Chandler.txt'}

@@ -62,4 +62,4 @@
 1 Takeno, Samurai General
 1 Tormented Angel
 1 Spidersilk Net
-{'overall': 2.8772486772486774, 'cmc': 2.953125, 'ramp': 1, 'draw': 7, 'interaction': 4}
+{'overall': 2.8772486772486774, 'cmc': 2.953125, 'ramp': 1, 'draw': 7, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}

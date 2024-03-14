@@ -62,4 +62,4 @@
 1 Circle of Dreams Druid
 1 Concordant Crossroads
 1 Allosaurus Shepherd
-{'overall': 10.970863309352518, 'cmc': 2.171875, 'ramp': 22, 'draw': 17, 'interaction': 6}
+{'overall': 10.970863309352518, 'cmc': 2.171875, 'ramp': 22, 'draw': 17, 'interaction': 6, 'folder': 'edh', 'commander': 'ThrastaTempestsRoar.txt'}

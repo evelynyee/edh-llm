@@ -1,0 +1,65 @@
+1 Ashad, the Lone Cyberman
+1 Toymaker
+1 Zombie Infestation
+1 Tezzeret the Schemer
+1 Vorrac Battlehorns
+1 Whisper, Blood Liturgist
+1 Will of the Naga
+1 The Dalek Emperor
+1 Vohar, Vodalian Desecrator
+1 Whispersteel Dagger
+1 Trash for Treasure
+1 Universal Surveillance
+1 Woe Strider
+1 Wizard's Retort
+1 Veiled Sentry
+1 Traumatic Revelation
+1 Treacherous Blessing
+1 Wyll's Reversal
+1 Thud
+1 Tempt with Reflections
+1 Mana Vault
+1 Wild Guess
+1 Urza's Chalice
+1 Weapon Surge
+1 Torrent of Stone
+1 Vivisection
+1 Visions of Phyrexia
+1 Willbender
+1 Theoretical Duplication
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Tomb of Urami
+1 Vanquish the Weak
+1 Thunderhead Squadron
+1 Toggo, Goblin Weaponsmith
+1 Tolarian Terror
+1 Verity Circle
+1 Umbral Juke
+1 Whirler Rogue
+1 The Balrog, Durin's Bane
+1 Twinning Staff
+1 Zurgo Bellstriker
+1 Tiamat's Fanatics
+1 Towashi Guide-Bot
+1 Toshiro Umezawa
+1 Trickster's Talisman
+1 Voyager Drake
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Dark Ritual
+1 Toxrill, the Corrosive
+1 Thousand-Year Storm
+1 Wasteland Strangler
+1 Wave Elemental
+1 Waterwind Scout
+1 Thran Vigil
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 Wildfire Eternal
+1 Windcaller Aven
+1 The Master, Formed Anew
+1 Éomer of the Riddermark
+1 Zephyr Scribe
+1 Wretched Confluence
+1 Violet Pall
+1 Vindictive Flamestoker
+1 Mulldrifter
+{'overall': 5.714634146341463, 'cmc': 3.253968253968254, 'ramp': 5, 'draw': 14, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AshadtheLoneCyberman.txt'}

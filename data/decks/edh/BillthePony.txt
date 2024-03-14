@@ -62,4 +62,4 @@
 1 Cathar's Shield
 1 Hobbit's Sting
 1 Cut a Deal
-{'overall': 5.427272727272728, 'cmc': 2.75, 'ramp': 8, 'draw': 9, 'interaction': 9}
+{'overall': 5.427272727272728, 'cmc': 2.75, 'ramp': 8, 'draw': 9, 'interaction': 9, 'folder': 'edh', 'commander': 'BillthePony.txt'}

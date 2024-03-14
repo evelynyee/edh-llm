@@ -62,4 +62,4 @@
 1 Aqueous Form
 1 Everflowing Chalice
 1 Consecrated Sphinx
-{'overall': 8.379185520361991, 'cmc': 3.453125, 'ramp': 11, 'draw': 17, 'interaction': 16}
+{'overall': 8.379185520361991, 'cmc': 3.453125, 'ramp': 11, 'draw': 17, 'interaction': 16, 'folder': 'edh', 'commander': 'MalcolmAlluringScoundrel.txt'}

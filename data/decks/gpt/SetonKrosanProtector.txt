@@ -62,4 +62,4 @@
 1 Tyrite Sanctum
 1 Wirewood Channeler
 1 Triskelion
-{'overall': 6.465083798882682, 'cmc': 2.796875, 'ramp': '14', 'draw': '8', 'interaction': 5, 'folder': 'gpt', 'commander': 'SetonKrosanProtector.txt'}
+{'overall': 6.465083798882682, 'cmc': 2.796875, 'ramp': 14, 'draw': 8, 'interaction': 5}

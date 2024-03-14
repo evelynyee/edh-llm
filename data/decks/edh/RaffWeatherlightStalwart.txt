@@ -62,4 +62,4 @@
 1 Martial Coup
 1 Unbreakable Formation
 1 Halo Fountain
-{'overall': 7.362406015037594, 'cmc': 2.078125, 'ramp': 9, 'draw': 14, 'interaction': 13}
+{'overall': 7.362406015037594, 'cmc': 2.078125, 'ramp': 9, 'draw': 14, 'interaction': 13, 'folder': 'edh', 'commander': 'RaffWeatherlightStalwart.txt'}

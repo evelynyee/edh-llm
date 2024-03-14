@@ -62,4 +62,4 @@
 1 Realm Seekers
 1 Celeborn the Wise
 1 Ash Barrens
-{'overall': 9.060126582278482, 'cmc': 2.46875, 'ramp': 14, 'draw': 18, 'interaction': 5}
+{'overall': 9.060126582278482, 'cmc': 2.46875, 'ramp': 14, 'draw': 18, 'interaction': 5, 'folder': 'edh', 'commander': 'ElrondoftheWhiteCouncil.txt'}

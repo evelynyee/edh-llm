@@ -62,4 +62,4 @@
 1 Wedding Announcement // Wedding Festivity
 1 Torchling
 1 Zenith Flare
-{'overall': 3.2774193548387096, 'cmc': 2.9523809523809526, 'ramp': 1, 'draw': 5, 'interaction': 22}
+{'overall': 3.2774193548387096, 'cmc': 2.9523809523809526, 'ramp': 1, 'draw': 5, 'interaction': 22, 'folder': 'manual_rand', 'commander': 'KalemneDiscipleofIroas.txt'}

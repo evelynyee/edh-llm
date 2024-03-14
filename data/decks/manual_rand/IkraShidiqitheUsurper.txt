@@ -62,4 +62,4 @@
 1 Wreck Hunter
 1 Wicked Guardian
 1 Unhinge
-{'overall': 5.126576576576577, 'cmc': 3.46875, 'ramp': 6, 'draw': 10, 'interaction': 11}
+{'overall': 5.126576576576577, 'cmc': 3.46875, 'ramp': 6, 'draw': 10, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'IkraShidiqitheUsurper.txt'}

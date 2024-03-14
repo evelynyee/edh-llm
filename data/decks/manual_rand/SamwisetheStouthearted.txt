@@ -62,4 +62,4 @@
 1 Watcher of the Roost
 1 Woeleecher
 1 The Eternal Wanderer
-{'overall': 6.146464646464646, 'cmc': 3.09375, 'ramp': 8, 'draw': 12, 'interaction': 10}
+{'overall': 6.146464646464646, 'cmc': 3.09375, 'ramp': 8, 'draw': 12, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}

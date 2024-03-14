@@ -62,4 +62,4 @@
 1 Pearl Medallion
 1 Sigil of the New Dawn
 1 Ghostly Prison
-{'overall': 8.361904761904762, 'cmc': 2.625, 'ramp': 13, 'draw': 15, 'interaction': 12}
+{'overall': 8.361904761904762, 'cmc': 2.625, 'ramp': 13, 'draw': 15, 'interaction': 12, 'folder': 'edh', 'commander': 'LieutenantKirtar.txt'}

@@ -62,4 +62,4 @@
 1 War Dance
 1 Teyo, the Shieldmage
 1 Undercity Upheaval
-{'overall': 4.106521739130435, 'cmc': 3.59375, 'ramp': 4, 'draw': 9, 'interaction': 6}
+{'overall': 4.106521739130435, 'cmc': 3.59375, 'ramp': 4, 'draw': 9, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'QueenAllenalofRuadach.txt'}

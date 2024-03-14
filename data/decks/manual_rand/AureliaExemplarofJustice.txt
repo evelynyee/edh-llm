@@ -62,4 +62,4 @@
 1 Village Watch // Village Reavers
 1 Thundering Raiju
 1 Two-Headed Dragon
-{'overall': 1.649746192893401, 'cmc': 3.078125, 'ramp': 0, 'draw': 2, 'interaction': 10}
+{'overall': 1.649746192893401, 'cmc': 3.078125, 'ramp': 0, 'draw': 2, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AureliaExemplarofJustice.txt'}

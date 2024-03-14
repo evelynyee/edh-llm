@@ -62,4 +62,4 @@
 1 Three Bowls of Porridge
 1 That Which Was Taken
 1 Untethered Express
-{'overall': 4.9398617511520735, 'cmc': 3.390625, 'ramp': 2, 'draw': 14, 'interaction': 7}
+{'overall': 4.9398617511520735, 'cmc': 3.390625, 'ramp': 2, 'draw': 14, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ChevillBaneofMonsters.txt'}

@@ -62,4 +62,4 @@
 1 Thran Vigil
 1 Vigil for the Lost
 1 Triskelavus
-{'overall': 4.49321608040201, 'cmc': 3.109375, 'ramp': 6, 'draw': 8, 'interaction': 7}
+{'overall': 4.49321608040201, 'cmc': 3.109375, 'ramp': 6, 'draw': 8, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'BartolomédelPresidio.txt'}

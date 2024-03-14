@@ -62,4 +62,4 @@
 1 Wondrous Crucible
 1 Turn Aside
 1 Warchanter of Mogis
-{'overall': 3.674390243902439, 'cmc': 3.203125, 'ramp': 2, 'draw': 9, 'interaction': 6}
+{'overall': 3.674390243902439, 'cmc': 3.203125, 'ramp': 2, 'draw': 9, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TheEverChangingDane.txt'}

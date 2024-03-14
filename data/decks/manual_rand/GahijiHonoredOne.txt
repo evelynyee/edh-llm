@@ -62,4 +62,4 @@
 1 Voice of the Vermin
 1 Vildin-Pack Outcast // Dronepack Kindred
 1 Two-Handed Axe // Sweeping Cleave
-{'overall': 1.8676470588235294, 'cmc': 3.238095238095238, 'ramp': 2, 'draw': 1, 'interaction': 10}
+{'overall': 1.8676470588235294, 'cmc': 3.238095238095238, 'ramp': 2, 'draw': 1, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}

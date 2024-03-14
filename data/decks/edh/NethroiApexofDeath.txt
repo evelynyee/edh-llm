@@ -62,4 +62,4 @@
 1 World Shaper
 1 Rampant Growth
 1 Cubwarden
-{'overall': 4.777536231884057, 'cmc': 2.15625, 'ramp': 11, 'draw': 3, 'interaction': 7}
+{'overall': 4.777536231884057, 'cmc': 2.15625, 'ramp': 11, 'draw': 3, 'interaction': 7, 'folder': 'edh', 'commander': 'NethroiApexofDeath.txt'}

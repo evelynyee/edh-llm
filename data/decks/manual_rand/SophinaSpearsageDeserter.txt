@@ -1,65 +1,65 @@
 1 Sophina, Spearsage Deserter
+1 Varchild, Betrayer of Kjeldor
+1 Voice of Duty
+1 Visions of Ruin
+1 Sunspire Gatekeepers
+1 Vulshok Factory
 1 Vigilant Martyr
-1 Tithe Taker
-1 Spiteful Banditry
-1 Umbilicus
-1 Sunseed Nurturer
-1 Tormod's Crypt
-1 Virtue of Courage // Embereth Blaze
-1 Voldaren Thrillseeker
-1 Tethered Griffin
-1 Thopter Assembly
-1 Touch the Spirit Realm
-1 Urbis Protector
-1 Summon the School
-1 Supply Caravan
-1 Sliversmith
-1 Veteran Soldier
-1 Tiller of Flesh
-1 Ugin's Mastery
-1 Universal Solvent
-1 Take Vengeance
-1 Wandering Champion
-1 The Night of the Doctor
-1 Toralf, God of Fury // Toralf's Hammer
-1 Viashino Heretic
-1 Thraben Sentry // Thraben Militia
-1 Treasure Map // Treasure Cove
-1 Voice of Grace
-1 Valiant Rescuer
-1 Wurmcoil Engine
-1 War of the Last Alliance
-1 Sunhome Guildmage
-1 Volcanic Offering
-1 Vile Aggregate
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Transmogrifying Licid
-1 Voltaic Construct
-1 Volatile Arsonist // Dire-Strain Anarchist
-1 Thatcher Revolt
-1 Thopter Shop
-1 Vampires' Vengeance
-1 Swarming of Moria
-1 Thopter Arrest
-1 The Tabernacle at Pendrell Vale
-1 Wojek Bodyguard
-1 Red Elemental Blast
-1 Wayward Guide-Beast
-1 Teyo, the Shieldmage
-1 The Battle of Bywater
-1 Vizier of Deferment
-1 Spawning Bed
-1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 There and Back Again
-1 Waylay
-1 Tibalt, Rakish Instigator
-1 War Room
-1 Viashino Sandstalker
-1 Witch's Oven
-1 Tibalt, the Fiend-Blooded
-1 Sparkspitter
-1 Warcry Phoenix
+1 Sigarda's Imprisonment
+1 Synod Centurion
+1 Stuffed Bear
+1 Spectral Procession
+1 The Birth of Meletis
+1 Surestrike Trident
+1 Thopter Squadron
+1 Stone Retrieval Unit
+1 Whalebone Glider
+1 Unforge
 1 Vithian Stinger
-1 Thraben Doomsayer
-1 Three Blind Mice
-{'overall': 5.753846153846154, 'cmc': 3.0588235294117645, 'ramp': '4', 'draw': '13', 'interaction': 17, 'folder': 'manual_rand', 'commander': 'SophinaSpearsageDeserter.txt'}tion': 17, 'folder': 'manual_rand', 'commander': 'SophinaSpearsageDeserter.txt'}
+1 Structural Distortion
+1 Unfinished Business
+1 Sword of Hearth and Home
+1 Summon the School
+1 Sunbeam Spellbomb
+1 Survey the Wreckage
+1 Throne of Bone
+1 Wurmcoil Engine
+1 Vampires' Vengeance
+1 Wear // Tear
+1 Vanguard of Brimaz
+1 Wall of Reverence
+1 Ugin's Construct
+1 Sunbond
+1 The Girl in the Fireplace
+1 White Sun's Twilight
+1 Summoning Station
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Windborn Muse
+1 Windshaper Planetar
+1 Song of the Worldsoul
+1 Urza's Workshop
+1 Strandwalker
+1 Zhalfirin Decoy
+1 Thorncaster Sliver
+1 Sticky Fingers
+1 Whipgrass Entangler
+1 Spirit Summoning
+1 Worry Beads
+1 Wolf of Devil's Breach
+1 Team Pennant
+1 Tithe Taker
+1 Sunder the Gateway
+1 Storm Herd
+1 Utvara Hellkite
+1 Slagstone Refinery
+1 Thraben Sentry // Thraben Militia
+1 Yotian Frontliner
+1 Young Red Dragon // Bathe in Gold
+1 Undead Slayer
+1 Visionary Augmenter
+1 Warehouse Thief
+1 Zephyrim
+1 Veteran's Armaments
+1 You See a Pair of Goblins
+{'overall': 5.268888888888889, 'cmc': 3.515625, 'ramp': 8, 'draw': 9, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'SophinaSpearsageDeserter.txt'}

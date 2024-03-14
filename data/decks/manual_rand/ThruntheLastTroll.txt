@@ -1,65 +1,65 @@
 1 Thrun, the Last Troll
-1 Wall of Spears
-1 Valeron Wardens
-1 Tapestry of the Ages
-1 Silhana Ledgewalker
-1 Tower of the Magistrate
-1 Twinning Glass
-1 Skyscythe Engulfer
-1 Viridescent Wisps
-1 Witness of the Ages
-1 Tooth of Chiss-Goria
-1 Tornado
-1 Verdant Command
-1 Twinblade Slasher
-1 Ward of Bones
-1 Sylvan Safekeeper
-1 Wolfkin Outcast // Wedding Crasher
-1 Territorial Witchstalker
-1 Zenith Chronicler
-1 Wilderness Reclamation
-1 Wily Bandar
-1 Woodcutter's Grit
-1 Vedalken Orrery
-1 Tanuki Transplanter
-1 Veteran's Armaments
-1 The Irencrag
-1 Strionic Resonator
-1 Worldslayer
-1 Touchstone
-1 Urza's Engine
-1 Wolfhunter's Quiver
-1 Shifting Ceratops
-1 Wall of Pine Needles
-1 Steel Leaf Champion
-1 Woodcaller Automaton
-1 Whisperer of the Wilds
-1 Ulvenwald Mystics // Ulvenwald Primordials
-1 Tel-Jilad Archers
-1 Spirespine
-1 Wildwood Geist
-1 Verdant Field
-1 Tawnos's Wand
-1 Willow Priestess
-1 Wooden Stake
+1 Zoetic Cavern
+1 Green Sun's Zenith
+1 Vectis Gloves
+1 Welcome to . . . // Jurassic Park
 1 Llanowar Elves
-1 Vine Mare
-1 Well of Lost Dreams
-1 Vizier of the Menagerie
-1 Sylvan Basilisk
-1 Twigwalker
-1 Toxicrene
-1 Verdant Haven
+1 Thornbite Staff
+1 Urza's Chalice
+1 Champion of Lambholt
+1 Thespian's Stage
+1 Skyblinder Staff
+1 Treetop Defense
+1 Weatherlight Compleated
+1 Zhulodok, Void Gorger
+1 Wall of Tanglecord
+1 War Historian
+1 Undercity Upheaval
+1 Vernal Bloom
+1 Zendikar Farguide
+1 Stonewood Invocation
+1 Taunting Arbormage
+1 Valeron Wardens
+1 Vines of Vastwood
+1 Wardscale Crocodile
+1 Wirewood Pride
+1 Zodiac Tiger
 1 Trollhide
-1 Tangle Spider
-1 Yavimaya Ancients
-1 Windswift Slice
-1 Skysnare Spider
-1 Vitalize
-1 Woodcloaker
-1 War Chariot
-1 Zodiac Horse
-1 Tower Defense
-1 Tel-Jilad Defiance
-1 Urza's Incubator
-{'overall': 4.278723404255319, 'cmc': 3.4558823529411766, 'ramp': '6', 'draw': '8', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}nteraction': 4, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}
+1 Sprouting Phytohydra
+1 Spike-Tailed Ceratops
+1 Villagers of Estwald // Howlpack of Estwald
+1 Trip Noose
+1 Sol Ring
+1 Yew Spirit
+1 Tlincalli Hunter // Retrieve Prey
+1 Verdant Field
+1 Thornscape Familiar
+1 Suspicious Bookcase
+1 Crop Rotation
+1 Stone Calendar
+1 Yavimaya Ants
+1 Tapestry of the Ages
+1 Well of Lost Dreams
+1 Wild Might
+1 Unerring Sling
+1 Skyway Sniper
+1 Sphere of Resistance
+1 Voltaic Construct
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Vine Dryad
+1 Vine Trellis
+1 Wandering Wolf
+1 Taunting Challenge
+1 Traproot Kami
+1 Skarrgan Pit-Skulk
+1 Wolfwillow Haven
+1 Vastwood Animist
+1 Vine Mare
+1 Winter Blast
+1 Tel-Jilad Archers
+1 Wall of Mulch
+1 Wild Beastmaster
+1 Wyluli Wolf
+1 Steel Leaf Champion
+1 Venomous Dragonfly
+{'overall': 3.9956521739130433, 'cmc': 2.875, 'ramp': 6, 'draw': 6, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'ThruntheLastTroll.txt'}

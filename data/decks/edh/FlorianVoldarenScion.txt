@@ -62,4 +62,4 @@
 1 Descent into Avernus
 1 Pyromancer Ascension
 1 Graven Cairns
-{'overall': 7.732258064516129, 'cmc': 1.9375, 'ramp': 15, 'draw': 10, 'interaction': 9}
+{'overall': 7.732258064516129, 'cmc': 1.9375, 'ramp': 15, 'draw': 10, 'interaction': 9, 'folder': 'edh', 'commander': 'FlorianVoldarenScion.txt'}

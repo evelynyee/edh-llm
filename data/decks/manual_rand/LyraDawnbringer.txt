@@ -62,4 +62,4 @@
 1 Trained Caracal
 1 Yotian Soldier
 1 Twilight Drover
-{'overall': 1.3814285714285712, 'cmc': 2.734375, 'ramp': 0, 'draw': 2, 'interaction': 3}
+{'overall': 1.3814285714285712, 'cmc': 2.734375, 'ramp': 0, 'draw': 2, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'LyraDawnbringer.txt'}

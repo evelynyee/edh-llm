@@ -62,4 +62,4 @@
 1 Tolsimir Wolfblood
 1 Wu Admiral
 1 Towashi Songshaper
-{'overall': 2.426865671641791, 'cmc': 3.1904761904761907, 'ramp': 3, 'draw': 3, 'interaction': 6}
+{'overall': 2.426865671641791, 'cmc': 3.1904761904761907, 'ramp': 3, 'draw': 3, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}

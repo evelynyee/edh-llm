@@ -62,4 +62,4 @@
 1 Prism Ring
 1 Angel's Feather
 1 Lightning Greaves
-{'overall': 6.619101123595506, 'cmc': 2.78125, 'ramp': 8, 'draw': 14, 'interaction': 8}
+{'overall': 6.619101123595506, 'cmc': 2.78125, 'ramp': 8, 'draw': 14, 'interaction': 8, 'folder': 'edh', 'commander': 'RegnatheRedeemer.txt'}

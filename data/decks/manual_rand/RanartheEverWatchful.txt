@@ -62,4 +62,4 @@
 1 Thopter Mechanic
 1 Trait Doctoring
 1 Warden of Evos Isle
-{'overall': 6.90093896713615, 'cmc': 3.328125, 'ramp': 5, 'draw': 18, 'interaction': 11}
+{'overall': 6.90093896713615, 'cmc': 3.328125, 'ramp': 5, 'draw': 18, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'RanartheEverWatchful.txt'}

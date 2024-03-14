@@ -62,4 +62,4 @@
 1 Zombie Boa
 1 Treacherous Pit-Dweller
 1 Vicious Betrayal
-{'overall': 5.35093896713615, 'cmc': 3.328125, 'ramp': 8, 'draw': 10, 'interaction': 5}
+{'overall': 5.35093896713615, 'cmc': 3.328125, 'ramp': 8, 'draw': 10, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'PippinWardenofIsengard.txt'}

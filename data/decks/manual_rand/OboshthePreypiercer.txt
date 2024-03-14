@@ -62,4 +62,4 @@
 1 Tombstalker
 1 Vat Emergence
 1 Yawgmoth's Edict
-{'overall': 5.023991031390135, 'cmc': 3.484375, 'ramp': 4, 'draw': 11, 'interaction': 14}
+{'overall': 5.023991031390135, 'cmc': 3.484375, 'ramp': 4, 'draw': 11, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'OboshthePreypiercer.txt'}

@@ -62,4 +62,4 @@
 1 Unesh, Criosphinx Sovereign
 1 Zndrsplt, Eye of Wisdom
 1 Wary Thespian
-{'overall': 11.501724137931033, 'cmc': 3.625, 'ramp': 13, 'draw': 30, 'interaction': 4}
+{'overall': 11.501724137931033, 'cmc': 3.625, 'ramp': 13, 'draw': 30, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GretchenTitchwillow.txt'}

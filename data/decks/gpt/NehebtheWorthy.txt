@@ -62,4 +62,4 @@
 1 Unlicensed Disintegration
 1 Wheel of Misfortune
 1 Valakut Awakening // Valakut Stoneforge
-{'overall': 6.496766169154228, 'cmc': 3.0923076923076924, 'ramp': '7', 'draw': '13', 'interaction': 17, 'folder': 'gpt', 'commander': 'NehebtheWorthy.txt'}btheWorthy.txt'}
+{'overall': 6.489999999999999, 'cmc': 3.125, 'ramp': 7, 'draw': 13, 'interaction': 17}

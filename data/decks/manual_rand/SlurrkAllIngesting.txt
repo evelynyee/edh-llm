@@ -62,4 +62,4 @@
 1 Untamed Kavu
 1 Trusted Forcemage
 1 Servant of the Scale
-{'overall': 5.165384615384615, 'cmc': 3.25, 'ramp': 5, 'draw': 13, 'interaction': 1}
+{'overall': 5.165384615384615, 'cmc': 3.25, 'ramp': 5, 'draw': 13, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'SlurrkAllIngesting.txt'}

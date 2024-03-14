@@ -62,4 +62,4 @@
 1 Talent of the Telepath
 1 Windfall
 1 Trenzalore Clocktower
-{'overall': 8.817647058823528, 'cmc': 3.238095238095238, 'ramp': 8, 'draw': 24, 'interaction': 4}
+{'overall': 8.817647058823528, 'cmc': 3.238095238095238, 'ramp': 8, 'draw': 24, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'HisokaMinamoSensei.txt'}

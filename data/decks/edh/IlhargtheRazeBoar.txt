@@ -62,4 +62,4 @@
 1 Mirror March
 1 Blightsteel Colossus
 1 Inferno Titan
-{'overall': 7.355516014234876, 'cmc': 4.390625, 'ramp': 15, 'draw': 11, 'interaction': 8}
+{'overall': 7.355516014234876, 'cmc': 4.390625, 'ramp': 15, 'draw': 11, 'interaction': 8, 'folder': 'edh', 'commander': 'IlhargtheRazeBoar.txt'}

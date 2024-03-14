@@ -62,4 +62,4 @@
 1 Fertile Ground
 1 Nessian Wanderer
 1 Hunter's Prowess
-{'overall': 9.019101123595506, 'cmc': 2.78125, 'ramp': 14, 'draw': 18, 'interaction': 6}
+{'overall': 9.019101123595506, 'cmc': 2.78125, 'ramp': 14, 'draw': 18, 'interaction': 6, 'folder': 'edh', 'commander': 'AutumnWillow.txt'}

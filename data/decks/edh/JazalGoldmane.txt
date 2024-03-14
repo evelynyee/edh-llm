@@ -62,4 +62,4 @@
 1 Swiftfoot Boots
 1 Intangible Virtue
 1 Nykthos, Shrine to Nyx
-{'overall': 5.820157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 9, 'interaction': 8}
+{'overall': 5.820157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 9, 'interaction': 8, 'folder': 'edh', 'commander': 'JazalGoldmane.txt'}

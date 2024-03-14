@@ -62,4 +62,4 @@
 1 Vandalblast
 1 Foreboding Ruins
 1 Frontline Devastator
-{'overall': 4.916467065868264, 'cmc': 2.609375, 'ramp': 8, 'draw': 7, 'interaction': 8}
+{'overall': 4.916467065868264, 'cmc': 2.609375, 'ramp': 8, 'draw': 7, 'interaction': 8, 'folder': 'edh', 'commander': 'NehebtheWorthy.txt'}

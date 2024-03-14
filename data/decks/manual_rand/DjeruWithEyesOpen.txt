@@ -62,4 +62,4 @@
 1 Wave of Reckoning
 1 World Queller
 1 Swashbuckler's Whip
-{'overall': 5.365083798882682, 'cmc': 2.796875, 'ramp': 4, 'draw': 12, 'interaction': 13}
+{'overall': 5.365083798882682, 'cmc': 2.796875, 'ramp': 4, 'draw': 12, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'DjeruWithEyesOpen.txt'}

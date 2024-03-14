@@ -62,4 +62,4 @@
 1 Thraben Exorcism
 1 Thousand Moons Smithy // Barracks of the Thousand
 1 Touch the Spirit Realm
-{'overall': 2.261904761904762, 'cmc': 2.625, 'ramp': 2, 'draw': 1, 'interaction': 15}
+{'overall': 2.261904761904762, 'cmc': 2.625, 'ramp': 2, 'draw': 1, 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}

@@ -62,4 +62,4 @@
 1 Thornbite Staff
 1 Tarox Bladewing
 1 Valakut Exploration
-{'overall': 4.200847457627119, 'cmc': 3.6307692307692307, 'ramp': '6', 'draw': '6', 'interaction': 13, 'folder': 'gpt', 'commander': 'HeikoYamazakitheGeneral.txt'}YamazakitheGeneral.txt'}
+{'overall': 3.9470085470085468, 'cmc': 3.65625, 'ramp': 5, 'draw': 6, 'interaction': 13}

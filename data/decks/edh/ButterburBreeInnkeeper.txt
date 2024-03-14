@@ -62,4 +62,4 @@
 1 Fae Offering
 1 Of Herbs and Stewed Rabbit
 1 Parallel Lives
-{'overall': 7.436601307189542, 'cmc': 2.390625, 'ramp': 15, 'draw': 10, 'interaction': 7}
+{'overall': 7.436601307189542, 'cmc': 2.390625, 'ramp': 15, 'draw': 10, 'interaction': 7, 'folder': 'edh', 'commander': 'ButterburBreeInnkeeper.txt'}

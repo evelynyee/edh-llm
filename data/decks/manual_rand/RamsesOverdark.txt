@@ -62,4 +62,4 @@
 1 Unholy Strength
 1 Trailblazer's Boots
 1 Veteran's Sidearm
-{'overall': 2.7150837988826817, 'cmc': 2.796875, 'ramp': 2, 'draw': 4, 'interaction': 10}
+{'overall': 2.7150837988826817, 'cmc': 2.796875, 'ramp': 2, 'draw': 4, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'RamsesOverdark.txt'}

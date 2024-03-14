@@ -62,4 +62,4 @@
 1 Adeline, Resplendent Cathar
 1 Gimli of the Glittering Caves
 1 Ragavan, Nimble Pilferer
-{'overall': 6.041176470588235, 'cmc': 2.125, 'ramp': 7, 'draw': 12, 'interaction': 7}
+{'overall': 6.041176470588235, 'cmc': 2.125, 'ramp': 7, 'draw': 12, 'interaction': 7, 'folder': 'edh', 'commander': 'MerryEsquireofRohan.txt'}

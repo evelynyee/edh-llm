@@ -62,4 +62,4 @@
 1 Bear Umbra
 1 Stuffy Doll
 1 Heroic Intervention
-{'overall': 7.438888888888889, 'cmc': 2.25, 'ramp': 12, 'draw': 13, 'interaction': 6}
+{'overall': 7.438888888888889, 'cmc': 2.25, 'ramp': 12, 'draw': 13, 'interaction': 6, 'folder': 'edh', 'commander': 'LegolasMasterArcher.txt'}

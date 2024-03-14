@@ -62,4 +62,4 @@
 1 Tower of the Magistrate
 1 Soltari Lancer
 1 Thalia's Geistcaller
-{'overall': 0.7736842105263158, 'cmc': 2.96875, 'ramp': 0, 'draw': 0, 'interaction': 2}
+{'overall': 0.7736842105263158, 'cmc': 2.96875, 'ramp': 0, 'draw': 0, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}

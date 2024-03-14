@@ -62,4 +62,4 @@
 1 Loyal Warhound
 1 Thalia's Lancers
 1 Vanquish the Horde
-{'overall': 8.195348837209302, 'cmc': 3.359375, 'ramp': 12, 'draw': 15, 'interaction': 17}
+{'overall': 8.195348837209302, 'cmc': 3.359375, 'ramp': 12, 'draw': 15, 'interaction': 17, 'folder': 'edh', 'commander': 'DjeruWithEyesOpen.txt'}

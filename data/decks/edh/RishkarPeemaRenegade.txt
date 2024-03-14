@@ -62,4 +62,4 @@
 1 Reliquary Tower
 1 The Ozolith
 1 Harvest Season
-{'overall': 8.320157068062828, 'cmc': 2.984375, 'ramp': 17, 'draw': 13, 'interaction': 3}
+{'overall': 8.320157068062828, 'cmc': 2.984375, 'ramp': 17, 'draw': 13, 'interaction': 3, 'folder': 'edh', 'commander': 'RishkarPeemaRenegade.txt'}

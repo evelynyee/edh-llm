@@ -62,4 +62,4 @@
 1 Thornbite Staff
 1 Sakura-Tribe Elder
 1 Generous Patron
-{'overall': 7.470512820512821, 'cmc': 2.4375, 'ramp': 12, 'draw': 11, 'interaction': 18}
+{'overall': 7.470512820512821, 'cmc': 2.4375, 'ramp': 12, 'draw': 11, 'interaction': 18, 'folder': 'edh', 'commander': 'ChevillBaneofMonsters.txt'}

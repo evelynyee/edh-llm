@@ -62,4 +62,4 @@
 1 Bane's Contingency
 1 Wavebreak Hippocamp
 1 Caged Sun
-{'overall': 8.945652173913043, 'cmc': 2.875, 'ramp': 7, 'draw': 21, 'interaction': 25}
+{'overall': 8.945652173913043, 'cmc': 2.875, 'ramp': 7, 'draw': 21, 'interaction': 25, 'folder': 'edh', 'commander': 'ErtaiWizardAdept.txt'}

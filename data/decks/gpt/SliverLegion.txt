@@ -62,4 +62,4 @@
 1 Workhorse
 1 Yellow Scarves Cavalry
 1 Viridian Corrupter
-{'overall': 2.9593220338983053, 'cmc': 3.5757575757575757, 'ramp': '4', 'draw': '4', 'interaction': 8, 'folder': 'gpt', 'commander': 'SliverLegion.txt'}r': 'gpt', 'commander': 'SliverLegion.txt'}
+{'overall': 2.7065217391304346, 'cmc': 3.59375, 'ramp': 4, 'draw': 3, 'interaction': 8}

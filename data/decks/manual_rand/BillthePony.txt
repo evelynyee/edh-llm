@@ -62,4 +62,4 @@
 1 Sheer Drop
 1 The Moment
 1 Solemn Offering
-{'overall': 2.977450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 3, 'interaction': 12}
+{'overall': 2.977450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 3, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'BillthePony.txt'}

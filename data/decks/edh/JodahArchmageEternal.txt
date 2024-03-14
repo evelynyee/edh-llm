@@ -62,4 +62,4 @@
 1 Rhystic Study
 1 Zagoth Triome
 1 Terramorphic Expanse
-{'overall': 8.189861751152074, 'cmc': 3.390625, 'ramp': 19, 'draw': 10, 'interaction': 7}
+{'overall': 8.189861751152074, 'cmc': 3.390625, 'ramp': 19, 'draw': 10, 'interaction': 7, 'folder': 'edh', 'commander': 'JodahArchmageEternal.txt'}

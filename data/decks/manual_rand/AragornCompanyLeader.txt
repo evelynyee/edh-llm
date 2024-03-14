@@ -62,3 +62,4 @@
 1 Wild Shape
 1 Twinblade Slasher
 1 Utopia Mycon
+{'overall': 3.091891891891892, 'cmc': 2.890625, 'ramp': 3, 'draw': 5, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'AragornCompanyLeader.txt'}

@@ -62,4 +62,4 @@
 1 Whiplash Trap
 1 Vitality Hunter
 1 Wedding Ring
-{'overall': 4.97135922330097, 'cmc': 3.21875, 'ramp': 4, 'draw': 12, 'interaction': 7}
+{'overall': 4.97135922330097, 'cmc': 3.21875, 'ramp': 4, 'draw': 12, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'FaramirStewardofGondor.txt'}

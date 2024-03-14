@@ -62,4 +62,4 @@
 1 Venerable Knight
 1 Soul Warden
 1 Spirit Link
-{'overall': 3.727248677248677, 'cmc': 2.953125, 'ramp': 3, 'draw': 7, 'interaction': 11}
+{'overall': 3.727248677248677, 'cmc': 2.953125, 'ramp': 3, 'draw': 7, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'ElasilKorSadisticPilgrim.txt'}

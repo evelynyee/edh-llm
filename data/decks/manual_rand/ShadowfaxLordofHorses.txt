@@ -1,65 +1,65 @@
 1 Shadowfax, Lord of Horses
-1 Virtue of Courage // Embereth Blaze
-1 Wild Evocation
-1 Wandering Graybeard
-1 Through the Breach
-1 Velomachus Lorehold
-1 Thraben Sentry // Thraben Militia
-1 Vance's Blasting Cannons // Spitfire Bastion
-1 Zektar Shrine Expedition
-1 Vicious Shadows
-1 Zamriel, Seraph of Steel
-1 Surprise Deployment
-1 Wild Celebrants
-1 Tethmos High Priest
-1 Éomer, King of Rohan
-1 Tuktuk Scrapper
-1 Suture Priest
-1 Warbeast of Gorgoroth
-1 Two-Handed Axe // Sweeping Cleave
-1 Vessel of Endless Rest
-1 Vulshok Battlegear
+1 Vigilant Sentry
+1 Zealous Conscripts
+1 Spirit Loop
 1 Ulamog, the Infinite Gyre
-1 Zirda, the Dawnwaker
-1 Venerable Warsinger
-1 Varchild, Betrayer of Kjeldor
-1 Turret Ogre
-1 Surveyor's Scope
-1 Twinflame
-1 Sword of the Animist
-1 Tomakul Scrapsmith
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Vedalken Shackles
-1 Wayward Guide-Beast
-1 Triassic Egg
-1 You're Ambushed on the Road
-1 Viashino Cutthroat
-1 Wooded Foothills
-1 Spellbook Vendor
-1 The Wandering Emperor
+1 Swords to Plowshares
+1 The Princess Takes Flight
+1 Weatherlight Compleated
+1 Swiftgear Drake
+1 Swords to Plowshares
 1 Thieves' Auction
-1 Zirilan of the Claw
-1 Zodiac Dragon
-1 Stronghold Gambit
-1 Slab Hammer
-1 Wall of Reverence
-1 War-Trained Slasher
-1 Stasis Snare
-1 Sokenzan Renegade
-1 Mind Stone
-1 Stonebinder's Familiar
-1 Stockpiling Celebrant
-1 Éowyn, Fearless Knight
-1 Winnow
-1 Teferi's Protection
-1 Viashino Sandstalker
-1 Walking Skyscraper
-1 Zealots en-Dal
-1 The Fall of Lord Konda // Fragment of Konda
-1 Thraben Sentry // Thraben Militia
+1 Wojek Bodyguard
+1 Viashino Sandscout
+1 Trynn, Champion of Freedom
+1 Sword of Kaldra
+1 Thalia's Lancers
+1 Volcanic Offering
+1 Sword-Swallowing Seraph
+1 Windswept Heath
+1 Viridian Longbow
+1 Suspension Field
+1 Tomakul Scrapsmith
+1 Wandering Champion
+1 Wake of Destruction
+1 Tilonalli's Skinshifter
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Tibalt, the Fiend-Blooded
+1 Witch Hunt
+1 Éomer of the Riddermark
+1 Sun Titan
+1 Tiger-Tribe Hunter
+1 Soul Nova
+1 Untethered Express
+1 Wildfire Awakener
 1 Viashino Sandsprinter
-1 Waves of Aggression
-1 Mana Vault
-1 Uphill Battle
-1 Trial of Solidarity
-{'overall': 4.486, 'cmc': 3.7313432835820897, 'ramp': '8', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ShadowfaxLordofHorses.txt'}ion': 9, 'folder': 'manual_rand', 'commander': 'ShadowfaxLordofHorses.txt'}
+1 Vigil for the Lost
+1 Tyrant's Familiar
+1 Subterranean Scout
+1 Tectonic Giant
+1 Varchild's War-Riders
+1 Tempt with Glory
+1 Taranika, Akroan Veteran
+1 Tegan Jovanka
+1 Undying Flames
+1 Treasure Nabber
+1 Tiana, Ship's Caretaker
+1 Yomiji, Who Bars the Way
+1 Wings of Hubris
+1 _____ Balls of Fire
+1 Stalking Yeti
+1 White Plume Adventurer
+1 Surly Badgersaur
+1 Vile Aggregate
+1 Teroh's Vanguard
+1 Tavern Brawler
+1 Thaumatic Compass // Spires of Orazca
+1 Venerable Warsinger
+1 Supply Runners
+1 Well of Discovery
+1 Vesperlark
+1 Twilight Shepherd
+1 Tori D'Avenant, Fury Rider
+1 Wear // Tear
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+{'overall': 3.906024096385542, 'cmc': 3.9523809523809526, 'ramp': 2, 'draw': 9, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'ShadowfaxLordofHorses.txt'}

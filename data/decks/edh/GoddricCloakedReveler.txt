@@ -62,4 +62,4 @@
 1 Curse of Opulence
 1 Pain Distributor
 1 Nesting Dragon
-{'overall': 11.14, 'cmc': 3.125, 'ramp': 29, 'draw': 11, 'interaction': 10}
+{'overall': 11.14, 'cmc': 3.125, 'ramp': 29, 'draw': 11, 'interaction': 10, 'folder': 'edh', 'commander': 'GoddricCloakedReveler.txt'}

@@ -62,4 +62,4 @@
 1 Tooth Collector
 1 Scrapyard Recombiner
 1 Witches' Eye
-{'overall': 5.618357487922705, 'cmc': 3.234375, 'ramp': '7', 'draw': '9', 'interaction': 20, 'folder': 'gpt', 'commander': 'TaboraxHopesDemise.txt'}
+{'overall': 5.618357487922705, 'cmc': 3.234375, 'ramp': 7, 'draw': 9, 'interaction': 20}

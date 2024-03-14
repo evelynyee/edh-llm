@@ -62,4 +62,4 @@
 1 Treason of Isengard
 1 Wizard's Rockets
 1 Time Stretch
-{'overall': 8.31140350877193, 'cmc': 3.5625, 'ramp': 3, 'draw': 27, 'interaction': 5}
+{'overall': 8.31140350877193, 'cmc': 3.5625, 'ramp': 3, 'draw': 27, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OrmosArchiveKeeper.txt'}
