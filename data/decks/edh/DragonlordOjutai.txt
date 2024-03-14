@@ -61,4 +61,5 @@
 1 Teferi's Protection
 1 Wayfarer's Bauble
 1 Ponder
-{'overall': 7.836206896551724, 'cmc': 1.8412698412698412, 'ramp': '10', 'draw': '15', 'interaction': 10, 'folder': 'edh', 'commander': 'DragonlordOjutai.txt'}
+1 Myriad Landscape
+{'overall': 7.853448275862069, 'cmc': 1.8125, 'ramp': 10, 'draw': 15, 'interaction': 10}

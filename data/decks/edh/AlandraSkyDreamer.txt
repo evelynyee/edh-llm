@@ -61,4 +61,5 @@
 1 Sea Gate Restoration
 1 Swiftfoot Boots
 1 Behold the Multiverse
-{'overall': 13.473006134969324, 'cmc': 2.5873015873015874, 'ramp': '10', 'draw': '39', 'interaction': 9, 'folder': 'edh', 'commander': 'AlandraSkyDreamer.txt'}
+1 Treasure Cruise
+{'overall': 13.698538011695906, 'cmc': 2.671875, 'ramp': 10, 'draw': 40, 'interaction': 9}

@@ -61,4 +61,5 @@
 1 Mirari's Wake
 1 Ulvenwald Observer
 1 Hangarback Walker
-{'overall': 7.216129032258064, 'cmc': 1.9682539682539681, 'ramp': '15', 'draw': '9', 'interaction': 4, 'folder': 'edh', 'commander': 'ColfenortheLastYew.txt'}
+1 Llanowar Wastes
+{'overall': 7.232258064516129, 'cmc': 1.9375, 'ramp': 15, 'draw': 9, 'interaction': 4}

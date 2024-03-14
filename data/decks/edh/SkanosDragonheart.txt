@@ -61,4 +61,5 @@
 1 Bonders' Enclave
 1 War Room
 1 Mind Stone
-{'overall': 11.002631578947367, 'cmc': 3.619047619047619, 'ramp': '23', 'draw': '18', 'interaction': 4, 'folder': 'edh', 'commander': 'SkanosDragonheart.txt'}
+1 Arcane Signet
+{'overall': 11.256521739130434, 'cmc': 3.59375, 'ramp': 24, 'draw': 18, 'interaction': 4}

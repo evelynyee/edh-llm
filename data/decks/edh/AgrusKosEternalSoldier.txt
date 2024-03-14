@@ -61,4 +61,5 @@
 1 Oketra's Monument
 1 Skrelv, Defector Mite
 1 Assemble the Legion
-{'overall': 5.178947368421053, 'cmc': 2.4126984126984126, 'ramp': '10', 'draw': '6', 'interaction': 7, 'folder': 'edh', 'commander': 'AgrusKosEternalSoldier.txt'}
+1 Exotic Orchard
+{'overall': 5.192105263157894, 'cmc': 2.375, 'ramp': 10, 'draw': 6, 'interaction': 7}

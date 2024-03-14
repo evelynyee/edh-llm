@@ -61,4 +61,5 @@
 1 Thunderbreak Regent
 1 Rockfall Vale
 1 Blasphemous Act
-{'overall': 7.3826086956521735, 'cmc': 2.5555555555555554, 'ramp': '17', 'draw': '8', 'interaction': 7, 'folder': 'edh', 'commander': 'WasitoraNekoruQueen.txt'}
+1 Rakdos Signet
+{'overall': 7.6352760736196315, 'cmc': 2.546875, 'ramp': 18, 'draw': 8, 'interaction': 7}

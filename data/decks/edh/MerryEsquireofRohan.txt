@@ -61,4 +61,5 @@
 1 Open the Armory
 1 Adeline, Resplendent Cathar
 1 Gimli of the Glittering Caves
-{'overall': 5.533333333333333, 'cmc': 2.142857142857143, 'ramp': '6', 'draw': '11', 'interaction': 7, 'folder': 'edh', 'commander': 'MerryEsquireofRohan.txt'}
+1 Ragavan, Nimble Pilferer
+{'overall': 6.041176470588235, 'cmc': 2.125, 'ramp': 7, 'draw': 12, 'interaction': 7}

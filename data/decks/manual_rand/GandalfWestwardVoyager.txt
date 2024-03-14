@@ -1,65 +1,65 @@
 1 Gandalf, Westward Voyager
-1 Words of Wilding
-1 Twinning Staff
-1 Trophy Mage
-1 Venser's Journal
-1 Yeva, Nature's Herald
-1 Mana Vault
-1 Winged Words
-1 The Enigma Jewel // Locus of Enlightenment
-1 Surge of Brilliance
-1 Traverse the Ulvenwald
-1 Trail of Evidence
-1 Vilespawn Spider
+1 Urza's Tome
+1 Vexing Scuttler
 1 Thran Tome
-1 Sol Ring
-1 Tales of the Ancestors
-1 Time Lord Regeneration
-1 Tormod's Crypt
-1 Windswept Heath
-1 Urza's Incubator
-1 Volatile Fault
-1 Wave of Vitriol
-1 Thwart
-1 Veteran Adventurer
-1 War-Wing Siren
-1 Synthesis Pod
-1 Rampant Growth
-1 Turn into a Pumpkin
-1 Sudden Insight
-1 Tidal Terror
-1 Trait Doctoring
-1 Thought Prison
-1 Zoologist
-1 Timin, Youthful Geist
-1 Wavecrash Triton
-1 Telekinetic Bonds
-1 Wren's Run Vanquisher
-1 Unblinking Observer
-1 Thought Scour
-1 Thunderherd Migration
+1 Winding Way
+1 Willbender
+1 Trickster Mage
+1 Yavimaya Sojourner
+1 Void Shatter
+1 Waterspout Elemental
+1 Whisperwood Elemental
+1 Twincast
+1 Wildwood Rebirth
+1 Young Blue Dragon // Sand Augury
+1 Yanling's Harbinger
+1 Windrider Wizard
+1 Sword of Once and Future
+1 Vanishment
+1 Voyage's End
+1 Vexing Arcanix
 1 Urban Evolution
-1 Vineshaper Prodigy
-1 Walk the Aeons
+1 Vivien's Grizzly
+1 Wizard's Spellbook
+1 Vivien's Invocation
+1 Turntimber Sower
 1 Tapping at the Window
-1 Tempest Hart // Scan the Clouds
-1 Trepanation Blade
-1 Zulaport Duelist
-1 Uncovered Clues
-1 Void Mirror
-1 Tempest Hart // Scan the Clouds
-1 Vivien's Talent
-1 Volrath's Laboratory
-1 Wurmcalling
-1 Wizened Snitches
+1 Voidwalk
+1 Zephyr Scribe
+1 Viridian Revel
+1 Wind-Kin Raiders
+1 Spitting Image
+1 Unsubstantiate
+1 Volo, Guide to Monsters
+1 The Fourth Doctor
 1 Stolen Goods
-1 Wrenn and Realmbreaker
-1 The Dragon-Kami Reborn // Dragon-Kami's Egg
+1 Ugin's Mastery
+1 Whirlwind Denial
+1 Tapestry of the Ages
+1 You Meet in a Tavern
+1 Vizier of the Menagerie
+1 Woodland Bellower
 1 Wandering Archaic // Explore the Vastlands
-1 Triassic Egg
-1 Winds of Rebuke
-1 Thousand-legged Kami
-1 Visions of Dominance
-1 Transplant Theorist
-1 Unravel the Aether
-{'overall': 10.017511520737328, 'cmc': 3.2388059701492535, 'ramp': '12', 'draw': '25', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'GandalfWestwardVoyager.txt'}teraction': 3, 'folder': 'manual_rand', 'commander': 'GandalfWestwardVoyager.txt'}
+1 Unlicensed Hearse
+1 Volrath's Laboratory
+1 Wanderguard Sentry
+1 Thassa's Intervention
+1 Wretched Gryff
+1 Vesuvan Shapeshifter
+1 Tooth and Nail
+1 Venerable Kumo
+1 The Everflowing Well // The Myriad Pools
+1 Stitched Drake
+1 Toymaker
+1 Wizard Class
+1 Time Reversal
+1 Virtue of Strength // Garenbrig Growth
+1 Vital Surge
+1 The Enigma Jewel // Locus of Enlightenment
+1 Thought Harvester
+1 Temporal Aperture
+1 Zahid, Djinn of the Lamp
+1 Tolarian Kraken
+1 Urza, Lord High Artificer
+1 Wheel of Torture
+{'overall': 7.438549618320611, 'cmc': 4.09375, 'ramp': 5, 'draw': 22, 'interaction': 4}

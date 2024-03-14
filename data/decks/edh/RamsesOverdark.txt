@@ -61,4 +61,5 @@
 1 Aura Finesse
 1 Solemn Simulacrum
 1 Thoughtrender Lamia
-{'overall': 5.383333333333334, 'cmc': 2.142857142857143, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'edh', 'commander': 'RamsesOverdark.txt'}
+1 Skull of Orm
+{'overall': 5.377536231884058, 'cmc': 2.15625, 'ramp': 6, 'draw': 11, 'interaction': 4}

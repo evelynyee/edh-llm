@@ -1,65 +1,65 @@
 1 Regna, the Redeemer
-1 Wizard's Rockets
-1 Tetravus
-1 Zhalfirin Decoy
-1 War Priest of Thune
-1 Union of the Third Path
-1 Weatherlight
-1 Zhulodok, Void Gorger
-1 Tragic Arrogance
-1 Three Blind Mice
-1 Verdant Catacombs
-1 Swashbuckler's Whip
-1 Spirit Cairn
-1 Wayfarer's Bauble
-1 The Biblioplex
-1 The Moment
-1 Vizier of Deferment
-1 Chromatic Lantern
-1 Zhalfirin Void
-1 Thopter Shop
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Thunderhawk Gunship
+1 The Ozolith
+1 Vedalken Shackles
+1 Seasoned Dungeoneer
+1 Transmogrifying Wand
+1 Tower of Fortunes
+1 Snow Hound
+1 Valiant Endeavor
+1 Wispmare
+1 Urza's Saga
+1 Tarrian's Soulcleaver
+1 Workshop Assistant
+1 Watchful Giant
+1 Twilight Drover
+1 Wondrous Crucible
+1 Voodoo Doll
+1 Triumphant Reckoning
+1 Witch's Oven
+1 Veteran of the Depths
+1 The Battle of Bywater
+1 Siege Veteran
+1 Worry Beads
+1 Wingmantle Chaplain
+1 Zephyrim
+1 Séance
+1 Timely Reinforcements
+1 Springjack Shepherd
+1 Thumbscrews
+1 Steelshaper Apprentice
 1 Whirlermaker
-1 Steel Dromedary
-1 Yomiji, Who Bars the Way
-1 Waylay
-1 Sword of the Animist
-1 Triumph of Saint Katherine
-1 Throne Warden
-1 Sudden Disappearance
-1 Storm of Souls
-1 Trash Bin
-1 Three Dreams
-1 Trostani's Judgment
-1 Tariff
-1 Swift Reconfiguration
-1 Ugin, the Ineffable
-1 Serra Avatar
+1 Tamiyo's Journal
+1 Whispergear Sneak
+1 Waxmane Baku
+1 Static Net
 1 Wall of Mourning
-1 The Gaffer
-1 Syndicate Messenger
-1 Stockpiling Celebrant
+1 Teferi's Protection
+1 Zhalfirin Decoy
+1 Unyaro Griffin
+1 Wingmate Roc
+1 Sword of the Ages
+1 Tethmos High Priest
+1 Spectral Reserves
+1 Vengeance
+1 Weapon Rack
+1 Ulamog, the Infinite Gyre
+1 Triskelavus
+1 Unified Front
+1 Sliversmith
+1 _____ _____ Rocketship
+1 Supply Caravan
+1 Sol Ring
+1 Treasure Vault
+1 The Restoration of Eiganjo // Architect of Restoration
 1 Treasure Chest
-1 Wooded Foothills
-1 The Restoration of Eiganjo // Architect of Restoration
-1 Touch the Spirit Realm
-1 Whirling Catapult
-1 White Sun's Twilight
-1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 The Restoration of Eiganjo // Architect of Restoration
-1 Thran Spider
-1 Servo Schematic
-1 The Deck of Many Things
-1 Tale of Tinúviel
-1 Windbrisk Heights
-1 Urza's Tome
-1 The Rack
-1 Voltaic Construct
-1 Tawnos's Coffin
-1 Wingrattle Scarecrow
-1 Whipcorder
-1 Scour the Desert
-1 Valiant Rescuer
-1 Trusty Packbeast
-1 Titan's Presence
-1 The Wandering Emperor
-{'overall': 7.216666666666667, 'cmc': 3.0, 'ramp': '4', 'draw': '20', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'RegnatheRedeemer.txt'}20', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'RegnatheRedeemer.txt'}
+1 Thaumatic Compass // Spires of Orazca
+1 True Love's Kiss
+1 Unfinished Business
+1 Wooden Sphere
+1 Well of Life
+1 Worthy Knight
+1 Thalia's Geistcaller
+1 Wand of Ith
+{'overall': 4.48781512605042, 'cmc': 3.71875, 'ramp': 5, 'draw': 9, 'interaction': 9}

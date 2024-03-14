@@ -61,4 +61,5 @@
 1 Kiki-Jiki, Mirror Breaker
 1 Heroic Intervention
 1 Temur Sabertooth
-{'overall': 6.138524590163935, 'cmc': 2.9047619047619047, 'ramp': '11', 'draw': '10', 'interaction': 4, 'folder': 'edh', 'commander': 'DeathleaperTerrorWeapon.txt'}
+1 Return of the Wildspeaker
+{'overall': 6.3808510638297875, 'cmc': 2.9375, 'ramp': 11, 'draw': 11, 'interaction': 4}

@@ -61,4 +61,5 @@
 1 Sakura-Tribe Elder
 1 Night's Whisper
 1 Three Visits
-{'overall': 6.623529411764705, 'cmc': 2.4285714285714284, 'ramp': '14', 'draw': '8', 'interaction': 6, 'folder': 'edh', 'commander': 'IkraShidiqitheUsurper.txt'}
+1 Demonic Tutor
+{'overall': 6.625806451612903, 'cmc': 2.421875, 'ramp': 14, 'draw': 8, 'interaction': 6}

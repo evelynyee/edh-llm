@@ -61,4 +61,5 @@
 1 Mind Stone
 1 Preordain
 1 Imprisoned in the Moon
-{'overall': 7.3118644067796605, 'cmc': 2.8095238095238093, 'ramp': '12', 'draw': '13', 'interaction': 7, 'folder': 'edh', 'commander': 'CharixtheRagingIsle.txt'}
+1 Shell Shield
+{'overall': 7.319101123595505, 'cmc': 2.78125, 'ramp': 12, 'draw': 13, 'interaction': 7}

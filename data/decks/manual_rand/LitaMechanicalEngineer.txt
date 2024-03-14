@@ -1,65 +1,65 @@
 1 Lita, Mechanical Engineer
-1 Tabaxi Toucaneers
-1 The Irencrag
-1 Zealous Inquisitor
-1 Topple
-1 Vizier of the True
-1 Surge of Salvation
-1 Stonerise Spirit
-1 Wings of the Cosmos
-1 Thran Quarry
-1 Urza's Avenger
-1 Sky Skiff
-1 Thousand-Year Elixir
-1 Wurm's Tooth
-1 Sungold Sentinel
-1 Wingmantle Chaplain
-1 Symmetry Matrix
-1 War Barge
-1 Wooden Stake
-1 Suspicious Bookcase
-1 The Wandering Emperor
-1 Vial of Dragonfire
-1 Spirit Weaver
-1 Stone Haven Pilgrim
-1 Teferi's Protection
-1 Zhalfirin Knight
-1 Strongarm Monk
-1 Thraben Exorcism
-1 Sigiled Sword of Valeron
-1 Urgent Exorcism
-1 Urza's Ruinous Blast
-1 Veil of Assimilation
-1 Stitcher's Graft
-1 Thraben Standard Bearer
-1 Xenk, Paladin Unbroken
-1 Sheltering Light
-1 Urza's Factory
-1 Soul Sculptor
-1 Tyrant's Machine
-1 Take Up the Shield
-1 Worthy Knight
-1 Triumphant Surge
-1 Undercellar Sweep
-1 Untethered Express
-1 Urn of Godfire
-1 Vulshok Gauntlets
-1 Swords to Plowshares
-1 Xanthic Statue
-1 Wrath of God
-1 Valkyrie's Sword
-1 Timely Reinforcements
-1 Sword of the Chosen
-1 Whirlermaker
-1 Steel Hellkite
-1 Smothering Tithe
-1 Thraben Inspector
-1 Traveling Minister
+1 Tower of Champions
+1 Speaker of the Heavens
 1 Thirsting Axe
+1 Sun Sentinel
+1 Sublime Archangel
+1 Walking Skyscraper
+1 Thraben Doomsayer
+1 Path to Exile
+1 Sunseed Nurturer
+1 Ward of Piety
+1 Throwing Knife
+1 Windborne Charge
+1 Vial of Poison
+1 Toolcraft Exemplar
+1 Wake the Reflections
+1 Traveling Minister
+1 Zhalfirin Decoy
+1 Selfless Samurai
+1 Transmogrifying Licid
+1 Unified Strike
+1 Throne of Empires
+1 Thornbite Staff
+1 Visions of Glory
+1 The Underworld Cookbook
+1 Time to Reflect
+1 Testament of Faith
+1 Stalking Stones
+1 Solemn Offering
+1 Séance
+1 Vanguard's Shield
+1 Thran Quarry
+1 Warmth
+1 Valor Made Real
+1 Sky Skiff
+1 Wedding Announcement // Wedding Festivity
+1 Wirefly Hive
+1 Starlight
+1 Steel Seraph
+1 Triangle of War
+1 Take Vengeance
+1 Tenth District Veteran
+1 Terashi's Verdict
+1 Soul of New Phyrexia
+1 Treasure Vault
+1 Sword of Kaldra
+1 Wall of Junk
+1 Second Breakfast
+1 Triskelavus
 1 Voyager Staff
-1 Zarichi Tiger
-1 Winds of Abandon
-1 Warping Wail
-1 Valorous Charge
-1 Spare Dagger
-{'overall': 3.231182795698925, 'cmc': 2.735294117647059, 'ramp': '5', 'draw': '2', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}294117647059, 'ramp': '5', 'draw': '2', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'LitaMechanicalEngineer.txt'}
+1 Wall of Resurgence
+1 Soul's Grace
+1 Thraben Sentry // Thraben Militia
+1 Vengeance
+1 Surge of Salvation
+1 Whispersilk Cloak
+1 Valiant Endeavor
+1 Werefox Bodyguard
+1 Whipgrass Entangler
+1 When We Were Young
+1 Thraben Standard Bearer
+1 Thraben Exorcism
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Touch the Spirit Realm
+{'overall': 2.261904761904762, 'cmc': 2.625, 'ramp': 2, 'draw': 1, 'interaction': 15}

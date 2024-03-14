@@ -61,4 +61,5 @@
 1 Fumigate
 1 Utter End
 1 Nesting Grounds
-{'overall': 6.097468354430379, 'cmc': 2.507936507936508, 'ramp': '11', 'draw': '7', 'interaction': 16, 'folder': 'edh', 'commander': 'AthreosShroudVeiled.txt'}
+1 Brightclimb Pathway
+{'overall': 6.110126582278481, 'cmc': 2.46875, 'ramp': 11, 'draw': 7, 'interaction': 16}

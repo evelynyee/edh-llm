@@ -61,4 +61,5 @@
 1 Release to Memory
 1 Martial Coup
 1 Unbreakable Formation
-{'overall': 7.11923076923077, 'cmc': 2.0634920634920637, 'ramp': '9', 'draw': '13', 'interaction': 13, 'folder': 'edh', 'commander': 'RaffWeatherlightStalwart.txt'}
+1 Halo Fountain
+{'overall': 7.362406015037594, 'cmc': 2.078125, 'ramp': 9, 'draw': 14, 'interaction': 13}

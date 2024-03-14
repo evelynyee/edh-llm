@@ -61,4 +61,5 @@
 1 Dawn of Hope
 1 Smothering Tithe
 1 Ghost Quarter
-{'overall': 4.318181818181818, 'cmc': 2.4444444444444446, 'ramp': '6', 'draw': '7', 'interaction': 5, 'folder': 'edh', 'commander': 'HikariTwilightGuardian.txt'}
+1 Beckoning Will-o'-Wisp
+{'overall': 4.3152866242038215, 'cmc': 2.453125, 'ramp': 6, 'draw': 7, 'interaction': 5}

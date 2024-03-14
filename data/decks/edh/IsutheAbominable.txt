@@ -61,4 +61,5 @@
 1 Squall Drifter
 1 Azusa, Lost but Seeking
 1 Path to Exile
-{'overall': 7.673529411764705, 'cmc': 2.4285714285714284, 'ramp': '12', 'draw': '14', 'interaction': 7, 'folder': 'edh', 'commander': 'IsutheAbominable.txt'}
+1 Rampant Growth
+{'overall': 7.925806451612903, 'cmc': 2.421875, 'ramp': 13, 'draw': 14, 'interaction': 7}

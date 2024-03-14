@@ -61,4 +61,5 @@
 1 Balefire Liege
 1 Flawless Maneuver
 1 Arid Mesa
-{'overall': 3.782608695652174, 'cmc': 2.5555555555555554, 'ramp': '7', 'draw': '3', 'interaction': 10, 'folder': 'edh', 'commander': 'IroasGodofVictory.txt'}
+1 Teferi's Protection
+{'overall': 3.7804878048780486, 'cmc': 2.5625, 'ramp': 7, 'draw': 3, 'interaction': 10}

@@ -1,65 +1,65 @@
 1 Marneus Calgar
-1 The Council of Four
-1 Winter Eladrin
-1 Urza, Lord High Artificer
-1 Sworn Companions
-1 Umbral Juke
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Zygon Infiltrator
-1 Taste of Death
-1 Zamriel, Seraph of Steel
-1 Thalia's Geistcaller
-1 Warrior Angel
 1 Westvale Abbey // Ormendahl, Profane Prince
-1 Thraben Inspector
-1 Violet Pall
-1 Sweep the Skies
-1 Trial of Solidarity
-1 Wicked Guardian
-1 Tegwyll's Scouring
-1 Urza's Saga
-1 Twisted Sewer-Witch
-1 Visionary Augmenter
-1 Veteran's Armaments
-1 Thorn of the Black Rose
-1 Zephyr Sentinel
-1 The Cyber-Controller
-1 Windwright Mage
-1 Vindictive Vampire
-1 Mana Vault
-1 Swords to Plowshares
-1 Urza's Command
+1 Titan Forge
+1 Zeriam, Golden Wind
+1 Wake the Reflections
+1 Wirefly Hive
+1 The Eleventh Hour
+1 Unctus, Grand Metatect
 1 Triton Waverider
-1 White Scarab
-1 The Raven Man
-1 Warren Weirding
-1 Voice of the Provinces
-1 Wanted Scoundrels
-1 Wingsteed Rider
-1 Whelming Wave
-1 Young Blue Dragon // Sand Augury
-1 Thopter Squadron
-1 Turn to Frog
-1 Will Kenrith
-1 White Sun's Zenith
-1 Wormfang Manta
+1 Summoner's Bane
+1 Urza's Factory
+1 Tempt with Reflections
+1 Vesuvan Doppelganger
+1 Wake Thrasher
+1 Weatherlight Compleated
+1 Vedalken Humiliator
+1 Wedding Ring
+1 Warden of the Wall
+1 Umbral Juke
+1 Tangled Colony
+1 Wrinkly Monkey Shenanigans
+1 The Eternal Wanderer
+1 Undercellar Sweep
 1 Thunderhawk Gunship
-1 Warrior's Honor
-1 Windstorm Drake
-1 Thieves' Tools
-1 Windgrace Acolyte
-1 Veteran Armorer
-1 Xiahou Dun, the One-Eyed
-1 Warrant // Warden
-1 Tawnos, Solemn Survivor
-1 Voice of Truth
-1 Wedding Invitation
+1 Xathrid Demon
+1 Demonic Tutor
+1 Xenic Poltergeist
+1 Workshop Elders
 1 Waylaying Pirates
-1 Vampire Outcasts
-1 Teyo, Geometric Tactician
+1 Windwright Mage
+1 Mentor of the Meek
+1 Visionary Augmenter
+1 Unbreathing Horde
+1 Zephyr Sentinel
+1 Sworn Companions
+1 Word of Undoing
+1 Vampire's Kiss
+1 Warrior's Charge
+1 Voice of Reason
+1 Swords to Plowshares
+1 Path to Exile
+1 Wayward Servant
+1 White Sun's Zenith
+1 Sweep the Skies
+1 Synapse Necromage
+1 Varina, Lich Queen
+1 Vodalian Zombie
+1 Trendy Circus Pirate
+1 Wilderness Hypnotist
 1 Wurmcoil Engine
-1 Winged Sliver
-1 Counterspell
-1 Undercover Operative
-1 Willbreaker
-{'overall': 5.000607287449393, 'cmc': 3.6323529411764706, 'ramp': '6', 'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}'draw': '11', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MarneusCalgar.txt'}
+1 Thoughtweft Trio
+1 The Council of Four
+1 Zhalfirin Lancer
+1 Vito's Inquisitor
+1 Weirding Shaman
+1 Thalisse, Reverent Medium
+1 Supply Caravan
+1 Venerable Knight
+1 Thopter Architect
+1 Vizier of Many Faces
+1 Venomcrawler
+1 Warmth
+1 Thran Lens
+1 Unquestioned Authority
+{'overall': 3.827450980392157, 'cmc': 3.1875, 'ramp': 1, 'draw': 11, 'interaction': 4}

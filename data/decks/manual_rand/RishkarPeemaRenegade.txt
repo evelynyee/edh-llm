@@ -1,65 +1,65 @@
 1 Rishkar, Peema Renegade
-1 Undercellar Myconid
-1 Stag Beetle
-1 Tendril of the Mycotyrant
-1 Thrashing Mossdog
-1 Woodland Sleuth
-1 Undermountain Adventurer
-1 Wayfarer's Bauble
-1 Weapon Rack
-1 Unclaimed Territory
-1 Wurmquake
-1 Well of Life
-1 The Ozolith
-1 Soultether Golem
-1 Vastwood Surge
-1 Wolverine Riders
-1 Verdant Confluence
-1 Sunset Pyramid
-1 Zendikar Resurgent
-1 Steel Dromedary
-1 Untaidake, the Cloud Keeper
+1 Urza's Workshop
+1 Wild Wanderer
+1 Utopia Sprawl
+1 Urza's Miter
+1 Strixhaven Stadium
 1 Veteran's Armaments
-1 Tower Worker
-1 Willow Geist
-1 Turn to Dust
-1 Seedborn Muse
-1 Urza's Power Plant
-1 Web
-1 Tough Cookie
-1 Tawnos's Tinkering
-1 Thornbite Staff
-1 Surrak and Goreclaw
-1 Stand Together
-1 Warden of the Wall
-1 Storyweave
-1 Village Elder
-1 Ulvenwald Bear
-1 Steelbane Hydra
-1 Tireless Provisioner
-1 Universal Solvent
-1 Sigil of Distinction
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood
-1 The Hunter Maze
-1 Wirewood Channeler
-1 Spike Colony
-1 Toxic Scorpion
-1 Verdant Automaton
-1 Urn of Godfire
-1 Uktabi Efreet
+1 Wild Endeavor
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Wirewood Savage
+1 Wooded Foothills
+1 Viridian Corrupter
+1 Titanoth Rex
+1 Simic Basilisk
+1 Yavimaya Dryad
+1 Sol Ring
+1 Void Attendant
+1 Treasure Vault
+1 Umezawa's Jitte
+1 Tribute to the World Tree
+1 Vivien, Monsters' Advocate
+1 Walking Ballista
+1 Vastwood Fortification // Vastwood Thicket
+1 Thopter Squadron
 1 Wizard's Rockets
+1 Strip Mine
+1 Woodripper
+1 Sporoloth Ancient
+1 Wolfbriar Elemental
+1 Venomous Brutalizer
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Viridian Harvest
+1 Swarmborn Giant
+1 Voltaic Key
+1 Spike Breeder
+1 Timberland Ruins
+1 Wayfarer's Bauble
+1 Throne of the High City
+1 Storyweave
+1 Vine Kami
+1 Uktabi Faerie
+1 Steel Dromedary
+1 Stand Together
 1 Verdurous Gearhulk
-1 Titania, Nature's Force
-1 Trolls of Tel-Jilad
-1 Wickerbough Elder
-1 Terrain Generator
-1 Thrashing Brontodon
-1 Thorn Thallid
-1 Unbridled Growth
-1 Terrarion
-1 Wild Mongrel
-1 Sun Droplet
-1 Sporesower Thallid
-1 Timbermare
-1 The Tabernacle at Pendrell Vale
-{'overall': 6.847435897435898, 'cmc': 2.8676470588235294, 'ramp': '18', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}': 3, 'folder': 'manual_rand', 'commander': 'RishkarPeemaRenegade.txt'}
+1 Wild Onslaught
+1 Witherscale Wurm
+1 Verdant Field
+1 Vernal Bloom
+1 Yavimaya Ants
+1 Surge Node
+1 Throne of Geth
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Throne of Makindi
+1 Toxic Scorpion
+1 Thornbite Staff
+1 Untamed Kavu
+1 Wall of Roots
+1 Mana Vault
+1 Uktabi Wildcats
+1 Birds of Paradise
+1 Verdant Eidolon
+1 Vessel of Nascency
+1 Witch's Clinic
+1 Zopandrel, Hunger Dominus
+{'overall': 6.873684210526316, 'cmc': 2.96875, 'ramp': 16, 'draw': 7, 'interaction': 9}

@@ -61,4 +61,5 @@
 1 Krosan Verge
 1 Sunscorch Regent
 1 Fertilid
-{'overall': 4.390298507462687, 'cmc': 2.126984126984127, 'ramp': '9', 'draw': '4', 'interaction': 4, 'folder': 'edh', 'commander': 'BrightPalmSoulAwakener.txt'}
+1 Inscription of Abundance
+{'overall': 4.4411764705882355, 'cmc': 2.125, 'ramp': 9, 'draw': 4, 'interaction': 5}

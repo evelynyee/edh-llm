@@ -1,65 +1,65 @@
 1 Gwaihir, Greatest of the Eagles
-1 Whalebone Glider
-1 White Scarab
-1 Tenth District Guard
-1 Sinstriker's Will
-1 Spy Kit
-1 Syndicate Messenger
-1 Sustainer of the Realm
-1 Tabaxi Toucaneers
-1 Trusted Pegasus
-1 Vessel of Ephemera
-1 Voiceless Spirit
-1 Shield Mate
-1 You're Confronted by Robbers
-1 Sensei Golden-Tail
-1 Strength-Testing Hammer
-1 Valor
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Starlight
-1 White Ward
-1 The Book of Exalted Deeds
-1 Steam Catapult
-1 Siege Veteran
-1 Weight of Conscience
-1 Wall of Resistance
-1 Sublime Archangel
-1 Warded Battlements
-1 Vanguard of the Rose
-1 Vectis Gloves
-1 War Horn
-1 Unerring Sling
-1 Soldier of the Grey Host
-1 Sword Dancer
-1 Spare from Evil
-1 Wake the Reflections
-1 Survive the Night
-1 Sol Ring
-1 Wedding Announcement // Wedding Festivity
-1 Topan Freeblade
-1 You Cannot Pass!
-1 Sunbond
-1 Wedding Ring
-1 Stern Marshal
-1 Stuffed Bear
-1 Voltaic Construct
-1 Zetalpa, Primal Dawn
-1 Warden of the Beyond
-1 Vanguard of Brimaz
-1 Witch Hunter
-1 Skillful Lunge
-1 Soul of Theros
-1 Wrath of God
-1 Spirit Link
-1 You Hear Something on Watch
-1 Veteran's Powerblade
-1 Snow Fortress
-1 Warhorn Blast
-1 Austere Command
-1 Triangle of War
-1 Zealous Strike
-1 Tale of Tinúviel
-1 Zealous Inquisitor
+1 Windborne Charge
+1 Slab Hammer
+1 Stoneforge Masterwork
+1 Woeleecher
+1 Veteran's Armaments
+1 Supply Drop
+1 Siege Striker
 1 White Knight
-1 Sting, the Glinting Dagger
-{'overall': 2.7733668341708544, 'cmc': 2.970149253731343, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}', 'draw': '5', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GwaihirGreatestoftheEagles.txt'}
+1 Tenuous Truce
+1 Vanguard of the Rose
+1 Task Force
+1 Wrath of God
+1 Steadfast Cathar
+1 Toolcraft Exemplar
+1 Well of Discovery
+1 Wand of the Elements
+1 Wedding Announcement // Wedding Festivity
+1 Usher of the Fallen
+1 Thermal Glider
+1 You Cannot Pass!
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Wishmonger
+1 The Stasis Coffin
+1 Your Temple Is Under Attack
+1 Vial of Dragonfire
+1 Vanquisher's Axe
+1 Thraben Sentry // Thraben Militia
+1 Vampire's Zeal
+1 Skrelv's Hive
+1 Wingrattle Scarecrow
+1 Thundering Chariot
+1 Warning
+1 Sword of Sinew and Steel
+1 Slayer's Plate
+1 Valiant Knight
+1 Sword of the Paruns
+1 Starlight
+1 Thousand-Year Elixir
+1 Thopter Shop
+1 Voltaic Construct
+1 Surge of Thoughtweft
+1 Triplicate Spirits
+1 Voltaic Servant
+1 Vizier of the True
+1 Tooth of Chiss-Goria
+1 Time of Heroes
+1 Shadowspear
+1 Sleek Schooner
+1 Sublime Archangel
+1 Wojek Apothecary
+1 Wayward Angel
+1 The Book of Exalted Deeds
+1 Warrior en-Kor
+1 Steam Catapult
+1 Temporal Isolation
+1 Vorrac Battlehorns
+1 Walking Wall
+1 Trusted Pegasus
+1 Steadfast Unicorn
+1 Zealous Strike
+1 Takeno, Samurai General
+1 Tormented Angel
+1 Spidersilk Net
+{'overall': 2.8772486772486774, 'cmc': 2.953125, 'ramp': 1, 'draw': 7, 'interaction': 4}

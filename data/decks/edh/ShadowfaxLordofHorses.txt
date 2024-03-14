@@ -61,4 +61,5 @@
 1 Bloodline Pretender
 1 Elesh Norn, Grand Cenobite
 1 Wayfarer's Bauble
-{'overall': 5.4875, 'cmc': 2.5396825396825395, 'ramp': '12', 'draw': '5', 'interaction': 9, 'folder': 'edh', 'commander': 'ShadowfaxLordofHorses.txt'}
+1 Adaptive Automaton
+{'overall': 5.485276073619632, 'cmc': 2.546875, 'ramp': 12, 'draw': 5, 'interaction': 9}

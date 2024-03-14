@@ -61,4 +61,5 @@
 1 Scavenger Grounds
 1 Shadowspear
 1 Wayfarer's Bauble
-{'overall': 6.7682926829268295, 'cmc': 2.6031746031746033, 'ramp': '14', 'draw': '8', 'interaction': 10, 'folder': 'edh', 'commander': 'LaeliatheBladeReforged.txt'}
+1 Forgotten Cave
+{'overall': 7.030487804878049, 'cmc': 2.5625, 'ramp': 14, 'draw': 9, 'interaction': 10}

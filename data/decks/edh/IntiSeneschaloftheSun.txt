@@ -61,4 +61,5 @@
 1 Wild-Magic Sorcerer
 1 War Room
 1 Cursed Mirror
-{'overall': 13.436842105263157, 'cmc': 2.7142857142857144, 'ramp': '16', 'draw': '33', 'interaction': 9, 'folder': 'edh', 'commander': 'IntiSeneschaloftheSun.txt'}
+1 Magus of the Wheel
+{'overall': 13.685632183908044, 'cmc': 2.71875, 'ramp': 16, 'draw': 34, 'interaction': 9}

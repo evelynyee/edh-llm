@@ -61,4 +61,5 @@
 1 Kuldotha Forgemaster
 1 Thirst for Knowledge
 1 Saheeli, Sublime Artificer
-{'overall': 7.032608695652174, 'cmc': 2.5555555555555554, 'ramp': '11', 'draw': '13', 'interaction': 5, 'folder': 'edh', 'commander': 'TawnosUrzasApprentice.txt'}
+1 Duplicant
+{'overall': 7.066467065868263, 'cmc': 2.609375, 'ramp': 11, 'draw': 13, 'interaction': 6}

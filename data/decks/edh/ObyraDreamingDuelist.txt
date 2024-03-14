@@ -61,4 +61,5 @@
 1 Talion's Messenger
 1 Puppeteer Clique
 1 Reconnaissance Mission
-{'overall': 6.057865168539325, 'cmc': 2.8253968253968256, 'ramp': '5', 'draw': '15', 'interaction': 7, 'folder': 'edh', 'commander': 'ObyraDreamingDuelist.txt'}
+1 Blightwing Bandit
+{'overall': 6.053296703296703, 'cmc': 2.84375, 'ramp': 5, 'draw': 15, 'interaction': 7}

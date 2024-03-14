@@ -61,4 +61,5 @@
 1 Path of Ancestry
 1 Temple Garden
 1 Deflecting Palm
-{'overall': 9.323006134969326, 'cmc': 2.5873015873015874, 'ramp': '11', 'draw': '20', 'interaction': 16, 'folder': 'edh', 'commander': 'NivMizzetSupreme.txt'}
+1 Hallowed Fountain
+{'overall': 9.335276073619633, 'cmc': 2.546875, 'ramp': 11, 'draw': 20, 'interaction': 16}

@@ -61,4 +61,5 @@
 1 Martial Coup
 1 Staff of the Storyteller
 1 Serra Ascendant
-{'overall': 9.317796610169491, 'cmc': 1.873015873015873, 'ramp': '12', 'draw': '20', 'interaction': 5, 'folder': 'edh', 'commander': 'GandalfWhiteRider.txt'}
+1 Sejiri Shelter
+{'overall': 9.316666666666666, 'cmc': 1.875, 'ramp': 12, 'draw': 20, 'interaction': 5}

@@ -1,65 +1,65 @@
 1 Lieutenant Kirtar
-1 Shepherd of the Cosmos
-1 Tower of Champions
-1 Stonespeaker Crystal
-1 Slagwurm Armor
-1 The Underworld Cookbook
-1 Woeleecher
-1 Werefox Bodyguard
-1 Thornbite Staff
-1 Path to Exile
+1 Thespian's Stage
+1 You're Ambushed on the Road
+1 Triumph of Gerrard
+1 Waylay
+1 Toymaker
+1 The Tabernacle at Pendrell Vale
+1 Umbral Mantle
+1 Temper
+1 Vanquish the Horde
+1 Wall of Forgotten Pharaohs
+1 Westfold Rider
+1 Warmonger's Chariot
+1 Sun Clasp
+1 The Gaffer
 1 Wojek Apothecary
-1 The Wandering Emperor
-1 Spear of Heliod
-1 Worthy Knight
-1 Suture Priest
-1 Zhalfirin Knight
-1 War Chariot
-1 Swords to Plowshares
-1 Wyrm's Crossing Patrol
-1 Shefet Dunes
-1 Untethered Express
-1 Steel Seraph
-1 Words of Worship
-1 Vigilant Sentry
-1 Transcendent Master
-1 Whipgrass Entangler
-1 Chromatic Lantern
-1 Soul-Guide Lantern
-1 Steamclaw
-1 Welcoming Vampire
-1 Thraben Standard Bearer
-1 Urn of Godfire
-1 Umezawa's Jitte
-1 Triumphant Reckoning
-1 Take Heart
-1 Symmetry Matrix
-1 Unconventional Tactics
-1 Tithe Taker
-1 Wedding Invitation
-1 Wayward Angel
-1 War Barge
-1 Traveling Minister
-1 Séance
-1 Soldier Replica
-1 Sol Ring
-1 Sigil of the New Dawn
-1 Terashi's Verdict
-1 Tale of Tinúviel
-1 Slumbering Tora
-1 Stormrider Rig
-1 The Eternal Wanderer
-1 Tyrite Sanctum
+1 Slate of Ancestry
 1 Tanglebloom
-1 Tethmos High Priest
-1 Wild Aesthir
-1 Unyaro Griffin
-1 Vessel of Ephemera
-1 The Girl in the Fireplace
-1 Underdark Rift
-1 Thraben Inspector
-1 Vedalken Shackles
-1 Vengeance
-1 Torch Gauntlet
-1 Twinblade Geist // Twinblade Invocation
-{'overall': 4.265789473684211, 'cmc': 2.7941176470588234, 'ramp': '4', 'draw': '8', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LieutenantKirtar.txt'}teraction': 11, 'folder': 'manual_rand', 'commander': 'LieutenantKirtar.txt'}
+1 Trinisphere
+1 Teferi's Protection
+1 Veteran's Reflexes
+1 Veteran's Armaments
+1 Wayward Angel
+1 Wing Shards
+1 Tocasia's Onulet
+1 TARDIS
+1 Sky Crier
+1 Squall Drifter
+1 Tower of the Magistrate
+1 Valkyrie Harbinger
+1 Sol Ring
+1 Trip Noose
+1 Steppe Glider
+1 Wojek Siren
+1 Thunder Totem
+1 Wings of Hubris
+1 Troubled Healer
+1 Soul Charmer
+1 The Wanderer
+1 Worship
+1 Tablet of Epityr
+1 Triumphant Surge
+1 Time to Reflect
+1 Thran Foundry
+1 The Stasis Coffin
+1 Spurnmage Advocate
+1 Tonic Peddler
+1 Wondrous Crucible
+1 Thran Forge
+1 Vengeful Dreams
+1 Surestrike Trident
+1 Sephara, Sky's Blade
+1 Vitality Hunter
+1 Telethopter
+1 Take Vengeance
+1 The Moment
+1 Wicker Picker
+1 Wand of Denial
+1 Warden of the Beyond
+1 Twilight Drover
+1 Wanderer's Intervention
+1 Sunstrike Legionnaire
+1 Sivvi's Valor
+1 Silverflame Squire // On Alert
+{'overall': 2.7272727272727275, 'cmc': 2.75, 'ramp': 2, 'draw': 4, 'interaction': 10}

@@ -1,65 +1,65 @@
 1 Lyra Dawnbringer
-1 Woolly Razorback
-1 Steppe Glider
-1 Tandem Tactics
-1 Triclopean Sight
-1 Wall of Glare
-1 Sword Dancer
-1 Swordsworn Cavalier
-1 Serra Inquisitors
-1 Steelform Sliver
-1 Territorial Roc
-1 Wedding Announcement // Wedding Festivity
-1 Wirefly Hive
-1 Wings of the Cosmos
-1 Warden of the Beyond
-1 Wild Aesthir
-1 Syr Ginger, the Meal Ender
-1 Watchwing Scarecrow
-1 Thraben Gargoyle // Stonewing Antagonizer
-1 Zamriel, Seraph of Steel
-1 Solidarity
-1 Warhorn Blast
-1 Spectral Gateguards
-1 Sword of Light and Shadow
-1 Virtuous Charge
+1 Skyhunter Prowler
+1 Well of Life
+1 Valiant Veteran
+1 Throwing Knife
 1 Vizier of Remedies
-1 Titanium Golem
-1 Sword of the Chosen
-1 Spectra Ward
-1 Strider Harness
-1 Wayward Angel
-1 Vedalken Shackles
-1 Austere Command
-1 Sigarda's Vanguard
-1 Waylay
-1 Wyrm's Crossing Patrol
-1 Three Blind Mice
-1 Sunlit Hoplite
-1 Walking Bulwark
-1 Skyblade of the Legion
-1 Throne Warden
-1 White Knight
-1 Unerring Sling
-1 Yotian Soldier
-1 Thunderhawk Gunship
-1 Warmonger's Chariot
-1 Zhalfirin Decoy
-1 Stonehorn Chanter
-1 Warrior en-Kor
-1 Tivadar of Thorn
-1 Serra Aviary
-1 Whalebone Glider
-1 The Stasis Coffin
-1 Warclamp Mastiff
-1 Sinew Sliver
-1 Mind Stone
-1 Vanguard's Shield
-1 The Wandering Emperor
-1 Spontaneous Flight
-1 Valor of the Worthy
-1 Warrior's Honor
+1 Soltari Crusader
+1 You Hear Something on Watch
+1 Team Pennant
+1 Tuinvale Guide
+1 Testament of Faith
+1 Teferi's Protection
+1 Umbral Mantle
+1 Unlikely Alliance
+1 Wall of Essence
+1 When We Were Young
+1 Spirit Mantle
 1 You Cannot Pass!
-1 Wrath of God
-1 Trusted Pegasus
-{'overall': 1.9007177033492821, 'cmc': 3.073529411764706, 'ramp': '1', 'draw': '3', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'LyraDawnbringer.txt'}action': 5, 'folder': 'manual_rand', 'commander': 'LyraDawnbringer.txt'}
+1 Wall of Light
+1 Thundersteel Colossus
+1 Steadfastness
+1 Sinew Sliver
+1 Strength of Arms
+1 Voiceless Spirit
+1 Tenth District Guard
+1 Tah-Crop Elite
+1 Skyshaper
+1 Warning
+1 Sharpened Pitchfork
+1 Task Force
+1 Tivadar of Thorn
+1 Strength-Testing Hammer
+1 Take Up the Shield
+1 Taranika, Akroan Veteran
+1 Skillful Lunge
+1 Squad Commander
+1 Veteran Soldier
+1 TARDIS
+1 White Knight
+1 Wooden Stake
+1 True-Faith Censer
+1 Wall of Faith
+1 Spectral Gateguards
+1 Weathered Bodyguards
+1 Untethered Express
+1 Tezzeret's Strider
+1 Spontaneous Flight
+1 Will of the All-Hunter
+1 Vulshok Morningstar
+1 Zhalfirin Knight
+1 Vial of Poison
+1 Thoughtweft Trio
+1 Wellgabber Apothecary
+1 Werewolf Lightning Mage
+1 Vampire Champion Fury
+1 Wall of Resistance
+1 Urbis Protector
+1 Wayfaring Giant
+1 Thundering Chariot
+1 Zamriel, Seraph of Steel
+1 Suntail Hawk
+1 Trained Caracal
+1 Yotian Soldier
+1 Twilight Drover
+{'overall': 1.3814285714285712, 'cmc': 2.734375, 'ramp': 0, 'draw': 2, 'interaction': 3}

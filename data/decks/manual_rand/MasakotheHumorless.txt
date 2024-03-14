@@ -1,65 +1,65 @@
 1 Masako the Humorless
-1 War Chariot
-1 When We Were Young
-1 Ward of Piety
-1 Teferi's Protection
-1 Tattoo Ward
-1 Solidarity
-1 Wedding Invitation
-1 Silkenfist Fighter
-1 Serenity
-1 Squad Commander
-1 Wedding Announcement // Wedding Festivity
-1 Wrath of God
-1 Xenk, Paladin Unbroken
-1 Spiritual Asylum
-1 Yare
-1 Unstable Frontier
-1 Teroh's Vanguard
-1 Shifting Wall
-1 Wrath of God
-1 Silent Arbiter
-1 Wedding Announcement // Wedding Festivity
-1 Wall of Glare
+1 Training Drone
+1 Vigilant Sentry
+1 Suncleanser
 1 Su-Chi Cave Guard
-1 Witchbane Orb
-1 Winds of Abandon
-1 Silkenfist Order
-1 Sky Skiff
-1 Stonehorn Chanter
-1 Standing Troops
-1 Wings of the Cosmos
-1 Territorial Hammerskull
-1 Skyblinder Staff
-1 Sublime Archangel
-1 Yotian Frontliner
-1 Steel Seraph
-1 Zetalpa, Primal Dawn
-1 Surge of Thoughtweft
-1 Triumph of Gerrard
-1 Weathered Sentinels
-1 Sphere of Safety
-1 Soraya the Falconer
-1 The Book of Exalted Deeds
-1 Venerated Loxodon
-1 Yotian Soldier
-1 Ulamog's Crusher
+1 Welcoming Vampire
+1 Territorial Roc
+1 Takeno's Cavalry
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Valor Made Real
+1 Shifting Wall
+1 Smite
+1 Wedding Announcement // Wedding Festivity
+1 Vanquisher's Banner
+1 To Arms!
+1 Tin-Wing Chimera
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Ward of Piety
+1 Land Tax
+1 Sting, the Glinting Dagger
 1 Tragic Arrogance
-1 Tower of Coireall
-1 Sparring Golem
-1 Xanthic Statue
-1 Tempered Steel
-1 True Conviction
-1 Steel Wall
-1 Single Combat
-1 Winter Orb
-1 Stave Off
-1 Valor in Akros
-1 Trusted Pegasus
-1 Thunderhawk Gunship
-1 Starlight Spectacular
-1 Tundra Wolves
+1 Walking Bulwark
+1 Spawnbinder Mage
+1 War Horn
 1 Zhalfirin Decoy
-1 Wall of Nets
-1 Tezzeret's Strider
-{'overall': 1.9445945945945948, 'cmc': 3.3636363636363638, 'ramp': '0', 'draw': '4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MasakotheHumorless.txt'}'interaction': 7, 'folder': 'manual_rand', 'commander': 'MasakotheHumorless.txt'}
+1 Single Combat
+1 Urza's Avenger
+1 Tenuous Truce
+1 Spirit of the Hearth
+1 Wojek Siren
+1 Umbra Mystic
+1 Venerated Loxodon
+1 Trusted Pegasus
+1 Witch's Oven
+1 Urza's Engine
+1 Vengeance
+1 Sunlit Hoplite
+1 Wall of Shields
+1 Spirit Shield
+1 War Falcon
+1 Temporal Isolation
+1 Valorous Steed
+1 The Irencrag
+1 Vexilus Praetor
+1 Ward of Lights
+1 Tormented Angel
+1 White Knight
+1 Veteran Swordsmith
+1 Steadfastness
+1 Sundial of the Infinite
+1 Solidarity
+1 Traxos, Scourge of Kroog
+1 Vanquish the Horde
+1 Warden of the Beyond
+1 Yotian Medic
+1 Veteran Bodyguard
+1 Warchanter Skald
+1 Tiller Engine
+1 Swinging Ship
+1 Ward of Bones
+1 Surge of Thoughtweft
+1 Wild Griffin
+1 Serra's Blessing
+1 Sheltering Prayers
+{'overall': 3.2497461928934013, 'cmc': 3.078125, 'ramp': 2, 'draw': 7, 'interaction': 7}

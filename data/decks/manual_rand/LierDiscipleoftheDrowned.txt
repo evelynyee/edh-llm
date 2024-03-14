@@ -1,65 +1,65 @@
 1 Lier, Disciple of the Drowned
-1 Surging Aether
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Void Mirror
-1 Talas Researcher
-1 Thran Tome
-1 Tidal Barracuda
-1 Urza's Blueprints
-1 Trenzalore Clocktower
-1 Wizard Replica
-1 Thrumming Stone
-1 Skyway Robber
-1 Urza's Bauble
-1 Wheel of Torture
-1 Timetwister
-1 Vanishment
-1 Withdraw
-1 Turtleshell Changeling
-1 Trait Doctoring
-1 Universal Automaton
-1 Take Possession
-1 Unclaimed Territory
-1 Witches' Eye
-1 Watcher in the Mist
-1 Vizier of the Anointed
-1 Spire Monitor
-1 Turbulent Dreams
-1 Syncopate
-1 Winds of Rebuke
-1 Tidepool Turtle
-1 Swindler's Scheme
-1 Tah-Crop Skirmisher
-1 Witness the Future
-1 Torrential Gearhulk
-1 Void Snare
-1 Verity Circle
-1 Tolarian Terror
-1 Umara Wizard // Umara Skyfalls
-1 Tomb of Horrors Adventurer
-1 Tormod's Crypt
-1 Tidal Courier
-1 Warden of Evos Isle
 1 Thassa's Rebuff
-1 Witchbane Orb
-1 Twinning Staff
-1 Wall of Runes
-1 Vexing Scuttler
-1 Vantress Paladin
-1 Veiling Oddity
-1 Veiled Sentry
-1 Urza's Chalice
-1 Storm Elemental
-1 Zndrsplt's Judgment
-1 Triton Cavalry
-1 Taigam's Strike
-1 Shell of the Last Kappa
-1 Venarian Glimmer
-1 Twice Upon a Time // Unlikely Meeting
-1 Wu Scout
-1 Tragic Lesson
-1 Treasure Trove
-1 Transcendent Message
-1 Vodalian Serpent
+1 Treasure Mage
+1 Tunnel Vision
+1 Submerge
+1 Vendilion Clique
+1 Thieves' Fortune
 1 Mind Stone
-{'overall': 5.850607287449392, 'cmc': 3.6323529411764706, 'ramp': '3', 'draw': '18', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}lder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}
+1 Trickster Mage
+1 Warden of Evos Isle
+1 Thassa's Intervention
+1 Mulldrifter
+1 Temporal Mastery
+1 Viscerid Deepwalker
+1 Withdraw
+1 Urza's Bauble
+1 Thirst for Knowledge
+1 Will-Forged Golem
+1 Wharf Infiltrator
+1 Thought Eater
+1 Well of Lost Dreams
+1 Souvenir Snatcher
+1 Wormhole Serpent
+1 Stoic Rebuttal
+1 Wanderer's Twig
+1 Wandering Eye
+1 Wicker Picker
+1 Vodalian Arcanist
+1 The Peregrine Dynamo
+1 Veiling Oddity
+1 Steamclaw
+1 Young Blue Dragon // Sand Augury
+1 Time Spiral
+1 Vapor Snag
+1 Tome of the Guildpact
+1 Tapestry of the Ages
+1 Soul of Ravnica
+1 Weatherlight
+1 Vessel of Paramnesia
+1 The Reality Chip
+1 Time Reversal
+1 Wretched Throng
+1 Urza's Blueprints
+1 Twitch
+1 Sol Ring
+1 Walking Bulwark
+1 Titan's Presence
+1 The Enigma Jewel // Locus of Enlightenment
+1 Tormod's Cryptkeeper
+1 Wizard's Rockets
+1 The Stone Brain
+1 Thunderhead Squadron
+1 Voidmage Prodigy
+1 Vexing Scuttler
+1 Swarm Intelligence
+1 Trenzalore Clocktower
+1 Unlicensed Hearse
+1 Vodalian Mage
+1 Zephid
+1 Throne of Eldraine
+1 Urza's Miter
+1 Suffocation
+1 Silumgar's Scorn
+1 Vesuvan Doppelganger
+{'overall': 10.087155963302752, 'cmc': 3.40625, 'ramp': 7, 'draw': 30, 'interaction': 5}

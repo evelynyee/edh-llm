@@ -61,4 +61,5 @@
 1 Swiftfoot Boots
 1 Curse of Opulence
 1 Pain Distributor
-{'overall': 11.146153846153846, 'cmc': 3.0952380952380953, 'ramp': '29', 'draw': '11', 'interaction': 10, 'folder': 'edh', 'commander': 'GoddricCloakedReveler.txt'}
+1 Nesting Dragon
+{'overall': 11.14, 'cmc': 3.125, 'ramp': 29, 'draw': 11, 'interaction': 10}

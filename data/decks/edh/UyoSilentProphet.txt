@@ -61,4 +61,5 @@
 1 Azami, Lady of Scrolls
 1 Twincast
 1 Opt
-{'overall': 9.052849740932643, 'cmc': 3.0634920634920637, 'ramp': '16', 'draw': '16', 'interaction': 8, 'folder': 'edh', 'commander': 'UyoSilentProphet.txt'}
+1 Arcane Denial
+{'overall': 9.356410256410255, 'cmc': 3.046875, 'ramp': 16, 'draw': 17, 'interaction': 9}

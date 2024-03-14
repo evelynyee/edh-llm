@@ -61,4 +61,5 @@
 1 Spire Garden
 1 Old Gnawbone
 1 Luxury Suite
-{'overall': 7.057865168539325, 'cmc': 2.8253968253968256, 'ramp': '17', 'draw': '7', 'interaction': 7, 'folder': 'edh', 'commander': 'ZiatoratheIncinerator.txt'}
+1 Bojuka Bog
+{'overall': 7.069101123595505, 'cmc': 2.78125, 'ramp': 17, 'draw': 7, 'interaction': 7}

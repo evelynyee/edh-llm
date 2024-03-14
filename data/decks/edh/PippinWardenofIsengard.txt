@@ -61,4 +61,5 @@
 1 Gyome, Master Chef
 1 Mirkwood Bats
 1 Sakura-Tribe Elder
-{'overall': 6.90391061452514, 'cmc': 2.8412698412698414, 'ramp': '15', 'draw': '9', 'interaction': 4, 'folder': 'edh', 'commander': 'PippinWardenofIsengard.txt'}
+1 Ultimate Price
+{'overall': 6.957182320441989, 'cmc': 2.828125, 'ramp': 15, 'draw': 9, 'interaction': 5}

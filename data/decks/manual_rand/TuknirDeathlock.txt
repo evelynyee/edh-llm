@@ -1,65 +1,65 @@
 1 Tuknir Deathlock
-1 Sylvan Might
-1 Wicker Warcrawler
-1 Werewolf Pack Leader
-1 Weldfast Monitor
+1 Toralf, God of Fury // Toralf's Hammer
+1 Tower of Champions
 1 Vial of Poison
-1 Wild Might
-1 Zurgo Bellstriker
-1 Wrenn and Realmbreaker
-1 Tempting Licid
-1 Vampiric Fury
-1 Unnatural Growth
-1 Yavimaya Hollow
-1 Warmonger's Chariot
-1 Wurmweaver Coil
-1 Vines of Vastwood
-1 Syr Faren, the Hengehammer
-1 Unnatural Predation
-1 Traitorous Instinct
-1 Steady Aim
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Weakstone
-1 War Barge
-1 Volatile Claws
-1 Whirlwind
-1 Wandering Goblins
-1 Wild Instincts
-1 Viashino Branchrider
-1 Umezawa's Jitte
-1 Spiked Ripsaw
-1 Viridian Longbow
-1 Volrath's Gardens
-1 Warmind Infantry
-1 Wayward Giant
-1 Two-Headed Hunter // Twice the Rage
-1 Eternal Witness
-1 War Dance
-1 Trailblazing Historian
-1 Treetop Bracers
-1 Sunfire Torch
-1 Swift Kick
-1 Wasteland Viper
-1 Twigwalker
-1 Wall of Opposition
-1 Wolfir Silverheart
-1 Yavimaya Iconoclast
-1 Wall of Mulch
-1 Unwilling Recruit
-1 Titanoth Rex
-1 Wall of Brambles
-1 Vigilant Baloth
-1 Troll Ascetic
-1 Warden of the Wall
-1 Wildfire Elemental
-1 Sylvok Lifestaff
-1 Turntimber Grove
-1 Thunder Strike
-1 Wirewood Symbiote
-1 Vivien, Arkbow Ranger
+1 Ulrich's Kindred
+1 Volcanic Spray
 1 Stonehands
-1 Witch's Mark
-1 Undying Rage
+1 Wakeroot Elemental
+1 Unnatural Moonrise
 1 Varchild's Crusader
-1 Unchained Berserker
-{'overall': 3.158333333333333, 'cmc': 2.823529411764706, 'ramp': '3', 'draw': '6', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TuknirDeathlock.txt'}eraction': 4, 'folder': 'manual_rand', 'commander': 'TuknirDeathlock.txt'}
+1 Wirewood Pride
+1 Unstoppable Ogre
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Wurmquake
+1 Temur Battle Rage
+1 Unnatural Predation
+1 Voldaren Stinger
+1 Telethopter
+1 Wojek Embermage
+1 Whalebone Glider
+1 Thorn Lieutenant
+1 Wall of Vines
+1 Whispersilk Cloak
+1 Trueheart Twins
+1 Tower of Coireall
+1 Weathered Sentinels
+1 Wren's Run Hydra
+1 Lightning Bolt
+1 Unwilling Recruit
+1 Twisted Fealty
+1 Unnatural Growth
+1 Wall of Roots
+1 Wolf Strike
+1 Thrashing Mossdog
+1 Woodborn Behemoth
+1 Volcanic Rush
+1 Trailblazer's Torch
+1 Rampant Growth
+1 Zuo Ci, the Mocking Sage
+1 Wildheart Invoker
+1 Vulshok Splitter
+1 Vitality Charm
+1 Voltaic Key
+1 Valakut Predator
+1 Woolly Loxodon
+1 Ursine Champion
+1 Witherscale Wurm
+1 Veteran's Armaments
+1 Whip Silk
+1 Whip Sergeant
+1 War-Trained Slasher
+1 Vulshok Battlegear
+1 Tel-Jilad Lifebreather
+1 Whip Vine
+1 Viashivan Dragon
+1 Wildwood Mentor
+1 Wall of Fire
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Weatherseed Elf
+1 Werebear
+1 Withstand Death
+1 Wine of Blood and Iron
+1 You Look Upon the Tarrasque
+1 Tentative Connection
+{'overall': 1.9336633663366338, 'cmc': 3.15625, 'ramp': 3, 'draw': 1, 'interaction': 6}

@@ -61,4 +61,5 @@
 1 Sea Gate Restoration
 1 Ponder
 1 Commander's Plate
-{'overall': 5.819999999999999, 'cmc': 2.7777777777777777, 'ramp': '9', 'draw': '9', 'interaction': 12, 'folder': 'edh', 'commander': 'EsiorWardwingFamiliar.txt'}
+1 The Magic Mirror
+{'overall': 6.045652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 10, 'interaction': 12}

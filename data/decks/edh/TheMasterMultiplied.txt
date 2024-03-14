@@ -61,4 +61,5 @@
 1 Rogue's Passage
 1 Anger
 1 Helm of the Host
-{'overall': 4.25, 'cmc': 2.857142857142857, 'ramp': '10', 'draw': '3', 'interaction': 6, 'folder': 'edh', 'commander': 'TheMasterMultiplied.txt'}
+1 Purphoros, God of the Forge
+{'overall': 4.245652173913044, 'cmc': 2.875, 'ramp': 10, 'draw': 3, 'interaction': 6}

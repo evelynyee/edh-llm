@@ -61,4 +61,5 @@
 1 Palladium Myr
 1 Kuldotha Forgemaster
 1 Thousand-Year Elixir
-{'overall': 5.782758620689655, 'cmc': 4.142857142857143, 'ramp': '9', 'draw': '11', 'interaction': 6, 'folder': 'edh', 'commander': 'MuzzioVisionaryArchitect.txt'}
+1 Thought Vessel
+{'overall': 6.036692015209125, 'cmc': 4.109375, 'ramp': 10, 'draw': 11, 'interaction': 6}

@@ -1,65 +1,65 @@
 1 Colfenor, the Last Yew
-1 Wildest Dreams
-1 Wild Beastmaster
-1 Undying Malice
-1 Workshop Assistant
-1 Tarrian's Journal // The Tomb of Aclazotz
-1 Vulturous Aven
-1 Young Necromancer
-1 Weatherlight Compleated
-1 Writ of Return
-1 Dark Ritual
-1 Workshop Warchief
-1 Vile Rebirth
-1 Windshaper Planetar
-1 Wedding Ring
-1 The Crowd Goes Wild
-1 Timely Hordemate
-1 Transmutation
-1 Vitaspore Thallid
-1 Triassic Egg
-1 Toll of the Invasion
-1 Wishmonger
-1 Wasteland Strangler
-1 Yorvo, Lord of Garenbrig
-1 Traumatic Revelation
-1 Young Wolf
-1 Zombie Cannibal
-1 Tithing Blade // Consuming Sepulcher
-1 Wrap in Vigor
-1 Ulvenwald Tracker
-1 Vesperlark
-1 Yedora, Grave Gardener
-1 Undertaker
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Wolf Strike
-1 Treasury Thrull
-1 Titan's Presence
-1 Wild Onslaught
-1 Yomiji, Who Bars the Way
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Undead Augur
+1 Undying Evil
+1 Trove Warden
+1 Viral Spawning
+1 Virtue of Strength // Garenbrig Growth
+1 Trostani's Judgment
+1 Whip Silk
+1 Thraben Sentry // Thraben Militia
+1 The Mycotyrant
+1 Vengeful Vampire
+1 Twisted Embrace
 1 Venerable Kumo
-1 Wingrattle Scarecrow
 1 Weatherseed Treefolk
-1 Thopter Architect
-1 Terror of Towashi
-1 Tergrid, God of Fright // Tergrid's Lantern
-1 Temur Sabertooth
-1 Suspension Field
-1 Titania's Song
+1 Sylvan Hierophant
+1 Ulamog's Despoiler
+1 Wren's Run Packmaster
+1 Urza's Miter
+1 Umbilicus
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Yenna, Redtooth Regent
+1 Unholy Indenture
+1 Wedding Announcement // Wedding Festivity
+1 Xenic Poltergeist
+1 Toxic Stench
+1 Wolverine Riders
+1 Uproot
+1 Witch's Cottage
+1 Walk the Plank
+1 Veilborn Ghoul
+1 Titanic Brawl
+1 Thundering Mightmare
+1 Wood Elemental
+1 Unstoppable Ash
+1 Wildcall
+1 Yavimaya Dryad
+1 Wizard's Rockets
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Urza's Sylex
+1 Thrilling Encore
+1 Tempt with Immortality
+1 Tormod's Cryptkeeper
+1 Woodland Acolyte // Mend the Wilds
+1 Path to Exile
+1 Vivien, Nature's Avenger
+1 The Princess Takes Flight
+1 Twisted Sewer-Witch
 1 Wispweaver Angel
-1 Whip of Erebos
-1 The Wandering Emperor
-1 Strength from the Fallen
-1 Wild Endeavor
-1 Seedborn Muse
-1 Undying Beast
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Wildborn Preserver
-1 Winds of Abandon
-1 Wicked Guardian
-1 Woebearer
-1 Tetzimoc, Primal Death
-1 Triad of Fates
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Treasure Hunter
-{'overall': 4.252845528455285, 'cmc': 3.6176470588235294, 'ramp': '5', 'draw': '8', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ColfenortheLastYew.txt'}', 'draw': '8', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ColfenortheLastYew.txt'}
+1 Zombie Apocalypse
+1 Towashi Guide-Bot
+1 Willow Satyr
+1 Vessel of Nascency
+1 Vitaspore Thallid
+1 Tocasia's Onulet
+1 Vivien, Champion of the Wilds
+1 Whalebone Glider
+1 Toll of the Invasion
+1 Tormod's Crypt
+1 Vine Kami
+1 Undercity Upheaval
+1 Wildwood Mentor
+1 Twists and Turns // Mycoid Maze
+1 Zombie Assassin
+{'overall': 5.1993562231759665, 'cmc': 3.640625, 'ramp': 5, 'draw': 12, 'interaction': 8}

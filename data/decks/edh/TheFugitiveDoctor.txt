@@ -61,4 +61,5 @@
 1 Boseiju, Who Endures
 1 Talisman of Impulse
 1 Arcane Signet
-{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'edh', 'commander': 'TheFugitiveDoctor.txt'}
+1 Sol Ring
+{'overall': 12.38447488584475, 'cmc': 3.421875, 'ramp': 23, 'draw': 22, 'interaction': 11}
