@@ -1,0 +1,65 @@
+1 Myrkul, Lord of Bones
+1 Command Tower
+1 Sol Ring
+1 Devoted Druid
+1 Eidolon of Blossoms
+1 Sanctum Weaver
+1 Sterling Grove
+1 Viscera Seer
+1 Arcane Signet
+1 Archon of Sun's Grace
+1 Setessan Champion
+1 Swords to Plowshares
+1 Sakura-Tribe Elder
+1 Avacyn's Pilgrim
+1 Exotic Orchard
+1 Doomwake Giant
+1 Indatha Triome
+1 Barrenton Medic
+1 Overgrown Tomb
+1 Cultivate
+1 Temple Garden
+1 Sphere of Safety
+1 Godless Shrine
+1 Llanowar Elves
+1 Gisa, Glorious Resurrector
+1 Grim Guardian
+1 Jaheira, Friend of the Forest
+1 Destiny Spinner
+1 Cinderhaze Wretch
+1 Sandsteppe Citadel
+1 Birds of Paradise
+1 Damn
+1 Ajani's Chosen
+1 Bountiful Promenade
+1 Beast Within
+1 Farseek
+1 Zulaport Cutthroat
+1 Blood Artist
+1 Anointed Procession
+1 Undergrowth Stadium
+1 Elvish Mystic
+1 Nature's Lore
+1 Ashnod's Altar
+1 Path to Exile
+1 Kodama's Reach
+1 Vault of Champions
+1 Marsh Flats
+1 Verdant Catacombs
+1 Eternal Witness
+1 Second Harvest
+1 Heroic Intervention
+1 Grim Haruspex
+1 Canopy Vista
+1 High Market
+1 Elves of Deep Shadow
+1 Caves of Koilos
+1 Woe Strider
+1 Fyndhorn Elves
+1 Bojuka Bog
+1 Rampant Growth
+1 Parallel Lives
+1 Beast Whisperer
+1 Windswept Heath
+1 Llanowar Wastes
+{'overall': 7.224, 'cmc': 1.953125, 'ramp': 18, 'draw': 6, 'interaction': 4, 'folder': 'edhrec', 'commander': 'MyrkulLordofBones.txt'}

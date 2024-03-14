@@ -1,0 +1,101 @@
+1 Saint Traft and Rem Karolus
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Clarion Spirit
+1 Worthy Knight
+1 Hero of Precinct One
+1 Akroan Crusader
+1 Whispering Wizard
+1 General Ferrous Rokiric
+1 Vanguard of Brimaz
+1 Sigil of the Empty Throne
+1 Oyobi, Who Split the Heavens
+1 Eyes in the Skies
+1 Scion of Vitu-Ghazi
+1 Song of the Worldsoul
+1 Murmuring Mystic
+1 Summoner's Bane
+1 Geist Snatch
+1 Tura Kennerüd, Skyknight
+1 Thalia's Geistcaller
+1 Young Pyromancer
+1 Court of Grace
+1 Luminous Angel
+1 Third Path Iconoclast
+1 Poetic Ingenuity
+1 Brudiclad, Telchor Engineer
+1 Stonybrook Schoolmaster
+1 Elemental Summoning
+1 Prince Imrahil the Fair
+1 Forbidden Friendship
+1 Wake the Reflections
+1 Ajani's Last Stand
+1 Talrand, Sky Summoner
+1 Xerex Strobe-Knight
+1 Mascot Exhibition
+1 Desolation Twin
+1 Usher of the Fallen
+1 Spirit Summoning
+1 Kemba, Kha Regent
+1 Docent of Perfection // Final Iteration
+1 Kykar, Wind's Fury
+1 Docent of Perfection // Final Iteration
+1 Goblinslide
+1 Brimaz, King of Oreskos
+1 Efficient Construction
+1 The Circle of Loyalty
+1 Militia's Pride
+1 Specimen Collector
+1 Empyrial Storm
+1 Knight of Sorrows
+1 Warrant // Warden
+1 Resculpt
+1 Feywild Trickster
+1 Aerie Worshippers
+1 Falconer Adept
+1 Master's Guide-Mural // Master's Manufactory
+1 Historian's Boon
+1 Trostani's Judgment
+1 Indulge // Excess
+1 Rebellion of the Flamekin
+1 Syndicate Messenger
+1 Blaze Commando
+1 Security Detail
+1 Haunted Library
+1 Wand of the Elements
+1 Satyr Nyx-Smith
+{'overall': 1.4844129554655872, 'cmc': 3.742424242424242, 'ramp': '2', 'draw': '1', 'interaction': 4, 'folder': 'cos_sim', 'commander': 'SaintTraftandRemKarolus.txt'}}

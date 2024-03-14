@@ -61,4 +61,4 @@
 1 Traumatic Visions
 1 Welcome to the Fold
 1 Wren's Run Vanquisher
-{'overall': 11.438461538461539, 'cmc': 3.7142857142857144, 'ramp': 15, 'draw': 28, 'interaction': 3}
+{'overall': 11.438461538461539, 'cmc': 3.7142857142857144, 'ramp': 15, 'draw': 28, 'interaction': 3, 'folder': 'gpt', 'commander': 'AesiTyrantofGyreStrait.txt'}

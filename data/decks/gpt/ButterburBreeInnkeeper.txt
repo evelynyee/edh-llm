@@ -61,4 +61,4 @@
 1 Wanderlust
 1 Wedding Invitation
 1 Universal Solvent
-{'overall': 5.816666666666667, 'cmc': 3.0, 'ramp': 10, 'draw': 9, 'interaction': 8}
+{'overall': 5.816666666666667, 'cmc': 3.0, 'ramp': 10, 'draw': 9, 'interaction': 8, 'folder': 'gpt', 'commander': 'ButterburBreeInnkeeper.txt'}

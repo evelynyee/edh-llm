@@ -62,4 +62,4 @@
 1 Teething Wurmlet
 1 Vrestin, Menoptra Leader
 1 Yavimaya Ancients
-{'overall': 3.133663366336634, 'cmc': 3.15625, 'ramp': 6, 'draw': 3, 'interaction': 5}
+{'overall': 3.133663366336634, 'cmc': 3.15625, 'ramp': 6, 'draw': 3, 'interaction': 5, 'folder': 'gpt', 'commander': 'KathrilAspectWarper.txt'}

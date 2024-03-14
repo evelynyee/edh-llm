@@ -1,0 +1,65 @@
+1 Rose Tyler
+1 Out of Time
+1 Dust of Moments
+1 Heroes Remembered
+1 Chronomantic Escape
+1 Ivory Giant
+1 Riftmarked Knight
+1 Jhoira's Timebug
+1 Epochrasite
+1 Mox Tantalite
+1 Lotus Bloom
+1 Arcane Signet
+1 The Wedding of River Song
+1 Wilfred Mott
+1 The Moment
+1 Rotating Fireplace
+1 Soultether Golem
+1 Infinite Hourglass
+1 Time Bomb
+1 Knight of Old Benalia
+1 Knight of Sursi
+1 Benalish Commander
+1 Grateful Apparition
+1 Norn's Choirmaster
+1 Grand Abolisher
+1 Silence
+1 Flawless Maneuver
+1 Path to Exile
+1 Divine Congregation
+1 Restore Balance
+1 Resurgent Belief
+1 Sword of the Animist
+1 Spectra Ward
+1 Karn's Bastion
+1 Rogue's Passage
+1 Sol Talisman
+1 Sol Ring
+1 Atraxi Warden
+1 Adipose Offspring
+1 Astrid Peth
+1 Everybody Lives!
+1 Everything Comes to Dust
+1 Psychic Paper
+1 TARDIS
+1 The Girl in the Fireplace
+1 Crack in Time
+1 Four Knocks
+1 Sonic Screwdriver
+1 Lost Auramancers
+1 Ratchet, Field Medic
+1 Mother of Runes
+1 Sun Titan
+1 Ajani's Presence
+1 Apostle's Blessing
+1 Reprieve
+1 Teferi's Protection
+1 Swords to Plowshares
+1 Single Combat
+1 Veilstone Amulet
+1 Contagion Clasp
+1 Wedding Ring
+1 Lightning Greaves
+1 Grasp of Fate
+1 Timely Ward
+{'overall': 4.238172043010753, 'cmc': 2.90625, 'ramp': 7, 'draw': 6, 'interaction': 6, 'folder': 'edhrec', 'commander': 'RoseTyler.txt'}

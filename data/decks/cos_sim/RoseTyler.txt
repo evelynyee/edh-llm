@@ -1,0 +1,101 @@
+1 Rose Tyler
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Jhoira's Timebug
+1 Soultether Golem
+1 Aven Farseer
+1 Monk of the Open Hand
+1 Angelic Cub
+1 Faithful Squire // Kaiso, Memory of Loyalty
+1 Dust of Moments
+1 Rampaging Monument
+1 Infinite Hourglass
+1 Keleth, Sunmane Familiar
+1 Wingsteed Rider
+1 Fabled Hero
+1 Stonebinder's Familiar
+1 Akroan Skyguard
+1 Blessed Spirits
+1 Lagonna-Band Trailblazer
+1 Dusk Legion Duelist
+1 Lost Auramancers
+1 Victory's Envoy
+1 Out of Time
+1 Soulcatchers' Aerie
+1 Contractual Safeguard
+1 Phalanx Leader
+1 Fraying Line
+1 Codespell Cleric
+1 Norn's Wellspring
+1 Epochrasite
+1 Drillworks Mole
+1 Clockwork Vorrac
+1 Dawnbringer Charioteers
+1 Tempt with Glory
+1 Serum Tank
+1 Junk Golem
+1 Veteran of the Depths
+1 Mysterious Egg
+1 Stalwarts of Osgiliath
+1 Hexavus
+1 Scroll of the Masters
+1 Gavel of the Righteous
+1 Mikaeus, the Lunarch
+1 Shield Sphere
+1 Arcbound Overseer
+1 Chimeric Egg
+1 Call for Unity
+1 Otherworld Atlas
+1 Pests of Honor
+1 Clockwork Dragon
+1 Magistrate's Scepter
+1 Dramatist's Puppet
+1 Crack in Time
+1 Prowl, Stoic Strategist // Prowl, Pursuit Vehicle
+1 Celestial Ancient
+1 Tome of Legends
+1 Steel Dromedary
+1 Serrated Arrows
+1 Power Conduit
+1 Rotating Fireplace
+1 Weapon Rack
+1 Elder Cathar
+1 Adherent of Hope
+1 Clockwork Condor
+1 Ichorplate Golem
+1 Inspiring Roar
+{'overall': 2.7565656565656567, 'cmc': 3.046153846153846, 'ramp': '1', 'draw': '7', 'interaction': 2, 'folder': 'cos_sim', 'commander': 'RoseTyler.txt'}}

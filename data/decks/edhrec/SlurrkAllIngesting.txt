@@ -1,0 +1,65 @@
+1 Slurrk, All-Ingesting
+1 Aeve, Progenitor Ooze
+1 Biowaste Blob
+1 Biogenic Ooze
+1 Oran-Rief Ooze
+1 Predator Ooze
+1 Inspiring Call
+1 Acidic Slime
+1 Consuming Blob
+1 Ravenous Slime
+1 Scavenging Ooze
+1 Sol Ring
+1 Ochre Jelly
+1 Mitotic Slime
+1 Oran-Rief, the Vastwood
+1 Hardened Scales
+1 Kodama's Reach
+1 Gutter Grime
+1 Splitting Slime
+1 Rampant Growth
+1 Cultivate
+1 Gobbling Ooze
+1 Corrosive Ooze
+1 Experiment One
+1 Miming Slime
+1 Gelatinous Genesis
+1 Ancient Ooze
+1 Manaplasm
+1 Shamanic Revelation
+1 Ooze Flux
+1 Garruk's Uprising
+1 Arcane Signet
+1 Inexorable Blob
+1 Beast Within
+1 Slime Molding
+1 Smell Fear
+1 Tuskguard Captain
+1 Metallic Mimic
+1 Evolution Sage
+1 Lifecrafter's Gift
+1 Invigorating Surge
+1 Lifecrafter's Bestiary
+1 Rhonas's Monument
+1 Hydra's Growth
+1 Sylvan Anthem
+1 Armorcraft Judge
+1 Realmwalker
+1 Naturalize
+1 Biogenic Upgrade
+1 The Ozolith
+1 Jiang Yanggu, Wildcrafter
+1 Reliquary Tower
+1 Guardian Gladewalker
+1 Renata, Called to the Hunt
+1 Llanowar Elves
+1 Snakeskin Veil
+1 Courage in Crisis
+1 Three Visits
+1 Harmonize
+1 Death's Presence
+1 Mosswort Bridge
+1 Gluttonous Slime
+1 Bloodline Pretender
+1 Masked Vandal
+{'overall': 4.620157068062827, 'cmc': 2.984375, 'ramp': 8, 'draw': 7, 'interaction': 4, 'folder': 'edhrec', 'commander': 'SlurrkAllIngesting.txt'}

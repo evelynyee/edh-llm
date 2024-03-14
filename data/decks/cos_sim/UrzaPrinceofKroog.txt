@@ -1,0 +1,101 @@
+1 Urza, Prince of Kroog
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Island
+1 Plains
+1 Faerie Artisans
+1 Master's Guide-Mural // Master's Manufactory
+1 Irenicus's Vile Duplication
+1 Mechtitan Core
+1 Banishing Slash
+1 Saheeli's Artistry
+1 Vesuvan Duplimancy
+1 Rootborn Defenses
+1 Trostani's Judgment
+1 Devout Invocation
+1 Geralf, Visionary Stitcher
+1 Hunted by The Family
+1 Wake the Reflections
+1 Urza's Command
+1 Whirler Rogue
+1 Charismatic Conqueror
+1 Hallowed Haunting
+1 Resculpt
+1 Deeproot Pilgrimage
+1 Thopter Shop
+1 Ominous Roost
+1 Masterful Replication
+1 Phantom Steed
+1 Volo, Itinerant Scholar
+1 Faerie Slumber Party
+1 Wing Splicer
+1 Shadow Puppeteers
+1 Eyes in the Skies
+1 Argivian Cavalier
+1 Scion of Vitu-Ghazi
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Lena, Selfless Champion
+1 Extricator of Sin // Extricator of Flesh
+1 Depose // Deploy
+1 Efficient Construction
+1 Sensor Splicer
+1 Malcator, Purity Overseer
+1 Into the Fae Court
+1 Tempt with Reflections
+1 Launch Mishap
+1 Song of the Worldsoul
+1 Desecrated Tomb
+1 The Hive
+1 Angel's Tomb
+1 Genesis Chamber
+1 Ajani's Last Stand
+1 Clowning Around
+1 Triplicate Titan
+1 Master Trinketeer
+1 Soul Separator
+1 Night Scythe
+1 Glasspool Mimic // Glasspool Shore
+1 Astral Dragon
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Gigantoplasm
+1 Phyrexian Rebirth
+1 Aspiring Aeronaut
+1 Launch the Fleet
+1 Archon of Sun's Grace
+1 Historian's Boon
+1 Digsite Engineer
+1 Specimen Collector
+1 Preston, the Vanisher
+{'overall': 2.6078125, 'cmc': 3.9384615384615387, 'ramp': '2', 'draw': '5', 'interaction': 7, 'folder': 'cos_sim', 'commander': 'UrzaPrinceofKroog.txt'}}

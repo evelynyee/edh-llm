@@ -1,0 +1,65 @@
+1 Rishkar, Peema Renegade
+1 Inspiring Call
+1 Armorcraft Judge
+1 Ivy Lane Denizen
+1 Oran-Rief, the Vastwood
+1 Forgotten Ancient
+1 Beast Within
+1 Champion of Lambholt
+1 Incubation Druid
+1 Hardened Scales
+1 Renata, Called to the Hunt
+1 Fertilid
+1 Shamanic Revelation
+1 Llanowar Elves
+1 Gyre Sage
+1 Reclamation Sage
+1 Scavenging Ooze
+1 Evolution Sage
+1 Sol Ring
+1 Beast Whisperer
+1 Duskshell Crawler
+1 Loyal Guardian
+1 Elvish Mystic
+1 Pollenbright Druid
+1 Harmonize
+1 Rishkar's Expertise
+1 Llanowar Reborn
+1 Verdurous Gearhulk
+1 Heroic Intervention
+1 Managorger Hydra
+1 Herd Baloth
+1 Return of the Wildspeaker
+1 Leyline of Abundance
+1 Lifecrafter's Bestiary
+1 Fyndhorn Elves
+1 Karn's Bastion
+1 Elvish Visionary
+1 Scrounging Bandar
+1 Rampant Growth
+1 Tuskguard Captain
+1 Soul of the Harvest
+1 Ridgescale Tusker
+1 Nissa, Voice of Zendikar
+1 Cultivator of Blades
+1 Cultivate
+1 Jiang Yanggu, Wildcrafter
+1 Avatar of the Resolute
+1 Karametra's Acolyte
+1 Defiler of Vigor
+1 Oran-Rief Ooze
+1 The Great Henge
+1 Avenger of Zendikar
+1 Eternal Witness
+1 Return to Nature
+1 Overwhelming Stampede
+1 Mosswort Bridge
+1 Guardian Project
+1 Khalni Garden
+1 Genesis Hydra
+1 Nature's Claim
+1 Kodama of the West Tree
+1 Reliquary Tower
+1 The Ozolith
+1 Harvest Season
+{'overall': 8.320157068062828, 'cmc': 2.984375, 'ramp': 17, 'draw': 13, 'interaction': 3, 'folder': 'edhrec', 'commander': 'RishkarPeemaRenegade.txt'}

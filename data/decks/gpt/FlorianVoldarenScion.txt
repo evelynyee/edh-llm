@@ -62,4 +62,4 @@
 1 Virtus the Veiled
 1 Titan's Revenge
 1 Torrent of Stone
-{'overall': 5.919101123595506, 'cmc': 2.78125, 'ramp': 7, 'draw': 11, 'interaction': 14}
+{'overall': 5.919101123595506, 'cmc': 2.78125, 'ramp': 7, 'draw': 11, 'interaction': 14, 'folder': 'gpt', 'commander': 'FlorianVoldarenScion.txt'}

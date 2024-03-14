@@ -62,4 +62,4 @@
 1 Starke of Rath
 1 Unstable Frontier
 1 Wizard's Spellbook
-{'overall': 5.599746192893401, 'cmc': 3.078125, 'ramp': 5, 'draw': 12, 'interaction': 14}
+{'overall': 5.599746192893401, 'cmc': 3.078125, 'ramp': 5, 'draw': 12, 'interaction': 14, 'folder': 'gpt', 'commander': 'SaheelitheSunsBrilliance.txt'}

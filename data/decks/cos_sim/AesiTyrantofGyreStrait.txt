@@ -1,0 +1,101 @@
+1 Aesi, Tyrant of Gyre Strait
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Seer's Sundial
+1 Loam Dweller
+1 Shoal Kraken
+1 Burgeoning
+1 Wirewood Savage
+1 Courser of Kruphix
+1 Solemn Simulacrum
+1 Sarinth Steelseeker
+1 Composer of Spring
+1 Explore
+1 Kithkin Mourncaller
+1 Growth Spiral
+1 Grow from the Ashes
+1 Sage of the Falls
+1 Gaea's Balance
+1 Reclaim the Wastes
+1 Skyswimmer Koi
+1 Pedantic Learning
+1 Edge of Autumn
+1 Exploration
+1 Opal Lake Gatekeepers
+1 Strata Scythe
+1 Eureka Moment
+1 Risen Reef
+1 Krosan Wayfarer
+1 Primal Growth
+1 Shipwreck Looter
+1 Harrow
+1 Scaretiller
+1 Pendant of Prosperity
+1 Arbiter of the Ideal
+1 Beanstalk Giant // Fertile Footsteps
+1 Circle of the Land Druid
+1 Court of Bounty
+1 Walking Atlas
+1 Scaled Herbalist
+1 Sakura-Tribe Scout
+1 Llanowar Scout
+1 Thran Temporal Gateway
+1 Thunderherd Migration
+1 Viridian Revel
+1 Invasion of Pyrulea // Gargantuan Slabhorn
+1 Zimone, Quandrix Prodigy
+1 Elanor Gardner
+1 Fallowsage
+1 Elvish Pioneer
+1 District Guide
+1 Gatecreeper Vine
+1 Mystic Sanctuary
+1 Retreat to Coralhelm
+1 Ruin in Their Wake
+1 Sprouting Vines
+1 Vizier of the Anointed
+1 Budoka Gardener // Dokai, Weaver of Life
+1 Crop Rotation
+1 Horizon Spellbomb
+1 Monitor Monitor
+1 Caravan Vigil
+1 Yavimaya Elder
+1 Pilgrim's Eye
+1 Boseiju Reaches Skyward // Branch of Boseiju
+1 Elfhame Sanctuary
+1 Journey of Discovery
+{'overall': 17.471311475409834, 'cmc': 2.772727272727273, 'ramp': '32', 'draw': '35', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'AesiTyrantofGyreStrait.txt'}}

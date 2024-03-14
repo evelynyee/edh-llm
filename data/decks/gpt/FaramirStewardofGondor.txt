@@ -62,4 +62,4 @@
 1 Treasure Hunter
 1 Taranika, Akroan Veteran
 1 Vexilus Praetor
-{'overall': 5.523991031390135, 'cmc': 3.484375, 'ramp': 7, 'draw': 11, 'interaction': 9}
+{'overall': 5.523991031390135, 'cmc': 3.484375, 'ramp': 7, 'draw': 11, 'interaction': 9, 'folder': 'gpt', 'commander': 'FaramirStewardofGondor.txt'}

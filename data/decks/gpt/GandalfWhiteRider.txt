@@ -62,4 +62,4 @@
 1 Tandem Tactics
 1 Wedding Invitation
 1 Wandering Archaic // Explore the Vastlands
-{'overall': 6.283663366336634, 'cmc': 3.15625, 'ramp': 11, 'draw': 10, 'interaction': 8}
+{'overall': 6.283663366336634, 'cmc': 3.15625, 'ramp': 11, 'draw': 10, 'interaction': 8, 'folder': 'gpt', 'commander': 'GandalfWhiteRider.txt'}

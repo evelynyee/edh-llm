@@ -1,0 +1,65 @@
+1 Mayael the Anima
+1 Command Tower
+1 Sol Ring
+1 Cultivate
+1 Jungle Shrine
+1 Arcane Signet
+1 Terastodon
+1 Stomping Ground
+1 Temple Garden
+1 Swords to Plowshares
+1 Etali, Primal Storm
+1 Farseek
+1 Garruk's Uprising
+1 Gisela, Blade of Goldnight
+1 Elvish Piper
+1 Archetype of Endurance
+1 Seedborn Muse
+1 Kodama's Reach
+1 Sacred Foundry
+1 Rhythm of the Wild
+1 Avacyn, Angel of Hope
+1 Sunpetal Grove
+1 Lightning Greaves
+1 Rootbound Crag
+1 Mosswort Bridge
+1 Cinder Glade
+1 Rampant Growth
+1 Beast Within
+1 Lurking Predators
+1 Canopy Vista
+1 Kodama of the East Tree
+1 Nature's Lore
+1 Path to Exile
+1 Ruric Thar, the Unbowed
+1 Jetmir's Garden
+1 Worldspine Wurm
+1 Mirari's Wake
+1 Xenagos, God of Revels
+1 Ilharg, the Raze-Boar
+1 Soul of the Harvest
+1 Windswept Heath
+1 Gruul Ragebeast
+1 Angel of Serenity
+1 Birds of Paradise
+1 Wooded Foothills
+1 Arid Mesa
+1 Spearbreaker Behemoth
+1 Clifftop Retreat
+1 Zacama, Primal Calamity
+1 Godsire
+1 Swiftfoot Boots
+1 Three Visits
+1 Exotic Orchard
+1 Bountiful Promenade
+1 Mayael's Aria
+1 Terror of the Peaks
+1 Spellbreaker Behemoth
+1 Knotvine Mystic
+1 Heroic Intervention
+1 Evolving Wilds
+1 Worldly Tutor
+1 Vorinclex, Voice of Hunger
+1 Selvala, Heart of the Wilds
+1 Quicksilver Amulet
+{'overall': 5.630541871921182, 'cmc': 3.171875, 'ramp': 14, 'draw': 5, 'interaction': 5, 'folder': 'edhrec', 'commander': 'MayaeltheAnima.txt'}

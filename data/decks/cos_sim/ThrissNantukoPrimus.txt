@@ -1,0 +1,101 @@
+1 Thriss, Nantuko Primus
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Nantuko Disciple
+1 Devotee of Strength
+1 Alpha Kavu
+1 Kithkin Daggerdare
+1 Orochi Eggwatcher // Shidako, Broodmistress
+1 Ursapine
+1 Elven Fortress
+1 Tower of Champions
+1 Wielding the Green Dragon
+1 Titanic Growth
+1 Monstrous Growth
+1 Giant Growth
+1 Phytoburst
+1 Might of Oaks
+1 Untamed Might
+1 Shrink
+1 Staff of Zegon
+1 Sacred Armory
+1 Might of the Nephilim
+1 Insatiable Appetite
+1 Seal of Strength
+1 Pippin's Bravery
+1 Ghost-Lit Nourisher
+1 Elvish Herder
+1 Bloodtallow Candle
+1 Bounty of Might
+1 Wasteland Viper
+1 Ixalli's Keeper
+1 Narcissism
+1 Wildheart Invoker
+1 Sword of the Chosen
+1 Krosan Groundshaker
+1 Elven Lyre
+1 Larger Than Life
+1 Fanatical Fever
+1 Staggering Size
+1 Predator's Strike
+1 Crash the Ramparts
+1 Awaken the Bear
+1 Growth Cycle
+1 Crossroads Consecrator
+1 Skarrg Goliath
+1 Heartwood Shard
+1 Slaughterhorn
+1 Gift of Strength
+1 Devkarin Dissident
+1 Assembly-Worker
+1 Wyluli Wolf
+1 Iridescent Blademaster
+1 Joint Assault
+1 Tread Upon
+1 Massive Might
+1 Almighty Brushwagg
+1 Yavimaya Ancients
+1 Stonewood Invoker
+1 Unchecked Growth
+1 Skyshroud Archer
+1 Scab-Clan Charger
+1 Belbe's Armor
+1 For the Family
+1 Budoka Pupil // Ichiga, Who Topples Oaks
+1 Quilled Wolf
+1 Unnatural Predation
+{'overall': 0.787878787878788, 'cmc': 2.5384615384615383, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'ThrissNantukoPrimus.txt'}}

@@ -1,0 +1,101 @@
+1 Merry, Esquire of Rohan
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Mountain
+1 Plains
+1 Kor Scythemaster
+1 Death-Mask Duplicant
+1 Ratcatcher Trainee // Pest Problem
+1 Pouncing Lynx
+1 Fresh-Faced Recruit
+1 Soltari Lancer
+1 Mirage Phalanx
+1 Valor
+1 Kick in the Door
+1 Siege Modification
+1 Reflexes
+1 Daggersail Aeronaut
+1 Thorned Moloch
+1 Warden of the Beyond
+1 Sting, the Glinting Dagger
+1 Goblin Flotilla
+1 Talruum Champion
+1 Rowan's Battleguard
+1 Gisela, the Broken Blade // Brisela, Voice of Nightmares
+1 Warlord's Fury
+1 Eater of Virtue
+1 Altac Bloodseeker
+1 Sunlit Hoplite
+1 Swordsworn Cavalier
+1 Dwarven Strike Force
+1 Angelic Destiny
+1 Hanweir Lancer
+1 Brass-Talon Chimera
+1 Tegan Jovanka
+1 Aether Membrane
+1 Dub
+1 Preeminent Captain
+1 Mardu Runemark
+1 Bloodfire Enforcers
+1 Hell-Bent Raider
+1 Patrol Hound
+1 Wojek Halberdiers
+1 Liu Bei, Lord of Shu
+1 Cloister Gargoyle
+1 Icatian Skirmishers
+1 Landroval, Horizon Witness
+1 Nadaar, Selfless Paladin
+1 Trusted Pegasus
+1 Ace's Baseball Bat
+1 Skyrider Trainee
+1 Aggression
+1 Heart Wolf
+1 Sandals of Abdallah
+1 Gloom Stalker
+1 Vulshok Berserker
+1 Thundering Giant
+1 Raging Goblin
+1 Pyromantic Pilgrim
+1 Lightning Elemental
+1 Hostile Minotaur
+1 Goblin Chariot
+1 Bloodhaze Wolverine
+1 Bull-Rush Bruiser
+1 Gilded Cerodon
+1 Psychotic Fury
+1 Urza's Avenger
+1 Vow of Lightning
+1 Grand Master of Flowers
+{'overall': 1.9255924170616114, 'cmc': 3.196969696969697, 'ramp': '0', 'draw': '5', 'interaction': 1, 'folder': 'cos_sim', 'commander': 'MerryEsquireofRohan.txt'}}

@@ -62,4 +62,4 @@
 1 Woe Strider
 1 Tragic Poet
 1 Tendrils of Despair
-{'overall': 4.5994535519125685, 'cmc': 2.859375, 'ramp': 3, 'draw': 11, 'interaction': 8}
+{'overall': 4.5994535519125685, 'cmc': 2.859375, 'ramp': 3, 'draw': 11, 'interaction': 8, 'folder': 'gpt', 'commander': 'FirjaJudgeofValor.txt'}

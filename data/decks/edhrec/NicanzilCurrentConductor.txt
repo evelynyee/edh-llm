@@ -1,0 +1,65 @@
+1 Nicanzil, Current Conductor
+1 Jadelight Spelunker
+1 Cenote Scout
+1 Twists and Turns
+1 Deepfathom Echo
+1 Glowcap Lantern
+1 Hakbal of the Surging Soul
+1 Jadelight Ranger
+1 Path of Discovery
+1 Over the Edge
+1 Command Tower
+1 Seeker of Sunlight
+1 Topography Tracker
+1 River Herald Scout
+1 Sentinel of the Nameless City
+1 Enter the Unknown
+1 River Herald Guide
+1 Tatyova, Benthic Druid
+1 Merfolk Branchwalker
+1 Hinterland Harbor
+1 Herald of Secret Streams
+1 Hardened Scales
+1 Sol Ring
+1 Wildgrowth Walker
+1 Subterranean Schooner
+1 Tishana's Wayfinder
+1 Arcane Signet
+1 Waterwind Scout
+1 Path of Ancestry
+1 Beast Within
+1 Lodestone Needle
+1 Merfolk Cave-Diver
+1 Temple of Mystery
+1 Brackish Blunder
+1 Counterspell
+1 Reliquary Tower
+1 Wave Goodbye
+1 Evolution Sage
+1 Spyglass Siren
+1 Spelunking
+1 Deeproot Pilgrimage
+1 Inspiring Call
+1 Ixalli's Diviner
+1 Deeproot Waters
+1 Emperor Mihail II
+1 Vineglimmer Snarl
+1 Dreamroot Cascade
+1 Growth Spiral
+1 Simic Growth Chamber
+1 Yavimaya Coast
+1 Rejuvenating Springs
+1 Kopala, Warden of Waves
+1 Svyelun of Sea and Sky
+1 Siren Lookout
+1 Kumena, Tyrant of Orazca
+1 Kodama's Reach
+1 Simic Ascendancy
+1 Rogue's Passage
+1 Deeproot Elite
+1 Breeding Pool
+1 Cultivate
+1 Karn's Bastion
+1 Forerunner of the Heralds
+1 Master of the Pearl Trident
+{'overall': 9.407874015748032, 'cmc': 1.984375, 'ramp': 7, 'draw': 26, 'interaction': 3, 'folder': 'edhrec', 'commander': 'NicanzilCurrentConductor.txt'}

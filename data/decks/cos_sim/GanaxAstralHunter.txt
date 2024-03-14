@@ -1,0 +1,101 @@
+1 Ganax, Astral Hunter
+1 Golden Guardian // Gold-Forge Garrison
+1 Forbidden Orchard
+1 Spawning Bed
+1 Foundry of the Consuls
+1 Sliver Hive
+1 Gargoyle Castle
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Redcap Thief
+1 Wily Goblin
+1 Plundering Pirate
+1 Brazen Freebooter
+1 Patron of the Arts
+1 Exhibition Magician
+1 Gleaming Barrier
+1 Brass's Bounty
+1 Prized Statue
+1 Goblin Airbrusher
+1 Hoarding Ogre
+1 Rapacious Dragon
+1 Swashbuckler Extraordinaire
+1 Goldspan Dragon
+1 Plundering Barbarian
+1 Marching Duodrone
+1 Axgard Artisan
+1 Halo Scarab
+1 Marut
+1 Diamond Kaleidoscope
+1 Smashing Success
+1 Dungeoneer's Pack
+1 Horned Stoneseeker
+1 Emrakul's Hatcher
+1 Captain Lannery Storm
+1 Gilded Pinions
+1 Flick a Coin
+1 Vault Robber
+1 Noble's Purse
+1 Improvised Weaponry
+1 Tavern Scoundrel
+1 Brood Birthing
+1 Warping Wail
+1 Stone Retrieval Unit
+1 Swarming of Moria
+1 Slagstone Refinery
+1 Collector's Vault
+1 Scion of Opulence
+1 Curse of Opulence
+1 Urza's Saga
+1 Skittering Invasion
+1 Heap Gate
+1 You've Been Caught Stealing
+1 Trove of Temptation
+1 Cartographer's Companion
+1 Dockside Extortionist
+1 Seize the Spoils
+1 Sanguine Statuette
+1 Magnifying Glass
+1 Guild Artisan
+1 Gadrak, the Crown-Scourge
+1 Hammer of Purphoros
+1 Diamond Pick-Axe
+1 Surly Badgersaur
+1 Chrome Replicator
+1 Concession Stand
+1 Riveteers Requisitioner
+1 There and Back Again
+1 Careening Mine Cart
+1 Blight Herder
+1 Spawning Breath
+1 Blood Servitor
+1 Korvold and the Noble Thief
+{'overall': 18.067171717171718, 'cmc': 2.788732394366197, 'ramp': '57', 'draw': '11', 'interaction': 7, 'folder': 'cos_sim', 'commander': 'GanaxAstralHunter.txt'}}

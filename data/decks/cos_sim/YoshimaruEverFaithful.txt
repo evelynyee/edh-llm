@@ -1,0 +1,101 @@
+1 Yoshimaru, Ever Faithful
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Celebrity Fencer
+1 Hada Freeblade
+1 Champion of the Parish
+1 Prowling Felidar
+1 Youthful Valkyrie
+1 Makindi Shieldmate
+1 Ninth Bridge Patrol
+1 Flaming Fist Officer
+1 Angelic Quartermaster
+1 Sanguine Glorifier
+1 Boon of the Spirit Realm
+1 Thalia's Lieutenant
+1 Gavony Silversmith
+1 Charmed Stray
+1 Supply Runners
+1 Aeronaut Cavalry
+1 Patron of the Valiant
+1 Squad Captain
+1 Gatekeeper Gargoyle
+1 Expedition Raptor
+1 Cathars' Crusade
+1 Glorifier of Suffering
+1 Keleth, Sunmane Familiar
+1 Arcbound Crusher
+1 Supply-Line Cranes
+1 Seven-Tail Mentor
+1 Unruly Mob
+1 Guardian Kirin
+1 Backup Agent
+1 Star Pupil
+1 Relief Captain
+1 Ironpaw Aspirant
+1 Teyo's Lightshield
+1 Savior of the Sleeping
+1 Sunspring Expedition
+1 Dramatist's Puppet
+1 Soulcatchers' Aerie
+1 Ichorplate Golem
+1 Idyllic Grange
+1 Rising Populace
+1 Dueling Coach
+1 Dearly Departed
+1 Weapon Rack
+1 Rampaging Monument
+1 Venerable Knight
+1 Iron Apprentice
+1 Grim Poppet
+1 Arcbound Ravager
+1 Tempt with Glory
+1 Kazandu Blademaster
+1 Munda's Vanguard
+1 Arcbound Worker
+1 Arcbound Stinger
+1 Arcbound Mouser
+1 Serra Redeemer
+1 Anafenza, Kin-Tree Spirit
+1 Filigree Vector
+1 Arcbound Prototype
+1 Arcbound Hybrid
+1 Elder Cathar
+1 Serum Tank
+1 Sparring Construct
+1 Gird for Battle
+{'overall': 0.8967661691542288, 'cmc': 3.0923076923076924, 'ramp': '0', 'draw': '1', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'YoshimaruEverFaithful.txt'}}

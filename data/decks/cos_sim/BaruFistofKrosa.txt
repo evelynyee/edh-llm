@@ -1,0 +1,101 @@
+1 Baru, Fist of Krosa
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Cultivator of Blades
+1 Sylvan Anthem
+1 Thunderhawk Gunship
+1 Greensleeves, Maro-Sorcerer
+1 Night Scythe
+1 Maul Splicer
+1 Garruk, Primal Hunter
+1 Dawnhart Mentor
+1 Lictor
+1 Leyline Invocation
+1 Assemble the Entmoot
+1 Angel's Tomb
+1 Elvish Warmaster
+1 Voice of the Woods
+1 Enchanted Carriage
+1 Spore Burst
+1 Nemata, Grove Guardian
+1 Horn of Gondor
+1 Miming Slime
+1 Wolverine Riders
+1 Bonehoard
+1 One with the Kami
+1 Necron Monolith
+1 Sporemound
+1 Thundering Spineback
+1 Myriad Construct
+1 Fungal Sprouting
+1 Rampaging Baloths
+1 Scute Swarm
+1 Hornet Queen
+1 Zendikar's Roil
+1 Gruff Triplets
+1 Andúril, Flame of the West
+1 Imperious Perfect
+1 Seed Guardian
+1 Avenger of Zendikar
+1 Tyranid Invasion
+1 Roaring Earth
+1 Budoka Gardener // Dokai, Weaver of Life
+1 Nissa, Ascended Animist
+1 Orochi Eggwatcher // Shidako, Broodmistress
+1 Ezuri's Predation
+1 Mechtitan Core
+1 Fractal Harness
+1 Awaken the Woods
+1 Clown Car
+1 Myr Battlesphere
+1 Baru, Wurmspeaker
+1 Tangleweave Armor
+1 Hunted Troll
+1 Inexorable Blob
+1 Garruk Wildspeaker // Garruk Wildspeaker
+1 Garruk Wildspeaker
+1 Dwynen's Elite
+1 Rusted Relic
+1 Titan of Industry
+1 Herd Baloth
+1 Termagant Swarm
+1 Highspire Artisan
+1 Scurry Oak
+1 Staff of Titania
+1 Crash the Party
+1 Squirrel Wrangler
+{'overall': 1.1297047970479703, 'cmc': 4.1692307692307695, 'ramp': '0', 'draw': '2', 'interaction': 3, 'folder': 'cos_sim', 'commander': 'BaruFistofKrosa.txt'}}

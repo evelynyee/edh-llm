@@ -62,4 +62,4 @@
 1 Storybook Ride
 1 Sunbathing Rootwalla
 1 Wirewood Channeler
-{'overall': 4.6017241379310345, 'cmc': 3.625, 'ramp': 8, 'draw': 6, 'interaction': 11}
+{'overall': 4.6017241379310345, 'cmc': 3.625, 'ramp': 8, 'draw': 6, 'interaction': 11, 'folder': 'gpt', 'commander': 'LathieltheBounteousDawn.txt'}

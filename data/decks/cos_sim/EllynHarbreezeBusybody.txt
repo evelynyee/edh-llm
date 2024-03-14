@@ -1,0 +1,101 @@
+1 Ellyn Harbreeze, Busybody
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Fated Retribution
+1 Scroll Rack
+1 Kayla's Reconstruction
+1 Knight-Errant of Eos
+1 Weatherlight
+1 Invasion of Ravnica // Guildpact Paragon
+1 Board the Weatherlight
+1 Storybook Ride
+1 Mirror of Fate
+1 Ashnod's Cylix
+1 Deploy the Gatewatch
+1 Heroes' Podium
+1 Horn of the Mark
+1 Shrine of Piercing Vision
+1 Phyrexian Portal
+1 Myr Custodian
+1 Wilfred Mott
+1 Wandering Archaic // Explore the Vastlands
+1 Enlistment Officer
+1 Crystal Ball
+1 Ajani's Influence
+1 Guiding Bolt
+1 Aladdin's Lamp
+1 Stand Firm
+1 Harper Recruiter
+1 Recruitment Officer
+1 Automatic Librarian
+1 Prophet of the Peak
+1 Stoneforge Acolyte
+1 Thought Dissector
+1 Courageous Outrider
+1 Jar of Eyeballs
+1 Militia Bugler
+1 Icon of Ancestry
+1 Goblin Charbelcher
+1 Inscribed Tablet
+1 Thran Tome
+1 Bronze Walrus
+1 Thran Spider
+1 Reinforcements
+1 Brass Herald
+1 Timesifter
+1 Oltec Archaeologists
+1 Brainstone
+1 Visions
+1 Oblivion Sower
+1 Pyxis of Pandemonium
+1 Glimpse the Sun God
+1 Eye of Yawgmoth
+1 Sensei's Divining Top
+1 Oreskos Explorer
+1 Rabble Rousing
+1 Unexpectedly Absent
+1 Credit Voucher
+1 Ingenious Smith
+1 Acclaimed Contender
+1 Quarry Colossus
+1 Aven Mindcensor
+1 Surveyor's Scope
+1 Airlift Chaplain
+1 Reito Sentinel
+1 Armored Skyhunter
+1 Oaken Brawler
+{'overall': 9.45185185185185, 'cmc': 3.3230769230769233, 'ramp': '4', 'draw': '31', 'interaction': 2, 'folder': 'cos_sim', 'commander': 'EllynHarbreezeBusybody.txt'}}

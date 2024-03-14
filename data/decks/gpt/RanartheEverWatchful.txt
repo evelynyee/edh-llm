@@ -62,4 +62,4 @@
 1 Thassa, God of the Sea
 1 Vizier of Many Faces
 1 Temporal Mastery
-{'overall': 6.3517241379310345, 'cmc': 3.625, 'ramp': 7, 'draw': 14, 'interaction': 11}
+{'overall': 6.3517241379310345, 'cmc': 3.625, 'ramp': 7, 'draw': 14, 'interaction': 11, 'folder': 'gpt', 'commander': 'RanartheEverWatchful.txt'}

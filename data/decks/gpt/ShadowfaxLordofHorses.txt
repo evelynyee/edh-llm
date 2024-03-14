@@ -62,4 +62,4 @@
 1 Teyo's Lightshield
 1 Toymaker
 1 Will of the All-Hunter
-{'overall': 5.46140350877193, 'cmc': 3.5625, 'ramp': 10, 'draw': 6, 'interaction': 18}
+{'overall': 5.46140350877193, 'cmc': 3.5625, 'ramp': 10, 'draw': 6, 'interaction': 18, 'folder': 'gpt', 'commander': 'ShadowfaxLordofHorses.txt'}

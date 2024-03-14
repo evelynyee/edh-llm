@@ -1,0 +1,65 @@
+1 Saint Traft and Rem Karolus
+1 Command Tower
+1 Wildfire Awakener
+1 Arcane Signet
+1 Wand of the Worldsoul
+1 Sol Ring
+1 Flockchaser Phantom
+1 Meeting of Minds
+1 Hour of Reckoning
+1 Jeskai Ascendancy
+1 Kasla, the Broken Halo
+1 Mystic Monastery
+1 Swords to Plowshares
+1 Invasion of Segovia
+1 Skullclamp
+1 Exotic Orchard
+1 Drumbellower
+1 Conclave Tribunal
+1 Artistic Refusal
+1 Transcendent Message
+1 Kykar, Wind's Fury
+1 City on Fire
+1 Ephemeral Shields
+1 Devouring Light
+1 Impact Tremors
+1 Whirlwind of Thought
+1 Fallowsage
+1 Halo Fountain
+1 Clever Concealment
+1 Prairie Stream
+1 Bennie Bracks, Zoologist
+1 Stoke the Flames
+1 Zephyr Singer
+1 Cut Short
+1 Stonybrook Schoolmaster
+1 Temporal Cleansing
+1 Venerated Loxodon
+1 Furycalm Snarl
+1 Prosperous Partnership
+1 Relic of Legends
+1 Port Town
+1 Raugrin Triome
+1 Frostboil Snarl
+1 Temple of Enlightenment
+1 Hallowed Fountain
+1 Temple of Triumph
+1 Springleaf Drum
+1 Steam Vents
+1 Joyful Stormsculptor
+1 Mentor of the Meek
+1 Sacred Foundry
+1 Secure the Wastes
+1 Kher Keep
+1 Chant of Vitu-Ghazi
+1 Nesting Dovehawk
+1 Monastery Mentor
+1 Seraph of the Masses
+1 Temple of Epiphany
+1 Sea of Clouds
+1 Intruder Alarm
+1 Evolving Wilds
+1 Knight-Errant of Eos
+1 Elspeth, Sun's Champion
+1 Third Path Iconoclast
+{'overall': 6.231428571428571, 'cmc': 2.734375, 'ramp': 7, 'draw': 13, 'interaction': 10, 'folder': 'edhrec', 'commander': 'SaintTraftandRemKarolus.txt'}

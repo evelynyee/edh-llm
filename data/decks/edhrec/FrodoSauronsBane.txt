@@ -1,0 +1,65 @@
+1 Frodo, Sauron's Bane
+1 Samwise the Stouthearted
+1 Call of the Ring
+1 Sol Ring
+1 Command Tower
+1 Nazgûl
+1 Arcane Signet
+1 Gollum, Patient Plotter
+1 Swords to Plowshares
+1 Slip On the Ring
+1 Claim the Precious
+1 Sam's Desperate Rescue
+1 Boromir, Warden of the Tower
+1 Rogue's Passage
+1 Inherited Envelope
+1 Swiftfoot Boots
+1 Path to Exile
+1 Isolated Chapel
+1 Trailblazer's Boots
+1 Bilbo's Ring
+1 Whispersilk Cloak
+1 The One Ring
+1 Access Tunnel
+1 Caves of Koilos
+1 Mother of Runes
+1 Reprieve
+1 Mithril Coat
+1 One Ring to Rule Them All
+1 Witch-king of Angmar
+1 Lotho, Corrupt Shirriff
+1 Lightning Greaves
+1 Dark Ritual
+1 Orzhov Signet
+1 Gollum's Bite
+1 Took Reaper
+1 Godless Shrine
+1 Talisman of Hierarchy
+1 Uruk-hai Berserker
+1 Anguished Unmaking
+1 Vault of Champions
+1 War of the Last Alliance
+1 Shineshadow Snarl
+1 The Black Breath
+1 Faramir, Field Commander
+1 Spirit Mantle
+1 Night's Whisper
+1 Thieves' Tools
+1 Vexilus Praetor
+1 Fetid Heath
+1 Skrelv, Defector Mite
+1 Minas Tirith
+1 Open the Armory
+1 Phyrexian Arena
+1 Generous Gift
+1 Prowler's Helm
+1 The Black Gate
+1 Tainted Field
+1 The Battle of Bywater
+1 Damn
+1 Despark
+1 Urborg, Tomb of Yawgmoth
+1 Marsh Flats
+1 Bojuka Bog
+1 Giver of Runes
+{'overall': 6.37280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 11, 'interaction': 10, 'folder': 'edhrec', 'commander': 'FrodoSauronsBane.txt'}

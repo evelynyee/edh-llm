@@ -62,4 +62,4 @@
 1 Wandering Champion
 1 Thada Adel, Acquisitor
 1 Vex
-{'overall': 12.06637168141593, 'cmc': 3.53125, 'ramp': 8, 'draw': 37, 'interaction': 5}
+{'overall': 12.06637168141593, 'cmc': 3.53125, 'ramp': 8, 'draw': 37, 'interaction': 5, 'folder': 'gpt', 'commander': 'DragonlordOjutai.txt'}

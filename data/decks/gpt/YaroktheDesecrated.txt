@@ -62,4 +62,4 @@
 1 Vizier of Many Faces
 1 Vantress Paladin
 1 Unmake the Graves
-{'overall': 5.668888888888889, 'cmc': 3.515625, 'ramp': 7, 'draw': 11, 'interaction': 12}
+{'overall': 5.668888888888889, 'cmc': 3.515625, 'ramp': 7, 'draw': 11, 'interaction': 12, 'folder': 'gpt', 'commander': 'YaroktheDesecrated.txt'}

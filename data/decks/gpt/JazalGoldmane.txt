@@ -62,4 +62,4 @@
 1 Tenth District Guard
 1 Spatial Contortion
 1 Thousand-Year Elixir
-{'overall': 3.33681592039801, 'cmc': 3.140625, 'ramp': 6, 'draw': 4, 'interaction': 4}
+{'overall': 3.33681592039801, 'cmc': 3.140625, 'ramp': 6, 'draw': 4, 'interaction': 4, 'folder': 'gpt', 'commander': 'JazalGoldmane.txt'}

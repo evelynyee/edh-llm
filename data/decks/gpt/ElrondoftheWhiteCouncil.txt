@@ -61,4 +61,4 @@
 1 Turntimber Sower
 1 Teferi's Response
 1 Vivien, Monsters' Advocate
-{'overall': 6.308695652173913, 'cmc': 3.2857142857142856, 'ramp': 10, 'draw': 11, 'interaction': 9}
+{'overall': 6.308695652173913, 'cmc': 3.2857142857142856, 'ramp': 10, 'draw': 11, 'interaction': 9, 'folder': 'gpt', 'commander': 'ElrondoftheWhiteCouncil.txt'}

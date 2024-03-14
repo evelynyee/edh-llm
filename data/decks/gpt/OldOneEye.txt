@@ -62,4 +62,4 @@
 1 Vineshaper Mystic
 1 Tishana's Wayfinder
 1 Tovolar's Huntmaster // Tovolar's Packleader
-{'overall': 8.276748971193415, 'cmc': 3.796875, 'ramp': 13, 'draw': 17, 'interaction': 5}
+{'overall': 8.276748971193415, 'cmc': 3.796875, 'ramp': 13, 'draw': 17, 'interaction': 5, 'folder': 'gpt', 'commander': 'OldOneEye.txt'}

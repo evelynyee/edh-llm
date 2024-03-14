@@ -62,4 +62,4 @@
 1 Sphere of Law
 1 Sword of Light and Shadow
 1 Sword of War and Peace
-{'overall': 7.783663366336634, 'cmc': 3.15625, 'ramp': 10, 'draw': 17, 'interaction': 8}
+{'overall': 7.783663366336634, 'cmc': 3.15625, 'ramp': 10, 'draw': 17, 'interaction': 8, 'folder': 'gpt', 'commander': 'DjeruWithEyesOpen.txt'}

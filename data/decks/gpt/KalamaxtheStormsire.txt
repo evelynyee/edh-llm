@@ -61,4 +61,4 @@
 1 Waylaying Pirates
 1 Twinferno
 1 Wild-Magic Sorcerer
-{'overall': 9.440272373540855, 'cmc': 4.079365079365079, 'ramp': 13, 'draw': 21, 'interaction': 9}
+{'overall': 9.440272373540855, 'cmc': 4.079365079365079, 'ramp': 13, 'draw': 21, 'interaction': 9, 'folder': 'gpt', 'commander': 'KalamaxtheStormsire.txt'}

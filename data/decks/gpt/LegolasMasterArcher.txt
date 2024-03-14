@@ -62,4 +62,4 @@
 1 Witchbane Orb
 1 Champion of Lambholt
 1 Thorn Lieutenant
-{'overall': 6.023991031390135, 'cmc': 3.484375, 'ramp': 12, 'draw': 8, 'interaction': 9}
+{'overall': 6.023991031390135, 'cmc': 3.484375, 'ramp': 12, 'draw': 8, 'interaction': 9, 'folder': 'gpt', 'commander': 'LegolasMasterArcher.txt'}

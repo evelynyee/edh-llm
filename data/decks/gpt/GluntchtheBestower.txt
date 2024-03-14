@@ -62,4 +62,4 @@
 1 Ulamog's Crusher
 1 Vivid Revival
 1 Vessel of Nascency
-{'overall': 8.262, 'cmc': 3.90625, 'ramp': 13, 'draw': 16, 'interaction': 10}
+{'overall': 8.262, 'cmc': 3.90625, 'ramp': 13, 'draw': 16, 'interaction': 10, 'folder': 'gpt', 'commander': 'GluntchtheBestower.txt'}

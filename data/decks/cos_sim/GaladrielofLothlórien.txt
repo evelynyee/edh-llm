@@ -1,0 +1,101 @@
+1 Galadriel of Lothlórien
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Caravan Vigil
+1 Selvala's Stampede
+1 Skyclave Aerialist // Skyclave Invader
+1 Tempt with Discovery
+1 Lurking Predators
+1 Sarinth Steelseeker
+1 Peregrination
+1 Thrasios, Triton Hero
+1 Avenging Druid
+1 Wirewood Herald
+1 Borderland Explorer
+1 Time of Need
+1 Garruk, Caller of Beasts
+1 Draconic Muralists
+1 Coiling Oracle
+1 Shield-Wall Sentinel
+1 Living Wish
+1 Traverse the Ulvenwald
+1 Self-Assembler
+1 Jungle Wayfinder
+1 Travel Through Caradhras
+1 Sylvan Scrying
+1 Assembly Hall
+1 Dryad Greenseeker
+1 Open the Gates
+1 Wretched Throng
+1 Pack Hunt
+1 Gamekeeper
+1 Compass Gnome
+1 Ruin in Their Wake
+1 Lantern of Revealing
+1 Journeyer's Kite
+1 Worldly Tutor
+1 Sylvan Tutor
+1 Verdant Crescendo
+1 Path to the Festival
+1 Fabricate
+1 Gatecreeper Vine
+1 Giant Ladybug
+1 District Guide
+1 Trapmaker's Snare
+1 Journey for the Elixir
+1 Primal Surge
+1 Bifurcate
+1 Primal Growth
+1 Field Trip
+1 Loam Larva
+1 Campus Guide
+1 Eerie Procession
+1 Twice Upon a Time // Unlikely Meeting
+1 Lay of the Land
+1 Neurok Familiar
+1 Beanstalk Giant // Fertile Footsteps
+1 Cavalier of Thorns
+1 Wanderer's Twig
+1 Hunting Cheetah
+1 Traveler's Amulet
+1 Zoologist
+1 Foster
+1 Veteran Explorer
+1 Riptide Shapeshifter
+1 Braidwood Sextant
+1 Expedition Map
+{'overall': 17.65671641791045, 'cmc': 3.0454545454545454, 'ramp': '30', 'draw': '38', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'GaladrielofLothlórien.txt'}}

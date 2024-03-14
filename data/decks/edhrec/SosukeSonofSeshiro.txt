@@ -1,0 +1,65 @@
+1 Sosuke, Son of Seshiro
+1 Kashi-Tribe Elite
+1 Bramblewood Paragon
+1 Sol Ring
+1 Ivy Lane Denizen
+1 Cultivate
+1 Beast Within
+1 Sakura-Tribe Elder
+1 Champion of Lambholt
+1 Kashi-Tribe Warriors
+1 Matsu-Tribe Decoy
+1 Kodama's Reach
+1 Decorated Champion
+1 Orochi Ranger
+1 Kashi-Tribe Reaver
+1 Matsu-Tribe Sniper
+1 Sosuke's Summons
+1 Krosan Grip
+1 Harmonize
+1 Rampant Growth
+1 Tales of Master Seshiro
+1 Viridian Zealot
+1 Sachi, Daughter of Seshiro
+1 Oakhame Adversary
+1 Ambush Viper
+1 Rhonas's Monument
+1 Jedit Ojanen of Efrava
+1 Nacatl War-Pride
+1 Sylvan Anthem
+1 Arcane Signet
+1 Gorm the Great
+1 Heroic Intervention
+1 Swiftfoot Boots
+1 Matsu-Tribe Birdstalker
+1 Seshiro the Anointed
+1 Orochi Sustainer
+1 Guardian Project
+1 Imperious Perfect
+1 Overrun
+1 Nature's Lore
+1 Snake Umbra
+1 Oran-Rief, the Vastwood
+1 Elderleaf Mentor
+1 Wolverine Riders
+1 Return to Nature
+1 Return of the Wildspeaker
+1 Hooded Hydra
+1 Shamanic Revelation
+1 Nykthos, Shrine to Nyx
+1 Sakura-Tribe Springcaller
+1 Cobra Trap
+1 Nature's Claim
+1 Workshop Warchief
+1 Snakeskin Veil
+1 Den Protector
+1 Stonehoof Chieftain
+1 Triumph of the Hordes
+1 Myriad Landscape
+1 Ambassador Oak
+1 Snake Pit
+1 Beastmaster Ascension
+1 Tranquil Thicket
+1 Wilson, Refined Grizzly
+1 Hooded Brawler
+{'overall': 6.483663366336633, 'cmc': 3.15625, 'ramp': 10, 'draw': 11, 'interaction': 12, 'folder': 'edhrec', 'commander': 'SosukeSonofSeshiro.txt'}

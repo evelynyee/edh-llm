@@ -62,4 +62,4 @@
 1 Voyager Staff
 1 Throne of Bone
 1 Windcaller Aven
-{'overall': 9.178925619834711, 'cmc': 3.78125, 'ramp': 5, 'draw': 28, 'interaction': 8}
+{'overall': 9.178925619834711, 'cmc': 3.78125, 'ramp': 5, 'draw': 28, 'interaction': 8, 'folder': 'gpt', 'commander': 'EmperorMihailII.txt'}

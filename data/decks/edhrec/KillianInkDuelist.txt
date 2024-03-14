@@ -1,0 +1,65 @@
+1 Killian, Ink Duelist
+1 Command Tower
+1 Sram, Senior Edificer
+1 Arcane Signet
+1 All That Glitters
+1 Ethereal Armor
+1 Sage's Reverie
+1 Sol Ring
+1 Unquestioned Authority
+1 Mesa Enchantress
+1 Kor Spiritdancer
+1 Utter End
+1 Orzhov Signet
+1 Battle Mastery
+1 Caves of Koilos
+1 Light of Promise
+1 Timely Ward
+1 Winds of Rath
+1 Angelic Gift
+1 Spirit Mantle
+1 Open the Armory
+1 Mantle of the Ancients
+1 Talisman of Hierarchy
+1 Hateful Eidolon
+1 Tainted Field
+1 Generous Gift
+1 Heliod's Pilgrim
+1 Angelic Destiny
+1 Swiftfoot Boots
+1 Isolated Chapel
+1 Rogue's Passage
+1 Edge of the Divinity
+1 Eidolon of Countless Battles
+1 Darksteel Mutation
+1 Blessing of Leeches
+1 Swords to Plowshares
+1 Temple of Silence
+1 Grisly Transformation
+1 Phyresis
+1 Silverquill Command
+1 Shineshadow Snarl
+1 Sunbond
+1 Crib Swap
+1 Pentarch Ward
+1 Light-Paws, Emperor's Voice
+1 Bojuka Bog
+1 Godless Shrine
+1 Astarion's Thirst
+1 Orzhov Basilica
+1 Spectra Ward
+1 Vault of Champions
+1 Archon of Sun's Grace
+1 Agent of the Fates
+1 Sign in Blood
+1 General's Enforcer
+1 Hall of Heliod's Generosity
+1 Hyena Umbra
+1 Retether
+1 Holy Mantle
+1 Dark Dabbling
+1 Shelter
+1 Minion's Return
+1 Read the Bones
+1 Sun Titan
+{'overall': 6.332758620689655, 'cmc': 2.265625, 'ramp': 4, 'draw': 16, 'interaction': 9, 'folder': 'edhrec', 'commander': 'KillianInkDuelist.txt'}

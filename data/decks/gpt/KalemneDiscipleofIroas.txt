@@ -62,4 +62,4 @@
 1 Traveling Minister
 1 Wildfire Cerberus
 1 Vial of Poison
-{'overall': 4.31244019138756, 'cmc': 3.265625, 'ramp': 4, 'draw': 8, 'interaction': 14}
+{'overall': 4.31244019138756, 'cmc': 3.265625, 'ramp': 4, 'draw': 8, 'interaction': 14, 'folder': 'gpt', 'commander': 'KalemneDiscipleofIroas.txt'}

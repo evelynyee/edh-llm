@@ -1,0 +1,65 @@
+1 Ikra Shidiqi, the Usurper
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Rampant Growth
+1 Golgari Rot Farm
+1 Cultivate
+1 Jungle Hollow
+1 Dina, Soul Steeper
+1 Kodama's Reach
+1 Leyline Prowler
+1 Golgari Guildgate
+1 Temple of Malady
+1 Woodland Cemetery
+1 Necroblossom Snarl
+1 Marauding Blight-Priest
+1 Moldervine Reclamation
+1 Verdant Sun's Avatar
+1 Beast Within
+1 Accomplished Alchemist
+1 Ezzaroot Channeler
+1 Mortality Spear
+1 Witch of the Moors
+1 Return to Nature
+1 Vampire Nighthawk
+1 Farseek
+1 Golgari Signet
+1 Foul Orchard
+1 Terramorphic Expanse
+1 Tainted Wood
+1 Ancient Lumberknot
+1 Tivash, Gloom Summoner
+1 Fynn, the Fangbearer
+1 Undergrowth Stadium
+1 Bloodthirsty Aerialist
+1 Hooded Blightfang
+1 Vito, Thorn of the Dusk Rose
+1 Bolas's Citadel
+1 Sapling of Colfenor
+1 Defiant Bloodlord
+1 Golgari Charm
+1 Heroic Intervention
+1 Explore
+1 Read the Bones
+1 Nature's Lore
+1 Assault Formation
+1 Sanguine Bond
+1 Radiant Fountain
+1 Urborg, Tomb of Yawgmoth
+1 Evolving Wilds
+1 Overgrown Tomb
+1 Llanowar Wastes
+1 Kappa Tech-Wrecker
+1 Saryth, the Viper's Fang
+1 Veinwitch Coven
+1 Valentin, Dean of the Vein
+1 Chevill, Bane of Monsters
+1 Assassin's Trophy
+1 Talisman of Resilience
+1 Sangromancer
+1 Sakura-Tribe Elder
+1 Night's Whisper
+1 Three Visits
+1 Demonic Tutor
+{'overall': 6.625806451612903, 'cmc': 2.421875, 'ramp': 14, 'draw': 8, 'interaction': 6, 'folder': 'edhrec', 'commander': 'IkraShidiqitheUsurper.txt'}

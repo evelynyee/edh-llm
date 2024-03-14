@@ -62,4 +62,4 @@
 1 Surging Sentinels
 1 Voldaren Epicure
 1 Thraben Heretic
-{'overall': 7.6899999999999995, 'cmc': 3.125, 'ramp': 9, 'draw': 17, 'interaction': 11}
+{'overall': 7.6899999999999995, 'cmc': 3.125, 'ramp': 9, 'draw': 17, 'interaction': 11, 'folder': 'gpt', 'commander': 'JennyGeneratedAnomaly.txt'}

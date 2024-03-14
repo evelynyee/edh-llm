@@ -62,4 +62,4 @@
 1 Take into Custody
 1 Vedalken Infiltrator
 1 Time Warp
-{'overall': 5.751724137931035, 'cmc': 3.625, 'ramp': 5, 'draw': 14, 'interaction': 9}
+{'overall': 5.751724137931035, 'cmc': 3.625, 'ramp': 5, 'draw': 14, 'interaction': 9, 'folder': 'gpt', 'commander': 'Tromokratis.txt'}

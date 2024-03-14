@@ -1,0 +1,65 @@
+1 Gwaihir, Greatest of the Eagles
+1 Sol Ring
+1 The Gaffer
+1 Swords to Plowshares
+1 Arcane Signet
+1 Griffin Aerie
+1 Shattered Angel
+1 Soul Warden
+1 Well of Lost Dreams
+1 Crested Sunmare
+1 Cleric Class
+1 Dawn of Hope
+1 Valkyrie Harbinger
+1 Angelic Accord
+1 Revitalize
+1 Healer's Flock
+1 Pristine Talisman
+1 Soul's Attendant
+1 Minas Tirith
+1 Sunscorch Regent
+1 Nykthos Paragon
+1 The Book of Exalted Deeds
+1 Generous Gift
+1 Path to Exile
+1 Celestial Force
+1 Riot Control
+1 Linden, the Steadfast Queen
+1 Sephara, Sky's Blade
+1 True Conviction
+1 Radiant Fountain
+1 Invoke the Divine
+1 Fumigate
+1 Archangel of Thune
+1 Kabira Crossroads
+1 Nesting Dovehawk
+1 Path of Bravery
+1 Mind Stone
+1 Lone Rider
+1 Idol of Oblivion
+1 Wayfarer's Bauble
+1 Intangible Virtue
+1 Tocasia's Welcome
+1 Rhox Faithmender
+1 Ajani's Pridemate
+1 Windbrisk Heights
+1 Austere Command
+1 Rewards of Diversity
+1 War Room
+1 Mondrak, Glory Dominus
+1 Heron of Hope
+1 Sanctify
+1 Cut a Deal
+1 Rosie Cotton of South Lane
+1 Splendor Mare
+1 Light of Hope
+1 Marble Diamond
+1 Celestine, the Living Saint
+1 Heliod, Sun-Crowned
+1 Rootborn Defenses
+1 Aetherflux Reservoir
+1 Sigarda's Splendor
+1 Emeria, the Sky Ruin
+1 Ambitious Farmhand
+1 Felidar Sovereign
+{'overall': 5.766666666666667, 'cmc': 3.0, 'ramp': 7, 'draw': 12, 'interaction': 7, 'folder': 'edhrec', 'commander': 'GwaihirGreatestoftheEagles.txt'}

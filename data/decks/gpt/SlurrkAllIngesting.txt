@@ -62,4 +62,4 @@
 1 Wildgrowth Walker
 1 Woodland Champion
 1 Verdant Mastery
-{'overall': 7.929400749063671, 'cmc': 4.171875, 'ramp': 13, 'draw': 15, 'interaction': 9}
+{'overall': 7.929400749063671, 'cmc': 4.171875, 'ramp': 13, 'draw': 15, 'interaction': 9, 'folder': 'gpt', 'commander': 'SlurrkAllIngesting.txt'}

@@ -1,0 +1,65 @@
+1 Nethroi, Apex of Death
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Indatha Triome
+1 Eerie Ultimatum
+1 Gemrazer
+1 Sakura-Tribe Elder
+1 Sandsteppe Citadel
+1 Eternal Witness
+1 Necropanther
+1 Exotic Orchard
+1 Overgrown Tomb
+1 Boneyard Lurker
+1 Swords to Plowshares
+1 Migratory Greathorn
+1 Temple Garden
+1 Godless Shrine
+1 Cultivate
+1 Buried Alive
+1 Satyr Wayfinder
+1 Mythos of Nethroi
+1 Stitcher's Supplier
+1 Viscera Seer
+1 Golgari Grave-Troll
+1 Grisly Salvage
+1 Skull Prophet
+1 Dirge Bat
+1 Reclamation Sage
+1 Karmic Guide
+1 Llanowar Wastes
+1 Altar of Dementia
+1 Evolving Wilds
+1 Birds of Paradise
+1 Blood Artist
+1 Woodland Cemetery
+1 Faeburrow Elder
+1 Caves of Koilos
+1 Nyx Weaver
+1 Polukranos, Unchained
+1 Undergrowth Stadium
+1 Underrealm Lich
+1 Old Stickfingers
+1 Marsh Flats
+1 Farseek
+1 Zulaport Cutthroat
+1 Luminous Broodmoth
+1 Fiend Artisan
+1 Verdant Catacombs
+1 Canopy Vista
+1 Syr Konrad, the Grim
+1 Auspicious Starrix
+1 Bojuka Bog
+1 Death's Oasis
+1 Isolated Chapel
+1 Stinkweed Imp
+1 Ravenous Chupacabra
+1 Sunpetal Grove
+1 Reveillark
+1 Vault of Champions
+1 Path to Exile
+1 World Shaper
+1 Rampant Growth
+1 Cubwarden
+{'overall': 4.777536231884057, 'cmc': 2.15625, 'ramp': 11, 'draw': 3, 'interaction': 7, 'folder': 'edhrec', 'commander': 'NethroiApexofDeath.txt'}

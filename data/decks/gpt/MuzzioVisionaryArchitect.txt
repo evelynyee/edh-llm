@@ -62,4 +62,4 @@
 1 Tel-Jilad Stylus
 1 Tribute Mage
 1 Walking Atlas
-{'overall': 9.892372881355932, 'cmc': 3.6875, 'ramp': 6, 'draw': 29, 'interaction': 12}
+{'overall': 9.892372881355932, 'cmc': 3.6875, 'ramp': 6, 'draw': 29, 'interaction': 12, 'folder': 'gpt', 'commander': 'MuzzioVisionaryArchitect.txt'}

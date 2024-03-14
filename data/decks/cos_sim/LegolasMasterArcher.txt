@@ -1,0 +1,101 @@
+1 Legolas, Master Archer
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Savage Stomp
+1 Titanic Brawl
+1 Animist's Might
+1 Mage Duel
+1 Hunter's Mark
+1 Bouncer's Beatdown
+1 Not of This World
+1 Outmuscle
+1 Gargos, Vicious Watcher
+1 Ancient Imperiosaur
+1 Pause for Reflection
+1 Strength of the Tajuru
+1 Hierophant Bio-Titan
+1 Living Totem
+1 Lys Alana Bowmaster
+1 Inscription of Abundance
+1 Heart of Kiran
+1 Kurgadon
+1 Struggle for Skemfar
+1 Agatha's Champion
+1 Boreal Outrider
+1 Tail Swipe
+1 Sentinel Tower
+1 Finishing Move
+1 Wild Onslaught
+1 Spoils of the Hunt
+1 Caller of the Hunt
+1 Kavu Primarch
+1 Sphinx-Bone Wand
+1 Blessing of Frost
+1 Lux Artillery
+1 Gwenna, Eyes of Gaea
+1 Nature's Panoply
+1 The Crowd Goes Wild
+1 Nissa's Judgment
+1 Sword of Once and Future
+1 Reflecting Mirror
+1 Sundering Vitae
+1 Falling Timber
+1 Hexbane Tortoise
+1 Charge of the Forever-Beast
+1 Chord of Calling
+1 Sawtusk Demolisher
+1 Karok Wrangler
+1 Liberator, Urza's Battlethopter
+1 Solidarity of Heroes
+1 Primeval Protector
+1 Purple Worm
+1 Patchwork Automaton
+1 Will-Forged Golem
+1 Impervious Greatwurm
+1 Halo Hopper
+1 Siege Wurm
+1 Monstrous Onslaught
+1 Hunter's Edge
+1 Obscuring Haze
+1 TARDIS
+1 Darksteel Sentinel
+1 Hunt the Weak
+1 Carnivorous Canopy
+1 Generous Visitor
+1 Halana, Kessig Ranger
+1 Gemrazer
+{'overall': 2.0058365758754864, 'cmc': 3.953846153846154, 'ramp': '2', 'draw': '1', 'interaction': 15, 'folder': 'cos_sim', 'commander': 'LegolasMasterArcher.txt'}}
