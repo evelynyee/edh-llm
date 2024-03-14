@@ -61,4 +61,5 @@
 1 Sneak Attack
 1 Mirror March
 1 Blightsteel Colossus
-{'overall': 7.358181818181818, 'cmc': 4.365079365079365, 'ramp': '15', 'draw': '11', 'interaction': 8, 'folder': 'edh', 'commander': 'IlhargtheRazeBoar.txt'}
+1 Inferno Titan
+{'overall': 7.355516014234876, 'cmc': 4.390625, 'ramp': 15, 'draw': 11, 'interaction': 8}

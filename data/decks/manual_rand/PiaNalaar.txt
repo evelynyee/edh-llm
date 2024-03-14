@@ -1,65 +1,65 @@
 1 Pia Nalaar
-1 Voldaren Duelist
-1 Tatsumasa, the Dragon's Fang
-1 Supply Drop
-1 Skyblinder Staff
-1 Toggo, Goblin Weaponsmith
-1 Torch Courier
-1 Éomer of the Riddermark
-1 Tundra Kavu
-1 Torch Fiend
-1 Strike It Rich
-1 Tin Street Market
-1 Thopter Assembly
-1 Windseeker Centaur
-1 Thornbite Staff
-1 Sunfire Torch
-1 Weaselback Redcap
-1 Stensia Uprising
-1 Vampires' Vengeance
-1 Urza's Miter
-1 Zurgo Bellstriker
-1 Zelyon Sword
-1 Thaumatic Compass // Spires of Orazca
-1 Sneaking Guide
-1 Surly Badgersaur
-1 Vaultbreaker
-1 Strionic Resonator
-1 Toralf, God of Fury // Toralf's Hammer
-1 Spawning Pit
-1 Stoneshock Giant
-1 Shinen of Fury's Fire
-1 Titan Forge
-1 The Reaver Cleaver
-1 Spawnsire of Ulamog
-1 Street Urchin
-1 Searing Barb
-1 Wall of Fire
-1 Yellow Scarves General
-1 Sky Skiff
-1 Warpath
+1 Trueheart Twins
+1 Warmonger Hellkite
+1 Thopter Engineer
+1 Viashino Shanktail
+1 Whalebone Glider
+1 Village Messenger // Moonrise Intruder
+1 Sylvok Lifestaff
+1 Urza's Factory
+1 Sword of Light and Shadow
+1 Zealous Conscripts
 1 War Cadence
-1 Sword of the Meek
-1 True-Faith Censer
-1 Young Red Dragon // Bathe in Gold
+1 Warmonger's Chariot
+1 Thundermaw Hellkite
+1 Urn of Godfire
+1 Torch Fiend
 1 Smelt
-1 Tilonalli's Crown
-1 Street Spasm
-1 Stitcher's Graft
-1 Wildfire Eternal
-1 Wildfire Emissary
-1 Swiftfoot Boots
-1 Smashing Success
-1 Tuktuk Rubblefort
-1 Thatcher Revolt
-1 Silverskin Armor
-1 Utility Knife
-1 Valakut Fireboar
-1 Wedding Invitation
-1 Tomb of the Spirit Dragon
-1 Visions of Phyrexia
-1 You've Been Caught Stealing
-1 Warchief Giant
+1 Weapon Surge
+1 Stampede Rider
+1 Thundermare
+1 Wrecking Crew
+1 Torch Gauntlet
+1 Soul Separator
+1 Wine of Blood and Iron
+1 Éomer, Marshal of Rohan
+1 Warcry Phoenix
+1 The Triumph of Anax
+1 Toggo, Goblin Weaponsmith
+1 Slumbering Tora
+1 Veteran's Voice
+1 Su-Chi Cave Guard
+1 The Elder Dragon War
+1 Zurzoth, Chaos Rider
+1 Strike It Rich
+1 Strandwalker
+1 Chrome Mox
+1 Stone Retrieval Unit
+1 Wizard's Lightning
+1 Trusty Machete
+1 Two-Handed Axe // Sweeping Cleave
+1 Vulshok Splitter
+1 Tarrian's Soulcleaver
+1 Voldaren Epicure
+1 Vithian Stinger
+1 Twist Allegiance
+1 Witch's Mark
+1 The Mycosynth Gardens
+1 Wave of Indifference
+1 Will-Forged Golem
 1 Thunderhawk Gunship
-1 Volatile Arsonist // Dire-Strain Anarchist
-{'overall': 5.348802395209581, 'cmc': 3.34, 'ramp': '9', 'draw': '7', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'PiaNalaar.txt'}'7', 'interaction': 15, 'folder': 'manual_rand', 'commander': 'PiaNalaar.txt'}
+1 Varchild's Crusader
+1 Spinal Villain
+1 Skinwing
+1 Volcanic Offering
+1 Wrap in Flames
+1 Terror of the Peaks
+1 Toralf, God of Fury // Toralf's Hammer
+1 Tilonalli's Summoner
+1 Urza's Saga
+1 Toralf, God of Fury // Toralf's Hammer
+1 Traitorous Greed
+1 Vanquisher's Axe
+1 Tentative Connection
+1 Young Red Dragon // Bathe in Gold
+{'overall': 3.776865671641791, 'cmc': 3.1904761904761907, 'ramp': 6, 'draw': 4, 'interaction': 13}

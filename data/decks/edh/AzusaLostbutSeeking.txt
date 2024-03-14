@@ -61,4 +61,5 @@
 1 Thespian's Stage
 1 Ulvenwald Hydra
 1 Return of the Wildspeaker
-{'overall': 8.523006134969325, 'cmc': 2.5873015873015874, 'ramp': '17', 'draw': '13', 'interaction': 5, 'folder': 'edh', 'commander': 'AzusaLostbutSeeking.txt'}
+1 Vorinclex, Voice of Hunger
+{'overall': 8.748538011695906, 'cmc': 2.671875, 'ramp': 18, 'draw': 13, 'interaction': 5}

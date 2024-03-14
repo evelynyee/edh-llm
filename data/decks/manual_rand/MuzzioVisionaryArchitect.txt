@@ -1,65 +1,65 @@
 1 Muzzio, Visionary Architect
-1 Worry Beads
-1 Temple of the Dragon Queen
-1 Venerated Teacher
-1 Write into Being
-1 Tower Geist
-1 Tolarian Contempt
-1 Voda Sea Scavenger
-1 Soothsaying
-1 Thought Nibbler
-1 Sphinx of Clear Skies
-1 Yarok's Wavecrasher
-1 Thirst for Knowledge
-1 Thwart
-1 Wizard Mentor
-1 The Deck of Many Things
-1 Tezzeret, Artifice Master
-1 Timebender
-1 Verdant Catacombs
-1 Twice Upon a Time // Unlikely Meeting
-1 Spy Network
-1 Wooded Foothills
-1 Sword of Hearth and Home
-1 Visions of Duplicity
-1 Tunnel Vision
-1 Vesuvan Drifter
-1 Vantress Paladin
-1 Terminal Moraine
-1 The Everflowing Well // The Myriad Pools
-1 Whetwheel
-1 Treasure Mage
-1 Temporal Eddy
-1 Silundi Vision // Silundi Isle
-1 Volrath's Shapeshifter
+1 Surrakar Spellblade
 1 Wall of Forgotten Pharaohs
-1 Workshop Elders
-1 Telling Time
-1 Voyage's End
-1 Timetwister
-1 Trickster Mage
-1 Wall of Lost Thoughts
-1 Wibbly-wobbly, Timey-wimey
-1 Timestream Navigator
-1 Viscerid Deepwalker
-1 Weight of Memory
-1 Watcher for Tomorrow
+1 Veiling Oddity
+1 Wondrous Crucible
+1 Stroke of Genius
 1 Vanquisher's Banner
-1 Zulaport Duelist
-1 Wand of Denial
-1 Treasure Chest
-1 Zoetic Cavern
-1 Veiled Sentry
-1 Whirlpool Whelm
-1 Ulamog's Reclaimer
-1 Titan's Presence
-1 Trade Routes
-1 Tormod's Cryptkeeper
-1 Urza's Filter
-1 Vortex Elemental
-1 Spined Megalodon
-1 Syr Elenora, the Discerning
-1 Wheel of Torture
-1 Subterranean Schooner
-1 Turbulent Dreams
-{'overall': 7.016666666666667, 'cmc': 3.0, 'ramp': '5', 'draw': '20', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'MuzzioVisionaryArchitect.txt'}action': 2, 'folder': 'manual_rand', 'commander': 'MuzzioVisionaryArchitect.txt'}
+1 Xenograft
+1 Vedalken Archmage
+1 Tidings
+1 Wandering Eye
+1 Teferi's Wavecaster
+1 Wanderer's Twig
+1 Spire Phantasm
+1 Thought Nibbler
+1 Thumbscrews
+1 Wanderwine Prophets
+1 Urza, Lord High Artificer
+1 Test of Talents
+1 Waterlogged Hulk // Watertight Gondola
+1 Trench Gorger
+1 Smelting Vat
+1 Spectral Arcanist
+1 Volshe Tideturner
+1 The Indomitable
+1 Spire Owl
+1 Tolaria West
+1 Vexing Arcanix
+1 Telepathy
+1 Tymora's Invoker
+1 Storm Cauldron
+1 Vendilion Clique
+1 Wandering Archaic // Explore the Vastlands
+1 Zahid, Djinn of the Lamp
+1 Ugin, the Ineffable
+1 Vedalken Infuser
+1 Thaumatic Compass // Spires of Orazca
+1 Zephyr Singer
+1 Tasha's Hideous Laughter
+1 Soldevi Digger
+1 Shimmer of Possibility
+1 Wu Scout
+1 Watchful Automaton
+1 Ulamog, the Ceaseless Hunger
+1 Whispergear Sneak
+1 Weaver of Lies
+1 Unsummon
+1 Telemin Performance
+1 Treasure Cruise
+1 Windrider Patrol
+1 Taigam's Scheming
+1 Ulamog's Despoiler
+1 The Temporal Anchor
+1 Timin, Youthful Geist
+1 Undead Alchemist
+1 Tenacious Tomeseeker
+1 Trophy Mage
+1 The Grey Havens
+1 Sphinx of the Chimes
+1 Yarok's Wavecrasher
+1 Storm Elemental
+1 Surtland Elementalist
+1 Weave Fate
+1 Waterspout Elemental
+{'overall': 7.564056224899598, 'cmc': 3.890625, 'ramp': 7, 'draw': 21, 'interaction': 1}

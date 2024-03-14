@@ -61,4 +61,5 @@
 1 Legolas, Counter of Kills
 1 Swan Song
 1 Sigiled Starfish
-{'overall': 7.2756410256410255, 'cmc': 1.95, 'ramp': '9', 'draw': '15', 'interaction': 5, 'folder': 'edh', 'commander': 'GaladrielofLothlórien.txt'}
+1 Thassa, God of the Sea
+{'overall': 7.265873015873016, 'cmc': 1.96875, 'ramp': 9, 'draw': 15, 'interaction': 5}

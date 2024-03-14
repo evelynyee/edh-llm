@@ -61,4 +61,5 @@
 1 Canoptek Scarab Swarm
 1 Royal Warden
 1 The Raven Man
-{'overall': 5.524137931034483, 'cmc': 2.761904761904762, 'ramp': '7', 'draw': '11', 'interaction': 6, 'folder': 'edh', 'commander': 'ZhangHeWeiGeneral.txt'}
+1 Reckoner Bankbuster
+{'overall': 5.777272727272727, 'cmc': 2.75, 'ramp': 7, 'draw': 12, 'interaction': 6}

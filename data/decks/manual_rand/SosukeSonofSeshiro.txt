@@ -1,65 +1,65 @@
 1 Sosuke, Son of Seshiro
+1 Verdant Rebirth
+1 Zephyr Boots
+1 Surgehacker Mech
+1 Voracious Hydra
+1 Mana Vault
+1 Varis, Silverymoon Ranger
+1 Tenza, Godo's Maul
+1 Towering Indrik
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+1 Strength of Cedars
 1 Voice of the Vermin
-1 Stonehoof Chieftain
+1 Whip Vine
+1 Vitality Charm
+1 Wings of Hubris
+1 Waxing Moon
+1 Vexing Beetle
+1 Spidery Grasp
+1 Verdant Sun's Avatar
+1 Wildwood Patrol
+1 Venerated Rotpriest
+1 Walking Bulwark
+1 Vivien's Jaguar
+1 Well of Life
+1 Twists and Turns // Mycoid Maze
+1 Tromp the Domains
 1 Thunderstaff
-1 Unstoppable Ash
-1 Whiptongue Hydra
-1 Tanglewalker
-1 Wall of Wood
-1 Yavimaya Wurm
-1 Treeshaker Chimera
-1 Snare the Skies
-1 Yavimaya Ancients
-1 Weathered Sentinels
-1 Webspinner Cuff
-1 Sword of Light and Shadow
-1 Vial of Dragonfire
-1 Twigwalker
-1 Venom
-1 Viridian Corrupter
-1 Timberwatch Elf
-1 Tawnos's Wand
-1 Bloom Tender
-1 TARDIS
+1 Wooden Stake
+1 Tenacious Hunter
+1 Wild Shape
+1 Stoneforge Masterwork
+1 Spoils of the Hunt
+1 Spiked Ripsaw
+1 Watchful Naga
+1 Tooth of Chiss-Goria
+1 Vengeant Earth
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Vectis Gloves
+1 Birds of Paradise
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Timbermaw Larva
+1 Viridian Longbow
+1 Wandering Wolf
+1 Whalebone Glider
+1 Sword of Sinew and Steel
+1 Witch's Oven
+1 Triumph of the Hordes
+1 Vigilant Baloth
+1 Sorrow's Path
+1 Walking Wall
 1 Wall of Spears
-1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Wicked Wolf
-1 Whiteout
-1 Warriors' Lesson
-1 Urza's Engine
+1 Wrenn and Realmbreaker
+1 Wall of Junk
 1 Timber Paladin
-1 Steel Hellkite
-1 Trip Wire
-1 Stampeding Wildebeests
-1 Vitalize
-1 Staff of Titania
-1 Trophy Hunter
-1 Voodoo Doll
-1 Unholy Citadel
-1 Viridian Betrayers
-1 Tin-Wing Chimera
-1 Talons of Wildwood
-1 Voltaic Key
-1 Triangle of War
-1 Thornwatch Scarecrow
-1 Tel-Jilad Fallen
-1 Treetop Scout
-1 Woodborn Behemoth
-1 Voltaic Construct
-1 Willow Geist
-1 Sylvan Paradise
-1 Serpent's Gift
-1 Wingrattle Scarecrow
-1 Treefolk Umbra
-1 Wurmcoil Engine
-1 Tempered Sliver
-1 Venomous Dragonfly
-1 Vivien's Crocodile
-1 Tornado Elemental
-1 Sword of Feast and Famine
-1 The Sea Devils
-1 Taoist Mystic
-1 Wallop
-1 Wilderness Reclamation
-1 Titanic Brawl
-{'overall': 2.5738532110091743, 'cmc': 3.2058823529411766, 'ramp': '2', 'draw': '3', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}ion': 14, 'folder': 'manual_rand', 'commander': 'SosukeSonofSeshiro.txt'}
+1 Wind Shear
+1 Spare Dagger
+1 Venom Connoisseur
+1 Thorn Mammoth
+1 Viridian Lorebearers
+1 Wolfkin Outcast // Wedding Crasher
+1 Llanowar Elves
+1 Xantid Swarm
+1 Urban Daggertooth
+1 Trained Cheetah
+{'overall': 3.7032967032967035, 'cmc': 2.84375, 'ramp': 5, 'draw': 6, 'interaction': 5}

@@ -61,4 +61,5 @@
 1 Darkwater Catacombs
 1 Army of the Damned
 1 Ponder
-{'overall': 6.249484536082473, 'cmc': 3.0793650793650795, 'ramp': '12', 'draw': '9', 'interaction': 7, 'folder': 'edh', 'commander': 'HidetsuguandKairi.txt'}
+1 Clever Impersonator
+{'overall': 6.246464646464646, 'cmc': 3.09375, 'ramp': 12, 'draw': 9, 'interaction': 7}

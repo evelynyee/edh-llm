@@ -1,65 +1,65 @@
 1 Agrus Kos, Eternal Soldier
-1 Two-Headed Hunter // Twice the Rage
-1 Weapon Surge
-1 Wandering Archaic // Explore the Vastlands
-1 Sunshot Militia
-1 Worthy Cause
-1 Wicker Picker
-1 Sram's Expertise
-1 Undying Flames
-1 Timeless Dragon
-1 Witness of the Ages
-1 The Moment
+1 Unclaimed Territory
+1 Unbounded Potential
+1 Warrior en-Kor
+1 Teferi's Protection
+1 Violent Eruption
+1 TARDIS
+1 Yotian Frontliner
+1 Traveling Minister
+1 The Celestus
 1 Twinning Staff
-1 Thermo-Alchemist
-1 Straw Golem
-1 Tooth of Chiss-Goria
-1 Warrior's Stand
-1 Zariel, Archduke of Avernus
-1 Starnheim Courser
-1 Vedalken Orrery
-1 Chaos Warp
-1 Viashino Bladescout
-1 Vug Lizard
-1 Tome of the Guildpact
-1 Voltage Surge
-1 Yare
-1 Wandering Archaic // Explore the Vastlands
-1 Town Gossipmonger // Incited Rabble
-1 Sram, Senior Edificer
-1 Usher of the Fallen
-1 Squash
-1 Weary Prisoner // Wrathful Jailbreaker
-1 Tethmos High Priest
-1 Town Gossipmonger // Incited Rabble
-1 Vulshok Morningstar
-1 Untethered Express
-1 Winds of Abandon
-1 Vassal's Duty
-1 Witch Hunter
-1 Village Bell-Ringer
-1 Sideswipe
-1 Venerated Loxodon
-1 Valiant Changeling
-1 Syndic of Tithes
-1 Worldfire
-1 Vigilant Martyr
-1 Warchief Giant
-1 Volcanic Offering
-1 Vulshok Gauntlets
-1 Whip Sergeant
-1 Vithian Stinger
-1 The Stasis Coffin
-1 Tentative Connection
-1 Whetwheel
-1 Thopter Shop
-1 The Mycosynth Gardens
-1 Vance's Blasting Cannons // Spitfire Bastion
+1 Treasure Nabber
+1 Stone Retrieval Unit
+1 Warmonger's Chariot
+1 Voltaic Construct
+1 Warlord's Axe
 1 Thopter Architect
+1 Warlord's Elite
+1 Spectacular Showdown
+1 Winnow
+1 Tablet of Epityr
+1 Thud
+1 Throne of Bone
+1 Talons of Falkenrath
+1 Siege of Towers
+1 Surge to Victory
+1 Soul Sculptor
+1 Witness of the Ages
 1 Wand of the Worldsoul
-1 Stone Idol Trap
-1 Swords to Plowshares
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Tapestry of the Ages
-1 Sword-Swallowing Seraph
-{'overall': 4.234070796460177, 'cmc': 3.4242424242424243, 'ramp': '6', 'draw': '6', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}', 'draw': '6', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}
+1 Worthy Knight
+1 Void Mirror
+1 Witch's Oven
+1 Words of War
+1 Trading Post
+1 The Mycosynth Gardens
+1 Town Gossipmonger // Incited Rabble
+1 Wakestone Gargoyle
+1 Unyaro Griffin
+1 Land Tax
+1 Urabrask // The Great Work
+1 Untaidake, the Cloud Keeper
+1 You Hear Something on Watch
+1 Two-Handed Axe // Sweeping Cleave
+1 Thermo-Alchemist
+1 Wooden Stake
+1 Vanguard of Brimaz
+1 Wand of Ith
+1 Swiftfoot Boots
+1 Victorious Destruction
+1 Zelyon Sword
+1 Wojek Apothecary
+1 Unerring Sling
+1 Storm King's Thunder
+1 Voldaren Thrillseeker
+1 Word of Seizing
+1 Warbreak Trumpeter
+1 Vindictive Flamestoker
+1 Where Ancients Tread
+1 Windborn Muse
+1 Tundra Fumarole
+1 Worthy Cause
+1 Wildfire Devils
+1 Tears of Valakut
+1 Strict Proctor
+{'overall': 4.548538011695906, 'cmc': 2.671875, 'ramp': 7, 'draw': 7, 'interaction': 6}

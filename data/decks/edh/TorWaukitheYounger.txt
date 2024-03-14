@@ -61,4 +61,5 @@
 1 Bedevil
 1 Lightning Greaves
 1 Shivan Gorge
-{'overall': 8.508823529411764, 'cmc': 1.8888888888888888, 'ramp': '14', 'draw': '13', 'interaction': 14, 'folder': 'edh', 'commander': 'TorWaukitheYounger.txt'}
+1 Wayfarer's Bauble
+{'overall': 8.766666666666666, 'cmc': 1.875, 'ramp': 15, 'draw': 13, 'interaction': 14}

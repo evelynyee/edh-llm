@@ -61,4 +61,5 @@
 1 Zulaport Cutthroat
 1 Flameshadow Conjuring
 1 Village Rites
-{'overall': 6.41829268292683, 'cmc': 2.6031746031746033, 'ramp': '9', 'draw': '12', 'interaction': 8, 'folder': 'edh', 'commander': 'KethekCrucibleGoliath.txt'}
+1 Nightmare Shepherd
+{'overall': 6.411904761904762, 'cmc': 2.625, 'ramp': 9, 'draw': 12, 'interaction': 8}

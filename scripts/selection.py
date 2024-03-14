@@ -10,13 +10,24 @@ def load_data(fp):
     return data
 
 data = load_data(os.path.abspath("../data/decks/manual.pkl"))
-def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '18', 'draw': '20', 'interaction': 14}):
-    cmdr = commander
+def build_deck(cmdr, target_power = {'overall': 9, 'cmc': 1.74, 'ramp': 18, 'draw': 20, 'interaction': 14}):
+    """
+    Creates a deck for a commander based on the candidate pools targeting the passed in power level
+    
+    Parameters:
+    - cmdr: commander name
+    - target_power: dictionary with 'overall', 'cmc', 'ramp', 'draw', 'interaction' stats
+
+    Returns:
+    None, writes deck to data/decks/gpt/{cmdr}.txt 
+    """
     pool = set(data[cmdr])      
     #target_power = calculate_power('../data/test_deck.txt')
     cur_power = 0
     client = OpenAI()
     start_time = time.time()
+
+    ### ChatGPT call
     with open(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'), "a+") as file:
         file.seek(0)
         if (len(file.readlines()) == 0):
@@ -40,27 +51,29 @@ def build_deck(commander, target_power = {'overall': '9', 'cmc': 1.74, 'ramp': '
                 )
             except:
                 time.sleep(60)
-                build_deck(commander)
+                build_deck(cmdr)
+            
+            #Remove picked cards from pool and add to deck
+            picked = completion.choices[0].message.content.split('; ')
+            for card in picked:
+                if card in pool:
+                    pool.remove(card)
+                    file.write("1 " + card + "\n")
+                else:
+                    print('failed to find ' + card)
+            file.seek(0)
 
-        picked = completion.choices[0].message.content.split('; ')
-
-        for card in picked:
-            if card in pool:
-                pool.remove(card)
-                file.write("1 " + card + "\n")
-            else:
-                print('failed to find ' + card)
-        file.seek(0)
-        if len(file.readlines()) > 6:
-            try:
-                cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
-            except Exception as e:
-                print(e)
-                time.sleep(60*60)
-        print('Time Elapsed: ' + str(time.time()-start_time))
-        print('Adding: ' + completion.choices[0].message.content)
-        print(cur_power)
-        file.seek(0)
-        if len(file.readlines()) >= 63:
-            file.write(str(cur_power))
-        file.seek(0)
+            #Update current power score
+            if len(file.readlines()) > 6:
+                try:
+                    cur_power = calculate_power(os.path.abspath('../data/decks/gpt/'+"".join(x for x in cmdr if x.isalnum())+'.txt'))
+                except Exception as e:
+                    print(e)
+                    time.sleep(60*60)
+            print('Time Elapsed: ' + str(time.time()-start_time))
+            print('Adding: ' + completion.choices[0].message.content)
+            print(cur_power)
+            file.seek(0)
+            if len(file.readlines()) >= 63:
+                file.write(str(cur_power))
+            file.seek(0)

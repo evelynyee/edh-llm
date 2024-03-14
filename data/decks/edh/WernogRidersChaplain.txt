@@ -61,4 +61,5 @@
 1 Orzhov Basilica
 1 Reliquary Tower
 1 Thought Vessel
-{'overall': 6.424390243902439, 'cmc': 1.9523809523809523, 'ramp': '11', 'draw': '9', 'interaction': 8, 'folder': 'edh', 'commander': 'WernogRidersChaplain.txt'}
+1 Dispatch
+{'overall': 6.482258064516129, 'cmc': 1.9375, 'ramp': 11, 'draw': 9, 'interaction': 9}

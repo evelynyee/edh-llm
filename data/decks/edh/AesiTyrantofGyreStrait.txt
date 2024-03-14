@@ -61,4 +61,5 @@
 1 Cyclonic Rift
 1 Multani, Yavimaya's Avatar
 1 Simic Signet
-{'overall': 8.93108108108108, 'cmc': 2.9365079365079363, 'ramp': '23', 'draw': '9', 'interaction': 5, 'folder': 'edh', 'commander': 'AesiTyrantofGyreStrait.txt'}
+1 Yavimaya Coast
+{'overall': 8.941891891891892, 'cmc': 2.890625, 'ramp': 23, 'draw': 9, 'interaction': 5}

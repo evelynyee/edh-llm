@@ -1,65 +1,65 @@
 1 Visara the Dreadful
-1 Warren Weirding
-1 Wall of Distortion
-1 Go for the Throat
-1 Vanguard's Shield
-1 Throttle
-1 Shuriken
-1 Sinuous Vermin
-1 Unerring Sling
-1 Wand of Orcus
-1 Weathered Runestone
-1 Umbral Juke
-1 Sword of Light and Shadow
-1 Vindictive Vampire
-1 Yahenni, Undying Partisan
-1 Zombie Trailblazer
-1 Typhoid Rats
-1 Wicked Pact
-1 Vorpal Sword
-1 Vampiric Embrace
-1 Tsabo's Web
-1 Wooden Stake
-1 Sudden Death
-1 Toymaker
-1 Tezzeret's Strider
-1 Traxos, Scourge of Kroog
-1 Scavenging Scarab
-1 Temple Thief
-1 Virtue of Persistence // Locthwain Scorn
-1 Watchwing Scarecrow
-1 Whalebone Glider
-1 Unwilling Ingredient
-1 Zombie Master // Zombie Master
-1 Wall of Spears
-1 Wake of Vultures
-1 Yawgmoth's Edict
-1 Silent Assassin
-1 Vengeful Strangler // Strangling Grasp
-1 Shriek of Dread
-1 Veldrane of Sengir
-1 Xathrid Gorgon
-1 Veteran's Armaments
-1 Spiteful Returned
-1 Withercrown
-1 The Mightstone and Weakstone // Urza, Planeswalker
-1 Wine of Blood and Iron
-1 Wall of Vipers
-1 Westgate Regent
-1 Wreck Hunter
-1 Vengeant Vampire
-1 Sundial of the Infinite
-1 Wretched Confluence
-1 Sever Soul
-1 Three Bowls of Porridge
-1 Su-Chi Cave Guard
-1 Xiahou Dun, the One-Eyed
-1 Dark Ritual
-1 Urza's Engine
-1 Damnation
-1 Seal of Doom
-1 Tenza, Godo's Maul
-1 Spreading Plague
-1 Throwing Knife
+1 Stronghold Rats
+1 Umezawa's Jitte
+1 Thrull Retainer
+1 Undying Malice
 1 Withering Wisps
-{'overall': 3.2710045662100455, 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '4', 'interaction': 13, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}': 13, 'folder': 'manual_rand', 'commander': 'VisaratheDreadful.txt'}
+1 Wings of Hubris
+1 Thran Power Suit
+1 Whispersteel Dagger
+1 Wasteland
+1 Undead Warchief
+1 Transmutation
+1 Vraska's Finisher
+1 Urge to Feed
+1 Thunderstaff
+1 Warehouse Tabby
+1 Stronghold Assassin
+1 Shadowcloak Vampire
+1 Trespasser il-Vec
+1 Sultai Runemark
+1 Slay
+1 Wall of Souls
+1 The Long Reach of Night // Animus of Night's Reach
+1 Wicked Pact
+1 Visage of Dread // Dread Osseosaur
+1 Zodiac Pig
+1 Sleek Schooner
+1 Shinen of Fear's Chill
+1 Spreading Rot
+1 Tawnos's Wand
+1 Witch's Oven
+1 Weathered Sentinels
+1 Shell Skulkin
+1 Vanguard's Shield
+1 Treacherous Link
+1 Mind Stone
+1 Toxic Deluge
+1 Urborg Justice
+1 Vicious Battlerager
+1 Yukora, the Prisoner
+1 Wall of Shields
+1 Young Wei Recruits
+1 Wei Assassins
+1 Walking Desecration
+1 Typhoid Rats
+1 Wall of Distortion
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Termination Facilitator
+1 Witch's Clinic
+1 Tomb Blade
+1 Strionic Resonator
+1 Uncle Istvan
+1 Spectral Sliver
+1 Yahenni, Undying Partisan
+1 Wingrattle Scarecrow
+1 Wake the Dead
+1 Wall of Tombstones
+1 Vibrating Sphere
+1 Transmogrant's Crown
+1 Zombie Assassin
+1 War Horn
+1 Whisper of the Dross
+1 Shuriken
+1 Vampire of the Dire Moon
+{'overall': 2.091891891891892, 'cmc': 2.890625, 'ramp': 1, 'draw': 3, 'interaction': 8}

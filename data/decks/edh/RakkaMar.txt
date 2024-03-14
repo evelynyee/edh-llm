@@ -61,4 +61,5 @@
 1 Outpost Siege
 1 Charging Cinderhorn
 1 Mind Stone
-{'overall': 6.87741935483871, 'cmc': 2.9523809523809526, 'ramp': '16', 'draw': '7', 'interaction': 9, 'folder': 'edh', 'commander': 'RakkaMar.txt'}
+1 Chandra, Acolyte of Flame
+{'overall': 6.877248677248677, 'cmc': 2.953125, 'ramp': 16, 'draw': 7, 'interaction': 9}

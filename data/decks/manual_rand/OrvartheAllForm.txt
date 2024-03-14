@@ -1,65 +1,65 @@
 1 Orvar, the All-Form
-1 Tragic Lesson
-1 Thespian's Stage
-1 Train of Thought
-1 Umara Wizard // Umara Skyfalls
-1 Urza's Incubator
-1 Whetwheel
-1 The Blackstaff of Waterdeep
-1 Zahid, Djinn of the Lamp
-1 Vapor Snag
-1 Vorrac Battlehorns
-1 Thousand-Faced Shadow
-1 Undead Alchemist
-1 Storyteller Pixie
-1 Twiddle
-1 Synthesis Pod
-1 Unwind
-1 Vedalken Orrery
-1 Zoetic Glyph
-1 Wrong Turn
+1 Treason of Isengard
+1 Volrath's Laboratory
 1 Waterspout Weavers
-1 Turbulent Dreams
-1 Stormchaser Drake
-1 Vodalian Arcanist
-1 Transmute Artifact
-1 Ugin's Nexus
-1 Spell Shrivel
-1 Statute of Denial
-1 Staff of the Sun Magus
-1 Sigil Tracer
-1 Spyglass Siren
-1 Vhal, Candlekeep Researcher
-1 Vantress Paladin
-1 Teferi's Talent
-1 Wirefly Hive
-1 Urza, Lord High Artificer
-1 Unblinking Observer
-1 The Golden Throne
-1 Staff of the Death Magus
-1 Waylaying Pirates
-1 Trickster's Talisman
-1 Thassa, Deep-Dwelling
-1 Mana Drain
-1 Stubborn Denial
-1 Talent of the Telepath
-1 Swindler's Scheme
-1 Urza's Chalice
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Tunnel of Love
-1 Zephyr Singer
-1 Universal Solvent
-1 The Peregrine Dynamo
-1 Tezzeret, Cruel Machinist
-1 Steel Sabotage
-1 Verity Circle
-1 Stern Lesson
-1 Supplant Form
-1 Throne of Eldraine
-1 Sword of Once and Future
-1 Workshop Assistant
-1 Volrath's Shapeshifter
 1 Warden of Evos Isle
+1 Waterlogged Hulk // Watertight Gondola
+1 Tishana's Tidebinder
+1 Tamiyo, the Moon Sage
+1 Uba Mask
+1 Unlucky Drop
+1 Vodalian Mage
+1 Viridian Longbow
+1 Twincast
+1 Soul Separator
+1 Warping Wail
+1 Vizier of Tumbling Sands
+1 Spark Double
+1 Threefold Signal
+1 Summoning Station
+1 Wind Zendikon
 1 Tooth of Chiss-Goria
-1 Vantress Transmuter // Croaking Curse
-{'overall': 5.526728110599079, 'cmc': 3.1911764705882355, 'ramp': '6', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}, 'folder': 'manual_rand', 'commander': 'OrvartheAllForm.txt'}
+1 Wing Splicer
+1 Stone Retrieval Unit
+1 Workshop Assistant
+1 Skyway Robber
+1 Wondrous Crucible
+1 Force of Will
+1 Volrath's Curse
+1 Trip Noose
+1 Trickster's Talisman
+1 Weakstone's Subjugation
+1 Voidwielder
+1 Veiled Crocodile
+1 Wall of Junk
+1 Ulamog, the Infinite Gyre
+1 Counterspell
+1 Teferi's Response
+1 Taigam's Strike
+1 Talent of the Telepath
+1 Tawnos's Coffin
+1 Thermal Flux
+1 Unwind
+1 Treasure Chest
+1 Wandering Archaic // Explore the Vastlands
+1 Wand of Denial
+1 Unctus's Retrofitter
+1 Vapor Snag
+1 Word of Undoing
+1 Force of Negation
+1 Universal Solvent
+1 Torrential Gearhulk
+1 Temporal Cascade
+1 Unctus, Grand Metatect
+1 Urza's Command
+1 Staff of the Flame Magus
+1 Winter Eladrin
+1 Stern Dismissal
+1 Spawnsire of Ulamog
+1 Will-Forged Golem
+1 Thassa's Devourer
+1 Wurm's Tooth
+1 Tormod's Crypt
+1 Commander's Sphere
+1 Vex
+{'overall': 4.779185520361991, 'cmc': 3.453125, 'ramp': 4, 'draw': 10, 'interaction': 14}

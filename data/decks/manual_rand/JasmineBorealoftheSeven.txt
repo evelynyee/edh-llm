@@ -1,65 +1,65 @@
 1 Jasmine Boreal of the Seven
-1 Tsabo's Web
-1 Urza's Ruinous Blast
-1 Urza's Workshop
-1 Willow Satyr
-1 The Dragon-Kami Reborn // Dragon-Kami's Egg
-1 Voltaic Key
-1 Wolfir Avenger
-1 Woodcloaker
-1 Warden of the Beyond
-1 Warrior's Stand
-1 Wand of the Worldsoul
-1 Warhorn Blast
-1 Sylvan Safekeeper
-1 Terashi's Cry
-1 Swift Warden
-1 Swiftfoot Boots
-1 Villagers of Estwald // Howlpack of Estwald
-1 Trinisphere
-1 Wild Onslaught
-1 Walking Bulwark
-1 Wild Growth
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Whetwheel
-1 Trapped in the Tower
-1 Withstand Death
-1 Zodiac Monkey
-1 Warmonger's Chariot
-1 Welcome to . . . // Jurassic Park
-1 Villagers of Estwald // Howlpack of Estwald
-1 Ultramarines Honour Guard
-1 The Tabernacle at Pendrell Vale
-1 The Mycosynth Gardens
-1 Zoetic Cavern
+1 Stormkeld Vanguard // Bear Down
+1 Weather the Storm
+1 Sunstrike Legionnaire
+1 Sundering Vitae
+1 Wirewood Channeler
+1 Zopandrel, Hunger Dominus
+1 Wirecat
+1 Winds of Rath
+1 Tamiyo's Safekeeping
+1 Voice of Resurgence
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Tlincalli Hunter // Retrieve Prey
+1 Treetop Bracers
+1 Yasharn, Implacable Earth
+1 Viridian Zealot
+1 Willow Priestess
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wall of Hope
+1 Vryn Wingmare
+1 Woodcaller Automaton
+1 Threefold Signal
+1 Vigorous Charge
+1 Trap Runner
+1 Zelyon Sword
+1 Winding Canyons
+1 Valiant Changeling
 1 Thrun, Breaker of Silence
-1 Triplicate Spirits
-1 Wolfwillow Haven
-1 Wojek Siren
-1 Volrath's Laboratory
-1 Twinning Glass
-1 TARDIS
-1 Wolf Strike
-1 Wall of Spears
-1 The Hive
-1 Winds of Abandon
-1 Rampant Growth
-1 Spirit of the Hearth
-1 Warden of the Woods
-1 Unified Front
-1 Trusty Companion
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Whippoorwill
-1 Voldaren Estate
-1 Village Survivors
-1 Sylvan Caryatid
-1 Zephyrim
-1 Wall of Resistance
-1 Spectral Guardian
-1 Yeva, Nature's Herald
-1 Vizier of the Menagerie
-1 Spire Golem
-1 Sunweb
+1 True Believer
+1 Wall of Essence
+1 Wrap in Vigor
 1 Worthy Cause
-1 Tithe Taker
-{'overall': 4.909677419354839, 'cmc': 2.8181818181818183, 'ramp': '9', 'draw': '7', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'JasmineBorealoftheSeven.txt'}': 4, 'folder': 'manual_rand', 'commander': 'JasmineBorealoftheSeven.txt'}
+1 Wardscale Crocodile
+1 Staff of the Ages
+1 Unstable Frontier
+1 Zendikar Resurgent
+1 Time to Reflect
+1 Verdant Touch
+1 Vine Mare
+1 Spire Golem
+1 Toxicrene
+1 Titania's Song
+1 Wolfrider's Saddle
+1 Veil of Summer
+1 Woodland Changeling
+1 Wall of Tanglecord
+1 Topple
+1 Sylvan Safekeeper
+1 Viridian Acolyte
+1 Vizier of the True
+1 Vivien, Champion of the Wilds
+1 Urza's Filter
+1 Wall of Mulch
+1 Twigwalker
+1 The Pandorica
+1 Traxos, Scourge of Kroog
+1 Trusty Companion
+1 Wooden Sphere
+1 Vedalken Orrery
+1 Whirlwind
+1 Vernal Bloom
+1 Vine Dryad
+1 Vernal Equinox
+1 Swords to Plowshares
+{'overall': 4.848130841121495, 'cmc': 3.34375, 'ramp': 8, 'draw': 7, 'interaction': 10}

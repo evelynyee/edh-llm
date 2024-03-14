@@ -61,4 +61,5 @@
 1 Smothering Tithe
 1 Marsh Flats
 1 Callous Bloodmage
-{'overall': 6.995652173913044, 'cmc': 1.8253968253968254, 'ramp': '11', 'draw': '11', 'interaction': 8, 'folder': 'edh', 'commander': 'MintharaMercilessSoul.txt'}
+1 Charming Prince
+{'overall': 6.994017094017094, 'cmc': 1.828125, 'ramp': 11, 'draw': 11, 'interaction': 8}

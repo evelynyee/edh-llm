@@ -1,65 +1,65 @@
 1 Samwise the Stouthearted
-1 Tormod's Cryptkeeper
-1 Soul-Guide Lantern
-1 Starfield Mystic
-1 Urgent Exorcism
-1 Stoneforge Mystic
-1 The Moment
-1 Unified Strike
-1 Welding Jar
-1 Yotian Frontliner
-1 Topple
-1 Watchers of the Dead
-1 Unlicensed Hearse
-1 Synod Sanctum
-1 Vizier of Remedies
-1 Chromatic Lantern
-1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 Tsabo's Web
-1 Werefox Bodyguard
-1 Wall of Shards
-1 You Hear Something on Watch
-1 Witch Hunter
-1 Ugin's Construct
-1 Wand of Ith
-1 Storm of Souls
-1 _____ Bird Gets the Worm
-1 Weatherlight
-1 Titan's Presence
-1 Union of the Third Path
-1 Winnow
-1 Worthy Cause
-1 Threefold Signal
-1 Spurnmage Advocate
-1 Sparring Regimen
-1 Silent Sentinel
-1 Star Compass
-1 Unholy Officiant
-1 Seal Away
-1 True Love's Kiss
-1 Sunbird Standard // Sunbird Effigy
-1 Wild-Field Scarecrow
-1 Well of Knowledge
-1 Tireless Missionaries
-1 Self-Assembler
-1 Urza's Workshop
-1 Shire Shirriff
-1 Workshop Assistant
-1 Tempered Veteran
-1 The Biblioplex
-1 Spirited Companion
-1 Teroh's Faithful
-1 Squadron Hawk
-1 Tower of Fortunes
-1 Throne of Eldraine
-1 Treasure Chest
-1 Underdark Rift
-1 Undiscovered Paradise
-1 Mentor of the Meek
-1 Vengeful Dreams
-1 Wanderer's Strike
-1 Wrath of God
-1 Venerable Monk
+1 Visions of Glory
+1 Village Bell-Ringer
+1 Vulpikeet
+1 Warhorn Blast
+1 Yavimaya, Cradle of Growth
+1 Soaring Hope
+1 Witches' Eye
+1 Universal Automaton
+1 Tumble Magnet
+1 Urza's Incubator
+1 War Room
+1 Transmogrifying Wand
+1 Smuggler's Buggy
 1 Volrath's Laboratory
+1 Windshaper Planetar
+1 Trove Warden
+1 The Mana Rig
+1 Thran Temporal Gateway
+1 Urn of Godfire
 1 Steelshaper's Gift
-{'overall': 7.855555555555555, 'cmc': 2.6470588235294117, 'ramp': '7', 'draw': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}': '19', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SamwisetheStouthearted.txt'}
+1 Warping Wail
+1 Wondrous Crucible
+1 Throne of Eldraine
+1 Timeless Dragon
+1 Terrain Generator
+1 Ugin's Construct
+1 War Report
+1 Wooded Foothills
+1 Supply Drop
+1 Urza's Saga
+1 Sun's Bounty
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Sunspring Expedition
+1 Trigon of Mending
+1 Tower of Fortunes
+1 Tower of Murmurs
+1 Triskelion
+1 Ugin, the Ineffable
+1 Twinning Glass
+1 Weatherlight
+1 Wayfaring Giant
+1 Silkwrap
+1 Vengeful Dreams
+1 Stasis Snare
+1 Youthful Valkyrie
+1 Unified Strike
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Supply-Line Cranes
+1 Star Pupil
+1 Underdark Rift
+1 Skyclave Apparition
+1 Soul-Guide Lantern
+1 Unyaro Griffin
+1 Sword of the Animist
+1 Tectonic Edge
+1 Traxos, Scourge of Kroog
+1 Thalia's Lieutenant
+1 Witness of the Ages
+1 Tablet of the Guilds
+1 Sunset Revelry
+1 Watcher of the Roost
+1 Woeleecher
+1 The Eternal Wanderer
+{'overall': 6.146464646464646, 'cmc': 3.09375, 'ramp': 8, 'draw': 12, 'interaction': 10}

@@ -1,65 +1,65 @@
 1 Ganax, Astral Hunter
-1 Chromatic Lantern
-1 Spawnsire of Ulamog
-1 Standing Stones
-1 Sol Ring
-1 Thopter Assembly
-1 Shrine of the Forsaken Gods
-1 The Triumph of Anax
-1 Tatsumasa, the Dragon's Fang
-1 The Autonomous Furnace
-1 Spawning Bed
-1 Stuffed Bear
-1 Xanthic Statue
-1 Ugin, the Spirit Dragon
-1 Voyager Staff
-1 Viashino Heretic
-1 Transmogrifying Wand
-1 Windswept Heath
-1 Sunder from Within
-1 Tarnished Citadel
-1 Tormod's Cryptkeeper
-1 Sokenzan, Crucible of Defiance
-1 Wild Ricochet
-1 Zektar Shrine Expedition
-1 Swashbuckler's Whip
-1 Triassic Egg
-1 Volrath's Laboratory
-1 Sunken Citadel
-1 Weapon Rack
-1 The Golden Throne
-1 Voltaic Servant
-1 Ugin's Mastery
-1 Wondrous Crucible
-1 The Red Terror
-1 Tunnel of Love
-1 Spiteful Banditry
-1 Commander's Sphere
-1 Street Spasm
-1 Thunder-Thrash Elder
-1 Wildfire Cerberus
-1 Thought Vessel
-1 Yavimaya Steelcrusher
-1 Stone Retrieval Unit
+1 Wily Goblin
+1 The Grey Havens
+1 Urza's Chalice
+1 Young Pyromancer
+1 Warstorm Surge
 1 Torch Fiend
-1 Whiptail Moloch
-1 Vorrac Battlehorns
-1 Slumbering Tora
-1 Victorious Destruction
-1 Stalking Stones
-1 Éomer of the Riddermark
-1 Zuran Orb
-1 Wurmcoil Engine
-1 Urza's Blueprints
-1 Traxos, Scourge of Kroog
+1 Seize the Spoils
+1 Thermopod
+1 Toxic Iguanar
+1 Unstable Frontier
+1 Stone Retrieval Unit
+1 Tooth of Chiss-Goria
 1 Sweatworks Brawler
-1 Song of Totentanz
-1 Thriving Bluff
-1 Urabrask the Hidden
-1 Titan of Eternal Fire
-1 Turf War
-1 Volcano Hellion
+1 Yavimaya Steelcrusher
+1 Warbreak Trumpeter
+1 Tectonic Edge
+1 Thopter Engineer
+1 Wall of Junk
+1 Starke of Rath
+1 Staff of the Mind Magus
+1 The Peregrine Dynamo
+1 Sol Grail
+1 Urabrask // The Great Work
+1 The Celestus
+1 Tuktuk the Explorer
+1 Thunderclap
+1 Snake Basket
+1 Urza's Workshop
+1 Vindictive Flamestoker
+1 Varchild, Betrayer of Kjeldor
+1 The Reaver Cleaver
+1 Commander's Sphere
+1 Triplicate Titan
+1 Thran Quarry
+1 Shrine of the Forsaken Gods
+1 Su-Chi Cave Guard
+1 Warbeast of Gorgoroth
+1 Verix Bladewing
+1 Survey the Wreckage
+1 Ugin's Mastery
+1 Tower of the Magistrate
+1 Springleaf Drum
+1 Smoke Spirits' Aid
+1 Timecrafting
+1 Vulshok Splitter
+1 Vandalblast
+1 Thran Portal
+1 Whirlermaker
+1 Stensia Uprising
+1 Zada's Commando
+1 Tawnos's Coffin
+1 Spinning Wheel
+1 Wintermoon Mesa
+1 Ulamog's Despoiler
+1 Uncharted Haven
+1 War Elemental
 1 Spiked Pit Trap
-1 Thatcher Revolt
-1 Stadium Vendors
-{'overall': 5.191509433962264, 'cmc': 3.1176470588235294, 'ramp': '10', 'draw': '6', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}'interaction': 11, 'folder': 'manual_rand', 'commander': 'GanaxAstralHunter.txt'}
+1 Zurzoth, Chaos Rider
+1 Ventifact Bottle
+1 Symmetry Matrix
+1 Witch's Clinic
+1 Vulshok War Boar
+1 Treasure Vault
+{'overall': 5.961904761904762, 'cmc': 2.625, 'ramp': 13, 'draw': 6, 'interaction': 9}

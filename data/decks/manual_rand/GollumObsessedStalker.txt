@@ -1,65 +1,65 @@
 1 Gollum, Obsessed Stalker
-1 Go for the Throat
-1 Stalactite Stalker
-1 Umbilicus
-1 Vislor Turlough
-1 Ultimate Price
-1 Sol Ring
-1 Wound Reflection
-1 Urza's Engine
-1 Triumph of Cruelty
-1 Volatile Rig
-1 Sleek Schooner
-1 Zenith Chronicler
-1 Traumatic Revelation
-1 Well of Life
-1 Thallid Omnivore
-1 The Tabernacle at Pendrell Vale
-1 Wooden Stake
 1 Voltaic Key
-1 Vile Deacon
-1 Words of Waste
-1 Walk the Plank
-1 Tyrant's Machine
-1 Vengeful Warchief
-1 Two-Headed Zombie
-1 Sundial of the Infinite
-1 The Abyss
-1 Vector Asp
-1 Toxic Nim
-1 Word of Binding
-1 Soul Rend
-1 Swarm of Rats
-1 Vampiric Feast
-1 Vampire Interloper
-1 Thousand-Year Elixir
-1 Watchdog
-1 Sunstone
-1 Virtue of Persistence // Locthwain Scorn
-1 Unholy Citadel
-1 Whispersteel Dagger
-1 Wei Elite Companions
-1 Xathrid Gorgon
-1 Triarch Stalker
-1 Throne of the God-Pharaoh
-1 Vampire Scrivener
+1 Virtue's Ruin
+1 Yawgmoth's Edict
+1 Smuggler's Copter
+1 Soul Shatter
+1 Whalebone Glider
+1 Topaz Dragon // Entropic Cloud
 1 Zombie Assassin
-1 Soul Bleed
-1 Viseling
-1 Underhanded Designs
-1 Transmutation
-1 Tomb Blade
-1 Typhoid Rats
-1 Unforgiving One
-1 Toymaker
-1 Wall of Corpses
-1 Zof Consumption // Zof Bloodbog
-1 Chromatic Lantern
-1 Veldrane of Sengir
+1 Vislor Turlough
+1 Triskaidekaphobia
+1 Virtus the Veiled
+1 Takklemaggot
+1 Xanthic Statue
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Umbral Mantle
+1 Zombie Ogre
+1 Zulaport Enforcer
+1 Warp Artifact
+1 Witch Engine
+1 Wall of Vipers
+1 Swallowing Plague
+1 Tragic Fall
+1 Stronghold Rats
+1 Trench Stalker
+1 Vulshok Gauntlets
+1 Trailblazer's Boots
+1 Vona's Hunger
+1 Vampire of the Dire Moon
+1 Vampire Champion
+1 Su-Chi Cave Guard
+1 Unwilling Ingredient
+1 Vampire Lacerator
+1 Treacherous Vampire
+1 Volrath the Fallen
+1 Urge to Feed
+1 The Wretched
+1 Vraska's Contempt
+1 Urborg
+1 Mind Stone
+1 Wire Surgeons
+1 Soul Shred
+1 Syphon Sliver
 1 Tsabo's Assassin
-1 Wall of Forgotten Pharaohs
+1 Two-Headed Zombie
+1 Zhang Liao, Hero of Hefei
+1 Stinkdrinker Bandit
+1 Spectrum Sentinel
+1 Stronghold Overseer
+1 Taste of Death
+1 Ward of Bones
+1 Vicious Betrayal
+1 Weed-Pruner Poplar
+1 Talara's Bane
+1 Mana Vault
+1 Vengeant Vampire
 1 Wall of Distortion
-1 Skeleton Key
-1 Ulcerate
-1 Wurm's Tooth
-{'overall': 2.918181818181818, 'cmc': 3.235294117647059, 'ramp': '2', 'draw': '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}: '4', 'interaction': 16, 'folder': 'manual_rand', 'commander': 'GollumObsessedStalker.txt'}
+1 Victory Chimes
+1 Triangle of War
+1 Vashta Nerada
+1 Torgaar, Famine Incarnate
+1 Vampire Spawn
+1 Wings of Hubris
+1 Wall of Corpses
+{'overall': 3.263876651982379, 'cmc': 3.546875, 'ramp': 3, 'draw': 6, 'interaction': 9}

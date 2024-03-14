@@ -1,65 +1,65 @@
 1 Aesi, Tyrant of Gyre Strait
-1 Wormfang Newt
-1 Tapping at the Window
-1 Vivien on the Hunt
-1 Weatherlight
-1 Vantress Paladin
-1 Vacuumelt
-1 Welcome to . . . // Jurassic Park
-1 Stoic Builder
-1 Zhulodok, Void Gorger
-1 Wall of Blossoms
-1 Whisperwood Elemental
-1 Wild Onslaught
-1 The Antiquities War
-1 Visions of Duplicity
-1 Storm Cauldron
-1 Watcher in the Mist
-1 Willow Priestess
-1 Yedora, Grave Gardener
-1 Well of Knowledge
-1 Whiplash Trap
-1 Treasure Cruise
-1 Words of Wind
-1 Thought Dissector
-1 Vivien's Invocation
-1 Whispergear Sneak
-1 Will Kenrith
-1 The Ring Goes South
-1 Wolfbriar Elemental
-1 Wanderwine Prophets
-1 Watchful Automaton
-1 Treasure Hunt
-1 Winged Portent
-1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
-1 Timetwister
-1 Thirst for Knowledge
-1 Venser's Journal
-1 Voyager Staff
-1 Unexplained Vision
-1 Unexpected Results
-1 Tidal Terror
-1 Thran Tome
-1 Wildcall
-1 Woodland Guidance
-1 Traverse the Ulvenwald
-1 Walking Atlas
-1 Trumpeting Herd
-1 Unblinking Bleb
-1 Yarok's Wavecrasher
-1 Tazeem Roilmage
-1 Walker of the Grove
-1 Titania, Voice of Gaea // Titania, Gaea Incarnate
-1 Verdant Succession
-1 Verdant Eidolon
-1 Woodland Bellower
+1 Titan of Littjara
+1 Wizard's Spellbook
+1 Zur's Weirding
+1 Vivien's Talent
 1 Visions of Beyond
-1 Urza's Bauble
-1 Thirsting Roots
-1 Void Squall
-1 Willbender
-1 Yavimaya Granger
-1 Voidmage Husher
+1 Watchers of the Dead
+1 Welcome to . . . // Jurassic Park
+1 Vivien's Invocation
 1 Trail of Crumbs
-1 Thought Prison
-{'overall': 10.13968253968254, 'cmc': 3.7058823529411766, 'ramp': '13', 'draw': '25', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}'folder': 'manual_rand', 'commander': 'AesiTyrantofGyreStrait.txt'}
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Threats Undetected
+1 Woodland Guidance
+1 Mana Drain
+1 Voidmage Husher
+1 Void Stalker
+1 Verduran Enchantress
+1 Ulvenwald Hydra
+1 Viridian Revel
+1 War-Wing Siren
+1 Witches' Eye
+1 Wall of Blossoms
+1 Thwart
+1 Strata Scythe
+1 Whisk Away
+1 Ugin, the Ineffable
+1 Sprouting Vines
+1 Totally Lost
+1 Wild Dogs
+1 Tezzeret's Gatebreaker
+1 Windreader Sphinx
+1 Wildborn Preserver
+1 Treasure Mage
+1 Twice Upon a Time // Unlikely Meeting
+1 Words of Wisdom
+1 Test of Talents
+1 Unexplained Disappearance
+1 Vesuvan Shapeshifter
+1 Time Spiral
+1 Wrenn and Seven
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Verazol, the Split Current
+1 Wildcall
+1 World Shaper
+1 Tlincalli Hunter // Retrieve Prey
+1 Wistful Thinking
+1 Winterthorn Blessing
+1 Whispers of the Muse
+1 Yedora, Grave Gardener
+1 Willow Priestess
+1 The Three Seasons
+1 Walk with the Ancestors
+1 Tidal Bore
+1 Tide Shaper
+1 Wizard's Rockets
+1 Thirst for Knowledge
+1 Thunderherd Migration
+1 Well of Discovery
+1 Timetwister
+1 Wayward Soul
+1 Voidwielder
+1 Wand of Ith
+1 Wu Spy
+1 Zndrsplt's Judgment
+{'overall': 11.08781512605042, 'cmc': 3.71875, 'ramp': 11, 'draw': 30, 'interaction': 6}

@@ -61,4 +61,5 @@
 1 Steel Overseer
 1 Lightning Greaves
 1 Polluted Delta
-{'overall': 6.842452830188679, 'cmc': 2.5238095238095237, 'ramp': '8', 'draw': '15', 'interaction': 6, 'folder': 'edh', 'commander': 'SilasRennSeekerAdept.txt'}
+1 Dimir Aqueduct
+{'overall': 6.85503144654088, 'cmc': 2.484375, 'ramp': 8, 'draw': 15, 'interaction': 6}

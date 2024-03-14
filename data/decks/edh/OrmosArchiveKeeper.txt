@@ -61,4 +61,5 @@
 1 Flow of Knowledge
 1 Defiler of Dreams
 1 Propaganda
-{'overall': 10.609685863874345, 'cmc': 3.0317460317460316, 'ramp': '10', 'draw': '28', 'interaction': 9, 'folder': 'edh', 'commander': 'OrmosArchiveKeeper.txt'}
+1 Remote Isle
+{'overall': 10.870157068062827, 'cmc': 2.984375, 'ramp': 10, 'draw': 29, 'interaction': 9}

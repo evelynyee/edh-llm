@@ -61,4 +61,5 @@
 1 Fellwar Stone
 1 Marble Diamond
 1 Myriad Landscape
-{'overall': 6.4423076923076925, 'cmc': 2.888888888888889, 'ramp': '12', 'draw': '9', 'interaction': 10, 'folder': 'edh', 'commander': 'RebbecArchitectofAscension.txt'}
+1 Arcbound Reclaimer
+{'overall': 6.438172043010753, 'cmc': 2.90625, 'ramp': 12, 'draw': 9, 'interaction': 10}

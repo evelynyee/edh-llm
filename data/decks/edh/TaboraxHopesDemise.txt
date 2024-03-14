@@ -61,4 +61,5 @@
 1 Charcoal Diamond
 1 Myriad Landscape
 1 Dictate of Erebos
-{'overall': 6.42741935483871, 'cmc': 2.9523809523809526, 'ramp': '8', 'draw': '14', 'interaction': 5, 'folder': 'edh', 'commander': 'TaboraxHopesDemise.txt'}
+1 Deadly Dispute
+{'overall': 6.930851063829787, 'cmc': 2.9375, 'ramp': 9, 'draw': 15, 'interaction': 5}

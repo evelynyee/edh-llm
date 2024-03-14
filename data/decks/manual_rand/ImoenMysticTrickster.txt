@@ -1,65 +1,65 @@
 1 Imoen, Mystic Trickster
-1 Submerge
-1 The Blackstaff of Waterdeep
-1 Wondrous Crucible
-1 Twinning Glass
-1 Viridian Longbow
-1 Urza's Miter
-1 Vedalken Shackles
-1 Stronghold Machinist
-1 Vesuvan Duplimancy
-1 Ulamog, the Ceaseless Hunger
-1 Vedalken Entrancer
-1 Tower of Murmurs
-1 Vedalken Mastermind
-1 Zephyr Scribe
-1 The One Ring
-1 Tide Skimmer
-1 Time of Ice
-1 Spell Shrivel
-1 Vronos, Masked Inquisitor
-1 Vulshok Gauntlets
-1 Triton Cavalry
-1 Stormchaser Drake
-1 Tamiyo's Journal
-1 Windreader Sphinx
-1 Twice Upon a Time // Unlikely Meeting
-1 Veiled Apparition
-1 Whetwheel
-1 Twitch
-1 Thirst for Meaning
-1 Tangle Wire
+1 Wings of Hubris
+1 Whiplash Trap
+1 Vex
+1 Updraft
+1 Taigam's Strike
+1 The Unspeakable
+1 Well of Discovery
+1 The Watcher in the Water
+1 Trickster's Talisman
 1 Thunder Drake
-1 Zygon Infiltrator
-1 Zephyr Singer
-1 Trapfinder's Trick
-1 Vanishment
-1 Winds of Rebuke
-1 Veiled Sentry
-1 You See a Guard Approach
-1 Wall of Stolen Identity
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Ugin's Nexus
-1 Talas Researcher
-1 Time Warp
-1 Tragic Lesson
-1 Temple Bell
-1 Spiketail Drakeling
-1 War Tax
-1 Siren's Call
-1 Unexplained Vision
-1 Wibbly-wobbly, Timey-wimey
-1 Wrong Turn
-1 Teferi's Response
-1 Storm of Saruman
-1 Welcome to the Fold
-1 Teferi, Temporal Pilgrim
+1 Voltaic Servant
+1 Waterfall Aerialist
+1 Whir of Invention
+1 Wall of Tears
+1 Thought Collapse
+1 Su-Chi Cave Guard
+1 Warped Researcher
+1 Voldaren Estate
 1 Thwart
-1 Counterspell
+1 Spellweaver Eternal
+1 Vanishing
+1 Twice Upon a Time // Unlikely Meeting
+1 Tunnel of Love
 1 Wretched Gryff
-1 Vodalian Serpent
-1 Ugin, the Spirit Dragon
-1 Triton Tactics
-1 Thing from the Deep
-1 Witches' Eye
-{'overall': 7.3354330708661415, 'cmc': 3.735294117647059, 'ramp': '2', 'draw': '24', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'ImoenMysticTrickster.txt'}24', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'ImoenMysticTrickster.txt'}
+1 Wormfang Crab
+1 Tolarian Contempt
+1 Wine of Blood and Iron
+1 Wizard's Retort
+1 The Flood of Mars
+1 Weight of Memory
+1 Trickster Mage
+1 Thought Lash
+1 Young Blue Dragon // Sand Augury
+1 Zenith Chronicler
+1 Telekinesis
+1 Trusted Advisor
+1 Venarian Glimmer
+1 Vizier of Tumbling Sands
+1 Thought Harvester
+1 Urza's Incubator
+1 Wall of Frost
+1 Wicked Slumber
+1 Zndrsplt's Judgment
+1 Soratami Savant
+1 The One Ring
+1 Zephyr Winder
+1 Tormod's Cryptkeeper
+1 The Celestus
+1 Tamiyo's Journal
+1 Mind Stone
+1 Wormhole Serpent
+1 Wondrous Crucible
+1 String of Disappearances
+1 Whirling Catapult
+1 _____ _____ _____ Trespasser
+1 Symmetry Sage
+1 Brainstorm
+1 Train of Thought
+1 The Peregrine Dynamo
+1 Wash Away
+1 Titan's Presence
+1 Triassic Egg
+1 Spell Stutter
+{'overall': 6.339861751152074, 'cmc': 3.390625, 'ramp': 3, 'draw': 18, 'interaction': 10}

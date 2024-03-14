@@ -1,65 +1,65 @@
 1 Myrkul, Lord of Bones
-1 Visions of Dominance
-1 Webweaver Changeling
-1 The Wandering Emperor
-1 Veinwitch Coven
-1 Timeless Witness
-1 Wingmate Roc
-1 Tranquil Frillback
-1 The Skullspore Nexus
-1 Vengeful Dead
-1 Woodvine Elemental
-1 Wondrous Crucible
-1 Tend the Pests
-1 Unravel the Aether
-1 Unified Strike
-1 Twilight Prophet
-1 Tethmos High Priest
-1 Trespasser's Curse
-1 Trail of Crumbs
-1 Tithing Blade // Consuming Sepulcher
-1 Whiteout
-1 Wurmquake
-1 Zombie Apocalypse
-1 The End
-1 Suspension Field
-1 Yahenni's Expertise
-1 Warlock Class
-1 Warped Devotion
-1 Topography Tracker
-1 Whack
-1 Well of Lost Dreams
-1 Yenna, Redtooth Regent
-1 _____ Bird Gets the Worm
-1 Torment of Venom
-1 Workshop Assistant
-1 Séance
+1 Westfold Rider
+1 The Deck of Many Things
+1 Vorinclex // The Grand Evolution
+1 Wild Endeavor
+1 Trueheart Duelist
+1 Waste Management
+1 Swords to Plowshares
 1 Warren Pilferers
-1 Woodwraith Strangler
-1 Wandering Champion
-1 Voice of Resurgence
-1 Treasury Thrull
+1 Urborg Uprising
+1 Tranquil Frillback
+1 Urborg Justice
+1 Woodlurker Mimic
+1 Well of Lost Dreams
+1 To the Slaughter
+1 Topplegeist
 1 Unforgiving One
-1 Surge of Righteousness
-1 Diabolic Tutor
-1 Voracious Vermin
-1 Torii Watchward
-1 Woe Strider
-1 Vislor Turlough
 1 The Dragon-Kami Reborn // Dragon-Kami's Egg
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Witherbloom Command
+1 Warping Wail
+1 Wreck Hunter
+1 Wildgrowth Walker
+1 Virtus's Maneuver
+1 Victimize
+1 Wild Dogs
+1 Wasteland Strangler
+1 Sundering Growth
+1 Vengeful Strangler // Strangling Grasp
+1 Uurg, Spawn of Turg
+1 Birds of Paradise
+1 The Raven Man
+1 Virtue of Strength // Garenbrig Growth
+1 Wishmonger
+1 Animate Dead
+1 Worship
+1 Witch of the Moors
+1 Tethmos High Priest
+1 Zof Consumption // Zof Bloodbog
+1 Worthy Knight
+1 Vengeful Strangler // Strangling Grasp
 1 Throne of the Grim Captain // The Grim Captain
-1 Unmake the Graves
-1 Wing Puncture
-1 White Sun's Zenith
-1 Wildwood Mentor
-1 _____ _____ Rocketship
-1 Wayfaring Temple
-1 This Is How It Ends
-1 Wall of Limbs
-1 Touch the Spirit Realm
-1 Whirlermaker
+1 The Battle of Bywater
+1 Witherbloom Pledgemage
+1 Viridian Revel
+1 Wretched Anurid
+1 Xander's Pact
+1 Weaver of Harmony
+1 Warden of the Woods
 1 The Mycotyrant
-1 Wake the Reflections
-{'overall': 4.117796610169491, 'cmc': 3.5223880597014925, 'ramp': '2', 'draw': '10', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'MyrkulLordofBones.txt'}', 'draw': '10', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'MyrkulLordofBones.txt'}
+1 World Breaker
+1 Vampire's Kiss
+1 Torment of Venom
+1 Vanquish the Horde
+1 Zuran Orb
+1 Voice of Resurgence
+1 Willow Priestess
+1 Writhing Necromass
+1 Umbra Stalker
+1 Wurmquake
+1 Turntimber Sower
+1 Tribute to Hunger
+1 Vengeful Dead
+1 Weaponcraft Enthusiast
+1 Trostani, Selesnya's Voice
+1 Vraska's Scorn
+{'overall': 5.017567567567568, 'cmc': 3.5238095238095237, 'ramp': 6, 'draw': 10, 'interaction': 9}

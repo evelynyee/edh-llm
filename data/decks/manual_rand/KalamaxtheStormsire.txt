@@ -1,65 +1,65 @@
 1 Kalamax, the Stormsire
-1 Wand of Wonder
-1 Thwart
-1 Zendikar Resurgent
-1 The Peregrine Dynamo
-1 Urza's Miter
-1 Thousand-Year Storm
-1 Varis, Silverymoon Ranger
-1 Unesh, Criosphinx Sovereign
-1 Wibbly-wobbly, Timey-wimey
-1 Waterlogged Hulk // Watertight Gondola
-1 Time Beetle
-1 Withdraw
-1 Unexplained Vision
-1 Volshe Tideturner
-1 Titania's Chosen
-1 Unblinking Observer
-1 Thrumming Stone
-1 Twincast
-1 The Twelfth Doctor
-1 Ugin, the Ineffable
-1 Wrenn and Realmbreaker
-1 Wild-Magic Sorcerer
-1 Vacuumelt
-1 Vine Kami
-1 Woodland Guidance
-1 Wavesifter
+1 Tidespout Tyrant
+1 Wirewood Savage
+1 Tlincalli Hunter // Retrieve Prey
+1 Temporal Trespass
+1 Torch Breath
+1 Wild Guess
 1 Voracious Greatshark
-1 Volrath's Shapeshifter
-1 Woolly Loxodon
-1 Umara Entangler
-1 Voltaic Visionary // Volt-Charged Berserker
-1 Volcanic Torrent
-1 Two-Headed Hunter // Twice the Rage
-1 Venarian Glimmer
-1 Verazol, the Split Current
-1 Force of Negation
-1 Wanderwine Prophets
-1 Verdant Touch
-1 Yuki-Onna
-1 Talent of the Telepath
-1 Taurean Mauler
-1 Will-Forged Golem
-1 Mana Vault
-1 Varchild's War-Riders
-1 Wreck and Rebuild
-1 Virtue of Strength // Garenbrig Growth
-1 Yeva, Nature's Herald
-1 Voidmage Husher
-1 Red Elemental Blast
-1 Wand of Ith
+1 Thrill of Possibility
+1 Wolf-Skull Shaman
+1 Zerapa Minotaur
+1 Zektar Shrine Expedition
+1 Yavimaya Iconoclast
+1 Warchief Giant
+1 Talara's Battalion
+1 The Everflowing Well // The Myriad Pools
+1 Windreader Sphinx
+1 Venerable Kumo
+1 Talrand, Sky Summoner
+1 Turn // Burn
+1 Unpredictable Cyclone
+1 Winged Words
+1 Weaver of Harmony
+1 Mana Drain
 1 Vexing Scuttler
-1 Willow Priestess
-1 Web of Inertia
-1 World at War
-1 Teach by Example
-1 Yavimaya Sojourner
-1 Waylaying Pirates
-1 Thermo-Alchemist
-1 Voidmage Prodigy
-1 Tolarian Kraken
-1 Volo, Guide to Monsters
-1 Weaver of Lies
+1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
+1 Zoetic Cavern
+1 Wurmcalling
+1 Voltage Surge
+1 Wild Defiance
+1 Surge to Victory
+1 Taunting Arbormage
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Thunderheads
+1 The Enigma Jewel // Locus of Enlightenment
+1 Viridian Revel
+1 Walker of the Grove
+1 Weaver of Blossoms // Blossom-Clad Werewolf
+1 Wooden Sphere
+1 Verazol, the Split Current
+1 Vines of Vastwood
+1 Withdraw
+1 Windrider Wizard
+1 Vadrik, Astral Archmage
+1 Viashino Bladescout
+1 Torrent of Stone
+1 Wondrous Crucible
+1 Weary Prisoner // Wrathful Jailbreaker
+1 The Mirari Conjecture
+1 Vile Aggregate
+1 Trumpeting Gnarr
+1 Woodcloaker
+1 Wild Ricochet
+1 Words of Wind
+1 Umara Entangler
+1 Twinning Staff
 1 Urza's Filter
-{'overall': 5.55936329588015, 'cmc': 3.926470588235294, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}interaction': 6, 'folder': 'manual_rand', 'commander': 'KalamaxtheStormsire.txt'}
+1 Urza's Rage
+1 Zndrsplt's Judgment
+1 Undergrowth
+1 Weather the Storm
+1 Torch the Tower
+1 Waylaying Pirates
+1 Welcome to . . . // Jurassic Park
+{'overall': 5.46, 'cmc': 3.5714285714285716, 'ramp': 5, 'draw': 12, 'interaction': 13}

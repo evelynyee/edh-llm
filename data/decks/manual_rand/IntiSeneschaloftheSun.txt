@@ -1,65 +1,65 @@
 1 Inti, Seneschal of the Sun
-1 Thaumatic Compass // Spires of Orazca
-1 Turn Against
-1 Skull of Orm
-1 Through the Breach
-1 You Find Some Prisoners
-1 Twinferno
-1 The Immortal Sun
-1 Seething Anger
-1 Scorn Effigy
-1 Tormod's Cryptkeeper
-1 Sigiled Skink
-1 Yasmin Khan
-1 Chrome Mox
-1 Umezawa's Jitte
-1 Urza's Incubator
-1 Traveler's Amulet
-1 Worldfire
-1 Titan's Revenge
-1 Transmogrifying Licid
-1 Sentinel Totem
-1 Tocasia's Dig Site
-1 Voldaren Thrillseeker
 1 Sokenzan Renegade
-1 Valakut Exploration
-1 Whetstone
-1 Vorrac Battlehorns
-1 Thunderblade Charge
-1 Volatile Arsonist // Dire-Strain Anarchist
-1 Soldevi Digger
-1 Tiamat's Fanatics
-1 Yavimaya, Cradle of Growth
-1 Storm Cauldron
-1 Éomer, Marshal of Rohan
-1 Sword of the Animist
-1 Whetwheel
-1 Skirk Drill Sergeant
-1 Surly Badgersaur
-1 Wand of Ith
-1 Staggershock
-1 Scarab of the Unseen
-1 Void Mirror
-1 Shreds of Sanity
-1 Viashino Sandswimmer
-1 Solfatara
-1 Surveyor's Scope
-1 Tormented Pariah // Rampaging Werewolf
-1 Mind Stone
-1 Thrill of Possibility
-1 Umbilicus
-1 Volcanic Offering
-1 Tunnel of Love
-1 Senseless Rage
-1 Thaumatic Compass // Spires of Orazca
-1 Thumbscrews
-1 Screamreach Brawler
-1 Viashino Shanktail
-1 Vanquisher's Banner
+1 Vile Aggregate
+1 Well of Life
+1 Spectacular Showdown
+1 Urza's Saga
+1 The Immortal Sun
+1 Thieves' Auction
+1 Tawnos's Coffin
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Telim'Tor's Edict
+1 The Moment
 1 Trash for Treasure
-1 Tarox Bladewing
-1 Seize the Day
-1 Skyship Weatherlight
-1 Sunbird's Invocation
-1 Shenanigans
-{'overall': 5.650485436893204, 'cmc': 3.074626865671642, 'ramp': '9', 'draw': '10', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'IntiSeneschaloftheSun.txt'}n': 5, 'folder': 'manual_rand', 'commander': 'IntiSeneschaloftheSun.txt'}
+1 Urza's Blueprints
+1 Soul-Guide Lantern
+1 Ward of Bones
+1 Vexing Arcanix
+1 Warbringer
+1 You Come to the Gnoll Camp
+1 Workshop Assistant
+1 Thresher Lizard
+1 Search for Survivors
+1 Ulamog's Despoiler
+1 Surreal Memoir
+1 Zhulodok, Void Gorger
+1 Soldevi Digger
+1 Zoyowa's Justice
+1 Stone Idol Trap
+1 Imperial Recruiter
+1 Stone of Erech
+1 Twinferno
+1 Witness of the Ages
+1 Zephyr Boots
+1 Sword of Hearth and Home
+1 Visions of Ruin
+1 Viashino Sandsprinter
+1 Soul Foundry
+1 Whetwheel
+1 The Mana Rig
+1 Stensia Masquerade
+1 Trading Post
+1 Strata Scythe
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Ulamog, the Infinite Gyre
+1 Staggershock
+1 Temporary Insanity
+1 Vulshok Gauntlets
+1 Zurzoth, Chaos Rider
+1 Volatile Wanderglyph
+1 Viashino Sandswimmer
+1 Undying Flames
+1 Urza's Bauble
+1 Warlord's Fury
+1 Turn Against
+1 Lightning Greaves
+1 Storm Herald
+1 Thunderkin Awakener
+1 Synod Sanctum
+1 Triassic Egg
+1 Sojourner's Companion
+1 Viridian Longbow
+1 Winds of Change
+1 Spellbinder
+1 Tundra Kavu
+{'overall': 6.00093896713615, 'cmc': 3.328125, 'ramp': 5, 'draw': 15, 'interaction': 8}

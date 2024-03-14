@@ -61,4 +61,5 @@
 1 Phyrexian Altar
 1 Gempalm Polluter
 1 Unbreathing Horde
-{'overall': 4.786842105263157, 'cmc': 2.7142857142857144, 'ramp': '6', 'draw': '9', 'interaction': 6, 'folder': 'edh', 'commander': 'TormodtheDesecrator.txt'}
+1 Corpse Churn
+{'overall': 4.789884393063583, 'cmc': 2.703125, 'ramp': 6, 'draw': 9, 'interaction': 6}

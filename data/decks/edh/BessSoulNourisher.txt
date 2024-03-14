@@ -61,4 +61,5 @@
 1 Queen Allenal of Ruadach
 1 Selesnya Sanctuary
 1 Rumor Gatherer
-{'overall': 5.508, 'cmc': 1.9841269841269842, 'ramp': '10', 'draw': '7', 'interaction': 5, 'folder': 'edh', 'commander': 'BessSoulNourisher.txt'}
+1 Selfless Savior
+{'overall': 5.515873015873016, 'cmc': 1.96875, 'ramp': 10, 'draw': 7, 'interaction': 5}

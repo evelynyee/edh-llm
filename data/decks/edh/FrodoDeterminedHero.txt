@@ -61,4 +61,5 @@
 1 Darksteel Plate
 1 Bitterthorn, Nissa's Animus
 1 Sun Titan
-{'overall': 4.907692307692307, 'cmc': 2.4761904761904763, 'ramp': '5', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'FrodoDeterminedHero.txt'}
+1 Mind Stone
+{'overall': 5.4101265822784805, 'cmc': 2.46875, 'ramp': 6, 'draw': 11, 'interaction': 7}

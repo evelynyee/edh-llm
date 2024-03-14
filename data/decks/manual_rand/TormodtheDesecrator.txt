@@ -1,65 +1,65 @@
 1 Tormod, the Desecrator
-1 Virtus the Veiled
-1 Toshiro Umezawa
-1 Wit's End
-1 Zhulodok, Void Gorger
-1 Strandwalker
-1 Twilight Prophet
-1 Unmarked Grave
-1 Transmogrant Altar
-1 Vexing Arcanix
-1 Xathrid Necromancer
-1 Umbral Juke
-1 Viscera Seer
-1 Unholy Hunger
-1 Vile Entomber
-1 Skullport Merchant
-1 Zhalfirin Void
-1 Twinning Staff
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Wight
-1 Urza's Bauble
-1 Shard of the Void Dragon
-1 Tymaret Calls the Dead
-1 Soul Foundry
-1 Vengeful Vampire
-1 Soul Separator
+1 Sword of Hearth and Home
+1 Thought Distortion
+1 Urza's Saga
+1 Vat Emergence
+1 Diabolic Tutor
+1 Syphon Flesh
+1 Vraska, Betrayal's Sting
+1 The Biblioplex
+1 Tourach, Dread Cantor
+1 Spinning Darkness
+1 Swiftgear Drake
+1 Vile Rebirth
+1 The Mana Rig
+1 Undercity Scrounger
+1 Witness of the Ages
+1 Taste of Death
+1 Mana Vault
+1 Vona's Hunger
+1 Triplicate Titan
+1 Wondrous Crucible
+1 Warg Rider
+1 Wall of Tombstones
+1 Spiteful Hexmage
+1 Timothar, Baron of Bats
+1 Tempt with Immortality
+1 Windswept Heath
+1 Slagstone Refinery
+1 Xenosquirrels
+1 Thief of Hope
+1 Stinkweed Imp
+1 Wild-Field Scarecrow
+1 Thaumatic Compass // Spires of Orazca
+1 Toll of the Invasion
+1 Xenic Poltergeist
+1 Urborg Panther
+1 Verdant Catacombs
+1 Wooden Sphere
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Tivash, Gloom Summoner
 1 Throne of Empires
-1 Thraxodemon
-1 Summon Undead
-1 Thopter Assembly
+1 Wanderer's Twig
+1 Warped Landscape
+1 Throne of the Grim Captain // The Grim Captain
 1 Soul Transfer
 1 Stir the Sands
-1 Wake the Dead
-1 Ulamog, the Ceaseless Hunger
-1 Treasure Map // Treasure Cove
-1 Unnerve
-1 Visage of Dread // Dread Osseosaur
-1 Undercity Scrounger
-1 Sword of Body and Mind
-1 Tatsumasa, the Dragon's Fang
-1 Soul Salvage
-1 Surgical Extraction
-1 Tasigur's Cruelty
-1 Tempt with Immortality
-1 Solemn Doomguide
-1 Witness of the Ages
-1 Verdant Catacombs
-1 Staff of Titania
-1 Thief of Hope
-1 Soulcoil Viper
-1 Yarok's Fenlurker
-1 Wreck Hunter
-1 Village Cannibals
-1 Mana Crypt
-1 Weirded Vampire
-1 Walking Atlas
-1 Wanderer's Twig
-1 Undying Malice
-1 Witch's Oven
-1 Void Beckoner
-1 Unforgiving One
-1 Writ of Return
-1 Volrath's Laboratory
-1 Wondrous Crucible
-{'overall': 4.746184738955823, 'cmc': 3.661764705882353, 'ramp': '7', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}n': 4, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}
+1 Wave of Rats
+1 Seize the Soul
+1 Threefold Thunderhulk
+1 Unhallowed Pact
+1 Yawgmoth's Agenda
+1 Step Right Up
+1 Voldaren Estate
+1 Vogar, Necropolis Tyrant
+1 Sleeper's Guile
+1 Wasp of the Bitter End
+1 Tyrannical Pitlord
+1 Vanquisher's Banner
+1 Underdark Explorer
+1 Undead Augur
+1 Ugin's Construct
+1 Triassic Egg
+1 Workshop Assistant
+1 Topaz Dragon // Entropic Cloud
+{'overall': 5.94468085106383, 'cmc': 3.671875, 'ramp': 9, 'draw': 11, 'interaction': 8}

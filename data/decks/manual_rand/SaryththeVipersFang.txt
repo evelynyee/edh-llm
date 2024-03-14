@@ -1,65 +1,65 @@
 1 Saryth, the Viper's Fang
+1 Unstoppable Ash
+1 Wicker Warcrawler
+1 Twists and Turns // Mycoid Maze
+1 Timber Protector
+1 Webweaver Changeling
+1 Veilstone Amulet
+1 Will-Forged Golem
+1 Toxic Scorpion
+1 Skysnare Spider
+1 Wingrattle Scarecrow
+1 Well of Life
+1 Warping Wail
+1 Wild Ox
+1 Spirit Shield
+1 Unnatural Predation
+1 Shadowed Caravel
+1 Storyweave
 1 Sword of the Paruns
-1 Trollbred Guardian
-1 Zodiac Ox
-1 Sylvan Basilisk
-1 Towering Indrik
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Silvanus's Invoker
-1 Watchful Naga
-1 Willow Satyr
-1 Victory Chimes
-1 Vectis Gloves
-1 Vigorspore Wurm
-1 Sylvan Anthem
-1 Vesuva
-1 Zopandrel, Hunger Dominus
-1 The Ozolith
-1 Yavimaya Scion
-1 Verdant Field
-1 Wind Shear
-1 Zodiac Rabbit
-1 Wildborn Preserver
-1 Tree Monkey
-1 Veil of Summer
-1 Vorinclex // The Grand Evolution
-1 Sword of the Meek
-1 The Skullspore Nexus
-1 Taunting Challenge
-1 Sorrow's Path
+1 Verdant Sun's Avatar
+1 Thundersteel Colossus
+1 Vedalken Shackles
+1 Topan Ascetic
+1 Telethopter
+1 Thicket Basilisk
+1 Tawnos's Wand
+1 Welcome to Sweettooth
+1 Transmogrifying Licid
+1 Trailblazer's Torch
+1 Tanuki Transplanter
+1 Sol Ring
 1 Verdant Command
-1 Witherscale Wurm
-1 Tendershoot Dryad
-1 Mind Stone
-1 Tajuru Archer
-1 Wielding the Green Dragon
-1 Untamed Might
-1 Weaver of Harmony
-1 Thundering Chariot
-1 Venerable Kumo
-1 Sky Skiff
-1 Wing Snare
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Storm the Seedcore
-1 Wallop
-1 Wose Pathfinder
-1 Wildwood Mentor
-1 Tawnos's Weaponry
-1 Tower Above
-1 Untethered Express
-1 Yorvo, Lord of Garenbrig
-1 Birds of Paradise
-1 Timberpack Wolf
-1 Unstable Frontier
-1 Wolf Strike
-1 The Irencrag
+1 Thelonite Monk
+1 Thornbite Staff
+1 Whirlwind
+1 Verdant Rebirth
+1 Storm the Citadel
+1 Umbral Mantle
+1 War Barge
+1 Tel-Jilad Defiance
+1 Spectrum Sentinel
 1 Stampeding Elk Herd
-1 Vernal Bloom
-1 Titanic Brawl
-1 Tribal Unity
-1 Tyrant's Machine
-1 Touchstone
-1 Viridian Longbow
-1 Workshop Warchief
-1 Walker of the Wastes
-{'overall': 4.400485436893204, 'cmc': 3.074626865671642, 'ramp': '6', 'draw': '7', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}nteraction': 10, 'folder': 'manual_rand', 'commander': 'SaryththeVipersFang.txt'}
+1 Spectral Hunt-Caller
+1 Twigwalker
+1 Wall of Shields
+1 Timberpack Wolf
+1 Vivien Reid
+1 Unholy Citadel
+1 Swift Warden
+1 Soul of New Phyrexia
+1 Vastwood Fortification // Vastwood Thicket
+1 Urban Daggertooth
+1 Yavimaya Enchantress
+1 Woolly Spider
+1 Ugin's Construct
+1 Voltaic Servant
+1 Whalebone Glider
+1 Werewolf Pack Leader
+1 Wolf Strike
+1 Zendikar Resurgent
+1 Wild Might
+1 Smell Fear
+1 Tree Monkey
+1 Victory Chimes
+{'overall': 4.248130841121496, 'cmc': 3.34375, 'ramp': 6, 'draw': 7, 'interaction': 8}

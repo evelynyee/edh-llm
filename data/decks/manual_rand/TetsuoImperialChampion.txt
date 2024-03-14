@@ -1,65 +1,65 @@
 1 Tetsuo, Imperial Champion
-1 Voltage Surge
-1 Veiling Oddity
-1 Vedalken Aethermage
-1 The Cauldron of Eternity
-1 Word of Command
-1 Wretched Camel
-1 Subtlety
-1 Vial Smasher the Fierce
-1 Ulamog's Reclaimer
-1 Undying Flames
-1 Unsubstantiate
-1 Zoyowa Lava-Tongue
-1 Ulamog, the Ceaseless Hunger
-1 Volatile Chimera
-1 Whispersteel Dagger
+1 Trinisphere
+1 Wipe Away
+1 Twisted Justice
+1 Zada's Commando
+1 Warbringer
+1 Vodalian Mystic
+1 Weed Strangle
+1 Animate Dead
+1 Umbra Stalker
+1 Xenograft
+1 Tangle Golem
+1 Twice Upon a Time // Unlikely Meeting
+1 Tribal Flames
+1 Wayward Guide-Beast
+1 Warped Physique
+1 The Twelfth Doctor
 1 The Rack
-1 Wildfire
-1 Stain the Mind
-1 War-Wing Siren
-1 Surging Aether
-1 Visage of Dread // Dread Osseosaur
+1 Torgaar, Famine Incarnate
+1 Warden of Evos Isle
+1 Whispering Madness
+1 Temporal Aperture
+1 Zaffai, Thunder Conductor
 1 Summons of Saruman
-1 Subjugate the Hobbits
-1 Witness the End
-1 Vexing Puzzlebox
-1 Thryx, the Sudden Storm
-1 Writhing Necromass
-1 Underworld Charger
-1 Wail of the Forgotten
-1 Tidespout Tyrant
-1 Voyage's End
-1 Wyll's Reversal
-1 Virtus the Veiled
-1 Weight of Spires
-1 Tsabo's Assassin
-1 Urza's Filter
-1 Vent Sentinel
-1 Woe Strider
-1 The Everflowing Well // The Myriad Pools
-1 Walk the Aeons
-1 Wreck Hunter
-1 Wiretapping
-1 Yuriko, the Tiger's Shadow
-1 Temporal Cascade
-1 Westgate Regent
+1 Wire Surgeons
+1 The Mana Rig
+1 Zanikev Locust
+1 Volrath's Shapeshifter
+1 Synthesis Pod
+1 Volcanic Torrent
+1 Zurzoth, Chaos Rider
+1 Winds of Rebuke
 1 Veiled Crocodile
-1 Trench Gorger
-1 Thran Temporal Gateway
-1 Threefold Signal
-1 Tasha, the Witch Queen
-1 Vex
-1 Wretched Banquet
-1 Twinning Staff
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
-1 Tomb of Horrors Adventurer
-1 Withering Boon
-1 Uba Mask
-1 Yamabushi's Flame
-1 Urza's Miter
+1 Transmute Artifact
+1 Ulamog, the Infinite Gyre
+1 Zada, Hedron Grinder
+1 Syr Elenora, the Discerning
+1 Zevlor, Elturel Exile
+1 Unquenchable Fury
+1 Vhal, Candlekeep Researcher
+1 Thought Harvester
+1 Stratadon
+1 Twilight Prophet
+1 Volcanic Awakening
+1 Waterlogged Hulk // Watertight Gondola
+1 Too Greedily, Too Deep
+1 Surging Dementia
+1 Unlucky Drop
+1 Thermo-Alchemist
+1 Writhing Necromass
+1 Well of Lost Dreams
+1 Unblinking Observer
+1 Wild Slash
+1 Ugin, the Ineffable
+1 Through the Breach
+1 Yuriko, the Tiger's Shadow
+1 Volcanic Eruption
+1 Syncopate
+1 Without Weakness
+1 Stir the Grave
+1 Virtue of Knowledge // Vantress Visions
+1 Viseling
+1 Thunderscape Familiar
 1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Volshe Tideturner
-1 Wandering Archaic // Explore the Vastlands
-1 Tezzeret, Master of the Bridge
-{'overall': 5.5755244755244755, 'cmc': 4.205882352941177, 'ramp': '8', 'draw': '10', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}': 12, 'folder': 'manual_rand', 'commander': 'TetsuoImperialChampion.txt'}
+{'overall': 4.446124031007752, 'cmc': 4.03125, 'ramp': 3, 'draw': 11, 'interaction': 9}

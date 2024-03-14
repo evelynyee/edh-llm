@@ -61,4 +61,5 @@
 1 Razortide Bridge
 1 Sea of Clouds
 1 Talisman of Progress
-{'overall': 6.857142857142857, 'cmc': 2.3333333333333335, 'ramp': '11', 'draw': '11', 'interaction': 10, 'folder': 'edh', 'commander': 'ShorikaiGenesisEngine.txt'}
+1 Shimmer Myr
+{'overall': 6.8533333333333335, 'cmc': 2.34375, 'ramp': 11, 'draw': 11, 'interaction': 10}

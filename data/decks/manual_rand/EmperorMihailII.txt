@@ -1,65 +1,65 @@
 1 Emperor Mihail II
-1 Veiled Sentry
-1 Thirst for Knowledge
-1 Spectral Sailor
-1 Supreme Inquisitor
-1 Worry Beads
-1 Wizard Class
-1 Tide Shaper
-1 Tidespout Tyrant
-1 Treasure Mage
-1 Wandering Archaic // Explore the Vastlands
-1 Stolen Identity
-1 Thought-Knot Seer
-1 Mana Drain
-1 Vessel of Endless Rest
-1 Wicked Slumber
-1 Whim of Volrath
-1 Thrumming Stone
-1 Time Reversal
-1 Uncovered Clues
-1 Thaumatic Compass // Spires of Orazca
-1 Tablet of Epityr
-1 Vessel of Paramnesia
-1 Teferi's Wavecaster
-1 Stone Calendar
-1 Time Lord Regeneration
+1 Venser's Diffusion
+1 The Celestus
+1 Thassa's Intervention
+1 Trusted Advisor
+1 Winding Canyons
+1 Urza's Bauble
+1 Spellbinder
+1 Whetwheel
+1 Swashbuckler's Whip
 1 Sphinx of Jwar Isle
+1 Spellweaver Volute
+1 Urza's Tome
+1 Traumatic Visions
+1 Windswept Heath
+1 The Enigma Jewel // Locus of Enlightenment
+1 Thran Foundry
+1 Thousand Winds
+1 Temporal Cascade
+1 Triassic Egg
+1 Vodalian Serpent
+1 Spellshift
+1 Sorcerous Squall
+1 Tormod's Cryptkeeper
 1 The Temporal Anchor
-1 Taigam's Scheming
-1 The Magic Mirror
-1 Sicarian Infiltrator
-1 Treasure Keeper
-1 The Antiquities War
-1 Wand of Vertebrae
-1 Wizard's Rockets
-1 Wormfang Behemoth
-1 The Stone Brain
+1 Surtland Elementalist
+1 Veiled Apparition
+1 Start the TARDIS
+1 Wind-Kin Raiders
+1 Zulaport Duelist
+1 Trait Doctoring
+1 Young Blue Dragon // Sand Augury
+1 Zoetic Glyph
+1 Zur's Weirding
+1 Vedalken Entrancer
+1 Stolen Goods
+1 Thoughtcast
+1 Summoning Station
+1 Watcher for Tomorrow
 1 Talrand, Sky Summoner
-1 Ugin, the Spirit Dragon
-1 Urza's Filter
-1 Well of Lost Dreams
-1 Time Spiral
-1 Weaver of Lies
-1 Waterlogged Hulk // Watertight Gondola
-1 Winds of Rebuke
-1 Wanderwine Prophets
-1 Ugin's Insight
-1 Witching Well
-1 Temporal Eddy
-1 Thran Tome
-1 Tormod's Crypt
-1 Zenith Chronicler
-1 Tower Geist
-1 Trickster Mage
+1 Threefold Signal
+1 Thought Harvester
+1 Supreme Inquisitor
+1 Telemin Performance
+1 Tomb of Horrors Adventurer
 1 Virtue of Knowledge // Vantress Visions
-1 Sword of Forge and Frontier
-1 Spellweaver Helix
-1 Watcher in the Mist
-1 Wipe Away
-1 Trash Bin
-1 Ugin, the Ineffable
-1 Wu Scout
-1 Trade Routes
-1 Workshop Elders
-{'overall': 8.615400843881858, 'cmc': 3.537313432835821, 'ramp': '5', 'draw': '26', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'EmperorMihailII.txt'}', 'draw': '26', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'EmperorMihailII.txt'}
+1 Watchers of the Dead
+1 Urza's Filter
+1 Whispering Wizard
+1 Verdant Catacombs
+1 The Deck of Many Things
+1 Treason of Isengard
+1 Urza, Lord High Artificer
+1 The Mana Rig
+1 Swan Song
+1 Verity Circle
+1 Transmute Artifact
+1 Thunder Drake
+1 Words of Wisdom
+1 Well of Ideas
+1 Twinning Glass
+1 Tymora's Invoker
+1 Vessel of Paramnesia
+1 Spectral Sailor
+{'overall': 6.771428571428571, 'cmc': 3.5, 'ramp': 6, 'draw': 18, 'interaction': 4}

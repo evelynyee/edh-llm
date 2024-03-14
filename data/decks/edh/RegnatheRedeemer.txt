@@ -61,4 +61,5 @@
 1 Vanquish the Horde
 1 Prism Ring
 1 Angel's Feather
-{'overall': 6.615909090909091, 'cmc': 2.7936507936507935, 'ramp': '8', 'draw': '14', 'interaction': 8, 'folder': 'edh', 'commander': 'RegnatheRedeemer.txt'}
+1 Lightning Greaves
+{'overall': 6.619101123595506, 'cmc': 2.78125, 'ramp': 8, 'draw': 14, 'interaction': 8}

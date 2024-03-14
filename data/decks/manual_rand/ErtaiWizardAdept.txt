@@ -1,65 +1,65 @@
 1 Ertai, Wizard Adept
-1 Zygon Infiltrator
-1 Ulamog's Reclaimer
-1 Vodalian Illusionist
-1 Vodalian Serpent
-1 Titan's Presence
-1 Teferi, Mage of Zhalfir
-1 Synchronized Eviction
-1 Universal Surveillance
-1 Spell Syphon
+1 Wingspan Mentor
+1 Sword of Once and Future
+1 Time Elemental
+1 Surge of Brilliance
 1 Wizard's Spellbook
-1 Zahid, Djinn of the Lamp
-1 The Everflowing Well // The Myriad Pools
-1 Triassic Egg
-1 Waterlogged Hulk // Watertight Gondola
-1 Visions of Duplicity
-1 Unified Will
-1 Wall of Runes
-1 The Blackstaff of Waterdeep
-1 Sunken City
-1 Vodalian Merchant
-1 Shifting Borders
-1 Wu Longbowman
-1 Counterspell
-1 Venser's Diffusion
-1 Winds of Rebuke
-1 Withdraw
-1 Witches' Eye
-1 Windrider Wizard
-1 Turn into a Pumpkin
-1 Void Squall
-1 Voldaren Estate
-1 Urza's Incubator
-1 War-Wing Siren
-1 Twiddle
-1 Threefold Signal
-1 Venarian Glimmer
-1 Wand of Ith
-1 Wizards of Thay
-1 Trinisphere
-1 Wasteland
-1 Sol Talisman
-1 Vizier of Many Faces
-1 Traumatic Visions
-1 Skyclave Sentinel
-1 Su-Chi Cave Guard
-1 War Room
-1 Whirlwind Adept
-1 Swindler's Scheme
-1 Wavebreak Hippocamp
-1 Tyrite Sanctum
-1 Siren Stormtamer
+1 Triton Fortune Hunter
+1 Wooden Sphere
+1 Wicker Picker
+1 Whalebone Glider
+1 Unesh, Criosphinx Sovereign
 1 Thirst for Knowledge
-1 Tolarian Kraken
-1 Thran Power Suit
-1 Waker of Waves
-1 Vesuvan Doppelganger
-1 Underdark Rift
-1 Watchful Automaton
-1 Viscerid Armor
-1 Walk the Aeons
-1 Wondrous Crucible
-1 Wind-Kin Raiders
+1 Witness of Tomorrows
+1 Wash Away
+1 Trading Post
+1 Spell Syphon
+1 Vapor Snag
+1 Volshe Tideturner
+1 Vivisection
+1 Tales of the Ancestors
+1 Thieving Skydiver
+1 Svyelunite Priest
+1 Words of Wind
+1 Wizard's Rockets
+1 Vedalken Engineer
+1 Force of Negation
+1 The Mycosynth Gardens
+1 Unsummon
+1 Weakstone's Subjugation
+1 Toils of Night and Day
+1 Sonic Screwdriver
+1 Chrome Mox
+1 Thwart
+1 War Tax
+1 Thassa, Deep-Dwelling
+1 Thassa's Ire
+1 Sorcerous Squall
+1 Vivid Creek
 1 Soulcipher Board // Cipherbound Spirit
-{'overall': 6.016666666666667, 'cmc': 3, 'ramp': '6', 'draw': '14', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ErtaiWizardAdept.txt'}
+1 Tolarian Kraken
+1 Weapon Rack
+1 Zephyr Boots
+1 Zephyr Singer
+1 Walk the Aeons
+1 Waterspout Djinn
+1 Zuran Orb
+1 Viridian Longbow
+1 Triassic Egg
+1 Siren Stormtamer
+1 Startled Awake // Persistent Nightmare
+1 Voyager Staff
+1 Tormod's Crypt
+1 Torch Gauntlet
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 Ulamog, the Infinite Gyre
+1 Spell Stutter
+1 Voldaren Estate
+1 Soratami Savant
+1 Zygon Infiltrator
+1 Stinging Licid
+1 Young Blue Dragon // Sand Augury
+1 Wasteland
+1 Train of Thought
+1 The Blackstaff of Waterdeep
+{'overall': 6.707182320441989, 'cmc': 2.828125, 'ramp': 6, 'draw': 16, 'interaction': 10}

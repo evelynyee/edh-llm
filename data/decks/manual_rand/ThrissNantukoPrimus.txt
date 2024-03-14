@@ -1,65 +1,65 @@
 1 Thriss, Nantuko Primus
-1 Venom
+1 Wandering Troubadour
+1 Titanic Brawl
+1 Sparring Golem
+1 Venerable Kumo
 1 Wine of Blood and Iron
-1 Whip Vine
-1 Slaughterhorn
-1 Wingrattle Scarecrow
-1 Trumpeting Armodon
-1 Spatial Contortion
-1 Wild Instincts
-1 Green Sun's Zenith
-1 Wilson, Refined Grizzly
-1 Spy Kit
-1 Wren's Run Packmaster
-1 Vorinclex // The Grand Evolution
-1 Verdant Embrace
-1 Swell of Growth
-1 Wildheart Invoker
-1 The Skullspore Nexus
-1 Stonewood Invoker
-1 You Look Upon the Tarrasque
-1 Spoils of the Hunt
-1 Wing Snare
-1 Tlincalli Hunter // Retrieve Prey
-1 Skyshroud Archer
-1 Wolfrider's Saddle
-1 Syr Faren, the Hengehammer
-1 Wolf Strike
-1 Voyager Staff
-1 Tanuki Transplanter
-1 Wild Mongrel
-1 Wild Nacatl
-1 Veilstone Amulet
-1 Wrecking Beast
-1 Yew Spirit
-1 Wardscale Crocodile
-1 Strength of Cedars
-1 Seedborn Muse
-1 Ulvenwald Oddity // Ulvenwald Behemoth
-1 Zodiac Ox
-1 Take to the Streets
-1 Unstable Frontier
-1 Varis, Silverymoon Ranger
-1 War Horn
-1 Talons of Wildwood
-1 Undercity Upheaval
-1 Trained Cheetah
-1 Trip Wire
-1 Towering Indrik
-1 Vivien's Jaguar
-1 Vexing Beetle
-1 Xanthic Statue
-1 Tajuru Blightblade
-1 Untethered Express
-1 Wildgrowth Walker
+1 Voice of the Vermin
+1 Woolly Mammoths
+1 Titania's Song
+1 Warlord's Axe
+1 Voltaic Key
+1 Swiftfoot Boots
+1 Towering Titan
+1 Umbral Mantle
+1 Vivien of the Arkbow
+1 Sword of Kaldra
+1 Snare the Skies
 1 Wolfkin Outcast // Wedding Crasher
-1 Surrak, the Hunt Caller
-1 Whisperer of the Wilds
-1 Wall of Mulch
-1 Stampede
-1 Unholy Citadel
-1 Tempting Licid
-1 Workshop Warchief
-1 Tribal Forcemage
-1 Wrenn and Realmbreaker
-{'overall': 3.478723404255319, 'cmc': 3.4558823529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}23529411766, 'ramp': '5', 'draw': '6', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ThrissNantukoPrimus.txt'}
+1 Surrak and Goreclaw
+1 Village Elder
+1 Wind Shear
+1 Unnatural Predation
+1 Sylvok Lifestaff
+1 Tread Upon
+1 Treefolk Mystic
+1 Sigil of Valor
+1 Titanoth Rex
+1 Vigilant Baloth
+1 Vanguard's Shield
+1 Whisperwood Elemental
+1 Weather the Storm
+1 Tel-Jilad Wolf
+1 Wild Might
+1 Somberwald Alpha
+1 The Foretold Soldier
+1 Vexing Beetle
+1 Untamed Might
+1 Tandem Takedown
+1 Venom
+1 Wilderness Reclamation
+1 Wolfir Silverheart
+1 Wyluli Wolf
+1 Slaughterhorn
+1 Wall of Spears
+1 Temur Charger
+1 Sunbathing Rootwalla
+1 Woodland Changeling
+1 Tormentor's Trident
+1 Zodiac Rooster
+1 Swift Warden
+1 Tendril of the Mycotyrant
+1 Warren-Scourge Elf
+1 Wary Okapi
+1 Stonehoof Chieftain
+1 Wild Nacatl
+1 Weatherseed Elf
+1 Still Life
+1 Xantid Swarm
+1 Vivien's Crocodile
+1 Strength in Numbers
+1 Vial of Dragonfire
+1 Tangleclaw Werewolf // Fibrous Entangler
+1 Yedora, Grave Gardener
+1 Werebear
+{'overall': 1.8274509803921568, 'cmc': 3.1875, 'ramp': 2, 'draw': 2, 'interaction': 4}

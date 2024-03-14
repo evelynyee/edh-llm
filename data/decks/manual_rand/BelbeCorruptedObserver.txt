@@ -1,65 +1,65 @@
 1 Belbe, Corrupted Observer
-1 Tenacious Underdog
+1 Throne of Bone
+1 Urza's Armor
+1 Wanted Scoundrels
+1 Zhulodok, Void Gorger
 1 Viral Spawning
-1 Visions of Brutality
-1 Vengeful Strangler // Strangling Grasp
-1 Tyvar, Jubilant Brawler
-1 Vesper Ghoul
-1 Mana Vault
-1 Words of Wilding
-1 Tallyman of Nurgle
-1 Wretched Confluence
-1 Wall of Bone
-1 Witch-king of Angmar
-1 Wing Storm
-1 The Black Gate
-1 Wreck Hunter
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Windgrace's Judgment
-1 Void Winnower
-1 Tower of Eons
-1 Wayward Swordtooth
-1 Stunning Reversal
-1 Wooden Sphere
-1 Witch Engine
-1 Yawgmoth's Agenda
-1 Whispersteel Dagger
-1 Tsabo's Decree
-1 Thwart the Enemy
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Warlock Class
-1 Xathrid Slyblade
-1 Thoughtseize
-1 Telim'Tor's Darts
-1 Vampire Cutthroat
-1 Vicious Hunger
-1 Subversion
-1 Torment of Hailfire
-1 Underworld Dreams
-1 Vendetta
-1 Stolen Grain
-1 Thaumatic Compass // Spires of Orazca
+1 Squallmonger
+1 Voldaren Pariah // Abolisher of Bloodlines
 1 Wing Puncture
-1 Waste Not
-1 Wall of Souls
-1 Triarch Stalker
-1 Demonic Tutor
-1 Victory Chimes
-1 Zuran Orb
-1 You Look Upon the Tarrasque
-1 Vampiric Rites
-1 Staff of Nin
-1 Wilderness Reclamation
-1 Verdant Command
-1 Throne of the God-Pharaoh
-1 Tymaret, Chosen from Death
-1 Zof Consumption // Zof Bloodbog
-1 Tendrils of Corruption
-1 Wondrous Crucible
-1 Sol Ring
-1 Triskaidekaphobia
-1 Willow Geist
+1 Time Bomb
+1 Stolen Grain
+1 The Mycotyrant
+1 Tribute to Hunger
+1 Well of Knowledge
+1 Spreading Rot
+1 Taste of Death
+1 Vito, Thorn of the Dusk Rose
+1 Stronghold Discipline
+1 Yawgmoth's Will
+1 Venom Sliver
+1 Trespasser's Curse
+1 Time Reaper
+1 Voracious Fell Beast
+1 Upwelling
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Walking Bulwark
+1 Zulaport Chainmage
+1 Vessel of Malignity
+1 Word of Binding
+1 Warlock Class
+1 Strongarm Tactics
+1 Vraska's Fall
+1 Umbilicus
+1 Tezzeret's Simulacrum
+1 Temporal Extortion
+1 Vraska, Scheming Gorgon
+1 Whisperwood Elemental
+1 Woodripper
+1 Titan Hunter
+1 Urza's Chalice
+1 Viridian Scout
+1 Zombie Musher
+1 Werewolf Pack Leader
+1 Terra Stomper
+1 Weaver of Harmony
+1 Tangleroot
+1 Thwart the Enemy
+1 Typhoon
+1 Wolf Pack
 1 War Barge
-1 Tombstone Stairwell
-1 Vial of Poison
-{'overall': 5.357004830917875, 'cmc': 3.0441176470588234, 'ramp': '8', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'BelbeCorruptedObserver.txt'}': 9, 'folder': 'manual_rand', 'commander': 'BelbeCorruptedObserver.txt'}
+1 Vampiric Link
+1 Tormented Thoughts
+1 Uurg, Spawn of Turg
+1 Wormwood Treefolk
+1 Windswift Slice
+1 Thrull Wizard
+1 Weed Strangle
+1 The Tabernacle at Pendrell Vale
+1 Rampant Growth
+1 Vivien of the Arkbow
+1 Tsabo's Web
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Whirling Catapult
+1 Wall of Forgotten Pharaohs
+{'overall': 3.431818181818182, 'cmc': 3.4375, 'ramp': 5, 'draw': 5, 'interaction': 7}

@@ -61,4 +61,5 @@
 1 Temple of Triumph
 1 Rugged Prairie
 1 Flawless Maneuver
-{'overall': 4.570135746606335, 'cmc': 3.507936507936508, 'ramp': '10', 'draw': '4', 'interaction': 10, 'folder': 'edh', 'commander': 'DjeruandHazoret.txt'}
+1 Tori D'Avenant, Fury Rider
+{'overall': 4.568888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 4, 'interaction': 10}

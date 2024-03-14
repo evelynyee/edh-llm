@@ -1,65 +1,65 @@
 1 Ellyn Harbreeze, Busybody
-1 Smuggler's Buggy
-1 Wondrous Crucible
-1 The Golden Throne
-1 Totem-Guide Hartebeest
-1 Sorcerer's Strongbox
-1 Trade Caravan
-1 Zephyrim
-1 Thraben Heretic
-1 The Prismatic Piper
-1 Thran Portal
-1 Witch Hunter
-1 Urza's Filter
-1 The Caves of Androzani
-1 The Birth of Meletis
-1 Sunscour
-1 Three Bowls of Porridge
-1 Wand of Vertebrae
-1 Temporary Lockdown
-1 Workshop Assistant
-1 Worry Beads
-1 Wayfaring Giant
-1 Tablet of Compleation
-1 Stick Together
-1 Tawnos's Coffin
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Solitude
-1 Stalwarts of Osgiliath
-1 Unwavering Initiate
-1 Wrath of God
-1 The Rack
-1 Twinning Staff
-1 Unfinished Business
-1 Vanquish the Horde
-1 You're Confronted by Robbers
-1 Skywhaler's Shot
-1 Trove Warden
-1 Verge Rangers
-1 Terrarion
-1 Vizier of Remedies
-1 Spurnmage Advocate
-1 Terminus
-1 Well of Knowledge
-1 Swift Reckoning
-1 Soul Foundry
-1 Spark Rupture
-1 Surging Sentinels
-1 Wyrm's Crossing Patrol
-1 Smelting Vat
-1 Watchers of the Dead
-1 Triumphant Reckoning
-1 Treasure Vault
-1 Sudden Disappearance
-1 Swell of Courage
-1 Ulamog, the Ceaseless Hunger
-1 Starfield Mystic
-1 Veteran of the Depths
-1 Tel-Jilad Stylus
-1 Ugin's Nexus
-1 Wandering Graybeard
-1 Tempt with Glory
-1 Transmogrifying Wand
-1 Welcoming Vampire
+1 Vexing Arcanix
+1 Swiftgear Drake
+1 Sojourner's Companion
+1 Path to Exile
+1 Trigon of Mending
+1 War Behemoth
+1 Unexpectedly Absent
+1 Treasure Hunter
+1 Thought Prison
+1 Vedalken Orrery
+1 Zuran Orb
+1 Austere Command
+1 Sunrise Seeker
+1 Sentinel Totem
+1 The One Ring
+1 Skull of Orm
 1 Void Mirror
-{'overall': 6.505102040816326, 'cmc': 3.6029411764705883, 'ramp': '6', 'draw': '15', 'interaction': 14, 'folder': 'manual_rand', 'commander': 'EllynHarbreezeBusybody.txt'}action': 14, 'folder': 'manual_rand', 'commander': 'EllynHarbreezeBusybody.txt'}
+1 The Restoration of Eiganjo // Architect of Restoration
+1 The Prismatic Piper
+1 Trustworthy Scout
+1 Self-Assembler
+1 Wandering Archaic // Explore the Vastlands
+1 Soul Summons
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Swallow Whole
+1 Stockpiling Celebrant
+1 Wandering Champion
+1 _____ _____ Rocketship
+1 Transcendent Envoy
+1 Terminal Moraine
+1 Treasure Map // Treasure Cove
+1 Stonehewer Giant
+1 Volrath's Laboratory
+1 Swift Reckoning
+1 Ugin, the Spirit Dragon
+1 Well of Life
+1 Wand of Denial
+1 Vexing Puzzlebox
+1 Woolly Razorback
+1 The Moment
+1 Throne of Eldraine
+1 Tome of the Guildpact
+1 Ultramarines Honour Guard
+1 Ulamog, the Infinite Gyre
+1 Tetravus
+1 Treasure Vault
+1 Voice of the Blessed
+1 Tocasia's Dig Site
+1 White Plume Adventurer
+1 Tonic Peddler
+1 Ugin's Mastery
+1 Slumbering Tora
+1 True Love's Kiss
+1 Verdant Catacombs
+1 Storm Cauldron
+1 Windswept Heath
+1 Trade Caravan
+1 Ulamog, the Ceaseless Hunger
+1 Wipe Clean
+1 Soaring Sandwing
+1 Volunteer Reserves
+1 Stick Together
+1 Sword-Swallowing Seraph
+{'overall': 6.708951965065502, 'cmc': 3.578125, 'ramp': 8, 'draw': 15, 'interaction': 8}

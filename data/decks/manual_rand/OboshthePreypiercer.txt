@@ -1,65 +1,65 @@
 1 Obosh, the Preypiercer
-1 Szat's Will
-1 Unhinge
-1 Wrack with Madness
-1 Mana Vault
-1 Tergrid, God of Fright // Tergrid's Lantern
-1 Woebringer Demon
-1 Zombie Brute
+1 Surging Dementia
+1 Volcanic Rambler
+1 Volcanic Awakening
 1 Thought Hemorrhage
-1 Yawgmoth, Thran Physician
-1 Whirling Catapult
-1 Worldslayer
-1 Vengeful Devil
-1 Writhing Necromass
-1 The Golden Throne
-1 Volcanic Spray
-1 Theater of Horrors
-1 Xantcha, Sleeper Agent
-1 Sowing Salt
-1 Thran Tome
-1 Zagras, Thief of Heartbeats
-1 Wizard's Lightning
-1 Tourach's Chant
-1 Vengeful Pharaoh
-1 Valakut Awakening // Valakut Stoneforge
-1 Where Ancients Tread
-1 Twinning Glass
-1 Yidaro, Wandering Monster
-1 Yixlid Jailer
-1 Waking Nightmare
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Vexing Devil
-1 Will-Forged Golem
-1 Zombie Assassin
-1 Vindictive Lich
-1 Surgical Extraction
-1 Weight of Spires
-1 Wit's End
-1 Traveler's Amulet
-1 The Elderspell
-1 Trash Bin
-1 Urabrask // The Great Work
-1 Touch of Death
-1 Thrumming Stone
-1 Taurean Mauler
-1 Spikefield Hazard // Spikefield Cave
-1 Stupor
-1 Turf War
-1 Tourach's Canticle
-1 Viseling
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
-1 Wand of Vertebrae
-1 Transgress the Mind
-1 Ulamog, the Ceaseless Hunger
-1 Warp World
-1 Stalking Yeti
-1 Vislor Turlough
-1 Words of War
-1 Thoughts of Ruin
+1 Warlock Class
+1 Urabrask's Anointer
+1 Stensia Banquet
 1 Demonic Tutor
-1 Welding Sparks
-1 Damnation
-1 Torrent of Stone
-1 Witches' Eye
-{'overall': 6.665151515151516, 'cmc': 3.8823529411764706, 'ramp': '8', 'draw': '12', 'interaction': 23, 'folder': 'manual_rand', 'commander': 'OboshthePreypiercer.txt'}'folder': 'manual_rand', 'commander': 'OboshthePreypiercer.txt'}
+1 Tibalt's Trickery
+1 Zhang Liao, Hero of Hefei
+1 Spellweaver Helix
+1 Torment of Venom
+1 Soul Shatter
+1 The Moment
+1 Winds of Change
+1 Whispers of Emrakul
+1 The Filigree Sylex
+1 Withering Wisps
+1 Thoughtseize
+1 Tyrannize
+1 Tyrant of Discord
+1 Syphon Life
+1 Witch-king, Sky Scourge
+1 Wild-Magic Sorcerer
+1 Volatile Fault
+1 Sowing Salt
+1 Vile Aggregate
+1 Torgaar, Famine Incarnate
+1 Witch's Mark
+1 Testament Bearer
+1 Specter's Wail
+1 Sword of Forge and Frontier
+1 Soldevi Sentry
+1 The Master, Gallifrey's End
+1 Volcanic Fallout
+1 Vislor Turlough
+1 You Find Some Prisoners
+1 Wasteland Strangler
+1 Young Necromancer
+1 Swashbuckler's Whip
+1 Wire Surgeons
+1 Vengeful Pharaoh
+1 Timecrafting
+1 Wolf of Devil's Breach
+1 Voldaren Ambusher
+1 Zhulodok, Void Gorger
+1 Vampiric Touch
+1 Worldslayer
+1 Three Tragedies
+1 Thief of Hope
+1 Vicious Rumors
+1 Wizard's Rockets
+1 Word of Command
+1 Sudden Impact
+1 The Balrog, Flame of Udûn
+1 Turf War
+1 Valakut Awakening // Valakut Stoneforge
+1 Unleash Shell
+1 Wooden Sphere
+1 Wyll, Blade of Frontiers
+1 Tombstalker
+1 Vat Emergence
+1 Yawgmoth's Edict
+{'overall': 5.023991031390135, 'cmc': 3.484375, 'ramp': 4, 'draw': 11, 'interaction': 14}

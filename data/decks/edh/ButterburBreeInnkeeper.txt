@@ -61,4 +61,5 @@
 1 Inspiring Statuary
 1 Fae Offering
 1 Of Herbs and Stewed Rabbit
-{'overall': 7.445637583892617, 'cmc': 2.365079365079365, 'ramp': '15', 'draw': '10', 'interaction': 7, 'folder': 'edh', 'commander': 'ButterburBreeInnkeeper.txt'}
+1 Parallel Lives
+{'overall': 7.436601307189542, 'cmc': 2.390625, 'ramp': 15, 'draw': 10, 'interaction': 7}

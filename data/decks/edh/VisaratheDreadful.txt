@@ -61,4 +61,5 @@
 1 Commander's Sphere
 1 Caged Sun
 1 No Mercy
-{'overall': 8.902849740932643, 'cmc': 3.0634920634920637, 'ramp': '16', 'draw': '14', 'interaction': 15, 'folder': 'edh', 'commander': 'VisaratheDreadful.txt'}
+1 Phyrexian Tower
+{'overall': 8.913212435233161, 'cmc': 3.015625, 'ramp': 16, 'draw': 14, 'interaction': 15}
