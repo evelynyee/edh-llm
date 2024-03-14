@@ -9,9 +9,9 @@ In our project, we propose a novel system for generating playable decks for the 
 ## What is EDH?
 Magic the Gathering is a deck-building card game where players collect cards and assemble custom decks to play against each other. The Elder Dragon Highlander (EDH) format is loosely structured for deck-building; players must select a Commander card (see below) to lead 99 other cards in a 1v1v1v1 last-man-standing format.
 
-<img src="AtraxaPraetorsVoice033__72510.jpeg" alt="Commander card" width="300" style="text-align:center;"/>
+<img src="AtraxaPraetorsVoice033__72510.jpeg" alt="Sample commander card" width="50%" style="display: block;margin: 0 auto;"/>
 
-Sample commander card: Atraxa, Praetors' Voice
+<div style="text-align:center;">Sample commander card: Atraxa, Praetors' Voice</div>
 
 ### The deck building problem
 Building a successful deck necessitates the following considerations with varying levels of subjectivity:
@@ -30,7 +30,7 @@ Building a successful deck necessitates the following considerations with varyin
     • Rule Zero: Decks must be fun to play with and play against. This can be achieved by building a deck that is, on average, of comparable speed/strength to other decks in the playgroup.
 
 ## Our pipeline
-![A diagram demonstrating our pipeline, from Magic the Gathering cards and a specified commander to the final deck suggestion.](pipeline_diagram.png)
+<img src="pipeline_diagram.png" alt="A diagram demonstrating our pipeline, from Magic the Gathering cards and a specified commander to the final deck suggestion." width="100%" style="display: block;margin: 0 auto;"/>
 
 1. Gather database of all Magic: The Gathering cards
 2. Convert each card's text to its vector representation
