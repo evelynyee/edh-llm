@@ -1,0 +1,101 @@
+1 Gnostro, Voice of the Crags
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Mountain
+1 Island
+1 Plains
+1 Zenith Flare
+1 Pyre-Sledge Arsonist
+1 Jaws of Stone
+1 Welding Sparks
+1 Volcanic Wind
+1 Liquid Fire
+1 Lantern Flare
+1 Meteor Shower
+1 Kindle
+1 Crackle with Power
+1 Fireball
+1 Calamitous Cave-In
+1 Flame Burst
+1 Radiant Flames
+1 Eternal Flame
+1 Voldaren Ambusher
+1 Mana Cannons
+1 Gates Ablaze
+1 Impact Resonance
+1 Sunflare Shaman
+1 Sparksmith
+1 Galvanic Bombardment
+1 Channeled Force
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Volcanic Salvo
+1 Rolling Thunder
+1 Reverse Polarity
+1 Chain Reaction
+1 Atalya, Samite Master
+1 Hobbit's Sting
+1 Elvish Mariner
+1 Knollspine Invocation
+1 Energy Bolt
+1 Nahiri's Wrath
+1 Immolating Gyre
+1 Dwarven Shrine
+1 Thunder of Hooves
+1 Burn at the Stake
+1 Crimson Hellkite
+1 Light Up the Night
+1 Devastating Dreams
+1 Heliod's Intervention
+1 Builder's Bane
+1 Flame Discharge
+1 Chandra's Incinerator
+1 Hail of Arrows
+1 Aven Shrine
+1 Invoke the Firemind
+1 Expansion // Explosion
+1 Lightning Storm
+1 Venerable Warsinger
+1 Sword of the Ages
+1 Brightflame
+1 Well of Lost Dreams
+1 Basalt Ravager
+1 Ravaging Blaze
+1 Volcanic Eruption
+1 Doorkeeper
+1 Nahiri's Sacrifice
+1 Cyclops Electromancer
+1 Warfire Javelineer
+1 Latulla, Keldon Overseer
+1 Slight Malfunction
+{'overall': 4.273255813953488, 'cmc': 3.208955223880597, 'ramp': '2', 'draw': '4', 'interaction': 43, 'folder': 'cos_sim', 'commander': 'GnostroVoiceoftheCrags.txt'}}

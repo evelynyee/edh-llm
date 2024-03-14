@@ -1,0 +1,65 @@
+1 Regna, the Redeemer
+1 Swords to Plowshares
+1 Sol Ring
+1 Crested Sunmare
+1 Soul Warden
+1 Sunscorch Regent
+1 Dawn of Hope
+1 Well of Lost Dreams
+1 Path to Exile
+1 Alhammarret's Archive
+1 Myriad Landscape
+1 Ashes of the Abhorrent
+1 Angelic Accord
+1 Resplendent Angel
+1 Pristine Talisman
+1 Mind Stone
+1 Generous Gift
+1 Cosmos Elixir
+1 Sigarda's Splendor
+1 Valkyrie Harbinger
+1 Soul's Attendant
+1 Heliod's Intervention
+1 Smothering Tithe
+1 Seraph Sanctuary
+1 War Room
+1 Griffin Aerie
+1 Daxos, Blessed by the Sun
+1 Mentor of the Meek
+1 Esper Sentinel
+1 Skullclamp
+1 Archaeomancer's Map
+1 Radiant Fountain
+1 Thought Vessel
+1 Rumor Gatherer
+1 Welcoming Vampire
+1 Suture Priest
+1 Archangel of Thune
+1 Flawless Maneuver
+1 By Invitation Only
+1 Fumigate
+1 Aetherflux Reservoir
+1 Authority of the Consuls
+1 Ajani, Strength of the Pride
+1 Reliquary Tower
+1 Arcane Signet
+1 Paradise Plume
+1 Disenchant
+1 Council's Judgment
+1 Finale of Glory
+1 Archivist of Oghma
+1 Nykthos Paragon
+1 Speaker of the Heavens
+1 Angel of Vitality
+1 Riot Control
+1 Rebuff the Wicked
+1 Cathars' Crusade
+1 Smuggler's Share
+1 Auriok Champion
+1 Angel of Destiny
+1 Lapse of Certainty
+1 Vanquish the Horde
+1 Prism Ring
+1 Angel's Feather
+1 Lightning Greaves
+{'overall': 6.619101123595506, 'cmc': 2.78125, 'ramp': 8, 'draw': 14, 'interaction': 8, 'folder': 'edhrec', 'commander': 'RegnatheRedeemer.txt'}

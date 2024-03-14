@@ -62,4 +62,4 @@
 1 Vedalken Aethermage
 1 Thran Lens
 1 Tolaria
-{'overall': 6.873991031390134, 'cmc': 3.484375, 'ramp': 4, 'draw': 19, 'interaction': 11}
+{'overall': 6.873991031390134, 'cmc': 3.484375, 'ramp': 4, 'draw': 19, 'interaction': 11, 'folder': 'gpt', 'commander': 'CallapheBelovedoftheSea.txt'}

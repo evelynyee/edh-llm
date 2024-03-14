@@ -62,4 +62,4 @@
 1 Vedalken Shackles
 1 Thundersteel Colossus
 1 Vraska, Scheming Gorgon
-{'overall': 3.0953488372093023, 'cmc': 3.359375, 'ramp': 5, 'draw': 3, 'interaction': 10}
+{'overall': 3.0953488372093023, 'cmc': 3.359375, 'ramp': 5, 'draw': 3, 'interaction': 10, 'folder': 'gpt', 'commander': 'ZhangHeWeiGeneral.txt'}

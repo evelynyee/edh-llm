@@ -1,0 +1,65 @@
+1 Butterbur, Bree Innkeeper
+1 Peregrin Took
+1 Rosie Cotton of South Lane
+1 Many Partings
+1 Mushroom Watchdogs
+1 Meriadoc Brandybuck
+1 Revive the Shire
+1 Sol Ring
+1 Lembas
+1 Stew the Coneys
+1 Swords to Plowshares
+1 Arcane Signet
+1 Command Tower
+1 Brandywine Farmer
+1 Gilded Goose
+1 Elanor Gardner
+1 Graypelt Refuge
+1 Late to Dinner
+1 Trail of Crumbs
+1 Second Breakfast
+1 Eastfarthing Farmer
+1 Banquet Guests
+1 Tireless Provisioner
+1 The Shire
+1 Samwise Gamgee
+1 Nature's Lore
+1 Killer Service
+1 Shire Shirriff
+1 Academy Manufactor
+1 Feasting Hobbit
+1 Cultivate
+1 Field-Tested Frying Pan
+1 Canopy Vista
+1 Feasting Troll King
+1 Frodo Baggins
+1 Pippin's Bravery
+1 Hobbit's Sting
+1 The Battle of Bywater
+1 Rampant Growth
+1 Shortcut to Mushrooms
+1 Evolving Wilds
+1 Fortified Village
+1 Generous Ent
+1 The Gaffer
+1 Avacyn's Pilgrim
+1 Path to Exile
+1 Beast Within
+1 Three Visits
+1 Trading Post
+1 Well of Lost Dreams
+1 Swiftfoot Boots
+1 Shire Terrace
+1 Temple Garden
+1 Wicked Wolf
+1 Galadriel, Gift-Giver
+1 Bill the Pony
+1 Lathiel, the Bounteous Dawn
+1 Farmer Cotton
+1 Jaheira, Friend of the Forest
+1 Generous Gift
+1 Inspiring Statuary
+1 Fae Offering
+1 Of Herbs and Stewed Rabbit
+1 Parallel Lives
+{'overall': 7.436601307189542, 'cmc': 2.390625, 'ramp': 15, 'draw': 10, 'interaction': 7, 'folder': 'edhrec', 'commander': 'ButterburBreeInnkeeper.txt'}

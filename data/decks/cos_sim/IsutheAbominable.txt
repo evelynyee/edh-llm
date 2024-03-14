@@ -1,0 +1,101 @@
+1 Isu the Abominable
+1 Windbrisk Heights
+1 Shelldock Isle
+1 Mosswort Bridge
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Forest
+1 Island
+1 Plains
+1 Falco Spara, Pactweaver
+1 Vineshaper Prodigy
+1 Djinn of Wishes
+1 Herald's Horn
+1 Parcelbeast
+1 Thicket Elemental
+1 Harrow
+1 Runeforge Champion
+1 Mystic Speculation
+1 Tapping at the Window
+1 Reclaim the Wastes
+1 Summoning Trap
+1 Stoic Farmer
+1 Unesh, Criosphinx Sovereign
+1 Storm the Festival
+1 Search for Tomorrow
+1 Battlewise Hoplite
+1 Triumph of Saint Katherine
+1 Duskwatch Recruiter // Krallenhorde Howler
+1 Coralhelm Chronicler
+1 Altar of Bone
+1 Path to the Festival
+1 Otherworldly Gaze
+1 Gaea's Balance
+1 Tracker's Instincts
+1 Terramorph
+1 Unblinking Bleb
+1 Larder Zombie
+1 Crop Rotation
+1 Winnower Patrol
+1 Artificer's Assistant
+1 Sight Beyond Sight
+1 Reason // Believe
+1 Season of Growth
+1 Dichotomancy
+1 Enhanced Surveillance
+1 Cruel Witness
+1 Glimpse the Cosmos
+1 The Five Doctors
+1 Oath of Nissa
+1 Journey of Discovery
+1 Mask of the Mimic
+1 One with the Multiverse
+1 Eyes of the Watcher
+1 Grow from the Ashes
+1 Mystic Forge
+1 Court Hussar
+1 Genesis Storm
+1 Vastwood Surge
+1 Flash of Insight
+1 Thunderherd Migration
+1 Lapis Orb of Dragonkind
+1 Preferred Selection
+1 Kinnan, Bonder Prodigy
+1 Leaf-Crowned Elder
+1 Jacob Hauken, Inspector // Hauken's Insight
+1 Sigarda, Font of Blessings
+1 Vedalken Aethermage
+1 Haldan, Avid Arcanist
+1 Interdisciplinary Mascot
+1 Chorus of the Tides
+1 Write into Being
+1 Dissolve
+{'overall': 11.992201834862385, 'cmc': 3.1142857142857143, 'ramp': '18', 'draw': '27', 'interaction': 2, 'folder': 'cos_sim', 'commander': 'IsutheAbominable.txt'}}

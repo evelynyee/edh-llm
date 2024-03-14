@@ -62,4 +62,4 @@
 1 Toymaker
 1 Vivien on the Hunt
 1 Vital Splicer
-{'overall': 5.3589519650655015, 'cmc': 3.578125, 'ramp': 8, 'draw': 9, 'interaction': 11}
+{'overall': 5.3589519650655015, 'cmc': 3.578125, 'ramp': 8, 'draw': 9, 'interaction': 11, 'folder': 'gpt', 'commander': 'QueenAllenalofRuadach.txt'}

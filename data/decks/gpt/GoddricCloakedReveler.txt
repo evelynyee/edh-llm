@@ -61,4 +61,4 @@
 1 Siege Modification
 1 Threaten
 1 Whip Sergeant
-{'overall': 2.8528497409326428, 'cmc': 3.0634920634920637, 'ramp': 5, 'draw': 2, 'interaction': 9}
+{'overall': 2.8528497409326428, 'cmc': 3.0634920634920637, 'ramp': 5, 'draw': 2, 'interaction': 9, 'folder': 'gpt', 'commander': 'GoddricCloakedReveler.txt'}

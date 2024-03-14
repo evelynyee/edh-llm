@@ -1,0 +1,101 @@
+1 Elrond, Master of Healing
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Forest
+1 Island
+1 Malamet Veteran
+1 Inscription of Abundance
+1 Mausoleum Wanderer
+1 Invigorating Boon
+1 The Crowd Goes Wild
+1 Generous Visitor
+1 Vivien, Arkbow Ranger
+1 Quirion Beastcaller
+1 Scale the Heights
+1 Nissa's Judgment
+1 Neverwinter Hydra
+1 Galvanic Giant // Storm Reading
+1 Colossal Badger // Dig Deep
+1 Forgotten Ancient
+1 Ent-Draught Basin
+1 Briarknit Kami
+1 Bioshift
+1 Essence Capture
+1 Citanul Druid
+1 Ruinous Intrusion
+1 Elusive Otter // Grove's Bounty
+1 Primeval Bounty
+1 Towashi Guide-Bot
+1 Hamlet Vanguard
+1 Bow of Nylea
+1 Cloaked Cadet
+1 Emergent Woodwurm
+1 Conclave Sledge-Captain
+1 Countermand
+1 Titania's Chosen
+1 Mossdog
+1 Raiders' Karve
+1 Wild Onslaught
+1 Thrive
+1 Kurgadon
+1 Death's Presence
+1 Patchwork Automaton
+1 Elvish Handservant
+1 Strength of the Tajuru
+1 Quillmane Baku
+1 Give // Take
+1 Cephalid Aristocrat
+1 Evolutionary Escalation
+1 Briar Hydra
+1 Essence Symbiote
+1 Bounty of the Hunt
+1 Thought Collapse
+1 Didn't Say Please
+1 Feral Throwback
+1 Chakram Retriever
+1 Fathom Mage
+1 Ozolith, the Shattered Spire
+1 Struggle for Skemfar
+1 Tribute to the World Tree
+1 Hero of Leina Tower
+1 Primeval Protector
+1 Obsessive Skinner
+1 Wildgrowth Walker
+1 Primal Empathy
+1 Nature's Panoply
+1 Verdant Command
+1 Soul's Might
+1 Spell Rupture
+{'overall': 3.9264192139737992, 'cmc': 3.4696969696969697, 'ramp': '1', 'draw': '10', 'interaction': 12, 'folder': 'cos_sim', 'commander': 'ElrondMasterofHealing.txt'}}

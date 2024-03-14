@@ -62,4 +62,4 @@
 1 Trailblazing Historian
 1 Vindictive Flamestoker
 1 Warcry Phoenix
-{'overall': 6.511111111111111, 'cmc': 2.8125, 'ramp': 7, 'draw': 13, 'interaction': 16}
+{'overall': 6.511111111111111, 'cmc': 2.8125, 'ramp': 7, 'draw': 13, 'interaction': 16, 'folder': 'gpt', 'commander': 'IntiSeneschaloftheSun.txt'}

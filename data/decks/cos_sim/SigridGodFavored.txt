@@ -1,0 +1,101 @@
+1 Sigrid, God-Favored
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Grey Knight Paragon
+1 Icewind Stalwart
+1 Ojutai Exemplars
+1 Banisher Priest
+1 Luminous Broodmoth
+1 Golden Guardian // Gold-Forge Garrison
+1 Adarkar Valkyrie
+1 Dauntless Bodyguard
+1 Absolver Thrull
+1 Thoughtweft Trio
+1 Settle Beyond Reality
+1 Alley Evasion
+1 You're Ambushed on the Road
+1 Trial of Solidarity
+1 Fairgrounds Warden
+1 Constricting Sliver
+1 Breathkeeper Seraph
+1 Lumbering Battlement
+1 Citizen's Arrest
+1 Seal Away
+1 Chained to the Rocks
+1 Portcullis
+1 Deadeye Harpooner
+1 Avacynian Missionaries // Lunarch Inquisitors
+1 Felidar Retreat
+1 Charmed Clothier
+1 Kabira Outrider
+1 Sparring Mummy
+1 Bishop of Binding
+1 Slip On the Ring
+1 Kor Outfitter
+1 Thopter Arrest
+1 Isolation Zone
+1 Court Street Denizen
+1 Cauldron of Souls
+1 Pentarch Paladin
+1 Skyboon Evangelist
+1 Charming Prince
+1 Soul Nova
+1 Tivadar of Thorn
+1 Changeling Hero
+1 Savior of Ollenbock
+1 Restoration Angel
+1 Rattleblaze Scarecrow
+1 Gale Swooper
+1 Steadfast Sentry
+1 Kutzil's Flanker
+1 Retreat to Emeria
+1 Distinguished Conjurer
+1 Jinxed Ring
+1 Baffling End
+1 Grifter's Blade
+1 Slayer of the Wicked
+1 Faith Unbroken
+1 Palace Jailer
+1 Geistcatcher's Rig
+1 Suspension Field
+1 Wispweaver Angel
+1 Heavy Infantry
+1 On Thin Ice
+1 Tenth District Veteran
+1 Nemesis Mask
+1 Light the Way
+{'overall': 1.9676855895196506, 'cmc': 3.523076923076923, 'ramp': '1', 'draw': '0', 'interaction': 23, 'folder': 'cos_sim', 'commander': 'SigridGodFavored.txt'}}

@@ -1,0 +1,65 @@
+1 Seton, Krosan Protector
+1 Gilt-Leaf Archdruid
+1 Beast Whisperer
+1 Elvish Mystic
+1 Llanowar Elves
+1 Fyndhorn Elves
+1 Arbor Elf
+1 Karametra's Acolyte
+1 Circle of Dreams Druid
+1 Elvish Archdruid
+1 Shamanic Revelation
+1 Elvish Pioneer
+1 Priest of Titania
+1 Augur of Autumn
+1 Vitalize
+1 Beast Within
+1 Realmwalker
+1 Druid Lyrist
+1 Regal Force
+1 Joraga Treespeaker
+1 Guardian Project
+1 Marwyn, the Nurturer
+1 Soul of the Harvest
+1 Heroic Intervention
+1 Kamahl, Fist of Krosa
+1 Nykthos, Shrine to Nyx
+1 Krosan Wayfarer
+1 Boreal Druid
+1 Devoted Druid
+1 Green Sun's Zenith
+1 Leyline of Abundance
+1 Voyaging Satyr
+1 Genesis Wave
+1 Chord of Calling
+1 Elvish Harbinger
+1 Llanowar Druid
+1 Craterhoof Behemoth
+1 Llanowar Visionary
+1 Druid of Purification
+1 Collective Unconscious
+1 Wirewood Lodge
+1 Heritage Druid
+1 Harvest Season
+1 Primordial Sage
+1 Gala Greeters
+1 Benefactor's Draught
+1 Llanowar Tribe
+1 Finale of Devastation
+1 Farhaven Elf
+1 Glimpse of Nature
+1 Voice of Many
+1 Nature's Claim
+1 Lifecrafter's Bestiary
+1 Leaf-Crowned Visionary
+1 Worldly Tutor
+1 Leafkin Druid
+1 Mobilize
+1 Growing Rites of Itlimoc
+1 Masked Vandal
+1 Natural Order
+1 Kamahl, Heart of Krosa
+1 Eternal Witness
+1 Staff of Domination
+1 Concordant Crossroads
+{'overall': 9.919101123595505, 'cmc': 2.78125, 'ramp': 20, 'draw': 16, 'interaction': 4, 'folder': 'edhrec', 'commander': 'SetonKrosanProtector.txt'}

@@ -62,4 +62,4 @@
 1 Treasure Mage
 1 Venser's Diffusion
 1 Vexing Arcanix
-{'overall': 12.406521739130435, 'cmc': 3.59375, 'ramp': 18, 'draw': 29, 'interaction': 2}
+{'overall': 12.406521739130435, 'cmc': 3.59375, 'ramp': 18, 'draw': 29, 'interaction': 2, 'folder': 'gpt', 'commander': 'GretchenTitchwillow.txt'}

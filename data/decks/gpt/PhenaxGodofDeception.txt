@@ -61,4 +61,4 @@
 1 To the Slaughter
 1 Voracious Vermin
 1 Whispersteel Dagger
-{'overall': 3.5500000000000003, 'cmc': 3.3333333333333335, 'ramp': 3, 'draw': 7, 'interaction': 9}
+{'overall': 3.5500000000000003, 'cmc': 3.3333333333333335, 'ramp': 3, 'draw': 7, 'interaction': 9, 'folder': 'gpt', 'commander': 'PhenaxGodofDeception.txt'}

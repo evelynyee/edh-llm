@@ -1,0 +1,101 @@
+1 Wasitora, Nekoru Queen
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Swamp
+1 Forest
+1 Mountain
+1 Drider
+1 Death by Dragons
+1 Orzhov Racketeers
+1 Awaken the Sky Tyrant
+1 Bladewing, Deathless Tyrant
+1 Brood Sliver
+1 Sword of Body and Mind
+1 Liliana's Reaver
+1 Giant Adephage
+1 Curse of Shallow Graves
+1 Disorder
+1 Living Hive
+1 Ib Halfheart, Goblin Tactician
+1 Shrill Howler // Howling Chorus
+1 Spawnwrithe
+1 Curse of Disturbance
+1 Mogg Infestation
+1 Warren Weirding
+1 Bloodforged Battle-Axe
+1 Hoard Hauler
+1 Scepter of Celebration
+1 Hornet Nest
+1 Old Gnawbone
+1 Dowsing Dagger // Lost Vale
+1 Quartzwood Crasher
+1 Nettling Nuisance
+1 Descent of the Dragons
+1 Syphon Flesh
+1 Nested Ghoul
+1 Gisa's Favorite Shovel
+1 Umbral Juke
+1 Acorn Catapult
+1 Scytheclaw
+1 Blade of Selves
+1 Tana, the Bloodsower
+1 Vraska the Unseen
+1 Goblin Traprunner
+1 Reign of the Pit
+1 Vrondiss, Rage of Ancients
+1 Kazuul, Tyrant of the Cliffs
+1 Wand of Orcus
+1 Scion of Calamity
+1 Goblin Scouts
+1 Sylvan Offering
+1 No Way Out
+1 Sarkhan the Masterless
+1 Warchief Giant
+1 Tiamat's Fanatics
+1 Dalek Squadron
+1 Caller of the Pack
+1 Smoke Spirits' Aid
+1 Utvara Hellkite
+1 Infested Roothold
+1 Relic Robber
+1 Jedit Ojanen of Efrava
+1 Druid's Call
+1 Din of the Fireherd
+1 Evaporate
+1 Basalt Golem
+1 Banshee of the Dread Choir
+1 Raptor Hatchling
+1 Dance with Devils
+1 Cybermen Squadron
+{'overall': 1.6390510948905108, 'cmc': 4.08955223880597, 'ramp': '2', 'draw': '0', 'interaction': 13, 'folder': 'cos_sim', 'commander': 'WasitoraNekoruQueen.txt'}}

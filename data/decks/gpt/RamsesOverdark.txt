@@ -62,4 +62,4 @@
 1 Vampiric Link
 1 Whirler Rogue
 1 Thassa's Emissary
-{'overall': 3.65377358490566, 'cmc': 3.3125, 'ramp': 3, 'draw': 7, 'interaction': 11}
+{'overall': 3.65377358490566, 'cmc': 3.3125, 'ramp': 3, 'draw': 7, 'interaction': 11, 'folder': 'gpt', 'commander': 'RamsesOverdark.txt'}

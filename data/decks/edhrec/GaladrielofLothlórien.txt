@@ -1,0 +1,65 @@
+1 Galadriel of Lothlórien
+1 Elrond, Lord of Rivendell
+1 Rivendell
+1 Command Tower
+1 Elrond, Master of Healing
+1 Elven Farsight
+1 Preordain
+1 Arwen Undómiel
+1 Retreat to Coralhelm
+1 Elvish Mariner
+1 Sol Ring
+1 Temple of Mystery
+1 Lost Isle Calling
+1 The Grey Havens
+1 Tatyova, Benthic Druid
+1 Birthday Escape
+1 Opt
+1 Lifecrafter's Bestiary
+1 Tireless Provisioner
+1 Hinterland Harbor
+1 Serum Visions
+1 Celeborn the Wise
+1 Beast Within
+1 Path of Ancestry
+1 Nissa, Steward of Elements
+1 Rejuvenating Springs
+1 Elvish Mystic
+1 Joint Exploration
+1 Season of Growth
+1 Scute Swarm
+1 Rampaging Baloths
+1 Castle Vantress
+1 Arcane Signet
+1 The Temporal Anchor
+1 Bombadil's Song
+1 Avenger of Zendikar
+1 Glorious Gale
+1 Reclamation Sage
+1 Sylvan Anthem
+1 Vineglimmer Snarl
+1 Heroic Intervention
+1 Cryptic Annelid
+1 Mystic Speculation
+1 Crystal Grotto
+1 Flooded Grove
+1 Zhalfirin Void
+1 Soothing of Sméagol
+1 Shower of Arrows
+1 Llanowar Elves
+1 Elvish Archdruid
+1 Simic Growth Chamber
+1 Kenessos, Priest of Thassa
+1 Lotus Cobra
+1 Yavimaya Coast
+1 Counterspell
+1 Lothlórien Lookout
+1 Deliberate
+1 Exotic Orchard
+1 Mirror of Galadriel
+1 Arwen's Gift
+1 Legolas, Counter of Kills
+1 Swan Song
+1 Sigiled Starfish
+1 Thassa, God of the Sea
+{'overall': 7.265873015873016, 'cmc': 1.96875, 'ramp': 9, 'draw': 15, 'interaction': 5, 'folder': 'edhrec', 'commander': 'GaladrielofLothlórien.txt'}

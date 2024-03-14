@@ -62,4 +62,4 @@
 1 Sorin, Imperious Bloodlord
 1 Vito's Inquisitor
 1 Blood Artist
-{'overall': 6.327248677248678, 'cmc': 2.953125, 'ramp': 7, 'draw': 13, 'interaction': 13}
+{'overall': 6.327248677248678, 'cmc': 2.953125, 'ramp': 7, 'draw': 13, 'interaction': 13, 'folder': 'gpt', 'commander': 'TeveshSzatDoomofFools.txt'}

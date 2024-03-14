@@ -1,0 +1,101 @@
+1 Heiko Yamazaki, the General
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Mountain
+1 Rundvelt Hordemaster
+1 Two-Handed Axe // Sweeping Cleave
+1 Kami of Celebration
+1 Redemptor Dreadnought
+1 Abbot of Keral Keep
+1 Dino DNA
+1 Minecart Daredevil // Ride the Rails
+1 Rimrock Knight // Boulder Rush
+1 Breya's Apprentice
+1 Spellbinding Soprano
+1 Ugin's Mastery
+1 Surge to Victory
+1 Paleontologist's Pick-Axe // Dinosaur Headdress
+1 Artisan of Kozilek
+1 Raging Battle Mouse
+1 Skyfire Kirin
+1 Boiling Blood
+1 Laurine, the Diversion
+1 Tempered in Solitude
+1 Felhide Spiritbinder
+1 Dollhouse of Horrors
+1 Maximize Velocity
+1 Jaya, Fiery Negotiator
+1 Jade Idol
+1 Twinflame
+1 Ragavan, Nimble Pilferer
+1 Disruptor Wanderglyph
+1 Iraxxa, Empress of Mars
+1 Purphoros, Bronze-Blooded
+1 God-Pharaoh's Gift
+1 Two-Headed Hunter // Twice the Rage
+1 Embereth Shieldbreaker // Battle Display
+1 Flamerush Rider
+1 Goblin Wizard
+1 Dermotaxi
+1 Akki Ronin
+1 Dragon's Rage Channeler
+1 Chandra, Acolyte of Flame
+1 Chiss-Goria, Forge Tyrant
+1 Spreading Insurrection
+1 Bespoke Battlegarb
+1 Hangar Scrounger
+1 Flamewake Phoenix
+1 Fang Dragon // Forktail Sweep
+1 TARDIS
+1 Mirror Golem
+1 Mezzio Mugger
+1 Glóin, Dwarf Emissary
+1 Breeches, Eager Pillager
+1 Raiders' Karve
+1 Experimental Synthesizer
+1 Stone Idol Trap
+1 Witch's Mark
+1 Bloodfeather Phoenix
+1 Explorer's Scope
+1 Boundary Lands Ranger
+1 Brazen Cannonade
+1 Arclight Phoenix
+1 Tavern Brawler
+1 Slumbering Tora
+1 Goblin Heelcutter
+1 Rosnakht, Heir of Rohgahh
+1 Genasi Enforcers
+{'overall': 3.6201754385964913, 'cmc': 3.5076923076923077, 'ramp': '3', 'draw': '8', 'interaction': 6, 'folder': 'cos_sim', 'commander': 'HeikoYamazakitheGeneral.txt'}}

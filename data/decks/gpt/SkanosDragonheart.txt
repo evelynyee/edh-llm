@@ -61,4 +61,4 @@
 1 Tireless Hauler // Dire-Strain Brawler
 1 Veteran's Armaments
 1 Tyvar's Stand
-{'overall': 5.433165829145729, 'cmc': 3.1587301587301586, 'ramp': 6, 'draw': 12, 'interaction': 6}
+{'overall': 5.433165829145729, 'cmc': 3.1587301587301586, 'ramp': 6, 'draw': 12, 'interaction': 6, 'folder': 'gpt', 'commander': 'SkanosDragonheart.txt'}

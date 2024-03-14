@@ -1,0 +1,65 @@
+1 Garza Zol, Plague Queen
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Crumbling Necropolis
+1 Counterspell
+1 Dimir Signet
+1 Izzet Signet
+1 Rakdos Signet
+1 Blood Tyrant
+1 Exotic Orchard
+1 Stromkirk Captain
+1 Commander's Sphere
+1 Evolving Wilds
+1 Steam Vents
+1 Watery Grave
+1 Talisman of Creativity
+1 Terminate
+1 Blood Crypt
+1 Olivia Voldaren
+1 Smoldering Marsh
+1 Blade of the Bloodchief
+1 Terramorphic Expanse
+1 Talisman of Dominance
+1 Rakish Heir
+1 Sunken Hollow
+1 Swiftfoot Boots
+1 Lightning Greaves
+1 Path of Ancestry
+1 Stensia Masquerade
+1 Bloodlord of Vaasgoth
+1 Dragonskull Summit
+1 Bedevil
+1 Necropolis Regent
+1 Drana, Liberator of Malakir
+1 Anowon, the Ruin Sage
+1 Negate
+1 Grixis Panorama
+1 Vampire Socialite
+1 Feed the Swarm
+1 Temple of Malice
+1 Temple of Deceit
+1 Temple of Epiphany
+1 Scalding Tarn
+1 Nightscape Familiar
+1 Rakdos Carnarium
+1 Maestros Theater
+1 Markov Blademaster
+1 Read the Bones
+1 Malakir Bloodwitch
+1 Vampire Nighthawk
+1 Urborg, Tomb of Yawgmoth
+1 Arcane Denial
+1 Talisman of Indulgence
+1 Bloodstained Mire
+1 Xander's Lounge
+1 Rogue's Passage
+1 Myriad Landscape
+1 Unscythe, Killer of Kings
+1 Reliquary Tower
+1 Drowned Catacomb
+1 Dimir Aqueduct
+1 Bloodline Keeper
+1 Mirri the Cursed
+{'overall': 5.042857142857143, 'cmc': 1.75, 'ramp': 9, 'draw': 5, 'interaction': 8, 'folder': 'edhrec', 'commander': 'GarzaZolPlagueQueen.txt'}

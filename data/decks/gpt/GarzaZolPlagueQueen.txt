@@ -62,4 +62,4 @@
 1 Virtus the Veiled
 1 Witch Hunt
 1 Vengeful Pharaoh
-{'overall': 3.729185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 6, 'interaction': 23}
+{'overall': 3.729185520361991, 'cmc': 3.453125, 'ramp': 2, 'draw': 6, 'interaction': 23, 'folder': 'gpt', 'commander': 'GarzaZolPlagueQueen.txt'}

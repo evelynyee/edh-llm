@@ -62,4 +62,4 @@
 1 Terashi's Grasp
 1 Teachings of the Kirin // Kirin-Touched Orochi
 1 Vivify
-{'overall': 6.404112554112554, 'cmc': 3.609375, 'ramp': 8, 'draw': 13, 'interaction': 12}
+{'overall': 6.404112554112554, 'cmc': 3.609375, 'ramp': 8, 'draw': 13, 'interaction': 12, 'folder': 'gpt', 'commander': 'MyrkulLordofBones.txt'}

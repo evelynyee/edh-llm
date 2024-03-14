@@ -1,0 +1,65 @@
+1 Gandalf, Westward Voyager
+1 Command Tower
+1 Cultivate
+1 Sol Ring
+1 Thryx, the Sudden Storm
+1 Arcane Signet
+1 Hinterland Harbor
+1 Imoti, Celebrant of Bounty
+1 Rejuvenating Springs
+1 Beast Within
+1 Kodama's Reach
+1 Mystic Confluence
+1 Rishkar's Expertise
+1 Rampant Growth
+1 Flooded Grove
+1 Reliquary Tower
+1 Urban Evolution
+1 Twinning Staff
+1 Radagast, Wizard of Wilds
+1 Vineglimmer Snarl
+1 Yavimaya Coast
+1 Overwhelming Stampede
+1 Mulldrifter
+1 Traverse the Outlands
+1 Acidic Slime
+1 Thunderous Snapper
+1 Exotic Orchard
+1 Aminatou's Augury
+1 Progenitor Mimic
+1 Lantern of Insight
+1 Peregrine Drake
+1 Hullbreaker Horror
+1 Elvish Mystic
+1 Nature's Lore
+1 Gilded Lotus
+1 Growth Spiral
+1 Breeding Pool
+1 Return of the Wildspeaker
+1 Heroic Intervention
+1 Lórien Revealed
+1 Zendikar Resurgent
+1 Dreamroot Cascade
+1 Last March of the Ents
+1 Apex Devastator
+1 Wood Elves
+1 Storm of Saruman
+1 Avenger of Zendikar
+1 Counterspell
+1 Entish Restoration
+1 Temple of Mystery
+1 Nyxbloom Ancient
+1 Simic Growth Chamber
+1 Lightning Greaves
+1 Asceticism
+1 Gwenna, Eyes of Gaea
+1 Farseek
+1 Dig Through Time
+1 Three Visits
+1 Gilanra, Caller of Wirewood
+1 Wandering Archaic
+1 Llanowar Elves
+1 Birds of Paradise
+1 Swan Song
+1 Simic Signet
+{'overall': 9.892592592592592, 'cmc': 3.375, 'ramp': 23, 'draw': 13, 'interaction': 6, 'folder': 'edhrec', 'commander': 'GandalfWestwardVoyager.txt'}

@@ -1,0 +1,101 @@
+1 Belbe, Corrupted Observer
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Archfiend of Despair
+1 Razor Pendulum
+1 Wound Reflection
+1 Ghazbán Ogre
+1 Triskaidekaphobia
+1 Nafs Asp
+1 Creeping Bloodsucker
+1 Bloodletter of Aclazotz
+1 Hellish Rebuke
+1 Titan Hunter
+1 Subversion
+1 Glass Asp
+1 Vampire Lacerator
+1 Lich's Tomb
+1 Garrulous Sycophant
+1 Mana Crypt
+1 Pillar Tombs of Aku
+1 Bellowing Mauler
+1 Desolation
+1 Blitzwing, Cruel Tormentor // Blitzwing, Adaptive Assailant
+1 Tainted Remedy
+1 Touch of Death
+1 Blinkmoth Urn
+1 Copper Tablet
+1 Forsaken Wastes
+1 Tomb Blade
+1 Dogged Pursuit
+1 Withering Wisps
+1 Plague Drone
+1 Tithing Blade // Consuming Sepulcher
+1 Lim-Dûl's Hex
+1 Final Punishment
+1 Sakiko, Mother of Summer
+1 Sarevok, Deathbringer
+1 Pestilence
+1 Bloodgift Demon
+1 Cosmos Elixir
+1 Barbed Wire
+1 Accursed Witch // Infectious Curse
+1 Magus of the Vineyard
+1 Eladamri's Vineyard
+1 Wicked Akuba
+1 Savage Gorger
+1 Drain Life
+1 Scourge of Numai
+1 Invasion of Fiora // Marchesa, Resolute Monarch
+1 Shizuko, Caller of Autumn
+1 Sanctum of Stone Fangs
+1 Loyal Subordinate
+1 Plague of Vermin
+1 Tavern Swindler
+1 Urborg Stalker
+1 The Fallen
+1 Seizan, Perverter of Truth
+1 Shrieking Affliction
+1 Warlock Class
+1 Rhystic Syphon
+1 Plague Sliver
+1 Cruel Reality
+1 Cryptolith Fragment // Aurora of Emrakul
+1 Sorin's Vengeance
+1 Arcum's Whistle
+1 Xathrid Demon
+{'overall': 3.5689655172413794, 'cmc': 3.515151515151515, 'ramp': '3', 'draw': '8', 'interaction': 5, 'folder': 'cos_sim', 'commander': 'BelbeCorruptedObserver.txt'}}

@@ -1,0 +1,101 @@
+1 Butterbur, Bree Innkeeper
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Second Breakfast
+1 Concession Stand
+1 Meriadoc Brandybuck
+1 Intrepid Trufflesnout // Go Hog Wild
+1 Bartered Cow
+1 Spider Food
+1 Fortifying Provisions
+1 Confront the Unknown
+1 Eastfarthing Farmer
+1 Fierce Witchstalker
+1 Witch's Oven
+1 Tough Cookie
+1 Provisions Merchant
+1 Late to Dinner
+1 Brandywine Farmer
+1 The Battle of Bywater
+1 Expose Evil
+1 Search the Premises
+1 Killer Service
+1 Root Out
+1 Funnel-Web Recluse
+1 Byway Courier
+1 Humble the Brute
+1 Wolf's Quarry
+1 Food Coma
+1 Minion Reflector
+1 Cartographer's Companion
+1 Giant Opportunity
+1 Sentinel of the Nameless City
+1 Revive the Shire
+1 Fell the Pheasant
+1 Fateful Absence
+1 Peregrin Took
+1 Graham O'Brien
+1 Curious Pair // Treats to Share
+1 Tireless Provisioner
+1 Stew the Coneys
+1 Rosie Cotton of South Lane
+1 Awakening Zone
+1 Hornet Cannon
+1 Survive the Night
+1 Topography Tracker
+1 Discerning Financier
+1 Thraben Inspector
+1 Night of the Sweets' Revenge
+1 Thijarian Witness
+1 Bootleggers' Stash
+1 Thorough Investigation
+1 Galadriel, Gift-Giver
+1 The Underworld Cookbook
+1 Dungeoneer's Pack
+1 Samwise Gamgee
+1 Doomed Artisan
+1 Sunder the Gateway
+1 Briarbridge Patrol
+1 Magnifying Glass
+1 Caldaia Guardian
+1 Sarah Jane Smith
+1 Caribou Range
+1 Angelic Sleuth
+1 Freyalise, Llanowar's Fury
+1 Careening Mine Cart
+1 Ulvenwald Mysteries
+{'overall': 9.063316582914574, 'cmc': 3.015151515151515, 'ramp': '10', 'draw': '22', 'interaction': 8, 'folder': 'cos_sim', 'commander': 'ButterburBreeInnkeeper.txt'}}

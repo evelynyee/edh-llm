@@ -62,4 +62,4 @@
 1 Spinal Parasite
 1 Street Urchin
 1 Throne of Makindi
-{'overall': 7.020157068062827, 'cmc': 2.984375, 'ramp': 16, 'draw': 6, 'interaction': 17}
+{'overall': 7.020157068062827, 'cmc': 2.984375, 'ramp': 16, 'draw': 6, 'interaction': 17, 'folder': 'gpt', 'commander': 'GanaxAstralHunter.txt'}

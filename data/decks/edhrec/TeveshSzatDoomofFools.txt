@@ -1,0 +1,65 @@
+1 Tevesh Szat, Doom of Fools
+1 Sol Ring
+1 Dark Ritual
+1 Gray Merchant of Asphodel
+1 Blood Artist
+1 Cabal Coffers
+1 Ayara, First of Locthwain
+1 Cabal Stronghold
+1 Zulaport Cutthroat
+1 Skullclamp
+1 Damnation
+1 Bojuka Bog
+1 Bastion of Remembrance
+1 Arcane Signet
+1 Feed the Swarm
+1 Crypt Ghast
+1 Phyrexian Arena
+1 Ashnod's Altar
+1 Jet Medallion
+1 Defile
+1 Diabolic Intent
+1 Pitiless Plunderer
+1 Village Rites
+1 Culling the Weak
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Bontu's Monument
+1 Dictate of Erebos
+1 Liliana, Dreadhorde General
+1 Cabal Ritual
+1 Torment of Hailfire
+1 Bolas's Citadel
+1 Fleshbag Marauder
+1 Reassembling Skeleton
+1 Sign in Blood
+1 Priest of Forgotten Gods
+1 Grave Pact
+1 Braids, Arisen Nightmare
+1 Syr Konrad, the Grim
+1 Thought Vessel
+1 Viscera Seer
+1 Solemn Simulacrum
+1 Bubbling Muck
+1 Urborg, Tomb of Yawgmoth
+1 Yawgmoth, Thran Physician
+1 Ophiomancer
+1 Victimize
+1 Black Market
+1 Phyrexian Tower
+1 The Meathook Massacre
+1 Burnished Hart
+1 Toxic Deluge
+1 Carrion Feeder
+1 Mutilate
+1 Mind Stone
+1 Szat's Will
+1 Murderous Rider
+1 Liliana of the Dark Realms
+1 Exsanguinate
+1 Bitterblossom
+1 Grave Titan
+1 Butcher of Malakir
+1 Sheoldred, Whispering One
+1 Nyx Lotus
+{'overall': 9.407182320441988, 'cmc': 2.828125, 'ramp': 18, 'draw': 15, 'interaction': 9, 'folder': 'edhrec', 'commander': 'TeveshSzatDoomofFools.txt'}

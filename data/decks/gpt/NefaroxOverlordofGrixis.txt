@@ -62,4 +62,4 @@
 1 Unnatural Endurance
 1 Thorntooth Witch
 1 Toshiro Umezawa
-{'overall': 2.4844919786096256, 'cmc': 2.921875, 'ramp': 4, 'draw': 1, 'interaction': 11}
+{'overall': 2.4844919786096256, 'cmc': 2.921875, 'ramp': 4, 'draw': 1, 'interaction': 11, 'folder': 'gpt', 'commander': 'NefaroxOverlordofGrixis.txt'}

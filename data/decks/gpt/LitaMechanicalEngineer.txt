@@ -62,4 +62,4 @@
 1 Sleek Schooner
 1 Surge of Salvation
 1 The Restoration of Eiganjo // Architect of Restoration
-{'overall': 5.420157068062827, 'cmc': 2.984375, 'ramp': 11, 'draw': 6, 'interaction': 10}
+{'overall': 5.420157068062827, 'cmc': 2.984375, 'ramp': 11, 'draw': 6, 'interaction': 10, 'folder': 'gpt', 'commander': 'LitaMechanicalEngineer.txt'}

@@ -62,4 +62,4 @@
 1 Vivisurgeon's Insight
 1 Sword of War and Peace
 1 Zulaport Duelist
-{'overall': 5.1291855203619905, 'cmc': 3.453125, 'ramp': 1, 'draw': 13, 'interaction': 21}
+{'overall': 5.1291855203619905, 'cmc': 3.453125, 'ramp': 1, 'draw': 13, 'interaction': 21, 'folder': 'gpt', 'commander': 'GnostroVoiceoftheCrags.txt'}

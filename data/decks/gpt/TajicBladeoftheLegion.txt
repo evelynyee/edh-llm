@@ -62,4 +62,4 @@
 1 Soltari Champion
 1 Tormentor's Trident
 1 Vow of Lightning
-{'overall': 1.8509389671361502, 'cmc': 3.328125, 'ramp': 1, 'draw': 2, 'interaction': 10}
+{'overall': 1.8509389671361502, 'cmc': 3.328125, 'ramp': 1, 'draw': 2, 'interaction': 10, 'folder': 'gpt', 'commander': 'TajicBladeoftheLegion.txt'}

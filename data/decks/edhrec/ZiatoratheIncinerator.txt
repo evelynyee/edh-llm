@@ -1,0 +1,65 @@
+1 Ziatora, the Incinerator
+1 Command Tower
+1 Sol Ring
+1 Arcane Signet
+1 Riveteers Ascendancy
+1 Ziatora's Proving Ground
+1 Cultivate
+1 Farseek
+1 Mr. Orfeo, the Boulder
+1 Ignoble Hierarch
+1 Savage Lands
+1 Cinder Glade
+1 Feldon of the Third Path
+1 Phytotitan
+1 Exotic Orchard
+1 Beast Within
+1 Juri, Master of the Revue
+1 Atsushi, the Blazing Sky
+1 Daemogoth Titan
+1 Smoldering Marsh
+1 Kodama's Reach
+1 Victimize
+1 Rampant Growth
+1 Junji, the Midnight Sky
+1 Ghalta, Primal Hunger
+1 Stomping Ground
+1 Overgrown Tomb
+1 Blasphemous Act
+1 Stalking Vengeance
+1 Sakura-Tribe Elder
+1 Garruk's Uprising
+1 Chaos Warp
+1 Xorn
+1 Goldspan Dragon
+1 Malignus
+1 Professional Face-Breaker
+1 Blood Crypt
+1 Rockfall Vale
+1 Ruthless Technomancer
+1 Riveteers Overlook
+1 Mayhem Devil
+1 Nature's Lore
+1 Rhythm of the Wild
+1 Swiftfoot Boots
+1 Terminate
+1 Kresh the Bloodbraided
+1 Korvold, Fae-Cursed King
+1 Lightning Greaves
+1 Unnatural Growth
+1 Kalain, Reclusive Painter
+1 Undergrowth Stadium
+1 Academy Manufactor
+1 Eternal Witness
+1 Rishkar's Expertise
+1 Deadly Dispute
+1 Daemogoth Woe-Eater
+1 Three Visits
+1 Revel in Riches
+1 Assassin's Trophy
+1 Dragonskull Summit
+1 Spire Garden
+1 Old Gnawbone
+1 Luxury Suite
+1 Bojuka Bog
+{'overall': 7.069101123595505, 'cmc': 2.78125, 'ramp': 17, 'draw': 7, 'interaction': 7, 'folder': 'edhrec', 'commander': 'ZiatoratheIncinerator.txt'}

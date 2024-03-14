@@ -62,4 +62,4 @@
 1 Woodfall Primus
 1 Smothering Tithe
 1 Vizier of Deferment
-{'overall': 9.995348837209303, 'cmc': 3.359375, 'ramp': 19, 'draw': 18, 'interaction': 3}
+{'overall': 9.995348837209303, 'cmc': 3.359375, 'ramp': 19, 'draw': 18, 'interaction': 3, 'folder': 'gpt', 'commander': 'CaptainSisay.txt'}

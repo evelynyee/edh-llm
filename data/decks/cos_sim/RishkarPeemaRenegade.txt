@@ -1,0 +1,101 @@
+1 Rishkar, Peema Renegade
+1 Tyrite Sanctum
+1 Drannith Ruins
+1 City of Shadows
+1 Animal Sanctuary
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Gobbling Ooze
+1 Arcbound Ravager
+1 The Monumental Facade
+1 Grafted Growth
+1 Jiang Yanggu, Wildcrafter
+1 Myr Scrapling
+1 Steelbane Hydra
+1 Deranged Outcast
+1 Jukai Preserver
+1 Wickerbough Elder
+1 Durable Handicraft
+1 Steel Overseer
+1 Thopter Squadron
+1 New Horizons
+1 Arcbound Crusher
+1 Spike Tiller
+1 Salt Road Quartermasters
+1 Pentavus
+1 Serum Tank
+1 Suncrusher
+1 Cryptic Trilobite
+1 Hornbash Mentor
+1 Sporeback Troll
+1 Culling Dais
+1 Parallax Inhibitor
+1 Arcbound Worker
+1 Arcbound Stinger
+1 Coretapper
+1 Channeler Initiate
+1 Spike Worker
+1 Hexavus
+1 Spike Rogue
+1 Spike Drone
+1 Drillworks Mole
+1 Spike Feeder
+1 Arcbound Wanderer
+1 Junk Golem
+1 Arcbound Reclaimer
+1 Master Chef
+1 Arcbound Hybrid
+1 Trollbred Guardian
+1 Marwyn, the Nurturer
+1 Harvester Troll
+1 Dragon's Hoard
+1 Spike Breeder
+1 Ozolith, the Shattered Spire
+1 Arcbound Overseer
+1 Duskshell Crawler
+1 Tumble Magnet
+1 Generous Patron
+1 Druids' Repository
+1 Ich-Tekik, Salvage Splicer
+1 Spike Colony
+1 Woodripper
+1 Saddleback Lagac
+1 Gladehart Cavalry
+1 Ruins Recluse
+1 Arcbound Bruiser
+1 Haruspex
+1 Gyre Sage
+1 Cytoplast Root-Kin
+1 Surge Node
+1 Workhorse
+{'overall': 4.48302752293578, 'cmc': 3.1594202898550723, 'ramp': '10', 'draw': '5', 'interaction': 2, 'folder': 'cos_sim', 'commander': 'RishkarPeemaRenegade.txt'}}

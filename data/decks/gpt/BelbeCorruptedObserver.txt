@@ -62,4 +62,4 @@
 1 Vampire Neonate
 1 Willowdusk, Essence Seer
 1 The Chain Veil
-{'overall': 5.449746192893401, 'cmc': 3.078125, 'ramp': 8, 'draw': 10, 'interaction': 6}
+{'overall': 5.449746192893401, 'cmc': 3.078125, 'ramp': 8, 'draw': 10, 'interaction': 6, 'folder': 'gpt', 'commander': 'BelbeCorruptedObserver.txt'}

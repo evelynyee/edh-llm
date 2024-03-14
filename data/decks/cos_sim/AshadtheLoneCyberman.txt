@@ -1,0 +1,101 @@
+1 Ashad, the Lone Cyberman
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Swamp
+1 Mountain
+1 Island
+1 Join the Maestros
+1 Cemetery Puca
+1 Deekah, Fractal Theorist
+1 Rise and Shine
+1 Levitating Statue
+1 Archmage of Echoes
+1 Fanatical Offering
+1 Vesuvan Duplimancy
+1 Sedgemoor Witch
+1 Ancient Stone Idol
+1 Jade Idol
+1 March of Progress
+1 The Twelfth Doctor
+1 Skittering Horror
+1 Saheeli, Sublime Artificer
+1 Asinine Antics
+1 Phantasmal Image
+1 Mizzix, Replica Rider
+1 Trail of Evidence
+1 Osgood, Operation Double
+1 Skywise Teachings
+1 Mishra's Self-Replicator
+1 Crystalline Nautilus
+1 Daring Sleuth // Bearer of Overwhelming Truths
+1 Shark Typhoon
+1 Powerstone Fracture
+1 Shameless Charlatan
+1 Everquill Phoenix
+1 Drafna, Founder of Lat-Nam
+1 Elemental Expressionist
+1 Ice Out
+1 Chrome Host Seedshark
+1 Skittering Skirge
+1 Goblinslide
+1 Swan Song
+1 Invasion of Vryn // Overloaded Mage-Ring
+1 Skittering Monstrosity
+1 Light 'Em Up
+1 Sly Requisitioner
+1 Etherium Spinner
+1 Volo, Itinerant Scholar
+1 Donal, Herald of Wings
+1 Assimilate Essence
+1 Nalfeshnee
+1 Mirran Spy
+1 Empty the Warrens
+1 Call of the Nightwing
+1 Stolen Identity
+1 Heart-Piercer Manticore
+1 Ob Nixilis, the Adversary
+1 Make Disappear
+1 Mentor's Guidance
+1 Splashy Spellcaster
+1 Sorcerer's Broom
+1 Poetic Ingenuity
+1 Minn, Wily Illusionist
+1 Labyrinth Guardian
+1 Anhelo, the Painter
+1 Wire Surgeons
+1 Merry Bards
+1 True Polymorph
+1 Pirated Copy
+1 Glyph Keeper
+{'overall': 3.9275862068965517, 'cmc': 3.462686567164179, 'ramp': '1', 'draw': '11', 'interaction': 7, 'folder': 'cos_sim', 'commander': 'AshadtheLoneCyberman.txt'}}

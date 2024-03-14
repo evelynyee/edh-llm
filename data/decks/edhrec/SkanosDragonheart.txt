@@ -1,0 +1,65 @@
+1 Skanos Dragonheart
+1 Draconic Muralists
+1 Earthquake Dragon
+1 Cultivate
+1 Acolyte of Bahamut
+1 Scaled Nurturer
+1 Avenging Hunter
+1 Emerald Dragon
+1 Dread Linnorm
+1 Foe-Razer Regent
+1 Fyndhorn Elves
+1 Beast Within
+1 Dragon's Hoard
+1 Jade Orb of Dragonkind
+1 Sol Ring
+1 Green Dragon
+1 Bower Passage
+1 Ambitious Dragonborn
+1 Frontier Siege
+1 Kura, the Boundless Sky
+1 Garruk's Uprising
+1 Arbor Elf
+1 Eternal Witness
+1 Llanowar Elves
+1 Harmonize
+1 Kodama's Reach
+1 Castle Garenbrig
+1 Haven of the Spirit Dragon
+1 Lurking Green Dragon
+1 Destructor Dragon
+1 Silvanus's Invoker
+1 Steel Hellkite
+1 Jugan, the Rising Star
+1 Ancient Bronze Dragon
+1 Old Gnawbone
+1 Nylea, Keen-Eyed
+1 Elvish Mystic
+1 Khalni Ambush
+1 Hunter's Insight
+1 Tamiyo's Safekeeping
+1 Return of the Wildspeaker
+1 Bala Ged Recovery
+1 Skyshroud Claim
+1 Sight of the Scalelords
+1 Wild Growth
+1 Wandering Troubadour
+1 Chameleon Colossus
+1 Masked Vandal
+1 Goreclaw, Terror of Qal Sisma
+1 Nissa's Pilgrimage
+1 Explore
+1 Three Visits
+1 Rishkar's Expertise
+1 Nature's Lore
+1 Rampant Growth
+1 Herald's Horn
+1 Lifecrafter's Bestiary
+1 Swiftfoot Boots
+1 Court of Bounty
+1 Guardian Project
+1 Bonders' Enclave
+1 War Room
+1 Mind Stone
+1 Arcane Signet
+{'overall': 11.256521739130434, 'cmc': 3.59375, 'ramp': 24, 'draw': 18, 'interaction': 4, 'folder': 'edhrec', 'commander': 'SkanosDragonheart.txt'}
