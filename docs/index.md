@@ -51,6 +51,8 @@ With our data consisting primarily of text, NLP tools, such as ChatGPT, can help
 We evaluate our pipeline against three alternative methods for building EDH Decks:
 - **Popularity Baseline:** Select the top cards which are most frequently played with the selected Commander, according to historical play data from EDHRec1
 - **Embedding-only Baseline:** Gather the top cards from each vector-embedding candidate pool, without any reranking by GPT-3.5.
+- **Random Selection:** Randomly select cards from our final candidate pools (incorporating
+Word2Vec embeddings, manual features, and ”staple” cards)
 
 ### Synergy
 ![Synergy Formula](synergy-formula.png)
