@@ -62,4 +62,4 @@
 1 Voidwing Hybrid
 1 Zhang Liao, Hero of Hefei
 1 Tsabo's Decree
-{'overall': 6.087155963302752, 'cmc': 3.40625, 'ramp': 5, 'draw': 15, 'interaction': 10}
+{'overall': 6.087155963302752, 'cmc': 3.40625, 'ramp': 5, 'draw': 15, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}

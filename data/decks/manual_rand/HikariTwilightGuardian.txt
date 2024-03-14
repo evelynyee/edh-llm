@@ -62,4 +62,4 @@
 1 Workshop Assistant
 1 Wand of Vertebrae
 1 Volatile Fault
-{'overall': 5.813212435233161, 'cmc': 3.015625, 'ramp': 4, 'draw': 15, 'interaction': 8}
+{'overall': 5.813212435233161, 'cmc': 3.015625, 'ramp': 4, 'draw': 15, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'}

@@ -62,4 +62,4 @@
 1 Wildfield Borderpost
 1 Volatile Fault
 1 Sword of the Animist
-{'overall': 7.342372881355932, 'cmc': 3.6875, 'ramp': 14, 'draw': 12, 'interaction': 6}
+{'overall': 7.342372881355932, 'cmc': 3.6875, 'ramp': 14, 'draw': 12, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'CaptainSisay.txt'}

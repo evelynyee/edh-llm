@@ -62,4 +62,4 @@
 1 Swiftfoot Boots
 1 Spectral Flight
 1 Slip Out the Back
-{'overall': 7.709060402684563, 'cmc': 2.328125, 'ramp': 9, 'draw': 17, 'interaction': 7}
+{'overall': 7.709060402684563, 'cmc': 2.328125, 'ramp': 9, 'draw': 17, 'interaction': 7, 'folder': 'edh', 'commander': 'CallapheBelovedoftheSea.txt'}

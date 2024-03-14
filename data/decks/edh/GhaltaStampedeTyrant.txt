@@ -62,4 +62,4 @@
 1 Boseiju, Who Endures
 1 Vorinclex, Voice of Hunger
 1 Up the Beanstalk
-{'overall': 11.429400749063669, 'cmc': 4.171875, 'ramp': 26, 'draw': 17, 'interaction': 4}
+{'overall': 11.429400749063669, 'cmc': 4.171875, 'ramp': 26, 'draw': 17, 'interaction': 4, 'folder': 'edh', 'commander': 'GhaltaStampedeTyrant.txt'}

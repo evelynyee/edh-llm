@@ -62,4 +62,4 @@
 1 Vessel of Malignity
 1 Up the Beanstalk
 1 Urza's Filter
-{'overall': 4.999356223175966, 'cmc': 3.640625, 'ramp': 3, 'draw': 13, 'interaction': 9}
+{'overall': 4.999356223175966, 'cmc': 3.640625, 'ramp': 3, 'draw': 13, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'NethroiApexofDeath.txt'}

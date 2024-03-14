@@ -62,4 +62,4 @@
 1 Sea Gate Restoration
 1 Otawara, Soaring City
 1 Redirect
-{'overall': 8.797682119205298, 'cmc': 2.359375, 'ramp': 8, 'draw': 22, 'interaction': 9}
+{'overall': 8.797682119205298, 'cmc': 2.359375, 'ramp': 8, 'draw': 22, 'interaction': 9, 'folder': 'edh', 'commander': 'LierDiscipleoftheDrowned.txt'}

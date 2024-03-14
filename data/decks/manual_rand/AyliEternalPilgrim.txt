@@ -1,0 +1,65 @@
+1 Ayli, Eternal Pilgrim
+1 Staff of the Flame Magus
+1 Without Weakness
+1 Thornbow Archer
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Vile Requiem
+1 Wicked Pact
+1 Whack
+1 Vengeful Dead
+1 Soulcage Fiend
+1 Soul's Grace
+1 Void Beckoner
+1 Undertaker
+1 Unbreakable Bond
+1 Sorin Markov
+1 Swords to Plowshares
+1 Tymaret Calls the Dead
+1 Warehouse Tabby
+1 Witches' Eye
+1 Swat
+1 Wail of the Nim
+1 _____ Bird Gets the Worm
+1 Zulaport Chainmage
+1 Thran Power Suit
+1 Taste of Blood
+1 Vermin Gorger
+1 Yomiji, Who Bars the Way
+1 Swords to Plowshares
+1 Blood Artist
+1 The Golden Throne
+1 Vampiric Feast
+1 Sol Ring
+1 Soul Shepherd
+1 Untethered Express
+1 Towashi Guide-Bot
+1 Tyrant's Machine
+1 Sunset Revelry
+1 Terror of Towashi
+1 Syndicate Enforcer
+1 Throne of Bone
+1 Wedding Ring
+1 Yawgmoth, Thran Physician
+1 Vampire Spawn
+1 Tourach's Chant
+1 Syr Konrad, the Grim
+1 Will-Forged Golem
+1 Tooth of Chiss-Goria
+1 Torii Watchward
+1 Timely Hordemate
+1 Wasp of the Bitter End
+1 Thrasher Brute
+1 Triumph of Cruelty
+1 Whalebone Glider
+1 Their Number Is Legion
+1 Xander's Pact
+1 Transcendence
+1 Strongarm Tactics
+1 Whisper, Blood Liturgist
+1 Throat Slitter
+1 War Room
+1 Surestrike Trident
+1 Umbra Stalker
+1 Tithebearer Giant
+1 Sunscorch Regent
+{'overall': 4.065022421524664, 'cmc': 3.5396825396825395, 'ramp': 2, 'draw': 10, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AyliEternalPilgrim.txt'}

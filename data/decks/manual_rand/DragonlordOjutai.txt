@@ -62,4 +62,4 @@
 1 Warden of the Inner Sky
 1 Union of the Third Path
 1 Witness the Future
-{'overall': 8.331120331950208, 'cmc': 3.765625, 'ramp': 6, 'draw': 24, 'interaction': 6}
+{'overall': 8.331120331950208, 'cmc': 3.765625, 'ramp': 6, 'draw': 24, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}

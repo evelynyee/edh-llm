@@ -62,4 +62,4 @@
 1 Three Bowls of Porridge
 1 Void Winnower
 1 Zhulodok, Void Gorger
-{'overall': 5.490772532188841, 'cmc': 3.6984126984126986, 'ramp': 2, 'draw': 17, 'interaction': 4}
+{'overall': 5.490772532188841, 'cmc': 3.6984126984126986, 'ramp': 2, 'draw': 17, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'EsiorWardwingFamiliar.txt'}

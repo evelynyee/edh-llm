@@ -62,4 +62,4 @@
 1 You Hear Something on Watch
 1 Willow Geist
 1 Wildwood Scourge
-{'overall': 1.8595238095238096, 'cmc': 3.28125, 'ramp': 1, 'draw': 3, 'interaction': 5}
+{'overall': 1.8595238095238096, 'cmc': 3.28125, 'ramp': 1, 'draw': 3, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'KathrilAspectWarper.txt'}

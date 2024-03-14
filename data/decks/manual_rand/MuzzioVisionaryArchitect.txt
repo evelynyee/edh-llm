@@ -62,4 +62,4 @@
 1 Surtland Elementalist
 1 Weave Fate
 1 Waterspout Elemental
-{'overall': 7.564056224899598, 'cmc': 3.890625, 'ramp': 7, 'draw': 21, 'interaction': 1}
+{'overall': 7.564056224899598, 'cmc': 3.890625, 'ramp': 7, 'draw': 21, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'MuzzioVisionaryArchitect.txt'}

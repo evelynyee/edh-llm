@@ -62,4 +62,4 @@
 1 Staff of Titania
 1 Elvish Mystic
 1 Kenrith's Transformation
-{'overall': 11.706635071090046, 'cmc': 3.296875, 'ramp': 34, 'draw': 10, 'interaction': 2}
+{'overall': 11.706635071090046, 'cmc': 3.296875, 'ramp': 34, 'draw': 10, 'interaction': 2, 'folder': 'edh', 'commander': 'BaruFistofKrosa.txt'}

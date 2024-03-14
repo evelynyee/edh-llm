@@ -62,4 +62,4 @@
 1 Anger
 1 Helm of the Host
 1 Purphoros, God of the Forge
-{'overall': 4.245652173913044, 'cmc': 2.875, 'ramp': 10, 'draw': 3, 'interaction': 6}
+{'overall': 4.245652173913044, 'cmc': 2.875, 'ramp': 10, 'draw': 3, 'interaction': 6, 'folder': 'edh', 'commander': 'TheMasterMultiplied.txt'}

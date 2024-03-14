@@ -1,0 +1,65 @@
+1 Merry, Esquire of Rohan
+1 Xenk, Paladin Unbroken
+1 Vectis Gloves
+1 Zirilan of the Claw
+1 Wall of Stone
+1 Vibrating Sphere
+1 Warbeast of Gorgoroth
+1 Takeno, Samurai General
+1 Valor Singer
+1 Wild Griffin
+1 Tegan Jovanka
+1 Tunnel of Love
+1 Teferi's Sentinel
+1 Two-Headed Hunter // Twice the Rage
+1 Watchwing Scarecrow
+1 Viashino Sandstalker
+1 Yellow Scarves General
+1 Voldaren Stinger
+1 Lightning Bolt
+1 Wayward Giant
+1 Tiana, Ship's Caretaker
+1 Ydwen Efreet
+1 Zealous Conscripts
+1 When We Were Young
+1 Toralf, God of Fury // Toralf's Hammer
+1 Warmind Infantry
+1 Xanthic Statue
+1 Sword of the Paruns
+1 Thundermaw Hellkite
+1 Vulshok Berserker
+1 Vizier of Deferment
+1 Vulshok Morningstar
+1 Wall of Heat
+1 Tormentor's Trident
+1 Tabaxi Toucaneers
+1 Timely Ward
+1 War-Name Aspirant
+1 Wildfire Elemental
+1 Sword of Vengeance
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Voldaren Duelist
+1 Wedding Invitation
+1 Tiamat's Fanatics
+1 Two-Headed Sliver
+1 Spy Kit
+1 Wild Evocation
+1 Undying Rage
+1 Welkin Guide
+1 Volcanic Offering
+1 Vigilance
+1 Wicker Warcrawler
+1 Uncontrollable Anger
+1 Wardscale Dragon
+1 Wall of Torches
+1 Thundersong Trumpeter
+1 Wings of Hubris
+1 Zephyr Boots
+1 Walking Wall
+1 Trepanation Blade
+1 Éomer of the Riddermark
+1 Mind Stone
+1 Yare
+1 Vorrac Battlehorns
+1 Stoneforge Masterwork
+{'overall': 2.268888888888889, 'cmc': 3.515625, 'ramp': 2, 'draw': 4, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'MerryEsquireofRohan.txt'}

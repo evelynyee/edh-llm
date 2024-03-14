@@ -1,0 +1,65 @@
+1 Junji, the Midnight Sky
+1 Vengeant Vampire
+1 Sword-Point Diplomacy
+1 Scrapheap
+1 Tourach's Canticle
+1 Torment of Hailfire
+1 Mind Stone
+1 Shadows of the Past
+1 Sheoldred // The True Scriptures
+1 Woebearer
+1 Starscream, Power Hungry // Starscream, Seeker Leader
+1 Trash Bin
+1 Go for the Throat
+1 Toxic Deluge
+1 The Toymaker's Trap
+1 Waking Nightmare
+1 Viscera Seer
+1 The Biblioplex
+1 The Elderspell
+1 Vindictive Lich
+1 World-Weary
+1 Urn of Godfire
+1 Zhang Liao, Hero of Hefei
+1 Vengeful Pharaoh
+1 Vile Entomber
+1 Varragoth, Bloodsky Sire
+1 Wild-Field Scarecrow
+1 Thought Dissector
+1 Scroll of Griselbrand
+1 Sol Ring
+1 Spreading Rot
+1 Tomb Tyrant
+1 Unwilling Ingredient
+1 Wicked Visitor
+1 Tasigur's Cruelty
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Torment of Venom
+1 Thieving Sprite
+1 Tithing Blade // Consuming Sepulcher
+1 The Black Gate
+1 Vrock
+1 Stone of Erech
+1 Slate of Ancestry
+1 Soulblade Corrupter
+1 Undercity's Embrace
+1 Vat Emergence
+1 Spoils of War
+1 Throne of the God-Pharaoh
+1 You Are Already Dead
+1 Vilis, Broker of Blood
+1 Undertaker
+1 Worst Fears
+1 Thran Vigil
+1 Viridian Longbow
+1 Underworld Sentinel
+1 Weatherlight
+1 Windswept Heath
+1 The Underworld Cookbook
+1 Shatter Assumptions
+1 Spoils of the Vault
+1 Scion of Darkness
+1 Specter's Shriek
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Suffer the Past
+{'overall': 6.580541871921183, 'cmc': 3.171875, 'ramp': 6, 'draw': 16, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'JunjitheMidnightSky.txt'}

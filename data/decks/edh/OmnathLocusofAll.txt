@@ -62,4 +62,4 @@
 1 Omnath, Locus of the Roil
 1 Dryad of the Ilysian Grove
 1 Flooded Strand
-{'overall': 9.877099236641222, 'cmc': 2.046875, 'ramp': 19, 'draw': 15, 'interaction': 8}
+{'overall': 9.877099236641222, 'cmc': 2.046875, 'ramp': 19, 'draw': 15, 'interaction': 8, 'folder': 'edh', 'commander': 'OmnathLocusofAll.txt'}

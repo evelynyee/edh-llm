@@ -62,4 +62,4 @@
 1 Terramorphic Expanse
 1 Valiant Veteran
 1 Call the Coppercoats
-{'overall': 3.807801418439716, 'cmc': 2.203125, 'ramp': 7, 'draw': 3, 'interaction': 8}
+{'overall': 3.807801418439716, 'cmc': 2.203125, 'ramp': 7, 'draw': 3, 'interaction': 8, 'folder': 'edh', 'commander': 'TajicBladeoftheLegion.txt'}

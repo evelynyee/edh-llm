@@ -61,5 +61,4 @@
 1 Shield-Wall Sentinel
 1 Timesifter
 1 Workhorse
-1 Soul-Strike Technique
-{'overall': 9.132075471698114, 'cmc': 3.1641791044776117, 'ramp': '15', 'draw': '17', 'interaction': 10, 'folder': 'gpt', 'commander': 'AotheDawnSky.txt'}nteraction': 10, 'folder': 'gpt', 'commander': 'AotheDawnSky.txt'}
+{'overall': 8.883165829145728, 'cmc': 3.1587301587301586, 'ramp': 15, 'draw': 16, 'interaction': 10}

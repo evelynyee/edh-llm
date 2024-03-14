@@ -62,4 +62,4 @@
 1 Wildwood Tracker
 1 Unnatural Aggression
 1 The Moment
-{'overall': 3.6493562231759658, 'cmc': 3.640625, 'ramp': 2, 'draw': 9, 'interaction': 7}
+{'overall': 3.6493562231759658, 'cmc': 3.640625, 'ramp': 2, 'draw': 9, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EzuriClawofProgress.txt'}

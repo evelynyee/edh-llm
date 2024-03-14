@@ -1,0 +1,65 @@
+1 Heiko Yamazaki, the General
+1 Tentative Connection
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Sokenzan Smelter
+1 Urza's Chalice
+1 Viashino Bladescout
+1 War Barge
+1 Zelyon Sword
+1 Spiteful Motives
+1 Spellpyre Phoenix
+1 Tormenting Voice
+1 Sword of Once and Future
+1 Unstable Footing
+1 Tawnos's Weaponry
+1 Sword of the Meek
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Salvaging Station
+1 Vault Robber
+1 Unlicensed Hearse
+1 Tiamat's Fanatics
+1 Zenith Chronicler
+1 Zealous Conscripts
+1 Zada, Hedron Grinder
+1 Throne of Bone
+1 Tapestry of the Ages
+1 Stensia Masquerade
+1 Spark of Creativity
+1 Vulshok Battlegear
+1 Ugin's Nexus
+1 Tome Shredder
+1 Wand of Vertebrae
+1 _____ _____ Rocketship
+1 Red Elemental Blast
+1 Tempered in Solitude
+1 Slate of Ancestry
+1 Wojek Embermage
+1 Workshop Assistant
+1 The Stone Brain
+1 Staff of Titania
+1 Squee, the Immortal
+1 Tarrian's Soulcleaver
+1 Tears of Rage
+1 Skirk Alarmist
+1 Vexing Arcanix
+1 Thunderous Wrath
+1 Spectacular Showdown
+1 Twist Allegiance
+1 Untethered Express
+1 Volatile Chimera
+1 Skittering Cicada
+1 Xanthic Statue
+1 Vedalken Shackles
+1 Yavimaya Steelcrusher
+1 Torch Breath
+1 Steamclaw
+1 Thousand-Year Elixir
+1 Tavern Ruffian // Tavern Smasher
+1 Ulamog, the Ceaseless Hunger
+1 Wild Evocation
+1 Trailblazing Historian
+1 Treasure Keeper
+1 Yidaro, Wandering Monster
+1 Volcanic Vision
+1 Skirk Volcanist
+{'overall': 3.181818181818182, 'cmc': 3.4375, 'ramp': 2, 'draw': 7, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'HeikoYamazakitheGeneral.txt'}

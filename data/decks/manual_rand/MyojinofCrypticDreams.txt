@@ -1,0 +1,65 @@
+1 Myojin of Cryptic Dreams
+1 Toothy, Imaginary Friend
+1 The Mycosynth Gardens
+1 Spawning Pit
+1 Umara Raptor
+1 Urza's Incubator
+1 Triassic Egg
+1 Wizard Mentor
+1 Verity Circle
+1 The Eleventh Hour
+1 Witch's Oven
+1 Undiscovered Paradise
+1 Vronos, Masked Inquisitor
+1 Volition Reins
+1 Towashi Guide-Bot
+1 Voidmage Husher
+1 Throne of the God-Pharaoh
+1 Switcheroo
+1 Trusted Advisor
+1 That Which Was Taken
+1 Waterfall Aerialist
+1 Twiddle
+1 Teller of Tales
+1 Xerex Strobe-Knight
+1 Word of Undoing
+1 Thoughtcast
+1 Time Bomb
+1 The Indomitable
+1 True Polymorph
+1 Wipe Away
+1 Willbreaker
+1 Wurm's Tooth
+1 Summoner's Bane
+1 Thought Collapse
+1 Umezawa's Jitte
+1 Wizard's Rockets
+1 Transcendent Message
+1 Thwart
+1 Winter's Rest
+1 Tablet of Epityr
+1 Twitch
+1 Vesuvan Duplimancy
+1 Tidewalker
+1 Thran Weaponry
+1 Wedding Invitation
+1 Voltaic Key
+1 Synod Centurion
+1 Undead Alchemist
+1 Tarrian's Soulcleaver
+1 Yarok's Wavecrasher
+1 Vexing Sphinx
+1 Undo
+1 Thing in the Ice // Awoken Horror
+1 Whirler Rogue
+1 Siren Stormtamer
+1 Waterwind Scout
+1 Shrine of Boundless Growth
+1 Tezzeret, Betrayer of Flesh
+1 Time of Ice
+1 Mulldrifter
+1 Sublime Epiphany
+1 Torture Chamber
+1 Workhorse
+1 The Enigma Jewel // Locus of Enlightenment
+{'overall': 5.3624401913875595, 'cmc': 3.265625, 'ramp': 3, 'draw': 15, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MyojinofCrypticDreams.txt'}

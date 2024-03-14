@@ -1,0 +1,65 @@
+1 Bright-Palm, Soul Awakener
+1 Subterranean Scout
+1 Two-Handed Axe // Sweeping Cleave
+1 Where Ancients Tread
+1 Warrior en-Kor
+1 Wall of Resistance
+1 Worship
+1 Wulfgar of Icewind Dale
+1 Taranika, Akroan Veteran
+1 Zuberi, Golden Feather
+1 Wildfire Eternal
+1 Tormentor Exarch
+1 Wandermare
+1 Weight of Spires
+1 Wall of Reverence
+1 Yannik, Scavenging Sentinel
+1 Ulrich's Kindred
+1 Warpath
+1 Ulvenwald Observer
+1 Zelyon Sword
+1 Venom Connoisseur
+1 Viashino Lashclaw
+1 Wojek Apothecary
+1 Théoden, King of Rohan
+1 Strength-Testing Hammer
+1 Warbriar Blessing
+1 Winter Blast
+1 Venerated Rotpriest
+1 Wasteland Viper
+1 Yuan Shao's Infantry
+1 Warrior's Charge
+1 Trophy Hunter
+1 Voice of Resurgence
+1 Treetop Ambusher
+1 Vorrac Battlehorns
+1 Together Forever
+1 Valakut Fireboar
+1 Welcoming Vampire
+1 Wall of Caltrops
+1 Vengeful Devil
+1 Zamriel, Seraph of Steel
+1 Timberwatch Elf
+1 Telim'Tor
+1 War-Trained Slasher
+1 Untethered Express
+1 Traitorous Greed
+1 Wild Might
+1 Vial of Poison
+1 Tenza, Godo's Maul
+1 Vivien, Arkbow Ranger
+1 Venerable Kumo
+1 Turntimber Basilisk
+1 Warchief Giant
+1 Waxmane Baku
+1 Verdant Rebirth
+1 Vorinclex // The Grand Evolution
+1 Yedora, Grave Gardener
+1 Vikya, Scorching Stalwart
+1 Trained Cheetah
+1 Titania's Boon
+1 Torens, Fist of the Angels
+1 Wellgabber Apothecary
+1 Tyrant's Familiar
+1 The Crowd Goes Wild
+{'overall': 3.4153846153846152, 'cmc': 3.25, 'ramp': 3, 'draw': 7, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'BrightPalmSoulAwakener.txt'}

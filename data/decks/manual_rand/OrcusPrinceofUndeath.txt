@@ -62,4 +62,4 @@
 1 Torrent of Fire
 1 Vicious Battlerager
 1 Unerring Sling
-{'overall': 3.221428571428571, 'cmc': 3.5, 'ramp': 2, 'draw': 6, 'interaction': 13}
+{'overall': 3.221428571428571, 'cmc': 3.5, 'ramp': 2, 'draw': 6, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'OrcusPrinceofUndeath.txt'}

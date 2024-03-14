@@ -62,4 +62,4 @@
 1 Triassic Egg
 1 Workshop Assistant
 1 Topaz Dragon // Entropic Cloud
-{'overall': 5.94468085106383, 'cmc': 3.671875, 'ramp': 9, 'draw': 11, 'interaction': 8}
+{'overall': 5.94468085106383, 'cmc': 3.671875, 'ramp': 9, 'draw': 11, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TormodtheDesecrator.txt'}

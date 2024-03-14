@@ -62,4 +62,4 @@
 1 Gluttonous Slime
 1 Bloodline Pretender
 1 Masked Vandal
-{'overall': 4.620157068062827, 'cmc': 2.984375, 'ramp': 8, 'draw': 7, 'interaction': 4}
+{'overall': 4.620157068062827, 'cmc': 2.984375, 'ramp': 8, 'draw': 7, 'interaction': 4, 'folder': 'edh', 'commander': 'SlurrkAllIngesting.txt'}

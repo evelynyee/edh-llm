@@ -62,4 +62,4 @@
 1 Harmonize
 1 Fumiko the Lowblood
 1 Garruk's Packleader
-{'overall': 6.0888888888888895, 'cmc': 2.25, 'ramp': 12, 'draw': 7, 'interaction': 9}
+{'overall': 6.0888888888888895, 'cmc': 2.25, 'ramp': 12, 'draw': 7, 'interaction': 9, 'folder': 'edh', 'commander': 'GahijiHonoredOne.txt'}

@@ -62,4 +62,4 @@
 1 Vine Kami
 1 Tombstalker
 1 Visions of Beyond
-{'overall': 11.134412955465587, 'cmc': 3.742424242424242, 'ramp': '12', 'draw': '29', 'interaction': 7, 'folder': 'gpt', 'commander': 'NivMizzetSupreme.txt'}', 'commander': 'NivMizzetSupreme.txt'}
+{'overall': 11.133333333333333, 'cmc': 3.75, 'ramp': 12, 'draw': 29, 'interaction': 7}

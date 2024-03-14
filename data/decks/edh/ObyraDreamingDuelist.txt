@@ -62,4 +62,4 @@
 1 Puppeteer Clique
 1 Reconnaissance Mission
 1 Blightwing Bandit
-{'overall': 6.053296703296703, 'cmc': 2.84375, 'ramp': 5, 'draw': 15, 'interaction': 7}
+{'overall': 6.053296703296703, 'cmc': 2.84375, 'ramp': 5, 'draw': 15, 'interaction': 7, 'folder': 'edh', 'commander': 'ObyraDreamingDuelist.txt'}

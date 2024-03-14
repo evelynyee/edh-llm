@@ -62,4 +62,4 @@
 1 Titan's Presence
 1 Triassic Egg
 1 Spell Stutter
-{'overall': 6.339861751152074, 'cmc': 3.390625, 'ramp': 3, 'draw': 18, 'interaction': 10}
+{'overall': 6.339861751152074, 'cmc': 3.390625, 'ramp': 3, 'draw': 18, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ImoenMysticTrickster.txt'}

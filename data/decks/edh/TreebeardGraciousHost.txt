@@ -62,4 +62,4 @@
 1 Congregate
 1 Blossoming Sands
 1 Abzan Battle Priest
-{'overall': 6.420863309352518, 'cmc': 2.171875, 'ramp': 15, 'draw': 6, 'interaction': 5}
+{'overall': 6.420863309352518, 'cmc': 2.171875, 'ramp': 15, 'draw': 6, 'interaction': 5, 'folder': 'edh', 'commander': 'TreebeardGraciousHost.txt'}

@@ -62,4 +62,4 @@
 1 Vorrac Battlehorns
 1 Traitorous Instinct
 1 Soul Separator
-{'overall': 4.077450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 7, 'interaction': 14}
+{'overall': 4.077450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 7, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}

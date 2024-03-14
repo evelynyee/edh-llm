@@ -62,4 +62,4 @@
 1 Zelyon Sword
 1 Simulacrum
 1 Szat's Will
-{'overall': 3.719718309859155, 'cmc': 3.227272727272727, 'ramp': '6', 'draw': '3', 'interaction': 17, 'folder': 'gpt', 'commander': 'GollumObsessedStalker.txt'}, 'commander': 'GollumObsessedStalker.txt'}
+{'overall': 3.6743902439024394, 'cmc': 3.203125, 'ramp': 6, 'draw': 3, 'interaction': 16}

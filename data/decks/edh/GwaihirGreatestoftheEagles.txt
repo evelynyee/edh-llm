@@ -62,4 +62,4 @@
 1 Emeria, the Sky Ruin
 1 Ambitious Farmhand
 1 Felidar Sovereign
-{'overall': 5.766666666666667, 'cmc': 3.0, 'ramp': 7, 'draw': 12, 'interaction': 7}
+{'overall': 5.766666666666667, 'cmc': 3.0, 'ramp': 7, 'draw': 12, 'interaction': 7, 'folder': 'edh', 'commander': 'GwaihirGreatestoftheEagles.txt'}

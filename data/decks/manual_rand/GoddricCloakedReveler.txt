@@ -1,0 +1,65 @@
+1 Goddric, Cloaked Reveler
+1 Thraben Gargoyle // Stonewing Antagonizer
+1 Wayward Giant
+1 Stoneforge Masterwork
+1 Wrinkly Monkey Shenanigans
+1 Smelt-Ward Gatekeepers
+1 Tuktuk the Explorer
+1 Valakut Fireboar
+1 Start Your Engines
+1 Thran Forge
+1 Slab Hammer
+1 Torrent of Lava
+1 Stone Idol Trap
+1 Spectrum Sentinel
+1 Wandering Goblins
+1 Structural Assault
+1 Wall of Stone
+1 Searing Spear Askari
+1 Volley Veteran
+1 Wildfire Cerberus
+1 Weight of Spires
+1 Strength-Testing Hammer
+1 Spatial Contortion
+1 Ydwen Efreet
+1 Wolfhunter's Quiver
+1 Shared Animosity
+1 Vibrating Sphere
+1 Sword of the Paruns
+1 War-Trained Slasher
+1 Wall of Diffusion
+1 Zada, Hedron Grinder
+1 Zurzoth, Chaos Rider
+1 Witch's Oven
+1 Scampering Scorcher
+1 The Chain Veil
+1 Tiger-Tribe Hunter
+1 Trove of Temptation
+1 Skophos Maze-Warden
+1 Shadowed Caravel
+1 Warmonger Hellkite
+1 Warstorm Surge
+1 Zealous Conscripts
+1 Traitorous Instinct
+1 Stormrider Rig
+1 Skyclave Geopede
+1 Viashino Runner
+1 Turn to Slag
+1 Volcanic Strength
+1 Torch Courier
+1 Threaten
+1 Zada's Commando
+1 Thopter Engineer
+1 Sigiled Sword of Valeron
+1 Two-Headed Giant
+1 You Come to the Gnoll Camp
+1 Tundra Fumarole
+1 Tilonalli's Skinshifter
+1 Titan of Eternal Fire
+1 Temur Battle Rage
+1 Vulshok Splitter
+1 Vampiric Fury
+1 Vengeful Firebrand
+1 Vial of Poison
+1 Vulshok Battlegear
+{'overall': 2.133663366336634, 'cmc': 3.15625, 'ramp': 2, 'draw': 2, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'GoddricCloakedReveler.txt'}

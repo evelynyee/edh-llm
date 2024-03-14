@@ -62,4 +62,4 @@
 1 Ghostly Touch
 1 Hullbreaker Horror
 1 Serpent of Yawning Depths
-{'overall': 7.556410256410257, 'cmc': 3.046875, 'ramp': 15, 'draw': 11, 'interaction': 8}
+{'overall': 7.556410256410257, 'cmc': 3.046875, 'ramp': 15, 'draw': 11, 'interaction': 8, 'folder': 'edh', 'commander': 'Tromokratis.txt'}

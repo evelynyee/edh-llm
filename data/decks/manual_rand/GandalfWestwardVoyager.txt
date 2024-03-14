@@ -62,4 +62,4 @@
 1 Tolarian Kraken
 1 Urza, Lord High Artificer
 1 Wheel of Torture
-{'overall': 7.438549618320611, 'cmc': 4.09375, 'ramp': 5, 'draw': 22, 'interaction': 4}
+{'overall': 7.438549618320611, 'cmc': 4.09375, 'ramp': 5, 'draw': 22, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'GandalfWestwardVoyager.txt'}

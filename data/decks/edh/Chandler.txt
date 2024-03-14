@@ -62,4 +62,4 @@
 1 War Room
 1 Hoard-Smelter Dragon
 1 Feldon of the Third Path
-{'overall': 9.68142857142857, 'cmc': 2.734375, 'ramp': 21, 'draw': 13, 'interaction': 9}
+{'overall': 9.68142857142857, 'cmc': 2.734375, 'ramp': 21, 'draw': 13, 'interaction': 9, 'folder': 'edh', 'commander': 'Chandler.txt'}

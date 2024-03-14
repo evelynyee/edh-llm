@@ -62,4 +62,4 @@
 1 Myriad Landscape
 1 Sea of Clouds
 1 Perplexing Test
-{'overall': 5.6308510638297875, 'cmc': 2.9375, 'ramp': 7, 'draw': 11, 'interaction': 9}
+{'overall': 5.6308510638297875, 'cmc': 2.9375, 'ramp': 7, 'draw': 11, 'interaction': 9, 'folder': 'edh', 'commander': 'TemmetVizierofNaktamun.txt'}

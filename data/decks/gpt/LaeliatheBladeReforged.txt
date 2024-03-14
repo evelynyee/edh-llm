@@ -62,4 +62,4 @@
 1 The Ozolith
 1 Spellgorger Weird
 1 Storm World
-{'overall': 8.473469387755102, 'cmc': 2.9696969696969697, 'ramp': '12', 'draw': '18', 'interaction': 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}: 6, 'folder': 'gpt', 'commander': 'LaeliatheBladeReforged.txt'}
+{'overall': 8.170157068062828, 'cmc': 2.984375, 'ramp': 11, 'draw': 18, 'interaction': 5}

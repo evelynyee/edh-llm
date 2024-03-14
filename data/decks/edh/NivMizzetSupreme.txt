@@ -62,4 +62,4 @@
 1 Temple Garden
 1 Deflecting Palm
 1 Hallowed Fountain
-{'overall': 9.335276073619633, 'cmc': 2.546875, 'ramp': 11, 'draw': 20, 'interaction': 16}
+{'overall': 9.335276073619633, 'cmc': 2.546875, 'ramp': 11, 'draw': 20, 'interaction': 16, 'folder': 'edh', 'commander': 'NivMizzetSupreme.txt'}

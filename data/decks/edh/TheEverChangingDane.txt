@@ -62,4 +62,4 @@
 1 Glacial Fortress
 1 Isolated Chapel
 1 Puppeteer Clique
-{'overall': 5.807801418439716, 'cmc': 2.203125, 'ramp': 11, 'draw': 7, 'interaction': 8}
+{'overall': 5.807801418439716, 'cmc': 2.203125, 'ramp': 11, 'draw': 7, 'interaction': 8, 'folder': 'edh', 'commander': 'TheEverChangingDane.txt'}

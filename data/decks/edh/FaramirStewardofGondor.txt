@@ -62,4 +62,4 @@
 1 Unbreakable Formation
 1 Arcane Denial
 1 Myriad Landscape
-{'overall': 5.52051282051282, 'cmc': 2.4375, 'ramp': 6, 'draw': 11, 'interaction': 9}
+{'overall': 5.52051282051282, 'cmc': 2.4375, 'ramp': 6, 'draw': 11, 'interaction': 9, 'folder': 'edh', 'commander': 'FaramirStewardofGondor.txt'}

@@ -62,4 +62,4 @@
 1 Thicket Crasher
 1 Wardscale Crocodile
 1 Voice of the Vermin
-{'overall': 2.9355648535564853, 'cmc': 3.734375, 'ramp': 4, 'draw': 5, 'interaction': 3}
+{'overall': 2.9355648535564853, 'cmc': 3.734375, 'ramp': 4, 'draw': 5, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'SkanosDragonheart.txt'}

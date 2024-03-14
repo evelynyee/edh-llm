@@ -74,7 +74,7 @@ def calculate_power(filepath):
         # Close the browser after a delay or after certain actions
         print(e)
         driver.quit()
-        time.sleep(600)
+        time.sleep(60)
         calculate_power(filepath)
     finally:
         driver.quit()

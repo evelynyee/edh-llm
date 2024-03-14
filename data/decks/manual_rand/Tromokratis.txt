@@ -62,4 +62,4 @@
 1 Whitewater Naiads
 1 Stupefying Touch
 1 Winged Sliver
-{'overall': 4.2125, 'cmc': 3.5555555555555554, 'ramp': 2, 'draw': 12, 'interaction': 3}
+{'overall': 4.2125, 'cmc': 3.5555555555555554, 'ramp': 2, 'draw': 12, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'Tromokratis.txt'}

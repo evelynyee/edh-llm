@@ -62,4 +62,4 @@
 1 Shadowspear
 1 Wayfarer's Bauble
 1 Forgotten Cave
-{'overall': 7.030487804878049, 'cmc': 2.5625, 'ramp': 14, 'draw': 9, 'interaction': 10}
+{'overall': 7.030487804878049, 'cmc': 2.5625, 'ramp': 14, 'draw': 9, 'interaction': 10, 'folder': 'edh', 'commander': 'LaeliatheBladeReforged.txt'}

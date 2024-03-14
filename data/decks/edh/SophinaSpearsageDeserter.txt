@@ -62,4 +62,4 @@
 1 Needleverge Pathway
 1 Spirited Companion
 1 Stalwart Pathlighter
-{'overall': 7.314864864864865, 'cmc': 2.3125, 'ramp': 11, 'draw': 13, 'interaction': 9}
+{'overall': 7.314864864864865, 'cmc': 2.3125, 'ramp': 11, 'draw': 13, 'interaction': 9, 'folder': 'edh', 'commander': 'SophinaSpearsageDeserter.txt'}

@@ -62,4 +62,4 @@
 1 Archaeomancer's Map
 1 Walking Ballista
 1 Phyrexian Revoker
-{'overall': 7.82563025210084, 'cmc': 1.859375, 'ramp': 17, 'draw': 9, 'interaction': 5}
+{'overall': 7.82563025210084, 'cmc': 1.859375, 'ramp': 17, 'draw': 9, 'interaction': 5, 'folder': 'edh', 'commander': 'OswaldFiddlebender.txt'}

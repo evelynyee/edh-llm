@@ -62,4 +62,4 @@
 1 Wildfire Devils
 1 Tears of Valakut
 1 Strict Proctor
-{'overall': 4.548538011695906, 'cmc': 2.671875, 'ramp': 7, 'draw': 7, 'interaction': 6}
+{'overall': 4.548538011695906, 'cmc': 2.671875, 'ramp': 7, 'draw': 7, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AgrusKosEternalSoldier.txt'}

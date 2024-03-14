@@ -62,4 +62,4 @@
 1 Suffocation
 1 Silumgar's Scorn
 1 Vesuvan Doppelganger
-{'overall': 10.087155963302752, 'cmc': 3.40625, 'ramp': 7, 'draw': 30, 'interaction': 5}
+{'overall': 10.087155963302752, 'cmc': 3.40625, 'ramp': 7, 'draw': 30, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'LierDiscipleoftheDrowned.txt'}

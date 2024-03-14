@@ -1,0 +1,65 @@
+1 Bess, Soul Nourisher
+1 Trial of Solidarity
+1 You Cannot Pass!
+1 Triangle of War
+1 Usher of the Fallen
+1 Wayfaring Giant
+1 Talus Paladin
+1 Thorn Lieutenant
+1 Tendershoot Dryad
+1 Unified Strike
+1 Zamriel, Seraph of Steel
+1 Sword of Truth and Justice
+1 Zar Ojanen, Scion of Efrava
+1 Wings of Hubris
+1 Warping Wail
+1 Vivien, Arkbow Ranger
+1 Verdant Sun's Avatar
+1 Tanuki Transplanter
+1 Valorous Stance
+1 Wild Growth
+1 Worship
+1 Vivien's Crocodile
+1 Tervigon
+1 Tolsimir, Friend to Wolves
+1 Vigilant Baloth
+1 Woodland Champion
+1 Woodborn Behemoth
+1 Webspinner Cuff
+1 Strongarm Monk
+1 Traproot Kami
+1 Towering Gibbon
+1 Ulvenwald Observer
+1 Surrak and Goreclaw
+1 Vigilant Sentry
+1 Thundering Chariot
+1 Tyranid Invasion
+1 Thelonite Druid
+1 Undergrowth Scavenger
+1 Tandem Takedown
+1 Zuberi, Golden Feather
+1 Wurmquake
+1 Vorapede
+1 Zhalfirin Knight
+1 Stonecoil Serpent
+1 True-Faith Censer
+1 Wolverine Riders
+1 Thundering Spineback
+1 Storm the Seedcore
+1 Voice of the Vermin
+1 Warbriar Blessing
+1 Transmogrifying Wand
+1 _____ Bird Gets the Worm
+1 Steadfast Sentry
+1 White Sun's Zenith
+1 White Sun's Twilight
+1 Wave of Reckoning
+1 You Look Upon the Tarrasque
+1 Strength-Testing Hammer
+1 Sublime Archangel
+1 Wyrm's Crossing Patrol
+1 Twinblade Paladin
+1 Witchstalker
+1 Wing Puncture
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+{'overall': 2.729185520361991, 'cmc': 3.453125, 'ramp': 3, 'draw': 4, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}

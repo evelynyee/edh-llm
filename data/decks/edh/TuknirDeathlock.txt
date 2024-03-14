@@ -62,4 +62,4 @@
 1 Tormenting Voice
 1 Grafted Exoskeleton
 1 Lifecrafter's Bestiary
-{'overall': 9.27051282051282, 'cmc': 2.4375, 'ramp': 20, 'draw': 12, 'interaction': 9}
+{'overall': 9.27051282051282, 'cmc': 2.4375, 'ramp': 20, 'draw': 12, 'interaction': 9, 'folder': 'edh', 'commander': 'TuknirDeathlock.txt'}

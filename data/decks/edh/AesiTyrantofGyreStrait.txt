@@ -62,4 +62,4 @@
 1 Multani, Yavimaya's Avatar
 1 Simic Signet
 1 Yavimaya Coast
-{'overall': 8.941891891891892, 'cmc': 2.890625, 'ramp': 23, 'draw': 9, 'interaction': 5}
+{'overall': 8.941891891891892, 'cmc': 2.890625, 'ramp': 23, 'draw': 9, 'interaction': 5, 'folder': 'edh', 'commander': 'AesiTyrantofGyreStrait.txt'}

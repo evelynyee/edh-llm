@@ -62,4 +62,4 @@
 1 Comet Storm
 1 Commander's Sphere
 1 Brash Taunter
-{'overall': 6.444186046511628, 'cmc': 2.6875, 'ramp': 10, 'draw': 8, 'interaction': 24}
+{'overall': 6.444186046511628, 'cmc': 2.6875, 'ramp': 10, 'draw': 8, 'interaction': 24, 'folder': 'edh', 'commander': 'GimliCounterofKills.txt'}

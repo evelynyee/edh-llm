@@ -62,4 +62,4 @@
 1 Butcher of Malakir
 1 Sheoldred, Whispering One
 1 Nyx Lotus
-{'overall': 9.407182320441988, 'cmc': 2.828125, 'ramp': 18, 'draw': 15, 'interaction': 9}
+{'overall': 9.407182320441988, 'cmc': 2.828125, 'ramp': 18, 'draw': 15, 'interaction': 9, 'folder': 'edh', 'commander': 'TeveshSzatDoomofFools.txt'}

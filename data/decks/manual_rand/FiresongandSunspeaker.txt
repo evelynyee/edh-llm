@@ -62,4 +62,4 @@
 1 Sivvi's Ruse
 1 Soul of Shandalar
 1 Viridian Longbow
-{'overall': 3.1953488372093024, 'cmc': 3.359375, 'ramp': 1, 'draw': 5, 'interaction': 22}
+{'overall': 3.1953488372093024, 'cmc': 3.359375, 'ramp': 1, 'draw': 5, 'interaction': 22, 'folder': 'manual_rand', 'commander': 'FiresongandSunspeaker.txt'}

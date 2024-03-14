@@ -62,4 +62,4 @@
 1 Thundering Chariot
 1 Wooden Stake
 1 Watchwing Scarecrow
-{'overall': 5.374390243902439, 'cmc': 3.203125, 'ramp': 6, 'draw': 11, 'interaction': 10}
+{'overall': 5.374390243902439, 'cmc': 3.203125, 'ramp': 6, 'draw': 11, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ElrondoftheWhiteCouncil.txt'}

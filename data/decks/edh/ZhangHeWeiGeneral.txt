@@ -62,4 +62,4 @@
 1 Royal Warden
 1 The Raven Man
 1 Reckoner Bankbuster
-{'overall': 5.777272727272727, 'cmc': 2.75, 'ramp': 7, 'draw': 12, 'interaction': 6}
+{'overall': 5.777272727272727, 'cmc': 2.75, 'ramp': 7, 'draw': 12, 'interaction': 6, 'folder': 'edh', 'commander': 'ZhangHeWeiGeneral.txt'}

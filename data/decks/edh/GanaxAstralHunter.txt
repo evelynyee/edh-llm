@@ -62,4 +62,4 @@
 1 Opportunistic Dragon
 1 Chaos Dragon
 1 Commander's Sphere
-{'overall': 10.320325203252033, 'cmc': 3.84375, 'ramp': 25, 'draw': 11, 'interaction': 16}
+{'overall': 10.320325203252033, 'cmc': 3.84375, 'ramp': 25, 'draw': 11, 'interaction': 16, 'folder': 'edh', 'commander': 'GanaxAstralHunter.txt'}

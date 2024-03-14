@@ -62,4 +62,4 @@
 1 Yavimaya Sojourner
 1 Triassic Egg
 1 Tranquil Frillback
-{'overall': 7.346218487394958, 'cmc': 3.6615384615384614, 'ramp': '8', 'draw': '17', 'interaction': 11, 'folder': 'gpt', 'commander': 'NethroiApexofDeath.txt'}ethroiApexofDeath.txt'}
+{'overall': 7.342372881355932, 'cmc': 3.6875, 'ramp': 8, 'draw': 17, 'interaction': 11}

@@ -62,4 +62,4 @@
 1 Welder Automaton
 1 Vessel of Malignity
 1 Volrath's Dungeon
-{'overall': 4.172448979591837, 'cmc': 3.828125, 'ramp': 3, 'draw': 8, 'interaction': 18}
+{'overall': 4.172448979591837, 'cmc': 3.828125, 'ramp': 3, 'draw': 8, 'interaction': 18, 'folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}

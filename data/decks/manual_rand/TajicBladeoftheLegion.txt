@@ -62,4 +62,4 @@
 1 Urza's Avenger
 1 War Flare
 1 You're Ambushed on the Road
-{'overall': 2.1964646464646465, 'cmc': 3.09375, 'ramp': 1, 'draw': 4, 'interaction': 6}
+{'overall': 2.1964646464646465, 'cmc': 3.09375, 'ramp': 1, 'draw': 4, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TajicBladeoftheLegion.txt'}

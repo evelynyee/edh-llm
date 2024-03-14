@@ -62,4 +62,4 @@
 1 Voyager Drake
 1 Tezzeret's Strider
 1 Water Wings
-{'overall': 3.081818181818182, 'cmc': 3.4375, 'ramp': 1, 'draw': 8, 'interaction': 5}
+{'overall': 3.081818181818182, 'cmc': 3.4375, 'ramp': 1, 'draw': 8, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'}

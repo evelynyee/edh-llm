@@ -1,0 +1,65 @@
+1 Obyra, Dreaming Duelist
+1 Syndicate Enforcer
+1 Venomous Hierophant
+1 Demonic Tutor
+1 Vodalian Mage
+1 Wanderwine Prophets
+1 Tribute to Horobi // Echo of Death's Wail
+1 Undying Malice
+1 Visage of Dread // Dread Osseosaur
+1 Unholy Indenture
+1 Twisted Embrace
+1 Whispering Snitch
+1 Vampiric Touch
+1 Technomancer
+1 Waterkin Shaman
+1 Windgrace Acolyte
+1 Veiled Sentry
+1 Umbris, Fear Manifest
+1 Vat of Rebirth
+1 Withdraw
+1 Voracious Greatshark
+1 The Trickster-God's Heist
+1 Tainted Remedy
+1 Timid Drake
+1 Tezzeret's Gambit
+1 Warteye Witch
+1 Undying Evil
+1 Young Necromancer
+1 Tablet of Epityr
+1 Thought Sponge
+1 Vile Consumption
+1 Urborg Syphon-Mage
+1 Well of Lost Dreams
+1 Virtue of Knowledge // Vantress Visions
+1 Wall of Forgotten Pharaohs
+1 Vile Requiem
+1 Xathrid Necromancer
+1 Workshop Assistant
+1 Tithing Blade // Consuming Sepulcher
+1 Soulcage Fiend
+1 Xathrid Demon
+1 Woe Strider
+1 Throne of the God-Pharaoh
+1 Wight
+1 Vengeful Dead
+1 Zulaport Chainmage
+1 Witch of the Moors
+1 Staff of the Flame Magus
+1 Wooden Sphere
+1 Teferi's Time Twist
+1 Undermine
+1 Vulshok Gauntlets
+1 Withercrown
+1 Tome Raider
+1 Vodalian Serpent
+1 Spirit of Malevolence
+1 Vedalken Certarch
+1 Virtue of Persistence // Locthwain Scorn
+1 Turn into a Pumpkin
+1 Vapor Snag
+1 Spreading Rot
+1 Treacherous Vampire
+1 Trench Behemoth
+1 Void Snare
+{'overall': 2.96244019138756, 'cmc': 3.265625, 'ramp': 1, 'draw': 8, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'ObyraDreamingDuelist.txt'}

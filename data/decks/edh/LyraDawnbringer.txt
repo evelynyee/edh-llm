@@ -62,4 +62,4 @@
 1 Marble Diamond
 1 Thraben Watcher
 1 Akroma, Vision of Ixidor
-{'overall': 5.8791855203619905, 'cmc': 3.453125, 'ramp': 10, 'draw': 10, 'interaction': 6}
+{'overall': 5.8791855203619905, 'cmc': 3.453125, 'ramp': 10, 'draw': 10, 'interaction': 6, 'folder': 'edh', 'commander': 'LyraDawnbringer.txt'}

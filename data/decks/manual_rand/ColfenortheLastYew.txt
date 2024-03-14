@@ -62,4 +62,4 @@
 1 Wildwood Mentor
 1 Twists and Turns // Mycoid Maze
 1 Zombie Assassin
-{'overall': 5.1993562231759665, 'cmc': 3.640625, 'ramp': 5, 'draw': 12, 'interaction': 8}
+{'overall': 5.1993562231759665, 'cmc': 3.640625, 'ramp': 5, 'draw': 12, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'ColfenortheLastYew.txt'}

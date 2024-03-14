@@ -1,0 +1,65 @@
+1 Callaphe, Beloved of the Sea
+1 Whelming Wave
+1 Viscerid Drone
+1 Vedalken Orrery
+1 Thassa's Rebuff
+1 Wizard's Spellbook
+1 Sunglasses of Urza
+1 Ugin, the Spirit Dragon
+1 Xenograft
+1 Unholy Citadel
+1 Steelfin Whale
+1 Stone Calendar
+1 Tetsuko Umezawa, Fugitive
+1 Wavebreak Hippocamp
+1 Mana Drain
+1 Umara Entangler
+1 Counterspell
+1 Sorcerous Squall
+1 Talrand, Sky Summoner
+1 Spectral Arcanist
+1 Tempest Owl
+1 Vedalken Aethermage
+1 Sorcerous Spyglass
+1 Wall of Forgotten Pharaohs
+1 Web of Inertia
+1 Sword Coast Serpent // Capsizing Wave
+1 Tormod's Cryptkeeper
+1 Spectral Deluge
+1 Untaidake, the Cloud Keeper
+1 Xanthic Statue
+1 Tezzeret, Betrayer of Flesh
+1 Wondrous Crucible
+1 Sudden Insight
+1 Trickster Mage
+1 Wind Spirit
+1 Silver Scrutiny
+1 Surge Engine
+1 Sword Coast Serpent // Capsizing Wave
+1 Wu Scout
+1 Vedalken Blademaster
+1 Witchbane Orb
+1 Cyclonic Rift
+1 Tidal Surge
+1 Storm of Forms
+1 Symmetry Sage
+1 Staff of the Flame Magus
+1 Young Blue Dragon // Sand Augury
+1 Visions of Duplicity
+1 Will of the Naga
+1 Unnatural Selection
+1 Unblinking Observer
+1 Urza's Tome
+1 Spawnsire of Ulamog
+1 Voltaic Construct
+1 Tolarian Terror
+1 Tidal Flats
+1 The Everflowing Well // The Myriad Pools
+1 Tidal Bore
+1 String of Disappearances
+1 Walk the Aeons
+1 Thoughtcast
+1 Wings of Hubris
+1 Twisted Image
+1 Wheel and Deal
+{'overall': 5.5978260869565215, 'cmc': 3.6507936507936507, 'ramp': 4, 'draw': 14, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'CallapheBelovedoftheSea.txt'}

@@ -62,4 +62,4 @@
 1 Blighted Woodland
 1 Myriad Landscape
 1 Scryb Ranger
-{'overall': 5.7964646464646465, 'cmc': 3.09375, 'ramp': 11, 'draw': 9, 'interaction': 3}
+{'overall': 5.7964646464646465, 'cmc': 3.09375, 'ramp': 11, 'draw': 9, 'interaction': 3, 'folder': 'edh', 'commander': 'ThrissNantukoPrimus.txt'}

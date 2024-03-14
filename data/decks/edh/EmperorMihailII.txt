@@ -62,4 +62,4 @@
 1 Vanquisher's Banner
 1 Reality Shift
 1 Nykthos, Shrine to Nyx
-{'overall': 7.397682119205298, 'cmc': 2.359375, 'ramp': 11, 'draw': 14, 'interaction': 6}
+{'overall': 7.397682119205298, 'cmc': 2.359375, 'ramp': 11, 'draw': 14, 'interaction': 6, 'folder': 'edh', 'commander': 'EmperorMihailII.txt'}

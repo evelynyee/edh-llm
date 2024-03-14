@@ -62,4 +62,4 @@
 1 Setessan Champion
 1 Ring of Kalonia
 1 Mosswort Bridge
-{'overall': 7.807396449704142, 'cmc': 2.640625, 'ramp': 13, 'draw': 14, 'interaction': 6}
+{'overall': 7.807396449704142, 'cmc': 2.640625, 'ramp': 13, 'draw': 14, 'interaction': 6, 'folder': 'edh', 'commander': 'ThruntheLastTroll.txt'}

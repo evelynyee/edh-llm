@@ -62,4 +62,4 @@
 1 Mind Stone
 1 Hellspark Elemental
 1 Earthshaker Khenra
-{'overall': 5.5050314465408805, 'cmc': 2.484375, 'ramp': 9, 'draw': 8, 'interaction': 9}
+{'overall': 5.5050314465408805, 'cmc': 2.484375, 'ramp': 9, 'draw': 8, 'interaction': 9, 'folder': 'edh', 'commander': 'ArdozCobblerofWar.txt'}

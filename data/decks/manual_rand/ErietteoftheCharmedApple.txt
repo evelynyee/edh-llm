@@ -1,0 +1,65 @@
+1 Eriette of the Charmed Apple
+1 The Wandering Emperor
+1 Wall of Distortion
+1 Warrior's Stand
+1 Unliving Psychopath
+1 Temple Elder
+1 Torment of Hailfire
+1 Wall of Souls
+1 Witness the End
+1 Witch Hunter
+1 Tymaret, Chosen from Death
+1 Wooden Sphere
+1 Stalactite Stalker
+1 Vigilant Sentry
+1 Stromkirk Bloodthief
+1 Traveling Minister
+1 Tithe Drinker
+1 Tithing Blade // Consuming Sepulcher
+1 Yotian Frontliner
+1 Worry Beads
+1 Tinybones, Trinket Thief
+1 Sunstrike Legionnaire
+1 Tendrils of Corruption
+1 Tariff
+1 Virtue of Persistence // Locthwain Scorn
+1 Torii Watchward
+1 Vampire Outcasts
+1 Thornbow Archer
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Urborg Justice
+1 Stab Wound
+1 Wall of Tombstones
+1 Stalwart Pathlighter
+1 Takklemaggot
+1 Vorrac Battlehorns
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Whispering Snitch
+1 The Gaffer
+1 Urge to Feed
+1 Windborn Muse
+1 The Long Reach of Night // Animus of Night's Reach
+1 Vengeful Dreams
+1 Wedding Announcement // Wedding Festivity
+1 Stone Catapult
+1 Stir the Pride
+1 Trespasser's Curse
+1 Tower of Eons
+1 Weight of Conscience
+1 Vish Kal, Blood Arbiter
+1 Szat's Will
+1 Sunseed Nurturer
+1 Wall of Putrid Flesh
+1 Wei Night Raiders
+1 Throne of the God-Pharaoh
+1 Vengeful Archon
+1 Witch's Mist
+1 Wall of Reverence
+1 Steel Hellkite
+1 Spoils of War
+1 Tezzeret's Simulacrum
+1 Wingmate Roc
+1 War Chariot
+1 Tormented Hero
+1 Wall of Vipers
+{'overall': 2.3964646464646466, 'cmc': 3.09375, 'ramp': 1, 'draw': 4, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ErietteoftheCharmedApple.txt'}

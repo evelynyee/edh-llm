@@ -62,4 +62,4 @@
 1 Virtus the Veiled
 1 Toymaker
 1 Tariff
-{'overall': 4.677450980392157, 'cmc': 3.1875, 'ramp': '7', 'draw': '6', 'interaction': 16, 'folder': 'gpt', 'commander': 'FrodoSauronsBane.txt'}
+{'overall': 4.677450980392157, 'cmc': 3.1875, 'ramp': 7, 'draw': 6, 'interaction': 16}

@@ -62,4 +62,4 @@
 1 Rugged Prairie
 1 Flawless Maneuver
 1 Tori D'Avenant, Fury Rider
-{'overall': 4.568888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 4, 'interaction': 10}
+{'overall': 4.568888888888889, 'cmc': 3.515625, 'ramp': 10, 'draw': 4, 'interaction': 10, 'folder': 'edh', 'commander': 'DjeruandHazoret.txt'}

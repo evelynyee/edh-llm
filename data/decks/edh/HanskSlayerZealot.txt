@@ -62,4 +62,4 @@
 1 Fiery Cannonade
 1 Nature's Claim
 1 Gorgon's Head
-{'overall': 7.445031055900621, 'cmc': 2.515625, 'ramp': 14, 'draw': 8, 'interaction': 23}
+{'overall': 7.445031055900621, 'cmc': 2.515625, 'ramp': 14, 'draw': 8, 'interaction': 23, 'folder': 'edh', 'commander': 'HanskSlayerZealot.txt'}

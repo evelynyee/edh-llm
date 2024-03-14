@@ -62,4 +62,4 @@
 1 The Stone Brain
 1 Unstable Glyphbridge // Sandswirl Wanderglyph
 1 Veteran Explorer
-{'overall': 10.004112554112554, 'cmc': 3.609375, 'ramp': 13, 'draw': 24, 'interaction': 4}
+{'overall': 10.004112554112554, 'cmc': 3.609375, 'ramp': 13, 'draw': 24, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TorstenFounderofBenalia.txt'}

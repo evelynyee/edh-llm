@@ -62,4 +62,4 @@
 1 Castle Garenbrig
 1 Temple of Plenty
 1 Yasharn, Implacable Earth
-{'overall': 7.0196969696969695, 'cmc': 2.0625, 'ramp': 17, 'draw': 6, 'interaction': 6}
+{'overall': 7.0196969696969695, 'cmc': 2.0625, 'ramp': 17, 'draw': 6, 'interaction': 6, 'folder': 'edh', 'commander': 'TorstenFounderofBenalia.txt'}

@@ -62,4 +62,4 @@
 1 Conqueror's Galleon
 1 Path of Ancestry
 1 Pia's Revolution
-{'overall': 5.92051282051282, 'cmc': 2.4375, 'ramp': 9, 'draw': 10, 'interaction': 7}
+{'overall': 5.92051282051282, 'cmc': 2.4375, 'ramp': 9, 'draw': 10, 'interaction': 7, 'folder': 'edh', 'commander': 'DepalaPilotExemplar.txt'}

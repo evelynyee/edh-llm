@@ -62,4 +62,4 @@
 1 Tooth Collector
 1 Virtus's Maneuver
 1 Tilling Treefolk
-{'overall': 6.944715447154472, 'cmc': 3.671641791044776, 'ramp': '12', 'draw': '12', 'interaction': 8, 'folder': 'gpt', 'commander': 'PippinWardenofIsengard.txt'}r': 'gpt', 'commander': 'PippinWardenofIsengard.txt'}
+{'overall': 6.2214285714285715, 'cmc': 3.5, 'ramp': 11, 'draw': 10, 'interaction': 8}

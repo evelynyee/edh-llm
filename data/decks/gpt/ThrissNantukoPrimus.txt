@@ -62,4 +62,4 @@
 1 Tyrite Sanctum
 1 Turntimber Basilisk
 1 Web
-{'overall': 4.7339378238341965, 'cmc': 2.9242424242424243, 'ramp': '8', 'draw': '6', 'interaction': 11, 'folder': 'gpt', 'commander': 'ThrissNantukoPrimus.txt'}nder': 'ThrissNantukoPrimus.txt'}
+{'overall': 4.688172043010753, 'cmc': 2.90625, 'ramp': 8, 'draw': 6, 'interaction': 10}

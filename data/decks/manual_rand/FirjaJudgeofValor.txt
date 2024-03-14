@@ -62,4 +62,4 @@
 1 Unburden
 1 Watchers of the Dead
 1 Ugin, the Ineffable
-{'overall': 7.815022421524664, 'cmc': 3.5396825396825395, 'ramp': 9, 'draw': 19, 'interaction': 5}
+{'overall': 7.815022421524664, 'cmc': 3.5396825396825395, 'ramp': 9, 'draw': 19, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'FirjaJudgeofValor.txt'}

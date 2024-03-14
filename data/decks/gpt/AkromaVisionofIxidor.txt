@@ -60,6 +60,4 @@
 1 Taranika, Akroan Veteran
 1 Vedalken Shackles
 1 Windborn Muse
-1 Sublime Archangel
-1 Vanquish
-{'overall': 2.454651162790698, 'cmc': 3.3076923076923075, 'ramp': '4', 'draw': '2', 'interaction': 7, 'folder': 'gpt', 'commander': 'AkromaVisionofIxidor.txt'}ofIxidor.txt'}
+{'overall': 2.401941747572815, 'cmc': 3.3225806451612905, 'ramp': 4, 'draw': 2, 'interaction': 6}

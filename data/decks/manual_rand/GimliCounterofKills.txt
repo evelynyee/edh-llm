@@ -62,4 +62,4 @@
 1 Structural Assault
 1 Witch Hunt
 1 Smoldering Efreet
-{'overall': 3.7239910313901343, 'cmc': 3.484375, 'ramp': 2, 'draw': 5, 'interaction': 28}
+{'overall': 3.7239910313901343, 'cmc': 3.484375, 'ramp': 2, 'draw': 5, 'interaction': 28, 'folder': 'manual_rand', 'commander': 'GimliCounterofKills.txt'}

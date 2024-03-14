@@ -62,4 +62,4 @@
 1 Wasteland Scorpion
 1 Wake the Dead
 1 Vines of Vastwood
-{'overall': 5.375, 'cmc': 3.8095238095238093, 'ramp': 5, 'draw': 13, 'interaction': 7}
+{'overall': 5.375, 'cmc': 3.8095238095238093, 'ramp': 5, 'draw': 13, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}

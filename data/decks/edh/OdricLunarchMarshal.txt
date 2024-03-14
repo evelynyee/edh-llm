@@ -62,4 +62,4 @@
 1 Skeleton Key
 1 Eater of Virtue
 1 Chariot of Victory
-{'overall': 5.411111111111111, 'cmc': 2.8125, 'ramp': 10, 'draw': 7, 'interaction': 9}
+{'overall': 5.411111111111111, 'cmc': 2.8125, 'ramp': 10, 'draw': 7, 'interaction': 9, 'folder': 'edh', 'commander': 'OdricLunarchMarshal.txt'}

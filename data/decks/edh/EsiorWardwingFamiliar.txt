@@ -62,4 +62,4 @@
 1 Ponder
 1 Commander's Plate
 1 The Magic Mirror
-{'overall': 6.045652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 10, 'interaction': 12}
+{'overall': 6.045652173913043, 'cmc': 2.875, 'ramp': 9, 'draw': 10, 'interaction': 12, 'folder': 'edh', 'commander': 'EsiorWardwingFamiliar.txt'}

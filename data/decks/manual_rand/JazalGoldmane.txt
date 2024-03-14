@@ -62,4 +62,4 @@
 1 Shield of the Avatar
 1 Virtue of Loyalty // Ardenvale Fealty
 1 Silverflame Ritual
-{'overall': 2.392857142857143, 'cmc': 3.111111111111111, 'ramp': 1, 'draw': 5, 'interaction': 5}
+{'overall': 2.392857142857143, 'cmc': 3.111111111111111, 'ramp': 1, 'draw': 5, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'JazalGoldmane.txt'}

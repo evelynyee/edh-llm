@@ -1,0 +1,65 @@
+1 Ao, the Dawn Sky
+1 Urza's Incubator
+1 Spine of Ish Sah
+1 Tempt with Glory
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 The Rack
+1 Visionary Augmenter
+1 War Room
+1 Workhorse
+1 Thran Portal
+1 Terramorphic Expanse
+1 Wheel of Torture
+1 Study Break
+1 Zuran Orb
+1 Treasure Chest
+1 Trustworthy Scout
+1 Soul-Strike Technique
+1 Sphinx-Bone Wand
+1 Whetwheel
+1 Spellbinder
+1 Windshaper Planetar
+1 Zenith Chronicler
+1 Worry Beads
+1 Ugin, the Spirit Dragon
+1 Tithe
+1 Together Forever
+1 Sunbird Standard // Sunbird Effigy
+1 Ulamog, the Ceaseless Hunger
+1 Yavimaya, Cradle of Growth
+1 War Priest of Thune
+1 Spark Rupture
+1 Stoic Farmer
+1 Thumbscrews
+1 Whirling Catapult
+1 Triassic Egg
+1 Sanguine Sacrament
+1 Treasure Keeper
+1 Skyclave Apparition
+1 Twinblade Geist // Twinblade Invocation
+1 Trap Digger
+1 Triumph of Saint Katherine
+1 Tragic Poet
+1 Union of the Third Path
+1 Sylvia Brightspear
+1 Sigil of the New Dawn
+1 Torii Watchward
+1 Vigil for the Lost
+1 Weapon Rack
+1 Time Bomb
+1 Tablet of Epityr
+1 Warhorn Blast
+1 The Fall of Lord Konda // Fragment of Konda
+1 Three Dreams
+1 Vanquish the Horde
+1 Wandering Champion
+1 The One Ring
+1 The Millennium Calendar
+1 Tetravus
+1 Welkin Hawk
+1 Tallowisp
+1 The Seedcore
+1 Thought-Knot Seer
+1 Teferi's Puzzle Box
+1 Thran Spider
+{'overall': 6.706635071090047, 'cmc': 3.296875, 'ramp': 4, 'draw': 19, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AotheDawnSky.txt'}

@@ -1,65 +1,65 @@
 1 Yarok, the Desecrated
-1 Wedding Invitation
-1 Vodalian Serpent
-1 Sylvan Echoes
-1 Wall of Deceit
-1 Tiller Engine
-1 Woodcutter's Grit
-1 Titania's Chosen
-1 Wirewood Symbiote
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Vampire Lacerator
-1 Voracious Null
-1 Wings of Hubris
-1 Twincast
-1 Zulaport Enforcer
-1 Thassa's Rebuff
-1 Virtue of Knowledge // Vantress Visions
-1 Volo, Itinerant Scholar
-1 Withering Boon
-1 Willow Satyr
-1 Veilstone Amulet
-1 War Tax
-1 Tale's End
-1 Vedalken Archmage
-1 Virulent Swipe
-1 Waterspout Elemental
-1 Svyelun of Sea and Sky
-1 Weapon Rack
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Witherbloom Pledgemage
-1 Wizard Replica
-1 Urborg Repossession
-1 Willbender
-1 Wingfold Pteron
-1 Walker of the Grove
-1 Wandering Archaic // Explore the Vastlands
-1 Wall of Frost
-1 Thrull Parasite
-1 Zuo Ci, the Mocking Sage
-1 The Everflowing Well // The Myriad Pools
-1 Llanowar Elves
-1 Verazol, the Split Current
-1 Unblinking Observer
-1 Wild Growth
-1 Withdraw
-1 Zygon Infiltrator
+1 Tomakul Honor Guard
+1 Wicked Wolf
+1 Mind Stone
+1 Willow Priestess
+1 Vines of Vastwood
+1 Will of the Naga
+1 Tsabo's Web
+1 Tribute to Urborg
+1 Thoughtlace
+1 Untamed Kavu
+1 Vedalken Orrery
 1 Toshiro Umezawa
-1 Wren's Run Vanquisher
-1 Unspeakable Symbol
-1 Zagoth Mamba
-1 Vodalian Mystic
-1 Umara Entangler
-1 Treacherous Blessing
-1 Whip of Erebos
-1 Timbermare
-1 Take Possession
-1 Wild Onslaught
-1 Teferi's Talent
-1 Treetop Ambusher
-1 Umara Wizard // Umara Skyfalls
-1 Vodalian Knights
-1 Well of Life
+1 Wildgrowth Walker
+1 Will Kenrith
+1 Zephyr Sentinel
+1 Veil of Summer
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Force of Negation
+1 Sol Ring
+1 Vantress Paladin
+1 Urza's Chalice
+1 Tendrils of Agony
+1 Vexing Sphinx
+1 Wall of Deceit
+1 Verduran Enchantress
+1 Writhing Necromass
+1 Torment of Venom
+1 Weaver of Lies
+1 Tombstone Stairwell
+1 Thrull Wizard
+1 Wolfrider's Saddle
+1 Ulvenwald Mystics // Ulvenwald Primordials
 1 Urborg Skeleton
-1 Wreck Hunter
-{'overall': 4.360194174757281, 'cmc': 3.0294117647058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}058822, 'ramp': '5', 'draw': '9', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}
+1 Zombie Cutthroat
+1 Yavimaya Ants
+1 Vraska, Golgari Queen
+1 Wizard Replica
+1 Urza's Blueprints
+1 Vedalken Archmage
+1 Witch of the Moors
+1 Transmogrifying Wand
+1 Urza's Incubator
+1 Wild Mammoth
+1 Vexing Scuttler
+1 Voidslime
+1 Wu Longbowman
+1 Twilight's Call
+1 Wizard's Retort
+1 Warden of Evos Isle
+1 Zephyr Singer
+1 Vertigo Spawn
+1 Wing Commando
+1 Waterwind Scout
+1 Wild Onslaught
+1 Torgaar, Famine Incarnate
+1 Tormented Hero
+1 Ugin's Nexus
+1 Thunderhead Squadron
+1 Treacherous Blessing
+1 Whispering Snitch
+1 Wavebreak Hippocamp
+1 Traxos, Scourge of Kroog
+1 Waterspout Djinn
+{'overall': 4.513876651982379, 'cmc': 3.546875, 'ramp': 3, 'draw': 11, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'YaroktheDesecrated.txt'}
