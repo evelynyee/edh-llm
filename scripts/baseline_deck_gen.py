@@ -4,10 +4,10 @@ import pandas as pd
 import pickle
 from scrape_cardlists import DATA_PATH
 BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
-BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "baseline")
+BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "cos_sim")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
 MANUAL_SAVE = os.path.join(DATA_PATH, "decks", "manual_rand")
-EDH_SAVE = os.path.join(DATA_PATH, "decks", "edh")
+EDH_SAVE = os.path.join(DATA_PATH, "decks", "edhrec")
 
 
 def load_data(fp):
