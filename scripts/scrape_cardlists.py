@@ -15,6 +15,9 @@ DATA_PATH = os.path.abspath(os.path.join('..','data'))
 CARDLISTS_PATH = os.path.join(DATA_PATH,'edhreclists.pkl')
 
 def format_card_name(card_name:str):
+    """
+    Formats a card name to be used in a URL for querying from EDHREC.
+    """
     first_card = card_name.split("//")[0].strip() # If the card is a split card, only use the first card
     non_alphas_regex = "[^\w\s-]" # Remove everything that's not alphanumeric or space or hyphen
     formatted_name = unidecode(first_card) # remove diacritics
@@ -26,6 +29,14 @@ def format_card_name(card_name:str):
     return formatted_name
 
 def request_json(name:str, is_commander, redirect=''):
+    """
+    Request JSON data from EDHREC for a card.
+
+    Parameters:
+    - name: card name
+    - is_commander: boolean indicating whether the card is a commander
+    - redirect: string indicating a redirect URL (optional)
+    """
     formatted_name = format_card_name(name)
     if redirect:
         print(f"Redirected to {redirect}")

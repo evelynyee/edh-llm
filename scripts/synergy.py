@@ -8,6 +8,7 @@ import sys
 import time
 from tqdm import tqdm
 DECK_PATH = os.path.abspath(os.path.join('..', 'data','decks'))
+BASIC_LANDS = ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes']
 
 def synergy(a,b, lists, a_is_commander=False):
     """
@@ -87,6 +88,8 @@ def evaluate_deck(commander, deck, lists):
     commander_sim = []
     co_card_sim = []
     print(f'evaluating deck: {commander}')
+    start = time.localtime()
+    print(f'start time: {time.asctime(start)}')
     failed = set()
     for i in tqdm(range(len(deck))):
         card = deck[i]
@@ -112,6 +115,9 @@ def evaluate_deck(commander, deck, lists):
             print(e)
             failed.add(a)
             continue
+    end = time.localtime()
+    print(f'end time: {time.asctime(end)}')
+    print(f'time elapsed: {time.mktime(end) - time.mktime(start)} seconds')
     return mean(commander_sim), mean(co_card_sim), lists
 
 # Set up command-line arguments parser
@@ -122,24 +128,27 @@ parser.add_argument("--path", type=str, required=True,
                     help="directory that contains the text files of decklists to be evaluated.")
 args = parser.parse_args()
 
-# Load the cardlists
-lists = pickle.load(open(CARDLISTS_PATH, 'rb')) # synergy data
-decklists = {}
-deck_path = os.path.join(DECK_PATH, args.path)
+# Load the previously-queried synergy data
+lists = pickle.load(open(CARDLISTS_PATH, 'rb'))
+deck_path = os.path.join(DECK_PATH, args.path) # path to the folder which has all of the decks of that type
 print(deck_path)
 synergy_path = os.path.join(deck_path, 'synergy.pkl')
 syn_dict = {}
 if os.path.isfile(synergy_path):
     with open(synergy_path, 'rb') as f:
         syn_dict = pickle.load(f)
+
+# list of deck files
 deckfiles = os.listdir(deck_path)
+deckfiles = [f for f in deckfiles if f.endswith('.txt')]
 
 def cleanup (signum, frame):
     """
-    Clean up and close lists file.
+    Clean up and save data before exiting.
     """
     if signum:
         print(f'Process killed on {time.asctime(time.localtime())}, with signal number {signum}.')
+    print('Total decks evaluated:',len(syn_dict))
     pre_lists = pickle.load(open(CARDLISTS_PATH, 'rb'))
     if pre_lists != lists: # new cards were added, so save the updated lists
         print('Saving updated cardlists.')
@@ -150,31 +159,33 @@ def cleanup (signum, frame):
         with open(synergy_path, 'wb') as f:
             pickle.dump(syn_dict, f)
     sys.exit()
+# perform cleanup if program is killed or interrupted
 signal.signal(signal.SIGTERM, cleanup)
 signal.signal(signal.SIGINT, cleanup)
 
 for f in deckfiles:
+    # read in deck from txt file
     deck = []
-    try:
-        deck = []
-        with open(os.path.join(deck_path, f), 'r', encoding='utf-8') as file:
-            deck = file.readlines()
-        deck = [card.split(' ', 1)[1].strip() for card in deck
-                if '{' not in card and len(card.strip()) > 0] # ignore previous metrics and empty lines
-        if deck[0] in syn_dict: # already processed
-            # print('Already processed:',syn_dict[deck[0]])
-            continue
-        else:
-            print(f"Processing {deck_path} - {f}")
-        print(deck)
-        mean_commander, mean_co_card, lists = evaluate_deck(deck[0], deck[1:], lists)
-        record = {'commander_synergy':mean_commander, 'card_synergy':mean_co_card}
-        syn_dict[deck[0]] = record
-        print(record)
-        print('Total decks evaluated:',len(syn_dict))
-        # with open(os.path.join(deck_path, f), 'a', encoding='utf-8') as file:
-        #     file.write('\n'+str(record)+'\n')
-    except Exception as e:
-        print(e)
+    with open(os.path.join(deck_path, f), 'r', encoding='utf-8') as file:
+        deck = file.readlines()
+    deck = [card.split(' ', 1)[1].strip() for card in deck
+            if '{' not in card # ignore previous metrics
+            and len(card.strip()) > 0 # ignore empty lines
+            and card.split(' ', 1)[1].strip() not in BASIC_LANDS] # ignore basic lands
+    if deck[0] in syn_dict: # already processed
+        # print('Already processed:',syn_dict[deck[0]])
         continue
+    else:
+        print(f"Processing {deck_path} - {f}")
+    print(deck)
+    print(len(deck))
+
+    # evaluate the deck
+    mean_commander, mean_co_card, lists = evaluate_deck(deck[0], deck[1:], lists)
+    record = {'commander_synergy':mean_commander, 'card_synergy':mean_co_card}
+    syn_dict[deck[0]] = record
+    print(record)
+    print('Total decks evaluated:',len(syn_dict))
+
+# save the updated synergy data
 cleanup(False, None)
