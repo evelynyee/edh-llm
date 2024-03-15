@@ -18,6 +18,9 @@ def load_data(fp):
 
 
 def gen_manual_rand():
+    """
+    Writes manual_rand decks to folder
+    """
     manual = load_data(MANUAL_PATH)
 
     for col in tqdm(manual):
@@ -30,6 +33,9 @@ def gen_manual_rand():
                 f.write(str(calculate_power(os.path.join(MANUAL_SAVE, cmdr_f))))
 
 def gen_cos_sim():
+    """
+    Writes cos_sim decks to folder
+    """
     all_decks = pd.read_pickle(BASE_PATH)
     for col in tqdm(all_decks):
         cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
@@ -41,6 +47,10 @@ def gen_cos_sim():
             f.write(str(calculate_power(os.path.join(BASE_PWR_PATH, cmdr_f))))
 
 def gen_edhrec():
+    """
+    Writes edhrec decks to folder
+    """
+    manual = load_data(MANUAL_PATH)
     edhrec = load_data(os.path.join(DATA_PATH, "edhreclists.pkl"))
     edhrec = pd.DataFrame(edhrec)
     for commander in tqdm(edhrec[[i in manual.columns for i in edhrec.index]].index):
