@@ -1,3 +1,9 @@
+"""
+Use ChatGPT to rerank the manual candidate pool based on the current deck and target power level.
+Select 5 cards at a time until the deck has 64 cards, including the commander.
+(The remaining 36 cards are assumed to be basic lands.)
+"""
+
 from openai import OpenAI
 import pickle
 from scripts.power_calculator import calculate_power
@@ -13,15 +19,15 @@ data = load_data(os.path.abspath("../data/decks/manual.pkl"))
 def build_deck(cmdr, target_power = {'overall': 9, 'cmc': 1.74, 'ramp': 18, 'draw': 20, 'interaction': 14}):
     """
     Creates a deck for a commander based on the candidate pools targeting the passed in power level
-    
+
     Parameters:
     - cmdr: commander name
     - target_power: dictionary with 'overall', 'cmc', 'ramp', 'draw', 'interaction' stats
 
     Returns:
-    None, writes deck to data/decks/gpt/{cmdr}.txt 
+    None, writes deck to data/decks/gpt/{cmdr}.txt
     """
-    pool = set(data[cmdr])      
+    pool = set(data[cmdr])
     #target_power = calculate_power('../data/test_deck.txt')
     cur_power = 0
     client = OpenAI()
@@ -52,7 +58,7 @@ def build_deck(cmdr, target_power = {'overall': 9, 'cmc': 1.74, 'ramp': 18, 'dra
             except:
                 time.sleep(60)
                 build_deck(cmdr)
-            
+
             #Remove picked cards from pool and add to deck
             picked = completion.choices[0].message.content.split('; ')
             for card in picked:

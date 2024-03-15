@@ -1,10 +1,14 @@
+"""
+Gather processed data from candidate pools into deck text files for the baseline decks.
+"""
+
 from power_calculator import calculate_power
 import os
 import pandas as pd
 import pickle
 from tqdm import tqdm
 from scrape_cardlists import DATA_PATH
-BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
+BASE_PATH = os.path.join(DATA_PATH, "decks", "cos_sim.pkl")
 BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "cos_sim")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
 MANUAL_SAVE = os.path.join(DATA_PATH, "decks", "manual_rand")
@@ -24,7 +28,7 @@ def gen_manual_rand():
     manual = load_data(MANUAL_PATH)
 
     for col in tqdm(manual):
-            cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
+            cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"
             with open(os.path.join(MANUAL_SAVE, cmdr_f), "w") as f:
                 f.write(f"1 {col}\n")
                 for row in manual[col].sample(63):
@@ -38,7 +42,7 @@ def gen_cos_sim():
     """
     all_decks = pd.read_pickle(BASE_PATH)
     for col in tqdm(all_decks):
-        cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
+        cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"
         with open(os.path.join(BASE_PWR_PATH, cmdr_f), "w") as f:
             f.write(f"1 {col}\n")
             for row in all_decks[col]:

@@ -1,5 +1,8 @@
-# Save cardlists for each commander to pickle files.
-# Adapted from https://github.com/AlteriusOmega/edhrec_json_to_txt
+"""
+Get EDHRec cardlists (i.e. candidate pools) for each commander.
+Queries to EDHRec API and saves results to pickle files.
+Adapted from https://github.com/AlteriusOmega/edhrec_json_to_txt
+"""
 import argparse
 import os
 import pickle
