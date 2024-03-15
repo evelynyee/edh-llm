@@ -9,9 +9,9 @@ In our project, we propose a novel system for generating playable decks for the 
 ## What is EDH?
 Magic the Gathering is a deck-building card game where players collect cards and assemble custom decks to play against each other. The Elder Dragon Highlander (EDH) format is loosely structured for deck-building; players must select a Commander card (see below) to lead 99 other cards in a 1v1v1v1 last-man-standing format.
 
-<img src="AtraxaPraetorsVoice033__72510.jpeg" alt="Commander card" width="300" style="text-align:center;"/>
+<img src="AtraxaPraetorsVoice033__72510.jpeg" alt="Sample commander card" width="50%" style="display: block;margin: 0 auto;"/>
 
-Sample commander card: Atraxa, Praetors' Voice
+<div style="text-align:center;">Sample commander card: Atraxa, Praetors' Voice</div>
 
 ### The deck building problem
 Building a successful deck necessitates the following considerations with varying levels of subjectivity:
@@ -30,7 +30,7 @@ Building a successful deck necessitates the following considerations with varyin
     • Rule Zero: Decks must be fun to play with and play against. This can be achieved by building a deck that is, on average, of comparable speed/strength to other decks in the playgroup.
 
 ## Our pipeline
-![A diagram demonstrating our pipeline, from Magic the Gathering cards and a specified commander to the final deck suggestion.](pipeline_diagram.png)
+<img src="pipeline_diagram.png" alt="A diagram demonstrating our pipeline, from Magic the Gathering cards and a specified commander to the final deck suggestion." width="100%" style="display: block;margin: 0 auto;"/>
 
 1. Gather database of all Magic: The Gathering cards
 2. Convert each card's text to its vector representation
@@ -49,30 +49,30 @@ With our data consisting primarily of text, NLP tools, such as ChatGPT, can help
 
 ### Baselines
 We evaluate our pipeline against three alternative methods for building EDH Decks:
-- **Popularity Baseline:** Select the top cards which are most frequently played with the selected Commander, according to historical play data from EDHRec1
+- **EDHRec Popularity Baseline:** Select the top cards which are most frequently played with the selected Commander, according to historical play data from EDHRec
 - **Embedding-only Baseline:** Gather the top cards from each vector-embedding candidate pool, without any reranking by GPT-3.5.
-
+- **Random Baseline:** Randomly select 63 cards from the vector-embedding candidate pool plus the staples pool.
 ### Synergy
 ![Synergy Formula](synergy-formula.png)
 
 We estimate the synergy between a pair of cards through a Bayesian probability measure, based on card co-occurrence in decklist data from EDHRec.1 For each deck, we record the average synergy over all pairs of non-basic cards as well as the Commander synergy between each non-commander card and the commander.
 
-![TODO: INSERT SYNERGY RESULTS TABLES/GRAPHS]()
+![Synergy Distributions](card_synergy_histogram.png)
 
 ### Power Level
 ![Power Level Formula](power-formula.png)
 
-We use [an online EDH deck power calculator](https://edhpowercalculator.com/) for evaluating the power level of an EDH deck based on the distribution of functional card types during gameplay. A powerful deck should have a balance of card draw, interaction, and speed for a low cost. The original formula was created by the blogger [Disciple of the Vault](discipleofthevault.com/2020/11/18/my-edh-power-level-formula/).
+We use [an online EDH deck power calculator](https://edhpowercalculator.com/) for evaluating the power level of an EDH deck based on the distribution of functional card types during gameplay. A powerful deck should have a balance of a low average converted mana cost(cmc) (A), card draw (D), deck searching/tutoring (T), mana ramp (R) and interaction/removal (I).2 The original formula was created by the blogger [Disciple of the Vault](discipleofthevault.com/2020/11/18/my-edh-power-level-formula/).
 
-![TODO: INSERT POWER RESULTS TABLES/GRAPHS]()
-
-### Subjective Evaluation
-Additionally, we perform some human evaluation to assess the subjective, domain-informed performance of our generated decks.
-
-![TODO: INSERT HUMAN RESULTS TABLES/GRAPHS]()
+![Overall Power Distributions](power_distributions.png)
+![Feature Power Distributions](distributions.png)
 
 ## Conclusion
-TODO: CONCLUSION
+
+The Synergy EDHRec baseline decks were built solely from the co-play frequency of each card with the commander. As a result, these decks have higher synergy scores than the rest, especially for the commander synergy heuristic. For the other three deck-building systems, the commander synergy scores seem similar. However, for the average synergy (between all pairs of non-commander cards), our final decks seem to demonstrate slightly lower synergy than the other two baselines, which is explained by the greater diversity in card roles. Our GPT algorithm (by design) aims to combine both synergistic cards with generic goodstuff 'staples.' These staples, while not the most synergistic, are necessary to balance out the needs of the deck. For example, "Marneus Calgar" is a commander with strong card draw and synergizes with token creation. However, a successful deck still requires ramp and interaction cards, which in this case lower the synergy score but increase power scores. In general, our GPT model tended to pick these staples at a higher rate than our other two homebrewed baselines, explaining the lower avereage synergy but higher average power.
+
+# Further Discussion
+These results illustrate the complexity of the deck building task. Power level seems to be a balancing act of synergistic cards with staples. Additionally, our deck evaluation does not directly include tutors or combos, which are common for high level play (cEDH). Further experiementation with the inclusion of these factors could potentially see GPT rise in power level. Additionally, we wrote the GPT algorithm to accept a custom target power level but did not extensively test with different power levels, instead opting for a high power target to compare with EDHrec. It should be reiterated that the goal of this tool is not to write an algorithm that creates the highest power level possible but rather one that can create decks comparable to an existing deck for fun casual gameplay. However, this is custimization capability was not able to be extensively tested and may require more prompt engineering to fully develop.
 
 ## Contact
 - Theodore Hui: tchui@ucsd.edu
