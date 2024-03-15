@@ -89,4 +89,3 @@ Our results illustrate the complexity of the deck building task, and in the futu
 - Linus Lin: l6lin@ucsd.edu
 - Evelyn Yee: eyee@ucsd.edu
 - Jingbo Shang: jshang@ucsd.edu
-![Halıcıoğlu Data Science Institute.](hdsi-blue-gold.png)
