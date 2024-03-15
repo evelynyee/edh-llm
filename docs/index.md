@@ -83,11 +83,10 @@ In this project, we developed a custom pipeline for suggesting decks for the EDH
 
 Our results illustrate the complexity of the deck building task, and in the future, we hope to further explore the customizeability of our system, catering deck suggestions to an individual player's needs, including their playstyle, target strength, and competitors.
 
+
 ## Contact
 - Theodore Hui: tchui@ucsd.edu
 - Linus Lin: l6lin@ucsd.edu
 - Evelyn Yee: eyee@ucsd.edu
 - Jingbo Shang: jshang@ucsd.edu
 ![Halıcıoğlu Data Science Institute.](hdsi-blue-gold.png)
-
-
