@@ -124,13 +124,13 @@ def evaluate_deck(commander, deck, lists):
 parser = argparse.ArgumentParser()
 
 # Add arguments
-parser.add_argument("--path", type=str, required=True,
+parser.add_argument("--decktype", type=str, required=True,
                     help="directory that contains the text files of decklists to be evaluated.")
 args = parser.parse_args()
 
 # Load the previously-queried synergy data
 lists = pickle.load(open(CARDLISTS_PATH, 'rb'))
-deck_path = os.path.join(DECK_PATH, args.path) # path to the folder which has all of the decks of that type
+deck_path = os.path.join(DECK_PATH, args.decktype) # path to the folder which has all of the decks of that type
 print(deck_path)
 synergy_path = os.path.join(deck_path, 'synergy.pkl')
 syn_dict = {}

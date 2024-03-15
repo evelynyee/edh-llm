@@ -1,3 +1,8 @@
+"""
+Scrape commanders from EDHRec and perform validation-test split.
+Save results to pickle file.
+"""
+
 import random
 import requests
 import json

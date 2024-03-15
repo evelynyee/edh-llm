@@ -1,4 +1,8 @@
-
+"""
+Calculates the power level of a deck.
+Uses the cardsrealm power level calculator to get counts for ramp, draw, CMC, and interaction,
+and then uses Disciple of the Vault's formula to calculate the overall power level.
+"""
 import time
 import os
 from selenium import webdriver
@@ -63,7 +67,7 @@ def calculate_power(filepath):
         #Ramp
         ramp = int(driver.find_element(By.ID, "total_ramp").get_attribute("value"))
 
-        
+
         draw = int(driver.find_element(By.ID, "total_draw").get_attribute("value"))
 
         tutor = int(driver.find_element(By.ID, "total_tutor").get_attribute("value"))

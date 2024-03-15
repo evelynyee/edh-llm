@@ -1,3 +1,7 @@
+"""
+Generate candidate pools and decks for cos_sim and manual decks.
+"""
+
 import os
 import pickle
 import numpy as np
@@ -8,18 +12,17 @@ from nltk.tokenize import word_tokenize
 from sklearn.preprocessing import MinMaxScaler
 from gensim.models import Word2Vec
 
-from baseline_decks import baseline
-from manual_decks import manual
+from candidate_utils import cos_sim, manual
 from selection import build_deck
 from power_calculator import calculate_power
 from scrape_cardlists import DATA_PATH
 
 CARDS_PATH = os.path.join(DATA_PATH, "cards_unique.pkl")
 COMMANDERS_PATH = os.path.join(DATA_PATH, "commanders.pkl")
-BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
-BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "baseline")
+BASE_PATH = os.path.join(DATA_PATH, "decks", "cos_sim.pkl")
+BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "cos_sim")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
-BUILT_PATH = os.path.join(DATA_PATH, "decks",'gpt')
+BUILT_PATH = os.path.join(DATA_PATH, "decks",'edh-llm')
 POWER_PATH = os.path.join(BUILT_PATH, "power")
 
 def load_data(fp):
@@ -46,7 +49,7 @@ def tokenize(text):
 def clean_data(cards, commanders):
     """
     Performs multiple transformations on data, such as filtering, tokenizing text, and extracting keywords.
-    
+
     :param cards: DataFrame containing information of each non-commander card, such as name, text, and color
     :param commanders: DataFrame containing information of each commander card, such as name, text, and color
     :returns: tuple containing all cleaned data, cleaned non-commander card data, and cleaned commander data
@@ -74,7 +77,7 @@ def clean_data(cards, commanders):
 def train_model(cards_clean):
     """
     Trains Word2Vec model on card text.
-    
+
     :param cards_clean: cleaned DataFrame containing information on all cards
     :returns: trained Word2Vec model
     """
@@ -83,7 +86,7 @@ def train_model(cards_clean):
 def save_decks(results_df, fp):
     """
     Saves decks to pickles.
-    
+
     :param results_df: decks to save
     :param fp: filepath to save decks to
     """
@@ -92,19 +95,19 @@ def save_decks(results_df, fp):
     #results_df.to_pickle(fp)
     #all_decks = pd.read_pickle(BASE_PATH)
     #for col in all_decks:
-    #    cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"        
+    #    cmdr_f = "".join(x for x in col if x.isalnum()) + ".txt"
     #    with open(os.path.join(BASE_PWR_PATH, cmdr_f), "w") as f:
     #        f.write(f"1 {col}\n")
     #        for row in all_decks[col]:
     #            f.write(f"1 {row}\n")
     #    with open(os.path.join(BASE_PWR_PATH, cmdr_f), "a") as f:
     #        f.write(str(calculate_power(os.path.join(BASE_PWR_PATH, cmdr_f))))
-        
+
 
 def build_decks(commander_texts):
     """
     Builds deck for each commander
-    
+
     :param commander_texts: cleaned DataFrame containing information of each commander, such as name, text, and color
     """
     for commander in commander_texts["name"]:
@@ -113,7 +116,7 @@ def build_decks(commander_texts):
 def evaluate_decks(commander_texts):
     """
     Evaluates deck for each commander
-    
+
     :param commander_texts: cleaned DataFrame containing information of each commander, such as name, text, and color
     """
     for commander in commander_texts["name"]:
@@ -123,16 +126,16 @@ def evaluate_decks(commander_texts):
 
 def main():
     """
-    Builds and evaluates baseline and manually created decks.
+    Builds and evaluates cos_sim and manually created decks.
     """
     cards = load_data(CARDS_PATH)
     commanders = load_data(COMMANDERS_PATH)
 
     cards_clean, commander_texts, card_texts = clean_data(cards, commanders)
-    
+
     model = train_model(cards_clean)
 
-    results_base, results_base_all = baseline(card_texts, commander_texts, model)
+    results_base, results_base_all = cos_sim(card_texts, commander_texts, model)
     results_manual = manual(card_texts, commander_texts, model, results_base_all)
     save_decks(results_base, BASE_PATH)
     save_decks(results_manual, MANUAL_PATH)
