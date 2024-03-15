@@ -1,69 +1,65 @@
 1 Gahiji, Honored One
-1 Warmind Infantry
-1 Venom
-1 Witherscale Wurm
-1 Viridescent Wisps
-1 Victory's Herald
-1 Village Watch // Village Reavers
-1 Whipkeeper
-1 Yare
-1 Take Heart
-1 Withstand Death
-1 Wall of Reverence
-1 Woolly Spider
-1 Total War
-1 Warrior's Honor
-1 Treasure Nabber
-1 Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha
-1 Wasteland Viper
-1 Vengeful Ancestor
-1 Wojek Bodyguard
-1 Warmonger's Chariot
-1 Threaten
-1 Wooden Stake
-1 Towashi Songshaper
-1 Wrath of God
-1 Zerapa Minotaur
-1 Time to Reflect
-1 Untamed Might
-1 Tegan Jovanka
-1 Wildwood Mentor
-1 Wing Snare
-1 Taunting Challenge
-1 Thran Forge
-1 Unwilling Recruit
-1 Warchief Giant
-1 Welkin Guide
-1 Sword of Feast and Famine
-1 Takeno, Samurai General
-1 Vitalizing Wind
-1 Turn Against
-1 Théoden, King of Rohan
-1 Vigilance
-1 Yavimaya Steelcrusher
+1 Éowyn, Fearless Knight
 1 Wild Might
-1 Zodiac Ox
-1 Webspinner Cuff
-1 Tormentor Exarch
-1 Veteran Cathar
-1 Thundersteel Colossus
-1 Thorned Moloch
-1 Unflinching Courage
-1 Thicket Basilisk
+1 Thorncaster Sliver
+1 Traveling Minister
+1 Yosei, the Morning Star
+1 Warmonger Hellkite
+1 Veteran's Armaments
+1 Veteran Cavalier
+1 Vampiric Fury
+1 Warlord's Axe
+1 Tandem Takedown
+1 Warrior's Stand
+1 Mentor of the Meek
+1 Vow of Lightning
 1 War Elephant
-1 Wrap in Flames
-1 Seedborn Muse
-1 Unnatural Speed
-1 Syr Alin, the Lion's Claw
-1 Wall of Shields
-1 Themberchaud
-1 Suq'Ata Lancer
-1 Wyluli Wolf
-1 _____ _____ Rocketship
-1 Taranika, Akroan Veteran
-1 Zendikar Farguide
-1 Trumpet Blast
-1 Vildin-Pack Outcast // Dronepack Kindred
+1 Tori D'Avenant, Fury Rider
+1 Xenagos, God of Revels
+1 Vizier of the True
+1 Trumpeting Armodon
+1 Thunder Strike
+1 Zodiac Horse
+1 Weatherseed Elf
+1 Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier
+1 Viashino Shanktail
+1 Wax // Wane
+1 Unchecked Growth
+1 Vanquisher's Axe
+1 Vine Snare
+1 Zabaz, the Glimmerwasp
+1 Tyvar's Stand
+1 Mana Vault
+1 Veteran Warleader
+1 Twisted Fealty
+1 Twinblade Slasher
+1 Tundra Kavu
+1 Yamabushi's Flame
+1 Wolf Pack
 1 Vertigo
-1 Walking Bulwark
-{'overall': 1.6336909871244636, 'cmc': 3.426470588235294, 'ramp': '1', 'draw': '1', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}
+1 Syr Faren, the Hengehammer
+1 Town Sentry
+1 Wrath of God
+1 Wilson, Refined Grizzly
+1 War Barge
+1 Watchdog
+1 Wall of Shields
+1 Zhalfirin Knight
+1 Thorned Moloch
+1 Rampant Growth
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Truefire Captain
+1 Trusty Machete
+1 Vintara Elephant
+1 Vigilance
+1 Takeno, Samurai General
+1 Zhalfirin Crusader
+1 Sword of Sinew and Steel
+1 Webspinner Cuff
+1 Tyrant's Familiar
+1 Zelyon Sword
+1 Tribal Unity
+1 Voice of the Vermin
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Two-Handed Axe // Sweeping Cleave
+{'overall': 1.8676470588235294, 'cmc': 3.238095238095238, 'ramp': 2, 'draw': 1, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'GahijiHonoredOne.txt'}

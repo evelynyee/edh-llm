@@ -1,69 +1,65 @@
 1 Alandra, Sky Dreamer
-1 Sparkshaper Visionary
-1 Zoetic Glyph
-1 Test of Talents
-1 Ugin, the Ineffable
-1 You See a Guard Approach
-1 Tunnel of Love
-1 Taigam's Strike
-1 The Unspeakable
-1 Whirlpool Whelm
-1 Weave Fate
-1 Spy Kit
-1 Urza's Chalice
-1 Weldfast Wingsmith
-1 Triskaidekaphile
-1 Wind Dancer
-1 Well of Life
-1 Whirlpool Drake
-1 Vanquisher's Banner
-1 The Reality Chip
-1 Tempting Contract
-1 Stolen Identity
-1 Threnody Singer
-1 Will Kenrith
-1 Brainstorm
-1 Wizard's Retort
-1 Trench Gorger
-1 Stream of Unconsciousness
-1 Tezzeret's Gatebreaker
-1 Walking Bulwark
-1 The Stone Brain
-1 Soulblade Djinn
-1 Whir of Invention
-1 Mana Drain
-1 Waterlogged Hulk // Watertight Gondola
-1 Tower of Champions
-1 Vorrac Battlehorns
-1 Wall of Forgotten Pharaohs
-1 Write into Being
-1 Ugin's Insight
-1 Wu Scout
-1 Tidal Wave
-1 Whalebone Glider
-1 Vex
-1 Tidings
-1 Tamiyo, the Moon Sage
-1 Wall of Tears
-1 Timesifter
-1 Weaver of Lies
-1 Trepanation Blade
-1 Trade Routes
-1 Wizard Class
-1 Time Elemental
-1 Three Wishes
-1 Zndrsplt, Eye of Wisdom
-1 Suit Up
+1 Unctus's Retrofitter
+1 Whiplash Trap
+1 Water Wings
+1 Xerex Strobe-Knight
 1 Soramaro, First to Dream
-1 Mana Vault
-1 Symmetry Sage
-1 Stitcher Geralf
-1 Skystrike Officer
-1 Witness Protection
-1 Wand of the Elements
-1 Voidmage Prodigy
-1 Waterkin Shaman
-1 Urza, Powerstone Prodigy
-1 Spellweaver Eternal
-1 Synchronized Eviction
-{'overall': 8.073853211009174, 'cmc': 3.2058823529411766, 'ramp': '5', 'draw': '24', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'}
+1 Thoughtcast
+1 Workshop Elders
+1 Thermal Navigator
+1 Serpentine Curve
+1 Slate of Ancestry
+1 Well of Ideas
+1 Waterlogged Hulk // Watertight Gondola
+1 Teferi's Talent
+1 Sword of Kaldra
+1 Vortex Elemental
+1 Uba Mask
+1 Veteran's Armaments
+1 Throne of the God-Pharaoh
+1 Time Lord Regeneration
+1 Tezzeret, Cruel Machinist
+1 Urza, Lord High Artificer
+1 Wilderness Hypnotist
+1 Umbilicus
+1 Wretched Gryff
+1 Teferi, Temporal Pilgrim
+1 Void Shatter
+1 Void Stalker
+1 Soulblade Djinn
+1 Witch's Oven
+1 Sundial of the Infinite
+1 Summoner's Egg
+1 Transmute Artifact
+1 Triskaidekaphile
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Touch of Brilliance
+1 Unctus, Grand Metatect
+1 The Mirari Conjecture
+1 Zephyr Singer
+1 Stolen Goods
+1 Tezzeret's Gatebreaker
+1 Windrider Wizard
+1 Toymaker
+1 Surveyor's Scope
+1 Titan's Presence
+1 Trickster Mage
+1 Wooden Sphere
+1 Unsubstantiate
+1 Shark Typhoon
+1 Vronos, Masked Inquisitor
+1 Tamiyo's Journal
+1 Zndrsplt's Judgment
+1 Ulamog, the Ceaseless Hunger
+1 Winged Words
+1 Whalebone Glider
+1 Thassa, God of the Sea
+1 Vulshok Gauntlets
+1 Treasure Chest
+1 Thassa's Bounty
+1 Walking Skyscraper
+1 Telemin Performance
+1 Well of Life
+1 Thaumatic Compass // Spires of Orazca
+1 Ulamog, the Infinite Gyre
+{'overall': 6.920325203252033, 'cmc': 3.84375, 'ramp': 3, 'draw': 22, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'AlandraSkyDreamer.txt'}

@@ -61,4 +61,4 @@
 1 Wojek Bodyguard
 1 Zhalfirin Commander
 1 Throne of Empires
-{'overall': 1.95625, 'cmc': 3.0476190476190474, 'ramp': '1', 'draw': '1', 'interaction': 16, 'folder': 'gpt', 'commander': 'IroasGodofVictory.txt'}
+{'overall': 1.95625, 'cmc': 3.0476190476190474, 'ramp': 1, 'draw': 1, 'interaction': 16, 'folder': 'gpt', 'commander': 'IroasGodofVictory.txt'}

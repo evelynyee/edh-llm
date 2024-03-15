@@ -1,69 +1,65 @@
 1 Tawnos, Urza's Apprentice
-1 Viscerid Drone
-1 Thermo-Alchemist
-1 Sudden Shock
-1 Toils of Night and Day
-1 Wing Commando
-1 Thassa's Rebuff
-1 Viashino Bladescout
-1 Turf Wound
-1 Vaporous Djinn
-1 Withdraw
-1 Wyll's Reversal
-1 The Everflowing Well // The Myriad Pools
-1 Wall of Tears
-1 Wall of Heat
-1 Vronos, Masked Inquisitor
-1 Tomb of Horrors Adventurer
-1 Zygon Infiltrator
-1 Wolf of Devil's Breach
-1 Volrath's Curse
-1 Village Watch // Village Reavers
-1 Storm King's Thunder
-1 Turn // Burn
-1 Train of Thought
-1 Wrap in Flames
-1 Trail of Evidence
-1 War Barge
-1 Yellow Scarves General
-1 Willbreaker
-1 Tidal Surge
-1 Thassa's Ire
-1 Young Pyromancer
-1 Volcanic Salvo
-1 Zoetic Cavern
-1 Veiled Sentry
-1 Wall of Frost
-1 Unblinking Observer
-1 Temporal Fissure
-1 Virtue of Knowledge // Vantress Visions
-1 Vedalken Orrery
-1 Tamiyo's Logbook
-1 Voltage Surge
-1 The Mirari Conjecture
-1 Traitorous Greed
-1 Word of Blasting
-1 Wurm's Tooth
-1 Stonybrook Banneret
-1 The Twelfth Doctor
-1 Waterfall Aerialist
+1 Wild Ricochet
+1 Veiled Serpent
 1 Treasure Cruise
-1 Wu Scout
-1 Warcry Phoenix
-1 Sword of Once and Future
-1 TARDIS
-1 Verity Circle
-1 Vexing Scuttler
-1 Tawnos's Wand
-1 Touchstone
-1 Tooth of Chiss-Goria
-1 Wind-Kin Raiders
-1 Veyran, Voice of Duality
-1 Task Mage Assembly
-1 Vaultbreaker
-1 Zurgo Bellstriker
-1 Thunderbreak Regent
-1 Volo, Itinerant Scholar
-1 The Blackstaff of Waterdeep
-1 Voltaic Key
-{'overall': 4.299118942731278, 'cmc': 3.338235294117647, 'ramp': '3', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}
+1 Turbulent Dreams
+1 Sudden Shock
+1 Volrath's Laboratory
+1 Tomb of Horrors Adventurer
+1 Wall of Vapor
+1 Wind Spirit
+1 Whim of Volrath
+1 Tsabo's Web
+1 Tyrant of Valakut
+1 Storm of Saruman
+1 Village Messenger // Moonrise Intruder
+1 Volcanic Torrent
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 The Reality Chip
+1 Thud
+1 Spreading Insurrection
+1 Teferi's Talent
+1 Symmetry Sage
+1 Wicked Slumber
+1 Wild Guess
+1 Wand of Ith
+1 Vodalian Mystic
+1 Tangle Golem
+1 Urza's Filter
+1 Wall of Earth
+1 Witchbane Orb
+1 Vortex Elemental
+1 Stream of Thought
+1 Wizard's Spellbook
+1 Vedalken Engineer
+1 Wing Commando
+1 Umara Wizard // Umara Skyfalls
+1 Warbringer
+1 The Moment
+1 Wildfire Devils
+1 Thassa's Ire
+1 Word of Seizing
+1 Steelfin Whale
+1 Terror of the Peaks
+1 Vizier of Tumbling Sands
+1 Thunderclap
+1 Void Mirror
+1 Volshe Tideturner
+1 Force of Will
+1 Volcanic Awakening
+1 Unexplained Vision
+1 Twiddle
+1 Veiled Apparition
+1 Wizard Replica
+1 Vesuvan Duplimancy
+1 Victorious Destruction
+1 Viashino Bladescout
+1 Wall of Heat
+1 Unstable Footing
+1 Twinflame
+1 Stormscape Familiar
+1 Visions of Ruin
+1 Whir of Invention
+1 Threnody Singer
+1 Torch Breath
+{'overall': 4.937155963302752, 'cmc': 3.40625, 'ramp': 6, 'draw': 9, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'TawnosUrzasApprentice.txt'}

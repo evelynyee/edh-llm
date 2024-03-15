@@ -1,0 +1,101 @@
+1 Lathiel, the Bounteous Dawn
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Forest
+1 Plains
+1 Dragonscale General
+1 War Dance
+1 Camaraderie
+1 Sandsteppe War Riders
+1 Glissa's Retriever
+1 Undercity Upheaval
+1 Junkyo Bell
+1 Throne of the God-Pharaoh
+1 Court of Garenbrig
+1 Sunbringer's Touch
+1 Numa, Joraga Chieftain
+1 Nils, Discipline Enforcer
+1 Contortionist Troupe
+1 Storm the Seedcore
+1 Leinore, Autumn Sovereign
+1 Myojin of Towering Might
+1 Owlbear Shepherd
+1 Touch of the Eternal
+1 The Millennium Calendar
+1 Loxodon Peacekeeper
+1 Serra's Hymn
+1 Leonin Vanguard
+1 Vorinclex // The Grand Evolution
+1 Sage of Ancient Lore // Werewolf of Ancient Hunger
+1 Power Plant Worker
+1 Evolutionary Escalation
+1 Voodoo Doll
+1 Paladin of Atonement
+1 Putrefax
+1 Dormant Grove // Gnarled Grovestrider
+1 Avabruck Caretaker // Hollowhenge Huntmaster
+1 Pests of Honor
+1 Biogenic Upgrade
+1 Vivien of the Arkbow
+1 Osai Vultures
+1 Wall of Reverence
+1 Sigardian Zealot
+1 Baldin, Century Herdmaster
+1 Centaur of Attention
+1 Towering Titan
+1 Clockwork Beast
+1 Torture Chamber
+1 Contaminant Grafter
+1 Ajani, Wise Counselor
+1 Clockwork Avian
+1 Stalwart Pathlighter
+1 Honor's Reward
+1 Vivien, Arkbow Ranger
+1 Samite Pilgrim
+1 Nykthos Paragon
+1 Packsong Pup
+1 Kjeldoran War Cry
+1 Triumph of Ferocity
+1 Atraxa's Skitterfang
+1 Tyrant Guard
+1 Hanweir Militia Captain // Westvale Cult Leader
+1 Invasion of Gobakhan // Lightshield Array
+1 Well of Life
+1 Jinxed Choker
+1 Goliath Hatchery
+1 Lux Artillery
+1 Ardenn, Intrepid Archaeologist
+1 Quirion Beastcaller
+{'overall': 3.4432098765432095, 'cmc': 3.6818181818181817, 'ramp': '1', 'draw': '10', 'interaction': 3, 'folder': 'cos_sim', 'commander': 'LathieltheBounteousDawn.txt'}}

@@ -1,69 +1,65 @@
 1 Jodah, Archmage Eternal
-1 Zoologist
-1 Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier
-1 Wild Onslaught
-1 Woodland Stream
-1 Vigilant Martyr
-1 Unwavering Initiate
-1 Zuran Orb
-1 Wizard's Retort
-1 World-Weary
-1 Witherbloom Campus
-1 Vizier of the Menagerie
-1 Wildfield Borderpost
-1 Xander's Pact
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Wolfbitten Captive // Krallenhorde Killer
-1 Urza, Lord High Artificer
-1 Wilt
-1 Walk the Aeons
-1 Urza's Blueprints
-1 Vadrok, Apex of Thunder
-1 Viashino Skeleton
-1 Woodland Acolyte // Mend the Wilds
-1 Wrath of God
-1 Whispersteel Dagger
-1 Thornscape Battlemage
-1 Yawgmoth's Will
-1 Tormenting Voice
-1 Words of Worship
-1 Young Blue Dragon // Sand Augury
-1 Yeva, Nature's Herald
-1 Zaxara, the Exemplary
-1 Yurlok of Scorch Thrash
-1 Weapon Surge
-1 Vex
-1 Veiling Oddity
-1 Walk with the Ancestors
-1 Voyager Drake
-1 Workshop Warchief
-1 Swords to Plowshares
-1 Ultramarines Honour Guard
-1 Unstable Hulk
-1 Seedborn Muse
-1 Unexpected Windfall
-1 Waterspout Elemental
-1 Visage of Bolas
-1 Volcanic Spray
-1 Whisperwood Elemental
-1 Winds of Abandon
-1 Diabolic Tutor
-1 Witchstalker Frenzy
-1 Welcome to . . . // Jurassic Park
-1 Zhentarim Bandit
-1 Windbrisk Heights
-1 Lightning Bolt
-1 Violent Eruption
-1 Tombstalker
-1 Zedruu the Greathearted
-1 Vexing Scuttler
-1 Witness of the Ages
+1 War Behemoth
+1 Torrent of Stone
+1 Whetwheel
+1 Underworld Charger
+1 Volcanic Awakening
+1 Untamed Kavu
+1 Vital Surge
+1 Viscera Dragger
+1 Vodalian Mage
+1 Wolfir Avenger
+1 Wolf of Devil's Breach
+1 Wooded Bastion
 1 Unblinking Bleb
-1 Tolarian Geyser
-1 Veinwitch Coven
-1 Mind Stone
-1 Urborg Repossession
-1 Vineshaper Prodigy
-1 Trinisphere
-1 Wild Leotau
-{'overall': 8.122649572649573, 'cmc': 3.4925373134328357, 'ramp': '11', 'draw': '17', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}
+1 Ziatora's Proving Ground
+1 Verduran Enchantress
+1 Viscerid Deepwalker
+1 Urza's Incubator
+1 Zendikar Resurgent
+1 Voidwalk
+1 Ulvenwald Captive // Ulvenwald Abomination
+1 _____ Goblin
+1 Volcanic Torrent
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Wooded Foothills
+1 Yavimaya Gnats
+1 Voltage Surge
+1 Wand of Ith
+1 Dark Ritual
+1 Verdant Touch
+1 Tolaria West
+1 Wand of Denial
+1 Tizerus Charger
+1 Vines of Vastwood
+1 Vexing Scuttler
+1 Thornscape Familiar
+1 Zuran Enchanter
+1 Wizard's Lightning
+1 Wand of Wonder
+1 Viashino Outrider
+1 Viashino Bladescout
+1 Wave of Terror
+1 Underground Sea
+1 Withering Boon
+1 Wing Shards
+1 Vadrok, Apex of Thunder
+1 Waterlogged Hulk // Watertight Gondola
+1 Voidmage Apprentice
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Voidmage Prodigy
+1 Treasure Cruise
+1 Verduran Emissary
+1 Vizkopa Confessor
+1 Uvilda, Dean of Perfection // Nassari, Dean of Expression
+1 Verdant Mastery
+1 Zagoth Crystal
+1 Urborg Lhurgoyf
+1 Volrath's Stronghold
+1 Wilt
+1 Warhorn Blast
+1 Tropical Island
+1 Waste Away
+1 Weaver of Lies
+1 Unbound Flourishing
+{'overall': 5.780541871921183, 'cmc': 3.171875, 'ramp': 8, 'draw': 11, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'JodahArchmageEternal.txt'}

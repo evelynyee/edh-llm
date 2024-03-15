@@ -62,6 +62,4 @@
 1 Vampire Neonate
 1 Willowdusk, Essence Seer
 1 The Chain Veil
-1 Tendrils of Corruption
-1 Vraska, Golgari Queen
-{'overall': 5.79390243902439, 'cmc': 3.106060606060606, 'ramp': '8', 'draw': '11', 'interaction': 8, 'folder': 'gpt', 'commander': 'BelbeCorruptedObserver.txt'}
+{'overall': 5.449746192893401, 'cmc': 3.078125, 'ramp': 8, 'draw': 10, 'interaction': 6, 'folder': 'gpt', 'commander': 'BelbeCorruptedObserver.txt'}

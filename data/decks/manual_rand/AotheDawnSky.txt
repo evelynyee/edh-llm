@@ -1,69 +1,65 @@
 1 Ao, the Dawn Sky
-1 Swords to Plowshares
-1 Swashbuckler's Whip
-1 Suncleanser
-1 Sword of the Ages
-1 Steamclaw
-1 Windswept Heath
-1 Wandering Archaic // Explore the Vastlands
-1 Wedding Announcement // Wedding Festivity
-1 Tangle Wire
-1 Thought Prison
-1 Toymaker
-1 Shrine of Piercing Vision
-1 Treasure Hunter
-1 Terrarion
-1 Silkwrap
-1 Sequestered Stash
-1 Skull of Orm
-1 Viseling
-1 Supply Runners
-1 Scour
-1 Stonehewer Giant
-1 Weapon Rack
-1 Vedalken Shackles
-1 _____ Bird Gets the Worm
-1 Soldevi Sentry
-1 Transmogrifying Wand
-1 Wondrous Crucible
-1 Vigil for the Lost
-1 The Seedcore
-1 Stonebinder's Familiar
-1 Triumph of Saint Katherine
-1 Suture Priest
-1 War Priest of Thune
-1 Sword of the Animist
-1 The One Ring
-1 Void Mirror
-1 Warhorn Blast
-1 Vizier of Remedies
-1 Austere Command
-1 Study Break
-1 Triassic Egg
-1 Soul-Strike Technique
-1 Vengeful Dreams
-1 Swell of Courage
-1 Treasure Map // Treasure Cove
-1 Totem-Guide Hartebeest
-1 Spark Rupture
-1 Trusty Retriever
-1 The Grey Havens
-1 Wingrattle Scarecrow
-1 Tragic Arrogance
-1 Venser's Journal
-1 Shoulder to Shoulder
-1 Wall of Mourning
-1 Seasoned Dungeoneer
-1 Sunscorch Regent
-1 Urborg, Tomb of Yawgmoth
-1 Syr Ginger, the Meal Ender
-1 Tariff
+1 Urza's Incubator
+1 Spine of Ish Sah
+1 Tempt with Glory
 1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 Symmetry Matrix
-1 Ward of Bones
-1 Vulpine Harvester
-1 Sword-Swallowing Seraph
+1 The Rack
+1 Visionary Augmenter
+1 War Room
+1 Workhorse
+1 Thran Portal
+1 Terramorphic Expanse
+1 Wheel of Torture
+1 Study Break
+1 Zuran Orb
+1 Treasure Chest
+1 Trustworthy Scout
+1 Soul-Strike Technique
+1 Sphinx-Bone Wand
+1 Whetwheel
+1 Spellbinder
+1 Windshaper Planetar
+1 Zenith Chronicler
+1 Worry Beads
+1 Ugin, the Spirit Dragon
+1 Tithe
+1 Together Forever
+1 Sunbird Standard // Sunbird Effigy
+1 Ulamog, the Ceaseless Hunger
+1 Yavimaya, Cradle of Growth
+1 War Priest of Thune
+1 Spark Rupture
 1 Stoic Farmer
-1 Second Sunrise
-1 Tocasia's Welcome
-{'overall': 5.976728110599078, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AotheDawnSky.txt'}
+1 Thumbscrews
+1 Whirling Catapult
+1 Triassic Egg
+1 Sanguine Sacrament
+1 Treasure Keeper
+1 Skyclave Apparition
+1 Twinblade Geist // Twinblade Invocation
+1 Trap Digger
+1 Triumph of Saint Katherine
+1 Tragic Poet
+1 Union of the Third Path
+1 Sylvia Brightspear
+1 Sigil of the New Dawn
+1 Torii Watchward
+1 Vigil for the Lost
+1 Weapon Rack
+1 Time Bomb
+1 Tablet of Epityr
+1 Warhorn Blast
+1 The Fall of Lord Konda // Fragment of Konda
+1 Three Dreams
+1 Vanquish the Horde
+1 Wandering Champion
+1 The One Ring
+1 The Millennium Calendar
+1 Tetravus
+1 Welkin Hawk
+1 Tallowisp
+1 The Seedcore
+1 Thought-Knot Seer
+1 Teferi's Puzzle Box
+1 Thran Spider
+{'overall': 6.706635071090047, 'cmc': 3.296875, 'ramp': 4, 'draw': 19, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'AotheDawnSky.txt'}

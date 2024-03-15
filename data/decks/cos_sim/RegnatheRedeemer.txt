@@ -1,0 +1,101 @@
+1 Regna, the Redeemer
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Trynn, Champion of Freedom
+1 Blaring Recruiter
+1 Keeper of the Accord
+1 Not Forgotten
+1 God-Eternal Oketra
+1 Wedding Announcement // Wedding Festivity
+1 White Sun's Zenith
+1 Thopter Assembly
+1 Canoptek Scarab Swarm
+1 Extricator of Sin // Extricator of Flesh
+1 Complaints Clerk
+1 Release to Memory
+1 Sunset Revelry
+1 Ajani, Adversary of Tyrants
+1 Summon the School
+1 Smuggler's Share
+1 Archangel Elspeth
+1 Scour the Desert
+1 Kayla's Command
+1 Myr Incubator
+1 Karn, Scion of Urza
+1 Druidic Satchel
+1 Myr Turbine
+1 Summoning Station
+1 Abdel Adrian, Gorion's Ward
+1 Gerrard's Hourglass Pendant
+1 Descend upon the Sinful
+1 Luminarch Ascension
+1 Horn of Valhalla // Ysgard's Call
+1 Cellar Door
+1 Akroan Horse
+1 Lieutenants of the Guard
+1 Portal to Phyrexia
+1 Rousing of Souls
+1 Phyrexian Triniform
+1 Desecrated Tomb
+1 Waylay
+1 Spirit Mirror
+1 Hallowed Spiritkeeper
+1 Abuelo's Awakening
+1 Hoofprints of the Stag
+1 Battle Screech
+1 Faramir, Field Commander
+1 Colfenor's Urn
+1 Mycologist
+1 The Eternal Wanderer
+1 Storm of Souls
+1 Sanctuary Warden
+1 Elenda's Hierophant
+1 First Response
+1 Lightning Coils
+1 The War Games
+1 Sanctifier en-Vec
+1 Benevolent Offering
+1 Stormfront Riders
+1 Liberated Livestock
+1 Ojer Taq, Deepest Foundation // Temple of Civilization
+1 Righteous Confluence
+1 Go-Shintai of Shared Purpose
+1 Solitude
+1 Tetravus
+1 Ugin, the Ineffable
+1 Gideon's Phalanx
+{'overall': 4.427941176470588, 'cmc': 4.184615384615385, 'ramp': '3', 'draw': '11', 'interaction': 9, 'folder': 'cos_sim', 'commander': 'RegnatheRedeemer.txt'}}

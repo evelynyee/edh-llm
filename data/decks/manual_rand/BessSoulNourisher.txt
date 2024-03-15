@@ -1,69 +1,65 @@
 1 Bess, Soul Nourisher
-1 Witchstalker
-1 Wayfaring Temple
-1 Teething Wurmlet
-1 Tower Above
-1 Witch's Oven
-1 Warlord's Axe
-1 Stumpsquall Hydra
-1 Undercellar Sweep
-1 Teroh's Vanguard
-1 Wild Defiance
-1 Strength in Numbers
-1 Vivien's Stampede
-1 Worldspine Wurm
-1 Volrath's Gardens
-1 Unstoppable Ash
-1 Verdant Field
-1 Withstand Death
-1 Whirlwind
-1 Vrestin, Menoptra Leader
-1 Wild Endeavor
-1 Wolfir Silverheart
-1 _____ Bird Gets the Worm
-1 Veil of Assimilation
-1 Wolfkin Outcast // Wedding Crasher
-1 Xanthic Statue
-1 Take to the Streets
-1 Zuberi, Golden Feather
-1 Tel-Jilad Fallen
-1 Weatherlight Compleated
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Wingsteed Rider
-1 Welcome to . . . // Jurassic Park
-1 TARDIS
-1 Welcome to . . . // Jurassic Park
-1 Vitalizing Wind
-1 Viral Spawning
-1 Tendril of the Mycotyrant
-1 Tarrian's Soulcleaver
-1 Telethopter
-1 Twilight Drover
-1 Victory's Envoy
-1 Sunbringer's Touch
-1 Wingrattle Scarecrow
-1 Tyranid Invasion
-1 Yavimaya Enchantress
-1 Tangled Skyline
-1 Valor of the Worthy
-1 Wild Nacatl
-1 Vial of Poison
-1 Smothering Tithe
-1 Wurmquake
-1 Warden of the Inner Sky
-1 Warrior's Honor
+1 Trial of Solidarity
+1 You Cannot Pass!
+1 Triangle of War
+1 Usher of the Fallen
+1 Wayfaring Giant
+1 Talus Paladin
+1 Thorn Lieutenant
+1 Tendershoot Dryad
+1 Unified Strike
+1 Zamriel, Seraph of Steel
+1 Sword of Truth and Justice
+1 Zar Ojanen, Scion of Efrava
+1 Wings of Hubris
+1 Warping Wail
+1 Vivien, Arkbow Ranger
+1 Verdant Sun's Avatar
+1 Tanuki Transplanter
+1 Valorous Stance
+1 Wild Growth
+1 Worship
+1 Vivien's Crocodile
+1 Tervigon
+1 Tolsimir, Friend to Wolves
 1 Vigilant Baloth
-1 Wildwood Tracker
-1 Tuskguard Captain
-1 Zhalfirin Lancer
-1 Wose Pathfinder
-1 Wandermare
-1 Strength of Solidarity
-1 Tine Shrike
-1 Tangleweave Armor
-1 Windstorm
-1 Ugin's Conjurant
-1 Time to Feed
-1 Thallid Germinator
-1 Tempt with Glory
-{'overall': 2.9275862068965517, 'cmc': 3.462686567164179, 'ramp': '4', 'draw': '4', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}
+1 Woodland Champion
+1 Woodborn Behemoth
+1 Webspinner Cuff
+1 Strongarm Monk
+1 Traproot Kami
+1 Towering Gibbon
+1 Ulvenwald Observer
+1 Surrak and Goreclaw
+1 Vigilant Sentry
+1 Thundering Chariot
+1 Tyranid Invasion
+1 Thelonite Druid
+1 Undergrowth Scavenger
+1 Tandem Takedown
+1 Zuberi, Golden Feather
+1 Wurmquake
+1 Vorapede
+1 Zhalfirin Knight
+1 Stonecoil Serpent
+1 True-Faith Censer
+1 Wolverine Riders
+1 Thundering Spineback
+1 Storm the Seedcore
+1 Voice of the Vermin
+1 Warbriar Blessing
+1 Transmogrifying Wand
+1 _____ Bird Gets the Worm
+1 Steadfast Sentry
+1 White Sun's Zenith
+1 White Sun's Twilight
+1 Wave of Reckoning
+1 You Look Upon the Tarrasque
+1 Strength-Testing Hammer
+1 Sublime Archangel
+1 Wyrm's Crossing Patrol
+1 Twinblade Paladin
+1 Witchstalker
+1 Wing Puncture
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+{'overall': 2.729185520361991, 'cmc': 3.453125, 'ramp': 3, 'draw': 4, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'BessSoulNourisher.txt'}

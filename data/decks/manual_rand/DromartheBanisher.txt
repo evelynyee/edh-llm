@@ -1,69 +1,65 @@
 1 Dromar, the Banisher
-1 Vanish into Eternity
-1 Temporal Extortion
-1 Thoughtseize
-1 Urza's Sylex
-1 Starscream, Power Hungry // Starscream, Seeker Leader
-1 Sol Ring
-1 Towering-Wave Mystic
-1 Triskaidekaphobia
-1 Wipe Away
-1 Vanguard Suppressor
-1 Wave of Rats
-1 War Room
-1 Woebearer
-1 Trait Doctoring
-1 Twincast
-1 Volrath's Dungeon
-1 Vicious Rumors
-1 Zombie Musher
+1 Windrider Patrol
+1 Zhulodok, Void Gorger
+1 Thrashing Wumpus
+1 Transcendent Message
+1 Wanted Scoundrels
+1 Wheel and Deal
 1 Zombie Cannibal
-1 Torment of Venom
-1 Worst Fears
-1 Without Weakness
+1 Time Beetle
+1 Visage of Dread // Dread Osseosaur
 1 Sword of Once and Future
-1 Unearth
-1 Timesifter
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Vedalken Archmage
-1 Twice Upon a Time // Unlikely Meeting
-1 Talion, the Kindly Lord
-1 Welcome to the Fold
-1 Dark Ritual
-1 Swords to Plowshares
-1 Wandering Archaic // Explore the Vastlands
-1 Thought Scour
-1 Withstand
-1 Wanderer's Intervention
-1 Urza's Ruinous Blast
-1 Walk the Aeons
-1 Tombfire
-1 Teshar, Ancestor's Apostle
-1 Vodalian Hypnotist
-1 World Queller
-1 Wandering Archaic // Explore the Vastlands
-1 Tasigur's Cruelty
-1 Urza, Planeswalker
-1 Withering Wisps
-1 Venarian Glimmer
-1 Urborg Stalker
-1 Zareth San, the Trickster
-1 The Mightstone and Weakstone // Urza, Planeswalker
-1 Witness the End
-1 Viseling
-1 Winding Canyons
-1 Twisted Reflection
-1 Tourach, Dread Cantor
-1 Word of Command
-1 Zndrsplt, Eye of Wisdom
-1 Whirling Catapult
-1 Waxmane Baku
-1 Vicious Hunger
-1 Windrider Wizard
-1 Uninvited Geist // Unimpeded Trespasser
-1 Tourach's Canticle
-1 Treasure Cruise
-1 Whispers of Emrakul
-1 Whirlwind Denial
-1 Zephyr Scribe
-{'overall': 8.600896860986547, 'cmc': 3.328358208955224, 'ramp': '11', 'draw': '19', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}
+1 Wei Night Raiders
+1 Verrak, Warped Sengir
+1 Whim of Volrath
+1 Wail of the Forgotten
+1 Whiplash Trap
+1 Wharf Infiltrator
+1 Unclaimed Territory
+1 Ukkima, Stalking Shadow
+1 Words of Wisdom
+1 Zephyr Winder
+1 Yawgmoth's Edict
+1 Time Reaper
+1 Threefold Signal
+1 Visions of Brutality
+1 Warp Artifact
+1 The Everflowing Well // The Myriad Pools
+1 Vivisection
+1 Vial of Dragonfire
+1 Vanquish the Horde
+1 Undercity Plague
+1 Wake the Dead
+1 Tsabo's Assassin
+1 Turn into a Pumpkin
+1 Winds of Rebuke
+1 Tendrils of Despair
+1 Yawgmoth's Vile Offering
+1 Titan's Presence
+1 Uba Mask
+1 Winter's Chill
+1 Voldaren Estate
+1 Waterfall Aerialist
+1 Temporal Cleansing
+1 Throne of Eldraine
+1 Vision Charm
+1 The Unspeakable
+1 Tolarian Geyser
+1 Turbulent Dreams
+1 Wasteland Strangler
+1 Winged Words
+1 Veiling Oddity
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Wooden Sphere
+1 Weed Strangle
+1 Wreck Hunter
+1 Valiant Changeling
+1 Wiretapping
+1 Words of Wind
+1 Traverse Eternity
+1 Waste Management
+1 Wishmonger
+1 Voidwing Hybrid
+1 Zhang Liao, Hero of Hefei
+1 Tsabo's Decree
+{'overall': 6.087155963302752, 'cmc': 3.40625, 'ramp': 5, 'draw': 15, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DromartheBanisher.txt'}

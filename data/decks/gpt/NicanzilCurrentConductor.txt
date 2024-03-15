@@ -62,4 +62,4 @@
 1 Zephyr Singer
 1 Ulamog, the Infinite Gyre
 1 Venser's Journal
-{'overall': 12.229185520361991, 'cmc': 3.453125, 'ramp': '20', 'draw': '26', 'interaction': 3, 'folder': 'gpt', 'commander': 'NicanzilCurrentConductor.txt'}
+{'overall': 12.229185520361991, 'cmc': 3.453125, 'ramp': 20, 'draw': 26, 'interaction': 3, 'folder': 'gpt', 'commander': 'NicanzilCurrentConductor.txt'}

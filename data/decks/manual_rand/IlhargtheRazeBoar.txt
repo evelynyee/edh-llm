@@ -1,69 +1,65 @@
 1 Ilharg, the Raze-Boar
-1 Taurean Mauler
-1 Symmetry Matrix
-1 Unquenchable Fury
-1 Wish
-1 Warbeast of Gorgoroth
-1 Watchers of the Dead
-1 Thran Portal
-1 There and Back Again
-1 Voldaren Thrillseeker
-1 Tsabo's Web
-1 Sword of Once and Future
+1 Themberchaud
+1 Vexing Arcanix
+1 Volcanic Offering
 1 Terrarion
-1 Viseling
-1 Turf War
-1 Tome of Legends
-1 Sin Prodder
-1 Two-Handed Axe // Sweeping Cleave
-1 Workshop Assistant
-1 Stalking Yeti
+1 Transmogrifying Wand
 1 Toralf, God of Fury // Toralf's Hammer
-1 Scampering Surveyor
-1 Mana Vault
-1 Vaultbreaker
-1 Steel Dromedary
-1 War's Toll
-1 Viashino Lashclaw
-1 Tetravus
-1 Suncrusher
-1 Yotia Declares War
-1 Wingrattle Scarecrow
-1 Urza's Bauble
-1 Skyship Weatherlight
-1 Warfire Javelineer
-1 Spark of Creativity
-1 Zhalfirin Void
-1 Trepanation Blade
-1 Spark Jolt
-1 Vedalken Shackles
-1 Smelting Vat
-1 Ulamog's Despoiler
-1 Commander's Sphere
-1 _____ Balls of Fire
-1 Unstable Hulk
-1 Thopter Assembly
-1 Spellbook
 1 Yawning Fissure
-1 Wild-Field Scarecrow
-1 Stoneshaker Shaman
-1 Volley Veteran
-1 The Moment
-1 Young Red Dragon // Bathe in Gold
-1 Telim'Tor's Edict
+1 Warp World
+1 Soul-Guide Lantern
+1 Transmogrify
+1 Twinning Glass
+1 Viashino Bladescout
+1 Shivan Phoenix
+1 Zurzoth, Chaos Rider
+1 The Millennium Calendar
+1 Strange Inversion
+1 Zephyr Boots
+1 Twinflame
+1 Stensia Masquerade
+1 Sudden Impact
+1 Wand of Ith
 1 Yavimaya, Cradle of Growth
-1 Toralf, God of Fury // Toralf's Hammer
-1 Tibalt, the Fiend-Blooded
-1 Wyll's Reversal
-1 Soul Foundry
-1 Time Bomb
-1 Slate of Ancestry
-1 Thaumatic Compass // Spires of Orazca
-1 Zuran Orb
-1 Sword of the Meek
-1 Skyfire Phoenix
-1 Tectonic Giant
-1 Terminal Moraine
-1 Viashino Sandstalker
-1 Thoughtbound Primoc
-{'overall': 7.038095238095238, 'cmc': 3.1343283582089554, 'ramp': '10', 'draw': '14', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'IlhargtheRazeBoar.txt'}
+1 Zodiac Dragon
+1 Song of Blood
+1 Wish
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Vance's Blasting Cannons // Spitfire Bastion
+1 Through the Breach
+1 Sword of Hearth and Home
+1 Sarkhan's Triumph
+1 Voldaren Epicure
+1 Wheel of Fortune
+1 Wall of Junk
+1 Tower of Fortunes
+1 Warrior's Oath
+1 Urza's Chalice
+1 Stormwing Dragon
+1 Blasphemous Act
+1 Scaretiller
+1 Surly Badgersaur
+1 Tiamat's Fanatics
+1 Worldfire
+1 Witch's Mark
+1 Urza's Incubator
+1 Sunbird's Invocation
+1 Toymaker
+1 Vaultbreaker
+1 Steamclaw
+1 Wandering Goblins
+1 The Biblioplex
+1 Voodoo Doll
+1 Voldaren Ambusher
+1 Unholy Heat
+1 Warbreak Trumpeter
+1 Vulshok Gauntlets
+1 Sneak Attack
+1 Tuktuk Scrapper
+1 Yasmin Khan
+1 Teferi's Puzzle Box
+1 The Mana Rig
+1 Skirk Drill Sergeant
+1 Thunderclap
+1 Tormenting Voice
+{'overall': 6.418888888888889, 'cmc': 3.515625, 'ramp': 8, 'draw': 13, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'IlhargtheRazeBoar.txt'}

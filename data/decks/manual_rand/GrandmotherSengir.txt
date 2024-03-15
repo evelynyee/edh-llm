@@ -1,69 +1,65 @@
 1 Grandmother Sengir
-1 Vampire Envoy
-1 Zephyr Boots
+1 Treacherous Urge
+1 Sorin, Vampire Lord
+1 Surestrike Trident
+1 Wingrattle Scarecrow
 1 Witch's Mist
-1 Swiftfoot Boots
-1 Viridian Claw
-1 Tin-Wing Chimera
-1 Touch of Death
-1 Spinal Graft
-1 Spare Dagger
-1 Umbral Mantle
-1 Supernatural Stamina
-1 Throttle
-1 Victim of Night
-1 Sword of the Meek
-1 Sword of the Chosen
-1 Silent Assassin
-1 Wicked Akuba
-1 Voracious Null
-1 Thirsting Shade
-1 Whispering Shade
-1 Vraan, Executioner Thane
-1 True-Faith Censer
-1 Skulking Knight
-1 Wight of Precinct Six
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 Zanikev Locust
-1 Supply Drop
-1 Underhanded Designs
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Vulshok Gauntlets
-1 Witch-king of Angmar
-1 Shriekdiver
-1 Voldaren Pariah // Abolisher of Bloodlines
+1 Viper's Kiss
+1 Triangle of War
+1 Withered Wretch
+1 Wine of Blood and Iron
+1 Whisper of the Dross
+1 Wasteland Strangler
+1 Terror Tide
+1 Vampire Bats
+1 Vampire Revenant
+1 Slaughterhouse Bouncer
+1 Warlock Class
+1 Animate Dead
+1 Wall of Tombstones
+1 Tinybones, Trinket Thief
+1 Thran Power Suit
+1 Skullclamp
+1 Skullmane Baku
 1 Vampire Warlord
-1 Splatter Goblin
-1 Skyshroud Vampire
-1 The Long Reach of Night // Animus of Night's Reach
-1 Thirsting Axe
-1 Suspicious Bookcase
-1 Tower of Calamities
-1 Zombie Trailblazer
-1 Unworthy Dead
-1 Whispersilk Cloak
-1 Weigh Down
-1 Toxic Deluge
-1 Vanguard's Shield
-1 Tooth Collector
-1 Sol Ring
-1 Undercity's Embrace
-1 Xiahou Dun, the One-Eyed
-1 Urborg
-1 Trespasser's Curse
-1 Spiteful Returned
-1 Weakstone
-1 Toxic Nim
-1 Unbreakable Bond
-1 Worldslayer
-1 Wall of Souls
+1 Vampire Scrivener
+1 Vial of Dragonfire
+1 Vicious Offering
+1 Xenic Poltergeist
+1 Wand of Orcus
 1 Toshiro Umezawa
-1 Skyblinder Staff
-1 Spy Kit
-1 Spatial Contortion
-1 Walking Bulwark
-1 Lightning Greaves
-1 Yotian Soldier
-1 Vogar, Necropolis Tyrant
-1 Vampiric Rites
-{'overall': 2.920430107526882, 'cmc': 2.7761194029850746, 'ramp': '1', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GrandmotherSengir.txt'}
+1 Blood Artist
+1 Shard of Broken Glass
+1 Tidy Conclusion
+1 Vito's Inquisitor
+1 Virulent Wound
+1 Xathrid Gorgon
+1 Trespasser's Curse
+1 Vampire Opportunist
+1 Tormentor's Trident
+1 The Irencrag
+1 Transmogrifying Licid
+1 War Chariot
+1 Splatter Goblin
+1 Thrull Retainer
+1 Wall of Shadows
+1 Words of Waste
+1 Zof Shade
+1 Toxic Deluge
+1 Thrull Champion
+1 Vengeful Strangler // Strangling Grasp
+1 Urborg Shambler
+1 Thran Forge
+1 Vampiric Embrace
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 War Barge
+1 Voltaic Servant
+1 The Black Breath
+1 Voltaic Construct
+1 Vampiric Link
+1 Silumgar Butcher
+1 Yawgmoth, Thran Physician
+1 Thrashing Mudspawn
+1 Vraska, Scheming Gorgon
+1 Vile Requiem
+{'overall': 2.249746192893401, 'cmc': 3.078125, 'ramp': 1, 'draw': 4, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GrandmotherSengir.txt'}

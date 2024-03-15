@@ -62,4 +62,4 @@
 1 Traumatic Visions
 1 Weight of Memory
 1 Urban Evolution
-{'overall': 12.306060606060605, 'cmc': 3.3, 'ramp': '15', 'draw': '31', 'interaction': 4, 'folder': 'gpt', 'commander': 'GaladrielofLothlórien.txt'}
+{'overall': 12.315384615384614, 'cmc': 3.25, 'ramp': 15, 'draw': 31, 'interaction': 4, 'folder': 'gpt', 'commander': 'GaladrielofLothlórien.txt'}

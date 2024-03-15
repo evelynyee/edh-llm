@@ -1,69 +1,65 @@
 1 Firesong and Sunspeaker
-1 Sudden Impact
-1 Zoyowa's Justice
-1 Path to Exile
-1 Wall of Reverence
-1 Words of War
-1 Terashi's Grasp
-1 Sunfire Balm
-1 Vindictive Flamestoker
-1 Straw Golem
-1 Zada's Commando
-1 Test of Faith
-1 Warfire Javelineer
+1 Vanguard of Brimaz
+1 Sunforger
+1 Sword of Kaldra
+1 Sun-Crowned Hunters
+1 Uncontrollable Anger
+1 Sunflare Shaman
+1 Verix Bladewing
+1 Warmth
+1 Teferi's Protection
+1 Warbreak Trumpeter
+1 Sunshot Militia
+1 Wurm's Tooth
+1 Spellbinder
+1 Volcanic Wind
+1 Ugin's Nexus
 1 Word of Seizing
-1 Word of Blasting
-1 Threefold Signal
-1 Veteran's Sidearm
-1 The Chain Veil
-1 Troubled Healer
+1 Trap Digger
+1 Withstand
+1 Viashino Bladescout
 1 Spirit en-Kor
-1 Unfriendly Fire
-1 Torrent of Fire
-1 Trapjaw Tyrant
-1 Vanquisher's Axe
-1 Torii Watchward
-1 Wear // Tear
-1 Telim'Tor's Darts
+1 Union of the Third Path
+1 Strafe
+1 Smothering Tithe
+1 Swift Reckoning
+1 Snapping Thragg
+1 Wandering Archaic // Explore the Vastlands
+1 Zoyowa's Justice
+1 You Hear Something on Watch
+1 Sword of Once and Future
+1 Vampire Slayer
+1 Tiamat's Fanatics
+1 Wildfire Devils
+1 Spiteful Banditry
+1 Zhalfirin Decoy
+1 Touch of the Void
+1 Spiritualize
+1 Sonic Seizure
+1 Toymaker
+1 The Wanderer
+1 Urza's Filter
+1 Zhulodok, Void Gorger
+1 Steel Hellkite
+1 Unquenchable Fury
+1 Staff of the Flame Magus
+1 The Moment
+1 Volcanic Torrent
+1 Straw Golem
+1 Sulfuric Vapors
+1 Ugin's Mastery
+1 Temper
+1 Sudden Impact
+1 Warstorm Surge
+1 You Find Some Prisoners
+1 Zariel, Archduke of Avernus
 1 Zap
-1 Vexing Devil
-1 Violent Eruption
-1 Zealot il-Vec
-1 Visions of Glory
-1 Wizard's Lightning
-1 Sphinx-Bone Wand
-1 Speaker of the Heavens
-1 Wingsteed Rider
-1 Ugin, the Spirit Dragon
-1 Viashino Pyromancer
-1 Vial of Dragonfire
-1 Zhalfirin Crusader
-1 Stoke the Flames
-1 Warbringer
-1 Wildfire Eternal
-1 Toralf, God of Fury // Toralf's Hammer
-1 Yotia Declares War
-1 Zarichi Tiger
-1 Soul Charmer
-1 Thunderwave
-1 Virtue of Courage // Embereth Blaze
-1 Thunderous Wrath
-1 Winds of Abandon
-1 Weaponize the Monsters
-1 Wrack with Madness
-1 Tyrant of Valakut
-1 Unified Front
-1 Wings of Hubris
-1 Voldaren Ambusher
-1 Zabaz, the Glimmerwasp
-1 Sivvi's Valor
-1 Weapon Surge
-1 Syndic of Tithes
-1 Tectonic Hazard
+1 Survival Cache
 1 Thousand Moons Crackshot
-1 Storm King's Thunder
-1 Smoldering Egg // Ashmouth Dragon
-1 Structural Distortion
-1 Storm's Wrath
-1 Spiritual Focus
-{'overall': 3.6626126126126124, 'cmc': 3.264705882352941, 'ramp': '0', 'draw': '7', 'interaction': 26, 'folder': 'manual_rand', 'commander': 'FiresongandSunspeaker.txt'}
+1 The Fall of Kroog
+1 Subterranean Tremors
+1 Red Elemental Blast
+1 Sivvi's Ruse
+1 Soul of Shandalar
+1 Viridian Longbow
+{'overall': 3.1953488372093024, 'cmc': 3.359375, 'ramp': 1, 'draw': 5, 'interaction': 22, 'folder': 'manual_rand', 'commander': 'FiresongandSunspeaker.txt'}

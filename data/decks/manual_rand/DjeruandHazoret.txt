@@ -1,69 +1,65 @@
 1 Djeru and Hazoret
-1 Wanderer's Strike
-1 Tel-Jilad Stylus
-1 Volcanic Submersion
-1 Urborg, Tomb of Yawgmoth
-1 You Find Some Prisoners
-1 Sword of Hearth and Home
-1 Wild Guess
-1 Vryn Wingmare
-1 Warcry Phoenix
-1 Tahngarth's Glare
-1 _____ _____ Rocketship
-1 Wanderer's Twig
-1 Thrill of Possibility
-1 The Mana Rig
-1 Thrumming Stone
-1 Tragic Arrogance
-1 Zealots en-Dal
-1 Tempered in Solitude
-1 Thran Foundry
-1 Trustworthy Scout
-1 Urza's Miter
-1 Stratadon
-1 Tormented Pariah // Rampaging Werewolf
-1 Urza's Filter
-1 Spellbook
-1 Wish
-1 Uncontrollable Anger
-1 Strata Scythe
-1 Titan's Presence
-1 Sword of Once and Future
-1 Terminal Moraine
-1 Weatherlight Compleated
-1 Weaver of Lightning
-1 Surveyor's Scope
-1 Wild Evocation
-1 Vanquisher's Banner
-1 Spellweaver Helix
-1 Unwavering Initiate
-1 Tapestry of the Ages
-1 Whipcorder
-1 Zenith Chronicler
-1 Village Ironsmith // Ironfang
-1 Three Dreams
-1 Two-Handed Axe // Sweeping Cleave
-1 Thran Temporal Gateway
-1 Swashbuckler's Whip
-1 Zirilan of the Claw
-1 Yasmin Khan
-1 Thorn of Amethyst
-1 Tome Shredder
-1 Tilonalli's Summoner
-1 Unquenchable Fury
+1 Underworld Breach
+1 Vicious Shadows
+1 Wooded Foothills
+1 Urza's Ruinous Blast
 1 _____ Bird Gets the Worm
-1 Warlord's Elite
-1 Swords to Plowshares
-1 Winged Shepherd
-1 Whitemane Lion
-1 Volatile Chimera
-1 Vesperlark
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Vithian Stinger
-1 Surging Sentinels
-1 The Moment
-1 Temporary Truce
-1 Weapon Rack
-1 Words of Worship
-1 _____ Goblin
-{'overall': 6.532558139534884, 'cmc': 3.161764705882353, 'ramp': '7', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}
+1 Winds of Change
+1 Vulpikeet
+1 Volcanic Wind
+1 Village Messenger // Moonrise Intruder
+1 Workshop Assistant
+1 Stoneforge Mystic
+1 Zhulodok, Void Gorger
+1 Wake the Past
+1 Spark of Creativity
+1 Vessel of Endless Rest
+1 Wild Ricochet
+1 Thawing Glaciers
+1 Red Elemental Blast
+1 Thunderscape Familiar
+1 War Behemoth
+1 Thrilling Discovery
+1 Unfinished Business
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Wild Swing
+1 Sword-Swallowing Seraph
+1 Vryn Wingmare
+1 Wrath of God
+1 Zoetic Cavern
+1 Wee Champion
+1 Wandering Graybeard
+1 Wall of Mourning
+1 Treasure Keeper
+1 Weaver of Lightning
+1 Torrent of Fire
+1 Swirling Sandstorm
+1 Torrent of Stone
+1 Survival Cache
+1 Winding Canyons
+1 Turf War
+1 Tethmos High Priest
+1 Sword of Once and Future
+1 Warfire Javelineer
+1 Squee, Dubious Monarch
+1 Wyll, Blade of Frontiers
+1 Violent Eruption
+1 Venerated Loxodon
+1 Thorn of Amethyst
+1 Valakut Awakening // Valakut Stoneforge
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Wand of Ith
+1 Walking Skyscraper
+1 Storybook Ride
+1 Torii Watchward
+1 Uba Mask
+1 Wing Shards
+1 Terramorphic Expanse
+1 Urza's Sylex
+1 Wayfaring Giant
+1 Tormenting Voice
+1 Vigil for the Lost
+1 Tariff
+1 Wildfire Devils
+1 Welcoming Vampire
+{'overall': 3.7953488372093025, 'cmc': 3.359375, 'ramp': 4, 'draw': 7, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'DjeruandHazoret.txt'}

@@ -1,69 +1,65 @@
 1 Obyra, Dreaming Duelist
-1 Wormfang Behemoth
-1 Zombie Brute
-1 Vito, Thorn of the Dusk Rose
-1 Tempted by the Oriq
-1 Yuriko, the Tiger's Shadow
-1 Warkite Marauder
-1 Willbreaker
-1 Withdraw
-1 Zulaport Chainmage
-1 Vindictive Vampire
-1 Winged Boots
-1 Undying Malice
-1 Thopter Squadron
-1 Zombify
-1 Zygon Infiltrator
-1 Well of Life
-1 Unbreakable Bond
-1 Vulshok Gauntlets
-1 Undying Evil
-1 Withering Gaze
-1 Ugin's Construct
-1 Watery Grave
-1 Sol Ring
-1 Vedalken Certarch
-1 Whirlpool Rider
-1 Witch's Oven
-1 Withering Wisps
-1 Waste Not
-1 Vedalken Shackles
-1 Vraska's Finisher
-1 Watchful Blisterzoa
-1 Timid Drake
-1 Viridian Longbow
-1 Zhang Liao, Hero of Hefei
-1 Undersea Invader
-1 Venerated Teacher
+1 Syndicate Enforcer
+1 Venomous Hierophant
+1 Demonic Tutor
+1 Vodalian Mage
+1 Wanderwine Prophets
 1 Tribute to Horobi // Echo of Death's Wail
-1 Vault Skirge
-1 Venomcrawler
-1 Wand of Ith
-1 Theft of Dreams
-1 Triassic Egg
-1 The Watcher in the Water
-1 Wall of Lost Thoughts
-1 Volatile Fault
-1 Wu Admiral
-1 Surgehacker Mech
-1 The Haunt of Hightower
-1 Tide Shaper
-1 Zof Consumption // Zof Bloodbog
-1 Vampiric Rites
-1 Whisper Squad
-1 Whitewater Naiads
-1 The Cruelty of Gix
-1 Vermiculos
-1 Undercity's Embrace
-1 Timothar, Baron of Bats
+1 Undying Malice
+1 Visage of Dread // Dread Osseosaur
+1 Unholy Indenture
+1 Twisted Embrace
+1 Whispering Snitch
+1 Vampiric Touch
+1 Technomancer
+1 Waterkin Shaman
+1 Windgrace Acolyte
+1 Veiled Sentry
+1 Umbris, Fear Manifest
+1 Vat of Rebirth
+1 Withdraw
+1 Voracious Greatshark
+1 The Trickster-God's Heist
+1 Tainted Remedy
+1 Timid Drake
+1 Tezzeret's Gambit
+1 Warteye Witch
+1 Undying Evil
+1 Young Necromancer
+1 Tablet of Epityr
+1 Thought Sponge
+1 Vile Consumption
+1 Urborg Syphon-Mage
+1 Well of Lost Dreams
+1 Virtue of Knowledge // Vantress Visions
+1 Wall of Forgotten Pharaohs
+1 Vile Requiem
+1 Xathrid Necromancer
+1 Workshop Assistant
+1 Tithing Blade // Consuming Sepulcher
+1 Soulcage Fiend
+1 Xathrid Demon
 1 Woe Strider
-1 Weatherlight Compleated
-1 Wormfang Crab
-1 Treacherous Blessing
-1 The Toymaker's Trap
-1 Vicious Rumors
-1 Blood Artist
-1 Thrull Parasite
-1 Thallid Omnivore
-1 Tyrannical Pitlord
-{'overall': 5.0210045662100455, 'cmc': 3.2205882352941178, 'ramp': '4', 'draw': '13', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ObyraDreamingDuelist.txt'}
+1 Throne of the God-Pharaoh
+1 Wight
+1 Vengeful Dead
+1 Zulaport Chainmage
+1 Witch of the Moors
+1 Staff of the Flame Magus
+1 Wooden Sphere
+1 Teferi's Time Twist
+1 Undermine
+1 Vulshok Gauntlets
+1 Withercrown
+1 Tome Raider
+1 Vodalian Serpent
+1 Spirit of Malevolence
+1 Vedalken Certarch
+1 Virtue of Persistence // Locthwain Scorn
+1 Turn into a Pumpkin
+1 Vapor Snag
+1 Spreading Rot
+1 Treacherous Vampire
+1 Trench Behemoth
+1 Void Snare
+{'overall': 2.96244019138756, 'cmc': 3.265625, 'ramp': 1, 'draw': 8, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'ObyraDreamingDuelist.txt'}

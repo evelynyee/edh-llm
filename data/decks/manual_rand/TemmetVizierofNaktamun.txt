@@ -1,69 +1,65 @@
 1 Temmet, Vizier of Naktamun
-1 Vulshok Gauntlets
-1 Thousand-Faced Shadow
-1 Tithe Taker
-1 Time to Reflect
-1 Undead Alchemist
-1 Thalia's Geistcaller
-1 Thraben Exorcism
-1 Viridian Longbow
-1 The Everflowing Well // The Myriad Pools
-1 Spirit Bonds
-1 Volo, Itinerant Scholar
-1 The Seventh Doctor
-1 _____ _____ _____ Trespasser
-1 Mind Stone
-1 Wingmate Roc
-1 Weathered Bodyguards
-1 Valkyrie's Sword
-1 Vault Skyward
-1 Twice Upon a Time // Unlikely Meeting
-1 Surge Mare
-1 View from Above
-1 Volrath's Shapeshifter
-1 Train of Thought
-1 Teferi, Master of Time
-1 Valkyrie Harbinger
-1 Sword of Once and Future
-1 Voidmage Husher
-1 Tolarian Geyser
-1 Voyager Staff
-1 Trostani's Judgment
-1 Stern Lesson
-1 The Peregrine Dynamo
-1 Whalebone Glider
-1 Vulshok Battlegear
-1 Wormhole Serpent
-1 Valorous Steed
-1 The Council of Four
-1 Striped Riverwinder
-1 Zhalfirin Commander
-1 War Barge
-1 Tawnos's Wand
-1 Will of the Naga
+1 Toymaker
 1 Turn to Mist
-1 Veteran Soldier
-1 Sword Coast Serpent // Capsizing Wave
-1 Waterwind Scout
-1 Wizard's Retort
-1 Wretched Gryff
-1 Thalakos Scout
-1 Storm of Souls
-1 Threnody Singer
-1 Ugin, the Ineffable
-1 Vanguard of the Rose
-1 Waylay
-1 Storm of Saruman
-1 Yotian Frontliner
-1 Mentor of the Meek
-1 Vesperlark
-1 Wondrous Crucible
-1 Wayward Angel
-1 Watcher of the Spheres
-1 Thousand Winds
-1 Waterspout Elemental
-1 Unfinished Business
-1 Vizier of Tumbling Sands
+1 Windrider Wizard
+1 Volo, Itinerant Scholar
+1 Tomb of Horrors Adventurer
+1 Witch Hunter
+1 Veiled Sentry
+1 Wedding Announcement // Wedding Festivity
+1 Trusted Pegasus
+1 Terisian Mindbreaker
+1 Temporal Trespass
+1 Unlawful Entry
+1 Threadbind Clique // Rip the Seams
+1 Thousand-Faced Shadow
+1 Warden of the Beyond
+1 True Polymorph
+1 Wind Sail
+1 Walking Bulwark
+1 Teller of Tales
+1 Thran Power Suit
+1 Words of Worship
+1 Tocasia's Welcome
+1 Zhalfirin Crusader
+1 White Dragon
+1 The Eleventh Doctor
+1 Zhalfirin Shapecraft
+1 Vronos, Masked Inquisitor
+1 Trove Tracker
+1 Wings of Hubris
+1 Wind-Kin Raiders
+1 Wicker Picker
+1 Unified Will
+1 Wind Dancer
+1 Svyelunite Priest
+1 Whiplash Trap
+1 Veil of Birds
+1 Viscerid Deepwalker
+1 Vorrac Battlehorns
+1 Startle
+1 Zhalfirin Decoy
+1 Sol Ring
+1 Stolen by the Fae
+1 Taigam's Strike
+1 The Wandering Emperor
+1 Urza's Command
+1 War Behemoth
+1 Triplicate Spirits
+1 Teferi, Timeless Voyager
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Vodalian Illusionist
+1 Wall of Deceit
+1 Theoretical Duplication
+1 Vedalken Anatomist
+1 TARDIS
 1 True Love's Kiss
-1 Thoughtcast
-{'overall': 6.398387096774194, 'cmc': 3.6470588235294117, 'ramp': '4', 'draw': '18', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'TemmetVizierofNaktamun.txt'}
+1 Wing Commando
+1 Zephyr Singer
+1 Waterfront Bouncer
+1 Twining Twins // Swift Spiral
+1 Tolarian Geyser
+1 Whipcorder
+1 Counterspell
+1 Tormod's Cryptkeeper
+{'overall': 4.187155963302752, 'cmc': 3.40625, 'ramp': 2, 'draw': 11, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'TemmetVizierofNaktamun.txt'}

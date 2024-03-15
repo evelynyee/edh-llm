@@ -1,69 +1,65 @@
 1 Neheb, the Worthy
-1 Zurzoth, Chaos Rider
-1 Lightning Bolt
-1 Zephyr Boots
-1 Valakut Invoker
-1 Unmask
-1 Word of Blasting
-1 Village Watch // Village Reavers
-1 Vengeful Devil
-1 Wyll, Blade of Frontiers
-1 Volley Veteran
-1 Éomer, Marshal of Rohan
-1 Valakut Awakening // Valakut Stoneforge
-1 The Red Terror
-1 Demonic Tutor
-1 Thrull Surgeon
-1 Volcanic Offering
-1 Sokenzan Renegade
-1 Wall of Souls
-1 Yuan-Ti Fang-Blade
+1 The Sound of Drums
+1 Timesifter
+1 Tuskeri Firewalker
+1 Twin Bolt
+1 Zombie Assassin
+1 Vampire Outcasts
 1 Urborg Stalker
-1 Venser's Journal
-1 Wave of Rats
-1 Wake the Dragon
-1 Trench Stalker
-1 Taunting Kobold
-1 Virtue of Courage // Embereth Blaze
-1 Sword of Hearth and Home
-1 Vraska's Contempt
-1 Virtue of Courage // Embereth Blaze
-1 Specter's Wail
-1 Xantcha, Sleeper Agent
-1 Toil // Trouble
-1 Weary Prisoner // Wrathful Jailbreaker
-1 Uba Mask
-1 Thumbscrews
-1 Woebringer Demon
-1 Unholy Heat
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
-1 Volcanic Torrent
-1 Striking Sliver
-1 Sword of Fire and Ice
-1 Valakut Exploration
-1 Volcanic Fallout
-1 Viashino Spearhunter
-1 Tyrannize
-1 Thermal Blast
-1 Thoughtseize
-1 Yamabushi's Storm
-1 Vona's Hunger
-1 Three Tragedies
+1 Throne of the Grim Captain // The Grim Captain
 1 Wildfire
-1 Wound Reflection
-1 Surge to Victory
-1 Wall of Distortion
-1 Treacherous Vampire
-1 Vampiric Dragon
-1 Zalto, Fire Giant Duke
-1 Tresserhorn Skyknight
-1 Woebearer
-1 Tectonic Hellion
-1 Unquenchable Fury
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Vona's Hunger
+1 Ward of Bones
+1 Urgoros, the Empty One
+1 Weaponize the Monsters
+1 Wrack with Madness
+1 Volcanic Rambler
+1 Wretched Banquet
+1 Valakut Awakening // Valakut Stoneforge
 1 Tomb Blade
-1 Themberchaud
-1 Worldfire
-1 Tremble
-1 Utvara Scalper
-1 Toxin Sliver
-{'overall': 3.757575757575758, 'cmc': 3.9402985074626864, 'ramp': '3', 'draw': '6', 'interaction': 20, 'folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}
+1 Wheel of Misfortune
+1 Teferi's Puzzle Box
+1 Tenured Oilcaster
+1 Ulamog, the Ceaseless Hunger
+1 Violent Eruption
+1 Vraska, Scheming Gorgon
+1 Words of Waste
+1 Warfire Javelineer
+1 Wildfire Eternal
+1 Sokenzan Renegade
+1 Titan Hunter
+1 The Stone Brain
+1 Woebearer
+1 Zoyowa's Justice
+1 Unholy Heat
+1 Village Ironsmith // Ironfang
+1 Ugin, the Spirit Dragon
+1 Warren Weirding
+1 Yuan-Ti Fang-Blade
+1 Stinkweed Imp
+1 Toralf, God of Fury // Toralf's Hammer
+1 Theater of Horrors
+1 Virtus the Veiled
+1 Witch Hunt
+1 Wail of the Nim
+1 Wall of Shields
+1 Valor Singer
+1 Wicker Warcrawler
+1 Skullknocker Ogre
+1 _____ _____ Rocketship
+1 Zodiac Snake
+1 Volcanic Geyser
+1 Whipkeeper
+1 Volcanic Vision
+1 Szarekh, the Silent King
+1 Tyrant's Choice
+1 Sword of Light and Shadow
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Varchild, Betrayer of Kjeldor
+1 Sword of Sinew and Steel
+1 Sulfuric Vortex
+1 Welder Automaton
+1 Vessel of Malignity
+1 Volrath's Dungeon
+{'overall': 4.172448979591837, 'cmc': 3.828125, 'ramp': 3, 'draw': 8, 'interaction': 18, 'folder': 'manual_rand', 'commander': 'NehebtheWorthy.txt'}

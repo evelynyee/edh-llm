@@ -62,7 +62,4 @@
 1 Trinisphere
 1 Ward of Lights
 1 Timely Hordemate
-1 The Restoration of Eiganjo // Architect of Restoration
-1 Trap Digger
-1 Tower of Fortunes
-{'overall': 9.513366336633663, 'cmc': 3.014925373134328, 'ramp': '14', 'draw': '20', 'interaction': 7, 'folder': 'gpt', 'commander': 'OswaldFiddlebender.txt'}
+{'overall': 8.720157068062829, 'cmc': 2.984375, 'ramp': 13, 'draw': 18, 'interaction': 6, 'folder': 'gpt', 'commander': 'OswaldFiddlebender.txt'}

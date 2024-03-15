@@ -62,4 +62,4 @@
 1 Thought-Knot Seer
 1 Viridian Emissary
 1 Verdant Crescendo
-{'overall': 10.879185520361991, 'cmc': 3.453125, 'ramp': '18', 'draw': '22', 'interaction': 6, 'folder': 'gpt', 'commander': 'TorstenFounderofBenalia.txt'}
+{'overall': 10.879185520361991, 'cmc': 3.453125, 'ramp': 18, 'draw': 22, 'interaction': 6, 'folder': 'gpt', 'commander': 'TorstenFounderofBenalia.txt'}

@@ -1,69 +1,65 @@
 1 Ayli, Eternal Pilgrim
-1 Zealots en-Dal
-1 Wretched Confluence
-1 Urborg Uprising
-1 Soul Shepherd
-1 Zarichi Tiger
-1 Westvale Abbey // Ormendahl, Profane Prince
-1 Timely Reinforcements
-1 Staff of the Wild Magus
-1 Tablet of Epityr
-1 Wander in Death
-1 Voracious Fell Beast
-1 Tourach's Chant
-1 Treasure Chest
-1 Strongarm Tactics
-1 Vampire Sovereign
-1 Vial of Poison
-1 Unnatural Hunger
-1 Ulcerate
-1 Thallid Omnivore
-1 Wine of Blood and Iron
-1 Words of Worship
-1 Stronghold Discipline
-1 Vilis, Broker of Blood
-1 Starving Revenant
-1 Warehouse Tabby
-1 The Moment
-1 Vindicate
-1 Whip of Erebos
-1 Path to Exile
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Sword of the Ages
-1 Vorpal Sword
-1 Vulshok Gauntlets
-1 Underworld Connections
-1 Whalebone Glider
-1 The Kenriths' Royal Funeral
-1 Underdark Rift
-1 Touch the Spirit Realm
-1 Solemn Offering
-1 The Black Gate
-1 Wispmare
-1 Su-Chi Cave Guard
-1 Vanguard of the Rose
-1 Tomb of the Spirit Dragon
-1 Thousand Moons Crackshot
-1 Starlight Invoker
-1 Tribute to Horobi // Echo of Death's Wail
-1 Wondrous Crucible
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Unliving Psychopath
-1 Zanikev Locust
-1 Vizkopa Confessor
-1 Wall of Limbs
-1 Vessel of Malignity
-1 Whisper, Blood Liturgist
-1 Tinybones, Trinket Thief
-1 Visions of Dread
-1 Student of Ojutai
-1 The Meathook Massacre
-1 Xander's Pact
-1 Zombify
+1 Staff of the Flame Magus
+1 Without Weakness
+1 Thornbow Archer
 1 Tergrid, God of Fright // Tergrid's Lantern
-1 Vengeful Strangler // Strangling Grasp
-1 Tormod's Cryptkeeper
+1 Vile Requiem
+1 Wicked Pact
+1 Whack
+1 Vengeful Dead
+1 Soulcage Fiend
+1 Soul's Grace
+1 Void Beckoner
+1 Undertaker
+1 Unbreakable Bond
 1 Sorin Markov
+1 Swords to Plowshares
+1 Tymaret Calls the Dead
+1 Warehouse Tabby
+1 Witches' Eye
+1 Swat
+1 Wail of the Nim
+1 _____ Bird Gets the Worm
+1 Zulaport Chainmage
 1 Thran Power Suit
-1 Sunseed Nurturer
-{'overall': 3.859090909090909, 'cmc': 3.283582089552239, 'ramp': '1', 'draw': '10', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AyliEternalPilgrim.txt'}
+1 Taste of Blood
+1 Vermin Gorger
+1 Yomiji, Who Bars the Way
+1 Swords to Plowshares
+1 Blood Artist
+1 The Golden Throne
+1 Vampiric Feast
+1 Sol Ring
+1 Soul Shepherd
+1 Untethered Express
+1 Towashi Guide-Bot
+1 Tyrant's Machine
+1 Sunset Revelry
+1 Terror of Towashi
+1 Syndicate Enforcer
+1 Throne of Bone
+1 Wedding Ring
+1 Yawgmoth, Thran Physician
+1 Vampire Spawn
+1 Tourach's Chant
+1 Syr Konrad, the Grim
+1 Will-Forged Golem
+1 Tooth of Chiss-Goria
+1 Torii Watchward
+1 Timely Hordemate
+1 Wasp of the Bitter End
+1 Thrasher Brute
+1 Triumph of Cruelty
+1 Whalebone Glider
+1 Their Number Is Legion
+1 Xander's Pact
+1 Transcendence
+1 Strongarm Tactics
+1 Whisper, Blood Liturgist
+1 Throat Slitter
+1 War Room
+1 Surestrike Trident
+1 Umbra Stalker
+1 Tithebearer Giant
+1 Sunscorch Regent
+{'overall': 4.065022421524664, 'cmc': 3.5396825396825395, 'ramp': 2, 'draw': 10, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AyliEternalPilgrim.txt'}

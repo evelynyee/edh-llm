@@ -62,7 +62,4 @@
 1 Whetstone
 1 Wurm's Tooth
 1 Volcanic Eruption
-1 Vexing Puzzlebox
-1 Tempest Owl
-1 Vessel of Paramnesia
-{'overall': 8.053719008264462, 'cmc': 3.611940298507463, 'ramp': '6', 'draw': '23', 'interaction': 5, 'folder': 'gpt', 'commander': 'HisokaMinamoSensei.txt'}
+{'overall': 7.54468085106383, 'cmc': 3.671875, 'ramp': 5, 'draw': 22, 'interaction': 5, 'folder': 'gpt', 'commander': 'HisokaMinamoSensei.txt'}

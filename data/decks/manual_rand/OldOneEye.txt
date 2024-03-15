@@ -1,69 +1,65 @@
 1 Old One Eye
+1 Tranquil Frillback
+1 Thought Prison
+1 Verdant Catacombs
+1 Yavimaya Ants
+1 The First Iroan Games
 1 Serum Powder
-1 Warm Welcome
-1 Winding Way
-1 Serene Remembrance
-1 Threefold Signal
-1 Thran Spider
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood
-1 Summoning Station
-1 Vessel of Endless Rest
-1 Verdant Sun's Avatar
-1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Synod Sanctum
-1 You Happen On a Glade
-1 Tormod's Crypt
-1 Wolfrider's Saddle
-1 Tapping at the Window
-1 Tablet of the Guilds
-1 Wave of Vitriol
-1 Vitaspore Thallid
-1 Vastwood Surge
-1 Turntimber Symbiosis // Turntimber, Serpentine Wood
-1 Wurmskin Forger
-1 Wildwood Rebirth
-1 Wreath of Geists
-1 The Underworld Cookbook
-1 Wolverine Riders
-1 Weird Harvest
-1 Terastodon
-1 Vital Splicer
-1 Vine Kami
-1 Weatherseed Treefolk
-1 Vine Dryad
-1 Threats Undetected
-1 Tawnos's Tinkering
-1 Vivien, Arkbow Ranger
-1 Tireless Provisioner
-1 Undercity Upheaval
-1 Tangle Wire
-1 Wolf's Quarry
-1 Yavimaya Sapherd
-1 Whetstone
-1 Wild-Field Scarecrow
-1 Vigor
-1 Wirewood Guardian
-1 Woodland Champion
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Tower of Murmurs
-1 Verdant Mastery
-1 Sporocyst
-1 Vessel of Nascency
-1 Whirlermaker
-1 Wolfkin Outcast // Wedding Crasher
-1 Untamed Kavu
-1 Workshop Warchief
-1 Rampant Growth
-1 World Breaker
-1 The Huntsman's Redemption
-1 Tyrant Guard
 1 Volrath's Laboratory
-1 Willow Geist
-1 Tunnel of Love
-1 Yedora, Grave Gardener
-1 Utopia Mycon
-1 Underdark Rift
-1 Wurmcoil Engine
-1 Vineshaper Mystic
+1 Soul of the Harvest
+1 Thelon's Chant
+1 Wand of Vertebrae
+1 Tempt with Discovery
+1 Zoetic Cavern
+1 Survivors' Bond
+1 Wolf-Skull Shaman
+1 Triassic Egg
+1 Wasteful Harvest
+1 Wild Dogs
+1 Urza's Saga
+1 Urza's Workshop
+1 Wurmskin Forger
+1 Whiptongue Hydra
+1 Yavimaya Elder
+1 Summoner's Pact
+1 Wandering Archaic // Explore the Vastlands
+1 Squirrel Sanctuary
+1 Verdant Succession
+1 Thallid Shell-Dweller
+1 Timesifter
+1 Doubling Season
+1 Thought-Knot Seer
+1 Throne of Empires
+1 Thallid Devourer
+1 Storm Cauldron
+1 Woodland Sleuth
+1 Tower of Fortunes
+1 The One Ring
+1 Twinning Staff
+1 Thaumatic Compass // Spires of Orazca
+1 Virtue of Strength // Garenbrig Growth
+1 Wall of Junk
 1 Willow Satyr
-{'overall': 8.408333333333333, 'cmc': 3.582089552238806, 'ramp': '15', 'draw': '16', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'OldOneEye.txt'}
+1 Trufflesnout
+1 Steel Dromedary
+1 The World Spell
+1 Verdant Mastery
+1 Worldspine Wurm
+1 The Ring Goes South
+1 Wirewood Savage
+1 Trail of Mystery
+1 Watchful Naga
+1 You Happen On a Glade
+1 Sheltered Valley
+1 Wood Elves
+1 Sylvan Library
+1 Steel Exemplar
+1 Tetravus
+1 Vorinclex // The Grand Evolution
+1 The Moment
+1 Titania, Protector of Argoth
+1 Woodland Changeling
+1 Topography Tracker
+1 Weatherlight
+1 Turntimber Sower
+{'overall': 8.558951965065502, 'cmc': 3.578125, 'ramp': 12, 'draw': 19, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OldOneEye.txt'}

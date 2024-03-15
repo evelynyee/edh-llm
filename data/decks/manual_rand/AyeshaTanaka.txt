@@ -1,69 +1,65 @@
 1 Ayesha Tanaka
-1 Vow of Flight
-1 Valorous Stance
-1 Warmonger's Chariot
-1 Tolarian Terror
-1 When We Were Young
-1 Time Elemental
-1 Wall of Stolen Identity
-1 Startled Awake // Persistent Nightmare
-1 Will Kenrith
-1 Sun Sentinel
-1 Vodalian Serpent
-1 The Enigma Jewel // Locus of Enlightenment
-1 Tundra Wolves
-1 Willbreaker
-1 Zephid
-1 Streambed Aquitects
-1 Svyelun of Sea and Sky
-1 Spiketail Hatchling
-1 Thermal Flux
-1 The Eleventh Doctor
-1 Takeno's Cavalry
-1 Zhang Fei, Fierce Warrior
-1 Wakestone Gargoyle
-1 Stratozeppelid
-1 Victory Chimes
-1 Wall of Wonder
-1 War Barge
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Mana Drain
-1 Wizards of Thay
-1 Whimwader
-1 Universal Surveillance
-1 Vigilance
-1 Wipe Away
-1 Vulpine Harvester
-1 Vhal, Candlekeep Researcher
+1 Tide Skimmer
+1 Spectral Rider
+1 Warped Researcher
+1 Wu Longbowman
 1 Thirsting Axe
-1 Thoughtweft Gambit
-1 Vassal's Duty
-1 Wine of Blood and Iron
-1 Vortex Runner
-1 Mind Stone
-1 Tariff
-1 War Tax
-1 Water Wings
-1 Void Winnower
-1 Taunting Sliver
-1 Trailblazer's Boots
-1 Stony Silence
-1 Steel Golem
-1 The Indomitable
-1 Time Beetle
-1 Tidal Surge
-1 Zhao Zilong, Tiger General
-1 Zephyr Boots
-1 White Sun's Twilight
-1 Wall of Shields
-1 Zephyr Net
-1 Wharf Infiltrator
+1 Yuan-Ti Malison
+1 Verity Circle
+1 Twisted Image
 1 Valiant Changeling
-1 Winter's Chill
-1 Tezzeret's Strider
-1 Tamiyo's Compleation
-1 Time Warp
-1 White Dragon
+1 Wishful Merfolk
+1 Wingfold Pteron
+1 Wall of Stolen Identity
+1 Vaporous Djinn
+1 Svyelunite Priest
+1 Wall of Essence
+1 Telekinesis
+1 Vedalken Humiliator
+1 Thran Power Suit
+1 Walking Bulwark
+1 Threads of Disloyalty
+1 Vodalian Knights
+1 Wanderer's Intervention
+1 Svyelun of Sea and Sky
+1 Wind Dancer
+1 Wall of Water
+1 Takeno's Cavalry
+1 Wu Light Cavalry
+1 Windshaper Planetar
 1 Twitch
-1 Wall of Swords
-{'overall': 3.828723404255319, 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '9', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'AyeshaTanaka.txt'}
+1 Tidal Kraken
+1 Swiftfoot Boots
+1 Wall of Nets
+1 Whiplash Trap
+1 Windborn Muse
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Whim of Volrath
+1 Tidal Surge
+1 Sword of Feast and Famine
+1 Thalakos Mistfolk
+1 Vertigo Spawn
+1 Triplicate Spirits
+1 Wine of Blood and Iron
+1 Winged Boots
+1 Thalakos Scout
+1 Wing Commando
+1 Stinging Barrier
+1 Vigilant Sentry
+1 Tidal Barracuda
+1 White Sun's Twilight
+1 Tidebinder Mage
+1 Spiketail Hatchling
+1 Whispersilk Cloak
+1 Way of the Thief
+1 Soraya the Falconer
+1 You Hear Something on Watch
+1 Tishana's Tidebinder
+1 Teferi's Drake
+1 Spectral Grasp
+1 Willbreaker
+1 Unnatural Selection
+1 Turnabout
+1 Tolarian Drake
+1 War Horn
+{'overall': 2.883663366336634, 'cmc': 3.15625, 'ramp': 1, 'draw': 6, 'interaction': 10, 'folder': 'manual_rand', 'commander': 'AyeshaTanaka.txt'}

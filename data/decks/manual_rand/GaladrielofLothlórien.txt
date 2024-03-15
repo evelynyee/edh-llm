@@ -1,69 +1,65 @@
 1 Galadriel of Lothlórien
-1 Young Blue Dragon // Sand Augury
-1 Strategic Planning
-1 Tome Scour
-1 Traverse the Outlands
-1 Urban Evolution
-1 Up the Beanstalk
-1 Timetwister
-1 Tempt with Discovery
-1 Wild-Field Scarecrow
-1 Windreader Sphinx
-1 Tamiyo, Collector of Tales
-1 Trail of Mystery
-1 Wear Away
-1 Wild Wanderer
-1 Winged Words
-1 Thought Prison
-1 Uproot
-1 Venser, Shaper Savant
-1 Youthful Scholar
-1 Timestream Navigator
-1 Witness of the Ages
-1 Viseling
-1 Verdant Mastery
-1 Viridian Harvest
-1 Volatile Fault
-1 Wizards of Thay
-1 Wall of Forgotten Pharaohs
-1 Unlicensed Hearse
-1 World Breaker
-1 The Deck of Many Things
-1 Wistful Selkie
-1 Vorinclex, Monstrous Raider
-1 Workshop Assistant
-1 Time Reversal
-1 Weatherseed Totem
-1 Vivien, Monsters' Advocate
-1 Trusted Advisor
-1 The Fourth Doctor
-1 Tidings
-1 Zahid, Djinn of the Lamp
-1 Vexing Scuttler
-1 Whirling Catapult
-1 Subterranean Schooner
-1 Warm Welcome
-1 Urza's Miter
-1 Withdraw
-1 Void Shatter
-1 Wurm's Tooth
-1 Zoologist
-1 Wild Endeavor
-1 Windscouter
+1 Worldly Tutor
+1 Temporal Spring
+1 Wildcall
+1 Stitched Assistant
+1 Titania, Protector of Argoth
 1 Trophy Mage
-1 Yavimaya Dryad
-1 Vessel of Endless Rest
-1 Winter Eladrin
-1 Zellix, Sanity Flayer
-1 Waterlogged Hulk // Watertight Gondola
-1 Uba Mask
-1 Teferi's Puzzle Box
-1 Torrential Gearhulk
-1 Wizards of the _____
-1 Urza's Bauble
-1 Whispergear Sneak
-1 Zndrsplt's Judgment
+1 Vedalken Heretic
+1 Toothy, Imaginary Friend
+1 Thran Foundry
+1 Wizard Mentor
+1 Thrasios, Triton Hero
+1 Seedborn Muse
+1 Wormfang Turtle
+1 Wizards of Thay
+1 Winged Words
+1 Trinket Mage
+1 Transmute Artifact
+1 Spring // Mind
 1 Yanling's Harbinger
-1 Wurmquake
-1 Time Ebb
-{'overall': 9.596184738955824, 'cmc': 3.661764705882353, 'ramp': '13', 'draw': '23', 'interaction': 1, 'folder': 'manual_rand', 'commander': 'GaladrielofLothlórien.txt'}
+1 Vexing Scuttler
+1 Tolarian Contempt
+1 Mind Stone
+1 Tolaria West
+1 Weapon Rack
+1 Terramorphic Expanse
+1 Vivien, Arkbow Ranger
+1 Venser's Journal
+1 Wall of Forgotten Pharaohs
+1 Travel Through Caradhras
+1 Urza's Bauble
+1 Treasure Keeper
+1 Weatherlight
+1 Verdant Confluence
+1 Wirewood Savage
+1 Vivien's Grizzly
+1 Undead Alchemist
+1 Vapor Snag
+1 Time Spiral
+1 Waterlogged Hulk // Watertight Gondola
+1 Vivien's Arkbow
+1 Vanishment
+1 Wandering Eye
+1 Veiled Crocodile
+1 Timetwister
+1 Whiteout
+1 Vorinclex // The Grand Evolution
+1 Ulvenwald Hydra
+1 Eternal Witness
+1 Thran Tome
+1 Timin, Youthful Geist
+1 Vedalken Aethermage
+1 Virtue of Strength // Garenbrig Growth
+1 Thought Devourer
+1 Wretched Gryff
+1 Wizard Class
+1 Tooth and Nail
+1 Watchful Automaton
+1 Voidwalk
+1 Whim of Volrath
+1 Uncage the Menagerie
+1 The Mending of Dominaria
+1 Zhulodok, Void Gorger
+1 Winding Way
+{'overall': 10.36387665198238, 'cmc': 3.546875, 'ramp': 10, 'draw': 29, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'GaladrielofLothlórien.txt'}

@@ -1,69 +1,65 @@
 1 Tor Wauki the Younger
-1 Ulamog, the Infinite Gyre
-1 Zada, Hedron Grinder
-1 Zanikev Locust
-1 War's Toll
-1 Vraska's Finisher
-1 Tremor
-1 Typhoid Rats
-1 Tormented Hero
-1 Wrench Mind
-1 Volcano Hellion
-1 Zoyowa Lava-Tongue
-1 Volt Charge
-1 Torrent of Fire
-1 Sorcerer of the Fang
-1 Volcanic Fallout
-1 Warren Instigator
-1 Yawgmoth's Edict
-1 Tunneling Geopede
-1 Toil // Trouble
-1 Spellshock
-1 Weaponize the Monsters
-1 Treasonous Ogre
-1 Tymaret, the Murder King
-1 Word of Command
-1 Visions of Brutality
-1 Vial Smasher the Fierce
-1 Volcanic Awakening
-1 Thunderstaff
-1 Stalking Vengeance
-1 Unfriendly Fire
-1 Tsabo's Decree
-1 Wildfire Devils
-1 The Fallen
-1 Surtland Flinger
-1 Spikefield Hazard // Spikefield Cave
-1 Wave of Rats
-1 Volcanic Wind
-1 Squee's Toy
-1 Unhinge
-1 Tower of Calamities
-1 Thunderclap
-1 Wretched Confluence
-1 Torture Chamber
-1 Thunderwave
-1 Vicious Conquistador
-1 Terror of the Peaks
-1 Tendrils of Corruption
-1 Traitor's Roar
-1 Stolen Grain
-1 Sulfurous Blast
-1 Tephraderm
-1 To the Slaughter
-1 Ugin's Nexus
-1 Toxic Iguanar
-1 Wizard's Lightning
-1 Turf War
-1 Torbran, Thane of Red Fell
-1 Wall of Shields
-1 Spire Barrage
-1 Torrent of Lava
-1 Turn to Slag
-1 Worry Beads
-1 Tezzeret's Simulacrum
-1 Syr Carah, the Bold
+1 Triangle of War
+1 Vraska's Contempt
+1 Triskaidekaphobia
+1 Yamabushi's Storm
+1 Whirling Catapult
+1 Yawgmoth Demon
+1 Thud
+1 Tomb Blade
 1 Temporal Extortion
-1 Yawgmoth, Thran Physician
+1 Tor Wauki
+1 Worry Beads
+1 Structural Collapse
+1 Solphim, Mayhem Dominus
+1 Sorin's Vengeance
+1 Tectonic Hazard
+1 Undercity Plague
+1 Tyrant's Machine
+1 Vexing Devil
+1 Sulfuric Vortex
+1 Ulamog, the Infinite Gyre
+1 Zada's Commando
+1 Tunnel Ignus
+1 Thunderwave
+1 Sword of War and Peace
+1 Twinstrike
+1 Vendetta
+1 Squee's Toy
+1 Wall of Forgotten Pharaohs
+1 Thunderbolt
+1 Vampiric Link
+1 Without Weakness
+1 Vindictive Lich
+1 War's Toll
+1 Whiptail Moloch
+1 Urborg Syphon-Mage
+1 _____ Balls of Fire
+1 Vicious Rumors
+1 Wurm's Tooth
+1 Victim of Night
+1 Wand of Wonder
+1 Tethered Skirge
+1 Tresserhorn Skyknight
+1 Telim'Tor's Darts
+1 Tephraderm
+1 Wolf of Devil's Breach
+1 Vicious Shadows
+1 Wall of Putrid Flesh
+1 Tormented Thoughts
+1 Wicked Visitor
+1 Zerapa Minotaur
+1 Diabolic Tutor
+1 Wicked Akuba
+1 Torgaar, Famine Incarnate
 1 Zhang Liao, Hero of Hefei
-{'overall': 4.139682539682539, 'cmc': 3.7058823529411766, 'ramp': '5', 'draw': '4', 'interaction': 27, 'folder': 'manual_rand', 'commander': 'TorWaukitheYounger.txt'}
+1 Wall of Distortion
+1 Tunneling Geopede
+1 Stormscale Anarch
+1 Urza's Rage
+1 Uncivil Unrest
+1 Yawgmoth, Thran Physician
+1 Urgoros, the Empty One
+1 Words of Waste
+1 Ugin's Nexus
+{'overall': 2.78781512605042, 'cmc': 3.71875, 'ramp': 2, 'draw': 3, 'interaction': 20, 'folder': 'manual_rand', 'commander': 'TorWaukitheYounger.txt'}

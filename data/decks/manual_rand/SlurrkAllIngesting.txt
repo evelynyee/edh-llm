@@ -1,69 +1,65 @@
 1 Slurrk, All-Ingesting
-1 Verdant Command
-1 Vastwood Animist
-1 Turntimber Grove
-1 Doubling Season
-1 Veteran's Armaments
-1 Wolverine Riders
-1 Hardened Scales
-1 You Happen On a Glade
-1 Tuinvale Treefolk // Oaken Boon
-1 Voice of Many
-1 Spike Weaver
-1 Swiftgear Drake
-1 Throne of Geth
-1 Shield Sphere
-1 Thopter Squadron
-1 Yavimaya Elder
-1 Weapon Rack
-1 Wrap in Vigor
-1 The Huntsman's Redemption
-1 Wolfbriar Elemental
-1 Turntimber Basilisk
-1 Wintermoon Mesa
-1 Titania, Gaea Incarnate
-1 Wicked Wolf
-1 Viridian Betrayers
-1 Snapping Sailback
-1 Viridian Emissary
-1 Ventifact Bottle
-1 Venom Connoisseur
-1 Swarm Shambler
-1 Whiteout
-1 Thallid Germinator
-1 Vitaspore Thallid
-1 Venerated Rotpriest
-1 Undercellar Myconid
-1 Serum Tank
-1 Sword of Truth and Justice
-1 Veteran Explorer
-1 Tin-Wing Chimera
-1 Yavimaya Sapherd
-1 Wolfir Silverheart
-1 _____-o-saurus
-1 Vastwood Hydra
-1 Vorapede
-1 Winding Way
-1 Vorinclex // The Grand Evolution
-1 Wary Thespian
-1 Voracious Wurm
-1 Eternal Witness
-1 Thallid Devourer
-1 Tribute to the World Tree
+1 Woodland Sleuth
+1 Wrenn and Seven
+1 Sporesower Thallid
+1 Sword of Hours
+1 Ulvenwald Mysteries
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+1 Sol Ring
 1 Tooth and Nail
-1 Verdant Succession
-1 Tishana's Wayfinder
-1 Thran Portal
-1 Welding Jar
-1 Wild Endeavor
-1 Triskelavus
-1 Thallid
-1 Tel-Jilad Fallen
-1 Splitting Slime
-1 Weatherlight Compleated
+1 Spike Weaver
+1 Web
+1 Webspinner Cuff
+1 Spike Rogue
+1 Sweet-Gum Recluse
+1 Hardened Scales
+1 Verdeloth the Ancient
+1 Tendril of the Mycotyrant
+1 Wild Onslaught
+1 Ulvenwald Hydra
+1 Wingrattle Scarecrow
+1 Steel Dromedary
+1 Mind Stone
+1 Treasure Chest
+1 Venerable Kumo
+1 Vulshok Gauntlets
+1 Walking Atlas
+1 Eternal Witness
+1 Wrecking Beast
+1 Stony Strength
+1 Toadstool Admirer
 1 Serrated Arrows
-1 The World Spell
-1 Tales of Master Seshiro // Seshiro's Living Legacy
-1 Spore Flower
-1 Ulamog's Despoiler
-{'overall': 5.557142857142858, 'cmc': 3.2941176470588234, 'ramp': '7', 'draw': '12', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'SlurrkAllIngesting.txt'}
+1 Trigon of Infestation
+1 Spawning Pit
+1 Treeshaker Chimera
+1 Warm Welcome
+1 Wild Pair
+1 Wirewood Savage
+1 Venerated Rotpriest
+1 Wild Wanderer
+1 Welcome to Sweettooth
+1 Voracious Typhon
+1 Vivid Revival
+1 Tilling Treefolk
+1 Whirling Dervish
+1 Storm the Seedcore
+1 Sylvan Anthem
+1 Undergrowth Scavenger
+1 Wrenn and Realmbreaker
+1 Wall of Blossoms
+1 Trollbred Guardian
+1 The Monumental Facade
+1 Wary Thespian
+1 Ugin's Construct
+1 Tuskguard Captain
+1 Veteran Explorer
+1 Tanglespan Lookout
+1 Voracious Wurm
+1 Wildwood Tracker
+1 Wolfkin Outcast // Wedding Crasher
+1 Ulvenwald Tracker
+1 Soul's Might
+1 Untamed Kavu
+1 Trusted Forcemage
+1 Servant of the Scale
+{'overall': 5.165384615384615, 'cmc': 3.25, 'ramp': 5, 'draw': 13, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'SlurrkAllIngesting.txt'}

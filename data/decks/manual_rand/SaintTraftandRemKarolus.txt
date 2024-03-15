@@ -1,69 +1,65 @@
 1 Saint Traft and Rem Karolus
-1 Teferi's Protection
-1 Wayward Angel
-1 Voyager Staff
-1 Toggo, Goblin Weaponsmith
-1 Timely Reinforcements
-1 Tinker's Tote
-1 Wedding Invitation
-1 Wall of Resurgence
-1 Transmogrifying Wand
-1 Wing Commando
-1 The Raven's Warning
-1 Sun-Blessed Guardian // Furnace-Blessed Conqueror
-1 Virtue of Knowledge // Vantress Visions
-1 Warping Wail
+1 Vassal Soul
+1 Wild Griffin
+1 Tibalt, Rakish Instigator
+1 Will of the Naga
+1 Teller of Tales
 1 The Battle of Bywater
-1 Vault Robber
-1 Wall of Frost
-1 Titan Forge
-1 Word of Undoing
-1 Twinning Staff
-1 Vampires' Vengeance
-1 Trail of Evidence
-1 Verity Circle
-1 Take Up Arms
-1 Winged Words
+1 Waterkin Shaman
+1 Thopter Shop
+1 Victory's Herald
+1 Sunspire Gatekeepers
 1 Wavecrash Triton
-1 Wind-Kin Raiders
-1 Whiplash Trap
-1 The Hive
-1 Volcanic Awakening
-1 Treason of Isengard
-1 Wurmcoil Engine
-1 Talrand's Invocation
-1 Weary Prisoner // Wrathful Jailbreaker
-1 Voice of Grace
-1 Updraft
-1 Vacuumelt
-1 Thopter Squadron
-1 The Everflowing Well // The Myriad Pools
-1 Thassa's Emissary
-1 Throne of Empires
-1 Warhorn Blast
-1 Vedalken Archmage
-1 Whalebone Glider
-1 Thermal Glider
+1 Vodalian Mystic
+1 Willbender
+1 You See a Pair of Goblins
+1 Wrangle
+1 Two-Handed Axe // Sweeping Cleave
+1 Wake the Past
+1 Touch the Spirit Realm
+1 Whirlwind of Thought
+1 Wildfire Awakener
+1 Tilonalli's Knight
+1 The Book of Exalted Deeds
+1 Vigil for the Lost
+1 Veteran Soldier
+1 Waylay
+1 Voyager Staff
+1 Wake the Reflections
+1 Warrior en-Kor
+1 The Eleventh Hour
 1 Thalia's Geistcaller
-1 Swarming of Moria
-1 Veyran, Voice of Duality
-1 Wingmantle Chaplain
-1 Wind Zendikon
-1 Thraben Sentry // Thraben Militia
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Winged Hive Tyrant
-1 Welcoming Vampire
-1 Unctus's Retrofitter
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Unstable Shapeshifter
-1 Vizier of Many Faces
-1 Veil of Assimilation
-1 Twisted Fealty
-1 Zeriam, Golden Wind
-1 Tetravus
-1 Thousand-Faced Shadow
-1 Séance
-1 Vanguard Suppressor
-1 Warcry Phoenix
-1 Vesuvan Doppelganger
-{'overall': 5.172649572649572, 'cmc': 3.4925373134328357, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}
+1 Winds of Abandon
+1 White Shield Crusader
+1 Valor of the Worthy
+1 Writ of Passage
+1 Wyll's Reversal
+1 Voice of Reason
+1 Voice of Grace
+1 Zealots en-Dal
+1 Wizards of Thay
+1 Thunderkin Awakener
+1 Wandering Archaic // Explore the Vastlands
+1 Throne of Empires
+1 Summoning Station
+1 Tidebinder Mage
+1 Valkyrie's Sword
+1 The Raven's Warning
+1 Three Blind Mice
+1 Will, Scion of Peace
+1 Thraben Inspector
+1 Transmogrifying Wand
+1 The Twelfth Doctor
+1 Zaffai, Thunder Conductor
+1 Take Up Arms
+1 Two-Handed Axe // Sweeping Cleave
+1 Weatherseed Faeries
+1 Wildfire Eternal
+1 Vizier of Deferment
+1 Urza, Lord High Artificer
+1 Wishmonger
+1 Éowyn, Fearless Knight
+1 Whip-Spine Drake
+1 White Sun's Zenith
+1 Village Bell-Ringer
+{'overall': 2.75, 'cmc': 3.3333333333333335, 'ramp': 1, 'draw': 6, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'SaintTraftandRemKarolus.txt'}

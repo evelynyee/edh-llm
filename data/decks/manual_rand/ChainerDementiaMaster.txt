@@ -1,69 +1,65 @@
 1 Chainer, Dementia Master
-1 The War in Heaven
-1 Shadowgrange Archfiend
-1 Undying Beast
-1 Chrome Mox
-1 The Torment of Gollum
-1 Unliving Psychopath
-1 Vile Manifestation
-1 Waste Not
-1 Tortured Existence
-1 Topaz Dragon // Entropic Cloud
-1 Unmask
-1 Wretched Camel
-1 Tainted Adversary
-1 Wei Assassins
-1 Westvale Abbey // Ormendahl, Profane Prince
-1 Unholy Grotto // Unholy Grotto
-1 Unmake the Graves
+1 Tyrite Sanctum
+1 Szarekh, the Silent King
+1 Whisper, Blood Liturgist
+1 Voracious Fell Beast
+1 Yawgmoth's Will
+1 Walker of the Wastes
+1 Zulaport Cutthroat
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Zanikev Locust
 1 Underworld Charger
-1 Slagstone Refinery
-1 Sword of the Animist
-1 Shattered Crypt
-1 Tombfire
-1 Wall of Distortion
-1 Troll of Khazad-dûm
-1 Soul Strings
-1 Summoning Station
-1 Slumbering Tora
-1 Dark Ritual
-1 Warren Pilferers
-1 Uchuulon
-1 Withering Wisps
-1 Toshiro Umezawa
-1 Tergrid, God of Fright // Tergrid's Lantern
-1 Waste Away
-1 Treacherous Werewolf
-1 Sorin the Mirthless
-1 Undying Evil
-1 Wall of Limbs
-1 Urza's Incubator
-1 Sidisi, Undead Vizier
-1 Vito, Thorn of the Dusk Rose
-1 Wake the Dead
-1 Vengeant Vampire
-1 Writ of Return
-1 Vulshok Gauntlets
-1 Trash Bin
-1 Witch of the Moors
-1 Sultai Emissary
-1 Warping Wail
-1 Thran Foundry
-1 Summon Undead
-1 Voracious Vermin
-1 Undead Warchief
-1 Tithebearer Giant
-1 Twins of Maurer Estate
-1 Tidy Conclusion
-1 Sivriss, Nightmare Speaker
-1 Syphon Life
-1 Volrath's Laboratory
-1 Terrain Generator
+1 Thrull Surgeon
+1 The Black Gate
+1 Undead Butler
+1 Treacherous Vampire
+1 Ulamog, the Infinite Gyre
+1 Wasteland Scorpion
+1 Thief of Hope
+1 Swashbuckler's Whip
+1 The Raven Man
+1 Voracious Null
+1 Skyclave Shadowcat
+1 Skeleton Shard
+1 Sibsig Muckdraggers
+1 Viridian Longbow
+1 Urborg Panther
+1 Skull of Orm
+1 Zhentarim Bandit
+1 The End
+1 Transmogrant Altar
+1 Vicious Battlerager
+1 Thran Portal
+1 Tormod's Cryptkeeper
+1 Voltaic Construct
+1 Weirded Vampire
+1 Withered Wretch
+1 Vilis, Broker of Blood
+1 Soul of Innistrad
+1 Animate Dead
+1 Wondrous Crucible
 1 Treacherous Blessing
-1 Voldaren Estate
-1 War Room
-1 Triassic Egg
-1 Stitch Together
-1 Weirding Shaman
-1 Urn of Godfire
-{'overall': 5.809865470852018, 'cmc': 3.2794117647058822, 'ramp': '9', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'ChainerDementiaMaster.txt'}
+1 Tarrian's Soulcleaver
+1 Skullsnatcher
+1 Whisper Squad
+1 Young Necromancer
+1 Unhallowed Pact
+1 Voracious Vermin
+1 Wild-Field Scarecrow
+1 Suffocating Fumes
+1 Tormented Thoughts
+1 Voldaren Bloodcaster // Bloodbat Summoner
+1 Tetzimoc, Primal Death
+1 Zombie Cutthroat
+1 Skyclave Shade
+1 Thought Dissector
+1 Wedding Security
+1 Sword of the Meek
+1 Whack
+1 Vampiric Rites
+1 Soul-Guide Lantern
+1 Vanquish the Weak
+1 Zombie Boa
+1 Vengeful Dead
+1 Tombfire
+{'overall': 4.9344748858447485, 'cmc': 3.421875, 'ramp': 4, 'draw': 12, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ChainerDementiaMaster.txt'}

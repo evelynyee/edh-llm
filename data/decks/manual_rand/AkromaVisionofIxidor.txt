@@ -1,69 +1,65 @@
 1 Akroma, Vision of Ixidor
-1 Sword of the Chosen
-1 Thraben Sentry // Thraben Militia
-1 Vanguard's Shield
-1 Temper
-1 Soltari Emissary
-1 Take Heart
-1 Skyshroud Falcon
-1 Well of Discovery
-1 Silverstorm Samurai
-1 Woeleecher
-1 Training Drone
-1 Zealot's Conviction
-1 Spear of Heliod
-1 Time of Heroes
-1 Thunderous Orator
-1 Wrath of God
-1 Temporal Isolation
-1 Stalwart Shield-Bearers
-1 Tine Shrike
-1 Valor
-1 Venerable Lammasu
-1 Yotian Soldier
-1 Task Force
-1 Valor in Akros
-1 Land Tax
-1 Veilstone Amulet
-1 Wirecat
-1 Squad Commander
-1 Silver-Inlaid Dagger
-1 Weathered Bodyguards
-1 Vial of Poison
-1 Selfless Spirit
-1 Trailblazer's Torch
-1 Steadfast Paladin
-1 Soltari Champion
-1 Tezzeret's Strider
-1 Twinblade Paladin
-1 Vampire Slayer
-1 Werewolf Lightning Mage
-1 Victory's Envoy
-1 Windborn Muse
-1 Steadfast Guard
-1 Winter Orb
-1 Wellgabber Apothecary
-1 Voice of Reason
-1 Warded Battlements
-1 Warrior Angel
-1 Voltaic Construct
-1 Wall of Spears
-1 Zhalfirin Lancer
-1 Vigilant Sentry
-1 Vulshok Battlegear
-1 Wall of Resurgence
 1 Weakstone
-1 Sol Ring
-1 Sun Sentinel
-1 Snow Fortress
-1 Talus Paladin
+1 Wall of Resistance
+1 Surge of Salvation
+1 Warded Battlements
+1 White Sun's Twilight
+1 Warchanter Skald
+1 Stormfront Pegasus
+1 Town Sentry
+1 Valor in Akros
+1 The Hive
+1 Torch Gauntlet
+1 Siege Striker
+1 Woolly Razorback
+1 Stalwart Pathlighter
+1 Urza's Dark Cannonball
+1 Skyhunter Prowler
+1 Zealot il-Vec
+1 Traveling Minister
+1 Sunspear Shikari
+1 Wall of Shields
+1 Thraben Doomsayer
+1 Wall of Junk
+1 Skyswirl Harrier
+1 Test of Faith
+1 Tundra Wolves
+1 Soul of Theros
+1 Watchwing Scarecrow
+1 Windborn Muse
+1 Standing Troops
+1 Vanquish
+1 War Chariot
+1 Winter Orb
+1 Zealous Strike
+1 Take Heart
+1 Thermal Navigator
 1 Tower of Coireall
-1 Spare from Evil
-1 Scuttling Butler
-1 Taranika, Akroan Veteran
-1 Warmonger's Chariot
-1 Tuinvale Guide
+1 Wall of Glare
+1 Take Up the Shield
+1 Veteran's Armaments
+1 Valkyrie Harbinger
+1 Wayward Angel
+1 Spirit Weaver
+1 War Oracle
+1 Wicker Warcrawler
+1 Wings of the Guard
+1 Spirit of the Spires
+1 Warrior's Stand
+1 Transmogrifying Licid
+1 Vorrac Battlehorns
+1 Wyrm's Crossing Patrol
+1 Zhalfirin Commander
+1 Sunhome Stalwart
+1 Steppe Glider
+1 Skillful Lunge
+1 Stir the Pride
+1 Shadow Glider
+1 Sanctuary Raptor
+1 Warhorn Blast
+1 Wall of Caltrops
+1 Spectra Ward
+1 Tower of the Magistrate
 1 Soltari Lancer
-1 Zhang Fei, Fierce Warrior
-1 Veteran's Reflexes
-{'overall': 1.9296296296296298, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '2', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}
+1 Thalia's Geistcaller
+{'overall': 0.7736842105263158, 'cmc': 2.96875, 'ramp': 0, 'draw': 0, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'AkromaVisionofIxidor.txt'}

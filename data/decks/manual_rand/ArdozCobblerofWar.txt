@@ -1,69 +1,65 @@
 1 Ardoz, Cobbler of War
-1 Threaten
-1 Ugin's Mastery
-1 Teeterpeak Ambusher
-1 Thraben Gargoyle // Stonewing Antagonizer
-1 Trove of Temptation
-1 Short Sword
-1 Utvara Hellkite
-1 Tuktuk Rubblefort
-1 Welding Sparks
-1 Sibling Rivalry
-1 Village Watch // Village Reavers
-1 Valakut Predator
-1 Slagwurm Armor
-1 Unchained Berserker
-1 The Elder Dragon War
+1 Whiptail Moloch
+1 Trading Post
+1 Tempt with Vengeance
+1 Temporary Insanity
 1 Thunder Brute
-1 Stitcher's Graft
-1 Wolfhunter's Quiver
-1 Mind Stone
-1 Rosnakht, Heir of Rohgahh
-1 Whirling Strike
-1 Torrent of Lava
-1 Urza's Avenger
-1 Thundermare
-1 Summoning Station
-1 Uncaged Fury
-1 Viashino Bladescout
-1 Titan Forge
-1 Volatile Arsonist // Dire-Strain Anarchist
-1 Voldaren Thrillseeker
-1 Red Elemental Blast
+1 Unleash Fury
+1 Spawning Breath
+1 Stampede Rider
 1 Tuktuk the Explorer
-1 Wondrous Crucible
-1 Traitorous Instinct
-1 Storm Strike
-1 Wandering Goblins
-1 Warehouse Thief
-1 Vow of Lightning
-1 Shinen of Fury's Fire
-1 Swashbuckling
-1 Lightning Bolt
-1 Tarrian's Soulcleaver
-1 Viashino Shanktail
-1 Scythe of the Wretched
-1 Slayer's Plate
-1 Snake Basket
+1 Suq'Ata Lancer
+1 Tilonalli's Crown
+1 Viridian Claw
+1 Sword of the Meek
+1 Tuktuk Scrapper
+1 The Elder Dragon War
+1 Yotian Soldier
+1 Stoneforge Masterwork
+1 Éomer of the Riddermark
+1 Whetwheel
+1 Tyrant's Machine
+1 Red Elemental Blast
+1 Tormentor's Helm
+1 Vaultbreaker
+1 Tibalt, Rakish Instigator
+1 Thran Power Suit
+1 Telethopter
+1 Zelyon Sword
+1 Stonehands
+1 Warchief Giant
+1 Singe
+1 Strider Harness
+1 Wild Celebrants
 1 Sanguine Statuette
-1 Sparring Golem
-1 Chromatic Lantern
-1 Uncontrollable Anger
-1 War Chariot
-1 Valduk, Keeper of the Flame
-1 Twisted Fealty
-1 Sneak Attack
-1 Thundermaw Hellkite
-1 Stonewright
-1 Wall of Junk
-1 Thrash of Raptors
-1 Scrapyard Steelbreaker
-1 Thirsting Axe
-1 Yotia Declares War
-1 Wall of Fire
-1 Thunderkin Awakener
-1 Well of Life
-1 Warpath
-1 Scytheclaw
-1 Tibalt, the Fiend-Blooded
-{'overall': 3.3884976525821595, 'cmc': 3.1323529411764706, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}
+1 Themberchaud
+1 Vildin-Pack Outcast // Dronepack Kindred
+1 Tundra Kavu
+1 Where Ancients Tread
+1 Tiamat's Fanatics
+1 Walking Skyscraper
+1 Toralf, God of Fury // Toralf's Hammer
+1 War Horn
+1 Thunder Strike
+1 Urabrask // The Great Work
+1 Song of Totentanz
+1 Thrashing Frontliner
+1 Sarkhan the Masterless
+1 Thunderstaff
+1 Sol Ring
+1 Vulshok Heartstoker
+1 Unerring Sling
+1 Sword of Kaldra
+1 Yuan Shao's Infantry
+1 Siege-Gang Commander
+1 Witch's Mark
+1 Slab Hammer
+1 Wily Goblin
+1 Tower of Champions
+1 Whalebone Glider
+1 Zada's Commando
+1 Wizard's Rockets
+1 Vorrac Battlehorns
+1 Traitorous Instinct
+1 Soul Separator
+{'overall': 4.077450980392157, 'cmc': 3.1875, 'ramp': 4, 'draw': 7, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'ArdozCobblerofWar.txt'}

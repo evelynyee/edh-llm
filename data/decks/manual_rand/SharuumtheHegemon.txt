@@ -1,69 +1,65 @@
 1 Sharuum the Hegemon
-1 Wedding Security
-1 Undying Beast
-1 Whip of Erebos
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Teferi, Temporal Pilgrim
 1 Mana Vault
-1 Swiftgear Drake
-1 The Fall of Lord Konda // Fragment of Konda
-1 Vulturous Aven
-1 Stitch Together
-1 Zof Consumption // Zof Bloodbog
-1 Void Beckoner
-1 Trade Routes
-1 Thwart
-1 Winnow
-1 Uchbenbak, the Great Mistake
-1 Zndrsplt's Judgment
-1 Treasure Hunter
-1 Wail of the Forgotten
-1 Veilborn Ghoul
-1 Ulamog's Nullifier
-1 Unesh, Criosphinx Sovereign
-1 Vesuva
-1 Thaumaturge's Familiar
-1 Tolarian Sentinel
-1 Void Shatter
-1 Vault of Champions
-1 Trinket Mage
-1 The War in Heaven
-1 Treacherous Pit-Dweller
-1 Workshop Assistant
-1 Surprise Deployment
-1 Unhallowed Pact
-1 Unholy Grotto // Unholy Grotto
-1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
-1 Write into Being
-1 The Cauldron of Eternity
-1 The Long Reach of Night // Animus of Night's Reach
-1 Winds of Abandon
-1 Vizier of Deferment
-1 Welcome to the Fold
-1 Zanikev Locust
-1 Zephyr Spirit
-1 Wheel and Deal
-1 Undercity Scavenger
-1 Toothy, Imaginary Friend
-1 Witness the Future
-1 Void Squall
-1 Tomb Robber
-1 Withering Gaze
-1 Technomancer
-1 Waterlogged Hulk // Watertight Gondola
-1 Wondrous Crucible
-1 Watcher in the Mist
-1 Visage of Dread // Dread Osseosaur
-1 Virus Beetle
-1 Wormfang Turtle
-1 Thassa's Devourer
-1 Wizard Mentor
-1 Together Forever
-1 Tithing Blade // Consuming Sepulcher
-1 Wailing Ghoul
-1 Tameshi, Reality Architect
-1 Ulamog's Despoiler
-1 Yukora, the Prisoner
-1 Whisper Squad
-1 Venser's Diffusion
-1 Urborg Emissary
+1 Whisper, Blood Liturgist
+1 Unbreakable Bond
+1 Venerated Teacher
 1 Threadbind Clique // Rip the Seams
-{'overall': 5.48125, 'cmc': 3.764705882352941, 'ramp': '2', 'draw': '17', 'interaction': 4, 'folder': 'manual_rand', 'commander': 'SharuumtheHegemon.txt'}
+1 Tezzeret's Betrayal
+1 The Long Reach of Night // Animus of Night's Reach
+1 Treacherous Pit-Dweller
+1 The War in Heaven
+1 Wanderwine Hub
+1 Treasure Mage
+1 Young Necromancer
+1 Virtue of Persistence // Locthwain Scorn
+1 Taj-Nar Swordsmith
+1 Vampire Charmseeker
+1 Unholy Grotto
+1 Whisk Away
+1 The Modern Age // Vector Glider
+1 Winter Eladrin
+1 Wedding Security
+1 Vat Emergence
+1 Tergrid, God of Fright // Tergrid's Lantern
+1 Whispers of Emrakul
+1 Voyager Staff
+1 Unexpectedly Absent
+1 Winged Shepherd
+1 Undersea Invader
+1 Void Snare
+1 Unearth
+1 Teferi's Wavecaster
+1 Wind Zendikon
+1 Undead Servant
+1 Vodalian Merchant
+1 Urborg Mindsucker
+1 Virtue of Persistence // Locthwain Scorn
+1 Traveler's Amulet
+1 Tomb Robber
+1 Wormfang Turtle
+1 Tourach, Dread Cantor
+1 Wand of Denial
+1 Transmute Artifact
+1 Wormfang Crab
+1 Tribute to Horobi // Echo of Death's Wail
+1 Whiplash Trap
+1 War Priest of Thune
+1 Zndrsplt, Eye of Wisdom
+1 Zombie Assassin
+1 The Birth of Meletis
+1 Trinket Mage
+1 Tocasia's Onulet
+1 Stonecloaker
+1 Vohar, Vodalian Desecrator
+1 Talas Explorer
+1 Path to Exile
+1 Withering Gaze
+1 Watchers of the Dead
+1 Undertaker
+1 Ulamog's Nullifier
+1 Trusty Retriever
+1 Triad of Fates
+1 Thassa's Devourer
+{'overall': 6.420135746606334, 'cmc': 3.507936507936508, 'ramp': 3, 'draw': 19, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SharuumtheHegemon.txt'}

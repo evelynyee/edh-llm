@@ -1,69 +1,65 @@
 1 Skanos Dragonheart
-1 Uba Mask
-1 Verdurous Gearhulk
-1 Weatherseed Elf
-1 Tyvar's Stand
-1 Witchstalker
-1 Verdant Outrider
-1 Wildslayer Elves
-1 Mana Vault
-1 Telethopter
-1 Treetop Ambusher
-1 Viridian Claw
-1 Twists and Turns // Mycoid Maze
-1 Sudden Strength
-1 Ulamog's Crusher
-1 Wose Pathfinder
-1 Thran Forge
-1 Sylvan Advocate
 1 Weird Harvest
-1 Wicker Warcrawler
-1 The Tarrasque
-1 Vibrating Sphere
-1 Vexing Beetle
-1 Vial of Poison
-1 Soul's Majesty
-1 Transmogrifying Licid
-1 Staggering Size
-1 Wolf Pack
-1 Surrak, the Hunt Caller
-1 Witch's Web
-1 Verdant Rebirth
-1 Vintara Elephant
-1 Territorial Boar
-1 Sylvan Awakening
-1 Sword of Feast and Famine
-1 Thorn Lieutenant
-1 Doubling Season
+1 Timberpack Wolf
 1 Typhoon
-1 Wirewood Pride
-1 Venomous Dragonfly
-1 Waxing Moon
-1 Woolly Spider
-1 Vine Gecko
-1 Ugin's Mastery
-1 Vulpine Goliath
-1 Wild Nacatl
+1 Wolfcaller's Howl
 1 Soul's Might
-1 Trail of Mystery
-1 Whirling Dervish
-1 Zephyr Boots
-1 Tel-Jilad Defiance
-1 You Look Upon the Tarrasque
-1 Ursapine
-1 Yisan, the Wanderer Bard
-1 Territorial Baloth
-1 Llanowar Elves
-1 Walking Skyscraper
-1 Vigorspore Wurm
-1 Zodiac Horse
-1 Wurm's Tooth
-1 Ulvenwald Observer
-1 Twigwalker
-1 Unholy Citadel
-1 Xanthic Statue
-1 Verdeloth the Ancient
-1 Tributary Instructor
+1 Mana Vault
+1 Sylvan Yeti
+1 Vengeant Earth
+1 Yeva's Forcemage
+1 Unnatural Aggression
+1 Venom Sliver
+1 Vexing Beetle
+1 Wolf Pack
+1 Viseling
+1 Wurmquake
+1 War Chariot
+1 Vine Gecko
+1 Tajuru Beastmaster
+1 War Dance
+1 Shadowed Caravel
+1 Twinblade Slasher
+1 Thelonite Druid
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Vine Snare
+1 Venomous Brutalizer
+1 Wolf Strike
+1 Termagant Swarm
+1 Tendril of the Mycotyrant
+1 Titanic Growth
+1 Stonehoof Chieftain
+1 Vivien's Stampede
+1 Whisperwood Elemental
+1 Tarmogoyf
+1 Wild Onslaught
+1 Wheel of Torture
+1 Sword of Hours
+1 Upwelling
+1 The Weatherseed Treaty
+1 Vine Kami
+1 Vulpine Goliath
+1 Thrive
+1 Whirling Catapult
+1 Stampede
+1 Tree of Redemption
+1 Zodiac Tiger
+1 Wind Shear
+1 Viral Spawning
+1 Zenith Chronicler
+1 Waker of the Wilds
+1 Snowblind
 1 Sword of Hearth and Home
-1 Smuggler's Copter
-{'overall': 4.676271186440678, 'cmc': 3.4705882352941178, 'ramp': '6', 'draw': '10', 'interaction': 2, 'folder': 'manual_rand', 'commander': 'SkanosDragonheart.txt'}
+1 Steel Hellkite
+1 Well of Discovery
+1 Wayward Swordtooth
+1 Singing Tree
+1 Whirling Dervish
+1 Tyvar's Stand
+1 Venom Connoisseur
+1 Tromp the Domains
+1 The Tarrasque
+1 Thicket Crasher
+1 Wardscale Crocodile
+1 Voice of the Vermin
+{'overall': 2.9355648535564853, 'cmc': 3.734375, 'ramp': 4, 'draw': 5, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'SkanosDragonheart.txt'}

@@ -62,5 +62,4 @@
 1 Thassa, God of the Sea
 1 Vizier of Many Faces
 1 Temporal Mastery
-1 Supreme Verdict
-{'overall': 6.400847457627118, 'cmc': 3.6307692307692307, 'ramp': '7', 'draw': '14', 'interaction': 12, 'folder': 'gpt', 'commander': 'RanartheEverWatchful.txt'}
+{'overall': 6.3517241379310345, 'cmc': 3.625, 'ramp': 7, 'draw': 14, 'interaction': 11, 'folder': 'gpt', 'commander': 'RanartheEverWatchful.txt'}

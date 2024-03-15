@@ -1,69 +1,65 @@
 1 Taborax, Hope's Demise
-1 Vengeful Pharaoh
-1 Umezawa's Jitte
-1 Summoning Station
-1 Unspeakable Symbol
-1 Vorrac Battlehorns
-1 Vengeful Vampire
-1 The Filigree Sylex
-1 Twilight Prophet
-1 Windswept Heath
-1 Tangle Wire
-1 Urza's Miter
-1 Unholy Indenture
-1 Weatherlight Compleated
-1 Yahenni, Undying Partisan
-1 Titan Forge
-1 Vermiculos
-1 Weed Strangle
-1 Zombie Brute
-1 Wake the Dead
-1 Vampire Scrivener
-1 Stonecoil Serpent
-1 Diabolic Tutor
-1 Sol Ring
-1 Trespasser's Curse
-1 Triskelavus
-1 Yukora, the Prisoner
-1 Tortured Existence
-1 Wave of Rats
-1 Wight
-1 Talon of Pain
-1 Without Weakness
-1 Sword of the Ages
-1 Thran Temporal Gateway
-1 Wretched Banquet
-1 Vexing Puzzlebox
-1 Vector Asp
-1 Staff of the Death Magus
-1 Wayfarer's Bauble
-1 Tizerus Charger
-1 Warren Pilferers
-1 Spitting Dilophosaurus
-1 Wall of Limbs
-1 Skemfar Avenger
-1 Sword of Hours
-1 Sigil of Distinction
-1 Splendid Agony
-1 Yawgmoth's Edict
-1 To the Slaughter
-1 Tempt with Immortality
-1 Vampire Nocturnus
-1 Tetravus
-1 Shrine of Limitless Power
-1 Woebearer
-1 Sunset Pyramid
-1 Tablet of Compleation
-1 Swiftgear Drake
-1 Writ of Return
-1 Voracious Vampire
-1 Shield Sphere
-1 Wolf in _____ Clothing
-1 Tawnos's Weaponry
-1 Spike Cannibal
+1 Tourach's Chant
+1 Void Maw
+1 Ventifact Bottle
+1 Vraska's Scorn
+1 Sorin, Imperious Bloodlord
+1 Soulblade Corrupter
+1 Ugin, the Spirit Dragon
+1 Verdant Catacombs
 1 Thornbite Staff
-1 Wand of Orcus
-1 Stitcher's Supplier
-1 Whisper of the Dross
+1 Their Number Is Legion
+1 Sightless Ghoul
+1 Thief of Hope
+1 Treacherous Pit-Dweller
+1 Tar Fiend
+1 Vilis, Broker of Blood
+1 Soultether Golem
+1 _____ _____ Rocketship
+1 Tithing Blade // Consuming Sepulcher
+1 Supernatural Stamina
+1 Tetzimoc, Primal Death
+1 Tombstone Stairwell
+1 Tormented Hero
+1 Unbreathing Horde
+1 Thoughtpicker Witch
+1 Victimize
+1 Vampiric Sliver
+1 The Witch's Vanity
+1 Tablet of Epityr
+1 Underhanded Designs
+1 Tourach's Gate
+1 Torture Chamber
+1 Thought Gorger
+1 Unholy Indenture
+1 Steel Dromedary
+1 Warlock Class
 1 The Book of Vile Darkness
-{'overall': 4.347619047619047, 'cmc': 3.088235294117647, 'ramp': '4', 'draw': '9', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TaboraxHopesDemise.txt'}
+1 Xenic Poltergeist
+1 Witch's Cauldron
+1 Ugin's Mastery
+1 Zulaport Enforcer
+1 Settle the Score
+1 Vat of Rebirth
+1 The Monumental Facade
+1 Subterranean Hangar
+1 The Meathook Massacre
+1 Vampire Sovereign
+1 Vengeful Strangler // Strangling Grasp
+1 Zephyr Boots
+1 Unforgiving One
+1 Tidy Conclusion
+1 Weaponcraft Enthusiast
+1 Wave of Rats
+1 Witch's Oven
+1 Skemfar Avenger
+1 Scrapyard Recombiner
+1 Termination Facilitator
+1 Wight of Precinct Six
+1 Thran Power Suit
+1 Underworld Sentinel
+1 Vraska's Conquistador
+1 Thieving Amalgam
+1 Zombie Mob
+1 Stitcher's Supplier
+{'overall': 4.623684210526315, 'cmc': 2.96875, 'ramp': 1, 'draw': 12, 'interaction': 14, 'folder': 'manual_rand', 'commander': 'TaboraxHopesDemise.txt'}

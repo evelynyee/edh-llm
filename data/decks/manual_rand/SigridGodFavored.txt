@@ -1,69 +1,65 @@
 1 Sigrid, God-Favored
-1 Werefox Bodyguard
-1 Mana Vault
-1 Suncleanser
-1 Wellgabber Apothecary
-1 Slumbering Keepguard
+1 Austere Command
+1 Vanguard of the Rose
+1 Squad Captain
+1 Vengeance
 1 Untethered Express
-1 Veil of Assimilation
-1 Vizier of the True
-1 Triclopean Sight
-1 Thraben Heretic
-1 Wall of Caltrops
-1 Veteran's Sidearm
-1 Stoneforge Masterwork
-1 Weight of Conscience
-1 Tocasia's Welcome
-1 Surge of Righteousness
-1 Wine of Blood and Iron
-1 Star Pupil
-1 Zealot's Conviction
-1 Sun Sentinel
-1 Silkwrap
-1 The Ozolith
-1 Shire Shirriff
-1 Yotian Medic
-1 Synod Sanctum
-1 Tenth District Veteran
-1 Urgent Exorcism
-1 Sheer Drop
-1 Trailblazer's Torch
-1 Whitemane Lion
-1 The Wanderer
-1 Snare Tactician
-1 Triplicate Spirits
-1 Sunblast Angel
-1 Semester's End
-1 Steeling Stance
-1 Zamriel, Seraph of Steel
-1 Terashi's Cry
-1 Unified Strike
-1 Take Up the Shield
+1 Steel Overseer
+1 Territorial Hammerskull
+1 Warden of the Inner Sky
+1 _____ _____ Rocketship
+1 Zhalfirin Decoy
+1 Warrior's Honor
+1 Zephyr Boots
+1 Stone Haven Pilgrim
 1 You're Ambushed on the Road
-1 Skyhunter Strike Force
-1 Siege Veteran
-1 Sun-Crested Pterodon
-1 Valkyrie Harbinger
-1 White Sun's Zenith
-1 Slagwurm Armor
-1 Wojek Apothecary
-1 Wurmcoil Engine
-1 Virtue of Loyalty // Ardenvale Fealty
-1 White Plume Adventurer
-1 Vanguard's Shield
-1 Seedpod Caretaker
-1 Whalebone Glider
-1 Turn the Tables
-1 Surprise Deployment
-1 War Priest of Thune
-1 Unbreakable Formation
-1 Swordsworn Cavalier
-1 Unerring Sling
-1 Trove Warden
-1 Touchstone
-1 Ticketomaton
-1 Twinblade Geist // Twinblade Invocation
-1 The Wandering Emperor
 1 Wedding Announcement // Wedding Festivity
-1 Solitary Sanctuary
-{'overall': 2.2403553299492387, 'cmc': 2.8970588235294117, 'ramp': '2', 'draw': '2', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'SigridGodFavored.txt'}
+1 Warrior's Charge
+1 Treasure Hunter
+1 Soul Snare
+1 Sunbird Standard // Sunbird Effigy
+1 Sun Titan
+1 Tenza, Godo's Maul
+1 Steppe Glider
+1 Serra's Emissary
+1 Trapjaw Tyrant
+1 Topple
+1 Unassuming Sage
+1 Urza's Avenger
+1 Strength-Testing Hammer
+1 Spurnmage Advocate
+1 Warmonger's Chariot
+1 Warrior en-Kor
+1 Sandsteppe Outcast
+1 Storm of Souls
+1 The Night of the Doctor
+1 Starlight Spectacular
+1 Spring-Loaded Sawblades // Bladewheel Chariot
+1 Windshaper Planetar
+1 Tarrian's Soulcleaver
+1 Winds of Abandon
+1 Skybind
+1 Trip Noose
+1 Wispweaver Angel
+1 Thopter Shop
+1 Veteran Soldier
+1 Volunteer Reserves
+1 Timely Hordemate
+1 Spectrum Sentinel
+1 Silent Sentinel
+1 Steppe Lynx
+1 Sparring Construct
+1 Wyrm's Crossing Patrol
+1 Zealot il-Vec
+1 Valiant Endeavor
+1 Ugin's Conjurant
+1 Ugin's Nexus
+1 Wall of Resurgence
+1 White Sun's Zenith
+1 White Knight
+1 Sun Sentinel
+1 Skysovereign, Consul Flagship
+1 Veteran's Powerblade
+1 Yotian Frontliner
+1 Solitude
+{'overall': 2.73681592039801, 'cmc': 3.140625, 'ramp': 1, 'draw': 5, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'SigridGodFavored.txt'}

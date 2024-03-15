@@ -1,0 +1,101 @@
+1 Visara the Dreadful
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Swamp
+1 Dark Banishing
+1 Flesh to Dust
+1 Terror
+1 Seal of Doom
+1 Befoul
+1 Annihilate
+1 Despotic Scepter
+1 Wall of Corpses
+1 Pit Trap
+1 Execute
+1 Murderous Spoils
+1 Nekrataal
+1 Suspicious Bookcase
+1 Damnation
+1 Fatal Blow
+1 Xathrid Gorgon
+1 Wall of Vipers
+1 Slay
+1 Joven's Tools
+1 Wall of Shadows
+1 Dripping Dead
+1 Shinen of Fear's Chill
+1 War Barge
+1 Plague Wind
+1 Tower of Coireall
+1 Whispersilk Cloak
+1 Dauthi Cutthroat
+1 Evil Eye of Urborg
+1 Manifold Key
+1 Perish
+1 Notorious Assassin
+1 Deathmark Prelate
+1 Tawnos's Wand
+1 Phyrexian Bloodstock
+1 Dauthi Jackal
+1 Death Pits of Rath
+1 Boggart Loggers
+1 Phyrexian Slayer
+1 Go for the Throat
+1 Avatar of Woe
+1 Sever Soul
+1 Knight of Dusk's Shadow
+1 Prowler's Helm
+1 Changeling Outcast
+1 Hand of Death
+1 Ghostly Visit
+1 Doom Blade
+1 Apocalypse Chime
+1 Living Wall
+1 Vendetta
+1 Dead Ringers
+1 Auriok Siege Sled
+1 Restless Bones
+1 Tormented Soul
+1 Darksteel Forge
+1 Rampart Crawler
+1 Necrite
+1 Dark Hatchling
+1 Blood Curdle
+1 Murderous Betrayal
+1 Sandals of Abdallah
+1 Bog Rats
+1 Corrupting Licid
+{'overall': 3.0652173913043477, 'cmc': 3.5384615384615383, 'ramp': '0', 'draw': '3', 'interaction': 35, 'folder': 'cos_sim', 'commander': 'VisaratheDreadful.txt'}}

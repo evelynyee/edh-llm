@@ -1,69 +1,65 @@
 1 Gluntch, the Bestower
-1 Thelon's Chant
-1 Trelasarra, Moon Dancer
-1 Well of Life
-1 Treeshaker Chimera
-1 Wedding Announcement // Wedding Festivity
-1 Wildwood Patrol
-1 Wildwood Escort
+1 Sylvan Library
+1 Wanderlust
+1 Workshop Assistant
+1 Worldsoul Colossus
+1 Storm Seeker
+1 Workshop Warchief
+1 Wolfkin Outcast // Wedding Crasher
+1 Llanowar Elves
+1 Vexing Puzzlebox
+1 Wildborn Preserver
+1 Topplegeist
+1 Sword of Hearth and Home
+1 Yavimaya Dryad
+1 Wrenn and Seven
+1 Swords to Plowshares
 1 _____ Bird Gets the Worm
-1 The Great Aurora
-1 Yenna, Redtooth Regent
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 White Sun's Zenith
-1 Warm Welcome
-1 Tariff
-1 Termagant Swarm
-1 Sol Ring
-1 Triassic Egg
-1 Windbrisk Heights
-1 Witchstalker
-1 Well of Discovery
-1 Unlicensed Hearse
-1 Volatile Fault
-1 Ugin's Construct
-1 Wirefly Hive
-1 Wildest Dreams
-1 Teferi's Puzzle Box
-1 You Happen On a Glade
-1 The Fall of Lord Konda // Fragment of Konda
-1 Bloom Tender
-1 Twinning Staff
-1 Sylvan Offering
-1 The Eternal Wanderer
-1 Urza's Bauble
-1 Well of Lost Dreams
-1 Ulvenwald Mystics // Ulvenwald Primordials
-1 The Filigree Sylex
-1 Tower of Murmurs
-1 Will of the All-Hunter
-1 Teleportation Circle
-1 Worthy Cause
-1 Vizier of the True
-1 Sudden Disappearance
-1 Trove Warden
-1 Unbounded Potential
-1 War Report
+1 Thallid Germinator
+1 Tribute to the World Tree
+1 Vine Kami
+1 Wojek Apothecary
+1 The Prismatic Piper
+1 Whirling Dervish
+1 Titania, Voice of Gaea // Titania, Gaea Incarnate
+1 Vitaspore Thallid
+1 Vanquish the Foul
 1 True Love's Kiss
-1 Woodland Acolyte // Mend the Wilds
-1 Vivid Revival
-1 Eternal Witness
-1 Whiptongue Hydra
-1 Vivien Reid
-1 Tovolar's Huntmaster // Tovolar's Packleader
-1 Stampeding Wildebeests
-1 The Mending of Dominaria
-1 Welcoming Vampire
-1 Tetravus
-1 Wakening Sun's Avatar
-1 Stalking Leonin
-1 Susan Foreman
-1 Waylay
-1 Wilfred Mott
-1 Ulvenwald Bear
-1 Standard Bearer
-1 Vegetation Abomination
-1 Wild-Field Scarecrow
-1 Valiant Rescuer
+1 Yavimaya Elder
+1 Sudden Salvation
+1 Thran Quarry
+1 Titania's Command
+1 Yomiji, Who Bars the Way
+1 Thran Foundry
+1 Thirsting Roots
+1 Tranquil Frillback
+1 Verdant Force
+1 Wolverine Riders
+1 Mana Vault
+1 Séance
+1 Triumphant Reckoning
+1 Voice of Resurgence
 1 You're Ambushed on the Road
-{'overall': 7.785152838427948, 'cmc': 3.417910447761194, 'ramp': '7', 'draw': '20', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'GluntchtheBestower.txt'}
+1 Wayfaring Temple
+1 Stone of Erech
+1 Tiller Engine
+1 The Millennium Calendar
+1 Wingmate Roc
+1 The Deck of Many Things
+1 Tariff
+1 Wondrous Crucible
+1 Weird Harvest
+1 Storybook Ride
+1 Virulent Sliver
+1 Zealots en-Dal
+1 Witch's Oven
+1 Waxmane Baku
+1 Utopia Mycon
+1 Unlicensed Hearse
+1 Sword of Forge and Frontier
+1 Unbounded Potential
+1 Vedalken Shackles
+1 Victory Chimes
+1 Summon the School
+1 Your Temple Is Under Attack
+{'overall': 6.474390243902438, 'cmc': 3.203125, 'ramp': 9, 'draw': 13, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GluntchtheBestower.txt'}

@@ -62,6 +62,4 @@
 1 Vivisurgeon's Insight
 1 Sword of War and Peace
 1 Zulaport Duelist
-1 Winds of Change
-1 Swords to Plowshares
-{'overall': 5.441928251121077, 'cmc': 3.378787878787879, 'ramp': '1', 'draw': '14', 'interaction': 22, 'folder': 'gpt', 'commander': 'GnostroVoiceoftheCrags.txt'}
+{'overall': 5.1291855203619905, 'cmc': 3.453125, 'ramp': 1, 'draw': 13, 'interaction': 21, 'folder': 'gpt', 'commander': 'GnostroVoiceoftheCrags.txt'}

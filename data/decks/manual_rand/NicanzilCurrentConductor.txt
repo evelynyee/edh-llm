@@ -1,69 +1,65 @@
 1 Nicanzil, Current Conductor
-1 Verduran Enchantress
-1 Verdant Catacombs
-1 Yisan, the Wanderer Bard
-1 Zameck Guildmage
-1 Spelunking
-1 Vorinclex, Monstrous Raider
-1 Willow Geist
-1 Yarok's Wavecrasher
-1 Woodland Changeling
-1 Universal Automaton
-1 Yavimaya Elder
-1 Zndrsplt's Judgment
-1 Trickery Charm
-1 War-Wing Siren
-1 Venarian Glimmer
-1 Verdant Touch
-1 Young Blue Dragon // Sand Augury
-1 Tel-Jilad Stylus
-1 Young Wolf
-1 Vapor Snag
-1 Vivien on the Hunt
-1 Wizard Class
-1 Wirewood Guardian
-1 Tribute to the World Tree
-1 Whirlpool Drake
-1 Verdant Confluence
-1 Uncovered Clues
-1 Tawnos's Coffin
-1 Wave of Vitriol
-1 Vesuva
-1 Terramorphic Expanse
-1 Terminal Moraine
-1 Wirewood Savage
-1 Tributary Instructor
-1 Waterspout Djinn
-1 Rampant Growth
-1 Tilling Treefolk
-1 The Thirteenth Doctor
-1 Wary Thespian
-1 Whiplash Trap
-1 Voda Sea Scavenger
-1 Tezzeret, Cruel Machinist
-1 Verdant Command
-1 Visions of Beyond
-1 Woodland Champion
-1 Unlawful Entry
-1 Surveyor's Scope
-1 Titania's Boon
-1 Time Lord Regeneration
-1 Vine Dryad
-1 Trusted Advisor
+1 Traveler's Amulet
 1 Trickster Mage
-1 Threats Undetected
-1 Wretched Gryff
-1 Whisperwood Elemental
-1 Sylvan Scrying
-1 Warped Landscape
-1 Witching Well
-1 Zephyr Singer
-1 Vine Kami
-1 Verdant Eidolon
-1 Veiled Crocodile
-1 Ugin, the Ineffable
-1 Veil of Secrecy
-1 Vastwood Fortification // Vastwood Thicket
-1 Thwart
+1 Whirlpool Whelm
+1 Wu Spy
+1 Titania's Boon
 1 You Happen On a Glade
-{'overall': 8.83, 'cmc': 2.9411764705882355, 'ramp': '10', 'draw': '22', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}
+1 Tajuru Paragon
+1 Vine Dryad
+1 Wretched Throng
+1 Welcome to . . . // Jurassic Park
+1 The Deck of Many Things
+1 Timberland Ancient
+1 Urza, Lord High Artificer
+1 Teferi, Temporal Pilgrim
+1 Winged Words
+1 Windreader Sphinx
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Thicket Elemental
+1 Unlucky Drop
+1 Urborg, Tomb of Yawgmoth
+1 Subterranean Schooner
+1 Wormfang Turtle
+1 Zegana, Utopian Speaker
+1 Wistful Selkie
+1 Vivien's Grizzly
+1 You Find the Villains' Lair
+1 Thirsting Roots
+1 Winter's Grasp
+1 Winnower Patrol
+1 Titania's Chosen
+1 Totally Lost
+1 Zndrsplt's Judgment
+1 Twice Upon a Time // Unlikely Meeting
+1 Sylvan Tutor
+1 Willow Geist
+1 Vizier of the Anointed
+1 Zhulodok, Void Gorger
+1 Vizier of the Menagerie
+1 Wizards of the _____
+1 Vorinclex // The Grand Evolution
+1 Urza's Miter
+1 Tribute to the World Tree
+1 Temporal Spring
+1 Yavimaya Dryad
+1 Unlawful Entry
+1 Vineglimmer Snarl
+1 Wanderguard Sentry
+1 Triskaidekaphile
+1 Winding Way
+1 Whisk Away
+1 Wood Elves
+1 Wandering Archaic // Explore the Vastlands
+1 The Five Doctors
+1 Ulamog's Reclaimer
+1 Walking Atlas
+1 Witches' Eye
+1 Up the Beanstalk
+1 Wanderwine Prophets
+1 Voidwielder
+1 Winds of Rebuke
+1 Yorvo, Lord of Garenbrig
+1 Wrenn and Seven
+1 Vastwood Fortification // Vastwood Thicket
+{'overall': 10.998130841121496, 'cmc': 3.34375, 'ramp': 12, 'draw': 29, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'NicanzilCurrentConductor.txt'}

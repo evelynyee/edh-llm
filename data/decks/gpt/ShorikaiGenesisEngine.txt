@@ -62,6 +62,4 @@
 1 Zhang Fei, Fierce Warrior
 1 Vertigo Spawn
 1 Vedalken Blademaster
-1 Wall of Tears
-1 Winter's Chill
-{'overall': 6.5285714285714285, 'cmc': 3.1818181818181817, 'ramp': '5', 'draw': '16', 'interaction': 13, 'folder': 'gpt', 'commander': 'ShorikaiGenesisEngine.txt'}
+{'overall': 6.518357487922706, 'cmc': 3.234375, 'ramp': 5, 'draw': 16, 'interaction': 13, 'folder': 'gpt', 'commander': 'ShorikaiGenesisEngine.txt'}

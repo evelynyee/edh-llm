@@ -1,0 +1,101 @@
+1 Charix, the Raging Isle
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Scale of Chiss-Goria
+1 Tooth of Chiss-Goria
+1 Shell Shield
+1 Aerial Formation
+1 Rhonas's Monument
+1 Kopala, Warden of Waves
+1 Aether Tide
+1 Skittering Cicada
+1 Polymorphous Rush
+1 Archipelagore
+1 Roilmage's Trick
+1 Curious Homunculus // Voracious Reader
+1 Voyager Drake
+1 Souvenir Snatcher
+1 Basilisk Gate
+1 Bronze Cudgels
+1 Long-Forgotten Gohei
+1 TARDIS
+1 Sewer Crocodile
+1 Rowdy Research
+1 Mindshrieker
+1 Steel Hellkite
+1 Patrician Geist
+1 Silvergill Douser
+1 Sparkhunter Masticore
+1 Mistform Warchief
+1 Naiad of Hidden Coves
+1 Gearseeker Serpent
+1 Heart of Kiran
+1 Hand of Vecna
+1 Whirlwind Adept
+1 Haughty Djinn
+1 Winged Words
+1 Octavia, Living Thesis
+1 Discontinuity
+1 Mass Diminish
+1 Mycosynth Golem
+1 Of One Mind
+1 Seafloor Stalker
+1 Battlefield Thaumaturge
+1 Dream Chisel
+1 Hurkyl's Final Meditation
+1 Inventive Iteration // Living Breakthrough
+1 Bontu's Monument
+1 Sentinel Tower
+1 Boreal Elemental
+1 Whalebone Glider
+1 Silver Scrutiny
+1 Lethargy Trap
+1 Planar Gate
+1 Mirror of Galadriel
+1 Lullmage's Domination
+1 Stormwing Entity
+1 Mistfire Adept
+1 Spectral Deluge
+1 Welcome to the Fold
+1 Feroz's Ban
+1 Sea Hag // Aquatic Ingress
+1 Thieving Skydiver
+1 Minamo Sightbender
+1 Turbulent Dreams
+1 Wizard's Retort
+1 Moonshae Pixie // Pixie Dust
+{'overall': 2.9416666666666664, 'cmc': 3.6923076923076925, 'ramp': '1', 'draw': '8', 'interaction': 3, 'folder': 'cos_sim', 'commander': 'CharixtheRagingIsle.txt'}}

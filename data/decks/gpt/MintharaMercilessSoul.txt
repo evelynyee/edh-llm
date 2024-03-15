@@ -61,4 +61,4 @@
 1 Zealous Persecution
 1 Tandem Tactics
 1 Umezawa's Charm
-{'overall': 3.573762376237624, 'cmc': 3.2063492063492065, 'ramp': '6', 'draw': '4', 'interaction': 9, 'folder': 'gpt', 'commander': 'MintharaMercilessSoul.txt'}
+{'overall': 3.573762376237624, 'cmc': 3.2063492063492065, 'ramp': 6, 'draw': 4, 'interaction': 9, 'folder': 'gpt', 'commander': 'MintharaMercilessSoul.txt'}

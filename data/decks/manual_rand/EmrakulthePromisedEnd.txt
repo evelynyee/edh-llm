@@ -1,69 +1,65 @@
 1 Emrakul, the Promised End
-1 Scrying Sheets
-1 Specter's Shroud
-1 Skullcage
-1 Phyrexian Grimoire
-1 Strength-Testing Hammer
-1 Vulshok Gauntlets
-1 Skullmead Cauldron
-1 Runed Arch
-1 Rhonas's Monument
-1 Skysovereign, Consul Flagship
-1 Stitcher's Graft
-1 Spire Golem
-1 Symmetry Matrix
-1 Staff of the Flame Magus
-1 Workshop Assistant
-1 Soul Separator
-1 Throne of Eldraine
-1 Rackling
-1 Tower of the Magistrate
-1 Su-Chi Cave Guard
-1 Steamclaw
-1 Ornate Kanzashi
-1 Utility Knife
-1 Sunbird Standard // Sunbird Effigy
-1 Viseling
-1 Warped Landscape
-1 The Deck of Many Things
-1 Tooth of Chiss-Goria
-1 Underdark Rift
-1 Void Winnower
-1 Patchwork Automaton
-1 TARDIS
-1 Salvaging Station
-1 Runesword
-1 Thermal Navigator
-1 The Moment
-1 Thought Dissector
-1 Urborg, Tomb of Yawgmoth
-1 Sword of Kaldra
-1 Slab Hammer
-1 Walking Skyscraper
-1 Shield of the Avatar
-1 Wolfhunter's Quiver
-1 Wedding Invitation
-1 Sorcerous Spyglass
-1 Salvager of Ruin
-1 Thundering Chariot
-1 Synod Sanctum
-1 True-Faith Censer
+1 The Mightstone and Weakstone // Urza, Planeswalker
+1 The Underworld Cookbook
+1 Winter Orb
+1 Urza's Avenger
+1 Wirefly Hive
+1 Thumbscrews
+1 Ward of Bones
+1 Sphere of Resistance
+1 Ulamog's Despoiler
+1 Sword of Feast and Famine
+1 Reaver Titan
+1 Sunstone
 1 Redemptor Dreadnought
-1 Ulamog's Crusher
-1 Thran Quarry
-1 Wooden Sphere
-1 Smuggler's Buggy
-1 Nullstone Gargoyle
-1 Well of Discovery
-1 Touchstone
-1 Trading Post
-1 Telethopter
-1 Staff of the Ages
-1 Staff of Domination
-1 Threefold Signal
-1 Verdant Catacombs
-1 Screaming Shield
-1 Reflecting Mirror
-1 Wine of Blood and Iron
+1 Wall of Shields
+1 Pyxis of Pandemonium
+1 Spectral Searchlight
+1 The Deck of Many Things
+1 Wand of Denial
+1 Urza's Filter
+1 Voodoo Doll
+1 Viridian Longbow
+1 Sword of Forge and Frontier
+1 Tooth of Chiss-Goria
+1 Voltaic Servant
+1 Soldevi Digger
+1 Walking Bulwark
+1 Wall of Forgotten Pharaohs
+1 Spinny Ride
+1 Soul of New Phyrexia
+1 Tunnel of Love
+1 Tawnos's Coffin
+1 Obelisk of Urd
+1 Traveler's Amulet
 1 Thopter Assembly
-{'overall': 3.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '2', 'draw': '10', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}
+1 Weapon Rack
+1 Trailblazer's Boots
+1 Well of Knowledge
+1 Thran Forge
+1 Ugin, the Ineffable
+1 Undiscovered Paradise
+1 Scrying Glass
+1 Treasure Chest
+1 Swinging Ship
+1 Void Mirror
+1 Telim'Tor's Darts
+1 Stoneforge Masterwork
+1 Whirling Catapult
+1 Well of Discovery
+1 Stuffed Bear
+1 Tower of Murmurs
+1 Chromatic Lantern
+1 Muse Vessel
+1 Strength-Testing Hammer
+1 Not of This World
+1 Vedalken Orrery
+1 Phyrexian Grimoire
+1 Spellweaver Helix
+1 Onyx Talisman
+1 Stabilizer
+1 Ulamog's Crusher
+1 The Rack
+1 Thorn of Amethyst
+1 Witch's Oven
+{'overall': 4.459523809523809, 'cmc': 3.28125, 'ramp': 4, 'draw': 10, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'EmrakulthePromisedEnd.txt'}

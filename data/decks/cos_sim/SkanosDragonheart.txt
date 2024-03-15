@@ -1,0 +1,101 @@
+1 Skanos Dragonheart
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Altar of the Goyf
+1 Freelance Muscle
+1 Strength-Testing Hammer
+1 Wild Beastmaster
+1 Bag End Porter
+1 Pathbreaker Ibex
+1 Sigardian Zealot
+1 Strength of Cedars
+1 Accelerated Mutation
+1 Overwhelming Stampede
+1 Boon of Boseiju
+1 Inner Calm, Outer Strength
+1 Sunbringer's Touch
+1 Undercity Upheaval
+1 Syr Faren, the Hengehammer
+1 Muscle Burst
+1 Elvish Branchbender
+1 Power Plant Worker
+1 Return of the Wildspeaker
+1 Mirkwood Channeler
+1 Hand of Vecna
+1 Imaryll, Elfhame Elite
+1 Vigorspore Wurm
+1 Heir of the Wilds
+1 Wirewood Pride
+1 Timberwatch Elf
+1 Stampeding Elk Herd
+1 Sandsteppe War Riders
+1 Kraul Harpooner
+1 Exponential Growth
+1 Strength in Numbers
+1 Conifer Wurm
+1 Circle of the Moon Druid
+1 Strength from the Fallen
+1 Storm the Seedcore
+1 Towering Titan
+1 Keldon Battlewagon
+1 Flayer of Loyalties
+1 Exuberant Wolfbear
+1 Renegade Freighter
+1 Master Symmetrist
+1 Aspect of Wolf
+1 Viridian Lorebearers
+1 Elder of Laurels
+1 Hardy Outlander
+1 Bramblefort Fink
+1 The Skullspore Nexus
+1 Thundering Chariot
+1 Gnarlroot Pallbearer
+1 Runechanter's Pike
+1 Surrak, the Hunt Caller
+1 Werewolf Pack Leader
+1 Briar Hydra
+1 Unnatural Growth
+1 Goliath Truck
+1 Scent of Ivy
+1 Blizzard Brawl
+1 Dauntless Dourbark
+1 Mossbridge Troll
+1 Power Armor
+1 Might of Alara
+1 Gaea's Might
+1 Wild Shape
+{'overall': 1.3508474576271186, 'cmc': 3.6307692307692307, 'ramp': '0', 'draw': '3', 'interaction': 1, 'folder': 'cos_sim', 'commander': 'SkanosDragonheart.txt'}}

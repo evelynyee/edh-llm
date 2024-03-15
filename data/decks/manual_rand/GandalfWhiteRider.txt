@@ -1,69 +1,65 @@
 1 Gandalf, White Rider
-1 Wings of the Guard
-1 Tuinvale Guide
-1 Skyblade's Boon
-1 Thawing Glaciers
-1 Vulshok Battlegear
-1 Umbilicus
-1 Wing Shards
-1 Wilfred Mott
-1 Starfield of Nyx
-1 Séance
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Venerable Knight
-1 Synod Sanctum
-1 Xenk, Paladin Unbroken
-1 Welkin Hawk
-1 Vulshok Morningstar
-1 Tithe Taker
-1 Thran Spider
-1 Veil of Assimilation
-1 Zhalfirin Decoy
-1 Thalia's Geistcaller
-1 Ultramarines Honour Guard
-1 Uba Mask
-1 Sword of Hearth and Home
-1 Vanquish the Horde
-1 Stoic Farmer
-1 Tocasia's Onulet
-1 Spiritual Visit
-1 Swift Reckoning
-1 Vexing Puzzlebox
-1 Sublime Exhalation
-1 The Restoration of Eiganjo // Architect of Restoration
-1 Wheel of Torture
-1 Usher of the Fallen
-1 Tabaxi Toucaneers
-1 Thran Tome
-1 Triumph of Saint Katherine
-1 Path to Exile
-1 Zhulodok, Void Gorger
-1 Wall of Forgotten Pharaohs
-1 The Ozolith
-1 Sunscour
-1 Steel Seraph
+1 Mind Stone
+1 The Circle of Loyalty
 1 Thousand Moons Crackshot
-1 Thaumatic Compass // Spires of Orazca
-1 The Moment
+1 Weathered Wayfarer
+1 Whitemane Lion
+1 _____ Bird Gets the Worm
+1 Thran Foundry
+1 Vanquisher's Banner
+1 Vulshok Battlegear
+1 Sun's Bounty
+1 World Queller
+1 Surveyor's Scope
+1 Survival Cache
+1 Vizier of Deferment
+1 Whalebone Glider
+1 Trynn, Champion of Freedom
+1 Wedding Invitation
+1 Stonebinder's Familiar
+1 Torii Watchward
+1 Valor Made Real
+1 Sonic Screwdriver
+1 Zelyon Sword
+1 Starfield of Nyx
+1 Warlord's Axe
+1 Swift Reckoning
+1 Wingmate Roc
+1 Supernatural Rescue
+1 Sudden Salvation
+1 Zhalfirin Decoy
+1 Together Forever
+1 Waxmane Baku
+1 The Eternal Wanderer
 1 Wayward Angel
-1 Trial of Solidarity
-1 True Love's Kiss
-1 Thran Forge
-1 Wanderer's Twig
-1 Wispmare
-1 Valiant Changeling
-1 Spirit en-Dal
-1 Tempt with Glory
-1 The Millennium Calendar
-1 Vexing Arcanix
-1 Soul Partition
-1 Taj-Nar Swordsmith
-1 Trial of a Time Lord
-1 Spire Golem
-1 Vulshok Gauntlets
-1 Wedding Ring
-1 Silent Sentinel
-1 Wandering Champion
-1 Witch Hunter
-1 You Hear Something on Watch
-{'overall': 5.636206896551724, 'cmc': 3.411764705882353, 'ramp': '6', 'draw': '12', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}
+1 Tawnos's Weaponry
+1 Veteran's Armaments
+1 War of the Last Alliance
+1 Syr Alin, the Lion's Claw
+1 Strength of Isolation
+1 Tower of Champions
+1 Sentry Oak
+1 Vizier of Remedies
+1 Urza's Sylex
+1 Vizier of the True
+1 Wojek Apothecary
+1 Soaring Hope
+1 Steel Seraph
+1 Valor in Akros
+1 The Stasis Coffin
+1 Walking Atlas
+1 Shepherd of the Cosmos
+1 Sword of the Meek
+1 Sword of Once and Future
+1 Mana Crypt
+1 Vanish into Eternity
+1 Suspension Field
+1 Steelshaper Apprentice
+1 Tireless Tribe
+1 Sunbird Standard // Sunbird Effigy
+1 The Wandering Emperor
+1 Austere Command
+1 Seasoned Dungeoneer
+1 Thaumatic Compass // Spires of Orazca
+1 Smelting Vat
+{'overall': 5.609523809523809, 'cmc': 3.28125, 'ramp': 8, 'draw': 11, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'GandalfWhiteRider.txt'}

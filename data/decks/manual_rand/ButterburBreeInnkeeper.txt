@@ -1,69 +1,65 @@
 1 Butterbur, Bree Innkeeper
-1 Vanguard of Brimaz
-1 Mentor of the Meek
-1 Wayward Angel
-1 Tiller of Flesh
-1 Vanguard of the Rose
-1 Sunset Revelry
-1 Sundial of the Infinite
-1 Wolfhunter's Quiver
-1 Vial of Dragonfire
-1 Whip Vine
-1 Wandering Champion
-1 Thundersteel Colossus
-1 Valorous Steed
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Whipgrass Entangler
-1 The Wandering Emperor
-1 Weatherseed Totem
-1 Urbis Protector
-1 The Princess Takes Flight
-1 Troublemaker Ouphe
-1 Triumphant Surge
-1 Wild Growth
+1 Synod Centurion
+1 Varis, Silverymoon Ranger
+1 Tetravus
+1 Whip Silk
+1 Torii Watchward
+1 Voice of the Woods
 1 Sunscourge Champion
-1 Wall of Junk
-1 Wedding Announcement // Wedding Festivity
-1 Sunseed Nurturer
-1 Wolfbriar Elemental
-1 Zealots en-Dal
-1 Vigil for the Lost
-1 Vegetation Abomination
-1 Vigilant Martyr
-1 Urban Utopia
-1 Wilson, Refined Grizzly
-1 Tower Above
-1 Triangle of War
-1 Tsabo's Web
-1 Tormod's Crypt
-1 Zarichi Tiger
-1 Wayfaring Temple
-1 Zendikar's Roil
-1 Wild Dogs
-1 Spider Food
-1 Thunderhawk Gunship
-1 Trolls of Tel-Jilad
-1 You Find a Cursed Idol
-1 Thermal Navigator
-1 Threefold Thunderhulk
+1 Wall of Resurgence
+1 Viridian Shaman
+1 Treasure Map // Treasure Cove
+1 Static Net
+1 Whippoorwill
+1 Wurm's Tooth
+1 Wolf Strike
+1 Unbridled Growth
+1 Wurmcoil Engine
+1 Tocasia's Onulet
+1 Troublemaker Ouphe
+1 The Stasis Coffin
+1 Vivify
+1 Wall of Resistance
+1 Vastwood Zendikon
+1 Wingmate Roc
+1 Urza's Mine
+1 Umbral Mantle
+1 Trueheart Duelist
+1 Vitaspore Thallid
+1 Wicked Wolf
+1 Vitality Charm
 1 Sporeweb Weaver
-1 Warriors' Lesson
-1 Voyager Staff
-1 Unnatural Aggression
-1 Viridian Longbow
-1 Vorinclex // The Grand Evolution
-1 Vulshok Gauntlets
-1 Urza's Bauble
-1 The Shire
-1 The Tabernacle at Pendrell Vale
-1 Tukatongue Thallid
-1 Veteran Soldier
-1 Umbilicus
-1 Worldspine Wurm
+1 Thopter Squadron
+1 Threefold Thunderhulk
 1 Warbriar Blessing
-1 Undiscovered Paradise
-1 Wolfkin Outcast // Wedding Crasher
-1 Throne of Empires
+1 Voltaic Construct
 1 Toil to Renown
-1 Touch of Vitae
-{'overall': 5.763414634146341, 'cmc': 3.014705882352941, 'ramp': '6', 'draw': '13', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}
+1 The Huntsman's Redemption
+1 Worship
+1 Welcome to . . . // Jurassic Park
+1 Troubled Healer
+1 Syr Ginger, the Meal Ender
+1 Thelonite Monk
+1 Wild Instincts
+1 Wedding Invitation
+1 Thraben Standard Bearer
+1 Yedora, Grave Gardener
+1 Yavimaya Sapherd
+1 Warriors' Lesson
+1 Verdant Force
+1 Whiteout
+1 Viridian Scout
+1 Teleportation Circle
+1 Winds of Abandon
+1 Thalia's Geistcaller
+1 Unnatural Aggression
+1 Tablet of Epityr
+1 White Plume Adventurer
+1 Vizier of Deferment
+1 Yotian Dissident
+1 Su-Chi Cave Guard
+1 Valkyrie's Sword
+1 Tangled Skyline
+1 Trail of Crumbs
+1 Vivien on the Hunt
+{'overall': 4.01244019138756, 'cmc': 3.265625, 'ramp': 5, 'draw': 8, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'ButterburBreeInnkeeper.txt'}

@@ -62,4 +62,4 @@
 1 Varragoth, Bloodsky Sire
 1 Szat's Will
 1 Spiteful Hexmage
-{'overall': 5.716666666666667, 'cmc': 3.0, 'ramp': '11', 'draw': '7', 'interaction': 11, 'folder': 'gpt', 'commander': 'TormodtheDesecrator.txt'}
+{'overall': 5.716666666666667, 'cmc': 3.0, 'ramp': 11, 'draw': 7, 'interaction': 11, 'folder': 'gpt', 'commander': 'TormodtheDesecrator.txt'}

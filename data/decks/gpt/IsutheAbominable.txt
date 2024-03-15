@@ -62,4 +62,4 @@
 1 Vedalken Dismisser
 1 Vengevine
 1 Veil of Secrecy
-{'overall': 11.304112554112555, 'cmc': 3.609375, 'ramp': '15', 'draw': '27', 'interaction': 5, 'folder': 'gpt', 'commander': 'IsutheAbominable.txt'}
+{'overall': 11.304112554112555, 'cmc': 3.609375, 'ramp': 15, 'draw': 27, 'interaction': 5, 'folder': 'gpt', 'commander': 'IsutheAbominable.txt'}

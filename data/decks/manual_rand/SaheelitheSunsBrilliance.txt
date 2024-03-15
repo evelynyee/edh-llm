@@ -1,69 +1,65 @@
 1 Saheeli, the Sun's Brilliance
-1 Tenacious Tomeseeker
-1 Summoner's Bane
-1 Toralf, God of Fury // Toralf's Hammer
-1 Tezzeret, Artifice Master
-1 Uvilda, Dean of Perfection // Nassari, Dean of Expression
-1 Tuktuk the Explorer
-1 Wingrattle Scarecrow
-1 Trade Routes
-1 Tamiyo's Journal
-1 Wu Scout
-1 Zenith Seeker
-1 Yavimaya Steelcrusher
-1 Trench Behemoth
-1 Urza's Bauble
-1 Updraft
-1 Spreading Insurrection
-1 Soul Separator
-1 Sudden Breakthrough
-1 Zirilan of the Claw
-1 Young Blue Dragon // Sand Augury
-1 Undying Rage
-1 Wedding Invitation
-1 Voldaren Duelist
-1 Splinter Twin
-1 Thunderous Might
-1 Teferi, Temporal Pilgrim
-1 Witch's Oven
-1 Éomer of the Riddermark
-1 The Shattered States Era // Nameless Conqueror
-1 Throne of Empires
-1 Urza, Powerstone Prodigy
-1 Trained Condor
-1 Vesuva
-1 War Barge
-1 You See a Pair of Goblins
-1 Wizard Class
-1 Tooth and Claw
-1 Tawnos's Weaponry
-1 Vodalian Knights
-1 Thassa's Emissary
-1 Strike It Rich
-1 Tempting Contract
-1 Triplicate Titan
-1 Umbilicus
-1 Tempt with Vengeance
-1 Umara Wizard // Umara Skyfalls
-1 Willbreaker
-1 Lightning Bolt
-1 Thopter Assembly
-1 Whelming Wave
-1 Surge of Zeal
-1 Tooth of Chiss-Goria
-1 Voidwielder
-1 Teferi's Veil
-1 Turn Against
-1 Unwilling Recruit
-1 Thassa, Deep-Dwelling
-1 Wurmcoil Engine
+1 Xanthic Statue
+1 Terisian Mindbreaker
 1 You've Been Caught Stealing
-1 Veiled Sentry
-1 Vithian Stinger
-1 Viridian Longbow
-1 Warbeast of Gorgoroth
-1 Stitcher's Apprentice
+1 Tormod's Cryptkeeper
+1 Young Red Dragon // Bathe in Gold
+1 Wall of Dust
+1 Wedding Invitation
+1 Veiled Crocodile
+1 Walker of the Wastes
+1 Unexpected Windfall
+1 Voracious Greatshark
+1 Ugin, the Ineffable
+1 Stone Idol Trap
 1 Thing in the Ice // Awoken Horror
-1 Transmogrifying Licid
-1 Whirlermaker
-{'overall': 5.183690987124463, 'cmc': 3.426470588235294, 'ramp': '5', 'draw': '12', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'SaheelitheSunsBrilliance.txt'}
+1 Wing Commando
+1 Weakstone's Subjugation
+1 Vulshok Gauntlets
+1 Zada, Hedron Grinder
+1 Wormhole Serpent
+1 Startle
+1 The Locust God
+1 Tenacious Tomeseeker
+1 Ugin's Construct
+1 Stern Lesson
+1 Teferi, Temporal Pilgrim
+1 Red Elemental Blast
+1 Unwilling Recruit
+1 Teferi, Timeless Voyager
+1 Telethopter
+1 Whelming Wave
+1 You Come to a River
+1 Tezzeret, Betrayer of Flesh
+1 Vacuumelt
+1 Zephyr Sentinel
+1 Urza's Bauble
+1 Veteran's Armaments
+1 Threaten
+1 Vithian Stinger
+1 Wolf of Devil's Breach
+1 Wurmcoil Engine
+1 Will-Forged Golem
+1 Undying Rage
+1 Wandering Fumarole
+1 You Come to the Gnoll Camp
+1 Toralf, God of Fury // Toralf's Hammer
+1 Twisted Image
+1 Storm the Vault // Vault of Catlacan
+1 Warbringer
+1 Waterspout Elemental
+1 Stensia Uprising
+1 Vaporous Djinn
+1 Windcaller Aven
+1 Wirefly Hive
+1 Vandalblast
+1 Mana Vault
+1 Temporal Machinations
+1 Toralf, God of Fury // Toralf's Hammer
+1 Umbilicus
+1 Tezzeret, Artifice Master
+1 Visions of Ruin
+1 Vedalken Shackles
+1 Vertigo Spawn
+1 Unctus, Grand Metatect
+{'overall': 6.4625, 'cmc': 3.5555555555555554, 'ramp': 7, 'draw': 15, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'SaheelitheSunsBrilliance.txt'}

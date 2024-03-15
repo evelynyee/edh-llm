@@ -62,5 +62,4 @@
 1 Smuggler's Buggy
 1 Sword of Hearth and Home
 1 Wrenn's Resolve
-1 Thran Foundry
-{'overall': 8.503266331658292, 'cmc': 3.0615384615384613, 'ramp': '14', 'draw': '16', 'interaction': 7, 'folder': 'gpt', 'commander': 'UrabraskHereticPraetor.txt'}
+{'overall': 8.496464646464647, 'cmc': 3.09375, 'ramp': 14, 'draw': 16, 'interaction': 7, 'folder': 'gpt', 'commander': 'UrabraskHereticPraetor.txt'}

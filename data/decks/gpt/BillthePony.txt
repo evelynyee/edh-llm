@@ -62,4 +62,4 @@
 1 Venerated Loxodon
 1 Topan Freeblade
 1 Seraph of the Suns
-{'overall': 4.7932160804020105, 'cmc': 3.109375, 'ramp': '7', 'draw': '7', 'interaction': 13, 'folder': 'gpt', 'commander': 'BillthePony.txt'}
+{'overall': 4.7932160804020105, 'cmc': 3.109375, 'ramp': 7, 'draw': 7, 'interaction': 13, 'folder': 'gpt', 'commander': 'BillthePony.txt'}

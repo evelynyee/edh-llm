@@ -1,69 +1,65 @@
 1 Ghost of Ramirez DePietro
-1 Uncovered Clues
-1 Welcome to the Fold
-1 Sword of Light and Shadow
-1 Vexing Puzzlebox
-1 Tezzeret's Simulacrum
-1 The Moment
-1 Wandering Archaic // Explore the Vastlands
-1 Statute of Denial
-1 Well of Knowledge
-1 Sorrow's Path
-1 Unesh, Criosphinx Sovereign
-1 Temporal Eddy
-1 Vendilion Clique
-1 Whisk Away
-1 Brainstorm
-1 Web of Inertia
-1 Thran Foundry
-1 Soratami Seer
-1 Unlucky Drop
-1 Walker of Secret Ways
-1 Time Elemental
-1 Trash Bin
-1 Unctus's Retrofitter
-1 Swashbuckler's Whip
-1 Titan of Littjara
-1 Watertrap Weaver
-1 Ulamog, the Infinite Gyre
-1 Arcane Signet
-1 Warkite Marauder
-1 Waylaying Pirates
-1 Weatherlight
-1 Wayward Soul
-1 Withering Gaze
-1 Urza, Lord High Artificer
-1 Untethered Express
-1 Thassa's Oracle
-1 Thassa's Devourer
-1 The Antiquities War
-1 Words of Wisdom
-1 Surging Aether
+1 Wave Goodbye
+1 Treasure Keeper
+1 The Rack
 1 Waterspout Weavers
-1 Teferi's Response
-1 Weatherlight Compleated
-1 Wand of Ith
-1 Tolarian Terror
-1 Tradewind Rider
-1 Snow Day
-1 Sol Ring
-1 Vantress Gargoyle
-1 The Deck of Many Things
-1 Supreme Will
-1 Subtlety
-1 Zephyr Sentinel
-1 Zenith Chronicler
-1 Wizards of Thay
-1 Voyager Staff
-1 Timesifter
-1 Young Blue Dragon // Sand Augury
-1 Twice Upon a Time // Unlikely Meeting
-1 Time Stretch
-1 Tormod's Crypt
-1 Syr Elenora, the Discerning
-1 Wizened Snitches
-1 Tezzeret, Cruel Machinist
-1 Whim of Volrath
+1 Tolarian Contempt
+1 Time Elemental
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
 1 Thieving Magpie
-1 Tidal Bore
-{'overall': 9.150607287449393, 'cmc': 3.6323529411764706, 'ramp': '8', 'draw': '25', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'GhostofRamirezDePietro.txt'}
+1 Waterwhirl
+1 Wall of Shields
+1 Visions of Beyond
+1 Watcher for Tomorrow
+1 Volcanic Eruption
+1 Thalakos Scout
+1 Umbilicus
+1 Whir of Invention
+1 Thumbscrews
+1 Sudden Storm
+1 Synthetic Destiny
+1 Vision Charm
+1 Snow Day
+1 Triton Cavalry
+1 Sword Coast Sailor
+1 Surrakar Spellblade
+1 Waterfall Aerialist
+1 Statute of Denial
+1 Spy Network
+1 Veiled Sentry
+1 Torrential Gearhulk
+1 Sphinx Ambassador
+1 The Reality Chip
+1 Voodoo Doll
+1 Traumatize
+1 Wanderwine Prophets
+1 Sword Coast Serpent // Capsizing Wave
+1 The Indomitable
+1 Worry Beads
+1 Sword of Forge and Frontier
+1 Wall of Lost Thoughts
+1 Wanderer's Twig
+1 Temporal Machinations
+1 Swiftgear Drake
+1 Unified Will
+1 Trench Behemoth
+1 Words of Wisdom
+1 Traveler's Cloak
+1 Windrider Wizard
+1 Worldly Counsel
+1 Temporal Cascade
+1 Volrath's Curse
+1 Will of the Naga
+1 Wayfarer's Bauble
+1 Trusted Advisor
+1 Vivisurgeon's Insight
+1 Temporal Cleansing
+1 Unholy Citadel
+1 Vronos, Masked Inquisitor
+1 Unifying Theory
+1 Well of Ideas
+1 Spin into Myth
+1 Tome Scour
+1 Tymora's Invoker
+1 Unblinking Bleb
+{'overall': 6.558951965065502, 'cmc': 3.578125, 'ramp': 3, 'draw': 20, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'GhostofRamirezDePietro.txt'}

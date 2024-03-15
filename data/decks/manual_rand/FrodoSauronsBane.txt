@@ -1,69 +1,65 @@
 1 Frodo, Sauron's Bane
-1 Subversion
-1 Wall of Reverence
-1 Termination Facilitator
-1 Tithe Drinker
-1 Thornbite Staff
-1 Warren Weirding
-1 Vish Kal, Blood Arbiter
-1 Vampire Champion
-1 Wicked Guardian
-1 Worry Beads
-1 Wall of Souls
-1 Sorin Markov
-1 Terashi's Verdict
-1 Trespasser's Curse
-1 Soul's Grace
-1 The Eternal Wanderer
-1 Undead Augur
-1 Thumbscrews
-1 Sword of Light and Shadow
-1 Triskelavus
-1 Woebringer Demon
-1 Witch-king, Bringer of Ruin
-1 Torgaar, Famine Incarnate
-1 Vraan, Executioner Thane
-1 Tsabo's Decree
-1 Viridian Longbow
-1 Warehouse Tabby
-1 Undercity's Embrace
-1 Veteran's Armaments
-1 Mentor of the Meek
-1 The Meathook Massacre
-1 Tower of Eons
-1 Vampire Neonate
-1 Wand of Orcus
-1 Toymaker
-1 Whispering Shade
-1 Wall of Forgotten Pharaohs
-1 Swords to Plowshares
-1 Winds of Abandon
-1 Untethered Express
-1 Zhentarim Bandit
-1 Torment of Hailfire
-1 Zealots en-Dal
-1 Zombie Assassin
-1 Treacherous Vampire
-1 Xathrid Slyblade
+1 Zhao Zilong, Tiger General
+1 Warg Rider
+1 Tainted Sigil
+1 Unassuming Sage
+1 Xiahou Dun, the One-Eyed
+1 Mana Vault
 1 Stir the Pride
-1 Wedding Ring
-1 Toll of the Invasion
-1 Windborn Muse
-1 Time Reaper
-1 Whispersteel Dagger
-1 Sol Ring
-1 Animate Dead
-1 Touch of Moonglove
-1 Souls of the Faultless
-1 Vectis Gloves
-1 Transcendence
-1 Sword of Sinew and Steel
-1 Triangle of War
-1 Unwilling Ingredient
-1 Warp Artifact
+1 Transmutation
+1 The Underworld Cookbook
+1 Thundersteel Colossus
+1 Vizkopa Guildmage
+1 Vermin Gorger
+1 Vraska, Betrayal's Sting
+1 Tidy Conclusion
+1 Sword of Light and Shadow
+1 Vampire Spawn
+1 Sword of Feast and Famine
+1 Wicked Akuba
+1 Zuran Orb
 1 Wingmate Roc
-1 The Torment of Gollum
-1 Dark Ritual
-1 Topan Freeblade
-1 Witch Engine
-{'overall': 3.3767281105990783, 'cmc': 3.1911764705882355, 'ramp': '4', 'draw': '5', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}
+1 Starlit Sanctum
+1 Throat Slitter
+1 Warmth
+1 The Long Reach of Night // Animus of Night's Reach
+1 Voracious Fell Beast
+1 Wight of Precinct Six
+1 You Hear Something on Watch
+1 Vendetta
+1 Wurm's Tooth
+1 Titan Hunter
+1 Wings of the Guard
+1 Triskaidekaphobia
+1 Trained Caracal
+1 Surge of Righteousness
+1 Zhang Liao, Hero of Hefei
+1 Sword of Hours
+1 Vish Kal, Blood Arbiter
+1 Twinblade Paladin
+1 Wishmonger
+1 Takenuma Bleeder
+1 Ulamog's Crusher
+1 Trailblazer's Torch
+1 Wand of Ith
+1 Tezzeret's Simulacrum
+1 Whispering Snitch
+1 Vial of Poison
+1 Mentor of the Meek
+1 Tribute to Hunger
+1 Sorin's Vengeance
+1 Untethered Express
+1 Wasp of the Bitter End
+1 Wall of Reverence
+1 You Cannot Pass!
+1 The Raven Man
+1 Wayward Servant
+1 Veldrane of Sengir
+1 Vengeful Dead
+1 Torment of Scarabs
+1 Zombie Trailblazer
+1 Treacherous Vampire
+1 Sorin, Vengeful Bloodlord
+1 Zanikev Locust
+1 Zhalfirin Crusader
+{'overall': 2.3898617511520737, 'cmc': 3.390625, 'ramp': 3, 'draw': 2, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'FrodoSauronsBane.txt'}

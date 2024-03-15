@@ -62,5 +62,4 @@
 1 Veiled Sentry
 1 Stormscape Familiar
 1 Winged Words
-1 Vex
-{'overall': 5.581067961165049, 'cmc': 3.169230769230769, 'ramp': '7', 'draw': '10', 'interaction': 14, 'folder': 'gpt', 'commander': 'TawnosUrzasApprentice.txt'}
+{'overall': 5.280541871921183, 'cmc': 3.171875, 'ramp': 7, 'draw': 9, 'interaction': 13, 'folder': 'gpt', 'commander': 'TawnosUrzasApprentice.txt'}

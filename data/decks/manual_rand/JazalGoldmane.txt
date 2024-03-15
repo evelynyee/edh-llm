@@ -1,69 +1,65 @@
 1 Jazal Goldmane
-1 Veilstone Amulet
+1 Skyshroud Falcon
+1 Thran Forge
+1 Wall of Junk
 1 Zetalpa, Primal Dawn
-1 Vengeful Dreams
-1 Tormentor's Trident
-1 Sword of the Ages
-1 Wanderer's Strike
-1 Mana Vault
-1 Warning
-1 Mind Stone
-1 Zhang Fei, Fierce Warrior
-1 Spring-Loaded Sawblades // Bladewheel Chariot
-1 Sphere of Safety
-1 Vanquish the Horde
-1 Twinblade Paladin
-1 Skyhunter Prowler
-1 Valorous Steed
-1 Wall of Reverence
-1 Skyline Scout
-1 Winter Orb
-1 Sword of the Chosen
-1 Steel Hellkite
-1 Will of the All-Hunter
-1 Witch Hunter
-1 Steadfast Armasaur
+1 War Barge
+1 Skyhunter Patrol
+1 Veteran Armorer
 1 Unholy Citadel
-1 White Scarab
-1 Windbrisk Raptor
-1 Valiant Veteran
-1 Spirit en-Kor
-1 Yare
-1 Shadowspear
-1 Watchwing Scarecrow
-1 Vigil for the Lost
-1 Stuffed Bear
-1 Spear of Heliod
-1 White Dragon
-1 Veteran Cavalier
-1 Your Temple Is Under Attack
-1 Soldier of the Grey Host
-1 Warrior's Stand
-1 Wall of Forgotten Pharaohs
-1 Warclamp Mastiff
-1 Wizened Cenn
-1 Selfless Cathar
-1 Warden of the Inner Sky
-1 Signal Pest
-1 Town Sentry
-1 Thermal Navigator
-1 Trenching Steed
-1 Wakestone Gargoyle
-1 Sundial of the Infinite
-1 Soltari Lancer
-1 Tezzeret's Strider
-1 Swinging Ship
-1 Sol Ring
+1 Vassal's Duty
 1 Wave of Reckoning
-1 Timely Reinforcements
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Vizier of Deferment
-1 Surge of Thoughtweft
+1 Triumphant Surge
+1 Umbral Mantle
+1 Xenk, Paladin Unbroken
+1 Tempered Steel
+1 Sejiri Shelter // Sejiri Glacier
+1 Worthy Cause
+1 Warhorn Blast
+1 The Immortal Sun
+1 White Dragon
+1 Tenth District Guard
+1 Wedding Announcement // Wedding Festivity
+1 Mana Crypt
+1 Trenching Steed
+1 Zhang Fei, Fierce Warrior
+1 Tocasia's Welcome
+1 Unbreakable Formation
+1 Test of Faith
+1 _____ _____ Rocketship
+1 Sword of Vengeance
+1 Stoneforge Masterwork
+1 Wingmate Roc
+1 Tooth of Chiss-Goria
+1 Take Up the Shield
+1 Sidewinder Sliver
+1 Walking Bulwark
 1 Veil of Assimilation
-1 Strongarm Monk
+1 Unlikely Alliance
+1 Wojek Siren
+1 Snow Fortress
+1 Sigarda's Vanguard
+1 Vulshok Gauntlets
+1 Voltaic Servant
+1 Tuinvale Guide
+1 Wall of Resistance
+1 Wakestone Gargoyle
+1 Wedding Announcement // Wedding Festivity
+1 Wingrattle Scarecrow
+1 Valorous Charge
 1 Sword of War and Peace
-1 Zhalfirin Lancer
+1 Vizier of the True
+1 Vanguard's Shield
+1 Trusted Pegasus
+1 Wyrm's Crossing Patrol
+1 Take Heart
+1 Trailblazer's Torch
+1 Skyhunter Strike Force
+1 Whetwheel
+1 The Book of Exalted Deeds
+1 Supply Drop
+1 Stalwart Aven
+1 Shield of the Avatar
 1 Virtue of Loyalty // Ardenvale Fealty
-1 Valorous Stance
-1 Syr Alin, the Lion's Claw
-{'overall': 3.0296296296296297, 'cmc': 3.176470588235294, 'ramp': '4', 'draw': '4', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'JazalGoldmane.txt'}
+1 Silverflame Ritual
+{'overall': 2.392857142857143, 'cmc': 3.111111111111111, 'ramp': 1, 'draw': 5, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'JazalGoldmane.txt'}

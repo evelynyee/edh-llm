@@ -62,5 +62,4 @@
 1 Tromp the Domains
 1 Wall of Vines
 1 War Dance
-1 Whiptongue Hydra
-{'overall': 3.7463302752293575, 'cmc': 3.353846153846154, 'ramp': '7', 'draw': '4', 'interaction': 8, 'folder': 'gpt', 'commander': 'DeathleaperTerrorWeapon.txt'}
+{'overall': 3.7037735849056603, 'cmc': 3.3125, 'ramp': 7, 'draw': 4, 'interaction': 7, 'folder': 'gpt', 'commander': 'DeathleaperTerrorWeapon.txt'}

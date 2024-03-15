@@ -1,69 +1,65 @@
 1 Tevesh Szat, Doom of Fools
-1 Treacherous Vampire
-1 Tel-Jilad Stylus
-1 Undying Beast
-1 Tombfire
-1 Vampiric Rites
-1 Specter of Mortality
-1 Tetzimoc, Primal Death
-1 Witch's Cauldron
-1 Sunbird Standard // Sunbird Effigy
-1 Vampire's Kiss
-1 Staff of the Death Magus
-1 Vermin Gorger
-1 Warren Pilferers
-1 Shadow-Rite Priest
-1 Vraska's Contempt
-1 Undertaker
-1 Thrasher Brute
-1 Triarch Praetorian
-1 Tourach's Chant
-1 Voices from the Void
-1 Transmogrifying Wand
-1 Zanikev Locust
-1 Windswept Heath
-1 The Torment of Gollum
-1 Shadowheart, Dark Justiciar
-1 Undercity Scavenger
-1 To the Slaughter
-1 Veilborn Ghoul
-1 Spiteful Hexmage
-1 Shelob, Dread Weaver
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Chromatic Lantern
+1 Wave of Rats
+1 Stir the Sands
+1 Wondrous Crucible
+1 Shrike Harpy
+1 Vindictive Lich
+1 Ugin's Mastery
+1 Starving Revenant
+1 Vat of Rebirth
 1 Skyship Weatherlight
-1 Tawnos's Coffin
-1 Wicked Guardian
-1 Vanquisher's Banner
-1 Scrapyard Recombiner
-1 Stinging Cave Crawler
-1 Vengeful Strangler // Strangling Grasp
-1 Vulturous Aven
-1 Unhinge
-1 Stitcher's Supplier
-1 Unholy Indenture
-1 Sidisi, Undead Vizier
-1 Wandering Archaic // Explore the Vastlands
-1 Tainted Adversary
-1 Thran Tome
-1 Voracious Vermin
-1 Treacherous Urge
-1 Ulamog's Despoiler
-1 Stone of Erech
-1 The Mana Rig
-1 Without Weakness
+1 Vexing Puzzlebox
+1 Urborg Justice
+1 Woe Strider
+1 Shelob, Dread Weaver
 1 Trazyn the Infinite
-1 Skemfar Avenger
-1 Slagstone Refinery
-1 Summoning Station
-1 The War in Heaven
-1 Wooden Sphere
-1 Twilight Prophet
-1 Zuran Orb
-1 Mind Stone
-1 Witness the End
-1 Underhanded Designs
+1 Surveyor's Scope
+1 Spoils of War
+1 Vessel of Malignity
+1 Testament Bearer
+1 Yawgmoth's Vile Offering
+1 Wandering Archaic // Explore the Vastlands
+1 Vampiric Tutor
+1 The Book of Vile Darkness
+1 Yawgmoth, Thran Physician
+1 Visage of Dread // Dread Osseosaur
+1 The Haunt of Hightower
+1 Tower of Murmurs
+1 Whisper Squad
+1 The Deck of Many Things
+1 Undead Servant
+1 Sink into Takenuma
+1 Zhalfirin Void
+1 Szarekh, the Silent King
+1 Unmask
+1 Urza's Bauble
+1 Thawing Glaciers
+1 Their Number Is Legion
+1 Sheltered Valley
+1 Mana Crypt
+1 Wailing Ghoul
+1 Treasure Map // Treasure Cove
+1 Worry Beads
+1 The One Ring
+1 Thran Foundry
+1 Tourach's Canticle
+1 Spinning Darkness
+1 Without Weakness
+1 Tainted Adversary
+1 Thought Prison
+1 Spawnsire of Ulamog
+1 Windgrace Acolyte
+1 Time Reaper
+1 Toxic Deluge
+1 Volrath's Stronghold
+1 Swashbuckler's Whip
+1 Words of Waste
+1 The Mana Rig
+1 Soulcoil Viper
+1 Warren Pilferers
+1 Thieves' Guild Enforcer
+1 Ulamog, the Infinite Gyre
 1 Unhallowed Pact
-1 Thrilling Encore
-1 Unspeakable Symbol
-{'overall': 7.636206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '22', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TeveshSzatDoomofFools.txt'}
+1 Trepanation Blade
+1 Underhanded Designs
+{'overall': 6.134474885844749, 'cmc': 3.421875, 'ramp': 6, 'draw': 15, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TeveshSzatDoomofFools.txt'}

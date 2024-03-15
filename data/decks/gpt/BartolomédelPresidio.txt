@@ -1,4 +1,4 @@
-1 Bartolom del Presidio
+1 Bartolome del Presidio
 1 Sunspring Expedition
 1 Sol Ring
 1 Mana Vault
@@ -61,4 +61,4 @@
 1 Thraben Inspector
 1 Tainted Adversary
 1 Tymaret Calls the Dead
-{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': '0', 'draw': '0', 'interaction': 0, 'folder': 'gpt', 'commander': 'BartolomédelPresidio.txt'}
+{'overall': 0.6666666666666666, 'cmc': 3, 'ramp': 0, 'draw': 0, 'interaction': 0, 'folder': 'gpt', 'commander': 'BartolomédelPresidio.txt'}

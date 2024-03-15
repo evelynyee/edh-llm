@@ -1,69 +1,65 @@
 1 The Master, Multiplied
-1 Tezzeret's Strider
-1 Wine of Blood and Iron
-1 Titan of Eternal Fire
-1 Western Paladin
-1 TARDIS
-1 Total War
-1 Wei Strike Force
-1 Stone Spirit
-1 The Long Reach of Night // Animus of Night's Reach
-1 Urabrask the Hidden
-1 Traitor's Clutch
-1 Tangled Colony
-1 Zombie Boa
-1 Mana Vault
-1 Wort, Boggart Auntie
-1 Strionic Resonator
-1 Thatcher Revolt
-1 Whispersteel Dagger
-1 Sol Ring
-1 Temporary Insanity
-1 Swift Kick
-1 Vraska's Finisher
-1 Terror
-1 Word of Binding
+1 Street Urchin
+1 Witch Engine
 1 Topaz Dragon // Entropic Cloud
-1 Demonic Tutor
-1 Unwilling Recruit
-1 Torpid Moloch
-1 Unerring Sling
-1 War Cadence
-1 Young Wei Recruits
-1 Tribal Golem
-1 Zulaport Chainmage
-1 Varchild's Crusader
-1 Weary Prisoner // Wrathful Jailbreaker
-1 Tower of the Magistrate
-1 Volcanic Fallout
-1 Wolfhunter's Quiver
-1 Tymaret, Chosen from Death
-1 Veteran's Armaments
-1 Warehouse Tabby
-1 Zodiac Goat
-1 Trailblazer's Boots
-1 Vow of Torment
-1 Undercity Shade
-1 Wall of Diffusion
-1 Urge to Feed
-1 Untamed Hunger
-1 The Hive
+1 Sparkmage's Gambit
+1 Wall of Shields
+1 Walking Bulwark
+1 Subterranean Scout
+1 Warbeast of Gorgoroth
+1 Tuktuk Rubblefort
+1 Yawgmoth's Vile Offering
+1 Two-Headed Zombie
+1 Wakedancer
+1 Wall of Earth
 1 Vampiric Sliver
-1 Wings of Hubris
-1 Witch's Oven
-1 Wall of Razors
+1 Yukora, the Prisoner
+1 Vanquish the Weak
+1 Unchained Berserker
+1 Zodiac Snake
+1 Wall of Fire
+1 Torrent of Lava
+1 Traitorous Blood
+1 Treasure Nabber
+1 Well of Life
+1 Weathered Runestone
 1 Tsabo's Web
-1 Vampire Socialite
-1 Umbral Mantle
-1 Two-Headed Dragon
-1 Triskelavus
-1 Warg Rider
-1 Umbral Juke
-1 Vandalblast
-1 Wall of Spears
-1 Twisted Fealty
-1 Two-Headed Sliver
-1 Wurmcoil Engine
-1 Thirsting Axe
-1 Tooth and Claw
-{'overall': 2.1267281105990783, 'cmc': 3.1911764705882355, 'ramp': '3', 'draw': '1', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'TheMasterMultiplied.txt'}
+1 Wily Goblin
+1 Éomer of the Riddermark
+1 Uchuulon
+1 Vow of Lightning
+1 Wine of Blood and Iron
+1 Wirecat
+1 Sudden Breakthrough
+1 Toxic Stench
+1 Triangle of War
+1 War-Name Aspirant
+1 Winding Canyons
+1 Swashbuckler Extraordinaire
+1 Vertigo
+1 Whisper, Blood Liturgist
+1 Warlord's Fury
+1 Vito, Thorn of the Dusk Rose
+1 Tivash, Gloom Summoner
+1 Thopter Assembly
+1 Their Name Is Death
+1 Thundering Giant
+1 Toymaker
+1 Warren Weirding
+1 Vectis Gloves
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Villainous Ogre
+1 Twist Allegiance
+1 Thousand-Year Elixir
+1 Yuan Shao, the Indecisive
+1 Worldslayer
+1 Zagoth Mamba
+1 Veteran's Armaments
+1 Warp Artifact
+1 Walking Desecration
+1 Winter Orb
+1 Traitorous Greed
+1 Tower of Coireall
+1 Zombie Musher
+1 Witch's Clinic
+{'overall': 3.2805418719211823, 'cmc': 3.171875, 'ramp': 7, 'draw': 2, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'TheMasterMultiplied.txt'}

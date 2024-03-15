@@ -1,69 +1,65 @@
 1 Wasitora, Nekoru Queen
-1 Thopter Engineer
-1 Wall of Souls
-1 Zodiac Snake
-1 Witchstalker Frenzy
-1 Waiting in the Weeds
-1 Yamabushi's Flame
-1 Vizier of the Scorpion
-1 Zombie Boa
-1 Wolfkin Outcast // Wedding Crasher
-1 Zodiac Ox
-1 Tempered Sliver
-1 Young Pyromancer
-1 Vine Snare
-1 Wreak Havoc
-1 Vazi, Keen Negotiator
-1 Two-Headed Cerberus
-1 Witherscale Wurm
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Vial Smasher the Fierce
-1 Volcanic Geyser
-1 Withstand Death
+1 Whispering Snitch
+1 Wolf's Quarry
+1 Umbral Juke
+1 Wooden Stake
+1 Vicious Hunger
+1 Thrash // Threat
+1 Zada's Commando
+1 Vine Kami
+1 The Reaver Cleaver
+1 Wall of Shadows
+1 Wort, the Raidmother
+1 Wren's Run Packmaster
+1 Volcanic Fallout
+1 Typhoon
+1 Mana Vault
+1 Toski, Bearer of Secrets
+1 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge
+1 Symbiotic Beast
+1 Weaponize the Monsters
+1 Tempt with Vengeance
+1 Warpath
+1 Trudge Garden
+1 The Torment of Gollum
 1 Weatherseed Elf
-1 Wildfire Eternal
-1 Sword of War and Peace
-1 Withercrown
-1 Wild Slash
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 Xenagos, God of Revels
-1 War's Toll
-1 Wand of Orcus
 1 Vampire of the Dire Moon
-1 Wild Mammoth
-1 Tooth and Claw
-1 Westvale Abbey // Ormendahl, Profane Prince
-1 Winter Blast
-1 Thunder Dragon
-1 Witchstalker
-1 Venom
-1 Worst Fears
-1 Zombie Cannibal
-1 Vampire Revenant
-1 Wolverine Pack
-1 Xorn
-1 Throne of Empires
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 Unleash Shell
-1 Worm Harvest
-1 Turret Ogre
-1 Syphon Flesh
-1 Veil of Summer
-1 Yuan-Ti Fang-Blade
-1 Weaver of Lightning
-1 Witch-king, Bringer of Ruin
+1 Witty Roastmaster
+1 Venomous Fangs
+1 Triangle of War
+1 The Master, Gallifrey's End
+1 Twin-Silk Spider
+1 Zombie Musher
+1 Weary Prisoner // Wrathful Jailbreaker
+1 Thundering Sparkmage
+1 Volatile Rig
+1 Vile Rebirth
+1 Tears of Valakut
+1 Zealot of the God-Pharaoh
+1 Thorncaster Sliver
 1 Thicket Basilisk
-1 Tower of Calamities
-1 Vexing Devil
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Sol Ring
-1 Trailblazer's Torch
-1 Wolfkin Outcast // Wedding Crasher
+1 Wing Storm
+1 Unlicensed Disintegration
+1 Vulshok Sorcerer
+1 Weaponcraft Enthusiast
+1 Wilson, Refined Grizzly
+1 Éomer of the Riddermark
+1 Walk the Plank
+1 Worldslayer
+1 Volatile Arsonist // Dire-Strain Anarchist
+1 Whiptail Moloch
 1 Woebringer Demon
-1 Xathrid Slyblade
-1 Vitaspore Thallid
-1 Time to Feed
-1 Éomer, Marshal of Rohan
-1 Valduk, Keeper of the Flame
-1 Varchild, Betrayer of Kjeldor
-{'overall': 2.9392857142857145, 'cmc': 3.393939393939394, 'ramp': '3', 'draw': '4', 'interaction': 12, 'folder': 'manual_rand', 'commander': 'WasitoraNekoruQueen.txt'}
+1 Volcanic Geyser
+1 Zodiac Tiger
+1 Wort, Boggart Auntie
+1 Yuan Shao, the Indecisive
+1 Red Elemental Blast
+1 Zenith Chronicler
+1 Zendikar Resurgent
+1 Village Watch // Village Reavers
+1 Yavimaya Steelcrusher
+1 Xanthic Statue
+1 Viral Spawning
+1 Vampire Cutthroat
+1 Sylvan Offering
+{'overall': 3.684474885844749, 'cmc': 3.421875, 'ramp': 4, 'draw': 4, 'interaction': 22, 'folder': 'manual_rand', 'commander': 'WasitoraNekoruQueen.txt'}

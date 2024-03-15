@@ -1,69 +1,65 @@
 1 Silas Renn, Seeker Adept
-1 Zellix, Sanity Flayer
-1 Unesh, Criosphinx Sovereign
-1 Tasigur's Cruelty
-1 Vesuvan Drifter
-1 Whispering Specter
-1 Wake the Dead
-1 Web of Inertia
-1 Yawgmoth's Will
+1 Whir of Invention
+1 Witness the Future
+1 Tombstalker
+1 Undercity Informer
+1 Transmute Artifact
+1 Timetwister
+1 Waterfront Bouncer
+1 Sweet Oblivion
 1 Blood Artist
-1 Thoughtseize
-1 Voldaren Pariah // Abolisher of Bloodlines
-1 Tempted by the Oriq
-1 Zareth San, the Trickster
-1 Turn into a Pumpkin
-1 Trapfinder's Trick
-1 Varragoth, Bloodsky Sire
-1 Thief of Hope
-1 Veiled Serpent
-1 Zuran Spellcaster
-1 Tidal Terror
-1 Supreme Will
-1 Thirst for Discovery
-1 Vampire Charmseeker
-1 Wander in Death
-1 Tezzeret, Master of Metal
-1 Tezzeret, Master of the Bridge
-1 Stupor
-1 Transplant Theorist
-1 Wandering Archaic // Explore the Vastlands
-1 Zephyr Winder
-1 Tymora's Invoker
-1 Unhinge
-1 Vicious Rumors
-1 Treasure Hunt
-1 Triton Cavalry
-1 Sphinx of Clear Skies
-1 Strongarm Tactics
-1 Whetstone
-1 Wrench Mind
-1 Volatile Fault
-1 Torgaar, Famine Incarnate
-1 Vanguard Suppressor
-1 Whispers of the Muse
-1 Waterspout Weavers
-1 Westgate Regent
-1 Surgical Extraction
-1 Wreck Hunter
-1 Wretched Camel
-1 Waker of Waves
-1 Wretched Throng
-1 Thieving Amalgam
-1 Telemin Performance
-1 Wrexial, the Risen Deep
-1 Wizard's Spellbook
-1 Writ of Return
-1 The Grim Captain's Locker
-1 Supreme Inquisitor
-1 Thieves' Fortune
-1 Tyrant's Scorn
-1 Spinning Darkness
-1 Weeping Angel
+1 Touch of Death
+1 Urza's Tome
 1 Tendrils of Agony
-1 Worldslayer
-1 Tower of Murmurs
-1 Surging Aether
-1 Wizards of Thay
-1 Torment of Venom
-{'overall': 5.827131782945736, 'cmc': 3.7941176470588234, 'ramp': '2', 'draw': '18', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}
+1 Visage of Dread // Dread Osseosaur
+1 Wall of Forgotten Pharaohs
+1 Tragic Lesson
+1 Worldly Counsel
+1 Will Kenrith
+1 Dark Ritual
+1 Woebringer Demon
+1 Strongarm Tactics
+1 Tolarian Terror
+1 Virtus the Veiled
+1 Thirst for Knowledge
+1 Unblinking Bleb
+1 Brainstorm
+1 The Toymaker's Trap
+1 Yanling's Harbinger
+1 Words of Waste
+1 Zndrsplt, Eye of Wisdom
+1 Thwart the Grave
+1 Stain the Mind
+1 Storyteller Pixie
+1 Thought Erasure
+1 Zhalfirin Void
+1 Unlucky Drop
+1 Turbulent Dreams
+1 Urgoros, the Empty One
+1 Temporal Cascade
+1 Turn into a Pumpkin
+1 Wander in Death
+1 Tombfire
+1 Wei Night Raiders
+1 Trepanation Blade
+1 Waste Not
+1 Tolarian Kraken
+1 Traumatize
+1 Wild-Field Scarecrow
+1 Vanishment
+1 Teferi's Tutelage
+1 Szarekh, the Silent King
+1 Talion's Messenger
+1 Tidal Terror
+1 Toshiro Umezawa
+1 Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom
+1 Surging Dementia
+1 Windrider Patrol
+1 Westgate Regent
+1 Umbilicus
+1 Twincast
+1 Viconia, Drow Apostate
+1 Uncovered Clues
+1 Waste Management
+1 Surrakar Spellblade
+{'overall': 8.423991031390134, 'cmc': 3.484375, 'ramp': 4, 'draw': 27, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'SilasRennSeekerAdept.txt'}

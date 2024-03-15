@@ -1,0 +1,65 @@
+1 Thrun, the Last Troll
+1 Rancor
+1 Blanchwood Armor
+1 Sol Ring
+1 Rogue's Passage
+1 Blackblade Reforged
+1 Snake Umbra
+1 Beast Within
+1 Bear Umbra
+1 Fireshrieker
+1 Hunter's Insight
+1 Indomitable Might
+1 Rampant Growth
+1 Llanowar Elves
+1 Cultivate
+1 Colossal Majesty
+1 Loxodon Warhammer
+1 Spider Umbra
+1 Return of the Wildspeaker
+1 Rishkar's Expertise
+1 Tajuru Preserver
+1 Sword of Vengeance
+1 Kenrith's Transformation
+1 Ram Through
+1 Elvish Mystic
+1 Harmonize
+1 Silent Arbiter
+1 Primal Bellow
+1 Prodigious Growth
+1 Haunted Cloak
+1 Kodama's Reach
+1 Eternal Witness
+1 Unnatural Growth
+1 Reclamation Sage
+1 Krosan Grip
+1 Hydra's Growth
+1 Fyndhorn Elves
+1 Trailblazer's Boots
+1 Sakura-Tribe Elder
+1 Ancestral Mask
+1 Colossification
+1 Hunter's Prowess
+1 Reliquary Tower
+1 Ulvenwald Tracker
+1 Nature's Lore
+1 Lignify
+1 Soul's Majesty
+1 Wild Growth
+1 Strata Scythe
+1 Return to Nature
+1 Commander's Plate
+1 Shadowspear
+1 Sanctum Weaver
+1 Nature's Claim
+1 Arbor Elf
+1 Setessan Training
+1 Increasing Savagery
+1 Three Visits
+1 Eidolon of Blossoms
+1 Heroic Intervention
+1 Garruk, Primal Hunter
+1 Setessan Champion
+1 Ring of Kalonia
+1 Mosswort Bridge
+{'overall': 7.807396449704142, 'cmc': 2.640625, 'ramp': 13, 'draw': 14, 'interaction': 6, 'folder': 'edhrec', 'commander': 'ThruntheLastTroll.txt'}

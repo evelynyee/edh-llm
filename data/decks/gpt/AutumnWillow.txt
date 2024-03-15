@@ -62,6 +62,4 @@
 1 Whirling Catapult
 1 Turntimber Basilisk
 1 Uba Mask
-1 Wanderlust
-1 Zodiac Tiger
-{'overall': 6.216822429906542, 'cmc': 3.242424242424242, 'ramp': '9', 'draw': '12', 'interaction': 7, 'folder': 'gpt', 'commander': 'AutumnWillow.txt'}
+{'overall': 6.168357487922705, 'cmc': 3.234375, 'ramp': 9, 'draw': 12, 'interaction': 6, 'folder': 'gpt', 'commander': 'AutumnWillow.txt'}

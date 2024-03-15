@@ -1,69 +1,65 @@
 1 Karador, Ghost Chieftain
-1 Threefold Signal
-1 Valiant Rescuer
-1 Vizier of the Menagerie
-1 Undead Warchief
-1 Thwart the Grave
-1 Wishmonger
-1 Ultramarines Honour Guard
+1 Tyvar, Jubilant Brawler
+1 Worthy Cause
+1 Yawgmoth's Vile Offering
+1 Thorntooth Witch
+1 Sword of Once and Future
 1 Village Rites
-1 Twilight's Call
+1 Vanquish the Foul
+1 Vigil for the Lost
+1 Volrath the Fallen
+1 Well of Knowledge
+1 Vito, Fanatic of Aclazotz
+1 Unearth
+1 Up the Beanstalk
+1 Twinning Staff
+1 Will of the All-Hunter
+1 Witch Hunter
 1 Towering Baloth
-1 Zephyrim
-1 Tourach, Dread Cantor
-1 Visions of Glory
-1 Virtue of Loyalty // Ardenvale Fealty
-1 The Five Doctors
-1 Thunderous Debut
-1 Vigorous Charge
-1 Ugin, the Ineffable
-1 Starnheim Aspirant
-1 Virtue of Strength // Garenbrig Growth
-1 Weigh Down
-1 Territorial Allosaurus
-1 Untamed Kavu
-1 Whalebone Glider
-1 Swift Reckoning
+1 Whispers of Emrakul
+1 Weatherseed Totem
+1 Treasure Keeper
+1 Verduran Enchantress
+1 _____ Bird Gets the Worm
+1 Swallow Whole
+1 Thrull Surgeon
+1 Transcendent Envoy
+1 Vryn Wingmare
+1 Wing Shards
+1 Seedborn Muse
+1 Urza Assembles the Titans
+1 Dark Ritual
+1 Workshop Warchief
+1 Zombify
+1 Tlincalli Hunter // Retrieve Prey
+1 Torii Watchward
+1 Tlincalli Hunter // Retrieve Prey
+1 Void Attendant
+1 Viconia, Drow Apostate
 1 Wandermare
-1 Truce
-1 Toxic Deluge
-1 The Dragon-Kami Reborn // Dragon-Kami's Egg
-1 Walk with the Ancestors
-1 Word of Command
-1 Ugin's Mastery
-1 Viscera Dragger
-1 Urza's Tome
-1 Verdant Eidolon
-1 Sythis, Harvest's Hand
-1 Vanquisher's Banner
-1 Surging Dementia
-1 Thieving Amalgam
-1 Wild Onslaught
-1 Whip of Erebos
-1 Surging Might
-1 Voldaren Estate
-1 Zombie Cannibal
+1 Tendrils of Despair
+1 Ulamog, the Infinite Gyre
+1 Thief of Hope
+1 Tuinvale Treefolk // Oaken Boon
+1 Woodland Acolyte // Mend the Wilds
+1 Unholy Hunger
+1 Vessel of Malignity
+1 Llanowar Elves
+1 Tribal Forcemage
 1 Uba Mask
-1 Vessel of Nascency
-1 Yawgmoth's Will
-1 Thraben Heretic
-1 Wolfkin Outcast // Wedding Crasher
-1 Woodcloaker
-1 Weaver of Harmony
-1 Worship
-1 Yahenni's Expertise
-1 Yavimaya Sojourner
-1 Umbra Stalker
-1 Wight of Precinct Six
-1 Wicked Guardian
-1 Terror of Towashi
-1 Whisperwood Elemental
-1 Ward of Lights
-1 Vraska's Stoneglare
-1 Watcher of the Roost
-1 Words of Waste
-1 Vile Manifestation
-1 Titanic Bulvox
-1 Wren's Run Hydra
-1 Torgaar, Famine Incarnate
-{'overall': 6.05936329588015, 'cmc': 3.926470588235294, 'ramp': '2', 'draw': '19', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}
+1 Vulpikeet
+1 Verdeloth the Ancient
+1 Urborg Repossession
+1 Sultai Scavenger
+1 Unburial Rites
+1 Vengeful Dreams
+1 Virtue of Strength // Garenbrig Growth
+1 Wolfbitten Captive // Krallenhorde Killer
+1 Terminus
+1 Wrath of God
+1 Undead Gladiator
+1 Wishmonger
+1 Wasteland Scorpion
+1 Wake the Dead
+1 Vines of Vastwood
+{'overall': 5.375, 'cmc': 3.8095238095238093, 'ramp': 5, 'draw': 13, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'KaradorGhostChieftain.txt'}

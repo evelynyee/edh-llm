@@ -1,0 +1,65 @@
+1 Eriette of the Charmed Apple
+1 Command Tower
+1 Sram, Senior Edificer
+1 Mesa Enchantress
+1 Sol Ring
+1 Arcane Signet
+1 Kor Spiritdancer
+1 Darksteel Mutation
+1 Killian, Ink Duelist
+1 All That Glitters
+1 Parasitic Impetus
+1 Sage's Reverie
+1 Ethereal Armor
+1 Hateful Eidolon
+1 Ghoulish Impetus
+1 Kaya's Ghostform
+1 Caves of Koilos
+1 Minion's Return
+1 Isolated Chapel
+1 Starfield Mystic
+1 Archon of Sun's Grace
+1 Spirit Link
+1 Transcendent Envoy
+1 Timely Ward
+1 Orzhov Signet
+1 Nurgle's Rot
+1 Hall of Heliod's Generosity
+1 Martial Impetus
+1 Danitha Capashen, Paragon
+1 Lord Skitter's Blessing
+1 Swords to Plowshares
+1 Talisman of Hierarchy
+1 Retether
+1 Songbirds' Blessing
+1 Vampiric Link
+1 Angelic Gift
+1 Tainted Field
+1 Vault of Champions
+1 Gift of Immortality
+1 Ondu Spiritdancer
+1 Light-Paws, Emperor's Voice
+1 Lurrus of the Dream-Den
+1 Sigil of the Empty Throne
+1 Clawing Torment
+1 Shineshadow Snarl
+1 Ashiok's Reaper
+1 Sphere of Safety
+1 Godless Shrine
+1 Path to Exile
+1 Winds of Rath
+1 Bojuka Bog
+1 Unquestioned Authority
+1 Dead Man's Chest
+1 Temple of Silence
+1 Reprobation
+1 Ghostly Prison
+1 Open the Armory
+1 Neva, Stalked by Nightmares
+1 Spirit Mantle
+1 Angelic Destiny
+1 Generous Gift
+1 Swiftfoot Boots
+1 Glistening Oil
+1 Spellbook Vendor
+{'overall': 5.184306569343065, 'cmc': 2.140625, 'ramp': 4, 'draw': 12, 'interaction': 5, 'folder': 'edhrec', 'commander': 'ErietteoftheCharmedApple.txt'}

@@ -19,7 +19,7 @@ COMMANDERS_PATH = os.path.join(DATA_PATH, "commanders.pkl")
 BASE_PATH = os.path.join(DATA_PATH, "decks", "baseline.pkl")
 BASE_PWR_PATH = os.path.join(DATA_PATH, "decks", "baseline")
 MANUAL_PATH = os.path.join(DATA_PATH, "decks", "manual.pkl")
-BUILT_PATH = os.path.join(DATA_PATH, "completed")
+BUILT_PATH = os.path.join(DATA_PATH, "decks",'gpt')
 POWER_PATH = os.path.join(BUILT_PATH, "power")
 
 def load_data(fp):
@@ -130,16 +130,16 @@ def main():
 
     cards_clean, commander_texts, card_texts = clean_data(cards, commanders)
     
-    #model = train_model(cards_clean)
+    model = train_model(cards_clean)
 
-    #results_base, results_base_all = baseline(card_texts, commander_texts, model)
-    #results_manual = manual(card_texts, commander_texts, model, results_base_all)
-    #save_decks(results_base, BASE_PATH)
-    #save_decks(results_manual, MANUAL_PATH)
+    results_base, results_base_all = baseline(card_texts, commander_texts, model)
+    results_manual = manual(card_texts, commander_texts, model, results_base_all)
+    save_decks(results_base, BASE_PATH)
+    save_decks(results_manual, MANUAL_PATH)
 
     build_decks(commander_texts)
 
-    # evaluate_decks(commander_texts)
+    evaluate_decks(commander_texts)
 
 if __name__ == "__main__":
     main()

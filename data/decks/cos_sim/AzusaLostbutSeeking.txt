@@ -1,0 +1,101 @@
+1 Azusa, Lost but Seeking
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Summer Bloom
+1 Exploration
+1 Explore
+1 Ramunap Excavator
+1 Crucible of Worlds
+1 Augur of Autumn
+1 Journey of Discovery
+1 Oracle of Mul Daya
+1 Draco
+1 Beanstalk Wurm // Plant Beans
+1 Leaf-Crowned Elder
+1 Uba Mask
+1 Conduit of Worlds
+1 Lens of Clarity
+1 Vizier of the Menagerie
+1 Thrumming Stone
+1 Eye of Ojer Taq // Apex Observatory
+1 Herald's Horn
+1 Spellweaver Helix
+1 Reclaim the Wastes
+1 Sylvan Library
+1 Knowledge Pool
+1 Duskwatch Recruiter // Krallenhorde Howler
+1 Agent of Acquisitions
+1 Durnan of the Yawning Portal
+1 Terramorph
+1 Vivien, Champion of the Wilds
+1 Forgotten Lore
+1 Renewal
+1 River Song's Diary
+1 Garruk's Horde
+1 Stratadon
+1 Rites of Flourishing
+1 City in a Bottle
+1 Harrow
+1 Oracle's Vault
+1 Hunting Wilds
+1 Surging Might
+1 Search for Tomorrow
+1 Imperiosaur
+1 Mystic Forge
+1 Endless Atlas
+1 Leovold's Operative
+1 Apex Devastator
+1 Realmwalker
+1 Force of Vigor
+1 Summoning Trap
+1 Dryad of the Ilysian Grove
+1 Preferred Selection
+1 Once Upon a Time
+1 Gaea's Will
+1 Ghirapur Orrery
+1 Deeproot Historian
+1 Quick Sliver
+1 Yavimaya Sojourner
+1 Aether Searcher
+1 Elkin Bottle
+1 Serum Powder
+1 Storybook Ride
+1 Oath of Nissa
+1 Gaea's Balance
+1 Descendants' Path
+1 Courser of Kruphix
+{'overall': 9.203191489361702, 'cmc': 3.6153846153846154, 'ramp': '19', 'draw': '15', 'interaction': 3, 'folder': 'cos_sim', 'commander': 'AzusaLostbutSeeking.txt'}}

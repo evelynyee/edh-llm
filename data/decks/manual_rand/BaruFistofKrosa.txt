@@ -1,69 +1,65 @@
 1 Baru, Fist of Krosa
-1 Woolly Mammoths
-1 Thundering Ceratok
-1 Sword of the Paruns
-1 Workshop Warchief
-1 Vivien's Crocodile
-1 Touchstone
-1 Warm Welcome
-1 Wolf Strike
-1 Tribal Unity
-1 Take to the Streets
-1 Supply Drop
-1 Venerated Rotpriest
-1 Tempting Contract
-1 Verdant Command
-1 Webweaver Changeling
-1 Trigon of Infestation
-1 Staff of the Death Magus
-1 Sporecrown Thallid
-1 Wildborn Preserver
-1 Titan of Industry
-1 Uktabi Wildcats
-1 Tandem Takedown
-1 Wurmcoil Engine
-1 Wren's Run Hydra
-1 Veil of Summer
-1 Squirrel Wrangler
-1 Undercity Upheaval
-1 Voice of the Woods
-1 Spore Swarm
-1 Somberwald Beastmaster
-1 Vibrating Sphere
-1 Thragtusk
-1 Tempting Wurm
-1 Sylvan Paradise
-1 Woodland Bellower
-1 Throne of Empires
-1 Wakeroot Elemental
-1 The Skullspore Nexus
-1 Champion of Lambholt
-1 Wrap in Vigor
-1 Summoning Station
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Wren's Run Packmaster
-1 Thunderfoot Baloth
-1 Symbiotic Wurm
-1 You Look Upon the Tarrasque
-1 Thundersteel Colossus
-1 Throne of the God-Pharaoh
-1 Titania's Command
-1 Viral Spawning
-1 Wolfrider's Saddle
-1 Woodweaver's Puzzleknot
-1 Sweet-Gum Recluse
-1 Vanquisher's Banner
-1 Wildheart Invoker
-1 Sylvan Advocate
-1 Wirewood Hivemaster
-1 Tireless Tracker
-1 Thallid
-1 Wolfwillow Haven
+1 Wurmquake
+1 Crop Rotation
+1 Web
+1 Thundering Chariot
+1 War Chariot
+1 Thijarian Witness
+1 Verdant Embrace
+1 Vivien of the Arkbow
+1 The Irencrag
+1 Rampant Growth
+1 Wildwood Mentor
+1 Soul Separator
+1 Swarm Shambler
+1 Withstand Death
+1 Voracious Wurm
+1 Undergrowth Scavenger
+1 Throne of Geth
+1 Tyranid Invasion
+1 Walking Skyscraper
+1 Territorial Maro
+1 Volrath's Gardens
+1 Void Attendant
+1 Vorinclex // The Grand Evolution
+1 Thopter Assembly
+1 Verdant Rebirth
+1 Waker of the Wilds
+1 Treetop Village
+1 Urza's Miter
+1 Staff of the Wild Magus
 1 Sliversmith
-1 Ulvenwald Oddity // Ulvenwald Behemoth
-1 Unholy Citadel
-1 Thrashing Mossdog
-1 Wolf's Quarry
-1 Welding Jar
-1 Vitaspore Thallid
-{'overall': 3.2875494071146245, 'cmc': 3.7205882352941178, 'ramp': '3', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}
+1 Turntimber Ranger
+1 Ulvenwald Observer
+1 Wose Pathfinder
+1 Topography Tracker
+1 Thorn Lieutenant
+1 Wing Puncture
+1 Weirding Wood
+1 Wreath of Geists
+1 Tyrite Sanctum
+1 Viridian Corrupter
+1 Whiptongue Hydra
+1 Ugin, the Ineffable
+1 Weatherseed Totem
+1 Tempting Wurm
+1 Volatile Fault
+1 Vitality Charm
+1 Stampeding Elk Herd
+1 Ulvenwald Hydra
+1 Sporeweb Weaver
+1 Wirewood Savage
+1 Woolly Spider
+1 Tetravus
+1 Whip Silk
+1 Woodcaller Automaton
+1 Vengeant Earth
+1 Viridian Shaman
+1 Thallid Germinator
+1 Wolfkin Outcast // Wedding Crasher
+1 Tribal Unity
+1 Titanic Brawl
+1 Wary Okapi
+1 The Weatherseed Treaty
+1 Staff of the Death Magus
+{'overall': 5.8624401913875595, 'cmc': 3.265625, 'ramp': 10, 'draw': 10, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'BaruFistofKrosa.txt'}

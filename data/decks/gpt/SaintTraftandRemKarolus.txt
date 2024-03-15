@@ -61,4 +61,4 @@
 1 Thopter Assembly
 1 Thunder Totem
 1 Warping Wail
-{'overall': 4.541549295774648, 'cmc': 3.380952380952381, 'ramp': '5', 'draw': '9', 'interaction': 9, 'folder': 'gpt', 'commander': 'SaintTraftandRemKarolus.txt'}
+{'overall': 4.541549295774648, 'cmc': 3.380952380952381, 'ramp': 5, 'draw': 9, 'interaction': 9, 'folder': 'gpt', 'commander': 'SaintTraftandRemKarolus.txt'}

@@ -62,4 +62,4 @@
 1 Winds of Rebuke
 1 Tidal Control
 1 Wayward Soul
-{'overall': 9.192592592592591, 'cmc': 3.375, 'ramp': '5', 'draw': '28', 'interaction': 7, 'folder': 'gpt', 'commander': 'MalcolmAlluringScoundrel.txt'}
+{'overall': 9.192592592592591, 'cmc': 3.375, 'ramp': 5, 'draw': 28, 'interaction': 7, 'folder': 'gpt', 'commander': 'MalcolmAlluringScoundrel.txt'}

@@ -1,69 +1,65 @@
 1 Aragorn, Company Leader
-1 Willow Satyr
-1 Werewolf Pack Leader
-1 Tyrite Sanctum
-1 Vexilus Praetor
-1 Vassal's Duty
-1 Worldspine Wurm
-1 Yorvo, Lord of Garenbrig
-1 You Hear Something on Watch
-1 Vigilant Sentry
+1 Spike Worker
+1 Twinblade Paladin
+1 Voodoo Doll
+1 _____ Bird Gets the Worm
+1 Wedding Announcement // Wedding Festivity
+1 Stonebinder's Familiar
 1 Urza's Engine
-1 Treefolk Umbra
-1 Twinblade Geist // Twinblade Invocation
-1 Thirsting Roots
-1 Swords to Plowshares
-1 You Look Upon the Tarrasque
-1 Thicket Crasher
-1 Zhao Zilong, Tiger General
-1 Venerated Rotpriest
-1 Ulvenwald Bear
-1 Wickerbough Elder
-1 Wild Elephant
-1 Yavimaya Enchantress
-1 Vivien's Invocation
-1 Titanic Brawl
-1 Territorial Scythecat
-1 Strength-Testing Hammer
-1 Thaumatog
-1 Territorial Boar
-1 Tyrant Guard
-1 Woodland Champion
-1 Wild Shape
-1 Waker of the Wilds
-1 Veteran's Armaments
-1 Strixhaven Stadium
-1 Veteran Warleader
-1 War Elephant
-1 Vitality Hunter
-1 Spike Tiller
+1 Titania's Chosen
+1 Wielding the Green Dragon
+1 The Weatherseed Treaty
+1 Victory's Herald
+1 Valor Made Real
 1 Strangleroot Geist
-1 Warning
-1 Steelbane Hydra
-1 Mentor of the Meek
-1 Triskelion
-1 Winter Blast
-1 Tin-Wing Chimera
-1 Valiant Veteran
-1 Verdant Field
-1 Timber Protector
-1 Wall of Resurgence
-1 Timberwatch Elf
-1 Syr Alin, the Lion's Claw
-1 The Crowd Goes Wild
-1 Trusted Forcemage
+1 Veil of Assimilation
+1 Vial of Poison
+1 Wyluli Wolf
+1 Tablet of Compleation
+1 Tangle Angler
+1 Tendril of the Mycotyrant
+1 Titania's Boon
 1 Windbrisk Raptor
-1 Woolly Razorback
-1 Withstand Death
-1 Wind Shear
-1 Wax // Wane
-1 Sword of Hours
-1 Unholy Officiant
-1 Tenacious Hunter
-1 Viridian Betrayers
-1 Vineshaper Mystic
-1 The Wandering Emperor
-1 Sublime Archangel
-1 Spike Weaver
-1 Unstoppable Ash
-{'overall': 2.82962962962963, 'cmc': 3.176470588235294, 'ramp': '2', 'draw': '5', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'AragornCompanyLeader.txt'}
+1 Witchstalker
+1 Twinblade Geist // Twinblade Invocation
+1 Xenk, Paladin Unbroken
+1 Suncleanser
+1 Triumph of Gerrard
+1 War Oracle
+1 Volunteer Reserves
+1 Tales of Master Seshiro // Seshiro's Living Legacy
+1 Treefolk Umbra
+1 Take Up the Shield
+1 Ulvenwald Oddity // Ulvenwald Behemoth
+1 Wasteland Viper
+1 Sun Droplet
+1 Tin-Wing Chimera
+1 Vivien's Crocodile
+1 Willow Geist
+1 Veteran's Armaments
+1 Vampire's Zeal
+1 Wall of Caltrops
+1 Zhalfirin Knight
+1 Trufflesnout
+1 Spike Colony
+1 Wildwood Tracker
+1 Vanguard of the Rose
+1 Sudden Spinnerets
+1 Zopandrel, Hunger Dominus
+1 Winter Blast
+1 Tel-Jilad Fallen
+1 Wildcall
+1 Topple
+1 Trap Digger
+1 Trade Caravan
+1 Thopter Squadron
+1 Tempered Veteran
+1 Threefold Thunderhulk
+1 Wild Nacatl
+1 Viridian Corrupter
+1 Thopter Architect
+1 Éowyn, Lady of Rohan
+1 Wild Shape
+1 Twinblade Slasher
+1 Utopia Mycon
+{'overall': 3.091891891891892, 'cmc': 2.890625, 'ramp': 3, 'draw': 5, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'AragornCompanyLeader.txt'}

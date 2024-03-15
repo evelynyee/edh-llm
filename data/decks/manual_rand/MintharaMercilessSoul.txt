@@ -1,69 +1,65 @@
 1 Minthara, Merciless Soul
-1 Triumph of Cruelty
-1 Wingrattle Scarecrow
-1 Triad of Fates
-1 Syndicate Trafficker
-1 Skyboon Evangelist
-1 Vivisection Evangelist
-1 Voracious Vampire
-1 Vile Deacon
-1 Walking Bulwark
-1 Watcher Sliver
-1 Virtue of Loyalty // Ardenvale Fealty
-1 Steel Overseer
-1 Spontaneous Flight
-1 Tragic Slip
-1 Sublime Archangel
-1 Yukora, the Prisoner
-1 Transmogrifying Wand
-1 Tallyman of Nurgle
-1 Soulshriek
-1 Squad Commander
-1 The Wandering Emperor
-1 Vampiric Sliver
-1 Zealot's Conviction
-1 Xathrid Slyblade
-1 Sunseed Nurturer
-1 Thousand Moons Smithy // Barracks of the Thousand
-1 Tetravus
-1 Vizier of Deferment
-1 War of the Last Alliance
-1 Vizier of Remedies
-1 Sword of Truth and Justice
-1 Tendrils of Corruption
-1 Virulent Wound
-1 Untethered Express
-1 Thraben Sentry // Thraben Militia
-1 Smothering Tithe
+1 Zamriel, Seraph of Steel
+1 Vampire Outcasts
+1 Wake the Dead
+1 The Seedcore
+1 _____ Bird Gets the Worm
+1 Zhalfirin Lancer
+1 Venerable Knight
+1 Yosei, the Morning Star
 1 Spitting Dilophosaurus
-1 Weathered Sentinels
-1 Terashi's Cry
-1 Westvale Abbey // Ormendahl, Profane Prince
-1 Stromkirk Condemned
-1 Yawgmoth's Vile Offering
-1 Wring Flesh
-1 Weatherlight Compleated
+1 Ugin's Nexus
+1 Unbreathing Horde
+1 Wicked Pact
 1 Voracious Hatchling
-1 Mana Vault
-1 The Toymaker's Trap
-1 Weed-Pruner Poplar
-1 Zombie Trailblazer
+1 Wall of Resurgence
+1 Thraben Watcher
+1 Withering Hex
+1 Thundersteel Colossus
+1 Vizkopa Vampire
+1 Thrull Champion
+1 Vexing Puzzlebox
+1 Vermiculos
+1 Stonebinder's Familiar
+1 Unbounded Potential
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Warg Rider
+1 Xathrid Slyblade
+1 Solidarity
+1 Syr Alin, the Lion's Claw
+1 Unruly Mob
+1 Treasure Map // Treasure Cove
+1 Well of Lost Dreams
+1 Thousand Moons Smithy // Barracks of the Thousand
+1 Whisper of the Dross
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 You're Ambushed on the Road
+1 Virulent Wound
+1 Vile Deacon
+1 Wings of the Guard
+1 Zof Shade
+1 Yotian Frontliner
+1 Weatherlight Compleated
 1 Steel Dromedary
-1 Traveling Plague
-1 Talus Paladin
-1 Twinblade Paladin
-1 Tragic Fall
-1 Undercity Scavenger
-1 Wall of Tombstones
-1 Veteran's Reflexes
-1 Syphon Sliver
-1 Swell of Courage
-1 Vogar, Necropolis Tyrant
-1 Wight of Precinct Six
-1 Undying Malice
-1 Virtue of Persistence // Locthwain Scorn
-1 Tempt with Glory
-1 Throne of the Grim Captain // The Grim Captain
-1 Waxmane Baku
-1 Tymaret Calls the Dead
-{'overall': 3.607142857142857, 'cmc': 3.2941176470588234, 'ramp': '4', 'draw': '7', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MintharaMercilessSoul.txt'}
+1 Tomb Tyrant
+1 Wedding Invitation
+1 Unforgiving One
+1 Wolf in _____ Clothing
+1 The Immortal Sun
+1 Warrior en-Kor
+1 Wilfred Mott
+1 Throatseeker
+1 Vanguard of the Rose
+1 Terashi's Cry
+1 White Mana Battery
+1 Wingrattle Scarecrow
+1 Tragic Slip
+1 Toxic Nim
+1 Vislor Turlough
+1 Spiteful Squad
+1 Wretched Confluence
+1 Watcher Sliver
+1 Umezawa's Charm
+1 Warlord's Elite
+1 Vampire Hexmage
+{'overall': 3.411650485436893, 'cmc': 3.2698412698412698, 'ramp': 4, 'draw': 7, 'interaction': 1, 'folder': 'manual_rand', 'commander': 'MintharaMercilessSoul.txt'}

@@ -1,0 +1,101 @@
+1 Seton, Krosan Protector
+1 Rishadan Port
+1 Wirewood Lodge
+1 Wintermoon Mesa
+1 Plaza of Harmony
+1 Blinkmoth Well
+1 Deserted Temple
+1 Holdout Settlement
+1 Castle Garenbrig
+1 Homeward Path
+1 Temple of the False God
+1 Ojer Kaslem, Deepest Growth // Temple of Cultivation
+1 Throne of the High City
+1 Timberland Ruins
+1 Aether Hub
+1 Strip Mine
+1 Wasteland
+1 Spire of Industry
+1 Encroaching Wastes
+1 Animal Sanctuary
+1 Ruins of Oran-Rief
+1 Shrine of the Forsaken Gods
+1 Ally Encampment
+1 Havenwood Battleground
+1 Cryptic Caves
+1 Cave of Temptation
+1 Dust Bowl
+1 Vivid Grove
+1 Elephant Graveyard
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Heritage Druid
+1 Honor-Worn Shaku
+1 Survivors' Encampment
+1 The Shire
+1 Gaea's Cradle
+1 Circle of Dreams Druid
+1 Saruli Caretaker
+1 Overgrown Battlement
+1 Jaspera Sentinel
+1 Leafkin Druid
+1 Devoted Druid
+1 Springleaf Drum
+1 Loam Dryad
+1 Elvish Archdruid
+1 Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
+1 Forsaken Monument
+1 Urza's Workshop
+1 Gond Gate
+1 Citanul Stalwart
+1 Orochi Merge-Keeper
+1 Canopy Tactician
+1 Pili-Pala
+1 Sachi, Daughter of Seshiro
+1 Grim Monolith
+1 Basalt Monolith
+1 Sapseep Forest
+1 Patriar's Seal
+1 Regal Behemoth
+1 Whisperer of the Wilds
+1 Turn to Dust
+1 Clock of Omens
+1 Tower Worker
+1 Horn of Ramos
+1 Woodland Mystic
+1 Wirewood Elf
+1 Tree of Tales
+1 Tangled Florahedron // Tangled Vale
+1 Snow-Covered Forest
+1 Skyshroud Troopers
+1 Orochi Sustainer
+1 Llanowar Elves
+1 Leaf Gilder
+1 Golden Hind
+1 Fyndhorn Elves
+1 Forest // Forest
+1 Forest
+1 Elvish Mystic
+1 Druid of the Cowl
+1 Copper Myr
+1 Deconstruct
+1 Rootrider Faun
+1 Citanul Hierophants
+1 Spinning Wheel
+1 Powerstone Shard
+1 Yavimaya Hollow
+1 Heap Gate
+1 Circle of Elders
+1 Captivating Cave
+1 Relic of Legends
+1 Elfhame Druid
+1 Leyline of Abundance
+1 Nantuko Elder
+1 Undermountain Adventurer
+{'overall': 14.623134328358208, 'cmc': 1.4565217391304348, 'ramp': '51', 'draw': '2', 'interaction': 0, 'folder': 'cos_sim', 'commander': 'SetonKrosanProtector.txt'}}

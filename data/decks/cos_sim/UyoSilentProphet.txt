@@ -1,0 +1,101 @@
+1 Uyo, Silent Prophet
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Island
+1 Narset's Reversal
+1 Temporal Fissure
+1 Sigil Tracer
+1 Psychic Rebuttal
+1 String of Disappearances
+1 Twincast
+1 Meletis Charlatan
+1 Lithoform Engine
+1 Commandeer
+1 Triton Cavalry
+1 Invasion of Arcavios // Invocation of the Founders
+1 Storm of Forms
+1 Chain of Vapor
+1 Flawless Forgery
+1 Errant, Street Artist
+1 Vacuumelt
+1 Replication Technique
+1 Mimeofacture
+1 Lucky Clover
+1 Sea Gate Stormcaller
+1 Swarm Intelligence
+1 Mirari
+1 See Double
+1 Simon, Wild Magic Sorcerer
+1 Echo Storm
+1 Psionic Ritual
+1 Wandering Archaic // Explore the Vastlands
+1 Twinning Staff
+1 Reflective Golem
+1 Wondrous Crucible
+1 Chain Stasis
+1 Chancellor of Tales
+1 Insidious Will
+1 Eternal Dominion
+1 Cut Your Losses
+1 Hullbreaker Horror
+1 Curse of Echoes
+1 Invasion of Vryn // Overloaded Mage-Ring
+1 Brain Freeze
+1 Spelltwine
+1 Karn's Temporal Sundering
+1 Metallurgic Summonings
+1 Ethereal Forager
+1 The Mirari Conjecture
+1 Spellweaver Helix
+1 Echo Mage
+1 Virtue of Knowledge // Vantress Visions
+1 Stream of Thought
+1 Mentor's Guidance
+1 Harbinger of the Tides
+1 Quickling
+1 Mists of Lórien
+1 Flusterstorm
+1 Tomb of Horrors Adventurer
+1 Out of the Way
+1 Adric, Mathematical Genius
+1 Aboleth Spawn
+1 Founding the Third Path
+1 Threefold Signal
+1 Displacer Kitten
+1 Thwart
+1 Johann's Stopgap
+1 Tidespout Tyrant
+{'overall': 3.253875968992248, 'cmc': 3.9692307692307693, 'ramp': '1', 'draw': '8', 'interaction': 10, 'folder': 'cos_sim', 'commander': 'UyoSilentProphet.txt'}}

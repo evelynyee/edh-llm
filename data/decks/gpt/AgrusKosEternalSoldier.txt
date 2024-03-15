@@ -61,8 +61,4 @@
 1 Warhorn Blast
 1 Sunforger
 1 Whipgrass Entangler
-1 Yotian Frontliner
-1 Thorn of Amethyst
-1 Urza's Chalice
-1 Stirring Address
-{'overall': 5.237719298245614, 'cmc': 3.4029850746268657, 'ramp': '8', 'draw': '8', 'interaction': 13, 'folder': 'gpt', 'commander': 'AgrusKosEternalSoldier.txt'}
+{'overall': 5.217567567567568, 'cmc': 3.5238095238095237, 'ramp': 8, 'draw': 8, 'interaction': 13, 'folder': 'gpt', 'commander': 'AgrusKosEternalSoldier.txt'}

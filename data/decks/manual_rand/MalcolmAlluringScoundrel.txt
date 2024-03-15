@@ -1,69 +1,65 @@
 1 Malcolm, Alluring Scoundrel
-1 Storm Cauldron
-1 Volatile Fault
-1 Soldevi Sentry
-1 Unlucky Drop
-1 Thran Tome
-1 Zephyr Singer
-1 Staunch Crewmate
-1 Turbulent Dreams
-1 Silvergill Adept
-1 Whirlwind Denial
-1 Vision Skeins
+1 Urza, Powerstone Prodigy
+1 Treasure Trove
+1 Wooden Sphere
+1 Trait Doctoring
+1 Skyscribing
+1 Talion's Messenger
+1 Spell Burst
+1 Young Blue Dragon // Sand Augury
+1 Web of Inertia
+1 Stronghold Machinist
+1 Whirlpool Drake
+1 Zur's Weirding
+1 Twinning Glass
+1 Watcher in the Mist
+1 Wanderwine Prophets
 1 Temporal Aperture
 1 Sweet Oblivion
-1 Talas Lookout
-1 Youthful Scholar
-1 The Stone Brain
-1 Zndrsplt's Judgment
-1 Voyage's End
-1 Talion's Messenger
-1 Summoner's Egg
-1 Spined Megalodon
-1 Waterfront Bouncer
-1 Venser's Diffusion
-1 Spell Snuff
-1 Winding Canyons
-1 Telekinetic Bonds
-1 Stormkeld Prowler
-1 Watchers of the Dead
-1 Thieving Otter
-1 Tel-Jilad Stylus
-1 Tidal Bore
-1 Syncopate
-1 Vodalian Merchant
-1 Zuran Orb
+1 Waterlogged Hulk // Watertight Gondola
+1 Triton Fortune Hunter
+1 Traverse Eternity
+1 Storm Fleet Negotiator
+1 Spell Contortion
+1 Thrumming Stone
 1 Vanquisher's Banner
-1 Supreme Will
-1 Zephyr Spirit
-1 Storyteller Pixie
-1 Verdant Catacombs
-1 Willbender
-1 Thirst for Discovery
-1 Tocasia's Dig Site
-1 Spellshift
-1 Vedalken Dismisser
-1 Temporal Mastery
-1 Vivisection
-1 The Golden Throne
-1 Time Lord Regeneration
-1 Trinisphere
-1 Mana Drain
-1 Thaumatic Compass // Spires of Orazca
-1 Tolarian Sentinel
-1 Tidepool Turtle
-1 Transplant Theorist
-1 Syr Elenora, the Discerning
-1 Temporal Cascade
-1 Force of Negation
-1 Ulamog, the Infinite Gyre
-1 Thought Prison
-1 Chromatic Lantern
-1 Start the TARDIS
-1 Thaumatic Compass // Spires of Orazca
-1 Wretched Gryff
+1 Wizard Class
+1 Wand of Vertebrae
+1 Sol Talisman
+1 Spined Megalodon
+1 Weaver of Lies
+1 Veiled Sentry
+1 Uba Mask
+1 Think Tank
+1 Waterfall Aerialist
+1 Summoner's Egg
+1 Vesuvan Shapeshifter
 1 Whetwheel
-1 Synthetic Destiny
+1 Sudden Insight
+1 Tales of the Ancestors
+1 Veil of Secrecy
+1 Windrider Wizard
+1 Spellbinder
+1 The Magic Mirror
+1 Thought Nibbler
+1 Time Elemental
+1 Synapse Sliver
+1 Workshop Assistant
+1 Weave Fate
+1 Tidal Bore
+1 Sea-Dasher Octopus
+1 Spire Phantasm
+1 Vesuvan Drifter
+1 Stream of Thought
+1 Sphinx of Clear Skies
+1 Welcome to the Fold
+1 Well of Knowledge
 1 Whirlpool Whelm
-1 Wandering Eye
-{'overall': 8.464678899082568, 'cmc': 3.253731343283582, 'ramp': '4', 'draw': '26', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MalcolmAlluringScoundrel.txt'}
+1 Tome Scour
+1 Whispergear Sneak
+1 Wipe Away
+1 Wretched Gryff
+1 Time Reversal
+1 Thassa's Oracle
+1 Trade Routes
+{'overall': 8.70093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 28, 'interaction': 2, 'folder': 'manual_rand', 'commander': 'MalcolmAlluringScoundrel.txt'}

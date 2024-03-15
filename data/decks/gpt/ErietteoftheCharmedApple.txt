@@ -62,4 +62,4 @@
 1 Vanquish the Weak
 1 Wall of Bone
 1 Termination Facilitator
-{'overall': 2.6714285714285713, 'cmc': 3.5, 'ramp': '2', 'draw': '4', 'interaction': 12, 'folder': 'gpt', 'commander': 'ErietteoftheCharmedApple.txt'}
+{'overall': 2.6714285714285713, 'cmc': 3.5, 'ramp': 2, 'draw': 4, 'interaction': 12, 'folder': 'gpt', 'commander': 'ErietteoftheCharmedApple.txt'}

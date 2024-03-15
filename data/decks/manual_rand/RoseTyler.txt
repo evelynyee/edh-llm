@@ -1,69 +1,65 @@
 1 Rose Tyler
-1 Trash Bin
-1 Words of Worship
-1 Tetravus
-1 Valiant Rescuer
-1 Triclopean Sight
-1 Wyrm's Crossing Patrol
-1 Tenth District Veteran
-1 Serene Steward
-1 Veil of Assimilation
-1 Ticket Turbotubes
-1 Unbreakable Formation
-1 Thawing Glaciers
-1 Windswept Heath
-1 Scavenged Brawler
-1 Time of Heroes
-1 Zenith Chronicler
-1 Tiller Engine
-1 Temper
-1 White Sun's Zenith
-1 Verge Rangers
-1 Tumble Magnet
-1 Wandering Champion
-1 Wondrous Crucible
-1 Ticketomaton
-1 Zealot's Conviction
-1 Tatterkite
+1 World Queller
+1 Thraben Sentry // Thraben Militia
+1 Seasoned Dungeoneer
+1 The Seedcore
+1 Sword of Truth and Justice
+1 Syr Ginger, the Meal Ender
+1 Ugin's Mastery
+1 Volunteer Reserves
 1 The War Games
-1 Your Temple Is Under Attack
-1 Tallowisp
-1 Slumbering Keepguard
-1 Show of Confidence
-1 Touch the Spirit Realm
-1 Victory's Envoy
-1 Soulcatcher
-1 Songbirds' Blessing
-1 Austere Command
-1 Starfield Mystic
-1 Valiant Veteran
-1 Steeling Stance
-1 Void Mirror
-1 Swift Reckoning
-1 Verdant Catacombs
-1 Werefox Bodyguard
-1 Vulpikeet
-1 Soul Echo
-1 Summon the School
-1 Sigil of Distinction
-1 Surge of Thoughtweft
-1 Twilight Shepherd
-1 Sphinx-Bone Wand
-1 Underdark Rift
-1 Vexing Arcanix
-1 Will of the All-Hunter
-1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
-1 Twinblade Geist // Twinblade Invocation
-1 Urza Assembles the Titans
-1 Vesuva
+1 Chromatic Lantern
+1 The Fall of Lord Konda // Fragment of Konda
+1 Wicker Warcrawler
+1 Sol Talisman
+1 Treasure Map // Treasure Cove
+1 Wayfaring Giant
+1 Tiller Engine
+1 Will-Forged Golem
+1 Shrine of Loyal Legions
+1 Tyrite Sanctum
+1 Wingsteed Rider
 1 Sylvia Brightspear
-1 Venser's Journal
-1 Venerable Knight
-1 Triskelion
-1 Wrinkly Monkey Shenanigans
-1 Vanquish the Foul
-1 The Princess Takes Flight
-1 Timesifter
-1 Whipcorder
-1 Sparring Construct
-{'overall': 4.601030927835052, 'cmc': 2.8529411764705883, 'ramp': '2', 'draw': '12', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'RoseTyler.txt'}
+1 Watchers of the Dead
+1 Skybind
+1 Swiftgear Drake
+1 Valiant Veteran
+1 Voice of the Blessed
+1 Unconventional Tactics
+1 The Restoration of Eiganjo // Architect of Restoration
+1 Zealot's Conviction
+1 The One Ring
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Witness of the Ages
+1 Austere Command
+1 Warlord's Elite
+1 Weatherlight
+1 Workshop Assistant
+1 Smokestack
+1 Urza's Incubator
+1 Wall of Resurgence
+1 Ulamog's Despoiler
+1 Temper
+1 Wild Ogre Bupkis
+1 Together Forever
+1 Well of Knowledge
+1 Supply Runners
+1 Tablet of Epityr
+1 Savior of the Sleeping
+1 Wingbeat Warrior
+1 Walking Atlas
+1 Thoughtweft Trio
+1 Warrior's Honor
+1 Sram, Senior Edificer
+1 Thrumming Stone
+1 Solemn Recruit
+1 Strict Proctor
+1 Sunspring Expedition
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Words of Worship
+1 Vizier of the True
+1 Wilfred Mott
+1 Uba Mask
+1 Treasure Chest
+1 Twilight Shepherd
+{'overall': 4.253773584905661, 'cmc': 3.3125, 'ramp': 4, 'draw': 10, 'interaction': 3, 'folder': 'manual_rand', 'commander': 'RoseTyler.txt'}

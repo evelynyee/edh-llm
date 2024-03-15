@@ -1,69 +1,65 @@
 1 Wernog, Rider's Chaplain
-1 Yixlid Jailer
-1 Unlicensed Hearse
-1 Wall of Tombstones
-1 Words of Worship
-1 Twinning Staff
-1 Waste Management
-1 Wizard's Rockets
-1 Wedding Announcement // Wedding Festivity
-1 Wail of the Nim
-1 Wound Reflection
-1 The Toymaker's Trap
-1 Suffer the Past
-1 Urgoros, the Empty One
-1 Witness the End
-1 Strongarm Tactics
-1 Treasury Thrull
-1 Wanted Scoundrels
-1 Wicked Visitor
-1 Thornmantle Striker
-1 Tariff
-1 Throat Slitter
-1 Werefox Bodyguard
-1 Stronghold Discipline
-1 Vitality Hunter
-1 Throne of Geth
-1 Swarm of Rats
-1 Witch's Cauldron
-1 Writhing Necromass
-1 Vengeant Vampire
-1 Tivash, Gloom Summoner
-1 Zombie Cannibal
-1 The Elderspell
-1 Thought Dissector
-1 Solitude
-1 Wasteland Strangler
-1 Tattered Mummy
-1 Three Bowls of Porridge
-1 Wailing Ghoul
-1 Static Net
-1 Temporary Lockdown
 1 Twilight Prophet
-1 Syr Ginger, the Meal Ender
-1 Teferi's Protection
-1 Unified Strike
-1 Path to Exile
-1 The Wedding of River Song
-1 Three Tragedies
-1 Thran Portal
-1 Venser's Journal
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Strongarm Tactics
 1 Tablet of the Guilds
 1 Volrath the Fallen
-1 Wake the Dead
-1 Witch's Oven
-1 Soul Conduit
-1 Undead Butler
-1 Teshar, Ancestor's Apostle
-1 Vampire Spawn
-1 Village Rites
-1 Urza's Miter
-1 Virtus's Maneuver
-1 Undead Augur
-1 Triumphant Surge
-1 Thrull Parasite
 1 Treasure Chest
-1 Warped Devotion
-1 Wedding Ring
-{'overall': 4.900717703349282, 'cmc': 3.073529411764706, 'ramp': '2', 'draw': '13', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}
+1 Thought Distortion
+1 Transcendence
+1 Tetravus
+1 Wanted Scoundrels
+1 Tymna the Weaver
+1 Tower of Murmurs
+1 Wondrous Crucible
+1 Soul Strings
+1 Vampire Sovereign
+1 Without Weakness
+1 Urza's Miter
+1 Triad of Fates
+1 Tower of Fortunes
+1 Waxmane Baku
+1 Time Reaper
+1 Your Temple Is Under Attack
+1 Whetstone
+1 Vampiric Spirit
+1 Tiller Engine
+1 Torii Watchward
+1 Soulless One
+1 Terror Tide
+1 Throat Slitter
+1 Warmth
+1 Tocasia's Welcome
+1 Trove Warden
+1 Toymaker
+1 Wandering Champion
+1 Urza Assembles the Titans
+1 Whetwheel
+1 Worry Beads
+1 Mentor of the Meek
+1 Soul Shatter
+1 Wicked Akuba
+1 Stain the Mind
+1 The Stone Brain
+1 Wrath of God
+1 Talara's Bane
+1 Visage of Dread // Dread Osseosaur
+1 Vraska's Scorn
+1 The Mycosynth Gardens
+1 Szat's Will
+1 Wandering Archaic // Explore the Vastlands
+1 Zhentarim Bandit
+1 _____ _____ Rocketship
+1 Viseling
+1 Vicious Rumors
+1 World Queller
+1 Teyo, Geometric Tactician
+1 Whispersteel Dagger
+1 The End
+1 Visions of Dread
+1 Ugin, the Spirit Dragon
+1 Weed Strangle
+1 Tenured Inkcaster
+1 Underworld Sentinel
+1 Souls of the Lost
+1 Viconia, Drow Apostate
+{'overall': 6.251724137931035, 'cmc': 3.625, 'ramp': 3, 'draw': 18, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'WernogRidersChaplain.txt'}

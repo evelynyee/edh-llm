@@ -1,69 +1,65 @@
 1 Ziatora, the Incinerator
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 Warchief Giant
-1 Treasure Nabber
-1 Tail Slash
-1 The Brothers' War
-1 Worldslayer
-1 Voracious Fell Beast
-1 Titan of Eternal Fire
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Vazi, Keen Negotiator
-1 Whispersteel Dagger
-1 Triumph of Ferocity
-1 Warbriar Blessing
-1 Welding Jar
-1 Wake the Dead
-1 Teachings of the Kirin // Kirin-Touched Orochi
-1 Wing Snare
-1 Welding Sparks
-1 Vengeant Vampire
-1 Venerable Kumo
-1 Wildfire
-1 Volcanic Vision
-1 Subterranean Tremors
-1 Wasp of the Bitter End
-1 Wrack with Madness
-1 Thallid Germinator
-1 Voldaren Thrillseeker
-1 Tivash, Gloom Summoner
-1 Thicket Crasher
-1 Termagant Swarm
-1 Takklemaggot
-1 Trudge Garden
-1 Verdant Force
-1 Unleash the Inferno
-1 Viashino Sandstalker
-1 Yavimaya Steelcrusher
-1 Voodoo Doll
-1 Vault Robber
-1 Tribute to Horobi // Echo of Death's Wail
-1 Tempting Witch
-1 Undercity Uprising
-1 Tyvar the Bellicose
-1 Unlicensed Hearse
-1 Svogthos, the Restless Tomb
-1 Wild Instincts
-1 Voice of the Woods
-1 Valentin, Dean of the Vein // Lisette, Dean of the Root
-1 Thopter Assembly
-1 Red Elemental Blast
-1 Triumphant Chomp
-1 Vampires' Vengeance
-1 Triskelavus
-1 Yavimaya Wurm
-1 The Mycotyrant
-1 Weaponcraft Enthusiast
-1 Dark Ritual
-1 Tatsumasa, the Dragon's Fang
 1 Wirewood Symbiote
-1 Zilortha, Strength Incarnate
+1 Xathrid Necromancer
+1 Weaponcraft Enthusiast
+1 Vengeful Strangler // Strangling Grasp
+1 Svogthos, the Restless Tomb
+1 Varchild, Betrayer of Kjeldor
+1 Unlicensed Hearse
+1 Tempt with Vengeance
+1 Viral Spawning
+1 Voracious Fell Beast
+1 Tyvar Kell
 1 There and Back Again
+1 Sylvan Offering
+1 Vislor Turlough
+1 Vengeful Devil
+1 Touch of Moonglove
+1 You See a Pair of Goblins
+1 Well of Lost Dreams
+1 Vulturous Aven
+1 Vendetta
+1 Titanic Brawl
+1 Syrix, Carrier of the Flame
+1 Vrock
+1 War-Torch Goblin
+1 Volcano Hellion
+1 Words of War
+1 Thicket Crasher
+1 Wake the Dead
+1 Wave of Terror
+1 The Mycotyrant
+1 The Reaver Cleaver
+1 Éomer of the Riddermark
+1 Undercity Upheaval
+1 Tomb Blade
+1 Tovolar's Huntmaster // Tovolar's Packleader
+1 Wreath of Geists
+1 Titan Hunter
+1 Trudge Garden
+1 Wicked Guardian
+1 Xenagos, God of Revels
+1 Wrangle
+1 Vault Robber
+1 Whirling Catapult
+1 Vivien on the Hunt
+1 The Beast, Deathless Prince
+1 Vengeful Ancestor
+1 Wort, Boggart Auntie
 1 Welcome to . . . // Jurassic Park
+1 Zombie Cannibal
+1 Untethered Express
+1 Tangled Colony
+1 Young Red Dragon // Bathe in Gold
+1 Zurzoth, Chaos Rider
+1 Thorncaster Sliver
+1 Wolfrider's Saddle
+1 Verdant Embrace
+1 Tyvar the Bellicose
+1 Violet Pall
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Vampire's Kiss
+1 Wall of Tombstones
+1 Woodcaller Automaton
 1 Throne of Empires
-1 Whisper, Blood Liturgist
-1 Zopandrel, Hunger Dominus
-1 Thornbite Staff
-1 Windswift Slice
-1 Unforgiving One
-{'overall': 5.396938775510204, 'cmc': 3.656716417910448, 'ramp': '5', 'draw': '10', 'interaction': 22, 'folder': 'manual_rand', 'commander': 'ZiatoratheIncinerator.txt'}
+{'overall': 6.1844748858447485, 'cmc': 3.421875, 'ramp': 7, 'draw': 12, 'interaction': 17, 'folder': 'manual_rand', 'commander': 'ZiatoratheIncinerator.txt'}

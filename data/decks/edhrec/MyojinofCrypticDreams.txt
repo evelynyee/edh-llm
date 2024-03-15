@@ -1,0 +1,65 @@
+1 Myojin of Cryptic Dreams
+1 Sol Ring
+1 Tezzeret's Gambit
+1 Flux Channeler
+1 Karn's Bastion
+1 Command Beacon
+1 Clever Impersonator
+1 Contentious Plan
+1 Arcane Signet
+1 Inexorable Tide
+1 Thrummingbird
+1 Thran Dynamo
+1 Solemn Simulacrum
+1 Gilded Lotus
+1 Crystal Shard
+1 Spark Double
+1 Sakashima of a Thousand Faces
+1 Phyrexian Metamorph
+1 Sanctum of Eternity
+1 Tyrite Sanctum
+1 Counterspell
+1 Thought Vessel
+1 Caged Sun
+1 Mirror Box
+1 Everflowing Chalice
+1 High Tide
+1 Steady Progress
+1 Glasspool Mimic
+1 Mind Stone
+1 Replicating Ring
+1 Deepglow Skate
+1 Mirrorhall Mimic
+1 Stunt Double
+1 Phantasmal Image
+1 Myriad Landscape
+1 Mirror Image
+1 Sapphire Medallion
+1 Pongify
+1 Undercover Operative
+1 Hullbreaker Horror
+1 Sakashima the Impostor
+1 Agent of Treachery
+1 Sky Diamond
+1 Mulldrifter
+1 Clockspinning
+1 Mystic Sanctuary
+1 Propaganda
+1 Defiler of Dreams
+1 Guildpact Informant
+1 Rhystic Study
+1 Reliquary Tower
+1 Burnished Hart
+1 Contagion Clasp
+1 Wayfarer's Bauble
+1 Campfire
+1 Contagion Engine
+1 Kiora's Dambreaker
+1 Clone
+1 Viral Drake
+1 Cyclonic Rift
+1 Fabricate
+1 Dramatist's Puppet
+1 Myojin of Seeing Winds
+1 Fuel for the Cause
+{'overall': 8.493216080402009, 'cmc': 3.109375, 'ramp': 16, 'draw': 14, 'interaction': 7, 'folder': 'edhrec', 'commander': 'MyojinofCrypticDreams.txt'}

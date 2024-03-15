@@ -1,0 +1,65 @@
+1 Ayli, Eternal Pilgrim
+1 Sol Ring
+1 Command Tower
+1 Orzhov Signet
+1 Arcane Signet
+1 Soul Warden
+1 Swords to Plowshares
+1 Isolated Chapel
+1 Caves of Koilos
+1 Godless Shrine
+1 Suture Priest
+1 Zulaport Cutthroat
+1 Blood Artist
+1 Soul's Attendant
+1 Skullclamp
+1 Cruel Celebrant
+1 Talisman of Hierarchy
+1 Temple of Silence
+1 Vizkopa Guildmage
+1 Orzhov Basilica
+1 Tainted Field
+1 Vito, Thorn of the Dusk Rose
+1 Sanguine Bond
+1 Daxos, Blessed by the Sun
+1 Anguished Unmaking
+1 Bojuka Bog
+1 Elas il-Kor, Sadistic Pilgrim
+1 Path to Exile
+1 Vault of Champions
+1 Scoured Barrens
+1 Sun Titan
+1 Despark
+1 Aetherflux Reservoir
+1 Blind Obedience
+1 Damn
+1 Kambal, Consul of Allocation
+1 Debt to the Deathless
+1 Authority of the Consuls
+1 Fetid Heath
+1 Gray Merchant of Asphodel
+1 Revival // Revenge
+1 Fleshtaker
+1 Vault of the Archangel
+1 Urborg, Tomb of Yawgmoth
+1 Brightclimb Pathway
+1 Marsh Flats
+1 Cleric Class
+1 Reassembling Skeleton
+1 Shattered Sanctum
+1 Dawn of Hope
+1 Phyrexian Reclamation
+1 Solemn Simulacrum
+1 Viscera Seer
+1 Serra Ascendant
+1 Mortify
+1 Village Rites
+1 Westvale Abbey
+1 Mind Stone
+1 Fumigate
+1 Smothering Tithe
+1 Speaker of the Heavens
+1 Utter End
+1 Priest of Forgotten Gods
+1 Demonic Tutor
+{'overall': 5.12280701754386, 'cmc': 1.78125, 'ramp': 8, 'draw': 6, 'interaction': 10, 'folder': 'edhrec', 'commander': 'AyliEternalPilgrim.txt'}

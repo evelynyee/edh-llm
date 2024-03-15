@@ -1,69 +1,65 @@
 1 Odric, Lunarch Marshal
-1 Stormfront Pegasus
-1 Umbral Mantle
-1 Smothering Tithe
-1 Unholy Citadel
-1 Zhalfirin Decoy
-1 Snow Fortress
-1 Scuttling Butler
-1 Sundial of the Infinite
-1 Wurmcoil Engine
-1 Shadow Glider
-1 Witch's Clinic
-1 The Hive
-1 Valor Made Real
-1 White Ward
-1 Surge of Righteousness
-1 Spirit Mantle
-1 Task Force
-1 Steadfastness
-1 Sparring Golem
-1 Steppe Lynx
-1 Zamriel, Seraph of Steel
-1 Veteran Soldier
-1 Soldier of the Grey Host
-1 Sunhome Stalwart
-1 Warded Battlements
-1 Sanctified Charge
-1 Venerable Knight
-1 Warrior's Honor
-1 Steelform Sliver
-1 War Elephant
-1 Valorous Steed
-1 Trusted Pegasus
-1 Torch Gauntlet
-1 Chrome Mox
+1 Shield Mate
+1 Thundersteel Colossus
+1 Valor
+1 Sting, the Glinting Dagger
+1 Stoneskin
+1 Wild Griffin
+1 Steeling Stance
+1 Skyhunter Skirmisher
 1 Time of Heroes
-1 Worthy Knight
+1 Wall of Essence
 1 Wild Aesthir
-1 Spear of Heliod
+1 Warded Battlements
+1 Trusted Pegasus
+1 Viridian Longbow
+1 Steel-Plume Marshal
+1 Triclopean Sight
+1 Sword of Body and Mind
+1 Task Force
+1 Veteran's Armaments
+1 Wizened Cenn
+1 Soratami Cloud Chariot
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Soltari Priest
+1 Unlikely Alliance
+1 Solid Footing
+1 Watchwing Scarecrow
+1 The Stasis Coffin
+1 Soulbound Guardians
 1 Sungold Sentinel
-1 Swooping Talon
-1 Vedalken Shackles
-1 Triumph of Gerrard
-1 Wojek Apothecary
-1 Sword of Sinew and Steel
-1 Sunlit Hoplite
-1 Wanderer's Intervention
-1 Sunspear Shikari
-1 Veteran's Powerblade
-1 Winter Orb
-1 Spirit Weaver
-1 Urza's Engine
-1 Sword of Feast and Famine
-1 Trailblazer's Torch
-1 Wall of Spears
-1 Wedding Ring
-1 Weight of Conscience
-1 Ward of Bones
-1 Umezawa's Jitte
-1 Worship
-1 Zelyon Sword
-1 Wojek Siren
-1 Swordsworn Cavalier
-1 Swooping Lookout
-1 Sword of Truth and Justice
-1 Syr Alin, the Lion's Claw
 1 Training Drone
-1 Show of Valor
-{'overall': 1.962041884816754, 'cmc': 2.8088235294117645, 'ramp': '2', 'draw': '2', 'interaction': 5, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}
+1 Tower of the Magistrate
+1 Spidersilk Net
+1 Voice of Reason
+1 Sword of the Chosen
+1 Warmonger's Chariot
+1 Stoic Ephemera
+1 Yotian Frontliner
+1 Trailblazer's Torch
+1 White Knight
+1 Stonehorn Chanter
+1 Valorous Charge
+1 Soltari Crusader
+1 Sword of Truth and Justice
+1 You Cannot Pass!
+1 Selfless Spirit
+1 Worship
+1 Sigiled Sword of Valeron
+1 Zeriam, Golden Wind
+1 Wirecat
+1 Volunteer Reserves
+1 Sunmane Pegasus
+1 Wingrattle Scarecrow
+1 Umezawa's Jitte
+1 Wall of Glare
+1 Woolly Razorback
+1 Thraben Doomsayer
+1 Snow Fortress
+1 The Book of Exalted Deeds
+1 Spare from Evil
+1 Sublime Archangel
+1 Mentor of the Meek
+1 Warhorn Blast
+1 Windshaper Planetar
+{'overall': 1.1132124352331607, 'cmc': 3.015625, 'ramp': 0, 'draw': 1, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'OdricLunarchMarshal.txt'}

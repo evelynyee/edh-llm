@@ -62,4 +62,4 @@
 1 Thoughtweft Trio
 1 Wayfarer's Bauble
 1 Sol Ring
-{'overall': 5.749300699300699, 'cmc': 2.86, 'ramp': '8', 'draw': '11', 'interaction': 6, 'folder': 'gpt', 'commander': 'RoseTyler.txt'}
+{'overall': 5.761111111111111, 'cmc': 2.8125, 'ramp': 8, 'draw': 11, 'interaction': 6, 'folder': 'gpt', 'commander': 'RoseTyler.txt'}

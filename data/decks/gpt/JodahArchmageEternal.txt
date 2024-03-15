@@ -61,4 +61,4 @@
 1 Treva's Attendant
 1 Wilt
 1 Whirlwind of Thought
-{'overall': 7.791549295774648, 'cmc': 3.380952380952381, 'ramp': '9', 'draw': '19', 'interaction': 4, 'folder': 'gpt', 'commander': 'JodahArchmageEternal.txt'}
+{'overall': 7.791549295774648, 'cmc': 3.380952380952381, 'ramp': 9, 'draw': 19, 'interaction': 4, 'folder': 'gpt', 'commander': 'JodahArchmageEternal.txt'}

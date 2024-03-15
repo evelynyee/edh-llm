@@ -1,69 +1,65 @@
 1 Myojin of Cryptic Dreams
-1 Umara Wizard // Umara Skyfalls
-1 Mana Vault
-1 Wanderguard Sentry
-1 The Everflowing Well // The Myriad Pools
-1 Wibbly-wobbly, Timey-wimey
-1 The Monumental Facade
-1 Wake Thrasher
-1 Vorrac Battlehorns
-1 Wavecrash Triton
-1 Vexing Scuttler
-1 Spawning Pit
-1 Sludge Monster
-1 Unesh, Criosphinx Sovereign
-1 Workshop Assistant
-1 Undiscovered Paradise
-1 Wedding Invitation
-1 Tide Shaper
-1 Wind Sail
-1 Summoner's Bane
-1 Steel Overseer
-1 Thrummingbird
-1 Force of Will
-1 Surrounded by Orcs
-1 Undead Alchemist
-1 Stonecoil Serpent
-1 Vigean Graftmage
-1 Watertrap Weaver
-1 The Seedcore
-1 Weaver of Lies
-1 Workhorse
-1 Urza, Lord High Artificer
-1 Wormfang Manta
-1 The Peregrine Dynamo
-1 Treasure Map // Treasure Cove
 1 Toothy, Imaginary Friend
-1 Treason of Isengard
-1 Soultether Golem
-1 Willbreaker
-1 The Phasing of Zhalfir
-1 Walk the Aeons
-1 Thunderhawk Gunship
-1 Thermal Flux
-1 Unstable Shapeshifter
-1 Temple of the Dragon Queen
-1 Triton Waverider
-1 Wandering Archaic // Explore the Vastlands
-1 Transmogrifying Wand
-1 Wash Away
-1 Volrath's Laboratory
-1 Time of Ice
+1 The Mycosynth Gardens
+1 Spawning Pit
+1 Umara Raptor
+1 Urza's Incubator
+1 Triassic Egg
+1 Wizard Mentor
+1 Verity Circle
+1 The Eleventh Hour
+1 Witch's Oven
+1 Undiscovered Paradise
+1 Vronos, Masked Inquisitor
+1 Volition Reins
+1 Towashi Guide-Bot
+1 Voidmage Husher
+1 Throne of the God-Pharaoh
+1 Switcheroo
+1 Trusted Advisor
+1 That Which Was Taken
+1 Waterfall Aerialist
 1 Twiddle
-1 Wicker Picker
-1 Thoughtbound Phantasm
-1 Turn into a Pumpkin
-1 Wandering Archaic // Explore the Vastlands
-1 Mind Stone
-1 Tidal Control
-1 Star Whale
-1 Thought-Knot Seer
-1 Tezzeret, Betrayer of Flesh
-1 Thopter Mechanic
-1 Tandem Lookout
-1 Toils of Night and Day
-1 Teferi, Temporal Pilgrim
+1 Teller of Tales
+1 Xerex Strobe-Knight
+1 Word of Undoing
+1 Thoughtcast
+1 Time Bomb
+1 The Indomitable
+1 True Polymorph
+1 Wipe Away
+1 Willbreaker
+1 Wurm's Tooth
+1 Summoner's Bane
+1 Thought Collapse
+1 Umezawa's Jitte
+1 Wizard's Rockets
+1 Transcendent Message
+1 Thwart
+1 Winter's Rest
+1 Tablet of Epityr
+1 Twitch
 1 Vesuvan Duplimancy
-1 Tumble Magnet
-1 Vodalian Mage
-{'overall': 7.182608695652173, 'cmc': 3.4328358208955225, 'ramp': '9', 'draw': '16', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'MyojinofCrypticDreams.txt'}
+1 Tidewalker
+1 Thran Weaponry
+1 Wedding Invitation
+1 Voltaic Key
+1 Synod Centurion
+1 Undead Alchemist
+1 Tarrian's Soulcleaver
+1 Yarok's Wavecrasher
+1 Vexing Sphinx
+1 Undo
+1 Thing in the Ice // Awoken Horror
+1 Whirler Rogue
+1 Siren Stormtamer
+1 Waterwind Scout
+1 Shrine of Boundless Growth
+1 Tezzeret, Betrayer of Flesh
+1 Time of Ice
+1 Mulldrifter
+1 Sublime Epiphany
+1 Torture Chamber
+1 Workhorse
+1 The Enigma Jewel // Locus of Enlightenment
+{'overall': 5.3624401913875595, 'cmc': 3.265625, 'ramp': 3, 'draw': 15, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'MyojinofCrypticDreams.txt'}

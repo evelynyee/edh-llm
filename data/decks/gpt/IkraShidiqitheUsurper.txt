@@ -61,4 +61,4 @@
 1 Treacherous Link
 1 Timber Wolves
 1 Talons of Wildwood
-{'overall': 6.027981651376147, 'cmc': 3.4603174603174605, 'ramp': '9', 'draw': '10', 'interaction': 14, 'folder': 'gpt', 'commander': 'IkraShidiqitheUsurper.txt'}
+{'overall': 6.027981651376147, 'cmc': 3.4603174603174605, 'ramp': 9, 'draw': 10, 'interaction': 14, 'folder': 'gpt', 'commander': 'IkraShidiqitheUsurper.txt'}

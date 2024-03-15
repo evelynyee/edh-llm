@@ -61,4 +61,4 @@
 1 Valor Singer
 1 Talons of Falkenrath
 1 Lightning Bolt
-{'overall': 4.841176470588235, 'cmc': 2.6984126984126986, 'ramp': '9', 'draw': '6', 'interaction': 7, 'folder': 'gpt', 'commander': 'TuknirDeathlock.txt'}
+{'overall': 4.841176470588235, 'cmc': 2.6984126984126986, 'ramp': 9, 'draw': 6, 'interaction': 7, 'folder': 'gpt', 'commander': 'TuknirDeathlock.txt'}

@@ -62,5 +62,4 @@
 1 Storm Cauldron
 1 Temple Bell
 1 Winged Shepherd
-1 Well of Lost Dreams
-{'overall': 7.763207547169811, 'cmc': 3.2615384615384615, 'ramp': '10', 'draw': '16', 'interaction': 13, 'folder': 'gpt', 'commander': 'DjeruandHazoret.txt'}
+{'overall': 7.515384615384615, 'cmc': 3.25, 'ramp': 10, 'draw': 15, 'interaction': 13, 'folder': 'gpt', 'commander': 'DjeruandHazoret.txt'}

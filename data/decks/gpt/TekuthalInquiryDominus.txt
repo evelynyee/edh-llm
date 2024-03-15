@@ -62,5 +62,4 @@
 1 Trigon of Thought
 1 Tidal Control
 1 Threnody Singer
-1 Tawnos's Coffin
-{'overall': 6.9546511627906975, 'cmc': 3.3076923076923075, 'ramp': '5', 'draw': '18', 'interaction': 12, 'folder': 'gpt', 'commander': 'TekuthalInquiryDominus.txt'}
+{'overall': 6.956635071090047, 'cmc': 3.296875, 'ramp': 5, 'draw': 18, 'interaction': 12, 'folder': 'gpt', 'commander': 'TekuthalInquiryDominus.txt'}

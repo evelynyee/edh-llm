@@ -1,0 +1,65 @@
+1 Lyra Dawnbringer
+1 Sol Ring
+1 Righteous Valkyrie
+1 Swords to Plowshares
+1 Starnheim Aspirant
+1 Sephara, Sky's Blade
+1 Seraph Sanctuary
+1 Valkyrie Harbinger
+1 Angelic Accord
+1 Path to Exile
+1 Archangel of Thune
+1 Giada, Font of Hope
+1 Angel of Vitality
+1 Resplendent Angel
+1 Emeria Shepherd
+1 Bishop of Wings
+1 Herald of War
+1 Avacyn, Angel of Hope
+1 Emeria, the Sky Ruin
+1 The Book of Exalted Deeds
+1 Pearl Medallion
+1 Arcane Signet
+1 Angel of Destiny
+1 Well of Lost Dreams
+1 Angel of Jubilation
+1 Speaker of the Heavens
+1 Bruna, the Fading Light
+1 Baneslayer Angel
+1 Linvala, Keeper of Silence
+1 Herald's Horn
+1 Generous Gift
+1 Path of Ancestry
+1 Smothering Tithe
+1 Myriad Landscape
+1 Archangel of Tithes
+1 Angelic Field Marshal
+1 Sunblast Angel
+1 Youthful Valkyrie
+1 Gisela, the Broken Blade
+1 Austere Command
+1 Nykthos, Shrine to Nyx
+1 Oketra's Monument
+1 Serra the Benevolent
+1 Lightning Greaves
+1 Land Tax
+1 War Room
+1 Serra's Emissary
+1 Angel of Finality
+1 Dawn of Hope
+1 Urza's Incubator
+1 Luminarch Ascension
+1 Angelic Skirmisher
+1 Court of Grace
+1 Mind Stone
+1 Wrath of God
+1 Teferi's Protection
+1 Akroma, Angel of Wrath
+1 Entreat the Angels
+1 Archaeomancer's Map
+1 Akroma's Will
+1 Battle Angels of Tyr
+1 Marble Diamond
+1 Thraben Watcher
+1 Akroma, Vision of Ixidor
+{'overall': 5.8791855203619905, 'cmc': 3.453125, 'ramp': 10, 'draw': 10, 'interaction': 6, 'folder': 'edhrec', 'commander': 'LyraDawnbringer.txt'}

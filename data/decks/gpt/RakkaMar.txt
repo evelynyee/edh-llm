@@ -61,4 +61,4 @@
 1 Trove of Temptation
 1 Thran Power Suit
 1 Talruum Champion
-{'overall': 3.5605095541401273, 'cmc': 3.5681818181818183, 'ramp': '7', 'draw': '2', 'interaction': 15, 'folder': 'gpt', 'commander': 'RakkaMar.txt'}
+{'overall': 3.5605095541401273, 'cmc': 3.5681818181818183, 'ramp': 7, 'draw': 2, 'interaction': 15, 'folder': 'gpt', 'commander': 'RakkaMar.txt'}

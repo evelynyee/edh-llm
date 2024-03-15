@@ -1,69 +1,65 @@
 1 Hansk, Slayer Zealot
-1 Yotia Declares War
-1 Zuran Orb
-1 War Elemental
-1 Weaver of Lightning
-1 Tiger-Tribe Hunter
-1 The Underworld Cookbook
-1 Zariel, Archduke of Avernus
-1 Wild Growth
-1 Sunder Shaman
-1 Tyrant's Familiar
-1 Visions of Phyrexia
-1 Venerable Kumo
-1 Underworld Fires
-1 Vorinclex // The Grand Evolution
-1 Valakut Exploration
-1 Yamabushi's Flame
+1 Worldspine Wurm
+1 The Rack
+1 Turntimber Sower
 1 Warbeast of Gorgoroth
-1 Tyranid Invasion
-1 Varis, Silverymoon Ranger
-1 Wheel of Torture
-1 Throne of the God-Pharaoh
-1 Voice of Many
-1 Trip Wire
-1 Vial of Dragonfire
-1 Tempt with Vengeance
+1 The Sea Devils
+1 Viridian Revel
+1 War Elemental
+1 Stormbreath Dragon
+1 Triumph of Ferocity
+1 Titan of Industry
+1 Stangg, Echo Warrior
+1 Wildwood Patrol
+1 Wolfkin Outcast // Wedding Crasher
 1 Urabrask // The Great Work
-1 Volatile Fault
-1 Vigor
-1 Yavimaya Sapherd
-1 Tooth and Claw
-1 Vivien's Jaguar
-1 The Akroan War
-1 Tectonic Giant
-1 Thundering Sparkmage
-1 Wanderlust
-1 Weary Prisoner // Wrathful Jailbreaker
-1 The Foretold Soldier
-1 Weirding Wood
-1 War's Toll
-1 Umbilicus
-1 Titania's Command
-1 You've Been Caught Stealing
-1 Tower of Murmurs
-1 Voldaren Ambusher
-1 Tower of Calamities
-1 Vulshok Replica
-1 Sprouting Phytohydra
-1 Unnatural Moonrise
-1 Volatile Rig
+1 Voracious Dragon
+1 Vrondiss, Rage of Ancients
+1 Zendikar Resurgent
+1 Tervigon
+1 Yuan Shao's Infantry
+1 Staff of Nin
+1 Tangled Skyline
 1 Telim'Tor's Darts
-1 Voldaren Thrillseeker
-1 The Binding of the Titans
+1 Waiting in the Weeds
+1 Umbilicus
+1 Voyager Staff
+1 Survey the Wreckage
+1 Trading Post
+1 Verix Bladewing
+1 Wolverine Riders
+1 Wren's Run Vanquisher
+1 Wilson, Refined Grizzly
+1 Xenagos, God of Revels
+1 Woodland Guidance
+1 Swarming Goblins
+1 Workshop Assistant
+1 Viashino Pyromancer
+1 You Find a Cursed Idol
+1 Turret Ogre
+1 Teachings of the Kirin // Kirin-Touched Orochi
+1 Mana Vault
+1 Winds of Change
 1 Unexpected Windfall
-1 Wand of Denial
-1 Zenith Chronicler
-1 Warmonger
-1 Village Messenger // Moonrise Intruder
-1 Welcome to . . . // Jurassic Park
-1 Vampires' Vengeance
-1 Swarming of Moria
-1 Straw Golem
-1 Urza's Rage
-1 Ugin's Nexus
-1 Wrathful Raptors
-1 Thorn Lieutenant
-1 Vexing Devil
-1 Tibalt, the Fiend-Blooded
-{'overall': 8.323853211009174, 'cmc': 3.2058823529411766, 'ramp': '12', 'draw': '14', 'interaction': 24, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}
+1 Toil to Renown
+1 Thunderhawk Gunship
+1 Xorn
+1 Winter Sky
+1 Unnatural Moonrise
+1 Vivien, Arkbow Ranger
+1 Trail of Crumbs
+1 Wolf of Devil's Breach
+1 Well of Life
+1 Swashbuckler Extraordinaire
+1 Wing Storm
+1 War Barge
+1 Titania, Protector of Argoth
+1 Wrack with Madness
+1 Sparkcaster
+1 Spider Food
+1 Wort, the Raidmother
+1 Wirefly Hive
+1 Unlicensed Hearse
+1 Whetwheel
+1 Vile Redeemer
+{'overall': 6.93781512605042, 'cmc': 3.71875, 'ramp': 6, 'draw': 17, 'interaction': 13, 'folder': 'manual_rand', 'commander': 'HanskSlayerZealot.txt'}

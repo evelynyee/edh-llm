@@ -1,69 +1,65 @@
 1 Dragonlord Ojutai
-1 Twinning Glass
-1 Subterranean Schooner
-1 The Everflowing Well // The Myriad Pools
-1 Yavimaya, Cradle of Growth
-1 Vizier of the Anointed
-1 Totally Lost
-1 Thada Adel, Acquisitor
-1 Tower of Murmurs
-1 Wharf Infiltrator
-1 Tidings
-1 Tocasia's Dig Site
-1 Think Tank
-1 Ugin's Mastery
-1 Take Inventory
-1 Unlucky Drop
-1 Teferi's Puzzle Box
-1 Volrath's Shapeshifter
-1 Weathered Wayfarer
-1 Stroke of Genius
-1 Watchful Automaton
-1 Vision Charm
-1 Worthy Cause
-1 Trove Warden
-1 Triton Cavalry
-1 Thought Lash
-1 Veiled Crocodile
-1 Trial of a Time Lord
-1 Treasure Chest
-1 Wall of Lost Thoughts
-1 Venser, Shaper Savant
-1 Wand of Ith
-1 _____ Bird Gets the Worm
-1 Windrider Patrol
-1 Thalia's Lancers
-1 Mind Stone
-1 _____ _____ _____ Trespasser
-1 Wandering Archaic // Explore the Vastlands
-1 Veil of Secrecy
-1 Visions of Beyond
-1 Timesifter
-1 Temporary Truce
-1 Titan of Littjara
-1 Tithe
-1 Thought Dissector
 1 Void Squall
-1 Words of Worship
-1 Trusty Retriever
-1 Thraben Heretic
-1 Warrant // Warden
-1 Twinblade Geist // Twinblade Invocation
-1 Walk the Aeons
-1 Vanishment
-1 Treasure Hunt
-1 Wizard Mentor
-1 Tidal Terror
-1 Wanderer's Strike
-1 Will of the All-Hunter
-1 Witness of the Ages
-1 Wistful Thinking
-1 Tolarian Contempt
-1 Subtlety
-1 Time Reversal
-1 Watchers of the Dead
-1 Stand Firm
-1 The Caves of Androzani
+1 Ulamog's Despoiler
+1 Wizards of Thay
 1 Transmute Artifact
-1 Unsummon
-{'overall': 9.741304347826087, 'cmc': 3.3823529411764706, 'ramp': '9', 'draw': '27', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}
+1 Zellix, Sanity Flayer
+1 The Antiquities War
+1 Wheel and Deal
+1 Teferi, Who Slows the Sunset
+1 Visions of Beyond
+1 Waterspout Weavers
+1 Austere Command
+1 Wretched Throng
+1 Tymora's Invoker
+1 Withering Gaze
+1 Wave Goodbye
+1 Weaver of Lies
+1 Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger
+1 Mana Vault
+1 Timin, Youthful Geist
+1 Venser's Journal
+1 Tithe
+1 Thran Temporal Gateway
+1 Tidal Courier
+1 Tragic Arrogance
+1 Weathered Wayfarer
+1 Wharf Infiltrator
+1 Wormfang Behemoth
+1 Swindler's Scheme
+1 Wizard's Rockets
+1 Urza's Tome
+1 Sword of the Animist
+1 Wash Away
+1 Thieves' Fortune
+1 Weapon Rack
+1 Winter Eladrin
+1 Volunteer Reserves
+1 The Deck of Many Things
+1 Trustworthy Scout
+1 Traumatize
+1 Thassa's Oracle
+1 Whir of Invention
+1 Wakening Sun's Avatar
+1 Unbounded Potential
+1 Stymied Hopes
+1 Witches' Eye
+1 Twice Upon a Time // Unlikely Meeting
+1 Weathered Runestone
+1 Wanderguard Sentry
+1 Yarok's Wavecrasher
+1 Zealots en-Dal
+1 Worry Beads
+1 Vega, the Watcher
+1 Warrant // Warden
+1 Thassa's Bounty
+1 Time Warp
+1 Synchronized Eviction
+1 Totem-Guide Hartebeest
+1 Supreme Will
+1 The Temporal Anchor
+1 Tunnel Vision
+1 Warden of the Inner Sky
+1 Union of the Third Path
+1 Witness the Future
+{'overall': 8.331120331950208, 'cmc': 3.765625, 'ramp': 6, 'draw': 24, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'DragonlordOjutai.txt'}

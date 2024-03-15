@@ -1,69 +1,65 @@
 1 Sliver Legion
-1 Word of Binding
-1 Urborg Scavengers
-1 Thundermaw Hellkite
-1 Triumph of Gerrard
-1 Wildwood Tracker
-1 Wojek Siren
-1 Wei Strike Force
-1 Yukora, the Prisoner
-1 War Screecher
-1 You Come to the Gnoll Camp
-1 Wickerbough Elder
-1 Ulvenwald Bear
-1 Vampirism
-1 Wind Sail
-1 Yotia Declares War
-1 Whisper of the Dross
-1 Veteran Armorsmith
-1 Viridian Betrayers
-1 Wizened Cenn
-1 Westvale Abbey // Ormendahl, Profane Prince
-1 Vigilant Baloth
-1 Warlord's Fury
-1 Wurmskin Forger
-1 Warbeast of Gorgoroth
-1 Zealot's Conviction
-1 Trusted Forcemage
-1 War Mammoth
-1 Zealot il-Vec
-1 Waveskimmer Aven
-1 Viridian Lorebearers
-1 Unctus's Retrofitter
-1 Virtuous Charge
-1 Yeva's Forcemage
-1 Waterkin Shaman
-1 Widespread Brutality
-1 Toxic Scorpion
-1 Vitalizing Wind
-1 Wingmantle Chaplain
-1 Xenograft
-1 _____ _____ _____ Trespasser
-1 Weight of Conscience
-1 Wei Ambush Force
-1 Vito's Inquisitor
-1 Wilt-Leaf Cavaliers
-1 Swords to Plowshares
-1 Wave-Wing Elemental
-1 Vraska, Scheming Gorgon
-1 Zygon Infiltrator
-1 Wild Elephant
-1 Thundermare
-1 Vitalize
-1 Tuya Bearclaw
-1 Zealous Conscripts
-1 Vitality Hunter
-1 Valor
-1 Wingrattle Scarecrow
-1 Vampire Socialite
-1 Zur, Eternal Schemer
-1 Wintermoor Commander
-1 Xenagos, God of Revels
-1 Zephyr Sprite
-1 Vulshok Heartstoker
-1 Vastwood Hydra
-1 Vastwood Fortification // Vastwood Thicket
-1 Wee Champion
+1 Tower Defense
+1 Voidwing Hybrid
+1 Wings of the Guard
+1 Lightning Bolt
+1 Trollbred Guardian
+1 Wight of Precinct Six
+1 Warrior's Stand
+1 Zegana, Utopian Speaker
 1 White Sun's Twilight
-1 Tromp the Domains
-{'overall': 2.194549763033175, 'cmc': 3.1029411764705883, 'ramp': '1', 'draw': '4', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}
+1 Warden of the Beyond
+1 Winged Sliver
+1 Animate Dead
+1 Venerated Teacher
+1 Voice of the Woods
+1 Vigean Hydropon
+1 Tuinvale Guide
+1 Voldaren Duelist
+1 Unforgiving One
+1 Voracious Vampire
+1 Watchwing Scarecrow
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Tree Monkey
+1 Virtue of Loyalty // Ardenvale Fealty
+1 War Dance
+1 True Conviction
+1 Vodalian War Machine
+1 Zhalfirin Commander
+1 Whelming Wave
+1 Wind Spirit
+1 Zuberi, Golden Feather
+1 Vastwood Fortification // Vastwood Thicket
+1 Wingspan Mentor
+1 Voracious Hatchling
+1 Vaporkin
+1 Woeleecher
+1 Mind Stone
+1 Thundermaw Hellkite
+1 Wu Scout
+1 Tuya Bearclaw
+1 Zhalfirin Lancer
+1 Woodland Champion
+1 Xenagos, God of Revels
+1 Wingshield Agent
+1 Virtue of Loyalty // Ardenvale Fealty
+1 Young Wolf
+1 Welcome to . . . // Jurassic Park
+1 Wirewood Pride
+1 You're Ambushed on the Road
+1 Wild Beastmaster
+1 Widespread Brutality
+1 Westvale Abbey // Ormendahl, Profane Prince
+1 You Cannot Pass!
+1 Wojek Bodyguard
+1 Zealous Conscripts
+1 Wonder
+1 Tide Drifter
+1 Xenograft
+1 Town Gossipmonger // Incited Rabble
+1 Urza's Avenger
+1 Viashino Bey
+1 Tolsimir Wolfblood
+1 Wu Admiral
+1 Towashi Songshaper
+{'overall': 2.426865671641791, 'cmc': 3.1904761904761907, 'ramp': 3, 'draw': 3, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'SliverLegion.txt'}

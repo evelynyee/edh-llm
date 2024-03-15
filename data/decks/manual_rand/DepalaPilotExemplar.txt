@@ -1,69 +1,65 @@
 1 Depala, Pilot Exemplar
-1 Thran Foundry
-1 Winds of Abandon
-1 Smuggler's Buggy
-1 Thrilling Discovery
-1 Ugin, the Spirit Dragon
-1 Wild Swing
-1 _____ Balls of Fire
-1 Yasmin Khan
-1 Sparring Regimen
-1 The Biblioplex
-1 Wheel of Fortune
-1 Stoneforge Mystic
-1 Wild Evocation
-1 Welcoming Vampire
-1 Tomakul Scrapsmith
-1 Universal Automaton
-1 Totem-Guide Hartebeest
-1 Tibalt, the Fiend-Blooded
-1 Trove Warden
-1 Trial of a Time Lord
-1 Steelshaper's Gift
-1 Sudden Impact
-1 Xenk, Paladin Unbroken
-1 Tower of Fortunes
-1 Yavimaya Steelcrusher
-1 Worldfire
-1 Workshop Assistant
-1 Volt Charge
-1 Surge to Victory
-1 Zenith Chronicler
-1 Thaumatic Compass // Spires of Orazca
-1 _____ Bird Gets the Worm
-1 Wand of Vertebrae
-1 Smothering Tithe
-1 Timecrafting
-1 Thresher Lizard
-1 Yuki-Onna
-1 Untethered Express
-1 Urabrask // The Great Work
-1 Unconventional Tactics
-1 Vaultbreaker
-1 Voldaren Thrillseeker
-1 Union of the Third Path
-1 Traveler's Amulet
-1 Violent Eruption
-1 Voracious Dragon
-1 Treasonous Ogre
-1 Widespread Panic
-1 Underdark Rift
-1 The Stone Brain
-1 Will of the All-Hunter
-1 Visions
+1 Stand Firm
+1 Steelshaper Apprentice
 1 Veteran of the Depths
-1 Winota, Joiner of Forces
-1 Wayfaring Giant
-1 Terminal Moraine
-1 Urza Assembles the Titans
-1 Red Elemental Blast
+1 Wolf of Devil's Breach
+1 _____ Bird Gets the Worm
+1 Voracious Dragon
+1 Tormenting Voice
+1 The Deck of Many Things
+1 Starfield of Nyx
+1 Thunder-Thrash Elder
+1 Wrenn's Resolve
+1 Temporary Truce
+1 War Behemoth
+1 Verge Rangers
+1 Tibalt's Trickery
+1 Sunscour
+1 Wingsteed Rider
+1 Wingrattle Scarecrow
+1 Whipcorder
+1 Wispmare
+1 Thought-Knot Seer
+1 Trynn, Champion of Freedom
+1 Vanquisher's Banner
 1 Wildfire Devils
-1 Zealots en-Dal
-1 Two-Handed Axe // Sweeping Cleave
-1 Temporary Lockdown
-1 Vulpikeet
-1 Zabaz, the Glimmerwasp
-1 Stratadon
+1 Whetwheel
+1 Wheel of Torture
+1 Volcanic Vision
+1 Turf Wound
+1 Volley Veteran
+1 Watcher of the Roost
+1 Temple of the Dragon Queen
+1 Sunblade Samurai
+1 Timesifter
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Tectonic Giant
+1 Thran Temporal Gateway
+1 Wild Wurm
+1 Warden of the Inner Sky
+1 Ugin, the Ineffable
+1 Summoner's Egg
+1 Sword of Forge and Frontier
+1 Zhalfirin Void
+1 Sunbird Standard // Sunbird Effigy
+1 Ugin's Mastery
 1 Vindictive Flamestoker
-1 Virtue of Courage // Embereth Blaze
-{'overall': 8.849118942731277, 'cmc': 3.338235294117647, 'ramp': '8', 'draw': '23', 'interaction': 10, 'folder': 'manual_rand', 'commander': 'DepalaPilotExemplar.txt'}
+1 Two-Handed Axe // Sweeping Cleave
+1 Treasure Keeper
+1 The Day of the Doctor
+1 Unbounded Potential
+1 Warren Instigator
+1 Mana Vault
+1 Verdant Catacombs
+1 Together Forever
+1 Timely Hordemate
+1 Vesperlark
+1 Wandering Champion
+1 Study Break
+1 Torch Song
+1 Zirda, the Dawnwaker
+1 Storybook Ride
+1 Volt Charge
+1 Walking Ballista
+1 Wake the Past
+{'overall': 5.95093896713615, 'cmc': 3.328125, 'ramp': 4, 'draw': 15, 'interaction': 12, 'folder': 'manual_rand', 'commander': 'DepalaPilotExemplar.txt'}

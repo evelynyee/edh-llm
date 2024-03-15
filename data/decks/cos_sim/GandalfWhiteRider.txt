@@ -1,0 +1,101 @@
+1 Gandalf, White Rider
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Plains
+1 Norika Yamazaki, the Poet
+1 Raiders' Karve
+1 Noble Banneret
+1 Paliano Vanguard
+1 Ugin's Mastery
+1 Seasoned Dungeoneer
+1 Kithkin Zephyrnaut
+1 Plow Through Reito
+1 Hundred-Talon Strike
+1 Redemptor Dreadnought
+1 Sanwell, Avenger Ace
+1 Elspeth, Undaunted Hero
+1 Cosmic Intervention
+1 Homestead Courage
+1 Charge Across the Araba
+1 Force of Virtue
+1 Deceiver of Form
+1 Silverflame Squire // On Alert
+1 Elspeth Resplendent
+1 Lotus-Eye Mystics
+1 Steeling Stance
+1 Warhorn Blast
+1 A Good Day to Pie
+1 Explorer's Scope
+1 Huntmaster Liger
+1 Battlewise Valor
+1 Elspeth, Sun's Nemesis
+1 Bruna, the Fading Light // Brisela, Voice of Nightmares
+1 The Wandering Emperor
+1 Jabari's Influence
+1 Reaper of Flight Moonsilver
+1 Oust
+1 Oracle's Vault
+1 Paleontologist's Pick-Axe // Dinosaur Headdress
+1 Ramosian Rally
+1 Harsh Deceiver
+1 Mastery of the Unseen
+1 Kaya's Onslaught
+1 Wall of Mourning
+1 Leonin Battlemage
+1 Ardenvale Tactician // Dizzying Swoop
+1 Slab Hammer
+1 Pulmonic Sliver
+1 Custodi Soulcaller
+1 Excommunicate
+1 Gate Colossus
+1 Sword of Forge and Frontier
+1 Blessed Hippogriff // Tyr's Blessing
+1 Ondu Rising
+1 Unconventional Tactics
+1 God-Eternal Oketra
+1 Bösium Strip
+1 Rabble Rousing
+1 Colfenor's Urn
+1 Surprise Deployment
+1 Storybook Ride
+1 Mavinda, Students' Advocate
+1 Gerrard's Hourglass Pendant
+1 Heroes' Podium
+1 Confession Dial
+1 Hixus, Prison Warden
+1 Lens of Clarity
+1 Kayla's Command
+{'overall': 2.2277777777777774, 'cmc': 3.4615384615384617, 'ramp': '2', 'draw': '4', 'interaction': 3, 'folder': 'cos_sim', 'commander': 'GandalfWhiteRider.txt'}}

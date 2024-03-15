@@ -1,69 +1,65 @@
 1 Ikra Shidiqi, the Usurper
-1 Windstorm
-1 Undercity Plague
-1 Trip Wire
-1 Dark Ritual
-1 Tyrranax Rex
-1 The Mycotyrant
-1 The Toymaker's Trap
-1 Sword of Truth and Justice
-1 Vraska's Conquistador
-1 The Rack
-1 You Look Upon the Tarrasque
-1 Warden of the Woods
-1 Wreath of Geists
-1 Sword of Hours
-1 Witchstalker
-1 Xantid Swarm
-1 Viridian Lorebearers
-1 Undercity Troll
-1 Umbral Juke
-1 Vilis, Broker of Blood
-1 Tomakul Honor Guard
-1 Taste of Blood
-1 Vine Dryad
-1 Blood Artist
+1 Toxin Sliver
+1 Vault Skirge
+1 Sol Ring
+1 Terra Stomper
 1 Starscream, Power Hungry // Starscream, Seeker Leader
-1 Wicker Warcrawler
-1 Ultimate Price
-1 Writ of Return
-1 Yahenni, Undying Partisan
-1 Vigorspore Wurm
-1 Volrath's Dungeon
-1 Zof Consumption // Zof Bloodbog
-1 Vampire Neonate
-1 Warriors' Lesson
-1 Talons of Wildwood
-1 Virulent Sliver
-1 Wire Surgeons
-1 Sword of Light and Shadow
-1 Torgaar, Famine Incarnate
-1 Wheel of Torture
-1 Well of Lost Dreams
-1 Willowdusk, Essence Seer
-1 Venerable Kumo
-1 Woodlurker Mimic
-1 Wicked Pact
-1 Vraska, Scheming Gorgon
-1 Urza's Armor
-1 Wildwood Patrol
-1 Weed Strangle
-1 Vial of Dragonfire
-1 Wit's End
-1 Xathrid Demon
-1 Uchuulon
-1 Tracker
-1 Wall of Forgotten Pharaohs
-1 Whisper of the Dross
-1 Unnatural Hunger
+1 Tyvar the Bellicose
+1 Time Reaper
+1 Zodiac Rat
+1 Wasp of the Bitter End
+1 Voice of Many
+1 Touch of Death
+1 Zodiac Tiger
+1 Wolfkin Outcast // Wedding Crasher
+1 Thoughtseize
+1 Tornado Elemental
+1 Torment of Venom
+1 Volatile Rig
+1 Zuran Orb
+1 Virtus the Veiled
+1 Vial of Poison
+1 Word of Command
+1 Venomous Brutalizer
 1 Worldslayer
-1 Vicious Conquistador
-1 Wolf's Quarry
+1 Sword of War and Peace
+1 Undead Augur
+1 Bloom Tender
+1 Yahenni, Undying Partisan
+1 Wrench Mind
+1 Woodborn Behemoth
+1 Venomous Fangs
+1 Thornbite Staff
+1 Subdue
+1 Tivash, Gloom Summoner
+1 Zopandrel, Hunger Dominus
+1 Wire Surgeons
+1 Valentin, Dean of the Vein // Lisette, Dean of the Root
+1 Visions of Brutality
+1 Tempered Sliver
+1 Vengeant Vampire
+1 Whispersteel Dagger
+1 Witherbloom Command
+1 Woebearer
+1 Vivien's Invocation
+1 Wretched Confluence
+1 Vengeful Dead
+1 Untethered Express
+1 Uchuulon
+1 Vraska, Relic Seeker
+1 Thunderstaff
+1 Urborg Syphon-Mage
+1 Wooden Sphere
+1 Wild Dogs
+1 Xathrid Gorgon
+1 Vraska's Finisher
+1 Voracious Fell Beast
+1 Zombie Master // Zombie Master
+1 Volrath's Gardens
+1 Wine of Blood and Iron
+1 Werewolf Pack Leader
 1 Traproot Kami
-1 Ugin's Conjurant
-1 Vivien, Arkbow Ranger
-1 Tervigon
-1 Rampant Growth
-1 Sword of Hearth and Home
-1 Voldaren Pariah // Abolisher of Bloodlines
-{'overall': 3.728723404255319, 'cmc': 3.4558823529411766, 'ramp': '3', 'draw': '8', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'IkraShidiqitheUsurper.txt'}
+1 Wreck Hunter
+1 Wicked Guardian
+1 Unhinge
+{'overall': 5.126576576576577, 'cmc': 3.46875, 'ramp': 6, 'draw': 10, 'interaction': 11, 'folder': 'manual_rand', 'commander': 'IkraShidiqitheUsurper.txt'}

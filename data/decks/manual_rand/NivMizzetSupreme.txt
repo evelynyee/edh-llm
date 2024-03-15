@@ -1,69 +1,65 @@
 1 Niv-Mizzet, Supreme
-1 Xanathar, Guild Kingpin
-1 Vizier of the Menagerie
-1 Vadrok, Apex of Thunder
-1 Wake to Slaughter
-1 Viridian Revel
-1 Wail of the Forgotten
-1 Vraska's Stoneglare
-1 Woodland Sleuth
-1 Wall of Runes
-1 Walk the Aeons
-1 Wolf-Skull Shaman
-1 Urborg Uprising
-1 Voidmage Apprentice
-1 Wormfang Behemoth
-1 Withering Gaze
-1 Void Squall
-1 Volatile Chimera
-1 Witness of the Ages
-1 Uurg, Spawn of Turg
-1 Ulamog's Nullifier
-1 Whetwheel
-1 Valakut Exploration
-1 Virtue of Strength // Garenbrig Growth
-1 Wolfkin Outcast // Wedding Crasher
-1 Visions of Glory
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Thrumming Stone
-1 Vedalken Aethermage
-1 Vine Gecko
-1 Wizened Snitches
-1 Will, Scion of Peace
-1 Urza, Lord High Artificer
-1 Zephyrim
-1 Threadbind Clique // Rip the Seams
-1 Wargate
-1 Welkin Hawk
-1 Urza's Tome
-1 Wipe Clean
-1 Velomachus Lorehold
-1 Worthy Cause
-1 Tlincalli Hunter // Retrieve Prey
-1 Walking Atlas
-1 Vesperlark
-1 Urza's Incubator
+1 Weird Harvest
+1 Zurgo Bellstriker
+1 Wizards of Thay
+1 Vanquish the Foul
+1 Tizerus Charger
+1 Urban Evolution
+1 Verdant Touch
+1 Unexplained Disappearance
+1 Voidwalk
+1 Wrench Mind
+1 Volcanic Spite
+1 Urza, Planeswalker
+1 Veil of Secrecy
+1 Wild Evocation
+1 Young Red Dragon // Bathe in Gold
+1 Yahenni's Expertise
+1 Whirlwind of Thought
+1 Visage of Dread // Dread Osseosaur
+1 Waves of Aggression
+1 Zoyowa's Justice
+1 Witch's Cottage
+1 Urza, Lord Protector // Urza, Planeswalker
+1 Whip-Spine Drake
+1 Vega, the Watcher
+1 Watchful Automaton
+1 Umori, the Collector
+1 Yuki-Onna
+1 Throes of Chaos
+1 Mind Stone
+1 Yomiji, Who Bars the Way
+1 Write into Being
+1 Thrill of the Hunt
+1 Yisan, the Wanderer Bard
+1 Zirilan of the Claw
+1 Treasure Cruise
+1 Counterspell
+1 Venerable Kumo
+1 Wasteful Harvest
+1 Unblinking Bleb
+1 Vampire Charmseeker
+1 Wrath of God
+1 Urborg Lhurgoyf
 1 Witness the Future
-1 Vivien's Arkbow
-1 Xander's Pact
-1 Virtue of Strength // Garenbrig Growth
-1 Venarian Glimmer
-1 Wild Hunger
-1 Whispers of the Muse
-1 Waterlogged Hulk // Watertight Gondola
-1 Tocasia, Dig Site Mentor
-1 Wurmquake
-1 Wavebreak Hippocamp
-1 Valki, God of Lies // Tibalt, Cosmic Impostor
-1 Workshop Assistant
-1 Turbulent Dreams
-1 Vesuvan Drifter
-1 Viconia, Drow Apostate
-1 Wear // Tear
-1 Volcanic Vision
-1 Waterfront Bouncer
-1 Visage of Bolas
-1 Unbound Flourishing
-1 Trumpeting Herd
-1 Lightning Bolt
-{'overall': 6.079644268774703, 'cmc': 3.7761194029850746, 'ramp': '4', 'draw': '17', 'interaction': 6, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}
+1 Volatile Wanderglyph
+1 Wandering Mind
+1 Wandering Archaic // Explore the Vastlands
+1 Thrill of Possibility
+1 Yawgmoth's Vile Offering
+1 Wild Guess
+1 Uba Mask
+1 Wretched Throng
+1 Wildfire Devils
+1 Winterthorn Blessing
+1 Warm Welcome
+1 Varragoth, Bloodsky Sire
+1 Winged Coatl
+1 Woodland Acolyte // Mend the Wilds
+1 Threadbind Clique // Rip the Seams
+1 Young Red Dragon // Bathe in Gold
+1 Unwavering Initiate
+1 Vivien, Nature's Avenger
+1 Vengeful Dreams
+1 Walk with the Ancestors
+{'overall': 7.659999999999999, 'cmc': 3.5714285714285716, 'ramp': 6, 'draw': 21, 'interaction': 7, 'folder': 'manual_rand', 'commander': 'NivMizzetSupreme.txt'}

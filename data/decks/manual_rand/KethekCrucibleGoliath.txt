@@ -1,69 +1,65 @@
 1 Kethek, Crucible Goliath
-1 Thrumming Stone
+1 Tooth Collector
+1 Wild Swing
+1 Veinfire Borderpost
 1 Writhing Necromass
-1 Whip of Erebos
-1 Vat of Rebirth
-1 Three Tragedies
-1 Spite of Mogis
-1 Treasure Chest
-1 Smuggler Captain
-1 Warped Landscape
-1 Whetwheel
-1 Tuktuk Scrapper
-1 Wretched Camel
-1 Summoner's Egg
-1 Young Red Dragon // Bathe in Gold
-1 Virtue of Courage // Embereth Blaze
-1 Wayward Guide-Beast
-1 Yawgmoth's Will
-1 Universal Automaton
-1 Tamiyo's Journal
-1 Urza's Miter
-1 Xantcha, Sleeper Agent
-1 Sword of Hearth and Home
-1 Unmask
-1 Viashino Sandsprinter
-1 War Room
-1 Wasp of the Bitter End
-1 Viscera Dragger
-1 Withering Hex
-1 Underworld Breach
-1 Wailing Ghoul
-1 Tower of Fortunes
-1 Summon Undead
-1 Widespread Panic
-1 Weatherlight Compleated
-1 Unholy Hunger
-1 Temporal Aperture
-1 Tainted Specter
+1 The Stone Brain
+1 Well of Lost Dreams
+1 Sol Ring
+1 Wire Surgeons
+1 Urza's Tome
+1 Titan's Strength
+1 Sunbird's Invocation
+1 Zhulodok, Void Gorger
+1 Spellbook
 1 Unnerve
-1 Wild Wurm
-1 Unholy Grotto
-1 Trial of Ambition
-1 Strongarm Thug
-1 Whims of the Fates
-1 Wild-Magic Sorcerer
-1 Yahenni's Expertise
-1 Wasteland Scorpion
-1 Through the Breach
-1 Surveyor's Scope
-1 Treasure Keeper
+1 Urborg Mindsucker
+1 Volatile Chimera
+1 Wish
+1 Sword of Hearth and Home
+1 Taurean Mauler
+1 Wave of Terror
+1 Underworld Sentinel
+1 Undercity Scavenger
+1 Tourach's Canticle
+1 Struggle for Sanity
+1 Vile Aggregate
+1 Szarekh, the Silent King
+1 Warbringer
+1 Zombie Scavengers
+1 Thrilling Encore
+1 World-Weary
+1 Yasmin Khan
+1 Windgrace Acolyte
+1 Thran Spider
+1 Terrus Wurm
+1 Urza's Miter
+1 Undercity Plague
+1 Wall of Forgotten Pharaohs
+1 Tainted Specter
+1 Whisper, Blood Liturgist
+1 Worst Fears
+1 Swift Warkite
+1 Ugin's Mastery
+1 Spark Jolt
+1 Westgate Regent
+1 The Flux
 1 Synod Sanctum
-1 Ugin, the Spirit Dragon
-1 Wand of Denial
-1 Thieving Sprite
+1 Void Maw
+1 Witch of the Moors
+1 Vessel of Endless Rest
+1 Violent Eruption
+1 Valki, God of Lies // Tibalt, Cosmic Impostor
+1 Wooded Foothills
+1 Wild Wurm
+1 Thieves' Auction
+1 Witches' Eye
+1 Treasure Keeper
+1 Twins of Maurer Estate
+1 Urabrask // The Great Work
+1 Unburden
+1 Tomb Robber
+1 Wort, Boggart Auntie
+1 Yawgmoth's Agenda
 1 Vial Smasher the Fierce
-1 Tergrid, God of Fright // Tergrid's Lantern
-1 Vexing Puzzlebox
-1 Wake to Slaughter
-1 Village Rites
-1 Terror of Towashi
-1 Twilight's Call
-1 Sojourner's Companion
-1 Uba Mask
-1 Throat Slitter
-1 Undying Flames
-1 _____ Balls of Fire
-1 Stolen Strategy
-1 Thresher Lizard
-{'overall': 5.959670781893005, 'cmc': 3.573529411764706, 'ramp': '5', 'draw': '15', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}
+{'overall': 5.564056224899598, 'cmc': 3.890625, 'ramp': 7, 'draw': 12, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'KethekCrucibleGoliath.txt'}

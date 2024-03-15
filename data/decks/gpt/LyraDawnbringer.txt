@@ -62,6 +62,4 @@
 1 Spontaneous Flight
 1 Zelyon Sword
 1 Strongarm Monk
-1 Will of the All-Hunter
-1 Testament of Faith
-{'overall': 2.6633165829145726, 'cmc': 3.015151515151515, 'ramp': '4', 'draw': '3', 'interaction': 5, 'folder': 'gpt', 'commander': 'LyraDawnbringer.txt'}
+{'overall': 2.4030612244897958, 'cmc': 3.0625, 'ramp': 4, 'draw': 2, 'interaction': 5, 'folder': 'gpt', 'commander': 'LyraDawnbringer.txt'}

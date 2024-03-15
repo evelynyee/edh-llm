@@ -1,69 +1,65 @@
 1 Laelia, the Blade Reforged
-1 Void Mirror
-1 Zuran Orb
-1 Wheel of Torture
-1 Zap
-1 Search for Survivors
-1 Workshop Assistant
-1 Wild Swing
-1 Volcanic Vision
-1 Vulshok Factory
+1 Sarkhan's Dragonfire
+1 Will-Forged Golem
+1 Tormod's Crypt
 1 Sojourner's Companion
-1 Vance's Blasting Cannons // Spitfire Bastion
-1 Tormenting Voice
-1 Warfire Javelineer
-1 The Golden Throne
-1 Spellbook
-1 Vicious Shadows
-1 Uncontrollable Anger
-1 Terrain Generator
-1 Tibalt, the Fiend-Blooded
-1 Mind Stone
-1 Tarrian's Soulcleaver
-1 Skyship Weatherlight
-1 Urza's Filter
-1 Tapestry of the Ages
-1 Zoyowa's Justice
-1 Seismic Monstrosaur
-1 Wizard's Lightning
-1 Wee Champion
-1 Symmetry Matrix
-1 Thunderclap
-1 Unlicensed Hearse
-1 Wyll, Blade of Frontiers
-1 Whetstone
-1 The Flux
-1 Tome of Legends
-1 Walker of the Wastes
-1 Soul Foundry
-1 Turf War
-1 Worldfire
-1 Urza's Miter
-1 Wild-Magic Sorcerer
-1 Viashino Bladescout
-1 The Mana Rig
-1 Viashino Sandsprinter
-1 Scouring Sands
-1 Vestige of Emrakul
-1 Witches' Eye
-1 Wayfarer's Bauble
-1 Surge to Victory
-1 Wild-Field Scarecrow
-1 Timecrafting
-1 Tablet of the Guilds
-1 Spite of Mogis
-1 Words of War
-1 Weapon Rack
-1 Tuktuk Grunts
-1 Spelleater Wolverine
+1 Sword of Hearth and Home
+1 Wandering Archaic // Explore the Vastlands
 1 Voltaic Visionary // Volt-Charged Berserker
-1 Serum Powder
-1 Winding Canyons
-1 Walking Skyscraper
-1 Storm Cauldron
-1 Tavern Brawler
-1 Smuggler's Buggy
-1 Spellgorger Barbarian
-1 Weary Prisoner // Wrathful Jailbreaker
-1 The Prismatic Piper
-{'overall': 7.904444444444445, 'cmc': 3.3088235294117645, 'ramp': '12', 'draw': '15', 'interaction': 11, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}
+1 Steamclaw
+1 Volcanic Awakening
+1 Underworld Breach
+1 Village Messenger // Moonrise Intruder
+1 Twinflame
+1 Village Messenger // Moonrise Intruder
+1 Watchers of the Dead
+1 Chromatic Lantern
+1 Voltaic Visionary // Volt-Charged Berserker
+1 Vexing Arcanix
+1 Warbringer
+1 Warmonger
+1 Vampires' Vengeance
+1 Wee Champion
+1 Tremble
+1 Through the Breach
+1 Spellweaver Helix
+1 Winds of Change
+1 Mana Crypt
+1 Zirilan of the Claw
+1 Tormod's Cryptkeeper
+1 Turf Wound
+1 Vexing Puzzlebox
+1 Tel-Jilad Stylus
+1 Volcanic Spray
+1 Wall of Forgotten Pharaohs
+1 Twisted Fealty
+1 Wrenn's Resolve
+1 Zodiac Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Syr Carah, the Bold
+1 Smelting Vat
+1 Violent Eruption
+1 Violent Impact
+1 Zoetic Cavern
+1 Tyrant of Discord
+1 Mind Stone
+1 Titan's Strength
+1 Search for Survivors
+1 Weatherlight Compleated
+1 Twinferno
+1 Worldgorger Dragon
+1 Volcanic Torrent
+1 Soulfire Eruption
+1 Warped Landscape
+1 Wooded Foothills
+1 Young Red Dragon // Bathe in Gold
+1 Underdark Rift
+1 Whetstone
+1 Underworld Rage-Hound
+1 Urza's Blueprints
+1 Voldaren Epicure
+1 Thunderous Wrath
+1 Wand of Wonder
+1 Wingrattle Scarecrow
+1 Stromkirk Occultist
+{'overall': 5.64047619047619, 'cmc': 3.3870967741935485, 'ramp': 7, 'draw': 12, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'LaeliatheBladeReforged.txt'}

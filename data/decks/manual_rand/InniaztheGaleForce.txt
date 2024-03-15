@@ -1,69 +1,65 @@
 1 Inniaz, the Gale Force
-1 Tezzeret's Strider
-1 Venerated Loxodon
-1 Will Kenrith
-1 Wavecrash Triton
-1 Sun Sentinel
-1 Tandem Tactics
-1 You Hear Something on Watch
-1 Steam Catapult
-1 Woeleecher
-1 Vodalian Illusionist
-1 Steel-Plume Marshal
-1 Ward of Lights
-1 Wanderer's Intervention
-1 Vectis Gloves
-1 Wild Aesthir
-1 Valiant Knight
-1 Yuan-Ti Malison
-1 Vedalken Shackles
-1 Sygg, River Guide
-1 Urza, Planeswalker
-1 Wall of Air
-1 Trap Runner
-1 Warning
-1 War Tax
-1 Yare
-1 Worldslayer
-1 Walking Dream
-1 War Screecher
-1 Path to Exile
-1 Wingfold Pteron
-1 Tah-Crop Elite
-1 Warlord's Elite
-1 Yotian Soldier
-1 Thistledown Liege
-1 War Barge
-1 Zephid's Embrace
-1 Éowyn, Lady of Rohan
-1 Veteran's Powerblade
-1 Zephid
-1 Well of Discovery
-1 The Eternal Wanderer
-1 Zhalfirin Decoy
-1 Wonder
-1 Tolarian Entrancer
+1 Wingshield Agent
+1 You Come to a River
+1 Steadfast Unicorn
+1 Wall of Shields
+1 Tattered Haunter
+1 Zuberi, Golden Feather
+1 Unctus, Grand Metatect
+1 Vedalken Certarch
+1 Wings of Hubris
+1 Stalwart Pathlighter
 1 Veiled Serpent
-1 Water Servant
-1 Wanderlight Spirit
-1 Waterwhirl
-1 Uninvited Geist // Unimpeded Trespasser
-1 Vow of Duty
-1 Veteran Armorsmith
-1 Unconventional Tactics
-1 Teferi, Master of Time
-1 Vortex Elemental
-1 Trench Behemoth
-1 Veteran's Reflexes
-1 Sol Ring
-1 Supreme Verdict
-1 Watcher of the Spheres
-1 Wizards of Thay
-1 Swiftfoot Boots
-1 Wilderness Hypnotist
-1 Triumph of Gerrard
-1 The Stasis Coffin
-1 Wedding Announcement // Wedding Festivity
-1 Warped Researcher
-1 Virtue of Loyalty // Ardenvale Fealty
-{'overall': 2.941304347826087, 'cmc': 3.3823529411764706, 'ramp': '1', 'draw': '7', 'interaction': 7, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'}
+1 Vibrating Sphere
+1 Supernatural Rescue
+1 Trailblazer's Torch
+1 Wall of Swords
+1 Vitality Hunter
+1 Titanium Golem
+1 Wingfold Pteron
+1 Wall of Essence
+1 Wicked Slumber
+1 White Dragon
+1 Zhalfirin Commander
+1 Vedalken Humiliator
+1 Sway of Illusion
+1 Wine of Blood and Iron
+1 Éowyn, Lady of Rohan
+1 You're Ambushed on the Road
+1 Steppe Glider
+1 Urza, Planeswalker
+1 Thousand-Year Elixir
+1 White Sun's Twilight
+1 Umbral Mantle
+1 Time and Tide
+1 Whim of Volrath
+1 Tidewater Minion
+1 Wakestone Gargoyle
+1 Teferi's Honor Guard
+1 Thalakos Scout
+1 Yosei, the Morning Star
+1 Workshop Elders
+1 Swooping Talon
+1 Tenacity
+1 Swell of Courage
+1 Well of Life
+1 Suspicious Bookcase
+1 Trip Noose
+1 The Immortal Sun
+1 Zealot's Conviction
+1 Venser, the Sojourner
+1 _____ _____ Rocketship
+1 Wall of Junk
+1 Wall of One Thousand Cuts
+1 Veteran Armorer
+1 Urza's Engine
+1 Wayward Angel
+1 Wedding Ring
+1 Wooden Stake
+1 Tolarian Entrancer
+1 Time Beetle
+1 Well of Discovery
+1 Voyager Drake
+1 Tezzeret's Strider
+1 Water Wings
+{'overall': 3.081818181818182, 'cmc': 3.4375, 'ramp': 1, 'draw': 8, 'interaction': 5, 'folder': 'manual_rand', 'commander': 'InniaztheGaleForce.txt'}

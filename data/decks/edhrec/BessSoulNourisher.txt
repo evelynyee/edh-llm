@@ -1,0 +1,65 @@
+1 Bess, Soul Nourisher
+1 Command Tower
+1 Champion of Lambholt
+1 Avacyn's Pilgrim
+1 Sol Ring
+1 Llanowar Elves
+1 Canopy Vista
+1 Swords to Plowshares
+1 Scute Swarm
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Wild Beastmaster
+1 Aura Mutation
+1 March of the Multitudes
+1 Arcane Signet
+1 Mentor of the Meek
+1 Torens, Fist of the Angels
+1 Sakura-Tribe Elder
+1 Rabble Rousing
+1 Shamanic Revelation
+1 Beast Within
+1 Toski, Bearer of Secrets
+1 Fortified Village
+1 Mother of Runes
+1 Grand Crescendo
+1 Path to Exile
+1 Castle Ardenvale
+1 Gala Greeters
+1 Cultivate
+1 Swiftfoot Boots
+1 Luminarch Aspirant
+1 Rhys the Redeemed
+1 Sunpetal Grove
+1 Hardened Scales
+1 Temple Garden
+1 Gavony Township
+1 Call the Coppercoats
+1 Halo Fountain
+1 Wood Elves
+1 Managorger Hydra
+1 Oketra's Monument
+1 Esper Sentinel
+1 Sungrass Prairie
+1 Sigil Captain
+1 Wyrm's Crossing Patrol
+1 Animation Module
+1 Overgrown Farmland
+1 Skullclamp
+1 Bountiful Promenade
+1 Cadira, Caller of the Small
+1 Scepter of Celebration
+1 Maja, Bretagard Protector
+1 Generous Gift
+1 Adeline, Resplendent Cathar
+1 Rogue's Passage
+1 Rampant Growth
+1 Cultivator of Blades
+1 Temple of Plenty
+1 Cathars' Crusade
+1 Heroic Intervention
+1 Queen Allenal of Ruadach
+1 Selesnya Sanctuary
+1 Rumor Gatherer
+1 Selfless Savior
+{'overall': 5.515873015873016, 'cmc': 1.96875, 'ramp': 10, 'draw': 7, 'interaction': 5, 'folder': 'edhrec', 'commander': 'BessSoulNourisher.txt'}

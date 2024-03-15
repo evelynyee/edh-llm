@@ -62,5 +62,4 @@
 1 Testament of Faith
 1 Thousand-Year Elixir
 1 Vitalize
-1 Vintara Elephant
-{'overall': 3.175, 'cmc': 3.2, 'ramp': '6', 'draw': '2', 'interaction': 11, 'folder': 'gpt', 'commander': 'LordMagnus.txt'}
+{'overall': 3.180541871921182, 'cmc': 3.171875, 'ramp': 6, 'draw': 2, 'interaction': 11, 'folder': 'gpt', 'commander': 'LordMagnus.txt'}

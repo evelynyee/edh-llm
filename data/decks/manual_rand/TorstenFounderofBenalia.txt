@@ -1,69 +1,65 @@
 1 Torsten, Founder of Benalia
-1 Woodvine Elemental
-1 Wilt
-1 Yotian Dissident
-1 Vine Dryad
+1 Vulpikeet
+1 Vivien's Grizzly
+1 Towashi Guide-Bot
+1 Viral Spawning
+1 _____-o-saurus
+1 Terramorphic Expanse
+1 Whirling Catapult
+1 Three Visits
+1 Voice of Many
+1 Timberland Ancient
+1 Thicket Elemental
+1 Survival of the Fittest
+1 Weatherlight Compleated
+1 Vessel of Nascency
+1 Yavimaya Sojourner
+1 The Restoration of Eiganjo // Architect of Restoration
 1 Virtue of Strength // Garenbrig Growth
-1 War Priest of Thune
-1 Tawnos's Coffin
-1 Stoneforge Mystic
-1 Witches' Eye
-1 Thought Prison
-1 Witness of the Ages
-1 Wedding Announcement // Wedding Festivity
-1 Vivid Revival
-1 Travel Through Caradhras
-1 Wandering Graybeard
-1 Venture Forth
-1 Tallowisp
-1 Tel-Jilad Stylus
-1 Titania's Chosen
-1 Welcome to . . . // Jurassic Park
-1 Wolf-Skull Shaman
-1 Towering Gibbon
-1 Trusty Packbeast
-1 Vorapede
-1 Tragic Poet
+1 Visions of Glory
+1 Zhulodok, Void Gorger
+1 The Deck of Many Things
+1 Vanquisher's Banner
+1 Wolfwillow Haven
+1 War Report
+1 Timesifter
 1 Urza's Sylex
-1 Wilt-Leaf Liege
-1 Visionary Augmenter
-1 Wren's Run Packmaster
-1 Whisperwood Elemental
-1 Territorial Maro
-1 Wandering Champion
-1 The Wedding of River Song
-1 Umbilicus
-1 Winding Way
-1 Woodland Guidance
-1 _____ Bird Gets the Worm
-1 Vastwood Hydra
-1 Winnow
-1 Wanderer's Twig
-1 Sol Ring
-1 Whispergear Sneak
-1 Twilight Shepherd
-1 Webweaver Changeling
-1 Woodland Bellower
-1 Steelshaper's Gift
-1 Trepanation Blade
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Thousand-legged Kami
-1 Wurmskin Forger
-1 Ulvenwald Bear
-1 Wingsteed Rider
-1 Trial of a Time Lord
-1 Vexing Arcanix
-1 Urza's Incubator
-1 Yavimaya Dryad
-1 Verdant Crescendo
-1 Visions
-1 Tapping at the Window
-1 Zendikar's Roil
-1 Storm the Festival
-1 Wirewood Savage
-1 Voracious Hydra
-1 Sylvan Yeti
-1 Wall of Omens
-1 Wildborn Preserver
 1 Weird Harvest
-{'overall': 6.964315352697096, 'cmc': 3.5441176470588234, 'ramp': '7', 'draw': '18', 'interaction': 3, 'folder': 'manual_rand', 'commander': 'TorstenFounderofBenalia.txt'}
+1 Titania, Protector of Argoth
+1 Worldsoul Colossus
+1 Unified Strike
+1 Verdant Eidolon
+1 Terminus
+1 Wildborn Preserver
+1 Wolfcaller's Howl
+1 Vesperlark
+1 Witches' Eye
+1 Wurmcalling
+1 Thran Foundry
+1 Will of the All-Hunter
+1 Traveler's Amulet
+1 Venture Forth
+1 Zhalfirin Void
+1 Woodland Acolyte // Mend the Wilds
+1 Wandering Graybeard
+1 Torii Watchward
+1 Zendikar Resurgent
+1 Void Attendant
+1 Verdant Touch
+1 Welcome to Sweettooth
+1 The Birth of Meletis
+1 Tormod's Crypt
+1 The Ring Goes South
+1 Sylvia Brightspear
+1 World Breaker
+1 Vine Kami
+1 Venser's Journal
+1 Thalia's Lancers
+1 War of the Last Alliance
+1 Visionary Augmenter
+1 Totem-Guide Hartebeest
+1 Titan's Presence
+1 The Stone Brain
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Veteran Explorer
+{'overall': 10.004112554112554, 'cmc': 3.609375, 'ramp': 13, 'draw': 24, 'interaction': 4, 'folder': 'manual_rand', 'commander': 'TorstenFounderofBenalia.txt'}

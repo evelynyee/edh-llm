@@ -1,69 +1,65 @@
 1 The Ever-Changing 'Dane
-1 Wight
+1 Weight of Conscience
+1 Veteran Soldier
+1 Worthy Knight
 1 Thraxodemon
-1 Tezzeret, Betrayer of Flesh
-1 Walking Bulwark
-1 The Flood of Mars
-1 Witness Protection
-1 Zulaport Cutthroat
-1 Without Weakness
-1 The Eternal Wanderer
-1 Wall of Caltrops
-1 Triplicate Titan
-1 Trailblazer's Torch
-1 Vodalian Mage
-1 Unwavering Initiate
-1 Dark Ritual
-1 Traumatic Revelation
-1 Weldfast Wingsmith
-1 Tobias, Doomed Conqueror
-1 Unified Front
-1 Zhao Zilong, Tiger General
-1 Valor of the Worthy
-1 Wing Shards
-1 Unstable Glyphbridge // Sandswirl Wanderglyph
-1 Wall of Junk
-1 Thraben Exorcism
-1 Trap Runner
-1 Wire Surgeons
-1 Teysa, Orzhov Scion
-1 Will-o'-the-Wisp
-1 Twisted Embrace
-1 Warrant // Warden
-1 Traitor's Clutch
-1 Walking Skyscraper
-1 Wei Scout
-1 Tah-Crop Skirmisher
-1 Vile Consumption
-1 Wall of Stolen Identity
-1 Venser, the Sojourner
-1 Transmogrant Altar
-1 Urza's Ruinous Blast
-1 Trickster's Talisman
-1 Wizard's Retort
-1 Wavecrash Triton
-1 Vraan, Executioner Thane
+1 Trail of Evidence
 1 Wall of Kelp
-1 Trueheart Duelist
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 White Sun's Twilight
-1 Weeping Angel
-1 Voldaren Bloodcaster // Bloodbat Summoner
-1 The Torment of Gollum
-1 Threefold Signal
-1 Thraben Inspector
-1 Urgent Exorcism
-1 Trusted Pegasus
-1 Wyrm's Crossing Patrol
-1 Vedalken Certarch
-1 Vortex Elemental
-1 Yoke of the Damned
-1 Demonic Tutor
-1 Veil of Birds
-1 Wicked Reward
-1 Symmetry Sage
-1 Trading Post
-1 Veteran's Sidearm
-1 The Enigma Jewel // Locus of Enlightenment
-1 Virtue of Knowledge // Vantress Visions
-{'overall': 3.3666666666666667, 'cmc': 3.0, 'ramp': '3', 'draw': '6', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'TheEverChangingDane.txt'}
+1 Unnatural Selection
+1 Waterfall Aerialist
+1 Woebearer
+1 Venser, Corpse Puppet
+1 Wavecrash Triton
+1 The Eternal Wanderer
+1 Windborn Muse
+1 Thoughtlace
+1 Wedding Ring
+1 Wei Assassins
+1 Vodalian Mage
+1 Transmogrifying Licid
+1 Urza's Ruinous Blast
+1 Welcoming Vampire
+1 Trap Runner
+1 Zhuge Jin, Wu Strategist
+1 Vodalian Hexcatcher
+1 Toshiro Umezawa
+1 Urza's Miter
+1 Vanguard's Shield
+1 Wintermoor Commander
+1 Wing Commando
+1 Wei Strike Force
+1 Whitewater Naiads
+1 Twisted Embrace
+1 Wave Elemental
+1 Zur, Eternal Schemer
+1 Thopter Architect
+1 Wedding Security
+1 Thopter Shop
+1 Wu Elite Cavalry
+1 White Scarab
+1 Warlord's Axe
+1 Sunder the Gateway
+1 Vesuvan Duplimancy
+1 Touch the Spirit Realm
+1 Zombie Musher
+1 Zhang Fei, Fierce Warrior
+1 Treacherous Blessing
+1 Yawgmoth Demon
+1 Unassuming Sage
+1 Usher of the Fallen
+1 Will-o'-the-Wisp
+1 Vertigo Spawn
+1 Traitor's Clutch
+1 Zombie Master
+1 Undercity Scrounger
+1 Thopter Mechanic
+1 Wake Thrasher
+1 Vampire Envoy
+1 Weaponcraft Enthusiast
+1 Teyo, the Shieldmage
+1 Zenith Seeker
+1 Umara Entangler
+1 Wondrous Crucible
+1 Turn Aside
+1 Warchanter of Mogis
+{'overall': 3.674390243902439, 'cmc': 3.203125, 'ramp': 2, 'draw': 9, 'interaction': 6, 'folder': 'manual_rand', 'commander': 'TheEverChangingDane.txt'}

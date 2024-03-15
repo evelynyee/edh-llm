@@ -1,0 +1,101 @@
+1 Ikra Shidiqi, the Usurper
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Swamp
+1 Forest
+1 Graveblade Marauder
+1 Goblin Lyre
+1 Wing Storm
+1 Grothama, All-Devouring
+1 Emissary of Despair
+1 Hunter's Insight
+1 Ohran Frostfang
+1 Gangrenous Zombies
+1 Molimo, Maro-Sorcerer
+1 Avatar of Might
+1 Rhox Maulers
+1 Carnage Wurm
+1 Vraska the Unseen
+1 Faerie Bladecrafter
+1 Superior Numbers
+1 Tomb Blade
+1 Sword of War and Peace
+1 Drain Life
+1 Rapacious Guest
+1 Combo Attack
+1 Final Punishment
+1 Fell Flagship
+1 Phage the Untouchable
+1 Borrowing the East Wind
+1 Park Heights Maverick
+1 Typhoon
+1 Time to Feed
+1 Rankle, Master of Pranks
+1 Quietus Spike
+1 Soul Burn
+1 Garruk's Uprising
+1 Triangle of War
+1 Corrupt
+1 Larceny
+1 Master of the Wild Hunt
+1 Greatbow Doyen
+1 Jovial Evil
+1 Grim Contest
+1 Sorin's Vengeance
+1 Abattoir Ghoul
+1 Simulacrum
+1 Hooded Blightfang
+1 Gargantuan Gorilla
+1 Iron Mastiff
+1 Curious Altisaur
+1 Ram Through
+1 Raiders' Spoils
+1 Devouring Tendrils
+1 Warriors' Lesson
+1 Seshiro the Anointed
+1 Lothlórien Blade
+1 Demon of Loathing
+1 Delif's Cone
+1 Cosmic Hunger
+1 Hurricane
+1 Master's Rebuke
+1 Bite Down
+1 Lolth, Spider Queen
+1 Squall Line
+1 Ashling, the Extinguisher
+1 Dakmor Plague
+1 Band Together
+1 Surgehacker Mech
+{'overall': 3.8023012552301254, 'cmc': 3.621212121212121, 'ramp': '0', 'draw': '10', 'interaction': 15, 'folder': 'cos_sim', 'commander': 'IkraShidiqitheUsurper.txt'}}

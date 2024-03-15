@@ -1,69 +1,65 @@
 1 Nethroi, Apex of Death
-1 Tendrils of Despair
-1 Trumpeting Herd
-1 Vastwood Surge
-1 Tithing Blade // Consuming Sepulcher
-1 Woodcloaker
-1 You Meet in a Tavern
-1 Wrenn and Realmbreaker
-1 Unlicensed Hearse
-1 Vines of Vastwood
-1 The Moment
-1 Yawgmoth's Vile Offering
-1 Tooth of Chiss-Goria
-1 Torgaar, Famine Incarnate
-1 Wandering Archaic // Explore the Vastlands
-1 Zombie Cannibal
-1 Vraska's Stoneglare
-1 Weathered Bodyguards
-1 Tapping at the Window
-1 Urza's Tome
-1 Vanquish the Weak
-1 Wing Puncture
-1 Waker of the Wilds
-1 Triumphant Surge
-1 Wandering Graybeard
-1 Webspinner Cuff
-1 Teshar, Ancestor's Apostle
-1 Vivien's Arkbow
-1 Timeless Dragon
-1 Zephyrim
-1 Tlincalli Hunter // Retrieve Prey
-1 Their Number Is Legion
-1 Topaz Dragon // Entropic Cloud
-1 War Behemoth
-1 Vraska, Betrayal's Sting
-1 Undercity's Embrace
-1 Warhorn Blast
-1 Vraska's Scorn
-1 The Cauldron of Eternity
-1 The Five Doctors
-1 Witch of the Moors
-1 Technomancer
-1 Urza's Chalice
-1 Wrath of God
+1 Titanic Brawl
 1 Wand of Vertebrae
-1 Vanish into Eternity
-1 Toxic Deluge
-1 Vitalizing Cascade
-1 Urborg Mindsucker
-1 Transcendent Envoy
-1 Mentor of the Meek
+1 Whetwheel
+1 Twinblade Geist // Twinblade Invocation
+1 Towashi Guide-Bot
+1 Wrath of God
+1 Wicked Visitor
 1 Tuinvale Treefolk // Oaken Boon
-1 Wrench Mind
-1 Tlincalli Hunter // Retrieve Prey
-1 Stronghold Arena
-1 Walker of the Grove
-1 Worm Harvest
-1 Zombie Scavengers
+1 Weed Strangle
+1 Woebearer
+1 Tithing Blade // Consuming Sepulcher
+1 Venerated Loxodon
+1 Verdant Touch
+1 Void Beckoner
+1 Vanquish the Horde
+1 Wreath of Geists
+1 Vulshok Battlegear
+1 Takenuma, Abandoned Mire
+1 Viral Spawning
+1 Mind Stone
+1 Tomb Tyrant
 1 Whispers of Emrakul
-1 Visions of Glory
-1 Winding Canyons
-1 Zendikar Resurgent
-1 Surging Might
-1 World-Weary
-1 Thorn of Amethyst
-1 Torment of Venom
-1 Vitality Hunter
-1 Unburial Rites
-{'overall': 6.139051094890512, 'cmc': 4.08955223880597, 'ramp': '7', 'draw': '14', 'interaction': 8, 'folder': 'manual_rand', 'commander': 'NethroiApexofDeath.txt'}
+1 Wildcall
+1 Thwart the Grave
+1 Turn the Earth
+1 Thunderous Debut
+1 Toshiro Umezawa
+1 Voldaren Pariah // Abolisher of Bloodlines
+1 Thought Distortion
+1 Voracious Null
+1 Umori, the Collector
+1 Tizerus Charger
+1 Urza Assembles the Titans
+1 Zombie Assassin
+1 Warhorn Blast
+1 Zephyrim
+1 Titania's Song
+1 Workshop Assistant
+1 Unwilling Ingredient
+1 Underdark Rift
+1 Waste Management
+1 Vanquish the Foul
+1 Venture Forth
+1 Wildborn Preserver
+1 Vulturous Aven
+1 Webweaver Changeling
+1 Verdant Mastery
+1 Vampire's Bite
+1 Tymaret, Chosen from Death
+1 Zoetic Cavern
+1 True Love's Kiss
+1 Wicked Pact
+1 Woe Strider
+1 Zanikev Locust
+1 Temur War Shaman
+1 Vicious Offering
+1 Valiant Changeling
+1 Witch of the Moors
+1 Undertaker
+1 Winds of Abandon
+1 Vessel of Malignity
+1 Up the Beanstalk
+1 Urza's Filter
+{'overall': 4.999356223175966, 'cmc': 3.640625, 'ramp': 3, 'draw': 13, 'interaction': 9, 'folder': 'manual_rand', 'commander': 'NethroiApexofDeath.txt'}

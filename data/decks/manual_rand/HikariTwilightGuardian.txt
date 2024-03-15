@@ -1,69 +1,65 @@
 1 Hikari, Twilight Guardian
-1 Sword of Once and Future
-1 Welcoming Vampire
-1 Volrath's Laboratory
-1 Well of Life
-1 Unbreakable Formation
-1 Voltaic Construct
-1 War Behemoth
-1 Vizier of Deferment
-1 Unexpectedly Absent
-1 Twinblade Geist // Twinblade Invocation
-1 The Night of the Doctor
-1 Urza's Sylex
-1 Spine of Ish Sah
+1 Walking Skyscraper
+1 Wedding Invitation
+1 Tah-Crop Elite
+1 Three Blind Mice
+1 Teshar, Ancestor's Apostle
+1 Triumph of Saint Katherine
+1 Titan's Presence
+1 Scapegoat
+1 Uba Mask
+1 Veil of Assimilation
+1 Triumph of Gerrard
+1 Spectral Steel
 1 Venerated Loxodon
-1 Unified Front
-1 Wedding Announcement // Wedding Festivity
-1 Wandering Archaic // Explore the Vastlands
-1 Stonebinder's Familiar
-1 Yare
-1 Stone of Erech
-1 Vexing Arcanix
-1 Scarab of the Unseen
-1 Stalwart Valkyrie
-1 Whispergear Sneak
-1 Witch's Oven
-1 Sol Ring
-1 War Priest of Thune
-1 Mana Crypt
-1 Sword-Swallowing Seraph
-1 The Biblioplex
-1 Thalia's Geistcaller
-1 Umbilicus
-1 Trade Caravan
-1 Soul Foundry
-1 Soul Partition
-1 Treasure Hunter
-1 Zhulodok, Void Gorger
-1 Whirling Catapult
-1 Steel Dromedary
-1 Visions of Glory
-1 Sorcerer's Broom
-1 Tiller Engine
-1 Vanquish the Horde
-1 Tablet of Epityr
-1 Vanguard of the Rose
-1 Thran Temporal Gateway
-1 Wakening Sun's Avatar
-1 Sudden Disappearance
-1 Wingrattle Scarecrow
-1 Tazeem Raptor
-1 Towashi Guide-Bot
-1 Vorrac Battlehorns
-1 Soaring Hope
+1 Stonerise Spirit
+1 Well of Knowledge
+1 Suspension Field
+1 Vanquisher's Banner
+1 Wispmare
+1 Thopter Architect
+1 Sevinne's Reclamation
+1 The Stone Brain
+1 Thran Quarry
+1 Thought-Knot Seer
+1 Soul Separator
+1 Tangle Wire
 1 Summon the School
-1 Summoner's Egg
-1 The Stasis Coffin
-1 Traxos, Scourge of Kroog
-1 Shepherd of the Cosmos
-1 Vigil for the Lost
-1 Wheel of Torture
-1 Steamclaw
-1 Skyclave Apparition
-1 The Moment
-1 Sunseed Nurturer
-1 Welkin Hawk
-1 Wall of Resurgence
-1 Mind Stone
-{'overall': 4.786206896551724, 'cmc': 3.411764705882353, 'ramp': '5', 'draw': '10', 'interaction': 9, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'}
+1 Chromatic Lantern
+1 Sol Ring
+1 Thoughtweft Trio
+1 Scrollshift
+1 Trial of Solidarity
+1 Tormod's Crypt
+1 Wandering Archaic // Explore the Vastlands
+1 The Wedding of River Song
+1 Ugin, the Ineffable
+1 Ulamog's Despoiler
+1 Second Thoughts
+1 Verge Rangers
+1 The Fall of Lord Konda // Fragment of Konda
+1 Trove Warden
+1 Treasure Keeper
+1 Splicer's Skill
+1 Voltaic Key
+1 Throne Warden
+1 Tunnel of Love
+1 Stoic Farmer
+1 Urza's Bauble
+1 Urza's Saga
+1 Soul-Guide Gryff
+1 Unstable Glyphbridge // Sandswirl Wanderglyph
+1 Spiritual Visit
+1 Ugin's Construct
+1 Wyrm's Crossing Patrol
+1 Swallow Whole
+1 Steadfast Sentinel
+1 Unassuming Sage
+1 Thousand Moons Crackshot
+1 Symmetry Matrix
+1 Troubled Healer
+1 Tethmos High Priest
+1 Workshop Assistant
+1 Wand of Vertebrae
+1 Volatile Fault
+{'overall': 5.813212435233161, 'cmc': 3.015625, 'ramp': 4, 'draw': 15, 'interaction': 8, 'folder': 'manual_rand', 'commander': 'HikariTwilightGuardian.txt'}

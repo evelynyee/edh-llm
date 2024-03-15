@@ -62,7 +62,4 @@
 1 Red Elemental Blast
 1 Wandering Archaic // Explore the Vastlands
 1 Yamabushi's Storm
-1 Warcry Phoenix
-1 Thought-Knot Seer
-1 Thran Spider
-{'overall': 7.994230769230769, 'cmc': 3.1044776119402986, 'ramp': '11', 'draw': '16', 'interaction': 12, 'folder': 'gpt', 'commander': 'IlhargtheRazeBoar.txt'}
+{'overall': 7.749746192893401, 'cmc': 3.078125, 'ramp': 11, 'draw': 15, 'interaction': 12, 'folder': 'gpt', 'commander': 'IlhargtheRazeBoar.txt'}

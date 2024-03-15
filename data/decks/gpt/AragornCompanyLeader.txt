@@ -62,7 +62,4 @@
 1 Vivid Grove
 1 Soulcatcher
 1 Warden of the Inner Sky
-1 Tyrite Sanctum
-1 Vampire's Zeal
-1 Ugin's Nexus
-{'overall': 4.4377192982456135, 'cmc': 3.4029850746268657, 'ramp': '6', 'draw': '7', 'interaction': 12, 'folder': 'gpt', 'commander': 'AragornCompanyLeader.txt'}
+{'overall': 4.4265765765765765, 'cmc': 3.46875, 'ramp': 6, 'draw': 7, 'interaction': 12, 'folder': 'gpt', 'commander': 'AragornCompanyLeader.txt'}
